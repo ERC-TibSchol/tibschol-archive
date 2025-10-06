@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.personauthorofwork/1005/",
+  "label": "bla ma dam pa bsod nams rgyal mtshan (3916) author of dbus mtha'i 'grel pa dbu ma'i snang ba zhes bya ba'i bsdus don (5225)",
+  "content_type_key": "apis_ontology.personauthorofwork",
+  "content_type_name": "person author of work",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3916/",
+    "label": "bla ma dam pa bsod nams rgyal mtshan (3916)",
+    "content_type_key": "apis_ontology.person",
+    "content_type_name": "person"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5225/",
+    "label": "dbus mtha'i 'grel pa dbu ma'i snang ba zhes bya ba'i bsdus don (5225)",
+    "content_type_key": "apis_ontology.work",
+    "content_type_name": "work"
+  }
+}

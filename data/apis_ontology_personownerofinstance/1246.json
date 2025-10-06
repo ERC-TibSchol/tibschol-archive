@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.personownerofinstance/1246/",
+  "label": "ka rma bsod nams (4512) owner of dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam bshad (4510)",
+  "content_type_key": "apis_ontology.personownerofinstance",
+  "content_type_name": "person owner of instance",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4512/",
+    "label": "ka rma bsod nams (4512)",
+    "content_type_key": "apis_ontology.person",
+    "content_type_name": "person"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4510/",
+    "label": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam bshad (4510)",
+    "content_type_key": "apis_ontology.instance",
+    "content_type_name": "instance"
+  }
+}

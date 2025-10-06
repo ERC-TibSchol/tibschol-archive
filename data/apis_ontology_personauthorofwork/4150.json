@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.personauthorofwork/4150/",
+  "label": "lo dgon pa bsod nams lha'i dbang po (6808) author of bka' gdams rin po che'i chos 'byung rnam thar nyin mor byed pa'i 'od stong (6809)",
+  "content_type_key": "apis_ontology.personauthorofwork",
+  "content_type_name": "person author of work",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6808/",
+    "label": "lo dgon pa bsod nams lha'i dbang po (6808)",
+    "content_type_key": "apis_ontology.person",
+    "content_type_name": "person"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6809/",
+    "label": "bka' gdams rin po che'i chos 'byung rnam thar nyin mor byed pa'i 'od stong (6809)",
+    "content_type_key": "apis_ontology.work",
+    "content_type_name": "work"
+  }
+}

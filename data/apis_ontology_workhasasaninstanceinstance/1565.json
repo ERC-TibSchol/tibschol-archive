@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.workhasasaninstanceinstance/1565/",
+  "label": "mdo sde rgyan gyi rnam par bshad pa rgyan gyi me tog (5101) has as an instance mdo sde rgyan gyi rnam par bshad pa rgyan gyi me tog (5100)",
+  "content_type_key": "apis_ontology.workhasasaninstanceinstance",
+  "content_type_name": "work has as an instance instance",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5101/",
+    "label": "mdo sde rgyan gyi rnam par bshad pa rgyan gyi me tog (5101)",
+    "content_type_key": "apis_ontology.work",
+    "content_type_name": "work"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5100/",
+    "label": "mdo sde rgyan gyi rnam par bshad pa rgyan gyi me tog (5100)",
+    "content_type_key": "apis_ontology.instance",
+    "content_type_name": "instance"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.personauthorofwork/750/",
+  "label": "grags pa rgya mtsho bde legs 'byung gnas (4024) author of tshad ma rnam par nges pa'i sbyor 'phreng yid bzhin nor bu (4785)",
+  "content_type_key": "apis_ontology.personauthorofwork",
+  "content_type_name": "person author of work",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4024/",
+    "label": "grags pa rgya mtsho bde legs 'byung gnas (4024)",
+    "content_type_key": "apis_ontology.person",
+    "content_type_name": "person"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4785/",
+    "label": "tshad ma rnam par nges pa'i sbyor 'phreng yid bzhin nor bu (4785)",
+    "content_type_key": "apis_ontology.work",
+    "content_type_name": "work"
+  }
+}

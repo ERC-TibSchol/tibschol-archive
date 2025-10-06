@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.workhasasaninstanceinstance/1560/",
+  "label": "dbus mtha'i chings (5221) has as an instance dbus mtha'i chings (5088)",
+  "content_type_key": "apis_ontology.workhasasaninstanceinstance",
+  "content_type_name": "work has as an instance instance",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5221/",
+    "label": "dbus mtha'i chings (5221)",
+    "content_type_key": "apis_ontology.work",
+    "content_type_name": "work"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5088/",
+    "label": "dbus mtha'i chings (5088)",
+    "content_type_key": "apis_ontology.instance",
+    "content_type_name": "instance"
+  }
+}

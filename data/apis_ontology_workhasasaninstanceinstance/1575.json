@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.workhasasaninstanceinstance/1575/",
+  "label": "bden gnyis stong thun (5121) has as an instance bden gnyis stong thun (5120)",
+  "content_type_key": "apis_ontology.workhasasaninstanceinstance",
+  "content_type_name": "work has as an instance instance",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5121/",
+    "label": "bden gnyis stong thun (5121)",
+    "content_type_key": "apis_ontology.work",
+    "content_type_name": "work"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5120/",
+    "label": "bden gnyis stong thun (5120)",
+    "content_type_key": "apis_ontology.instance",
+    "content_type_name": "instance"
+  }
+}

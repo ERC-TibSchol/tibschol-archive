@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.personstudentofperson/161/",
+  "label": "zhwa dmar pa mkha' spyod dbang po (3901) student of 'jam dbyangs rin chen grags pa (3900)",
+  "content_type_key": "apis_ontology.personstudentofperson",
+  "content_type_name": "person student of person",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3901/",
+    "label": "zhwa dmar pa mkha' spyod dbang po (3901)",
+    "content_type_key": "apis_ontology.person",
+    "content_type_name": "person"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3900/",
+    "label": "'jam dbyangs rin chen grags pa (3900)",
+    "content_type_key": "apis_ontology.person",
+    "content_type_name": "person"
+  }
+}

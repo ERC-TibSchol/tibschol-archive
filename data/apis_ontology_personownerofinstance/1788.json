@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.personownerofinstance/1788/",
+  "label": "kyi ston dpal ldan rdo rje (5354) owner of dge bshes po to ba'i rnam thar (5352)",
+  "content_type_key": "apis_ontology.personownerofinstance",
+  "content_type_name": "person owner of instance",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5354/",
+    "label": "kyi ston dpal ldan rdo rje (5354)",
+    "content_type_key": "apis_ontology.person",
+    "content_type_name": "person"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5352/",
+    "label": "dge bshes po to ba'i rnam thar (5352)",
+    "content_type_key": "apis_ontology.instance",
+    "content_type_name": "instance"
+  }
+}

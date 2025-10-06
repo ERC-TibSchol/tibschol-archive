@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.personownerofinstance/1783/",
+  "label": "dge 'dun bzang po (5098) owner of bstan pa rgyas pa rgyan gyi nyi 'od (2) (4894)",
+  "content_type_key": "apis_ontology.personownerofinstance",
+  "content_type_name": "person owner of instance",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5098/",
+    "label": "dge 'dun bzang po (5098)",
+    "content_type_key": "apis_ontology.person",
+    "content_type_name": "person"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4894/",
+    "label": "bstan pa rgyas pa rgyan gyi nyi 'od (2) (4894)",
+    "content_type_key": "apis_ontology.instance",
+    "content_type_name": "instance"
+  }
+}

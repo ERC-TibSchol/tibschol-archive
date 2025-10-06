@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.personstudentofperson/99/",
+  "label": "dan bag pa smra ba'i seng ge (3840) student of phywa pa chos kyi seng ge (3831)",
+  "content_type_key": "apis_ontology.personstudentofperson",
+  "content_type_name": "person student of person",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3840/",
+    "label": "dan bag pa smra ba'i seng ge (3840)",
+    "content_type_key": "apis_ontology.person",
+    "content_type_name": "person"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+    "label": "phywa pa chos kyi seng ge (3831)",
+    "content_type_key": "apis_ontology.person",
+    "content_type_name": "person"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.placelocatedwithinplace/2024/",
+  "label": "mchims phu (5645) located within bsam yas (4335)",
+  "content_type_key": "apis_ontology.placelocatedwithinplace",
+  "content_type_name": "place located within place",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5645/",
+    "label": "mchims phu (5645)",
+    "content_type_key": "apis_ontology.place",
+    "content_type_name": "place"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4335/",
+    "label": "bsam yas (4335)",
+    "content_type_key": "apis_ontology.place",
+    "content_type_name": "place"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.personownerofinstance/1769/",
+  "label": "tshad ma rab bsal (4789) owner of tshad ma rnam nges kyi 'grel pa (4786)",
+  "content_type_key": "apis_ontology.personownerofinstance",
+  "content_type_name": "person owner of instance",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4789/",
+    "label": "tshad ma rab bsal (4789)",
+    "content_type_key": "apis_ontology.person",
+    "content_type_name": "person"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4786/",
+    "label": "tshad ma rnam nges kyi 'grel pa (4786)",
+    "content_type_key": "apis_ontology.instance",
+    "content_type_name": "instance"
+  }
+}

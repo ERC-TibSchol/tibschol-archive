@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.personauthorofwork/850/",
+  "label": "rigs pa'i ral gri (4006) author of 'phags pa 'jam dpal gyi mtshan yang dag par brjod pa rgyan gyi me tog (4972)",
+  "content_type_key": "apis_ontology.personauthorofwork",
+  "content_type_name": "person author of work",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+    "label": "rigs pa'i ral gri (4006)",
+    "content_type_key": "apis_ontology.person",
+    "content_type_name": "person"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4972/",
+    "label": "'phags pa 'jam dpal gyi mtshan yang dag par brjod pa rgyan gyi me tog (4972)",
+    "content_type_key": "apis_ontology.work",
+    "content_type_name": "work"
+  }
+}

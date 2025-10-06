@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.workhasasaninstanceinstance/5642/",
+  "label": "dbus mtha'i 'grel pa dbu ma'i snang ba zhes bya ba'i bsdus don (5225) has as an instance dbus mtha'i bsdus don (7300)",
+  "content_type_key": "apis_ontology.workhasasaninstanceinstance",
+  "content_type_name": "work has as an instance instance",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5225/",
+    "label": "dbus mtha'i 'grel pa dbu ma'i snang ba zhes bya ba'i bsdus don (5225)",
+    "content_type_key": "apis_ontology.work",
+    "content_type_name": "work"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7300/",
+    "label": "dbus mtha'i bsdus don (7300)",
+    "content_type_key": "apis_ontology.instance",
+    "content_type_name": "instance"
+  }
+}

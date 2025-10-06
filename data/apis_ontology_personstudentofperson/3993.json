@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.personstudentofperson/3993/",
+  "label": "rtsegs dbang phyug seng ge (4289) student of 'bri gung skyob pa 'jig rten gsum mgon (4000)",
+  "content_type_key": "apis_ontology.personstudentofperson",
+  "content_type_name": "person student of person",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
+    "label": "rtsegs dbang phyug seng ge (4289)",
+    "content_type_key": "apis_ontology.person",
+    "content_type_name": "person"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4000/",
+    "label": "'bri gung skyob pa 'jig rten gsum mgon (4000)",
+    "content_type_key": "apis_ontology.person",
+    "content_type_name": "person"
+  }
+}

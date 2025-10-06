@@ -1,0 +1,18 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.personownerofinstance/1995/",
+  "label": "suNya (5891) owner of byang chub sems dpa'i spyod pa la 'jug pa'i tshig don zhib du rnam par 'byed pa dga' ba rgya mtsho (5864)",
+  "content_type_key": "apis_ontology.personownerofinstance",
+  "content_type_name": "person owner of instance",
+  "subj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5891/",
+    "label": "suNya (5891)",
+    "content_type_key": "apis_ontology.person",
+    "content_type_name": "person"
+  },
+  "obj": {
+    "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5864/",
+    "label": "byang chub sems dpa'i spyod pa la 'jug pa'i tshig don zhib du rnam par 'byed pa dga' ba rgya mtsho (5864)",
+    "content_type_key": "apis_ontology.instance",
+    "content_type_name": "instance"
+  }
+}
