@@ -6,12 +6,11 @@ OUTPUT_FILE = Path("data-index.json")
 
 
 def build_data_index():
-    data_index = {}
-    for subdir in DATA_DIR.iterdir():
-        if subdir.is_dir():
-            files = [f.name for f in subdir.iterdir() if f.is_file()]
-            data_index[subdir.name] = files
-    return data_index
+    return {
+        subdir.name: sorted(f.name for f in subdir.iterdir() if f.is_file())
+        for subdir in sorted(DATA_DIR.iterdir(), key=lambda d: d.name)
+        if subdir.is_dir()
+    }
 
 
 if __name__ == "__main__":
