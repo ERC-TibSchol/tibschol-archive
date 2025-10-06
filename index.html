@@ -1,0 +1,251 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>TibSchol Archive</title>
+  <style>
+    /* Layout */
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: grid;
+      grid-template-rows: 60px 1fr 40px;
+      grid-template-columns: 450px 1fr;
+      grid-template-areas:
+        "header header"
+        "sidebar main"
+        "footer footer";
+      height: 100vh;
+    }
+
+    header {
+      grid-area: header;
+      background-color: #2c3e50;
+      color: white;
+      display: flex;
+      align-items: center;
+      padding: 0 20px;
+      font-size: 1.2em;
+      font-weight: bold;
+    }
+   header a {
+       text-decoration: none;
+       color: inherit;
+   }
+
+    footer {
+      grid-area: footer;
+      background-color: #ecf0f1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.9em;
+      color: #555;
+    }
+
+    nav {
+      grid-area: sidebar;
+      background-color: #f4f4f4;
+      border-right: 1px solid #ddd;
+      padding: 20px;
+      overflow-y: auto;
+    }
+
+    main {
+      grid-area: main;
+      padding: 20px;
+      overflow: auto;
+    }
+
+    ul#file-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    li {
+      margin: 8px 0;
+    }
+
+    a {
+      text-decoration: none;
+      color: #2c3e50;
+      font-weight: 500;
+    }
+
+    a:hover {
+      color: #2980b9;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      margin-top: 20px;
+    }
+
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #3498db;
+      color: white;
+    }
+
+    pre {
+      background-color: #f0f0f0;
+      padding: 10px;
+      border-radius: 5px;
+      overflow: auto;
+    }
+  </style>
+</head>
+<body>
+    <header><a href="/">TibSchol Archive</a></header>
+
+<nav>
+    <input type="text" id="file-filter" placeholder="Filter files..."
+        style="width: 100%; padding: 0.5em; margin-bottom: 0.5em;">
+
+    <ul id="file-list"></ul>
+  </nav>
+
+  <main>
+    <div id="viewer">Click on a filename to view its contents</div>
+    </main>
+
+    <footer>Archived from&nbsp;<a href="https://tibschol.acdh-ch-dev.oeaw.ac.at/" target="_blank">TibSchol</a>.</footer>
+
+  <script>
+    async function loadFileList() {
+        const res = await fetch("data-index.json");
+        const data = await res.json();
+        const list = document.getElementById("file-list");
+        const filterInput = document.getElementById("file-filter");
+
+        // Flatten data into an array of {category, file} for easier searching
+        const allItems = [];
+        Object.entries(data).forEach(([category, files]) => {
+            files.forEach(file => allItems.push({ category, file }));
+        });
+
+        function renderList(filteredItems) {
+            list.innerHTML = "";
+            let currentCategory = null;
+            filteredItems.forEach(item => {
+                if (item.category !== currentCategory) {
+                    const li = document.createElement("li");
+                    li.textContent = item.category;
+                    const subUl = document.createElement("ul");
+                    li.appendChild(subUl);
+                    list.appendChild(li);
+                    currentCategory = item.category;
+                }
+                const li = document.createElement("li");
+                const a = document.createElement("a");
+                a.href = `#${item.category}/${item.file}`;
+                a.textContent = item.file;
+                a.onclick = async (e) => {
+                    e.preventDefault();
+                    window.location.hash = `${item.category}/${item.file}`;
+                    await loadAndRender(item.category, item.file);
+                };
+                li.appendChild(a);
+                list.querySelector("li:last-child ul").appendChild(li);
+            });
+        }
+
+        // Initially render all
+        renderList(allItems);
+
+        // Filter on input
+        filterInput.addEventListener("input", () => {
+            const query = filterInput.value.toLowerCase();
+            const filtered = allItems.filter(item =>
+                item.file.toLowerCase().includes(query) ||
+                item.category.toLowerCase().includes(query)
+            );
+            renderList(filtered);
+        });
+
+        // Handle hash navigation
+        if (window.location.hash) {
+            const [category, file] = window.location.hash.slice(1).split("/");
+            if (data[category]?.includes(file)) {
+                await loadAndRender(category, file);
+            }
+        }
+        window.addEventListener("hashchange", async () => {
+            const [category, file] = window.location.hash.slice(1).split("/");
+            if (data[category]?.includes(file)) {
+                await loadAndRender(category, file);
+            }
+        });
+    }
+
+    async function loadAndRender(category, file) {
+        const res = await fetch(`data/${category}/${file}`);
+        const json = await res.json();
+        renderTable(`${category}/${file}`, json);
+    }
+    function toList(obj) {
+        // Helper to detect URLs
+        function isUrl(str) {
+            return typeof str === "string" && (str.startsWith("http://") || str.startsWith("https://"));
+        }
+
+        if (Array.isArray(obj)) {
+            return `<ul>${obj.map(item => `<li>${toList(item)}</li>`).join('')}</ul>`;
+        } else if (obj && typeof obj === 'object') {
+            return `<ul>${Object.entries(obj)
+                .filter(([_, val]) => val !== null && val !== "" &&
+                    (!(Array.isArray(val)) || val.length > 0) &&
+                    (!(typeof val === "object" && Object.keys(val).length === 0)))
+                .map(([key, val]) => {
+                    const child = toList(val);
+                    return child ? `<li>${key}: ${child}</li>` : '';
+                })
+                .join('')}</ul>`;
+        } else {
+            if (isUrl(obj)) {
+                return `<a href="${obj}" target="_blank" rel="noopener noreferrer">${obj}</a>`;
+            }
+            return obj ? String(obj) : '';
+        }
+    }
+    function renderTable(filepath, json) {
+        const viewer = document.getElementById("viewer");
+            const githubLink = `
+    <a href="https://github.com/gythaogg/tibschol-archive/blob/main/data/${filepath}" target="_blank" style="text-decoration:none;">
+      <svg height="24" width="24" viewBox="0 0 16 16" fill="currentColor" aria-hidden="true">
+        <path fill-rule="evenodd"
+          d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53
+          5.47 7.59.4.07.55-.17.55-.38
+          0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52
+          -.01-.53.63-.01 1.08.58 1.23.82.72 1.21
+          1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2
+          -3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08
+          -.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.59
+          7.59 0 012.01-.27c.68 0 1.36.09 2.01.27 1.53
+          -1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08
+          2.12.51.56.82 1.27.82 2.15 0 3.07-1.87
+          3.75-3.65 3.95.29.25.54.73.54 1.48
+          0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55
+          .38A8.013 8.013 0 0016 8c0-4.42-3.58
+          -8-8-8z"></path>
+      </svg>
+      View on GitHub
+    </a>
+  `;
+
+            viewer.innerHTML = githubLink + toList(json);
+
+            //viewer.innerHTML = toList(json);
+        }
+
+        loadFileList();
+  </script>
+</body>
+
+</html>
