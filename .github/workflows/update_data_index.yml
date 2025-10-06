@@ -1,0 +1,43 @@
+name: Update Data index
+
+on:
+  push:
+    paths:
+      - 'data/**'
+  workflow_dispatch:  # allows manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  build-data-index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        run: pip install uv
+
+      - name: Install dependencies from pyproject.toml
+        run: uv pip install --system .
+
+      - name: Update data index
+        run: python scripts/generate_data_index.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data-index.json
+          if ! git diff --cached --quiet; then
+            DATE_TIME=$(date -u +"%Y-%m-%d %H:%M UTC")
+            git commit -m "index: updated at $DATE_TIME"
+            git push
+          else
+            echo "No changes to commit."
+          fi
