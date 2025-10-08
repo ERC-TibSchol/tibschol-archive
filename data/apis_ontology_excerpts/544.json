@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/544/",
   "xml_id": "ex50152023-09-1108-00-56",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex50152023-09-1108-00-56\" ana=\"corpusmd:colophon\" status=\"reviewed\"><rs type=\"place\" ana=\"corpusmd:named_reference\" ref=\"db:4411\">daM pas bsngags pa snar thang gyi dben gnas</rs> <abbr>su</abbr><rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:4006\">chos kyi rgyal mtshan</rs> gyis <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:4052\">bla ma</rs>'i phyag <lb n=\"3b7\"/>dpe <choice><corr>las</corr><sic>la</sic></choice> bris pa'o || zhus <abbr>dag go</abbr>|| </seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex50152023-09-1108-00-56\" ana=\"corpusmd:colophon\" status=\"finalized\" part=\"F\"><milestone unit=\"section\" n=\"Post-colophon annotations (3b6-3b7), in smaller script\"/>\n      <rs type=\"place\" ana=\"corpusmd:named_reference\" ref=\"db:4411\">daM pas bsngags pa snar thang gyi dben gnas</rs> <abbr>su</abbr> <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:4006\">chos kyi rgyal mtshan</rs> gyis <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:4052\">bla ma</rs>'i phyag <lb n=\"3b7\"/> dpe <choice><corr>las</corr><sic>la</sic></choice> bris pa'o || zhus <abbr>dag go</abbr> || </seg></TEI>",
   "source": "2_050_15_I_R_M_skyo ston_mdo sde rgyan gyi khrid.xml",
   "tibschol_refs": "2_050_15",
   "zotero_refs": "",
-  "status": "reviewed",
+  "status": "finalized",
   "location": "3b6 - 3b7"
 }
