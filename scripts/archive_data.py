@@ -16,6 +16,15 @@ API_PASS = os.getenv("TIBSCHOL_API_PASSWORD", "")
 
 API_BASE_URL = "https://tibschol.acdh-ch-dev.oeaw.ac.at/"
 
+SELECTED_ENDPOINTS = {
+    "apis/api/apis_ontology.place": "http://127.0.0.1:8000/apis/api/apis_ontology.place/",
+    "apis/api/apis_ontology.zoteroentry": "http://127.0.0.1:8000/apis/api/apis_ontology.zoteroentry/",
+    "apis/api/apis_ontology.person": "http://127.0.0.1:8000/apis/api/apis_ontology.person/",
+    "apis/api/apis_ontology.work": "http://127.0.0.1:8000/apis/api/apis_ontology.work/",
+    "apis/api/apis_ontology.instance": "http://127.0.0.1:8000/apis/api/apis_ontology.instance/",
+    "apis/api/apis_ontology.excerpts": "http://127.0.0.1:8000/apis/api/apis_ontology.excerpts/",
+    "apis/api/apis_ontology.subject": "http://127.0.0.1:8000/apis/api/apis_ontology.subject/",
+}
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
@@ -78,7 +87,7 @@ if __name__ == "__main__":
     logging.info("Fetching data from %s …", API_BASE_URL)
     # Fetch collections
     API_ROOT = "apis/api/"
-    endpoints = fetch_data(API_ROOT)
+    endpoints = SELECTED_ENDPOINTS  # fetch_data(API_ROOT)
     if endpoints is None:
         logging.error("Failed to fetch API endpoints from %s", API_ROOT)
         exit(1)

@@ -28,6 +28,9 @@ jobs:
     - name: Install dependencies from pyproject.toml
       run: uv pip install --system .
 
+    - name: Clean data folder
+      run: rm -rf data/*
+
     - name: Fetch and save data
       env:
         TIBSCHOL_API_USERNAME: ${{ secrets.TIBSCHOL_API_USERNAME }}
