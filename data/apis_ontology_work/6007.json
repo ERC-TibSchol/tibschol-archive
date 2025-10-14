@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6007/",
+  "relations": [
+    {
+      "id": 2295,
+      "label": "tshad ma rnam nges kyi rnam bshad theg gsum lam du bgrod pa rgyal ba'i dgongs pa rab gsal (6007) commentary on pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6007/",
+        "label": "tshad ma rnam nges kyi rnam bshad theg gsum lam du bgrod pa rgyal ba'i dgongs pa rab gsal (6007)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4895,
+      "label": "tshad ma rnam nges kyi rnam bshad theg gsum lam du bgrod pa rgyal ba'i dgongs pa rab gsal (6007) composed at 'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6007/",
+        "label": "tshad ma rnam nges kyi rnam bshad theg gsum lam du bgrod pa rgyal ba'i dgongs pa rab gsal (6007)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7063/",
+        "label": "'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[H9MPLMTV]: 21. According to Leonard van der Kuijp, the work was \"begun  in Dga'-ldan monastery and completed in Mgul-dge-'phel of Dmu-la sham-'bar, the residence of his supporter Gnyer-chen Dbon-po Kun-dga' rdo-rje. The terminus a quo for its composition would therefore be 1409.\"",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2294,
+      "label": "rgyal tshab dar ma rin chen (6006) author of tshad ma rnam nges kyi rnam bshad theg gsum lam du bgrod pa rgyal ba'i dgongs pa rab gsal (6007)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6006/",
+        "label": "rgyal tshab dar ma rin chen (6006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6007/",
+        "label": "tshad ma rnam nges kyi rnam bshad theg gsum lam du bgrod pa rgyal ba'i dgongs pa rab gsal (6007)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BKUHJCNA]: 724 (legs par bshad pa'i bstan bcos kyang mang du mdzad de...tshad ma rnam par nges pa'i TIkka che chung gnyis).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": "1374-01-01",
   "start_date_sort": "1374-01-01",

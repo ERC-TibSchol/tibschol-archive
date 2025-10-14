@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7383/",
+  "relations": [
+    {
+      "id": 5804,
+      "label": "gnas drug pa blo gros mtshungs med (4094) scribe of smon pa byang chub mchog tu sems bskyed pa theg chen lam gyi snying po (7383)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4094/",
+        "label": "gnas drug pa blo gros mtshungs med (4094)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7383/",
+        "label": "smon pa byang chub mchog tu sems bskyed pa theg chen lam gyi snying po (7383)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 323.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5803,
+      "label": "smon pa byang chub mchog tu sems bskyed pa theg chen lam gyi snying po (7382) has as an instance smon pa byang chub mchog tu sems bskyed pa theg chen lam gyi snying po (7383)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7382/",
+        "label": "smon pa byang chub mchog tu sems bskyed pa theg chen lam gyi snying po (7382)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7383/",
+        "label": "smon pa byang chub mchog tu sems bskyed pa theg chen lam gyi snying po (7383)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

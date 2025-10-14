@@ -1,5 +1,36 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7459/",
+  "relations": [
+    {
+      "id": 4387,
+      "label": "spyil phu pa chos kyi rgyal mtshan (3859) active at 'chad kha gsar ma (7459)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7459/",
+        "label": "'chad kha gsar ma (7459)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": "1164-12-31",
+      "start_date_from": "1164-01-01",
+      "start_date_sort": "1164-07-01",
+      "zotero_refs": "[R894SIKE]: 337 ('chad kha ba la lo mang du bsten nas | shing spre la 'chad kha gsar ma btab | spyil bur yang dgon pa mdzad |). Founded the \"new 'Chad kha\" in 1164.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1164",
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "start_date_to": "1164-12-31",
   "start_date_from": "1164-01-01",
   "start_date_sort": "1164-07-01",

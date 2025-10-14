@@ -1,5 +1,119 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4835/",
+  "relations": [
+    {
+      "id": 1450,
+      "label": "gzhi lam 'bras gsum gyi rnam gzhag smon lam (4835) has as an instance gzhi lam 'bras gsum gyi rnam gzhag (4834)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4835/",
+        "label": "gzhi lam 'bras gsum gyi rnam gzhag smon lam (4835)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4834/",
+        "label": "gzhi lam 'bras gsum gyi rnam gzhag (4834)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1977,
+      "label": "gzhi lam 'bras gsum gyi rnam gzhag smon lam (4835) commentary on abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4835/",
+        "label": "gzhi lam 'bras gsum gyi rnam gzhag smon lam (4835)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3711/",
+        "label": "abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1857,
+      "label": "gzhi lam 'bras gsum gyi rnam gzhag smon lam (4835) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4835/",
+        "label": "gzhi lam 'bras gsum gyi rnam gzhag smon lam (4835)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50022023-09-125",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 781,
+      "label": "skyo ston smon lam tshul khrims (4052) author of gzhi lam 'bras gsum gyi rnam gzhag smon lam (4835)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4052/",
+        "label": "skyo ston smon lam tshul khrims (4052)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4835/",
+        "label": "gzhi lam 'bras gsum gyi rnam gzhag smon lam (4835)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50022023-10-131\r\nex50022023-09-125",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1299-12-31",
   "start_date_from": "1229-01-01",
   "start_date_sort": "1264-07-01",

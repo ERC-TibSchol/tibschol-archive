@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7301/",
+  "relations": [
+    {
+      "id": 5643,
+      "label": "bla ma lnga bcu pa'i lo rgyus (5262) has as an instance bla ma lnga bcu pa'i lo rgyus (2) (7301)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5262/",
+        "label": "bla ma lnga bcu pa'i lo rgyus (5262)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7301/",
+        "label": "bla ma lnga bcu pa'i lo rgyus (2) (7301)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

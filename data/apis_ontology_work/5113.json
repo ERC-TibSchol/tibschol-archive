@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5113/",
+  "relations": [
+    {
+      "id": 1571,
+      "label": "gtan tshigs rig pa tshad ma'i bstan bcos kyi byung tshul (5113) has as an instance gtan tshigs rig pa tshad ma'i bstan bcos kyi byung tshul (5112)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5113/",
+        "label": "gtan tshigs rig pa tshad ma'i bstan bcos kyi byung tshul (5113)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5112/",
+        "label": "gtan tshigs rig pa tshad ma'i bstan bcos kyi byung tshul (5112)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 926,
+      "label": "rigs pa'i ral gri (4006) author of gtan tshigs rig pa tshad ma'i bstan bcos kyi byung tshul (5113)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5113/",
+        "label": "gtan tshigs rig pa tshad ma'i bstan bcos kyi byung tshul (5113)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex62052024-09-2416-39-21",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1305-12-31",
   "start_date_from": "1237-01-01",
   "start_date_sort": "1271-07-02",

@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6690/",
+  "relations": [
+    {
+      "id": 3790,
+      "label": "tho yon ye shes don grub bstan pa'i rgyal mtshan (6690) author of mdo sde rgyan gyi don bsdus las btus pa (6259)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6690/",
+        "label": "tho yon ye shes don grub bstan pa'i rgyal mtshan (6690)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6259/",
+        "label": "mdo sde rgyan gyi don bsdus las btus pa (6259)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
   "end_date_to": "1855-12-31",
   "end_date_from": "1855-01-01",
   "end_date_sort": "1855-07-02",

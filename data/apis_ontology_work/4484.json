@@ -1,5 +1,175 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4484/",
+  "relations": [
+    {
+      "id": 563,
+      "label": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa (4484) commentary on madhyamak\u0101la\u1e43k\u0101rav\u1e5btti (3733)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4484/",
+        "label": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa (4484)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3733/",
+        "label": "madhyamak\u0101la\u1e43k\u0101rav\u1e5btti (3733)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1285,
+      "label": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa (4484) has as an instance dbu ma rgyan gyi 'grel pa rgya cher bshad pa (1) (4483)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4484/",
+        "label": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa (4484)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4483/",
+        "label": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa (1) (4483)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2498,
+      "label": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa (4484) has as an instance dbu ma rgyan gyi 'grel pa rgya cher bshad pa (4) (6143)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4484/",
+        "label": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa (4484)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6143/",
+        "label": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa (4) (6143)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2495,
+      "label": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa (4484) has as an instance dbu ma rgyan gyi 'grel pa rgya cher bshad pa (3) (6142)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4484/",
+        "label": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa (4484)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6142/",
+        "label": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa (3) (6142)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2494,
+      "label": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa (4484) has as an instance dbu ma rgyan gyi 'grel pa rgya cher bshad pa (2) (6141)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4484/",
+        "label": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa (4484)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6141/",
+        "label": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa (2) (6141)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 562,
+      "label": "phywa pa chos kyi seng ge (3831) author of dbu ma rgyan gyi 'grel pa rgya cher bshad pa (4484)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4484/",
+        "label": "dbu ma rgyan gyi 'grel pa rgya cher bshad pa (4484)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No. 15725: phya pa chos kyi seng ge",
+      "tei_refs": "ex60520240828_1",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1169-12-31",
   "start_date_from": "1119-01-01",
   "start_date_sort": "1144-07-01",

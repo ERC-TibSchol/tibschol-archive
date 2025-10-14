@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6963/",
+  "relations": [
+    {
+      "id": 4934,
+      "label": "bsdud pa tshigs su bcad pa'i bshad sbyar (1) (6963) written at rgyan dkar phug (5656)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6963/",
+        "label": "bsdud pa tshigs su bcad pa'i bshad sbyar (1) (6963)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5656/",
+        "label": "rgyan dkar phug (5656)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex22032023-09-181",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4935,
+      "label": "bsdud pa tshigs su bcad pa'i bshad sbyar (2) (4632) has source bsdud pa tshigs su bcad pa'i bshad sbyar (1) (6963)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4632/",
+        "label": "bsdud pa tshigs su bcad pa'i bshad sbyar (2) (4632)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6963/",
+        "label": "bsdud pa tshigs su bcad pa'i bshad sbyar (1) (6963)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4933,
+      "label": "bsdud pa tshigs su bcad pa'i bshad sbyar (4633) has as an instance bsdud pa tshigs su bcad pa'i bshad sbyar (1) (6963)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4633/",
+        "label": "bsdud pa tshigs su bcad pa'i bshad sbyar (4633)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6963/",
+        "label": "bsdud pa tshigs su bcad pa'i bshad sbyar (1) (6963)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

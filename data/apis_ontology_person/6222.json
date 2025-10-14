@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6222/",
+  "relations": [
+    {
+      "id": 2669,
+      "label": "bsod nams rgya mtsho (3) (6222) author of dbu ma bden gnyis kyi bshad pa (6223)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6222/",
+        "label": "bsod nams rgya mtsho (3) (6222)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6223/",
+        "label": "dbu ma bden gnyis kyi bshad pa (6223)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,

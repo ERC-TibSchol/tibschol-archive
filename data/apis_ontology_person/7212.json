@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7212/",
+  "relations": [
+    {
+      "id": 5384,
+      "label": "byang chub rgyal mtshan (7212) sibling of dpyal padmo can (7210)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7212/",
+        "label": "byang chub rgyal mtshan (7212)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7210/",
+        "label": "dpyal padmo can (7210)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 547. Byang chub rgyal mtshan (ID:7212) was the middle brother of Padmo can (ID:7210).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5386,
+      "label": "chos kyi blo gros (7213) sibling of byang chub rgyal mtshan (7212)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7213/",
+        "label": "chos kyi blo gros (7213)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7212/",
+        "label": "byang chub rgyal mtshan (7212)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 547. Chos kyi blo gros (ID:7213) was the younger brother and Byang chub rgyal mtshan (ID:7212) the middle brother of Padmo can (ID:7210).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,

@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7358/",
+  "relations": [
+    {
+      "id": 5724,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa (5147) has as an instance spyod 'jug Ti ka (7358)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5147/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa (5147)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7358/",
+        "label": "spyod 'jug Ti ka (7358)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[HMSTSJ7Q]: 480, No. 440 (zha lu dgon gyi dpe rnying dkar chag):  1; spyod 'jug Ti ka bzhugs; shAkya'i dge slong byang chub skyabs kyis.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

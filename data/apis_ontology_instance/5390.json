@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5390/",
+  "relations": [
+    {
+      "id": 1699,
+      "label": "bstan pa la 'jug pa'i rim pa dpe chos rin chen spungs pa'i gtam rgyud (5391) has as an instance bstan pa la 'jug pa'i rim pa dpe chos rin chen spungs pa'i gtam rgyud (5390)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5391/",
+        "label": "bstan pa la 'jug pa'i rim pa dpe chos rin chen spungs pa'i gtam rgyud (5391)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5390/",
+        "label": "bstan pa la 'jug pa'i rim pa dpe chos rin chen spungs pa'i gtam rgyud (5390)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

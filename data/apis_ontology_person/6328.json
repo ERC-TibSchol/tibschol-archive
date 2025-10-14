@@ -1,5 +1,36 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6328/",
+  "relations": [
+    {
+      "id": 2902,
+      "label": "byams gling 'jam dbangs dkon mchog chos 'phel (6328) active at gsang phu gling smad (6158)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6328/",
+        "label": "byams gling 'jam dbangs dkon mchog chos 'phel (6328)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6158/",
+        "label": "gsang phu gling smad (6158)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MPRU5QUC]: 210. Abbot of gSang phu ne'u thog monastery (43rd abbot of the lower college).\r\n[CCSBSVCA]: 688, n. 18. Conducted repair work at gSang phu in 1629.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1593 before 1619",
+      "end": "after 1593 before 1619",
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "end_date_to": "1644-12-31",
   "end_date_from": "1644-01-01",
   "end_date_sort": "1644-07-01",

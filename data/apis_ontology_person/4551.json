@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4551/",
+  "relations": [
+    {
+      "id": 1764,
+      "label": "ku ma ra shrI (4551) owner of tshad ma rnam par nges pa'i ti ka legs par bshad pa bsdus pa (4549)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4551/",
+        "label": "ku ma ra shrI (4551)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4549/",
+        "label": "tshad ma rnam par nges pa'i ti ka legs par bshad pa bsdus pa (4549)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex1301_20072023-06-281",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,

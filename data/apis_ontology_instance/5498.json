@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5498/",
+  "relations": [
+    {
+      "id": 1748,
+      "label": "dam pa'i chos mdzod kyi dka' ba'i gnas kyi zin bris mkhas pa'i yid 'phrog (5499) has as an instance dam pa'i chos mdzod kyi dka' ba'i gnas kyi zin bris mkhas pa'i yid 'phrog (5498)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5499/",
+        "label": "dam pa'i chos mdzod kyi dka' ba'i gnas kyi zin bris mkhas pa'i yid 'phrog (5499)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5498/",
+        "label": "dam pa'i chos mdzod kyi dka' ba'i gnas kyi zin bris mkhas pa'i yid 'phrog (5498)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5136/",
+  "relations": [
+    {
+      "id": 1583,
+      "label": "dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (5137) has as an instance dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (5136)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5137/",
+        "label": "dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (5137)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5136/",
+        "label": "dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (5136)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1975-12-31",
   "start_date_from": "1975-01-01",
   "start_date_sort": "1975-07-02",

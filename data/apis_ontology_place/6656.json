@@ -1,5 +1,155 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6656/",
+  "relations": [
+    {
+      "id": 3658,
+      "label": "g.yu rtse 'byid phu (6656) located within grom pa (6657)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6656/",
+        "label": "g.yu rtse 'byid phu (6656)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6657/",
+        "label": "grom pa (6657)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5523,
+      "label": "ny\u0101yabindu\u1e6d\u012bk\u0101 (3779) taught at g.yu rtse 'byid phu (6656)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3779/",
+        "label": "ny\u0101yabindu\u1e6d\u012bk\u0101 (3779)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6656/",
+        "label": "g.yu rtse 'byid phu (6656)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a3) (de nas yang grom pa g.yu rtse 'byid phur dge bshes me'i lhang tsher zhes bya ba las tshad ma rnam par nges pa dang | rig thigs kyi rgya cher 'grel pa bam po bco lnga pa dang | dbu ma rang rgyud shar gsum du grags pa dang bcas pa gsan cing khong du chud par mdzad pa yin no ||).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3660,
+      "label": "me'i lhang tshe (6655) active at g.yu rtse 'byid phu (6656)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6655/",
+        "label": "me'i lhang tshe (6655)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6656/",
+        "label": "g.yu rtse 'byid phu (6656)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a3) (de nas yang grom pa g.yu rtse 'byid phur dge bshes me'i lhang tsher zhes bya ba las tshad ma rnam par nges pa dang | rig thigs kyi rgya cher 'grel pa bam po bco lnga pa dang | dbu ma rang rgyud shar gsum du grags pa dang bcas pa gsan cing khong du chud par mdzad pa yin no ||). Taught Sa chen (ID:4205) in Grom pa g.Yu rtse 'byid phur.\r\n[FEHIEFEB]: 157. Taught epistemology to Sa chen (ID:4205).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        13
+      ]
+    },
+    {
+      "id": 5522,
+      "label": "pram\u0101\u1e47avini\u015bcaya (3774) taught at g.yu rtse 'byid phu (6656)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6656/",
+        "label": "g.yu rtse 'byid phu (6656)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a3) (de nas yang grom pa g.yu rtse 'byid phur dge bshes me'i lhang tsher zhes bya ba las tshad ma rnam par nges pa dang | rig thigs kyi rgya cher 'grel pa bam po bco lnga pa dang | dbu ma rang rgyud shar gsum du grags pa dang bcas pa gsan cing khong du chud par mdzad pa yin no ||).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3659,
+      "label": "sa chen kun dga' snying po (4205) active at g.yu rtse 'byid phu (6656)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4205/",
+        "label": "sa chen kun dga' snying po (4205)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6656/",
+        "label": "g.yu rtse 'byid phu (6656)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a3) (de nas yang grom pa g.yu rtse 'byid phur dge bshes me'i lhang tsher zhes bya ba las tshad ma rnam par nges pa dang | rig thigs kyi rgya cher 'grel pa bam po bco lnga pa dang | dbu ma rang rgyud shar gsum du grags pa dang bcas pa gsan cing khong du chud par mdzad pa yin no ||). Studies of epistemology and Madhyamaka with Me'i lhang tshe (ID:6655) and others in Grom pa g.Yu rtse 'byid phur.\r\n[FEHIEFEB]: 157. Studied epistemology with Me'i lhang tshe (ID:6655).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        13
+      ]
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

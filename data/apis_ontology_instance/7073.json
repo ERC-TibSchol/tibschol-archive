@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7073/",
+  "relations": [
+    {
+      "id": 4840,
+      "label": "lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (2) (7073) has source lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (1) (7072)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7073/",
+        "label": "lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (2) (7073)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7072/",
+        "label": "lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (1) (7072)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4839,
+      "label": "lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (6735) has as an instance lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (2) (7073)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6735/",
+        "label": "lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (6735)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7073/",
+        "label": "lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (2) (7073)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1993-12-31",
   "start_date_from": "1993-01-01",
   "start_date_sort": "1993-07-02",

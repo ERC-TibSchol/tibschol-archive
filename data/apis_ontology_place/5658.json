@@ -1,5 +1,439 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+  "relations": [
+    {
+      "id": 3905,
+      "label": "tshal gung thang (5658) located within tshal (6748)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6748/",
+        "label": "tshal (6748)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3878,
+      "label": "tshal gung thang (5658) located within dbus (6650)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6650/",
+        "label": "dbus (6650)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3903,
+      "label": "'gro mgon gtsang pa rgya ras ye shes rdo rje (6747) active at tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6747/",
+        "label": "'gro mgon gtsang pa rgya ras ye shes rdo rje (6747)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 92, n. 78. Ordained by Bla ma Zhang (ID:6409).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1993",
+      "end": "1993",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4999,
+      "label": "tsong kha pa blo bzang grags pa (5636) active at tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5636/",
+        "label": "tsong kha pa blo bzang grags pa (5636)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[E9XCQDGQ]: 69. Performed dka' bzhi'i grwa skor at gSang phu, Gung thang, and rTsed thang and as a result, his renown spread in all directions.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3919,
+      "label": "bo dong paN chen phyogs las rnam rgyal (6058) active at tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6058/",
+        "label": "bo dong paN chen phyogs las rnam rgyal (6058)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 231, n. 634. Active at Chos 'khor gling.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2575,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) active at tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 921 (phyis dbus su byon nas ne'u thog gung thang | stag lung la sogs pa rnams su sde snod 'dzin pa mtha' yas pa'i blo'i mig phyes |). Taught at Gung thang.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2568,
+      "label": "vanaratna (6176) active at tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6176/",
+        "label": "vanaratna (6176)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 939 (gzhan yang rtses thang | gsang phu | gung thang sogs su dge 'dun spyi la tshogs chos gnang ba dang |). Preached to the monastic congregation.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2333,
+      "label": "grags pa rgya mtsho bde legs 'byung gnas (4024) active at tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4024/",
+        "label": "grags pa rgya mtsho bde legs 'byung gnas (4024)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex4604_2023-09-19-11",
+      "support_notes": "Composition of work (ID:4785), provided the place referred to as \"gur thang\" in the colophon in instance (ID:4784) is Tshal gung thang.",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 2017,
+      "label": "sher phyin rnam bshad lam gyi rim pa snang ba (4659) composed at tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4659/",
+        "label": "sher phyin rnam bshad lam gyi rim pa snang ba (4659)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex2701_2024-09-1114-33-12",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2044,
+      "label": "tshad ma rnam par nges pa'i sbyor 'phreng yid bzhin nor bu (4785) composed at tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4785/",
+        "label": "tshad ma rnam par nges pa'i sbyor 'phreng yid bzhin nor bu (4785)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex4604_2023-09-19-11",
+      "support_notes": "The colophon reports the place of composition as \"gur thang,\" which may stand for \"gung thang.\"",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5418,
+      "label": "gung thang gnas gsar (7223) located within tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7223/",
+        "label": "gung thang gnas gsar (7223)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2018,
+      "label": "ldum bu ba bsod nams dpal (3927) active at tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3927/",
+        "label": "ldum bu ba bsod nams dpal (3927)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2332,
+      "label": "'jam dbyangs shakya gzhon nu (3894) active at tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 415 (slob dpon shAka gzhon gyi bdag rkyen 'tshal ba smon lam pa la sogs pas mdzad nas 'tshal gung thang du bshad grwa btsugs). Founded a monastic college (bshad grwa).\r\n[CCSBSVCA]: 190 and 230. Invited to Tshal in 1308 from gSang phu by the dpon chen dGa' bde dpal, he established the college (bshad grwa) Chos 'khor gling at Tshal and founded there the tradition of expounding and studying philosophy (mtshan nyid).\r\n[8GL7ZT7Y]: 26, translated from [8GL7ZT7Y]: 15a6 (shAk gzhon slob dpon gyi 'gros rnying pa bzung nas gdan sa dang | tshal chos 'khor gling gi bshad grwa btsugs |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1308",
+      "end": "1308",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3918,
+      "label": "gser mdog paN chen shAkya mchog ldan (6276) active at tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6276/",
+        "label": "gser mdog paN chen shAkya mchog ldan (6276)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 231, n. 632. Stayed at Chos 'khor gling and composed a large number of his minor writings there.\r\n[W42HFLNR]: 69. In 1442, following the order of the sNa'u rdzong gouverneur.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1442 before 1459",
+      "end": "after 1442 before 1459",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3052,
+      "label": "zhang g.yu brag brtson 'grus grags pa (6409) active at tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6409/",
+        "label": "zhang g.yu brag brtson 'grus grags pa (6409)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[2X2E3882]: 219. Founded the monastery.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1175",
+      "end": "1175",
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "start_date_to": "1175-12-31",
   "start_date_from": "1175-01-01",
   "start_date_sort": "1175-07-02",

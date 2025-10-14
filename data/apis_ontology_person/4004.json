@@ -1,5 +1,38 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4004/",
+  "relations": [
+    {
+      "id": 247,
+      "label": "blo gros rgyal mtshan (1) (4002) student of  'dul ba 'dzin pa nam mkha' rgyal mtshan (4004)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4002/",
+        "label": "blo gros rgyal mtshan (1) (4002)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4004/",
+        "label": " 'dul ba 'dzin pa nam mkha' rgyal mtshan (4004)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5WBK2VV]: 52. According to the colophon of Blo gros rgyal mtshan's work.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,

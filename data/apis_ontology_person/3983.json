@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3983/",
+  "relations": [
+    {
+      "id": 4081,
+      "label": "sbal ti jo sras brtson 'grus dbang phyug (3967) ordinator of lo ras dbang phyug brtson 'grus (3983)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3967/",
+        "label": "sbal ti jo sras brtson 'grus dbang phyug (3967)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3983/",
+        "label": "lo ras dbang phyug brtson 'grus (3983)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5WBK2VV]: 50. The ordination took place in 1206 when sBal ti was 78.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1206",
+      "end": "1206"
+    }
+  ],
   "end_date_to": "1250-12-31",
   "end_date_from": "1250-01-01",
   "end_date_sort": "1250-07-02",

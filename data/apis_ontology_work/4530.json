@@ -1,5 +1,119 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4530/",
+  "relations": [
+    {
+      "id": 5459,
+      "label": "blo sbyong glang thang ba'i tshig rkang brgyad ma'i 'grel ba (4530) has as an instance blo sbyong tshig rkang brgyad 'grel pa dang bcas pa (7235)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4530/",
+        "label": "blo sbyong glang thang ba'i tshig rkang brgyad ma'i 'grel ba (4530)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7235/",
+        "label": "blo sbyong tshig rkang brgyad 'grel pa dang bcas pa (7235)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8H6M69W4], No. 19819: 'di na glang thang pa'i blo sbyong tshig rkang brgyad 'grel pa dang bcas pa bzhugs; 'chad ka ba ye shes rdo rjes.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1307,
+      "label": "blo sbyong glang thang ba'i tshig rkang brgyad ma'i 'grel ba (4530) has as an instance blo sbyong glang thang ba'i tshig rkang brgyad ma'i 'grel ba (4529)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4530/",
+        "label": "blo sbyong glang thang ba'i tshig rkang brgyad ma'i 'grel ba (4530)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4529/",
+        "label": "blo sbyong glang thang ba'i tshig rkang brgyad ma'i 'grel ba (4529)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5461,
+      "label": "blo sbyong glang thang ba'i tshig rkang brgyad ma'i 'grel ba (4530) commentary on blo sbyong tshig rkang brgyad ma (7236)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4530/",
+        "label": "blo sbyong glang thang ba'i tshig rkang brgyad ma'i 'grel ba (4530)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7236/",
+        "label": "blo sbyong tshig rkang brgyad ma (7236)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 597,
+      "label": "'chad kha pa ye shes rdo rje (3874) author of blo sbyong glang thang ba'i tshig rkang brgyad ma'i 'grel ba (4530)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3874/",
+        "label": "'chad kha pa ye shes rdo rje (3874)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4530/",
+        "label": "blo sbyong glang thang ba'i tshig rkang brgyad ma'i 'grel ba (4530)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1175-12-31",
   "start_date_from": "1111-01-01",
   "start_date_sort": "1143-07-02",

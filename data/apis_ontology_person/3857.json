@@ -1,5 +1,65 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3857/",
+  "relations": [
+    {
+      "id": 5765,
+      "label": "gsal sto sho sgom (3857) student of sgam po pa bsod nams rin chen (4189)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3857/",
+        "label": "gsal sto sho sgom (3857)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4189/",
+        "label": "sgam po pa bsod nams rin chen (4189)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BUDA",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 116,
+      "label": "gsal sto sho sgom (3857) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3857/",
+        "label": "gsal sto sho sgom (3857)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VKBZTBWN]: 4a7 (dang po ni [=grub thob mi gsum] rje dus gsum mkhyen pa | phag mo gru pa | gsal sto sho sgom rnams so || la la zhang 'tshal pa yin zhes zer |).\r\n[EZ5JXHJY]: 356.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "",
+      "end": "",
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "end_date_to": null,
   "end_date_from": "1119-01-01",
   "end_date_sort": "1119-01-01",

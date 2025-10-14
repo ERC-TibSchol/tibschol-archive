@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4733/",
+  "relations": [
+    {
+      "id": 1402,
+      "label": "'grel pa 'od dang ldan pa'i don bsdus pa (4733) has as an instance 'grel pa 'od dang ldan pa'i don bsdus pa (4732)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4733/",
+        "label": "'grel pa 'od dang ldan pa'i don bsdus pa (4733)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4732/",
+        "label": "'grel pa 'od dang ldan pa'i don bsdus pa (4732)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5815,
+      "label": "'grel pa 'od dang ldan pa'i don bsdus pa (4733) commentary on m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101v\u1e5btti (3766)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4733/",
+        "label": "'grel pa 'od dang ldan pa'i don bsdus pa (4733)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3766/",
+        "label": "m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101v\u1e5btti (3766)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 721,
+      "label": "Anonymous (4593) author of 'grel pa 'od dang ldan pa'i don bsdus pa (4733)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4593/",
+        "label": "Anonymous (4593)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4733/",
+        "label": "'grel pa 'od dang ldan pa'i don bsdus pa (4733)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

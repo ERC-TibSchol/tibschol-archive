@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5878/",
+  "relations": [
+    {
+      "id": 1969,
+      "label": "ye shes rgyal mtshan (2) (5878) author of bsdud pa tshigs su bcad pa'i bshad sbyar (4633)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5878/",
+        "label": "ye shes rgyal mtshan (2) (5878)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4633/",
+        "label": "bsdud pa tshigs su bcad pa'i bshad sbyar (4633)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex22032023-09-181\r\nex22032024-10-1509-181",
+      "support_notes": "According to BUDA, the author is Ye shes rgyal mtshan (BUDA ID P3718) (ID:3914).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,

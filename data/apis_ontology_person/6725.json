@@ -1,5 +1,149 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6725/",
+  "relations": [
+    {
+      "id": 3857,
+      "label": "chos kyi brtson 'grus (2) (6725) active at rong (6720)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6725/",
+        "label": "chos kyi brtson 'grus (2) (6725)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6720/",
+        "label": "rong (6720)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 41. Born in Rong.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3866,
+      "label": "chos kyi brtson 'grus (2) (6725) ordinator of rngog rin chen bzang po (6729)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6725/",
+        "label": "chos kyi brtson 'grus (2) (6725)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6729/",
+        "label": "rngog rin chen bzang po (6729)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 41. Novice ordination in 1248/60 under this throne-holder or the next.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": "after 1248 before 1260",
+      "end": "after 1248 before 1260"
+    },
+    {
+      "id": 3856,
+      "label": "chos kyi brtson 'grus (2) (6725) active at zul phu (6492)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6725/",
+        "label": "chos kyi brtson 'grus (2) (6725)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6492/",
+        "label": "zul phu (6492)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 39 and 41. Fourth abbot of Zul phu. Abbot from ca. 1240 to 1263.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1240",
+      "end": "1240",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3860,
+      "label": "chos kyi brtson 'grus (2) (6725) uncle (maternal/paternal) of chos grags dpal (6726)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6725/",
+        "label": "chos kyi brtson 'grus (2) (6725)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6726/",
+        "label": "chos grags dpal (6726)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 41.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3855,
+      "label": "chos kyi byang chub (6719) uncle (maternal/paternal) of chos kyi brtson 'grus (2) (6725)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6719/",
+        "label": "chos kyi byang chub (6719)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6725/",
+        "label": "chos kyi brtson 'grus (2) (6725)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 41.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "end_date_to": "1309-12-31",
   "end_date_from": "1285-01-01",
   "end_date_sort": "1297-07-01",

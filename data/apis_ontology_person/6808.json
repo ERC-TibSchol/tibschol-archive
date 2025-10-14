@@ -1,5 +1,64 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6808/",
+  "relations": [
+    {
+      "id": 4150,
+      "label": "lo dgon pa bsod nams lha'i dbang po (6808) author of bka' gdams rin po che'i chos 'byung rnam thar nyin mor byed pa'i 'od stong (6809)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6808/",
+        "label": "lo dgon pa bsod nams lha'i dbang po (6808)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6809/",
+        "label": "bka' gdams rin po che'i chos 'byung rnam thar nyin mor byed pa'i 'od stong (6809)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]\r\n[82NZNSIS]",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4707,
+      "label": "tshul khrims dar (6807) student of lo dgon pa bsod nams lha'i dbang po (6808)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6807/",
+        "label": "tshul khrims dar (6807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6808/",
+        "label": "lo dgon pa bsod nams lha'i dbang po (6808)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 24 Tshul khrims dar was Lo dgon pa's root-guru.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "end_date_to": "1496-12-31",
   "end_date_from": "1496-01-01",
   "end_date_sort": "1496-07-01",

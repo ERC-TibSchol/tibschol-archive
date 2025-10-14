@@ -1,5 +1,97 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6772/",
+  "relations": [
+    {
+      "id": 4957,
+      "label": "grags pa bkra shis (6772) active at sgros rnying grwa tshang (6043)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6772/",
+        "label": "grags pa bkra shis (6772)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6043/",
+        "label": "sgros rnying grwa tshang (6043)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BKUHJCNA]: 819 (gsang phur sgros snying ba'i grwa tshang bzung).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3982,
+      "label": "grags pa bkra shis (6772) active at gnas sgo grwa tshang (6768)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6772/",
+        "label": "grags pa bkra shis (6772)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6768/",
+        "label": "gnas sgo grwa tshang (6768)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W42HFLNR]: 63. Teacher at the time of gSer mdog paN chen's studies in 1439.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3983,
+      "label": "gser mdog paN chen shAkya mchog ldan (6276) student of grags pa bkra shis (6772)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6276/",
+        "label": "gser mdog paN chen shAkya mchog ldan (6276)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6772/",
+        "label": "grags pa bkra shis (6772)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W42HFLNR]: 63-64. Study of Rong ston's commentary on the Perfection of wisdom, and of Phya pa's summary (phywa bsdus).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        7
+      ]
+    }
+  ],
   "end_date_to": null,
   "end_date_from": "1440-01-01",
   "end_date_sort": "1440-01-01",

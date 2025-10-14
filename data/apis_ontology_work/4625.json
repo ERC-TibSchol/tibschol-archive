@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4625/",
+  "relations": [
+    {
+      "id": 1351,
+      "label": "byang chub sems dpa'i bslab pa kun las btus pa'i ti ka mdo sde nyi ma'i snying po (4625) has as an instance byang chub sems dpa'i bslab pa kun las btus pa'i ti ka mdo sde nyi ma'i snying po (4624)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4625/",
+        "label": "byang chub sems dpa'i bslab pa kun las btus pa'i ti ka mdo sde nyi ma'i snying po (4625)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4624/",
+        "label": "byang chub sems dpa'i bslab pa kun las btus pa'i ti ka mdo sde nyi ma'i snying po (4624)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 660,
+      "label": "byang chub sems dpa'i bslab pa kun las btus pa'i ti ka mdo sde nyi ma'i snying po (4625) commentary on \u015bik\u1e63\u0101samuccaya (3742)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4625/",
+        "label": "byang chub sems dpa'i bslab pa kun las btus pa'i ti ka mdo sde nyi ma'i snying po (4625)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3742/",
+        "label": "\u015bik\u1e63\u0101samuccaya (3742)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex21022025-01-0814-32-31\r\nex21022025-01-0814-32-312",
+      "support_notes": "This is confirmed by the contents of the work, despite the ambiguous phrasing in the introductory verses suggesting it is a commentary on the S\u016btrasamuccaya (mdo sde kun las btus pa'i don || gsal byed nyi ma'i snying po 'di ||), as does the name of the work given in the colophon (mdo sde kun las buts pa'i Ti ka mdo'i nyi ma'i snying po).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 659,
+      "label": "gzhon nu rin chen (3911) author of byang chub sems dpa'i bslab pa kun las btus pa'i ti ka mdo sde nyi ma'i snying po (4625)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3911/",
+        "label": "gzhon nu rin chen (3911)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4625/",
+        "label": "byang chub sems dpa'i bslab pa kun las btus pa'i ti ka mdo sde nyi ma'i snying po (4625)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No. 15506: nyang gi slob ma.",
+      "tei_refs": "ex21022023-09-181\r\nex21022025-01-0814-32-31\r\nex21022025-01-0817-00-56",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1375-12-31",
   "start_date_from": "1185-01-01",
   "start_date_sort": "1280-07-01",

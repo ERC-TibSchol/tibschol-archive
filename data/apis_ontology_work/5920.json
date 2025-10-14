@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5920/",
+  "relations": [
+    {
+      "id": 2070,
+      "label": "bodhisattvasa\u1e43varavi\u1e43\u015bakapa\u00f1jik\u0101 (5920) commentary on bodhisattvasa\u1e43varavi\u1e43\u015baka (3759)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5920/",
+        "label": "bodhisattvasa\u1e43varavi\u1e43\u015bakapa\u00f1jik\u0101 (5920)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3759/",
+        "label": "bodhisattvasa\u1e43varavi\u1e43\u015baka (3759)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2071,
+      "label": "bodhibhadra (5921) author of bodhisattvasa\u1e43varavi\u1e43\u015bakapa\u00f1jik\u0101 (5920)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5921/",
+        "label": "bodhibhadra (5921)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5920/",
+        "label": "bodhisattvasa\u1e43varavi\u1e43\u015bakapa\u00f1jik\u0101 (5920)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

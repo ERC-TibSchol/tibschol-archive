@@ -1,5 +1,65 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7219/",
+  "relations": [
+    {
+      "id": 5414,
+      "label": "rong pa shes rab seng ge (7220) active at thar pa gling (7219)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7220/",
+        "label": "rong pa shes rab seng ge (7220)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7219/",
+        "label": "thar pa gling (7219)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 556-557, n. 181.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5410,
+      "label": "'khon gdus ba gzhon nu ye shes (7218) active at thar pa gling (7219)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7218/",
+        "label": "'khon gdus ba gzhon nu ye shes (7218)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7219/",
+        "label": "thar pa gling (7219)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 550, n. 166, citing the dPyal gyi gdung rabs gang+ga'i chu rgyun (sku gzhon nu nas thar pa gling du byong nas rab tu byung ba mdzad phar tshad gnyis | 'dul ba mngon pa | rnam 'grel las sogs pa la legs par sbyangs nas mkhas par gyur ||).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

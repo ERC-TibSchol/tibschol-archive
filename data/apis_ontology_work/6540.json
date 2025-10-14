@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6540/",
+  "relations": [
+    {
+      "id": 3421,
+      "label": "mdo sdud pa'i 'grel pa (6540) commentary on sa\u00f1cayag\u0101th\u0101 (3693)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6540/",
+        "label": "mdo sdud pa'i 'grel pa (6540)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3693/",
+        "label": "sa\u00f1cayag\u0101th\u0101 (3693)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3420,
+      "label": "dkar chung ba gzhon nu tshul khrims (3821) author of mdo sdud pa'i 'grel pa (6540)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3821/",
+        "label": "dkar chung ba gzhon nu tshul khrims (3821)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6540/",
+        "label": "mdo sdud pa'i 'grel pa (6540)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 402 (skar chung ring mor grags pa mtshan gzhon nu tshul khrims bya ba des kyang ar la bslabs nas | mngon rtogs rgyan 'grel chung dang bcas pa dang | sdud pa la sogs pa'i TI ka mang du mdzad |)\r\n[5RXEUKD9]: 529, No. 11508.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1274-12-31",
   "start_date_from": "1110-01-01",
   "start_date_sort": "1192-07-01",

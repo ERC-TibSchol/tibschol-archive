@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5927/",
+  "relations": [
+    {
+      "id": 2085,
+      "label": "mngon par rtogs pa'i bshad pa (4427) has as an instance dpal mngon par rtogs pa'i dka' ba'i gnad bshad pa lo tsA ba rin chen bzang pos mdzad pa (5927)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4427/",
+        "label": "mngon par rtogs pa'i bshad pa (4427)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5927/",
+        "label": "dpal mngon par rtogs pa'i dka' ba'i gnad bshad pa lo tsA ba rin chen bzang pos mdzad pa (5927)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8H6M69W4]: 204, No. 1927.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

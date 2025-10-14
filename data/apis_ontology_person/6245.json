@@ -1,5 +1,36 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6245/",
+  "relations": [
+    {
+      "id": 2784,
+      "label": "bzad pa dar ma 'od (6245) active at gsang phu gling smad (6158)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6245/",
+        "label": "bzad pa dar ma 'od (6245)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6158/",
+        "label": "gsang phu gling smad (6158)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[7FZ3B926]: 111. Abbot of gSang phu ne'u thog monastery (lower college) until 1228. However, the date is debatable. \r\n[5NY3E6YU]: 68: bzad pa dar ma 'od | bzad pa don grub gnyis kyis lo sum cu mdzad do |. It seems the sentence here means both Dar ma 'od and Don grub together held the abbotship for 30 years, not 30 years of each. \r\n[MPRU5QUC]: 209. Abbot of gSang phu ne'u thog monastery (third abbot of lower college).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "before 1198",
+      "end": "before 1198",
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "end_date_to": null,
   "end_date_from": "1228-01-01",
   "end_date_sort": "1228-01-01",

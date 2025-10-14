@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6456/",
+  "relations": [
+    {
+      "id": 3161,
+      "label": "tshad ma rnam 'grel gyi bsdus don rigs pa'i sdom (6456) has as an instance tshad ma rnam 'grel gyi bsdus don rigs pa'i sdom (6457)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6456/",
+        "label": "tshad ma rnam 'grel gyi bsdus don rigs pa'i sdom (6456)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6457/",
+        "label": "tshad ma rnam 'grel gyi bsdus don rigs pa'i sdom (6457)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3160,
+      "label": "tshad ma rnam 'grel gyi bsdus don rigs pa'i sdom (6456) commentary on rnam 'grel rigs mdzod chen mo (5980)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6456/",
+        "label": "tshad ma rnam 'grel gyi bsdus don rigs pa'i sdom (6456)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5980/",
+        "label": "rnam 'grel rigs mdzod chen mo (5980)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "(ID:6456) is a topical outline of (ID:5980).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3159,
+      "label": "'u yug pa bsod nams seng ge (3846) author of tshad ma rnam 'grel gyi bsdus don rigs pa'i sdom (6456)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6456/",
+        "label": "tshad ma rnam 'grel gyi bsdus don rigs pa'i sdom (6456)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1280-12-31",
   "start_date_from": "1200-01-01",
   "start_date_sort": "1240-07-01",

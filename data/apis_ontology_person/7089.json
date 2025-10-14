@@ -1,5 +1,121 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7089/",
+  "relations": [
+    {
+      "id": 4902,
+      "label": "sems dpa' chen po kun dga' bzang po (7089) author of tshad ma rnam 'grel gyi TIkka dka 'grel chen mo (7091)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7089/",
+        "label": "sems dpa' chen po kun dga' bzang po (7089)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7091/",
+        "label": "tshad ma rnam 'grel gyi TIkka dka 'grel chen mo (7091)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BKUHJCNA]: 742 (phyis rje'i bshad srol la brten pa la ni tshad ma rnam 'grel gyi TIkka dka' 'grel chen mo).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4900,
+      "label": "sems dpa' chen po kun dga' bzang po (7089) author of rnam 'grel gyi sbyor TIka (7090)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7089/",
+        "label": "sems dpa' chen po kun dga' bzang po (7089)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7090/",
+        "label": "rnam 'grel gyi sbyor TIka (7090)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BKUHJCNA]: 742.",
+      "tei_refs": "",
+      "support_notes": "This appears to be a work composed before he met Tsong kha pa.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4898,
+      "label": "sems dpa' chen po kun dga' bzang po (7089) student of tsong kha pa blo bzang grags pa (5636)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7089/",
+        "label": "sems dpa' chen po kun dga' bzang po (7089)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5636/",
+        "label": "tsong kha pa blo bzang grags pa (5636)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BKUHJCNA]: 741. He followed Tsong kha pa (ID: 5636) for a long time and also heard many teachings from his two chief spiritual sons. So, due to that Lord's kindness, he obtained unobstructed knowledge of \"dbu tshad dang | bde gsang.\"",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4899,
+      "label": "sems dpa' chen po kun dga' bzang po (7089) active at rtses thang (5765)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7089/",
+        "label": "sems dpa' chen po kun dga' bzang po (7089)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5765/",
+        "label": "rtses thang (5765)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BKUHJCNA]: 741 (rtses thang du byon te thugs sbyong mdzad pas mkhas par gyur te | 'chad nyan kyang thogs shas shig mdzad | ... rgyal tshab rin po ches rtses thang du grwa bskor mdzad dus kyi gnas chung mdzad).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "end_date_to": "1444-12-31",
   "end_date_from": "1444-01-01",
   "end_date_sort": "1444-07-01",

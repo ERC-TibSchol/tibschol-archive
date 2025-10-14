@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7005/",
+  "relations": [
+    {
+      "id": 4634,
+      "label": "mngon pa mdzod kyi 'grel chen grub bde'i dpyid 'jo (7005) commentary on abhidharmako\u015bak\u0101rik\u0101 (3761)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7005/",
+        "label": "mngon pa mdzod kyi 'grel chen grub bde'i dpyid 'jo (7005)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3761/",
+        "label": "abhidharmako\u015bak\u0101rik\u0101 (3761)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4633,
+      "label": "karma pa mi bskyod rdo rje (6895) author of mngon pa mdzod kyi 'grel chen grub bde'i dpyid 'jo (7005)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6895/",
+        "label": "karma pa mi bskyod rdo rje (6895)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7005/",
+        "label": "mngon pa mdzod kyi 'grel chen grub bde'i dpyid 'jo (7005)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1554-12-31",
   "start_date_from": "1517-01-01",
   "start_date_sort": "1536-01-01",

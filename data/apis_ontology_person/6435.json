@@ -1,5 +1,36 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6435/",
+  "relations": [
+    {
+      "id": 3104,
+      "label": "mdog pa byang grags (6435) student of 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6435/",
+        "label": "mdog pa byang grags (6435)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 95, based on [Y2ZN5C6X] (\"This master 'Bre had excellent disciples like Khyung Rin chen grags, La stod Dkon mkhar, Ar Byang chub ye shes, Snyal ba Bsregs ston, Mdog pa Byang grags, and Bya 'Dul ba 'dzin ba Brtson 'grus 'bar.\")\r\n[647FFPZR]: 542, n. 55, based on [Q3KCZX7B]: 81, l. 7-10.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,

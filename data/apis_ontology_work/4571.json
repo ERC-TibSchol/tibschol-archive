@@ -1,5 +1,119 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4571/",
+  "relations": [
+    {
+      "id": 5961,
+      "label": "dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba (4571) commentary on rigs tshogs (5632)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4571/",
+        "label": "dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba (4571)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5632/",
+        "label": "rigs tshogs (5632)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex1310-13112023-09-15-112027",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2888,
+      "label": "dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba (4571) commentary on dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba'i rtsa ba (4569)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4571/",
+        "label": "dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba (4571)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4569/",
+        "label": "dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba'i rtsa ba (4569)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1326,
+      "label": "dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba (4571) has as an instance dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba (4570)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4571/",
+        "label": "dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba (4571)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4570/",
+        "label": "dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba (4570)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 621,
+      "label": "rma bya byang chub brtson 'grus (3842) author of dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba (4571)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3842/",
+        "label": "rma bya byang chub brtson 'grus (3842)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4571/",
+        "label": "dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba (4571)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No. 15589: shAkya'i dge slong byang chub brtson 'grus",
+      "tei_refs": "ex1310-13112023-09-15-112027",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1185-12-31",
   "start_date_from": "1095-01-01",
   "start_date_sort": "1140-07-02",

@@ -1,5 +1,65 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6304/",
+  "relations": [
+    {
+      "id": 2867,
+      "label": "gsang mda' ba sangs rgyas chos skyong (6304) active at gsang phu gling smad (6158)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6304/",
+        "label": "gsang mda' ba sangs rgyas chos skyong (6304)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6158/",
+        "label": "gsang phu gling smad (6158)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1500-12-31",
+      "end_date_from": "1439-01-01",
+      "end_date_sort": "1469-12-31",
+      "start_date_to": "1439-12-31",
+      "start_date_from": "1320-01-01",
+      "start_date_sort": "1379-12-31",
+      "zotero_refs": "[MPRU5QUC]: 210. Abbot of gSang phu ne'u thog monastery (27th abbot of lower college) for 13 years.\r\n[W42HFLNR]: 63-63. In office at the time of gSer mdog paN chen's studies in 1439.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1320 before 1439",
+      "end": "after 1439 before 1500",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4867,
+      "label": "gsang mda' ba sangs rgyas chos skyong (6304) active at gsang mda' grong (4340)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6304/",
+        "label": "gsang mda' ba sangs rgyas chos skyong (6304)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4340/",
+        "label": "gsang mda' grong (4340)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "His name suggests he originates or was active at gSang mda'.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "end_date_to": "1500-12-31",
   "end_date_from": null,
   "end_date_sort": "1500-12-31",

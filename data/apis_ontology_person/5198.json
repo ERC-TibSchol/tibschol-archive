@@ -1,5 +1,123 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5198/",
+  "relations": [
+    {
+      "id": 1933,
+      "label": "zas pa blo gros rgya mtsho (5198) active at gsang phu ne'u thog gi gtsug lag khang (6173)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5198/",
+        "label": "zas pa blo gros rgya mtsho (5198)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6173/",
+        "label": "gsang phu ne'u thog gi gtsug lag khang (6173)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1500-12-31",
+      "end_date_from": "1350-01-01",
+      "end_date_sort": "1425-07-02",
+      "start_date_to": null,
+      "start_date_from": "1350-01-01",
+      "start_date_sort": "1350-01-01",
+      "zotero_refs": "",
+      "tei_refs": "ex75012023-09-28-091757.",
+      "support_notes": "Composition of work (ID:5197).",
+      "confidence": "Positive",
+      "start": "after 1350",
+      "end": "after 1350 before 1500",
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
+      "id": 983,
+      "label": "zas pa blo gros rgya mtsho (5198) author of shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa don gsal gyi rnam par bshad pa mi pham dgongs rgyan (5197)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5198/",
+        "label": "zas pa blo gros rgya mtsho (5198)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5197/",
+        "label": "shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa don gsal gyi rnam par bshad pa mi pham dgongs rgyan (5197)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3951,
+      "label": "zas pa blo gros rgya mtsho (5198) student of rong ston shes bya kun rig (6005)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5198/",
+        "label": "zas pa blo gros rgya mtsho (5198)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "https://sakyaresearch.org/persons/2067",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3984,
+      "label": "don yod dpal (6769) other relation to zas pa blo gros rgya mtsho (5198)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6769/",
+        "label": "don yod dpal (6769)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5198/",
+        "label": "zas pa blo gros rgya mtsho (5198)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W42HFLNR]: 82. Don yod dpal asks bZad pa Blo gros rgya mtsho to teach gSer mdog paN chen (ID:6276).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1446",
+      "end": "1446"
+    }
+  ],
   "end_date_to": "1500-12-31",
   "end_date_from": null,
   "end_date_sort": "1500-12-31",

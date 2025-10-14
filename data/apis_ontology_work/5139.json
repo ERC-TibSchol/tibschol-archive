@@ -1,5 +1,147 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5139/",
+  "relations": [
+    {
+      "id": 2162,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa rgya mtsho (5139) composed at bo dong e (4352)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5139/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa rgya mtsho (5139)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4352/",
+        "label": "bo dong e (4352)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex65022025-02-2418-13-48. Composed at \"dpal e\".",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1584,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa rgya mtsho (5139) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa rgya mtsho (5138)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5139/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa rgya mtsho (5139)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5138/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa rgya mtsho (5138)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 941,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa rgya mtsho (5139) commentary on bodhicary\u0101vat\u0101ra (3727)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5139/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa rgya mtsho (5139)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3727/",
+        "label": "bodhicary\u0101vat\u0101ra (3727)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5873,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa rgya mtsho (5139) has as an instance mdo sde rgyan dang rgyud bla ma spyod 'jug rnams kyi 'grel TIk+ka gi dbu zhabs kyi tshigs bcad (5058)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5139/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa rgya mtsho (5139)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5058/",
+        "label": "mdo sde rgyan dang rgyud bla ma spyod 'jug rnams kyi 'grel TIk+ka gi dbu zhabs kyi tshigs bcad (5058)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 940,
+      "label": "rgyal sras thogs med bzang po (4066) author of byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa rgya mtsho (5139)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4066/",
+        "label": "rgyal sras thogs med bzang po (4066)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5139/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa rgya mtsho (5139)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex65022025-02-2418-13-48",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1364-12-31",
   "start_date_from": "1304-01-01",
   "start_date_sort": "1334-07-02",

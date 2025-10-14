@@ -1,5 +1,126 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6613/",
+  "relations": [
+    {
+      "id": 3556,
+      "label": "dpyal kun dga' grags (6613) student of khyung rin chen grags (3809)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6613/",
+        "label": "dpyal kun dga' grags (6613)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 124. Subject: epistemology.\r\n[I58Z22ET]: 510, n. 93, citing dPyal pa'i lo rgyus kyi yi ge (nyang stod grwa tshang du jo btsun la tshad ma bslabs te mkhas par gyur nas). Studies with \"jo btsun\" at Nyang stod grwa tshang (ID:5541).\r\n[I58Z22ET]: 511, n. 93, citing dPyal gyi gdung rabs gang+ga'i chu rgyun (nyang stod brang thang du jo btsun khyung la tshad ma slabs par gyur kyang |). The location is here given as \"nyang stod brang thang.\"",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 5371,
+      "label": "dpyal kun dga' grags (6613) active at nyang stod (5541)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6613/",
+        "label": "dpyal kun dga' grags (6613)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5541/",
+        "label": "nyang stod (5541)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 510, n. 93, citing dPyal pa'i lo rgyus kyi yi ge (nyang stod grwa tshang du jo btsun la tshad ma bslabs te mkhas par gyur nas). Studies of epistemology with \"jo btsun\" (ID:3809). The location is given as \"nyang stod grwa tshang.\"\r\n[I58Z22ET]: 511, n. 93, citing dPyal gyi gdung rabs gang+ga'i chu rgyun (nyang stod brang thang du jo btsun khyung la tshad ma slabs par gyur kyang |). The location is here given as \"nyang stod brang thang.\"",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 5370,
+      "label": "dpyal kun dga' grags (6613) student of dpyal kun dga' rdo rje (6609)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6613/",
+        "label": "dpyal kun dga' grags (6613)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6609/",
+        "label": "dpyal kun dga' rdo rje (6609)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 510.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3555,
+      "label": "dpyal kun dga' rdo rje (6609) parent of dpyal kun dga' grags (6613)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6609/",
+        "label": "dpyal kun dga' rdo rje (6609)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6613/",
+        "label": "dpyal kun dga' grags (6613)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 124. Kun dga' grags was the eldest son of Kun dga' rdo rje.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,

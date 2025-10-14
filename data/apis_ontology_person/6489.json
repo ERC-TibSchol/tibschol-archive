@@ -1,5 +1,65 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6489/",
+  "relations": [
+    {
+      "id": 3242,
+      "label": "skor chen pa (6489) student of sne'u zur pa ye shes 'bar (3825)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6489/",
+        "label": "skor chen pa (6489)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3825/",
+        "label": "sne'u zur pa ye shes 'bar (3825)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 1227 (gtso bo rte'u rar gdan phab pa yin te | 'di dang por sne'u tsur pa'i slob ma skor chen pas btab| de rjes brgyud pa re shig stongs pa 'dra| de rjes chag gis gzung |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3243,
+      "label": "skor chen pa (6489) active at rte'u ra (4387)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6489/",
+        "label": "skor chen pa (6489)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4387/",
+        "label": "rte'u ra (4387)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 1227 (gtso bo rte'u rar gdan phab pa yin te | 'di dang por sne'u tsur pa'i slob ma skor chen pas btab| de rjes brgyud pa re shig stongs pa 'dra| de rjes chag gis gzung |). Founded rTe'u ra.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,

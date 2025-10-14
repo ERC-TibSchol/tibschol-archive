@@ -1,5 +1,119 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5137/",
+  "relations": [
+    {
+      "id": 939,
+      "label": "dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (5137) commentary on m\u016blamadhyamakak\u0101rik\u0101 (3715)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5137/",
+        "label": "dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (5137)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3715/",
+        "label": "m\u016blamadhyamakak\u0101rik\u0101 (3715)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5675,
+      "label": "dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (5137) has as an instance dbu ma'i rtsa ba'i bstan bcos kyi 'grel ba 'thad pa'i rgyan (7326)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5137/",
+        "label": "dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (5137)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7326/",
+        "label": "dbu ma'i rtsa ba'i bstan bcos kyi 'grel ba 'thad pa'i rgyan (7326)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1583,
+      "label": "dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (5137) has as an instance dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (5136)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5137/",
+        "label": "dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (5137)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5136/",
+        "label": "dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (5136)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 938,
+      "label": "rma bya byang chub brtson 'grus (3842) author of dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (5137)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3842/",
+        "label": "rma bya byang chub brtson 'grus (3842)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5137/",
+        "label": "dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (5137)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex65012025-04-2211-29-06",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1185-12-31",
   "start_date_from": "1095-01-01",
   "start_date_sort": "1140-07-02",

@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5497/",
+  "relations": [
+    {
+      "id": 1747,
+      "label": "chos mngon pa'i mdzod kyi sbyor ba'i Ti ka mkhas pa'i yid 'phrog (5497) has as an instance chos mngon pa'i mdzod kyi sbyor ba'i Ti ka mkhas pa'i yid 'phrog (5496)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5497/",
+        "label": "chos mngon pa'i mdzod kyi sbyor ba'i Ti ka mkhas pa'i yid 'phrog (5497)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5496/",
+        "label": "chos mngon pa'i mdzod kyi sbyor ba'i Ti ka mkhas pa'i yid 'phrog (5496)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1183,
+      "label": "chos mngon pa'i mdzod kyi sbyor ba'i Ti ka mkhas pa'i yid 'phrog (5497) commentary on abhidharmako\u015bak\u0101rik\u0101 (3761)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5497/",
+        "label": "chos mngon pa'i mdzod kyi sbyor ba'i Ti ka mkhas pa'i yid 'phrog (5497)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3761/",
+        "label": "abhidharmako\u015bak\u0101rik\u0101 (3761)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1182,
+      "label": "zhwa lu pa rin chen bsod nams 'phel ba (4129) author of chos mngon pa'i mdzod kyi sbyor ba'i Ti ka mkhas pa'i yid 'phrog (5497)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4129/",
+        "label": "zhwa lu pa rin chen bsod nams 'phel ba (4129)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5497/",
+        "label": "chos mngon pa'i mdzod kyi sbyor ba'i Ti ka mkhas pa'i yid 'phrog (5497)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 532, No. 11687.",
+      "tei_refs": "ex119022024-11-2217-48-49",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1433-12-31",
   "start_date_from": "1433-01-01",
   "start_date_sort": "1433-07-02",

@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6977/",
+  "relations": [
+    {
+      "id": 4558,
+      "label": "abhidharmako\u015ba\u1e6d\u012bk\u0101lak\u1e63a\u1e47\u0101nus\u0101ri\u1e47\u012b (6977) commentary on abhidharmako\u015bak\u0101rik\u0101 (3761)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6977/",
+        "label": "abhidharmako\u015ba\u1e6d\u012bk\u0101lak\u1e63a\u1e47\u0101nus\u0101ri\u1e47\u012b (6977)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3761/",
+        "label": "abhidharmako\u015bak\u0101rik\u0101 (3761)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4559,
+      "label": "abhidharmako\u015ba\u1e6d\u012bk\u0101lak\u1e63a\u1e47\u0101nus\u0101ri\u1e47\u012b (6977) commentary on abhidharmako\u015babh\u0101\u1e63ya (6974)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6977/",
+        "label": "abhidharmako\u015ba\u1e6d\u012bk\u0101lak\u1e63a\u1e47\u0101nus\u0101ri\u1e47\u012b (6977)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6974/",
+        "label": "abhidharmako\u015babh\u0101\u1e63ya (6974)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4557,
+      "label": "p\u016br\u1e47avardhana (6975) author of abhidharmako\u015ba\u1e6d\u012bk\u0101lak\u1e63a\u1e47\u0101nus\u0101ri\u1e47\u012b (6977)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6975/",
+        "label": "p\u016br\u1e47avardhana (6975)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6977/",
+        "label": "abhidharmako\u015ba\u1e6d\u012bk\u0101lak\u1e63a\u1e47\u0101nus\u0101ri\u1e47\u012b (6977)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

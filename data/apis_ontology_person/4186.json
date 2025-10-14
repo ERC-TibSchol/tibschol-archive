@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4186/",
+  "relations": [
+    {
+      "id": 1800,
+      "label": "g.yung drung brtan 'bar (4186) parent of bya yul ba chen po gzhon nu 'od (3915)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4186/",
+        "label": "g.yung drung brtan 'bar (4186)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3915/",
+        "label": "bya yul ba chen po gzhon nu 'od (3915)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 349 (de [=bya yul ba] ni stod lungs gol go lung du yab g.yung drung brtan 'bar | yum gyi ljang gza' lcam bu gnyis kyi sras su shing mo yos la 'khrungs |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,

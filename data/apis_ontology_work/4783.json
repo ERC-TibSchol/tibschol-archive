@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4783/",
+  "relations": [
+    {
+      "id": 1425,
+      "label": "tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4783) has as an instance tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4782)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4783/",
+        "label": "tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4783)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4782/",
+        "label": "tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4782)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4116,
+      "label": "bya bral ba rab mchog (6801) author of tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4783)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6801/",
+        "label": "bya bral ba rab mchog (6801)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4783/",
+        "label": "tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4783)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex46032023-02-1416-28-20 (Authorship of one section).\r\nex46032023-02-1416-29-03 (Authorship of one section).",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4112,
+      "label": "Anonymous (6) (6800) author of tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4783)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6800/",
+        "label": "Anonymous (6) (6800)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4783/",
+        "label": "tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4783)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": "1219-01-01",
   "start_date_sort": "1219-01-01",

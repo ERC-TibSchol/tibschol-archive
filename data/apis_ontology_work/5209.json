@@ -1,5 +1,119 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5209/",
+  "relations": [
+    {
+      "id": 4242,
+      "label": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5209) commentary on prasannapad\u0101 (3724)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5209/",
+        "label": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5209)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3724/",
+        "label": "prasannapad\u0101 (3724)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 992,
+      "label": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5209) commentary on m\u016blamadhyamakak\u0101rik\u0101 (3715)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5209/",
+        "label": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5209)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3715/",
+        "label": "m\u016blamadhyamakak\u0101rik\u0101 (3715)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1616,
+      "label": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5209) has as an instance dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5208)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5209/",
+        "label": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5209)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5208/",
+        "label": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5208)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 991,
+      "label": "skyabs mchog dpal bzang po (4080) author of dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5209)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4080/",
+        "label": "skyabs mchog dpal bzang po (4080)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5209/",
+        "label": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5209)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No. 15375: shAkya'i dge slong skyabs mchog dpal bzang po",
+      "tei_refs": "ex76012024-09-1612-18-36\r\nex76012024-09-1612-39-18",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1397-12-31",
   "start_date_from": "1397-01-01",
   "start_date_sort": "1397-07-02",

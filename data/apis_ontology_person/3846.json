@@ -1,5 +1,479 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+  "relations": [
+    {
+      "id": 105,
+      "label": "'u yug pa bsod nams seng ge (3846) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VKBZTBWN]: 5a2-3 (la la dag 'u yug pa bsod nams seng ge zhes zer yang dus mi 'grig |).\r\n[5632TFMN]: 311. 'U yug pa's inclusion in the list of the \"Eight great lions\" is a confusion due to his name ending in \"seng ge\".",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Negative",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 154,
+      "label": "'u yug pa bsod nams seng ge (3846) student of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8GL7ZT7Y]: 12b6-7 (slob dpon de yis [=Phya pa] byams chos dang | dbu ma\u2019i bka\u2019 babs brtsegs dbang phyug seng ge la byung | de la sa skya pa\u1e47\u1e0di tas gsan | des 'u yug pa dang |).\r\n[5632TFMN]: 311.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        13
+      ]
+    },
+    {
+      "id": 2261,
+      "label": "'u yug pa bsod nams seng ge (3846) student of gnyal zhig po 'jam pa'i rdo rje (3887)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
+        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 407 (gnyal zhig gi bu dgu zhes pa byung ste | bzang rings| phu thang dar dkon | gtsang pa gru gu gsum snga tshar | 'u yug pa bsod nams seng ge | bo dong rin rtse | gtsang pa jo nam gsum bar tshar | rgya 'ching ru ba| 'jam gsar | skyel nag grags seng gsum phyi tshar ro ||).\r\n[Q8FCH7LF]: 295.\r\n[5632TFMN]: 311-312. 'U yug pa belonged to the intermediate of the three groups of gNyal zhig's \"nine sons\".",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3159,
+      "label": "'u yug pa bsod nams seng ge (3846) author of tshad ma rnam 'grel gyi bsdus don rigs pa'i sdom (6456)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6456/",
+        "label": "tshad ma rnam 'grel gyi bsdus don rigs pa'i sdom (6456)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3158,
+      "label": "'u yug pa bsod nams seng ge (3846) author of rigs pa grub pa (6455)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6455/",
+        "label": "rigs pa grub pa (6455)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MKQ6FJV7]: 54.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 625,
+      "label": "'u yug pa bsod nams seng ge (3846) author of dbu ma rtsa ba'i bshad pa srog gi 'khor lo (4578)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4578/",
+        "label": "dbu ma rtsa ba'i bshad pa srog gi 'khor lo (4578)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:4588) in [8H6M69W4], No. 15440: thos pa 'dzin pa'i dge slong bsod nams seng ge.",
+      "tei_refs": "",
+      "support_notes": "The author is understood to be 'U yug pa (ID:3846) in [JZP4CZRX]. This needs to be confirmed,",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3653,
+      "label": "'u yug pa bsod nams seng ge (3846) lineage predecessor of zhang btsun mdo sde dpal (6624)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6624/",
+        "label": "zhang btsun mdo sde dpal (6624)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 144. \"Zhang btsun mdo sde dpal\" follows \"'U yug pa\" in the lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 2262,
+      "label": "'u yug pa bsod nams seng ge (3846) author of rnam 'grel rigs mdzod chen mo (5980)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5980/",
+        "label": "rnam 'grel rigs mdzod chen mo (5980)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 319,
+      "label": "dbus pa blo gsal (4091) student of 'u yug pa bsod nams seng ge (3846)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4091/",
+        "label": "dbus pa blo gsal (4091)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3579,
+      "label": "zhang btsun mdo sde dpal (6624) student of 'u yug pa bsod nams seng ge (3846)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6624/",
+        "label": "zhang btsun mdo sde dpal (6624)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8GL7ZT7Y]: 12b6-7 (slob dpon de yis [=Phya pa] byams chos dang | dbu ma\u2019i bka\u2019 babs brtsegs dbang phyug seng ge la byung | de la sa skya pa\u1e47\u1e0di tas gsan | des 'u yug pa dang | des zhang mdo sde pa la sogs pa rim par rgyud).\r\n[5632TFMN]: 333.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        13
+      ]
+    },
+    {
+      "id": 3569,
+      "label": "'jam dbyangs skya bo nam mkha' dpal (6621) student of 'u yug pa bsod nams seng ge (3846)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6621/",
+        "label": "'jam dbyangs skya bo nam mkha' dpal (6621)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 125.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3602,
+      "label": "stag stog pa gnyan (6631) student of 'u yug pa bsod nams seng ge (3846)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6631/",
+        "label": "stag stog pa gnyan (6631)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 134, n. 53.\r\n[4TBERVZD]: 9.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3681,
+      "label": "rin chen rgyal mtshan (1) (6664) student of 'u yug pa bsod nams seng ge (3846)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6664/",
+        "label": "rin chen rgyal mtshan (1) (6664)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5632TFMN]: 333.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3575,
+      "label": "rigs pa'i ral gri (4006) student of 'u yug pa bsod nams seng ge (3846)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FZ6N88AU]: 412.\r\n[FEHIEFEB]: 125. Teaching: Pram\u0101\u1e47asamuccaya (ID:3770), Pram\u0101\u1e47av\u0101rttika (ID:3772), and the other works by Dharmak\u012brti (ID:5553), except for the Pram\u0101\u1e47avini\u015bcaya (ID:3774).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 3652,
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) lineage predecessor of 'u yug pa bsod nams seng ge (3846)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 144. \"'U yug pa\" follows \"Sa skya Pa\u1e47\u1e0dita\" in the lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 5295,
+      "label": "gser mdog paN chen shAkya mchog ldan (6276) quotes with name 'u yug pa bsod nams seng ge (3846)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6276/",
+        "label": "gser mdog paN chen shAkya mchog ldan (6276)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "end_date_to": null,
   "end_date_from": "1267-01-01",
   "end_date_sort": "1267-01-01",

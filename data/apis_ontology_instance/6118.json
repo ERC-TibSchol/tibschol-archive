@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6118/",
+  "relations": [
+    {
+      "id": 2456,
+      "label": "tshad ma'i de kho na nyid bsdus pa (5507) has as an instance tshad ma'i de kho na nyid bsdus pa (4) (6118)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5507/",
+        "label": "tshad ma'i de kho na nyid bsdus pa (5507)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6118/",
+        "label": "tshad ma'i de kho na nyid bsdus pa (4) (6118)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1997-12-31",
   "start_date_from": "1997-01-01",
   "start_date_sort": "1997-07-02",

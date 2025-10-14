@@ -1,5 +1,67 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6675/",
+  "relations": [
+    {
+      "id": 3710,
+      "label": "zhang mngon pa ba rin chen rdo rje (6675) student of zhang yon tan byang chub (6676)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6675/",
+        "label": "zhang mngon pa ba rin chen rdo rje (6675)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6676/",
+        "label": "zhang yon tan byang chub (6676)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1398.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3709,
+      "label": "'phags pa blo gros rgyal mtshan (5838) student of zhang mngon pa ba rin chen rdo rje (6675)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
+        "label": "'phags pa blo gros rgyal mtshan (5838)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6675/",
+        "label": "zhang mngon pa ba rin chen rdo rje (6675)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1398. Teaching: Abhidharmasamuccaya and a commentary (bshad pa); Asa\u1e45ga\u2019s Mah\u0101y\u0101nasa\u1e43graha and the commentaries by Vasubandhu and Asvabh\u0101va.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,

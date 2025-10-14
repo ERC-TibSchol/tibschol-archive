@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7105/",
+  "relations": [
+    {
+      "id": 3499,
+      "label": "theg pa chen po rgyud bla ma'i bsdus don rton pa bzhi ldan mkhas pa dga' byed (7105) has as an instance theg pa chen po rgyud bla ma'i bsdus don rton pa bzhi ldan mkhas pa dga' byed (6586)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7105/",
+        "label": "theg pa chen po rgyud bla ma'i bsdus don rton pa bzhi ldan mkhas pa dga' byed (7105)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6586/",
+        "label": "theg pa chen po rgyud bla ma'i bsdus don rton pa bzhi ldan mkhas pa dga' byed (6586)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8H6M69W4], No. 15844: Title: theg pa chen po rgyud bla ma'i bsdus don rton pa bzhi ldan mkhas pa dga' byed. Author: kar+ma dkon mchog gzhon nus.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4939,
+      "label": "karma dkon mchog gzhon nu (6583) author of theg pa chen po rgyud bla ma'i bsdus don rton pa bzhi ldan mkhas pa dga' byed (7105)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6583/",
+        "label": "karma dkon mchog gzhon nu (6583)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7105/",
+        "label": "theg pa chen po rgyud bla ma'i bsdus don rton pa bzhi ldan mkhas pa dga' byed (7105)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:6586) in [8H6M69W4], No. 15844: kar+ma dkon mchog gzhon nus.",
+      "tei_refs": "",
+      "support_notes": "Colophon.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": "1320-01-01",
   "start_date_sort": "1320-01-01",

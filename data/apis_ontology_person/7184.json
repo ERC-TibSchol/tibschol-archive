@@ -1,5 +1,36 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7184/",
+  "relations": [
+    {
+      "id": 5310,
+      "label": "dmar chos kyi rgyal mtshan (7185) student of spu hrangs lo chung (7184)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7185/",
+        "label": "dmar chos kyi rgyal mtshan (7185)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7184/",
+        "label": "spu hrangs lo chung (7184)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 463 (dmar chos kyi rgyal po de ni | spu hrangs lo chung gi slob ma dmar chos kyi rgyal mtshan gyi dbon brgyud yin te |).\r\n[R894SIKE]: 655 (de nas bu hrangs lo chung gi dngos slob dmar chos kyi rgyal mtshan la bde mchog gi rgyud la sogs pa'i gsang sngags mang du gsan |). From the life of Phag mo gru pa (ID:3856).\r\n[R894SIKE]: 826 (g.yor po lugs smad du pu hrangs lo tsA ba'i dngos slob dmar chos kyi rgyal po | mes ston kun snying | rngog mdo sde | lo tsA ba chos kyi bzang po'i slob ma bla ma gshen chen po dgung lo gya gsum bzhes pa dang mjal |). From the life or rGyal tsha (ID:7278), the chief disciple of Phag mo gru pa (ID:3856).",
+      "tei_refs": "",
+      "support_notes": "There seems to be some confusion in [R894SIKE] as to whether sPu hrangs was the teacher of dMar chos kyi rgyal mtshan (ID:7185) or of dMar chos kyi rgyal po (ID:7183). The former is more likely in view of the chronology of the two dMar, who were uncle and nephew.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,

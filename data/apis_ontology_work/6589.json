@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6589/",
+  "relations": [
+    {
+      "id": 3506,
+      "label": "bzhi brgya pa'i rnam bshad (6589) commentary on catu\u1e25\u015bataka\u015b\u0101stran\u0101mak\u0101rik\u0101 (3721)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6589/",
+        "label": "bzhi brgya pa'i rnam bshad (6589)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3721/",
+        "label": "catu\u1e25\u015bataka\u015b\u0101stran\u0101mak\u0101rik\u0101 (3721)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3505,
+      "label": "zhang thang sag pa ye shes 'byung gnas (3870) author of bzhi brgya pa'i rnam bshad (6589)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3870/",
+        "label": "zhang thang sag pa ye shes 'byung gnas (3870)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6589/",
+        "label": "bzhi brgya pa'i rnam bshad (6589)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 523, No. 11343.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1180-12-31",
   "start_date_from": "1010-01-01",
   "start_date_sort": "1095-07-02",

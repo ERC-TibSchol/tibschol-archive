@@ -1,5 +1,39 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3945/",
+  "relations": [
+    {
+      "id": 185,
+      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) student of rgyal tsha zhang ye (3945)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3945/",
+        "label": "rgyal tsha zhang ye (3945)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 109 (bya 'dul 'dzin ... rgyal tsha zhang ye la dbu tshad |). Subject: Madhyamaka and epistemology.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        13
+      ]
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,

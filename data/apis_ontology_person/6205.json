@@ -1,5 +1,36 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6205/",
+  "relations": [
+    {
+      "id": 2634,
+      "label": "mkhan po ka ba (6205) student of rgya dmar ba byang chub grags (3834)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6205/",
+        "label": "mkhan po ka ba (6205)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 467 (grwa sa der rje phag mo gru pa | mkhan po ka ba | 'bal tshad ma ba rnams dang dus mtshungs |). At the same time as Cog ro chos kyi rgyal mtshan (ID: 6191), Phag mo gru pa (ID: 3856), 'Bal tshad ma pa (ID: 3919). It is unclear whether the \"grwa sa\" refers to \"rgya dmar gyi grwa sa\" or to the place called \"do\" (ID:7241) mentioned in the previous sentence, and studies with rGya dmar ba (ID:3834) are not explicit in this sentence.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,

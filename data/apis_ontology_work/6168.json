@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6168/",
+  "relations": [
+    {
+      "id": 2543,
+      "label": "g.yag sde paN chen brtson 'grus dar rgyas (3899) studies bodhisattv\u0101vad\u0101nakalpalat\u0101 (6168)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3899/",
+        "label": "g.yag sde paN chen brtson 'grus dar rgyas (3899)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6168/",
+        "label": "bodhisattv\u0101vad\u0101nakalpalat\u0101 (6168)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 630 (gsang phu ba blo gros mtshungs med la rnam nges dang | byams chos lnga | spyod 'jug tshad ma bsdus pa | snyan ngag dpag bsam 'khri shing rnams zhus). With gSang phu ba Blo gros mtshungs med (ID: 3896).",
+      "tei_refs": "",
+      "support_notes": "The identification of the work referred to as \"snyan ngag dpag bsam 'khri shing\" is uncertain.",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2550,
+      "label": "gsang phu ba blo gros mtshungs med (3896) teaches bodhisattv\u0101vad\u0101nakalpalat\u0101 (6168)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
+        "label": "gsang phu ba blo gros mtshungs med (3896)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6168/",
+        "label": "bodhisattv\u0101vad\u0101nakalpalat\u0101 (6168)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 630 (gsang phu ba blo gros mtshungs med la rnam nges dang | byams chos lnga | spyod 'jug tshad ma bsdus pa | snyan ngag dpag bsam 'khri shing rnams zhus). With gSang phu ba Blo gros mtshungs med (ID: 3896).",
+      "tei_refs": "",
+      "support_notes": "The identification of the work referred to as \"snyan ngag dpag bsam 'khri shing\" is uncertain.",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2542,
+      "label": "k\u1e63emendra (6169) author of bodhisattv\u0101vad\u0101nakalpalat\u0101 (6168)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6169/",
+        "label": "k\u1e63emendra (6169)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6168/",
+        "label": "bodhisattv\u0101vad\u0101nakalpalat\u0101 (6168)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

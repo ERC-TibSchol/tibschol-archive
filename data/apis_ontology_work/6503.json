@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6503/",
+  "relations": [
+    {
+      "id": 3278,
+      "label": "spring yig bdud rtsi'i thig pa'i rgya cher bshad pa dpag bsam yongs 'du'i ljon phreng (6503) commentary on spring yig bdud rtsi'i thig pa (4447)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6503/",
+        "label": "spring yig bdud rtsi'i thig pa'i rgya cher bshad pa dpag bsam yongs 'du'i ljon phreng (6503)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4447/",
+        "label": "spring yig bdud rtsi'i thig pa (4447)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 206, n. 71.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3277,
+      "label": "gser mdog paN chen shAkya mchog ldan (6276) author of spring yig bdud rtsi'i thig pa'i rgya cher bshad pa dpag bsam yongs 'du'i ljon phreng (6503)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6276/",
+        "label": "gser mdog paN chen shAkya mchog ldan (6276)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6503/",
+        "label": "spring yig bdud rtsi'i thig pa'i rgya cher bshad pa dpag bsam yongs 'du'i ljon phreng (6503)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1507-12-31",
   "start_date_from": "1438-01-01",
   "start_date_sort": "1472-12-30",

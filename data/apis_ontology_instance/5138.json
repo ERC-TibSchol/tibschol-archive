@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5138/",
+  "relations": [
+    {
+      "id": 1584,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa rgya mtsho (5139) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa rgya mtsho (5138)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5139/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa rgya mtsho (5139)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5138/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa rgya mtsho (5138)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

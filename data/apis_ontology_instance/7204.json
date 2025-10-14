@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7204/",
+  "relations": [
+    {
+      "id": 5356,
+      "label": "phag mo gru pa'i rnam thar gzi brjid 'bar ba'i sgron ma (7138) has as an instance phag mo gru pa'i rnam thar gzi brjid 'bar ba'i sgron ma (7204)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7138/",
+        "label": "phag mo gru pa'i rnam thar gzi brjid 'bar ba'i sgron ma (7138)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7204/",
+        "label": "phag mo gru pa'i rnam thar gzi brjid 'bar ba'i sgron ma (7204)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "WBWSEPQX",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

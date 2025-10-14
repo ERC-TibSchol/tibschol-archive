@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4505/",
+  "relations": [
+    {
+      "id": 1295,
+      "label": "bde bar gshegs pa dang phyi rol pa'i gzhung rnam par 'byed pa (4505) has as an instance bde bar gshegs pa dang phyi rol pa'i gzhung rnam par 'byed pa (4504)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4505/",
+        "label": "bde bar gshegs pa dang phyi rol pa'i gzhung rnam par 'byed pa (4505)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4504/",
+        "label": "bde bar gshegs pa dang phyi rol pa'i gzhung rnam par 'byed pa (4504)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 580,
+      "label": "phywa pa chos kyi seng ge (3831) author of bde bar gshegs pa dang phyi rol pa'i gzhung rnam par 'byed pa (4505)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4505/",
+        "label": "bde bar gshegs pa dang phyi rol pa'i gzhung rnam par 'byed pa (4505)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex9012024-10-0913-15-03",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1169-12-31",
   "start_date_from": "1119-01-01",
   "start_date_sort": "1144-07-01",

@@ -1,5 +1,66 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5955/",
+  "relations": [
+    {
+      "id": 2187,
+      "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277) composed at cong to'i mkhar (5955)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5277/",
+        "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5955/",
+        "label": "cong to'i mkhar (5955)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex83012024-11-2110-40-15",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2189,
+      "label": "mchims 'jam pa'i dbyangs (4090) active at cong to'i mkhar (5955)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4090/",
+        "label": "mchims 'jam pa'i dbyangs (4090)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5955/",
+        "label": "cong to'i mkhar (5955)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex83012024-11-2110-40-15",
+      "support_notes": "Composition of work (ID:5277).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

@@ -1,5 +1,65 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4201/",
+  "relations": [
+    {
+      "id": 399,
+      "label": "gtsang pa jo nam (4201) student of gnyal zhig po 'jam pa'i rdo rje (3887)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4201/",
+        "label": "gtsang pa jo nam (4201)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
+        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 407 (gnyal zhig gi bu dgu zhes pa byung ste | bzang rings| phu thang dar dkon | gtsang pa gru gu gsum snga tshar | 'u yug pa bsod nams seng ge | bo dong rin rtse | gtsang pa jo nam gsum bar tshar | rgya 'ching ru ba| 'jam gsar | skyel nag grags seng gsum phyi tshar ro ||)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2846,
+      "label": "gtsang pa jo nam (4201) active at gsang phu gling smad (6158)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4201/",
+        "label": "gtsang pa jo nam (4201)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6158/",
+        "label": "gsang phu gling smad (6158)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1300-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1300-12-31",
+      "start_date_to": null,
+      "start_date_from": "1200-01-01",
+      "start_date_sort": "1200-01-01",
+      "zotero_refs": "[MPRU5QUC]: 209. Abbot of gSang phu ne'u thog monastery (fifth abbot of lower college) for 15 years.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1200",
+      "end": "before 1300",
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "end_date_to": "1300-12-31",
   "end_date_from": "1272-01-01",
   "end_date_sort": "1286-07-01",

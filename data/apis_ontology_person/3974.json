@@ -1,5 +1,67 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3974/",
+  "relations": [
+    {
+      "id": 2701,
+      "label": "zhang btsun rdo rje 'od zer (3974) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3974/",
+        "label": "zhang btsun rdo rje 'od zer (3974)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LWBNM7B]: 119, n. 21. Abbot from 1185 to 1193.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "before 1185",
+      "end": "before 1185",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 217,
+      "label": "gro ston bdud rtsi grags (3880) student of zhang btsun rdo rje 'od zer (3974)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
+        "label": "gro ston bdud rtsi grags (3880)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3974/",
+        "label": "zhang btsun rdo rje 'od zer (3974)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5WBK2VV]: 47.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        57
+      ]
+    }
+  ],
   "end_date_to": "1194-12-31",
   "end_date_from": "1194-01-01",
   "end_date_sort": "1194-07-02",

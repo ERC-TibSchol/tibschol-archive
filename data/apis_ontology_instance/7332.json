@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7332/",
+  "relations": [
+    {
+      "id": 5685,
+      "label": "bslab pa kun las btus pa'i rtsa ba'i don man ngag gi bshad pa'i brjed byang (6549) has as an instance bslab pa kun las btus pa'i rtsa ba'i don man ngag gi bshad pa'i brjed byang (7332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6549/",
+        "label": "bslab pa kun las btus pa'i rtsa ba'i don man ngag gi bshad pa'i brjed byang (6549)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7332/",
+        "label": "bslab pa kun las btus pa'i rtsa ba'i don man ngag gi bshad pa'i brjed byang (7332)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

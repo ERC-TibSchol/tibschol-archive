@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7015/",
+  "relations": [
+    {
+      "id": 4651,
+      "label": "bu ston seng ge 'od (3) (7015) ordinator of brag kha ba grags pa seng ge (3907)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7015/",
+        "label": "bu ston seng ge 'od (3) (7015)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3907/",
+        "label": "brag kha ba grags pa seng ge (3907)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 906 (phyis mkhan po de nyid dang dbu ma pa sher 'bum gyis slob dpon | bu ston seng ge 'od kyis gsang ston mdzad de [Brag kha ba] bsnyen par rdzogs |). Final ordination of Brag kha ba (ID:3907), carried out together by Bu ston seng ge 'od together with dBu ma pa sher 'bum (ID:3903) and Phro phu rin po che (ID:7014).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4653,
+      "label": "khro phu rin po che bsod nams seng ge (7014) other relation to bu ston seng ge 'od (3) (7015)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7014/",
+        "label": "khro phu rin po che bsod nams seng ge (7014)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7015/",
+        "label": "bu ston seng ge 'od (3) (7015)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 906 (phyis mkhan po de nyid dang dbu ma pa sher 'bum gyis slob dpon | bu ston seng ge 'od kyis gsang ston mdzad de [Brag kha ba] bsnyen par rdzogs |).",
+      "tei_refs": "",
+      "support_notes": "Acted together in the final ordination of Brag kha ba (ID:3907).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "end_date_to": null,
   "end_date_from": "1270-01-01",
   "end_date_sort": "1270-01-01",

@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6283/",
+  "relations": [
+    {
+      "id": 2841,
+      "label": "shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (2) (6283) has source shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (1) (4452)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6283/",
+        "label": "shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (2) (6283)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4452/",
+        "label": "shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (1) (4452)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2842,
+      "label": "shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (4453) has as an instance shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (2) (6283)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4453/",
+        "label": "shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (4453)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6283/",
+        "label": "shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (2) (6283)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "2007-12-31",
   "start_date_from": "2007-01-01",
   "start_date_sort": "2007-07-02",

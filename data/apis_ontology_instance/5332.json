@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5332/",
+  "relations": [
+    {
+      "id": 1672,
+      "label": "rgyud sde'i spyi'i rnam par bzhag pa 'thad ldan lung gi rgyan gyis spras pa (5333) has as an instance rgyud sde spyi'i rnam par bzhag pa 'thad ldan lung gi rgyan gyis spras pa (5332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5333/",
+        "label": "rgyud sde'i spyi'i rnam par bzhag pa 'thad ldan lung gi rgyan gyis spras pa (5333)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5332/",
+        "label": "rgyud sde spyi'i rnam par bzhag pa 'thad ldan lung gi rgyan gyis spras pa (5332)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

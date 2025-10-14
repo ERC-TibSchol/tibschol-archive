@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4911/",
+  "relations": [
+    {
+      "id": 1479,
+      "label": "rgyal ba'i yum yi ge gcig ma rgyan gyi me tog (4911) has as an instance rgyal ba'i yum yi ge gcig ma rgyan gyi me tog (4910)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4911/",
+        "label": "rgyal ba'i yum yi ge gcig ma rgyan gyi me tog (4911)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4910/",
+        "label": "rgyal ba'i yum yi ge gcig ma rgyan gyi me tog (4910)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5043,
+      "label": "rgyal ba'i yum yi ge gcig ma rgyan gyi me tog (4911) commentary on ek\u0101k\u1e63ar\u012bm\u0101t\u0101 (7151)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4911/",
+        "label": "rgyal ba'i yum yi ge gcig ma rgyan gyi me tog (4911)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7151/",
+        "label": "ek\u0101k\u1e63ar\u012bm\u0101t\u0101 (7151)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 814,
+      "label": "rigs pa'i ral gri (4006) author of rgyal ba'i yum yi ge gcig ma rgyan gyi me tog (4911)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4911/",
+        "label": "rgyal ba'i yum yi ge gcig ma rgyan gyi me tog (4911)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1305-12-31",
   "start_date_from": "1237-01-01",
   "start_date_sort": "1271-07-02",

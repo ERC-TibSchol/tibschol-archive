@@ -1,5 +1,178 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6488/",
+  "relations": [
+    {
+      "id": 3246,
+      "label": "chag dgra bcom (6488) student of steng pa lo tsA ba tshul khrims 'byung gnas sbas pa (6490)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6488/",
+        "label": "chag dgra bcom (6488)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6490/",
+        "label": "steng pa lo tsA ba tshul khrims 'byung gnas sbas pa (6490)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 1226 (stengs pa lo tsA ba la sgra dang lo tsA bslabs |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3240,
+      "label": "chag dgra bcom (6488) active at rte'u ra (4387)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6488/",
+        "label": "chag dgra bcom (6488)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4387/",
+        "label": "rte'u ra (4387)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 1227 (gtso bo rte'u rar gdan phab pa yin te | 'di dang por sne'u tsur pa'i slob ma skor chen pas btab| de rjes brgyud pa re shig stongs pa 'dra| de rjes chag gis gzung |)\r\n[R894SIKE]: 1229. Died at rTe'u ra at the age of 64.\r\n[PSQXSBDP]: 75.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "",
+      "end": "",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3238,
+      "label": "chag dgra bcom (6488) uncle (maternal/paternal) of chag lo tsA ba chos rje dpal (6412)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6488/",
+        "label": "chag dgra bcom (6488)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6412/",
+        "label": "chag lo tsA ba chos rje dpal (6412)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3239,
+      "label": "chag lo tsA ba chos rje dpal (6412) student of chag dgra bcom (6488)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6412/",
+        "label": "chag lo tsA ba chos rje dpal (6412)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6488/",
+        "label": "chag dgra bcom (6488)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 1229 (bcu gcig nas nyi shu'i bar du chag dgra bcom gyi zhabs drung du 'bral med brten nas sngags mtshan nyid kyi gzhung gdams ngag mang du zhus shing | ). Between Chag lo's age of 11 to 20.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1208",
+      "end": "1208",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3247,
+      "label": "gu ru ba chag ston chen po rin chen tshul khrims (6491) ordinator of chag dgra bcom (6488)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6491/",
+        "label": "gu ru ba chag ston chen po rin chen tshul khrims (6491)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6488/",
+        "label": "chag dgra bcom (6488)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 1226 (gu ru ba chag ston chen po mtshan rin chen tshul khrims shes bya ba gro lung ba'i dngos slob de las rab tu byung |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3241,
+      "label": "\u015b\u0101kya\u015br\u012bbhadra (6418) other relation to chag dgra bcom (6488)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6418/",
+        "label": "\u015b\u0101kya\u015br\u012bbhadra (6418)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6488/",
+        "label": "chag dgra bcom (6488)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 1228 (kha che paN chen gyis gzhan la bsnyen rdzogs sgrub pa'i skabs su chag gis las chog rnams saM skri ta'i skad du mdzad pas paN chen mnyes |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "end_date_to": "1216-12-31",
   "end_date_from": "1216-01-01",
   "end_date_sort": "1216-07-01",

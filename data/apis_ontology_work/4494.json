@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4494/",
+  "relations": [
+    {
+      "id": 1290,
+      "label": "mdo sde rgyan gyi bshad pa (4494) has as an instance mdo sde rgyan gyi bshad pa (4493)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4494/",
+        "label": "mdo sde rgyan gyi bshad pa (4494)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4493/",
+        "label": "mdo sde rgyan gyi bshad pa (4493)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex7062023-10-11103259",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 572,
+      "label": "mdo sde rgyan gyi bshad pa (4494) commentary on mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4494/",
+        "label": "mdo sde rgyan gyi bshad pa (4494)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3746/",
+        "label": "mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 571,
+      "label": "phywa pa chos kyi seng ge (3831) author of mdo sde rgyan gyi bshad pa (4494)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4494/",
+        "label": "mdo sde rgyan gyi bshad pa (4494)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No. 15904: phya pa chos kyi seng ge.",
+      "tei_refs": "ex7062023-09-11-143 Uncertain whether \"dharma seng ge\" is Phya pa Chos kyi seng ge.",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1169-12-31",
   "start_date_from": "1119-01-01",
   "start_date_sort": "1144-07-01",

@@ -1,5 +1,147 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7058/",
+  "relations": [
+    {
+      "id": 5661,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i bsdus don (7058) has as an instance spyod 'jug gi bsdus don (7315)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7058/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i bsdus don (7058)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7315/",
+        "label": "spyod 'jug gi bsdus don (7315)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4811,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i bsdus don (7058) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i don (7059)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7058/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i bsdus don (7058)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7059/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i don (7059)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[HMSTSJ7Q]: 36 (sNye mo bye mkhar chos sde), pod 2, no. 4: byang chub sems dpa'i spyod pa la 'jug pa'i don; mang du thos pa'i dge slong brtson 'grus seng ge gtsang nag brtson 'grus seng ge",
+      "tei_refs": "",
+      "support_notes": "Possibly an instance of work (ID:7058), reading \"bsdus don\" for \"don.\"",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4809,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i bsdus don (7058) commentary on bodhicary\u0101vat\u0101ra (3727)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7058/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i bsdus don (7058)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3727/",
+        "label": "bodhicary\u0101vat\u0101ra (3727)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5735,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i bsdus don (7058) has as an instance spyod 'jug gi sa bcad (7366)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7058/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i bsdus don (7058)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7366/",
+        "label": "spyod 'jug gi sa bcad (7366)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4810,
+      "label": "gtsang nag pa brtson 'grus seng ge (3839) author of byang chub sems dpa'i spyod pa la 'jug pa'i bsdus don (7058)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7058/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i bsdus don (7058)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:7059) in [HMSTSJ7Q]: 36, pod 2, no. 4: byang chub sems dpa'i spyod pa la 'jug pa'i don, mang du thos pa'i dge slong brtson 'grus seng ge gtsang nag brtson 'grus seng ge.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1195-12-31",
   "start_date_from": "1150-01-01",
   "start_date_sort": "1172-12-31",

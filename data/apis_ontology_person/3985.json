@@ -1,5 +1,150 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3985/",
+  "relations": [
+    {
+      "id": 3368,
+      "label": "sangs rgyas sgom pa rdo rje gzhon nu (3985) active at bya yul dgon pa (4407)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3985/",
+        "label": "sangs rgyas sgom pa rdo rje gzhon nu (3985)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4407/",
+        "label": "bya yul dgon pa (4407)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 364 (in the chapter on the abbots of Bya yul)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1201",
+      "end": "1201",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3370,
+      "label": "sangs rgyas sgom pa rdo rje gzhon nu (3985) student of glang lung pa brtson 'grus gzhon nu (3860)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3985/",
+        "label": "sangs rgyas sgom pa rdo rje gzhon nu (3985)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3860/",
+        "label": "glang lung pa brtson 'grus gzhon nu (3860)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 364 (rin po che glang lung pa dang mo lung na bzhugs pa'i zhal bltar phyin pas dad pa tshad med pa 'khrungs | ...)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 229,
+      "label": "sangs rgyas sgom pa rdo rje gzhon nu (3985) student of sbal ti jo sras brtson 'grus dbang phyug (3967)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3985/",
+        "label": "sangs rgyas sgom pa rdo rje gzhon nu (3985)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3967/",
+        "label": "sbal ti jo sras brtson 'grus dbang phyug (3967)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 364 (sbal ti la 'dul ba nyis khrid tshar gcig gsan |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3369,
+      "label": "sbal ti jo sras brtson 'grus dbang phyug (3967) ordinator of sangs rgyas sgom pa rdo rje gzhon nu (3985)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3967/",
+        "label": "sbal ti jo sras brtson 'grus dbang phyug (3967)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3985/",
+        "label": "sangs rgyas sgom pa rdo rje gzhon nu (3985)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 364 (lo bcu bzhi la mkhan po sbal ti dang | gtsang pa'i bu bzhi'i gya ba dge bshes 'gar gyis slob dpon byas nas rab tu byung |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1173",
+      "end": "1173"
+    },
+    {
+      "id": 4398,
+      "label": "zem rin po che grags pa seng ge (6938) other relation to sangs rgyas sgom pa rdo rje gzhon nu (3985)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6938/",
+        "label": "zem rin po che grags pa seng ge (6938)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3985/",
+        "label": "sangs rgyas sgom pa rdo rje gzhon nu (3985)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 365-366 (lo bcu drug pa la sangs rgyas sgom pa ba tshur byon pa dang mjal | rab tu dbyung bar zhus pas | gro sar gyis gsung nas | mkhan po rnal 'byor byang seng las rab tu byung | mtshan grags pa seng ger btags |). Zem rin po che met Sangs rgyas sgom pa and requested ordination.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1216",
+      "end": "1216"
+    }
+  ],
   "end_date_to": "1229-12-31",
   "end_date_from": "1229-01-01",
   "end_date_sort": "1229-07-02",

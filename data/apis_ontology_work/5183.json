@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5183/",
+  "relations": [
+    {
+      "id": 1606,
+      "label": "shes rab kyi pha rol tu phyin pa'i snyan brgyud kyi gdams ngag (5183) has as an instance shes rab kyi pha rol tu phyin pa'i snyan brgyud kyi gdams ngag (5182)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5183/",
+        "label": "shes rab kyi pha rol tu phyin pa'i snyan brgyud kyi gdams ngag (5183)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5182/",
+        "label": "shes rab kyi pha rol tu phyin pa'i snyan brgyud kyi gdams ngag (5182)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 974,
+      "label": "gro ston bdud rtsi grags (3880) author of shes rab kyi pha rol tu phyin pa'i snyan brgyud kyi gdams ngag (5183)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
+        "label": "gro ston bdud rtsi grags (3880)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5183/",
+        "label": "shes rab kyi pha rol tu phyin pa'i snyan brgyud kyi gdams ngag (5183)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1232-12-31",
   "start_date_from": "1163-01-01",
   "start_date_sort": "1197-12-31",

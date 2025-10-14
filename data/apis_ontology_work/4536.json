@@ -1,5 +1,119 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4536/",
+  "relations": [
+    {
+      "id": 1310,
+      "label": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (4536) has as an instance rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (2) (4537)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4536/",
+        "label": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (4536)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4537/",
+        "label": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (2) (4537)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1309,
+      "label": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (4536) has as an instance rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (1) (4535)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4536/",
+        "label": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (4536)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4535/",
+        "label": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (1) (4535)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4737,
+      "label": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (4536) commentary on rgyal po'i do ha (7027)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4536/",
+        "label": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (4536)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7027/",
+        "label": "rgyal po'i do ha (7027)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 599,
+      "label": "spar phu ba blo gros seng ge (3854) author of rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (4536)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3854/",
+        "label": "spar phu ba blo gros seng ge (3854)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4536/",
+        "label": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (4536)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1199-12-31",
   "start_date_from": "1110-01-01",
   "start_date_sort": "1154-12-31",

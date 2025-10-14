@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5877/",
+  "relations": [
+    {
+      "id": 1968,
+      "label": "dbu ma bden gnyis kyi don bsdus (4480) has as an instance dbu ma bden pa gnyis rnam par 'byed pa (5877)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4480/",
+        "label": "dbu ma bden gnyis kyi don bsdus (4480)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5877/",
+        "label": "dbu ma bden pa gnyis rnam par 'byed pa (5877)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8H6M69W4]: No. 15710. Title: slob dpon ye shes snying pos mdzad pa'i dbu ma bden pa gnyis rnam par 'byed pa. Author: phya pa chos kyi seng ge.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

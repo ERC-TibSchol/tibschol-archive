@@ -1,5 +1,93 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6479/",
+  "relations": [
+    {
+      "id": 3214,
+      "label": "mchog gi bla ma (6479) ordinator of dus gsum mkhyen pa (3855)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6479/",
+        "label": "mchog gi bla ma (6479)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3855/",
+        "label": "dus gsum mkhyen pa (3855)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1126-12-31",
+      "end_date_from": "1126-01-01",
+      "end_date_sort": "1126-07-02",
+      "start_date_to": "1126-12-31",
+      "start_date_from": "1126-01-01",
+      "start_date_sort": "1126-07-02",
+      "zotero_refs": "[Y6NGTTC6]: 24 and 304. According to the gSer gling by rGang lo, edited in [Y6NGTTC6]: 100 (dgung lo bcu drug la dka' brag tu dge bshes mchog gi bla ma la dge tshul mdzad nas). Novice ordination in dKa' brag (ID:6480).\r\n[I58Z22ET]: 408-409, n. 42, based on Dus gsum mkhyen pa'i rnam thar in Si tu Chos kyi 'byung gnas's Karma kam tshang gser 'phreng (tre ka brag ces bya ba'i bka' gdams kyi dgon pas mkhan po mchog gi bla ma (ID:6479) dang | slob dpon seng ge grags (ID:7207) las rab tu byung nas). \r\n[W4T5ZMUP]:84 [52a2\u20133] (de nas [dus gsum mkhyen pa] dgung lo bcu drug zhes pa'i tshe | chos 'khor chen po ka brag tu | rngog lo tstsha ba'i slob ma mchog gi bla mas mkhas po dang | chag seng ge grags kyis slob dpon mdzad de rab tu byung nas |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1126",
+      "end": "1126"
+    },
+    {
+      "id": 3216,
+      "label": "mchog gi bla ma (6479) active at dka' brag (6480)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6479/",
+        "label": "mchog gi bla ma (6479)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6480/",
+        "label": "dka' brag (6480)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Y6NGTTC6]: 304. Ordained Dus gsum mkhyen (ID:3855), who attended him there for two years.\r\n[I58Z22ET]: 408-409, n. 42, based on Dus gsum mkhyen pa'i rnam thar in Si tu Chos kyi 'byung gnas's Karma kam tshang gser 'phreng (tre ka brag ces bya ba'i bka' gdams kyi dgon pas mkhan po mchog gi bla ma (ID:6479) dang | slob dpon seng ge grags las rab tu byung nas).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3215,
+      "label": "dus gsum mkhyen pa (3855) student of mchog gi bla ma (6479)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3855/",
+        "label": "dus gsum mkhyen pa (3855)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6479/",
+        "label": "mchog gi bla ma (6479)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Y6NGTTC6]: 304. In dKa' brag (ID:6408)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1126",
+      "end": "after 1126",
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "end_date_to": "1186-12-31",
   "end_date_from": "1128-01-01",
   "end_date_sort": "1157-07-01",

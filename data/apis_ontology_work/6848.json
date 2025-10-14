@@ -1,5 +1,119 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6848/",
+  "relations": [
+    {
+      "id": 4258,
+      "label": "shes rab kyi pha rol to phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa gsal ba'i sgron me (6848) has as an instance shes rab kyi pha rol to phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa gsal ba'i sgron me (6849)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6848/",
+        "label": "shes rab kyi pha rol to phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa gsal ba'i sgron me (6848)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6849/",
+        "label": "shes rab kyi pha rol to phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa gsal ba'i sgron me (6849)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4256,
+      "label": "shes rab kyi pha rol to phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa gsal ba'i sgron me (6848) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6848/",
+        "label": "shes rab kyi pha rol to phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa gsal ba'i sgron me (6848)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
+        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4257,
+      "label": "Anonymous (4593) author of shes rab kyi pha rol to phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa gsal ba'i sgron me (6848)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4593/",
+        "label": "Anonymous (4593)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6848/",
+        "label": "shes rab kyi pha rol to phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa gsal ba'i sgron me (6848)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4260,
+      "label": "dge 'dun dpal bzang (6850) author of shes rab kyi pha rol to phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa gsal ba'i sgron me (6848)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6850/",
+        "label": "dge 'dun dpal bzang (6850)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6848/",
+        "label": "shes rab kyi pha rol to phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa gsal ba'i sgron me (6848)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "The colophon reports \"dge 'dun dpal bzang zhes bya'i rtog ge pas bsgrigs pa'i dge 'dis...\" - dGe 'dun dpal bzang could be the author or the compiler of someone else's teaching. He might also be the scribe - compare with the use of the verb \"grigs\" for the scribe on the cover page of (ID:4894) (\"bris\" in the colophon).",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

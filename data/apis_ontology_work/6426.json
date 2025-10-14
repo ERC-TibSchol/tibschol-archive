@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6426/",
+  "relations": [
+    {
+      "id": 3072,
+      "label": "sdud pa'i tshigs su bcad pa'i rka 'grel gyi ti ka (6426) commentary on sa\u1e43cayag\u0101th\u0101pa\u00f1jik\u0101 (5937)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6426/",
+        "label": "sdud pa'i tshigs su bcad pa'i rka 'grel gyi ti ka (6426)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5937/",
+        "label": "sa\u1e43cayag\u0101th\u0101pa\u00f1jik\u0101 (5937)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3073,
+      "label": "sdud pa'i tshigs su bcad pa'i rka 'grel gyi ti ka (6426) has as an instance sdud pa'i tshigs su bcad pa'i rka 'grel gyi ti ka (6427)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6426/",
+        "label": "sdud pa'i tshigs su bcad pa'i rka 'grel gyi ti ka (6426)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6427/",
+        "label": "sdud pa'i tshigs su bcad pa'i rka 'grel gyi ti ka (6427)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3071,
+      "label": "ar byang chub ye shes (3816) author of sdud pa'i tshigs su bcad pa'i rka 'grel gyi ti ka (6426)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3816/",
+        "label": "ar byang chub ye shes (3816)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6426/",
+        "label": "sdud pa'i tshigs su bcad pa'i rka 'grel gyi ti ka (6426)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Identification of authorship suggested by Dan Martin on the basis of the colophon (https://sites.google.com/site/tiblical/matho-fragments-handlist, v119).\r\nColophon, fol. 54a7: sdud pa tshigs su bcad pa'i rka' 'grel kyi ti ka shag kya dge' slong byang chub seng ges kyis sbyar ba rdzogs s+ho ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1194-12-31",
   "start_date_from": "1064-01-01",
   "start_date_sort": "1129-07-02",

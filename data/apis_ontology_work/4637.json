@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4637/",
+  "relations": [
+    {
+      "id": 1357,
+      "label": "rgyal ba'i yum bsdus pa brgyad stong pa'i rnam par bshad pa (4637) has as an instance rgyal ba'i yum bsdus pa brgyad stong pa'i rnam par bshad pa (4636)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4637/",
+        "label": "rgyal ba'i yum bsdus pa brgyad stong pa'i rnam par bshad pa (4637)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4636/",
+        "label": "rgyal ba'i yum bsdus pa brgyad stong pa'i rnam par bshad pa (4636)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4162,
+      "label": "rgyal ba'i yum bsdus pa brgyad stong pa'i rnam par bshad pa (4637) commentary on a\u1e63\u1e6das\u0101hasrik\u0101praj\u00f1\u0101p\u0101ramit\u0101 (3692)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4637/",
+        "label": "rgyal ba'i yum bsdus pa brgyad stong pa'i rnam par bshad pa (4637)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3692/",
+        "label": "a\u1e63\u1e6das\u0101hasrik\u0101praj\u00f1\u0101p\u0101ramit\u0101 (3692)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 666,
+      "label": "chos grags (3917) author of rgyal ba'i yum bsdus pa brgyad stong pa'i rnam par bshad pa (4637)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3917/",
+        "label": "chos grags (3917)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4637/",
+        "label": "rgyal ba'i yum bsdus pa brgyad stong pa'i rnam par bshad pa (4637)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported in [8H6M69W4]: shAkya'i dge slong chos kyi grags pas",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

@@ -1,5 +1,119 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7380/",
+  "relations": [
+    {
+      "id": 5798,
+      "label": "byang chub kyi spyod pa la 'jug pa'i rnam par bshad pa dgongs pa nges par gsal ba (7380) commentary on bodhicary\u0101vat\u0101ra (3727)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7380/",
+        "label": "byang chub kyi spyod pa la 'jug pa'i rnam par bshad pa dgongs pa nges par gsal ba (7380)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3727/",
+        "label": "bodhicary\u0101vat\u0101ra (3727)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5806,
+      "label": "byang chub kyi spyod pa la 'jug pa'i rnam par bshad pa dgongs pa nges par gsal ba (7380) composed at sa skya dong pa (5733)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7380/",
+        "label": "byang chub kyi spyod pa la 'jug pa'i rnam par bshad pa dgongs pa nges par gsal ba (7380)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
+        "label": "sa skya dong pa (5733)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5799,
+      "label": "byang chub kyi spyod pa la 'jug pa'i rnam par bshad pa dgongs pa nges par gsal ba (7380) has as an instance byang chub kyi spyod pa la 'jug pa'i rnam par bshad pa dgongs pa nges par gsal ba (7381)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7380/",
+        "label": "byang chub kyi spyod pa la 'jug pa'i rnam par bshad pa dgongs pa nges par gsal ba (7380)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7381/",
+        "label": "byang chub kyi spyod pa la 'jug pa'i rnam par bshad pa dgongs pa nges par gsal ba (7381)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5797,
+      "label": "bla ma dam pa bsod nams rgyal mtshan (3916) author of byang chub kyi spyod pa la 'jug pa'i rnam par bshad pa dgongs pa nges par gsal ba (7380)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3916/",
+        "label": "bla ma dam pa bsod nams rgyal mtshan (3916)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7380/",
+        "label": "byang chub kyi spyod pa la 'jug pa'i rnam par bshad pa dgongs pa nges par gsal ba (7380)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1338-12-31",
   "start_date_from": "1338-01-01",
   "start_date_sort": "1338-07-02",

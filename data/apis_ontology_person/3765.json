@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3765/",
+  "relations": [
+    {
+      "id": 24,
+      "label": "\u015b\u0101kyaprabha (3765) author of m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101v\u1e5btti (3766)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3765/",
+        "label": "\u015b\u0101kyaprabha (3765)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3766/",
+        "label": "m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101v\u1e5btti (3766)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 23,
+      "label": "\u015b\u0101kyaprabha (3765) author of m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101 (3764)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3765/",
+        "label": "\u015b\u0101kyaprabha (3765)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3764/",
+        "label": "m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101 (3764)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,

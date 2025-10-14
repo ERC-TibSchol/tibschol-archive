@@ -1,5 +1,1962 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+  "relations": [
+    {
+      "id": 60,
+      "label": "'bre shes rab 'bar (3807) student of yol thog 'bebs (3813)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3813/",
+        "label": "yol thog 'bebs (3813)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 537, n. 42, based on [Y2ZN5C6X]: 13a2-6 (\"He received exhaustive teachings from the Yol brothers and mastered them.\") \"Yol brothers\" here implies he did not only study with Yol chen po Chos kyi dbang phyug but also his two younger brothers.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 61,
+      "label": "'bre shes rab 'bar (3807) student of yol drang srong (3814)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3814/",
+        "label": "yol drang srong (3814)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 537, n. 42, based on [Y2ZN5C6X]: 13a2-6 (\"He received exhaustive teachings from the Yol brothers and mastered them.\") \"Yol brothers\" here implies he did not only study with Yol chen po Chos kyi dbang phyug but also his two younger brothers.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 63,
+      "label": "'bre shes rab 'bar (3807) student of sthirap\u0101la (5611)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5611/",
+        "label": "sthirap\u0101la (5611)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 537, based on [Q3KCZX7B]: 81, l. 1-7 (\"Among the many followers of Yol Chos kyi dbang phyug, 'Bre chen po Shes rab 'bar was his most distinguished disciple. He attended upon many mkhas grub of rGya [gar and] Tibet, such as bla ma 'Bum phrag [gsum pa] from rGya gar [and] rNgog Blo ldan shes rab.\").\r\n[647FFPZR]: 537, n. 42, based on [Y2ZN5C6X]: 13a2-6 (\"Moreover he studied under outstanding bla-mas, such as pandi ta 'Bum phrag gsum pa, rNgog lo tsa ba Blo ldan shes rab, and many mkhas grub of India and Tibet. He was a master of all texts and in particular of Byams chos lnga\").",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 59,
+      "label": "'bre shes rab 'bar (3807) student of yol chos kyi dbang phyug (3812)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3812/",
+        "label": "yol chos kyi dbang phyug (3812)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 537, based on [Q3KCZX7B]: 81, l. 1-7 (\"Among the many followers of Yol Chos kyi dbang phyug, 'Bre chen po Shes rab 'bar was his most distinguished disciple.\").",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5544,
+      "label": "'bre shes rab 'bar (3807) student of rwa lo tsA ba rdo rje grags (3790)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3790/",
+        "label": "rwa lo tsA ba rdo rje grags (3790)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 456-457 (phrin las phun sum tshogs pas 'khor yang lha btsun sngon mo la sogs pa che dgu dang | dge ba'i bshes gnyen yang 'gar stong btsan nam mkha' dang zhang tshes chung ba dang | so tshab 'dul 'dzin dang | gnyags ri pa dang | 'bre shes rab 'bar dang | 'ban dkon mchog rdo rje dang | rog mngon pa ba dang | zhu bka' gdams pa dang | mtha' bzhi pa so thang pa dang | stag pa kha che dang | dpyal lo tsA ba kun dga' rdo rje dang | zhang sa ga pa dang | zhang gtsang 'od dang | sgang indra dang | snur nyi ma dang ba reg thos pa dga' dang | lha rje dab dang | gran bu ba rin chen grags dang | glun rgyam legs dang | glun se bo shAkya rgyal dang | glun tsandra dang | glun rdor po dang | rgya lod chos grags dang | mar pa bsod rin dang | a me mi nyag dang | rgya dar sed dang | byang ran ston pa dang | myang dang | rogs kyugs se dang | khyung po dar ma 'bar dang | khyung po phu re dang | sna lo tsA ba dang | 'tshe mi bsod nams 'bar dang | 'tshe mi tshul po dang | phur tsandra dang | zhang dang | rwa sgom rdo rje rgyal po dang | rong pa rgya le dang | ma bla ma brang pa dang | rtsangs yang dag 'bar dang | bla ma mtha' dang | dpon rkun po dang | btsad tsha lcam me dang | rngog mdo sde dang | khu lo tsA ba mdo sde 'bar dang | grags dang | ne tso dang | mdo sde grags dang | sho rdo rje rgyal mtshan dang | sho dge 'dun dang | 'dzar dge po dang | 'gar a tsa dang | snyi ba dang | lang tsha ston nag dang | grol grub pa dang | 'bre kha sgyog pa dang | kyu ra a skyabs dang | rab dpya jo sras dang | tre bo mchog bla dang | ngo khro yon tshul dang | dbang dang | se rigs dang | zur hor po dang spang gyang bla ma dang | ma thog byang 'bar la sogs pa dang | khyad par bod la mkhas par grags pa'i tre bo mgon po rnams so ||).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2758,
+      "label": "'bre shes rab 'bar (3807) student of dge bshes mu tra chen po (3811)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3811/",
+        "label": "dge bshes mu tra chen po (3811)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[EG6VZ8JK]: 22, translated from [8GL7ZT7Y]. Studies of Yog\u0101c\u0101ra works before rNgog lo (ID:3786) came back to Tibet.\r\n[MGPRHX73]: 58 (based on \u015a\u0101kya mchog  ldan's [VKBZTBWN]). Subject: Abhidharma. Studies in Bo dong E.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "",
+      "end": "",
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 53,
+      "label": "'bre shes rab 'bar (3807) student of rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5NY3E6YU]: 67 (de\u2019i [rNgog Lo\u2019s] thugs kyi sras zhang tshe spong chos kyi bla ma | zhang gro lung pa blo gros \u2018byung gnas | khyung rin chen grags | 'bre shes rab 'bar bzhi la sras kyi thu bo bzhi zer |).\r\n[KHFQ2XU4]: 742 (slob ma'i tshogs mtha' yas kyang gtso bo zhang tshe spong chos kyi bla ma | zhang gro lung pa blo gros 'byung gnas | 'bre shes rab 'bar | khyud (sic) rin chen grags ste sras kyi thu bo bzhi |).\r\n[R894SIKE]: 402 (lo tsA ba'i slob ma'i mchog che ba 'bre shes rab 'bar gyis ...)\r\n[MGPRHX73]: 58. Subject: Perfection of wisdom\r\n[647FFPZR]: 537, n. 42. Based on the [Y2ZN5C6X], fol. 13a2-6. \r\n[R894SIKE]: 394-395 (zhang tshes spong chos kyi bla ma | gro lung pa blo gros 'byung gnas | khyung rin chen grags | 'bre shes rab 'bar bzhi la sras kyi thu bo bzhi zer |)\r\n[647FFPZR]: 537, based on [Q3KCZX7B]: 81, l. 1-7 (\"Among the many followers of Yol Chos kyi dbang phyug, 'Bre chen po Shes rab 'bar was his most distinguished disciple. He attended upon many mkhas grub of rGya [gar and] Tibet, such as bla ma 'Bum phrag [gsum pa] from rGya gar [and] rNgog Blo ldan shes rab.\").\r\n[647FFPZR]: 537, n. 42, based on [Y2ZN5C6X]: 13a2-6 (\"Moreover he studied under outstanding bla-mas, such as pandi ta 'Bum phrag gsum pa, rNgog lo tsa ba Blo ldan shes rab, and many mkhas grun of India and Tibet. He was a master of all texts and in particular of Byams chos lnga\").\r\n[4LDAV8UH]: 95.\r\n[EG6VZ8JK]: 25, translated from [8GL7ZT7Y].\r\n[BAQ9MH4T]: 197. One of the four main spiritual sons, along with Khyung, Gro lung pa and Zhang tshes spong. Based on the sketch of rNgog's life by Las chen Kun dga' rgyal mtshan (ID:4115).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1093",
+      "end": "after 1093",
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
+      "id": 3404,
+      "label": "'bre shes rab 'bar (3807) author of sdud pa'i 'grel pa (6531)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6531/",
+        "label": "sdud pa'i 'grel pa (6531)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 529, No. 11500: ['bri shes rab 'bar gyi] sdud pa'i 'grel pa.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3311,
+      "label": "'bre shes rab 'bar (3807) active at rgod po lung (4349)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4349/",
+        "label": "rgod po lung (4349)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 539.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3304,
+      "label": "'bre shes rab 'bar (3807) active at shod 'gur (4346)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4346/",
+        "label": "shod 'gur (4346)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 537, n. 42 and 538. 'Bre mainly resided there.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3323,
+      "label": "'bre shes rab 'bar (3807) ordinator of la stod pa dkon mchog mkhar (3819)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3819/",
+        "label": "la stod pa dkon mchog mkhar (3819)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 544-545. The ordination took place at Bye mda' (ID:4347).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3079,
+      "label": "'bre shes rab 'bar (3807) active at nyang stod chu mig (4351)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4351/",
+        "label": "nyang stod chu mig (4351)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 539, based on [Q3KCZX7B]: 38,21-39,10. Resided at Nyang stod Chu mig.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3310,
+      "label": "'bre shes rab 'bar (3807) active at lcang ra (4348)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4348/",
+        "label": "lcang ra (4348)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 539. 'Bre taugth there.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3301,
+      "label": "'bre shes rab 'bar (3807) other relation to khyung rin chen grags (3809)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 536 and 543. Opened together a school practising rNgog Lo tsa ba's system in Zhwa lu (ID:4350).\r\n[647FFPZR]: 543, n. 55, based on Jo bo yab sras las 'phros pa'i skyes bu dam pa 'ga' zhig gi byon pa'i tshul bstan rtsis. Both ordained Chu mig pa Shes rab grags (ID:3975) when he was 28.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3303,
+      "label": "'bre shes rab 'bar (3807) active at gtsang po nang pa (4345)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4345/",
+        "label": "gtsang po nang pa (4345)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 537, n. 42. 'Bre's birth place according to [Y2ZN5C6X]: 13a.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3300,
+      "label": "'bre shes rab 'bar (3807) active at zhwa lu (4350)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4350/",
+        "label": "zhwa lu (4350)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 536. Opened a school practising rNgog Lo tsa ba's system together with Khyung Rin chen grags (ID:3809).\r\n[647FFPZR]: 538-539. Was invited by the lCe family and opened a chos grwa with Khyung, but inclusion in the abbatial line is uncertain.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5076,
+      "label": "'bre shes rab 'bar (3807) other relation to khu ston brtson 'grus g.yung drung (4235)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
+        "label": "khu ston brtson 'grus g.yung drung (4235)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 122 (khu ston brtson 'grus g.yung drung lcags mo phag la 'khrungs | khong dang rngog legs pa'i shes rab dang | 'bre chen po rnams kyis khams su byon nas | jo bo se btsun la chos mang du mnyan |). rNgog legs pa'i shes rab (ID:3788) went to Khams (ID:6496) with Khu ston (ID:4235) and 'Bre chen po (ID:3807).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5790,
+      "label": "'bre shes rab 'bar (3807) lineage predecessor of dkar chung ba gzhon nu tshul khrims (3821)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3821/",
+        "label": "dkar chung ba gzhon nu tshul khrims (3821)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 321, n. 153. Based on [8GL7ZT7Y]. Transmission lineage of the Ratnagotravibh\u0101ga (ID:3749).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10,
+        56
+      ]
+    },
+    {
+      "id": 3403,
+      "label": "'bre shes rab 'bar (3807) author of phar Tik (6530)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6530/",
+        "label": "phar Tik (6530)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 529, No. 11499: ['bri shes rab 'bar gyi] phar Tik.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3103,
+      "label": "'bre shes rab 'bar (3807) active at 'chad mang (6433)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6433/",
+        "label": "'chad mang (6433)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 95.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 1862,
+      "label": "'bre shes rab 'bar (3807) author of yum brgyad stong pa'i don bsdus (4449)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4449/",
+        "label": "yum brgyad stong pa'i don bsdus (4449)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex2012023-07-10082928",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3398,
+      "label": "'bre shes rab 'bar (3807) author of nyi khri'i 'grel pa (6529)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6529/",
+        "label": "nyi khri'i 'grel pa (6529)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 529, No. 11498: 'bri shes rab 'bar gyi nyi khri'i 'grel pa.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2934,
+      "label": "'bre shes rab 'bar (3807) other relation to rwa lo tsA ba rdo rje grags (3790)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3790/",
+        "label": "rwa lo tsA ba rdo rje grags (3790)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 459 (de dang mnyam pa jo btsun khyung la | de dang mnyam pa 'bre la | de dang mnyam pa 'ban la | de dang mnyam pa rogs ngon pa ba la | de dang mnyam pa stag pa kha che la phul te )",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3333,
+      "label": "'bre shes rab 'bar (3807) ordinator of bya 'dul 'dzin brtson 'grus 'bar (3818)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 109 (bya 'dul 'dzin ... 'bre chen po la rab tu byung nas | mtshan brtson 'grus 'bar du btags |)\r\n[VKBZTBWN], fol. 6b5-6 and [8GL7ZT7Y], fol. 14b5. Bya 'dul 'dzin was ordained by 'Bre and received from him the name in religion brTson 'grus 'bar.\r\n[EG6VZ8JK]: 25, translated from [8GL7ZT7Y]: 14b5.\r\n[647FFPZR]: 542, n. 55, based on [NA9AMDH6]: 455. Ordination at Rong (ID:6720).\r\n[647FFPZR]: 543, n. 55. Ordination possibly at Ngur smrig (ID:6380).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5077,
+      "label": "'bre shes rab 'bar (3807) active at khams (6496)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6496/",
+        "label": "khams (6496)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 122 (khu ston brtson 'grus g.yung drung lcags mo phag la 'khrungs | khong dang rngog legs pa'i shes rab dang | 'bre chen po rnams kyis khams su byon nas | jo bo se btsun la chos mang du mnyan |). Khu ston (ID:4235) went to Khams (ID:6496) with  rNgog legs pa'i shes rab (ID:3788) and 'Bre chen po (ID:3807).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3306,
+      "label": "'bre shes rab 'bar (3807) active at gog mo (6506)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6506/",
+        "label": "gog mo (6506)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 538. 'Bre is credited with the foundation of Gog mo, but other sources attribute it to La stod (ID:3819).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3314,
+      "label": "'bre shes rab 'bar (3807) active at ngur smrig (6380)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6380/",
+        "label": "ngur smrig (6380)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 542-543, n. 55. Possibly the place of ordination of 'Bre (ID:3807) by rGya 'Dul 'dzin (ID:3941).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2807,
+      "label": "'bre shes rab 'bar (3807) active at bo dong e (4352)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4352/",
+        "label": "bo dong e (4352)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5449,
+      "label": "'bre shes rab 'bar (3807) active at rong (6720)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6720/",
+        "label": "rong (6720)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 542, n. 55, based on [NA9AMDH6]: 455. Ordination of Bya 'dul 'dzin (ID:3818).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4599,
+      "label": "'bre shes rab 'bar (3807) author of dpal yang dag par sbyor ba'i rgyud kyi rgyal po'i ti ka (6982)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6982/",
+        "label": "dpal yang dag par sbyor ba'i rgyud kyi rgyal po'i ti ka (6982)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:6983) in [8H6M69W4]: 1077, No. 10637: dge slong shes rab 'bar ba.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3098,
+      "label": "'bre shes rab 'bar (3807) active at gnas rnying (4341)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4341/",
+        "label": "gnas rnying (4341)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5NY3E6YU]: 68\u201369 (yang 'bre shes rab 'bar gyis nyang stod skyegs gnas rnying du chos bshad cing | khyad par bstan pa\u2019i snying po phar phyin don du gnyer ba la |).\r\n[8GL7ZT7Y]: 25, translated from [8GL7ZT7Y]: 14b5. Established a \"phar phyin gyi bshad grwa\" in gNas rnying.\r\n[647FFPZR]: 537, based on [Q3KCZX7B]: 81, l. 1-7 (Among the many followers of Yol Chos kyi dbang phyug, 'Bre chen po Shes rab 'bar was his most distinguished disciple. ... He was appointed abbot [of gNas rnying] after he was given the gdan sa of the twenty-four rBa tsho by Yol Chos dbang, the great human being who was accepted by Byams pa mgon po, and was given the land, power and his family by Jo sras Phur pa 'phel.).\r\n[4LDAV8UH]: 95. Abbot after Yol Chos dbang (ID:3812), but did not reside at gNas rnying.\r\n[R894SIKE]: 402 (lo tsA ba'i slob ma'i mchog che ba 'bre shes rab 'bar gyis skyegs gnas rnying dang | gzhan rnams su'ang chos gzhi bskor zhing |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
+      "id": 3077,
+      "label": "'bre shes rab 'bar (3807) active at lha ri mo (4344)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4344/",
+        "label": "lha ri mo (4344)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 537, based on [NA9AMDH6]: 454, l. 6-7. Born in lHa ri mo.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3308,
+      "label": "'bre shes rab 'bar (3807) active at bye mda' (4347)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4347/",
+        "label": "bye mda' (4347)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 538-539. Taught there extensively.\r\n[647FFPZR]: 544-545. Met La stod (ID:3819) and ordained him in Bye mda'.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4245,
+      "label": "'bre shes rab 'bar (3807) ordinator of chu mig pa shes rab grags (3975)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3975/",
+        "label": "chu mig pa shes rab grags (3975)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 543, n. 55, based on Jo bo yab sras las 'phros pa'i skyes bu dam pa 'ga' zhig gi byon pa'i tshul bstan rtsis. Ordination by 'Bre (ID:3807) and Khyung rin chen grags (ID:3809) when Chu mig pa (ID:3975) was 28.\r\n[NTGHCZA8]: 41, n. 85.",
+      "tei_refs": "ex50182024-09-161",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3279,
+      "label": "'bre shes rab 'bar (3807) ordinator of dkon mchog seng ge (6447)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6447/",
+        "label": "dkon mchog seng ge (6447)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 99, based on [Y2ZN5C6X]: 14.\r\n[647FFPZR]: 545. The ordination took place at Bye mda' (ID:4347) in the presence of dKon mchog seng ge's father Rin chen 'byung gnas.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3302,
+      "label": "'bre shes rab 'bar (3807) active at rgyal lha khang (4343)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4343/",
+        "label": "rgyal lha khang (4343)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 536-537. Based on the Blue annals.\r\n[R894SIKE]: 402 ('dis gnam rtse ldang la sogs par sku shin tu bgres par gyur tshun chad du bshad pa mdzad cing | skabs shed du ni rgyal lha khang gi gdan sa yang mdzad |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 65,
+      "label": "ar byang chub ye shes (3816) student of 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3816/",
+        "label": "ar byang chub ye shes (3816)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[EG6VZ8JK]: 25, translated from [8GL7ZT7Y]: 15a1.\r\n[4LDAV8UH]: 95, based on [Y2ZN5C6X] (\"This master 'Bre had excellent disciples like Khyung Rin chen grags, La stod Dkon mkhar, Ar Byang chub ye shes, Snyal ba Bsregs ston, Mdog pa Byang grags, and Bya 'Dul ba 'dzin ba Brtson 'grus 'bar.\")\r\n[647FFPZR]: 542, n. 55, based on [Q3KCZX7B]: 81, l. 7-10.\r\n[4LWBNM7B]: 120-121.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
+      "id": 64,
+      "label": "khyung rin chen grags (3809) student of 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 95, based on [Y2ZN5C6X] (\"This master 'Bre had excellent disciples like Khyung Rin chen grags, La stod Dkon mkhar, Ar Byang chub ye shes, Snyal ba Bsregs ston, Mdog pa Byang grags, and Bya 'Dul ba 'dzin ba Brtson 'grus 'bar.\")\r\n[647FFPZR]: 538 and 542, n. 55, based on [Q3KCZX7B]: 81, 7-10.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 67,
+      "label": "gnyal pa bsregs ston (3817) student of 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3817/",
+        "label": "gnyal pa bsregs ston (3817)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 95, based on [Y2ZN5C6X] (\"This master 'Bre had excellent disciples like Khyung Rin chen grags, La stod Dkon mkhar, Ar Byang chub ye shes, Snyal ba Bsregs ston, Mdog pa Byang grags, and Bya 'Dul ba 'dzin ba Brtson 'grus 'bar.\")\r\n[647FFPZR]: 542, n. 55, based on [Q3KCZX7B]: 81, l. 7-10.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2691,
+      "label": "khu shes rab brtson 'grus (3823) student of 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3823/",
+        "label": "khu shes rab brtson 'grus (3823)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 529 ('bre'i slob ma khu shes rab brtson 'grus).\r\n[R894SIKE]: 123 (khu sher brtson ni 'bre chen po'i slob ma yin |).\r\n[R894SIKE]: 409 (khu sher brtson gyis 'bre la'ang sleb mod |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2946,
+      "label": "nyi phug pa chos kyi grags pa (6347) student of 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6347/",
+        "label": "nyi phug pa chos kyi grags pa (6347)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 1177 ('bre shes rab 'bar la sher phyin nyan | tshar bco lnga bshad |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
+      "id": 3138,
+      "label": "dkon mchog seng ge (6447) student of 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6447/",
+        "label": "dkon mchog seng ge (6447)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 99, based on [Y2ZN5C6X]: 14. (\"He obtained all the teachings on Sde snod from both 'Bre chen and his elder brother, and mastered them.\")",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3104,
+      "label": "mdog pa byang grags (6435) student of 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6435/",
+        "label": "mdog pa byang grags (6435)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 95, based on [Y2ZN5C6X] (\"This master 'Bre had excellent disciples like Khyung Rin chen grags, La stod Dkon mkhar, Ar Byang chub ye shes, Snyal ba Bsregs ston, Mdog pa Byang grags, and Bya 'Dul ba 'dzin ba Brtson 'grus 'bar.\")\r\n[647FFPZR]: 542, n. 55, based on [Q3KCZX7B]: 81, l. 7-10.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 68,
+      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) student of 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 95, based on [Y2ZN5C6X] (\"This master 'Bre had excellent disciples like Khyung Rin chen grags, La stod Dkon mkhar, Ar Byang chub ye shes, Snyal ba Bsregs ston, Mdog pa Byang grags, and Bya 'Dul ba 'dzin ba Brtson 'grus 'bar.\")\r\n[647FFPZR]: 542, n. 55, based on [Q3KCZX7B]: 81, l. 7-10.\r\n[NTGHCZA8]: 36.\r\n[EG6VZ8JK]: 25, translated from [8GL7ZT7Y]: 14b5.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 69,
+      "label": "la stod pa dkon mchog mkhar (3819) student of 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3819/",
+        "label": "la stod pa dkon mchog mkhar (3819)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5NY3E6YU]: 68\u201369 (['Bre Shes rab 'bar's] 'dus pa'i nang nas la stod dgon mkhar gyis gdan sa mdzad cing | deng sang gi bar du'ang [that is, up until the time of Tshal pa Kun dga' rdo rje in late 14th c.] de'i mi brgyud kyis 'dzin |).\r\n[4LDAV8UH]: 95, based on [Y2ZN5C6X] (\"This master 'Bre had excellent disciples like Khyung Rin chen grags, La stod Dkon mkhar, Ar Byang chub ye shes, Snyal ba Bsregs ston, Mdog pa Byang grags, and Bya 'Dul ba 'dzin ba Brtson 'grus 'bar.\")\r\n[4LDAV8UH]: 96. Was appointed abbot of gNas rnying by 'Bre Shes rab 'bar (ID:3807).\r\n[647FFPZR]: 544, citing [NA9AMDH6] (\u201cWhile [\u2019Dre] was imparting teachings, a numerous group of bad laymen gathered. La stod dKon mchog mkhar had gone there for trade. A head of a frog appeared to him and he also had a vision that there was a fire in the market of Bye \u2019da\u2019 (spelled so). Having grown instant faith in [\u2019Dre/\u2019Bre chen po], he loaded [his merchandise on] a donkey and left to see \u2019Dre who tonsured him, made him a monk and trained him in Phar phyin\u201d).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
+      "id": 4679,
+      "label": "rje btsun grags pa rgyal mtshan (6128) student of 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6128/",
+        "label": "rje btsun grags pa rgyal mtshan (6128)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: 36.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4680,
+      "label": "chu mig pa shes rab grags (3975) student of 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3975/",
+        "label": "chu mig pa shes rab grags (3975)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: 41, n. 85. Studied with 'Bre for six years until 'Bre's passing.\r\n[647FFPZR]: 543, n. 55, based on Jo bo yab sras las 'phros pa'i skyes bu dam pa 'ga' zhig gi byon pa'i tshul bstan rtsis. Study of \"phar phyin.\"",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
+      "id": 5227,
+      "label": "gzhon nu rin chen (3911) quotes with name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3911/",
+        "label": "gzhon nu rin chen (3911)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex2101-2024-10-02-17-1933",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2763,
+      "label": "'jad pa gzhon nu byang chub (3863) quotes without name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3863/",
+        "label": "'jad pa gzhon nu byang chub (3863)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MGPRHX73]: 58. In (ID: 4516).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5137,
+      "label": "bu ston seng ge 'od (1) (4314) quotes with name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4314/",
+        "label": "bu ston seng ge 'od (1) (4314)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex89022024-11-08-14-21\r\nex89022025-05-0511-22-56\r\nex89022025-05-05\r\nex89022025-05-0511-26-04",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2891,
+      "label": "Anonymous (5) (6320) quotes with name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6320/",
+        "label": "Anonymous (5) (6320)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2761,
+      "label": "'jad pa gzhon nu byang chub (3863) quotes with name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3863/",
+        "label": "'jad pa gzhon nu byang chub (3863)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MGPRHX73]: 58, 66. Cited 15 times in (ID: 4750).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5171,
+      "label": "rin chen rgyal mtshan dpal (5952) quotes with name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5952/",
+        "label": "rin chen rgyal mtshan dpal (5952)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex71042024-11-08-16-18",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5248,
+      "label": "'jam gsar ba shes rab 'od zer (3884) quotes without name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
+        "label": "'jam gsar ba shes rab 'od zer (3884)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex14022024-10-21-14-19\r\nex14022025-03-31-25\r\nex14022025-03-316",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5717,
+      "label": "ar byang chub ye shes (3816) quotes without name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3816/",
+        "label": "ar byang chub ye shes (3816)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex02032025-04-2513-15-11\r\nex02032025-04-2513-15-112\r\nex3012023-07-1009-02-40\r\nex02032025-04-2514-57-05",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5791,
+      "label": "rngog blo ldan shes rab (3786) lineage predecessor of 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 321, n. 153. Based on [8GL7ZT7Y]. Transmission lineage of the Ratnagotravibh\u0101ga (ID:3749).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10,
+        56
+      ]
+    },
+    {
+      "id": 5244,
+      "label": "'jam dbyangs 'od zer mgon po (3893) quotes with name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 62,
+      "label": "yol chos kyi dbang phyug (3812) ordinator of 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3812/",
+        "label": "yol chos kyi dbang phyug (3812)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 537, n. 42, based on [Y2ZN5C6X]: 13a2-6 (\"As for the greatness of \u2019Bre Shes rab \u2019bar\u2019s abbotship, \u2019Bre chen\u2019s native place was gTsang po Nang pa. In his youth, he went to see Yol ston Chos kyi dbang phyug and was ordained by him.\").",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3076,
+      "label": "g.yag ston sangs rgyas dpal (6153) quotes with name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
+        "label": "g.yag ston sangs rgyas dpal (6153)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[2V6H2FBU]: 25, n. 67.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5075,
+      "label": "rngog legs pa'i shes rab (3788) other relation to 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3788/",
+        "label": "rngog legs pa'i shes rab (3788)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 122 (khu ston brtson 'grus g.yung drung lcags mo phag la 'khrungs | khong dang rngog legs pa'i shes rab dang | 'bre chen po rnams kyis khams su byon nas | jo bo se btsun la chos mang du mnyan |). rNgog legs pa'i shes rab (ID:3788) went to Khams (ID:6496) with Khu ston (ID:4235) and 'Bre chen po (ID:3807).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5145,
+      "label": "btsun pa 'khon ston (5865) quotes with name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5865/",
+        "label": "btsun pa 'khon ston (5865)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5107,
+      "label": "chos kyi bzhad pa (4099) quotes without name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4099/",
+        "label": "chos kyi bzhad pa (4099)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex088052025-05-2615-57-58\r\nex088052025-05-2616-07-01\r\nex088052025-05-2616-02-05",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 5181,
+      "label": "chos kyi grags pa (6022) quotes with name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
+        "label": "chos kyi grags pa (6022)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5187,
+      "label": "bo dong rin po che brtson 'grus rdo rje (4296) quotes with name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4296/",
+        "label": "bo dong rin po che brtson 'grus rdo rje (4296)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex70032025-04-2417-51-04\r\nex70032025-04-2417-56-04\r\nex703-2024-10-04-16-11",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5277,
+      "label": "rgya dmar ba byang chub grags (3834) quotes without name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex06012025-04-2515-33-51",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5713,
+      "label": "bo dong rin po che brtson 'grus rdo rje (4296) quotes without name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4296/",
+        "label": "bo dong rin po che brtson 'grus rdo rje (4296)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex70032025-04-2417-58-14",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4699,
+      "label": "'jam dbyangs 'od zer mgon po (3893) quotes with name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex15012024-11-08-11-29\r\nex15012024-11-08-11-292\r\nex15012024-11-08-11-293\r\nex15012024-11-08-11-294\r\nex15012024-11-08-11-295",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    }
+  ],
   "end_date_to": "1200-12-31",
   "end_date_from": null,
   "end_date_sort": "1200-12-31",

@@ -1,5 +1,185 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6607/",
+  "relations": [
+    {
+      "id": 5864,
+      "label": "dbang phyug rdo rje (6607) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6607/",
+        "label": "dbang phyug rdo rje (6607)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 122 (based on rTa tshag Tshe dbang rgyal's 1447 ecclesiastic history). The source mentions that dBang phyug rdo rje studied with \"dge bshes g.yor nyag\" - this could be g.Yor gnyan (ID:3837). Studies in Chos pa myu sna (ID:6608). Study of the Pram\u0101\u1e47avini\u015bcaya (ID:3774) and Pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (ID:5594).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5865,
+      "label": "dbang phyug rdo rje (6607) studies pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6607/",
+        "label": "dbang phyug rdo rje (6607)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5594/",
+        "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 122 (based on rTa tshag Tshe dbang rgyal's 1447 ecclesiastic history). The source mentions that dBang phyug rdo rje studied with \"dge bshes g.yor nyag\" - this could be g.Yor gnyan (ID:3837). Studies in Chos pa myu sna (ID:6608). Study of the Pram\u0101\u1e47avini\u015bcaya (ID:3774) and Pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (ID:5594).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3544,
+      "label": "dbang phyug rdo rje (6607) active at chos pa myu sna (6608)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6607/",
+        "label": "dbang phyug rdo rje (6607)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6608/",
+        "label": "chos pa myu sna (6608)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 122 (based on rTa tshag Tshe dbang rgyal's 1447 ecclesiastic history). dBang phyug rdo rje studied epistemology with \"dge bshes g.yor nyag.\"",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3546,
+      "label": "dbang phyug rdo rje (6607) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6607/",
+        "label": "dbang phyug rdo rje (6607)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1169-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1169-12-31",
+      "start_date_to": null,
+      "start_date_from": "1155-01-01",
+      "start_date_sort": "1155-01-01",
+      "zotero_refs": "[FEHIEFEB]: 122-123 (based on rTa tshag Tshe dbang rgyal's 1447 ecclesiastic history). In gSang phu sne'u thog (ID:4332).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1155",
+      "end": "before 1169",
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 3547,
+      "label": "dbang phyug rdo rje (6607) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6607/",
+        "label": "dbang phyug rdo rje (6607)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1206-12-31",
+      "end_date_from": "1155-01-01",
+      "end_date_sort": "1180-12-31",
+      "start_date_to": null,
+      "start_date_from": "1155-01-01",
+      "start_date_sort": "1155-01-01",
+      "zotero_refs": "[FEHIEFEB]: 122-123 (based on rTa tshag Tshe dbang rgyal's 1447 ecclesiastic history). Studied epistemology with Phya pa (ID:3831).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1155",
+      "end": "after 1155 before 1206",
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 3543,
+      "label": "dbang phyug rdo rje (6607) student of g.yor gnyan (3837)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6607/",
+        "label": "dbang phyug rdo rje (6607)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3837/",
+        "label": "g.yor gnyan (3837)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 122 (based on rTa tshag Tshe dbang rgyal's 1447 ecclesiastic history). The source mentions that dBang phyug rdo rje studied with \"dge bshes g.yor nyag\" - this could be g.Yor gnyan. Studies in Chos pa myu sna (ID:6608). Texts: Pram\u0101\u1e47avini\u015bcaya (ID:3774) and Pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (ID:5594).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    }
+  ],
   "end_date_to": "1206-12-31",
   "end_date_from": "1206-01-01",
   "end_date_sort": "1206-07-02",

@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6826/",
+  "relations": [
+    {
+      "id": 4193,
+      "label": "tshad ma rigs pa'i snang ba (6826) commentary on tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6826/",
+        "label": "tshad ma rigs pa'i snang ba (6826)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MKQ6FJV7]: 54-55.",
+      "tei_refs": "",
+      "support_notes": "The extant fragments do not prove that lDong ston's treatise was a commentary on the Tshad ma rigs gter (ID:5564); it may have been an independent work of epistemology, however engaging with Sa skya Pa\u1e47\u1e0dita\u2019s views.",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4192,
+      "label": "ldong ston shes rab dpal (6824) author of tshad ma rigs pa'i snang ba (6826)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6824/",
+        "label": "ldong ston shes rab dpal (6824)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6826/",
+        "label": "tshad ma rigs pa'i snang ba (6826)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MKQ6FJV7]: 54.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1300-12-31",
   "start_date_from": "1220-01-01",
   "start_date_sort": "1260-07-01",

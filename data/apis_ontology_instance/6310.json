@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6310/",
+  "relations": [
+    {
+      "id": 2875,
+      "label": "smon 'jug sems bskyed kyi cho ga (5042) has as an instance smon 'jug gi sems skyed kyi cho ga byed tshul (6310)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5042/",
+        "label": "smon 'jug sems bskyed kyi cho ga (5042)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6310/",
+        "label": "smon 'jug gi sems skyed kyi cho ga byed tshul (6310)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8H6M69W4]: No. 18263. Title: smon 'jug gi sems skyed kyi cho ga byed tshul. Author: btsun pa thogs med.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

@@ -1,5 +1,38 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4021/",
+  "relations": [
+    {
+      "id": 257,
+      "label": "mkhas btsun gzhon nu grub (4021) student of chu mig pa seng ge dpal (4018)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4021/",
+        "label": "mkhas btsun gzhon nu grub (4021)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4018/",
+        "label": "chu mig pa seng ge dpal (4018)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 877 ([mkhas btsun gzhon nu] lo bcu lon pa na snar thang gi mkhan chen nam mkha' grags kyi drung du rab tu byung zhing / chu mig pa la sogs pa'i drung du sde snod la mkhas par sbyangs /).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        23
+      ]
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,

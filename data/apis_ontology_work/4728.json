@@ -1,5 +1,147 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4728/",
+  "relations": [
+    {
+      "id": 1854,
+      "label": "'dul ba mdo'i rnam bshad mdo nyi ma'i rgyan (4728) composed at yol rin chen gling (5748)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4728/",
+        "label": "'dul ba mdo'i rnam bshad mdo nyi ma'i rgyan (4728)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5748/",
+        "label": "yol rin chen gling (5748)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex37012023-09-11-145230",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1400,
+      "label": "'dul ba mdo'i rnam bshad mdo nyi ma'i rgyan (4728) has as an instance 'dul ba mdo'i rnam bshad mdo'i nyi ma'i rgyan (4727)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4728/",
+        "label": "'dul ba mdo'i rnam bshad mdo nyi ma'i rgyan (4728)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4727/",
+        "label": "'dul ba mdo'i rnam bshad mdo'i nyi ma'i rgyan (4727)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5814,
+      "label": "'dul ba mdo'i rnam bshad mdo nyi ma'i rgyan (4728) commentary on vinayas\u016btra (6821)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4728/",
+        "label": "'dul ba mdo'i rnam bshad mdo nyi ma'i rgyan (4728)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6821/",
+        "label": "vinayas\u016btra (6821)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 718,
+      "label": "blo gros rgyal mtshan (2) (7232) author of 'dul ba mdo'i rnam bshad mdo nyi ma'i rgyan (4728)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7232/",
+        "label": "blo gros rgyal mtshan (2) (7232)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4728/",
+        "label": "'dul ba mdo'i rnam bshad mdo nyi ma'i rgyan (4728)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:4727) in [8H6M69W4], No. 16188: dge slong blo gros rgyal mtshan gyis.",
+      "tei_refs": "ex37012023-09-11-145230",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5447,
+      "label": "rdo rje 'dzin pa nam mkha' rin chen (4311) prompter of 'dul ba mdo'i rnam bshad mdo nyi ma'i rgyan (4728)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4311/",
+        "label": "rdo rje 'dzin pa nam mkha' rin chen (4311)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4728/",
+        "label": "'dul ba mdo'i rnam bshad mdo nyi ma'i rgyan (4728)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex37012023-09-11-145230",
+      "support_notes": "Unclear whether 'Dul ba 'dzin pa stan cig pa Nam mkha' rin chen is the same person as rDo rje 'dzin pa Nam mkha' rin chen.",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1450-12-31",
   "start_date_from": "1250-01-01",
   "start_date_sort": "1350-07-02",

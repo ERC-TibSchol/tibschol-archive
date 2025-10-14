@@ -1,5 +1,147 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5487/",
+  "relations": [
+    {
+      "id": 1742,
+      "label": "theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5487) has as an instance theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5486)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5487/",
+        "label": "theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5487)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5486/",
+        "label": "theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5486)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2240,
+      "label": "theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5487) composed at dge ldan sa bzangs (5736)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5487/",
+        "label": "theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5487)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5736/",
+        "label": "dge ldan sa bzangs (5736)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Colophon in (ID:5486), fol. 249a4.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1173,
+      "label": "theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5487) commentary on mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5487/",
+        "label": "theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5487)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3746/",
+        "label": "mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1172,
+      "label": "sa bzang ma ti paN chen blo gros rgyal mtshan (4128) author of theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5487)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4128/",
+        "label": "sa bzang ma ti paN chen blo gros rgyal mtshan (4128)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5487/",
+        "label": "theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5487)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:5486) in [8H6M69W4], No. 15981: bod kyi paNTi ta ma ti dhA dza shrI bha tras.\r\n[5RXEUKD9]: 528, No. 11481.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2239,
+      "label": "dge ba'i bshes gnyen chen po khams pa lo tsa ba ma Ni kashri jnya na (5965) prompter of theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5487)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5965/",
+        "label": "dge ba'i bshes gnyen chen po khams pa lo tsa ba ma Ni kashri jnya na (5965)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5487/",
+        "label": "theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5487)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1376-12-31",
   "start_date_from": "1304-01-01",
   "start_date_sort": "1340-07-01",

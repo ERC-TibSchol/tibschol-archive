@@ -1,5 +1,315 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5594/",
+  "relations": [
+    {
+      "id": 5646,
+      "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594) has as an instance gtan tshigs tshul gsum gyi zin bris (5297)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5594/",
+        "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5297/",
+        "label": "gtan tshigs tshul gsum gyi zin bris (5297)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5867,
+      "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594) taught at chos pa myu sna (6608)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5594/",
+        "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6608/",
+        "label": "chos pa myu sna (6608)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 122 (based on rTa tshag Tshe dbang rgyal's 1447 ecclesiastic history). The source mentions that dBang phyug rdo rje (ID:6607) studied with \"dge bshes g.yor nyag\" - this could be g.Yor gnyan (ID:3837). Study of the Pram\u0101\u1e47avini\u015bcaya (ID:3774) and Pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (ID:5594).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2065,
+      "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594) commentary on pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5594/",
+        "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5865,
+      "label": "dbang phyug rdo rje (6607) studies pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6607/",
+        "label": "dbang phyug rdo rje (6607)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5594/",
+        "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 122 (based on rTa tshag Tshe dbang rgyal's 1447 ecclesiastic history). The source mentions that dBang phyug rdo rje studied with \"dge bshes g.yor nyag\" - this could be g.Yor gnyan (ID:3837). Studies in Chos pa myu sna (ID:6608). Study of the Pram\u0101\u1e47avini\u015bcaya (ID:3774) and Pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (ID:5594).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4970,
+      "label": "chos mchog chen po'i ti ka (7121) commentary on pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7121/",
+        "label": "chos mchog chen po'i ti ka (7121)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5594/",
+        "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex51012025-02-0515-33-46",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5580,
+      "label": "rngog blo ldan shes rab (3786) translator of pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5594/",
+        "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q47PVAE6]: 39, 66. With Parahitabhadra (ID:3798) in Anupamapura, Kashmir.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1240,
+      "label": "dharmottara (3780) author of pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3780/",
+        "label": "dharmottara (3780)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5594/",
+        "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2264,
+      "label": "rnam nges 'thad ldan gyi 'grel bshad (5981) commentary on pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5981/",
+        "label": "rnam nges 'thad ldan gyi 'grel bshad (5981)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5594/",
+        "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5579,
+      "label": "parahitabhadra (3798) translator of pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3798/",
+        "label": "parahitabhadra (3798)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5594/",
+        "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q47PVAE6]: 39. With rNgog Blo ldan shes rab (ID:3786).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2410,
+      "label": "chos mchog chen po'i man ngag dang po'i tshigs su bcad pa bdun gyi bshad pa (6086) commentary on pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6086/",
+        "label": "chos mchog chen po'i man ngag dang po'i tshigs su bcad pa bdun gyi bshad pa (6086)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5594/",
+        "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FZ6N88AU]: 431, n. 98. A commentary on the seven eulogy verses of the work.\r\n[GHC9CLWS]: 199.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2412,
+      "label": "chos mchog chen po'i gzhan sel ba'i skabs cung zad bshad pa (6087) commentary on pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6087/",
+        "label": "chos mchog chen po'i gzhan sel ba'i skabs cung zad bshad pa (6087)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5594/",
+        "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[GHC9CLWS]: 199. According to Hugon, a commentary on apoha-related discussion in the work.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

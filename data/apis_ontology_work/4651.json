@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4651/",
+  "relations": [
+    {
+      "id": 1364,
+      "label": "mdo sde rgyan rtsa ba'i le'u nyi shu rtsa gcig pa le phran brgyad cu gya brgyad rnam par bshad pa (4651) has as an instance mdo sde rgyan rtsa ba'i le'u nyi shu rtsa gcig pa le phran brgyad cu gya brgyad rnam par bshad pa (4650)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4651/",
+        "label": "mdo sde rgyan rtsa ba'i le'u nyi shu rtsa gcig pa le phran brgyad cu gya brgyad rnam par bshad pa (4651)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4650/",
+        "label": "mdo sde rgyan rtsa ba'i le'u nyi shu rtsa gcig pa le phran brgyad cu gya brgyad rnam par bshad pa (4650)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 674,
+      "label": "mdo sde rgyan rtsa ba'i le'u nyi shu rtsa gcig pa le phran brgyad cu gya brgyad rnam par bshad pa (4651) commentary on mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4651/",
+        "label": "mdo sde rgyan rtsa ba'i le'u nyi shu rtsa gcig pa le phran brgyad cu gya brgyad rnam par bshad pa (4651)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3746/",
+        "label": "mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 673,
+      "label": "Anonymous (4593) author of mdo sde rgyan rtsa ba'i le'u nyi shu rtsa gcig pa le phran brgyad cu gya brgyad rnam par bshad pa (4651)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4593/",
+        "label": "Anonymous (4593)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4651/",
+        "label": "mdo sde rgyan rtsa ba'i le'u nyi shu rtsa gcig pa le phran brgyad cu gya brgyad rnam par bshad pa (4651)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

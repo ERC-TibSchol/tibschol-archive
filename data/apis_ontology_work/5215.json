@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5215/",
+  "relations": [
+    {
+      "id": 997,
+      "label": "theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed (5215) commentary on ratnagotravibh\u0101ga (3749)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5215/",
+        "label": "theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed (5215)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
+        "label": "ratnagotravibh\u0101ga (3749)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1619,
+      "label": "theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed (5215) has as an instance theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed (5214)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5215/",
+        "label": "theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed (5215)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5214/",
+        "label": "theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed (5214)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 996,
+      "label": "Anonymous (4593) author of theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed (5215)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4593/",
+        "label": "Anonymous (4593)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5215/",
+        "label": "theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed (5215)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "No author reported in [8H6M69W4] for No. 15916.\r\n[BAQ9MH4T]: 215, n. 12 reports an information from Tsering Wangchuk about a commentary in the bTsan tradition ascribed to a certain \"chos gshes,\" which the footnote identifies with instance (ID:5214). It might however rather be instance (ID:5218) in which there is reference to the teaching having been transmitted to \"dge slong chos she.\"",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

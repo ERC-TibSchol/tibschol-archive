@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4120/",
+  "relations": [
+    {
+      "id": 1149,
+      "label": "sna nam btsun pa skal bzang chos kyi rgya mtsho bsod nams dbang po (4120) author of legs par bshad pa'i sgo dbye ba (5452)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4120/",
+        "label": "sna nam btsun pa skal bzang chos kyi rgya mtsho bsod nams dbang po (4120)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5452/",
+        "label": "legs par bshad pa'i sgo dbye ba (5452)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:5451) in [8H6M69W4], No. 18934: sna nam gyi btsun pa skal bzang chos kyi rgya mtsho.",
+      "tei_refs": "",
+      "support_notes": "Colophon in (ID:5451), fol. 42b4: dam pa'i chos 'dzin pa'i rnal 'byor spyod pa sna nam gyi btsun pa skal bzangs chos kyi rgya mtsho'i sdes re shig legs bshad kyi sgo rnam par dbye ba la ...",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "end_date_to": "1499-12-31",
   "end_date_from": null,
   "end_date_sort": "1499-12-31",

@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6556/",
+  "relations": [
+    {
+      "id": 4788,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i don bsdus pa (4488) has as an instance byang chub sems dpa'i spyod 'jug gi bsdus don (6556)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4488/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i don bsdus pa (4488)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6556/",
+        "label": "byang chub sems dpa'i spyod 'jug gi bsdus don (6556)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8H6M69W4], No. 15525: byang chub sems dpa'i spyod 'jug gi bsdus don.",
+      "tei_refs": "",
+      "support_notes": "This item could also be an instance of the topical outline (ID:7048).",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3444,
+      "label": "byang chub sems dpa'i spyod 'jug gi bsdus don (7048) has as an instance byang chub sems dpa'i spyod 'jug gi bsdus don (6556)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7048/",
+        "label": "byang chub sems dpa'i spyod 'jug gi bsdus don (7048)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6556/",
+        "label": "byang chub sems dpa'i spyod 'jug gi bsdus don (6556)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8H6M69W4]: No. 15525: byang chub sems dpa'i spyod 'jug gi bsdus don.",
+      "tei_refs": "",
+      "support_notes": "This item could also be an instance of the topical outline (ID:4488).",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

@@ -1,5 +1,93 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6439/",
+  "relations": [
+    {
+      "id": 3116,
+      "label": "zang zang bzhad pa padma rin chen (6439) active at gnas rnying (4341)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6439/",
+        "label": "zang zang bzhad pa padma rin chen (6439)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4341/",
+        "label": "gnas rnying (4341)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 98. Came to gNas rnying when he was 21.\r\n[4LDAV8UH]: 99. Abbot of gNas rnying.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1191",
+      "end": "after 1191",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3134,
+      "label": "zang zang bzhad pa padma rin chen (6439) active at chos sdings (6444)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6439/",
+        "label": "zang zang bzhad pa padma rin chen (6439)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6444/",
+        "label": "chos sdings (6444)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 99. Founded Chos sdings before the 1240s.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "before 1240",
+      "end": "before 1240",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3118,
+      "label": "dbang phyug rin chen (3) (6440) ordinator of zang zang bzhad pa padma rin chen (6439)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6440/",
+        "label": "dbang phyug rin chen (3) (6440)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6439/",
+        "label": "zang zang bzhad pa padma rin chen (6439)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 97. The ordination took place at gNas rnying (ID:4341).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1191",
+      "end": "after 1191"
+    }
+  ],
   "end_date_to": "1243-12-31",
   "end_date_from": "1243-01-01",
   "end_date_sort": "1243-07-02",

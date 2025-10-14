@@ -1,5 +1,119 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4520/",
+  "relations": [
+    {
+      "id": 2578,
+      "label": "dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4520) records the teaching of mah\u0101sumati (6180)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4520/",
+        "label": "dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4520)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6180/",
+        "label": "mah\u0101sumati (6180)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 592,
+      "label": "dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4520) commentary on m\u016blamadhyamakak\u0101rik\u0101 (3715)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4520/",
+        "label": "dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4520)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3715/",
+        "label": "m\u016blamadhyamakak\u0101rik\u0101 (3715)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1302,
+      "label": "dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4520) has as an instance dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4519)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4520/",
+        "label": "dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4520)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4519/",
+        "label": "dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4519)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 591,
+      "label": "pa tshab nyi ma grags (3868) author of dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4520)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
+        "label": "pa tshab nyi ma grags (3868)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4520/",
+        "label": "dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4520)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1150-12-31",
   "start_date_from": "1065-01-01",
   "start_date_sort": "1108-01-01",

@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5873/",
+  "relations": [
+    {
+      "id": 2789,
+      "label": "shes rab snying po'i rgya cher 'grel gi bshad pa (2) (6250) has source shes rab snying po'i rgya cher 'grel gi bshad pa (1) (5873)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6250/",
+        "label": "shes rab snying po'i rgya cher 'grel gi bshad pa (2) (6250)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5873/",
+        "label": "shes rab snying po'i rgya cher 'grel gi bshad pa (1) (5873)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1962,
+      "label": "shes rab snying po'i rgya cher 'grel gi bshad pa (5872) has as an instance shes rab snying po'i rgya cher 'grel gi bshad pa (1) (5873)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5872/",
+        "label": "shes rab snying po'i rgya cher 'grel gi bshad pa (5872)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5873/",
+        "label": "shes rab snying po'i rgya cher 'grel gi bshad pa (1) (5873)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex1072023-02-1410-31-27",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2792,
+      "label": "shes rab snying po'i rgya cher 'grel gyi bshad pa (2) (6251) has source shes rab snying po'i rgya cher 'grel gi bshad pa (1) (5873)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6251/",
+        "label": "shes rab snying po'i rgya cher 'grel gyi bshad pa (2) (6251)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5873/",
+        "label": "shes rab snying po'i rgya cher 'grel gi bshad pa (1) (5873)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

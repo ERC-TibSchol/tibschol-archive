@@ -1,5 +1,36 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3852/",
+  "relations": [
+    {
+      "id": 111,
+      "label": "khong po 'jag chung (3852) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3852/",
+        "label": "khong po 'jag chung (3852)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 406 ('gar dbang gru | kong po 'jag chung | lho ba sgog zan | bar phu ba dang bzhi la shes rab can bzhi zer |).\r\n[VKBZTBWN]: 5a1. Listed as one of the \"shes rab can mi gsum\" together with lHo pa sgom gzan and Par bu ba blo gros seng ge.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "",
+      "end": "",
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "end_date_to": null,
   "end_date_from": "1119-01-01",
   "end_date_sort": "1119-01-01",

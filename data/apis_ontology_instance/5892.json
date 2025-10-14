@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5892/",
+  "relations": [
+    {
+      "id": 1998,
+      "label": "shes rab pha rol phyin pa sdud pa tshigs su bcad pa'i rnam par bshad pa (4457) has as an instance shes rab pha rol phyin pa sdud pa tshigs su bcad pa\u2019i rnam par bshad pa (1) (5892)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4457/",
+        "label": "shes rab pha rol phyin pa sdud pa tshigs su bcad pa'i rnam par bshad pa (4457)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5892/",
+        "label": "shes rab pha rol phyin pa sdud pa tshigs su bcad pa\u2019i rnam par bshad pa (1) (5892)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

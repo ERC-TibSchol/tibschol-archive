@@ -1,5 +1,65 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6155/",
+  "relations": [
+    {
+      "id": 2521,
+      "label": "zhig po bdud rtsi (6155) active at rgya ra gad logs kyi dgon po (6156)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6155/",
+        "label": "zhig po bdud rtsi (6155)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6156/",
+        "label": "rgya ra gad logs kyi dgon po (6156)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 180 (de yang gsang phu'i rgya ra gad logs kyi dgon par sku gshegs nas...)\r\n[CCSBSVCA]: 479, n. 134. Passed away in rgya ra gang/gad logs monastery.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3922,
+      "label": "zhig po bdud rtsi (6155) student of zhang g.yu brag brtson 'grus grags pa (6409)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6155/",
+        "label": "zhig po bdud rtsi (6155)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6409/",
+        "label": "zhang g.yu brag brtson 'grus grags pa (6409)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 479, n. 134.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "end_date_to": "1199-12-31",
   "end_date_from": "1199-01-01",
   "end_date_sort": "1199-07-02",

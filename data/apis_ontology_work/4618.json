@@ -1,5 +1,175 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4618/",
+  "relations": [
+    {
+      "id": 1348,
+      "label": "rgyud bla'i 'grel pa mdo dang sbyar ba nges pa don gyi snang ba (4618) has as an instance rgyud bla ma'i 'grel pa mdo dang sbyar ba nges pa'i don gyi snang ba (1) (4617)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4618/",
+        "label": "rgyud bla'i 'grel pa mdo dang sbyar ba nges pa don gyi snang ba (4618)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4617/",
+        "label": "rgyud bla ma'i 'grel pa mdo dang sbyar ba nges pa'i don gyi snang ba (1) (4617)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 654,
+      "label": "rgyud bla'i 'grel pa mdo dang sbyar ba nges pa don gyi snang ba (4618) commentary on ratnagotravibh\u0101ga (3749)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4618/",
+        "label": "rgyud bla'i 'grel pa mdo dang sbyar ba nges pa don gyi snang ba (4618)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
+        "label": "ratnagotravibh\u0101ga (3749)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5839,
+      "label": "rgyud bla'i 'grel pa mdo dang sbyar ba nges pa don gyi snang ba (4618) has as an instance rgyud bla ma'i 'grel pa mdo dang sbyar ba nges pa'i don gyi snang ba (4) (7395)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4618/",
+        "label": "rgyud bla'i 'grel pa mdo dang sbyar ba nges pa don gyi snang ba (4618)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7395/",
+        "label": "rgyud bla ma'i 'grel pa mdo dang sbyar ba nges pa'i don gyi snang ba (4) (7395)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5477,
+      "label": "rgyud bla'i 'grel pa mdo dang sbyar ba nges pa don gyi snang ba (4618) has as an instance rgyud bla ma'i 'grel pa mdo dang sbyar ba nges pa'i don gyi snang ba (2) (7247)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4618/",
+        "label": "rgyud bla'i 'grel pa mdo dang sbyar ba nges pa don gyi snang ba (4618)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7247/",
+        "label": "rgyud bla ma'i 'grel pa mdo dang sbyar ba nges pa'i don gyi snang ba (2) (7247)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5651,
+      "label": "rgyud bla'i 'grel pa mdo dang sbyar ba nges pa don gyi snang ba (4618) has as an instance rgyud bla'i mdo sbyar (7306)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4618/",
+        "label": "rgyud bla'i 'grel pa mdo dang sbyar ba nges pa don gyi snang ba (4618)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7306/",
+        "label": "rgyud bla'i mdo sbyar (7306)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 653,
+      "label": "zhang rin chen ye shes (4619) author of rgyud bla'i 'grel pa mdo dang sbyar ba nges pa don gyi snang ba (4618)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4619/",
+        "label": "zhang rin chen ye shes (4619)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4618/",
+        "label": "rgyud bla'i 'grel pa mdo dang sbyar ba nges pa don gyi snang ba (4618)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author for (ID:4617) reported in [8H6M69W4], No. 16014: rin chen ye shes.",
+      "tei_refs": "ex020012025-05-2215-49-11",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,

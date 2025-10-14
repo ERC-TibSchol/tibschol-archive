@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6758/",
+  "relations": [
+    {
+      "id": 4315,
+      "label": "go rams pa bsod nams seng ge (6758) author of phar phyin sbas don zab mo'i gter gyi kha 'byed (6886)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6758/",
+        "label": "go rams pa bsod nams seng ge (6758)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6886/",
+        "label": "phar phyin sbas don zab mo'i gter gyi kha 'byed (6886)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 530, No. 11549.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3927,
+      "label": "go rams pa bsod nams seng ge (6758) other relation to gling smad pa shes rab dpal ldan (6305)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6758/",
+        "label": "go rams pa bsod nams seng ge (6758)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6305/",
+        "label": "gling smad pa shes rab dpal ldan (6305)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 688, n. 11. They met in lHa sa in ca. 1449.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1449",
+      "end": "1449"
+    }
+  ],
   "end_date_to": "1489-12-31",
   "end_date_from": "1489-01-01",
   "end_date_sort": "1489-07-02",

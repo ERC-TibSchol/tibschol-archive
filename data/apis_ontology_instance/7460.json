@@ -1,5 +1,63 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7460/",
+  "relations": [
+    {
+      "id": 5994,
+      "label": "dbu ma snang ba'i 'grel pa (7460) has source dbu ma snang ba'i gzhung gi don rigs pa'i tshul dang mi 'gal zhing blo chung bas kyang bde blag tu rtogs pa byis pa'i 'jugs ngogs su sbyar ba (2) (7280)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7460/",
+        "label": "dbu ma snang ba'i 'grel pa (7460)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7280/",
+        "label": "dbu ma snang ba'i gzhung gi don rigs pa'i tshul dang mi 'gal zhing blo chung bas kyang bde blag tu rtogs pa byis pa'i 'jugs ngogs su sbyar ba (2) (7280)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5995,
+      "label": "dbu ma snang ba'i 'grel pa (4482) has as an instance dbu ma snang ba'i 'grel pa (7460)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4482/",
+        "label": "dbu ma snang ba'i 'grel pa (4482)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7460/",
+        "label": "dbu ma snang ba'i 'grel pa (7460)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "2012-12-31",
   "start_date_from": "2012-01-01",
   "start_date_sort": "2012-07-01",

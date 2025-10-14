@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6993/",
+  "relations": [
+    {
+      "id": 4613,
+      "label": "sa\u1e45ghabhadra (6993) author of abhidharmako\u015ba\u015b\u0101strak\u0101rik\u0101bh\u0101\u1e63ya (6994)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6993/",
+        "label": "sa\u1e45ghabhadra (6993)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6994/",
+        "label": "abhidharmako\u015ba\u015b\u0101strak\u0101rik\u0101bh\u0101\u1e63ya (6994)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "end_date_to": "0450-12-31",
   "end_date_from": null,
   "end_date_sort": "0450-12-31",

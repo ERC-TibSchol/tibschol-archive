@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4767/",
+  "relations": [
+    {
+      "id": 1924,
+      "label": "rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4767) composed at gsang phu ne'u thog gi gtsug lag khang (6173)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4767/",
+        "label": "rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4767)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6173/",
+        "label": "gsang phu ne'u thog gi gtsug lag khang (6173)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex44042023-02-0311-17-56",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1210",
+      "end": "after 1210"
+    },
+    {
+      "id": 1417,
+      "label": "rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4767) has as an instance rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4766)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4767/",
+        "label": "rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4767)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4766/",
+        "label": "rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4766)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 739,
+      "label": "byang chub sems dpa' dz+nya na shrI (4017) author of rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4767)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4017/",
+        "label": "byang chub sems dpa' dz+nya na shrI (4017)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4767/",
+        "label": "rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4767)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No. 16314: dge slong ye shes dpal",
+      "tei_refs": "ex44042023-02-0311-17-56",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1380-12-31",
   "start_date_from": "1260-01-01",
   "start_date_sort": "1320-07-02",

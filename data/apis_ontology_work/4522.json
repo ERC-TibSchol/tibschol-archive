@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4522/",
+  "relations": [
+    {
+      "id": 2586,
+      "label": "bzhi brgya pa'i rgya cher bshad pa'i bsdus pa'i don (4522) commentary on bodhisattvayog\u0101c\u0101racatu\u1e25\u015bataka\u1e6d\u012bk\u0101 (5931)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4522/",
+        "label": "bzhi brgya pa'i rgya cher bshad pa'i bsdus pa'i don (4522)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5931/",
+        "label": "bodhisattvayog\u0101c\u0101racatu\u1e25\u015bataka\u1e6d\u012bk\u0101 (5931)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex11022024-10-1014-36-36",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1303,
+      "label": "bzhi brgya pa'i rgya cher bshad pa'i bsdus pa'i don (4522) has as an instance bzhi brgya pa'i rgya cher bshad pa'i bsdus pa'i don (4521)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4522/",
+        "label": "bzhi brgya pa'i rgya cher bshad pa'i bsdus pa'i don (4522)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4521/",
+        "label": "bzhi brgya pa'i rgya cher bshad pa'i bsdus pa'i don (4521)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 593,
+      "label": "pa tshab nyi ma grags (3868) author of bzhi brgya pa'i rgya cher bshad pa'i bsdus pa'i don (4522)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
+        "label": "pa tshab nyi ma grags (3868)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4522/",
+        "label": "bzhi brgya pa'i rgya cher bshad pa'i bsdus pa'i don (4522)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex11022024-10-1014-43-37",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1150-12-31",
   "start_date_from": "1065-01-01",
   "start_date_sort": "1108-01-01",

@@ -1,5 +1,121 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6583/",
+  "relations": [
+    {
+      "id": 5842,
+      "label": "karma dkon mchog gzhon nu (6583) student of karma pa rol pa'i rdo rje (7397)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6583/",
+        "label": "karma dkon mchog gzhon nu (6583)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7397/",
+        "label": "karma pa rol pa'i rdo rje (7397)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BDRC",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4939,
+      "label": "karma dkon mchog gzhon nu (6583) author of theg pa chen po rgyud bla ma'i bsdus don rton pa bzhi ldan mkhas pa dga' byed (7105)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6583/",
+        "label": "karma dkon mchog gzhon nu (6583)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7105/",
+        "label": "theg pa chen po rgyud bla ma'i bsdus don rton pa bzhi ldan mkhas pa dga' byed (7105)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:6586) in [8H6M69W4], No. 15844: kar+ma dkon mchog gzhon nus.",
+      "tei_refs": "",
+      "support_notes": "Colophon.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5834,
+      "label": "karma dkon mchog gzhon nu (6583) active at dge ldan sa bzangs (5736)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6583/",
+        "label": "karma dkon mchog gzhon nu (6583)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5736/",
+        "label": "dge ldan sa bzangs (5736)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Composition of work (ID:6584).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3497,
+      "label": "karma dkon mchog gzhon nu (6583) author of rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (6584)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6583/",
+        "label": "karma dkon mchog gzhon nu (6583)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6584/",
+        "label": "rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (6584)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 523, No. 11337: karma dkon mchog gzhon nu [rnams] kyis mdzad pa'i rgyud bla ma'i Tik+ka.\r\nAuthor reported for instance (ID:6585) in [8H6M69W4], No. 15843: kar+ma pa dkon mchog gzhon nus.",
+      "tei_refs": "",
+      "support_notes": "Colophon",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "end_date_to": null,
   "end_date_from": "1350-01-01",
   "end_date_sort": "1350-01-01",

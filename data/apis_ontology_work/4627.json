@@ -1,5 +1,91 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4627/",
+  "relations": [
+    {
+      "id": 2606,
+      "label": "bden gnyis kyi rnam par bshad pa (4627) commentary on satyadvay\u0101vat\u0101ra (6040)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4627/",
+        "label": "bden gnyis kyi rnam par bshad pa (4627)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6040/",
+        "label": "satyadvay\u0101vat\u0101ra (6040)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1352,
+      "label": "bden gnyis kyi rnam par bshad pa (4627) has as an instance bden gnyis kyi rnam par bshad pa (4626)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4627/",
+        "label": "bden gnyis kyi rnam par bshad pa (4627)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4626/",
+        "label": "bden gnyis kyi rnam par bshad pa (4626)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 661,
+      "label": "rnal 'byor pa shes rab rdo rje (3913) author of bden gnyis kyi rnam par bshad pa (4627)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3913/",
+        "label": "rnal 'byor pa shes rab rdo rje (3913)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4627/",
+        "label": "bden gnyis kyi rnam par bshad pa (4627)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex21032024-09-0412-46-27. In the colophon, the author refers to himself as \"bdag\", who a note states to be the monk Praj\u00f1\u0101vajra. A note to this note, written by another hand, identifies Praj\u00f1\u0101vajra as rNal 'byor pa shes rab rdo rje.",
+      "support_notes": "Some elements in the text indicate that the author is more likely a disciple of rNal 'byor pa shes rab rdo rje.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1150-12-31",
   "start_date_from": "1010-01-01",
   "start_date_sort": "1080-07-01",

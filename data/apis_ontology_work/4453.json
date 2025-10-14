@@ -1,5 +1,119 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4453/",
+  "relations": [
+    {
+      "id": 2842,
+      "label": "shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (4453) has as an instance shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (2) (6283)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4453/",
+        "label": "shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (4453)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6283/",
+        "label": "shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (2) (6283)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 542,
+      "label": "shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (4453) commentary on praj\u00f1\u0101p\u0101ramit\u0101h\u1e5bdaya (3694)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4453/",
+        "label": "shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (4453)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3694/",
+        "label": "praj\u00f1\u0101p\u0101ramit\u0101h\u1e5bdaya (3694)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1272,
+      "label": "shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (4453) has as an instance shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (1) (4452)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4453/",
+        "label": "shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (4453)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4452/",
+        "label": "shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (1) (4452)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 541,
+      "label": "ar byang chub ye shes (3816) author of shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (4453)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3816/",
+        "label": "ar byang chub ye shes (3816)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4453/",
+        "label": "shes rab kyi pha rol tu phyin pa'i mdo'i rgya cher 'grel ba (4453)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:4452) in [8H6M69W4], No. 10294: shAkya'i dge slong byang chub ye shes",
+      "tei_refs": "ex2022023-10-13-111939",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1194-12-31",
   "start_date_from": "1064-01-01",
   "start_date_sort": "1129-07-02",

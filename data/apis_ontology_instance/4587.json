@@ -1,5 +1,147 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4587/",
+  "relations": [
+    {
+      "id": 5777,
+      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (2) (4587) has source theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (1) (7376)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4587/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (2) (4587)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7376/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (1) (7376)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BXCBT3S8]: Preface.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5773,
+      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4) (7374) has source theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (2) (4587)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7374/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4) (7374)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4587/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (2) (4587)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2007,
+      "label": "'jam dpal rgyal mtshan (5898) scribe of theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (2) (4587)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5898/",
+        "label": "'jam dpal rgyal mtshan (5898)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4587/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (2) (4587)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex17012023-09-15-120548",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5779,
+      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal bar byed pa rin po che'i sgron me (3) (7377) has source theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (2) (4587)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7377/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal bar byed pa rin po che'i sgron me (3) (7377)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4587/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (2) (4587)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1334,
+      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588) has as an instance theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (2) (4587)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4588/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4587/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (2) (4587)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": "1974-12-31",
   "start_date_from": "1974-01-01",
   "start_date_sort": "1974-07-02",

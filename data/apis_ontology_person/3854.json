@@ -1,5 +1,319 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3854/",
+  "relations": [
+    {
+      "id": 3941,
+      "label": "spar phu ba blo gros seng ge (3854) student of phag mo gru pa rdo rje rgyal po (3856)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3854/",
+        "label": "spar phu ba blo gros seng ge (3854)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3856/",
+        "label": "phag mo gru pa rdo rje rgyal po (3856)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 407 (dus phyis dge ba'i bshes gnyen gru shul ba zer ba zhig dang | dpal phag mo gru pa'i slob ma byas nas phyag rgya chen po ba'i sgom chen du gyur to |) and 667.\r\n[8GL7ZT7Y]: 15b7 (spar phu ba blo gros seng ge ni gsung rab mtha' dag la mkhas shing | phyis phag gru chen po la gsan nas do ha skor gsum gyi 'grel pa mdzad do |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        41
+      ]
+    },
+    {
+      "id": 113,
+      "label": "spar phu ba blo gros seng ge (3854) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3854/",
+        "label": "spar phu ba blo gros seng ge (3854)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 406 ('gar dbang gru | kong po 'jag chung | lho ba sgog zan | bar phu ba dang bzhi la ses rab can bzhi zer |).\r\n[8GL7ZT7Y]: 15b7 (spar phu ba blo gros seng ge ni gsung rab mtha' dag la mkhas shing | phyis phag gru chen po la gsan nas do ha skor gsum gyi 'grel pa mdzad do |). Spar phu ba is here discussed in the paragraph about the \"seng ge brgyad,\" whereas [VKBZTBWN]: 5a1 lists him as one of the \"shes rab mi gsum.\"",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "",
+      "end": "",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 601,
+      "label": "spar phu ba blo gros seng ge (3854) author of btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4540)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3854/",
+        "label": "spar phu ba blo gros seng ge (3854)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4540/",
+        "label": "btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4540)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported in [8H6M69W4], no. 6881 for instance (ID:4539): dge slong blo gros seng ge.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 599,
+      "label": "spar phu ba blo gros seng ge (3854) author of rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (4536)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3854/",
+        "label": "spar phu ba blo gros seng ge (3854)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4536/",
+        "label": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (4536)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3515,
+      "label": "spar phu ba blo gros seng ge (3854) author of dbu ma'i rtsa Tik (6594)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3854/",
+        "label": "spar phu ba blo gros seng ge (3854)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6594/",
+        "label": "dbu ma'i rtsa Tik (6594)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 523, No. 11348: par phu ba'i dbu ma'i rtsa Tik.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 958,
+      "label": "spar phu ba blo gros seng ge (3854) author of blo gros dri ma med pa snang pa (5163)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3854/",
+        "label": "spar phu ba blo gros seng ge (3854)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5163/",
+        "label": "blo gros dri ma med pa snang pa (5163)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5649,
+      "label": "spar phu ba blo gros seng ge (3854) author of dho ha mdzod kyi sgo dbye ba'i sgron ma lhan cig skyes pa'i snang ba (7305)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3854/",
+        "label": "spar phu ba blo gros seng ge (3854)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7305/",
+        "label": "dho ha mdzod kyi sgo dbye ba'i sgron ma lhan cig skyes pa'i snang ba (7305)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 603,
+      "label": "spar phu ba blo gros seng ge (3854) author of 'khor 'das kyi chos thams cad blta ba'i me long (4544)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3854/",
+        "label": "spar phu ba blo gros seng ge (3854)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4544/",
+        "label": "'khor 'das kyi chos thams cad blta ba'i me long (4544)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex11152024-09-0412-06-12",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 959,
+      "label": "spar phu ba blo gros seng ge (3854) author of blo gros dri ma med pa snang ba'i bshad (5165)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3854/",
+        "label": "spar phu ba blo gros seng ge (3854)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5165/",
+        "label": "blo gros dri ma med pa snang ba'i bshad (5165)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:5164) in [8H6M69W4], No. 18966: spar bu ba blo gros seng+ges.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 604,
+      "label": "spar phu ba blo gros seng ge (3854) author of bla ma mnyes par byed pa'i bsgrub pa (4546)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3854/",
+        "label": "spar phu ba blo gros seng ge (3854)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4546/",
+        "label": "bla ma mnyes par byed pa'i bsgrub pa (4546)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex11162024-09-0411-33-27",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 602,
+      "label": "spar phu ba blo gros seng ge (3854) author of btsun mo do ha'i 'grel bshad snying po rnam par nges pa (4542)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3854/",
+        "label": "spar phu ba blo gros seng ge (3854)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4542/",
+        "label": "btsun mo do ha'i 'grel bshad snying po rnam par nges pa (4542)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "end_date_to": "1199-12-31",
   "end_date_from": "1129-01-01",
   "end_date_sort": "1164-07-01",

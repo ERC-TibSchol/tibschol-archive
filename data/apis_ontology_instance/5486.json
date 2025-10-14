@@ -1,5 +1,35 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5486/",
+  "relations": [
+    {
+      "id": 1742,
+      "label": "theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5487) has as an instance theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5486)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5487/",
+        "label": "theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5487)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5486/",
+        "label": "theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5486)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
