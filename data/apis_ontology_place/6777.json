@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6777/",
   "relations": [
     {
+      "id": 6028,
+      "label": "rnam rgyal gser khang grwa tshang (6777) located within rnam rgyal gser khang (6753)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6777/",
+        "label": "rnam rgyal gser khang grwa tshang (6777)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6753/",
+        "label": "rnam rgyal gser khang (6753)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3998,
       "label": "rnam rgyal gser khang grwa tshang (6777) located within gsang phu gling stod (6172)",
       "subj": {
@@ -22,7 +50,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[CKLUC29Y]: 19.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
