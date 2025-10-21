@@ -17,13 +17,13 @@ API_PASS = os.getenv("TIBSCHOL_API_PASSWORD", "")
 API_BASE_URL = "https://tibschol.acdh-ch-dev.oeaw.ac.at/"
 
 SELECTED_ENDPOINTS = {
-    "apis/api/apis_ontology.place": "http://127.0.0.1:8000/apis/api/apis_ontology.place/",
-    "apis/api/apis_ontology.zoteroentry": "http://127.0.0.1:8000/apis/api/apis_ontology.zoteroentry/",
-    "apis/api/apis_ontology.person": "http://127.0.0.1:8000/apis/api/apis_ontology.person/",
-    "apis/api/apis_ontology.work": "http://127.0.0.1:8000/apis/api/apis_ontology.work/",
-    "apis/api/apis_ontology.instance": "http://127.0.0.1:8000/apis/api/apis_ontology.instance/",
-    "apis/api/apis_ontology.excerpts": "http://127.0.0.1:8000/apis/api/apis_ontology.excerpts/",
-    "apis/api/apis_ontology.subject": "http://127.0.0.1:8000/apis/api/apis_ontology.subject/",
+    "apis/api/apis_ontology.place": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/",
+    "apis/api/apis_ontology.zoteroentry": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.zoteroentry/",
+    "apis/api/apis_ontology.person": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/",
+    "apis/api/apis_ontology.work": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/",
+    "apis/api/apis_ontology.instance": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/",
+    "apis/api/apis_ontology.excerpts": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/",
+    "apis/api/apis_ontology.subject": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/",
 }
 logging.basicConfig(
     level=logging.INFO,
