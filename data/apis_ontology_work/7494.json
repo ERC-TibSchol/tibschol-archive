@@ -1,18 +1,18 @@
 {
-  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7138/",
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7494/",
   "relations": [
     {
-      "id": 5356,
-      "label": "phag mo gru pa'i rnam thar gzi brjid 'bar ba'i sgron ma (7138) has as an instance phag mo gru pa'i rnam thar gzi brjid 'bar ba'i sgron ma (7204)",
+      "id": 6040,
+      "label": "dkar brgyud gser 'phreng rnam thar 'brug ra lung gdan rabs yan (7494) has as an instance dkar brgyud gser 'phreng rnam thar 'brug ra lung gdan rabs yan (7495)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7138/",
-        "label": "phag mo gru pa'i rnam thar gzi brjid 'bar ba'i sgron ma (7138)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7494/",
+        "label": "dkar brgyud gser 'phreng rnam thar 'brug ra lung gdan rabs yan (7494)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7204/",
-        "label": "phag mo gru pa'i rnam thar gzi brjid 'bar ba'i sgron ma (7204)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7495/",
+        "label": "dkar brgyud gser 'phreng rnam thar 'brug ra lung gdan rabs yan (7495)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 5011,
-      "label": "phag mo gru pa rdo rje rgyal po (3856) biographed in phag mo gru pa'i rnam thar gzi brjid 'bar ba'i sgron ma (7138)",
+      "id": 6039,
+      "label": "phag mo gru pa rdo rje rgyal po (3856) biographed in dkar brgyud gser 'phreng rnam thar 'brug ra lung gdan rabs yan (7494)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3856/",
         "label": "phag mo gru pa rdo rje rgyal po (3856)",
@@ -39,8 +39,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7138/",
-        "label": "phag mo gru pa'i rnam thar gzi brjid 'bar ba'i sgron ma (7138)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7494/",
+        "label": "dkar brgyud gser 'phreng rnam thar 'brug ra lung gdan rabs yan (7494)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -58,17 +58,17 @@
       "end": null
     },
     {
-      "id": 5012,
-      "label": "dpal chen chos kyi ye shes (7137) author of phag mo gru pa'i rnam thar gzi brjid 'bar ba'i sgron ma (7138)",
+      "id": 6042,
+      "label": "rgyal thang pa bden chen rdo rje (7496) author of dkar brgyud gser 'phreng rnam thar 'brug ra lung gdan rabs yan (7494)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7137/",
-        "label": "dpal chen chos kyi ye shes (7137)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7496/",
+        "label": "rgyal thang pa bden chen rdo rje (7496)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7138/",
-        "label": "phag mo gru pa'i rnam thar gzi brjid 'bar ba'i sgron ma (7138)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7494/",
+        "label": "dkar brgyud gser 'phreng rnam thar 'brug ra lung gdan rabs yan (7494)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -86,19 +86,17 @@
       "end": null
     }
   ],
-  "start_date_to": "1260-12-31",
-  "start_date_from": "1120-01-01",
-  "start_date_sort": "1190-07-02",
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
   "comments": "",
-  "alternative_names": "dpal phag mo gru pa'i rnam thr rin po che'i phreng ba\r\nchos rje rin po che'i rnam thar yon tan rin po che'i phreng ba gzhi brjid 'bar ba'i sgron ma",
+  "alternative_names": "",
   "external_links": "",
   "review": false,
-  "start": "after 1120 before 1260",
-  "name": "phag mo gru pa'i rnam thar gzi brjid 'bar ba'i sgron ma",
+  "start": null,
+  "name": "dkar brgyud gser 'phreng rnam thar 'brug ra lung gdan rabs yan",
   "sde_dge_ref": null,
   "original_language": "Tibetan",
   "isExtant": true,
-  "subject_vocab": [
-    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/19/"
-  ]
+  "subject_vocab": []
 }
