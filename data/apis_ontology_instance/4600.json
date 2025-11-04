@@ -3,7 +3,7 @@
   "relations": [
     {
       "id": 1340,
-      "label": "dbu ma'i man ngag gi bshad pa (4601) has as an instance dbu ma'i man ngag gi bshad pa/_pu to yab sras kyi lugs (4600)",
+      "label": "dbu ma'i man ngag gi bshad pa (4601) has as an instance dbu ma'i man ngag gi bshad pa (4600)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4601/",
         "label": "dbu ma'i man ngag gi bshad pa (4601)",
@@ -12,7 +12,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4600/",
-        "label": "dbu ma'i man ngag gi bshad pa/_pu to yab sras kyi lugs (4600)",
+        "label": "dbu ma'i man ngag gi bshad pa (4600)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -34,11 +34,11 @@
   "start_date_from": null,
   "start_date_sort": null,
   "comments": "",
-  "alternative_names": "dbu ma'i man ngag gi bshad pa (catalogue)",
+  "alternative_names": "dbu ma'i man ngag gi bshad pa (catalogue)\r\ndbu ma'i man ngag gi bshad pa pu to yab sras kyi lugs",
   "external_links": "https://purl.bdrc.io/resource/MW1PD89051_4503E7",
   "review": false,
   "start": null,
-  "name": "dbu ma'i man ngag gi bshad pa/_pu to yab sras kyi lugs",
+  "name": "dbu ma'i man ngag gi bshad pa",
   "set_num": "Set 1",
   "volume": "19",
   "sb_text_number": "4",
