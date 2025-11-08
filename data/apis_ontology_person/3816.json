@@ -282,7 +282,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex02032025-11-017-09-11\r\nex02032025-11-0617-22-26\r\nex02032025-11-0617-32-09\r\nex3012023-07-1009-02-40\r\nex02032025-04-2514-57-05",
+      "tei_refs": "ex02032025-11-017-09-12\r\nex02032025-11-0617-22-26\r\nex02032025-11-0617-32-09\r\nex3012023-07-1009-02-40\r\nex02032025-04-2514-57-05",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -344,35 +344,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 5283,
-      "label": "ar byang chub ye shes (3816) quotes with name spong zho lo tsha ba (6950)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3816/",
-        "label": "ar byang chub ye shes (3816)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6950/",
-        "label": "spong zho lo tsha ba (6950)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     },
     {
       "id": 5743,
@@ -485,7 +456,36 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex20220240828_1\r\nex2032023-07-2115-18-21\r\nex02032025-11-017-09-11",
+      "tei_refs": "ex20220240828_1\r\nex002032025-11-0715-07-20\r\nex02032025-11-017-09-11\r\nex2032023-07-2115-18-21",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6043,
+      "label": "ar byang chub ye shes (3816) quotes without name spong zho lo tsha ba (6950)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3816/",
+        "label": "ar byang chub ye shes (3816)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6950/",
+        "label": "spong zho lo tsha ba (6950)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex203_2024-09-1111-40-4132",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -717,7 +717,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex03012023-07-1009-06-03 (lo tsa ba)\r\nex02032025-04-2512-31-25 (mahA)\r\nex02032025-04-2513-15-112 (mahA)\r\nex02032025-04-2514-57-05 (mahA)",
+      "tei_refs": "ex03012023-07-1009-06-03 (lo tsa ba)\r\nex02032025-04-2512-31-25 (mahA)\r\nex002032025-11-0715-07-22 (maha)\r\nex02032025-04-2513-15-112 (mahA)\r\nex02032025-04-2514-57-05 (mahA)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

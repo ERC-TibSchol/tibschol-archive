@@ -389,37 +389,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 4076,
-      "label": "gro ston bdud rtsi grags (3880) student of chu mig pa shes rab grags (3975)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
-        "label": "gro ston bdud rtsi grags (3880)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3975/",
-        "label": "chu mig pa shes rab grags (3975)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Z5WBK2VV]: 47 (ka ma ba'i lam gyi rim pa chu mig pa shes rab grags las gsan |).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        12
-      ]
-    },
-    {
       "id": 4678,
       "label": "mchims nam mkha' grags (3977) biographer of chu mig pa shes rab grags (3975)",
       "subj": {
@@ -474,35 +443,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 4686,
-      "label": "gro ston bdud rtsi grags (3880) student of chu mig pa shes rab grags (3975)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
-        "label": "gro ston bdud rtsi grags (3880)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3975/",
-        "label": "chu mig pa shes rab grags (3975)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: 41, n. 85 and 42. They met when Gro mo che (ID:3880) was 16 years old.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1169",
-      "end": "1169",
       "subject_of_teaching_vocab": []
     },
     {
@@ -562,18 +502,18 @@
       "end": null
     }
   ],
-  "end_date_to": "1099-12-31",
-  "end_date_from": null,
-  "end_date_sort": "1099-12-31",
-  "start_date_to": null,
-  "start_date_from": "1000-01-01",
-  "start_date_sort": "1000-01-01",
+  "end_date_to": null,
+  "end_date_from": "1169-01-01",
+  "end_date_sort": "1169-01-01",
+  "start_date_to": "1110-12-31",
+  "start_date_from": "1042-01-01",
+  "start_date_sort": "1076-07-01",
   "comments": "Based on their dates, he is a diffferent person than Kha mo ze'u pa (ID:3877).\r\nMember of the Ze'u clan, born in sDza ra ([647FFPZR]: 543, n. 55.)",
   "alternative_names": "chu mig pa chen po\r\nchu mig pa khu le'i kha mo ze'u ston\r\nchu mig pa shes rab grags pa",
   "external_links": "https://purl.bdrc.io/resource/P5740",
   "review": false,
-  "start": "after 1000",
-  "end": "before 1099",
+  "start": "after 1042 before 1110",
+  "end": "after 1169",
   "name": "chu mig pa shes rab grags",
   "gender": "male",
   "nationality": "Tibetan"
