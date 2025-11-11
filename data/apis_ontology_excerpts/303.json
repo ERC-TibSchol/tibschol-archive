@@ -1,7 +1,7 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/303/",
   "xml_id": "ex58042024-12-0515-50-413",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex58042024-12-0515-50-413\" status=\"finalized\"><milestone n=\"Closing verses\" unit=\"section\"/>\n         <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:7022\"><abbr>grags</abbr> pa'i mtshan can <note type=\"gloss\">mkhan chen bsod naMs</note> chos rje</rs>'i bka' drin las |\n         <abbr>legs</abbr> par rnyed pa'i snyan rgyud <abbr>rin chen</abbr> gter ||\n         dad ldan <lb n=\"15a6\"/> slob mas bskul nas phye ba'i mthus || \n         'gro kun <abbr>byang chub</abbr> <abbr>thugs</abbr> 2 'byongs par shog ||</seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex58042024-12-0515-50-413\" status=\"finalized\" part=\"M\" next=\"ex58042024-12-0515-50-41\"><milestone n=\"Closing verses\" unit=\"section\"/>\n         <lg><l><rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:7022\"><abbr>grags</abbr> pa'i mtshan can <note type=\"gloss\">mkhan chen bsod naMs ra sa brag phug pa'i bsgoM chen po</note><note type=\"editorial\">Reading \"ra sa brag phug\" tentative.</note> chos rje</rs>'i bka' drin las |</l>\n         <l><abbr>legs</abbr> par rnyed pa'i snyan rgyud <abbr>rin chen</abbr> gter ||</l>\n        <l> dad ldan <lb n=\"15a6\"/> slob mas bskul nas phye ba'i mthus ||</l> \n         <l>'gro kun <abbr>byang chub</abbr> <abbr>thugs</abbr> 2 'byongs par shog ||</l></lg></seg></TEI>",
   "source": "2_058_04_.xml",
   "tibschol_refs": "2_058_04",
   "zotero_refs": "",
