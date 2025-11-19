@@ -1,18 +1,18 @@
 {
-  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5527/",
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7499/",
   "relations": [
     {
-      "id": 1759,
-      "label": "dbu ma tshig gsal gyi ti ka (5528) has as an instance dbu ma tshig gsal gyi ti ka (5527)",
+      "id": 6046,
+      "label": "thub pa'i bstan pa rgyan gyi me tog (6044) has as an instance bstan pa rgyan gyi me tog (7499)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5528/",
-        "label": "dbu ma tshig gsal gyi ti ka (5528)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6044/",
+        "label": "thub pa'i bstan pa rgyan gyi me tog (6044)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5527/",
-        "label": "dbu ma tshig gsal gyi ti ka (5527)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7499/",
+        "label": "bstan pa rgyan gyi me tog (7499)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -22,9 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -38,7 +38,7 @@
   "external_links": "",
   "review": false,
   "start": null,
-  "name": "dbu ma tshig gsal gyi ti ka",
+  "name": "bstan pa rgyan gyi me tog",
   "set_num": null,
   "volume": null,
   "sb_text_number": "",
@@ -49,8 +49,8 @@
   "drepung_number": null,
   "provenance": "",
   "zotero_ref": "",
-  "tibschol_ref": "X_011",
-  "availability": null,
+  "tibschol_ref": "X_028",
+  "availability": "available",
   "dimension": null,
   "item_description": ""
 }
