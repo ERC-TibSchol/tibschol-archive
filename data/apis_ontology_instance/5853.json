@@ -1,0 +1,112 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5853/",
+  "relations": [
+    {
+      "id": 1889,
+      "label": "skyo ston smon lam tshul khrims (4052) owner of theg chen dbu ma'i gdams pa (1) (5853)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4052/",
+        "label": "skyo ston smon lam tshul khrims (4052)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5853/",
+        "label": "theg chen dbu ma'i gdams pa (1) (5853)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50072023-10-13-092545",
+      "support_notes": "We take \"slob dpon chen po\" in the colophon to refer to sKyo ston.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1869,
+      "label": "theg chen dbu ma'i gdams pa (2) (4850) has source theg chen dbu ma'i gdams pa (1) (5853)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4850/",
+        "label": "theg chen dbu ma'i gdams pa (2) (4850)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5853/",
+        "label": "theg chen dbu ma'i gdams pa (1) (5853)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50072023-10-13-092545",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1868,
+      "label": "theg chen dbu ma'i gdams pa (4851) has as an instance theg chen dbu ma'i gdams pa (1) (5853)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4851/",
+        "label": "theg chen dbu ma'i gdams pa (4851)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5853/",
+        "label": "theg chen dbu ma'i gdams pa (1) (5853)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": null,
+  "external_links": null,
+  "review": false,
+  "start": null,
+  "name": "theg chen dbu ma'i gdams pa (1)",
+  "set_num": null,
+  "volume": null,
+  "sb_text_number": null,
+  "pp_kdsb": null,
+  "num_folios": null,
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": null,
+  "zotero_ref": null,
+  "tibschol_ref": null,
+  "availability": null,
+  "dimension": null,
+  "item_description": null
+}

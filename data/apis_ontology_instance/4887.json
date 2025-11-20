@@ -1,0 +1,140 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4887/",
+  "relations": [
+    {
+      "id": 1956,
+      "label": "shes rab kyi pha rol phyin pa'i man ngag (3) (4887) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4887/",
+        "label": "shes rab kyi pha rol phyin pa'i man ngag (3) (4887)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50222023-09-131",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1883,
+      "label": "shes rab kyi pha rol phyin pa'i man ngag (3) (4887) has source shes rab kyi pha rol phyin pa'i man ngag (2) (5859)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4887/",
+        "label": "shes rab kyi pha rol phyin pa'i man ngag (3) (4887)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5859/",
+        "label": "shes rab kyi pha rol phyin pa'i man ngag (2) (5859)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50222023-09-131",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1469,
+      "label": "shes rab kyi pha rol phyin pa'i man ngag (4888) has as an instance shes rab kyi pha rol phyin pa'i man ngag (3) (4887)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4888/",
+        "label": "shes rab kyi pha rol phyin pa'i man ngag (4888)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4887/",
+        "label": "shes rab kyi pha rol phyin pa'i man ngag (3) (4887)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1774,
+      "label": "ze'u chos kyi rgyal mtshan (6458) scribe of shes rab kyi pha rol phyin pa'i man ngag (3) (4887)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6458/",
+        "label": "ze'u chos kyi rgyal mtshan (6458)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4887/",
+        "label": "shes rab kyi pha rol phyin pa'i man ngag (3) (4887)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50222023-09-131",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "Since the post-colophon annotation also mentions as source the instance belonging to sKyo ston (ID:4052) and Chos kyi rgyal mtshan (ID:6458) as scribe, we take it to re-iterate the information of the colophon with the addition of a place of copy, rather than hinting at a subsequent copy.",
+  "alternative_names": "mngon rtogs rgyan gyi khrid (catalogue)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_773FF8",
+  "review": false,
+  "start": null,
+  "name": "shes rab kyi pha rol phyin pa'i man ngag (3)",
+  "set_num": "Set 2",
+  "volume": "50",
+  "sb_text_number": "22",
+  "pp_kdsb": "405-416",
+  "num_folios": "6",
+  "signature_letter": "la",
+  "signature_number": "550",
+  "drepung_number": "19634",
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "2_050_22",
+  "availability": "available",
+  "dimension": "35 x 6",
+  "item_description": "Script: 'bru tsha."
+}

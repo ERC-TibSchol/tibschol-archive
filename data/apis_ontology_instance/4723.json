@@ -1,0 +1,56 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4723/",
+  "relations": [
+    {
+      "id": 1398,
+      "label": "ltung ba sde lnga'i kun tu spyod pa rin po che'i sgron ma (4722) has as an instance ltung ba sde lnga'i kun tu spyod pa rin po che'i sgron ma (2) (4723)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4722/",
+        "label": "ltung ba sde lnga'i kun tu spyod pa rin po che'i sgron ma (4722)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4723/",
+        "label": "ltung ba sde lnga'i kun tu spyod pa rin po che'i sgron ma (2) (4723)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "Has a different set of annotations than instance (ID:4721).",
+  "alternative_names": "bslab pa'i gzhi rin po che\u02bci phreng bar bsdebs pa ltung ba sde lnga'i kun tu spyad pa rin po che'i gron ma zhes bya ba bslab pa'i gzhi\r\nblab pa'i gzhi rin po che phreng bar bsdegs pa ltung ba sde lnga'i kun tu spyad pa rin po che'i sgron ma (colophon)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_B54336",
+  "review": true,
+  "start": null,
+  "name": "ltung ba sde lnga'i kun tu spyod pa rin po che'i sgron ma (2)",
+  "set_num": "Set 2",
+  "volume": "36",
+  "sb_text_number": "4",
+  "pp_kdsb": "409-522",
+  "num_folios": "57(/58)",
+  "signature_letter": "wa",
+  "signature_number": "42",
+  "drepung_number": "16258",
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "2_036_04",
+  "availability": "available",
+  "dimension": "66.5 x 11",
+  "item_description": "Script: 'bru tsha.\r\nFirst folio missing. The signature was written on top of fol. 2a.\r\nThe first words on fol. 2a1 (skad kyi byings) are found on fol. 2a5-6 in instance (ID:4721)."
+}
