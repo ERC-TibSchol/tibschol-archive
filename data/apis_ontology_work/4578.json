@@ -1,0 +1,104 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4578/",
+  "relations": [
+    {
+      "id": 626,
+      "label": "dbu ma rtsa ba'i bshad pa srog gi 'khor lo (4578) commentary on m\u016blamadhyamakak\u0101rik\u0101 (3715)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4578/",
+        "label": "dbu ma rtsa ba'i bshad pa srog gi 'khor lo (4578)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3715/",
+        "label": "m\u016blamadhyamakak\u0101rik\u0101 (3715)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1329,
+      "label": "dbu ma rtsa ba'i bshad pa srog gi 'khor lo (4578) has as an instance dbu ma rtsa ba'i bshad pa srog gi 'khor lo (4577)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4578/",
+        "label": "dbu ma rtsa ba'i bshad pa srog gi 'khor lo (4578)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4577/",
+        "label": "dbu ma rtsa ba'i bshad pa srog gi 'khor lo (4577)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 625,
+      "label": "'u yug pa bsod nams seng ge (3846) author of dbu ma rtsa ba'i bshad pa srog gi 'khor lo (4578)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4578/",
+        "label": "dbu ma rtsa ba'i bshad pa srog gi 'khor lo (4578)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:4588) in [8H6M69W4], No. 15440: thos pa 'dzin pa'i dge slong bsod nams seng ge.",
+      "tei_refs": "",
+      "support_notes": "The author is understood to be 'U yug pa (ID:3846) in [JZP4CZRX]. This needs to be confirmed,",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1280-12-31",
+  "start_date_from": "1200-01-01",
+  "start_date_sort": "1240-07-01",
+  "comments": "",
+  "alternative_names": "bsod nams seng ges mdzad pa'i dbu ma rtsa ba'i bshad pa srog gi 'khor lo\r\ndbu ma rtsa ba'i rnam bshad rdzogs so",
+  "external_links": "",
+  "review": true,
+  "start": "after 1200 before 1280",
+  "name": "dbu ma rtsa ba'i bshad pa srog gi 'khor lo",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}

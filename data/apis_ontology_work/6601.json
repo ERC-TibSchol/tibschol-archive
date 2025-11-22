@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6601/",
+  "relations": [
+    {
+      "id": 3530,
+      "label": "byang sa'i 'grel pa (6601) commentary on yog\u0101c\u0101rabh\u016bmau bodhisattvabh\u016bmi (3752)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6601/",
+        "label": "byang sa'i 'grel pa (6601)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3752/",
+        "label": "yog\u0101c\u0101rabh\u016bmau bodhisattvabh\u016bmi (3752)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3529,
+      "label": "gro lung pa blo gros 'byung gnas (3806) author of byang sa'i 'grel pa (6601)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3806/",
+        "label": "gro lung pa blo gros 'byung gnas (3806)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6601/",
+        "label": "byang sa'i 'grel pa (6601)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 529, No. 11494.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1120-12-31",
+  "start_date_from": "1045-01-01",
+  "start_date_sort": "1082-12-31",
+  "comments": "Listed in A khu ching Shes rab rgya mtsho's Tho yig ([5RXEUKD9]: 529, No. 11494: [gro lung pa'i] byang sa'i 'grel pa).",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "after 1045 before 1120",
+  "name": "byang sa'i 'grel pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/48/"
+  ]
+}

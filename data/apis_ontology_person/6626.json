@@ -1,0 +1,51 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6626/",
+  "relations": [
+    {
+      "id": 3592,
+      "label": "mus chen rgyal mtshan dpal bzang po (6626) student of 'jam dbyangs rin chen rgyal mtshan (6619)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6626/",
+        "label": "mus chen rgyal mtshan dpal bzang po (6626)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6619/",
+        "label": "'jam dbyangs rin chen rgyal mtshan (6619)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 129. At Sa skya in 1299. Teaching: Pram\u0101\u1e47av\u0101rttika and Rigs gter.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1299",
+      "end": "1299",
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    }
+  ],
+  "end_date_to": "1347-12-31",
+  "end_date_from": "1347-01-01",
+  "end_date_sort": "1347-07-02",
+  "start_date_to": "1287-12-31",
+  "start_date_from": "1287-01-01",
+  "start_date_sort": "1287-07-02",
+  "comments": "",
+  "alternative_names": "gnyags ston chos rje rgyal mtshan dpal bzang po\r\nmus chen rgyal mtshan dpal bzang",
+  "external_links": "https://purl.bdrc.io/resource/P2781",
+  "review": false,
+  "start": "1287",
+  "end": "1347",
+  "name": "mus chen rgyal mtshan dpal bzang po",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

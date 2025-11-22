@@ -1,0 +1,165 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6211/",
+  "relations": [
+    {
+      "id": 2646,
+      "label": "dar yon tan grags (6211) student of pa tshab nyi ma grags (3868)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6211/",
+        "label": "dar yon tan grags (6211)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
+        "label": "pa tshab nyi ma grags (3868)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[XJHQU4GM]: 136. One of the \"four sons\" of Pa tshab.\r\n[EG6VZ8JK]: 23, translated from [8GL7ZT7Y].",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4582,
+      "label": "dar yon tan grags (6211) ordinator of mon ston 'byung gnas shes rab (4269)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6211/",
+        "label": "dar yon tan grags (6211)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4269/",
+        "label": "mon ston 'byung gnas shes rab (4269)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 287 (gnyen sa phug pa | dar yon tan grags | skyi rings yon tan seng ge gsum las dge slong chig rdzogs mdzad cing | jo bo'i chos rnams gsan |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2648,
+      "label": "dar yon tan grags (6211) teaches rigs tshogs (5632)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6211/",
+        "label": "dar yon tan grags (6211)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5632/",
+        "label": "rigs tshogs (5632)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 528 (spa tshab lo tsA la dbu ma gsan pas bsten long ma byung bar dar yon tan grags la rigs tshogs gsan |). Teaches to Khyung tshang ba (ID: 6210).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4581,
+      "label": "mon ston 'byung gnas shes rab (4269) student of dar yon tan grags (6211)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4269/",
+        "label": "mon ston 'byung gnas shes rab (4269)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6211/",
+        "label": "dar yon tan grags (6211)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 287 (gnyen sa phug pa | dar yon tan grags | skyi rings yon tan seng ge gsum las dge slong chig rdzogs mdzad cing | jo bo'i chos rnams gsan |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2647,
+      "label": "khyung tshang pa (6210) student of dar yon tan grags (6211)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
+        "label": "khyung tshang pa (6210)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6211/",
+        "label": "dar yon tan grags (6211)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 528 (spa tshab lo tsA la dbu ma gsan pas bsten long ma byung bar dar yon tan grags la rigs tshogs gsan |). Teaching: (ID: 5632).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "1080-01-01",
+  "end_date_sort": "1080-01-01",
+  "start_date_to": "1140-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1140-12-31",
+  "comments": "",
+  "alternative_names": "ngar yon tan grags\r\nngar yul ba rin chen grags\r\ndar yul ba rin chen grags",
+  "external_links": "",
+  "review": false,
+  "start": "before 1140",
+  "end": "after 1080",
+  "name": "dar yon tan grags",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

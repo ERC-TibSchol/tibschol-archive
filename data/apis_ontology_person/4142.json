@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4142/",
+  "relations": [
+    {
+      "id": 3771,
+      "label": "grwa pa mngon shes (4142) lineage predecessor of khyung rin chen grags (3809)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4142/",
+        "label": "grwa pa mngon shes (4142)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5NY3E6YU]: 57 (des gra pa mngon shes | des kyhung rin chen grags | des bya 'dul dang slob dpon phya pa la sogs pa |). Grwa pa mngon shes is considered as a predecessor of Khyung in a 'mkhan brgyud' lineage.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 337,
+      "label": "btsan kha bo che (4141) student of grwa pa mngon shes (4142)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4141/",
+        "label": "btsan kha bo che (4141)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4142/",
+        "label": "grwa pa mngon shes (4142)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 99.\r\n[R894SIKE]: 422.\r\n[FUFWUVQQ]: 304.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1090-12-31",
+  "end_date_from": "1090-01-01",
+  "end_date_sort": "1090-07-02",
+  "start_date_to": "1012-12-31",
+  "start_date_from": "1012-01-01",
+  "start_date_sort": "1012-07-01",
+  "comments": "",
+  "alternative_names": "dbang phyug 'bar",
+  "external_links": "https://purl.bdrc.io/resource/P4655",
+  "review": true,
+  "start": "1012",
+  "end": "1090",
+  "name": "grwa pa mngon shes",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

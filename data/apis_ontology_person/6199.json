@@ -1,0 +1,107 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6199/",
+  "relations": [
+    {
+      "id": 2618,
+      "label": "zla ba'i 'od zer (3835) student of zhang rgya ma ba (6199)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3835/",
+        "label": "zla ba'i 'od zer (3835)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6199/",
+        "label": "zhang rgya ma ba (6199)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 283 (bcu drug lon pa'i tshe 'u yug gi zhang rgya ma ba | gangs pa she'u | rong zom chos kyi bzang po la sogs pa yab kyi bzhin du gsan pa rgya cher mdzad |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1139",
+      "end": "after 1139",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2655,
+      "label": "dge sdings pa (6212) student of zhang rgya ma ba (6199)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6212/",
+        "label": "dge sdings pa (6212)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6199/",
+        "label": "zhang rgya ma ba (6199)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 530 (slob dpon rgya ma ba la sogs pa la yo ga la sogs pa'i gsang sngags mang du gsan |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3761,
+      "label": "'khon phu ba chos kyi rgyal po (3836) student of zhang rgya ma ba (6199)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3836/",
+        "label": "'khon phu ba chos kyi rgyal po (3836)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6199/",
+        "label": "zhang rgya ma ba (6199)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 283 (bcu drug lon pa'i tshe 'u yug gi zhang rgya ma ba | gangs pa she'u | rong zom chos kyi bzang po la sogs pa yab kyi bzhin du gsan pa rgya cher mdzad |). Was also a teacher of Zla ba'i 'od zer (ID.3835)'s father 'Khon phu ba.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "'u yug gi zhang rgya ma ba",
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "zhang rgya ma ba",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6223/",
+  "relations": [
+    {
+      "id": 2668,
+      "label": "dbu ma bden gnyis kyi bshad pa (6223) commentary on satyadvayavibha\u1e45gav\u1e5btti (3729)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6223/",
+        "label": "dbu ma bden gnyis kyi bshad pa (6223)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3729/",
+        "label": "satyadvayavibha\u1e45gav\u1e5btti (3729)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2669,
+      "label": "bsod nams rgya mtsho (3) (6222) author of dbu ma bden gnyis kyi bshad pa (6223)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6222/",
+        "label": "bsod nams rgya mtsho (3) (6222)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6223/",
+        "label": "dbu ma bden gnyis kyi bshad pa (6223)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1800-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1800-12-31",
+  "comments": "Listed by A khu ching shes rab rgya mtsho in his Tho yig ([5RXEUKD9], No. 10704).",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "before 1800",
+  "name": "dbu ma bden gnyis kyi bshad pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}

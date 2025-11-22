@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6338/",
+  "relations": [
+    {
+      "id": 5847,
+      "label": "zhu ston hral mo (6338) active at sa skya dong pa (5733)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6338/",
+        "label": "zhu ston hral mo (6338)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
+        "label": "sa skya dong pa (5733)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 829. Attended the religious assembly for the passing of bSod nams rtse mo (ID:3848).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2913,
+      "label": "zhu ston hral mo (6338) active at gsang phu gling stod (6172)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6338/",
+        "label": "zhu ston hral mo (6338)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
+        "label": "gsang phu gling stod (6172)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1194-12-31",
+      "end_date_from": "1194-01-01",
+      "end_date_sort": "1194-07-02",
+      "start_date_to": "1189-12-31",
+      "start_date_from": "1189-01-01",
+      "start_date_sort": "1189-07-02",
+      "zotero_refs": "[7FZ3B926]: 114. Abbot of gSang phu ne'u thog's monastery (upper college) for five years until ca. 1194. \r\n[MPRU5QUC]: 211. Abbot of gSang phu ne'u thog monastery (first abbot of upper college) for five years.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1189",
+      "end": "1194",
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1250-12-31",
+  "end_date_from": "1200-01-01",
+  "end_date_sort": "1225-07-01",
+  "start_date_to": null,
+  "start_date_from": "1100-01-01",
+  "start_date_sort": "1100-01-01",
+  "comments": "Fl. late 12th c. Probably identical with (ID:6406).",
+  "alternative_names": "gzhu ston hral mo\r\ngzhung don hral mo",
+  "external_links": "",
+  "review": false,
+  "start": "after 1100",
+  "end": "after 1200 before 1250",
+  "name": "zhu ston hral mo",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

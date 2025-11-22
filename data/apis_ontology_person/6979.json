@@ -1,0 +1,110 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6979/",
+  "relations": [
+    {
+      "id": 738,
+      "label": "Anonymous (10) (6979) author of chos mngon gsal ba'i rgyan (4763)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6979/",
+        "label": "Anonymous (10) (6979)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4763/",
+        "label": "chos mngon gsal ba'i rgyan (4763)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4576,
+      "label": "Anonymous (10) (6979) quotes with name mchims brtson 'grus seng ge (4261)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6979/",
+        "label": "Anonymous (10) (6979)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4261/",
+        "label": "mchims brtson 'grus seng ge (4261)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex44022024-11-2014-54-51",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 4575,
+      "label": "'jam dpal grags pa (6978) requests Anonymous (10) (6979)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6978/",
+        "label": "'jam dpal grags pa (6978)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6979/",
+        "label": "Anonymous (10) (6979)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex44022024-11-2014-51-17",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": "1150-01-01",
+  "start_date_sort": "1150-01-01",
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "after 1150",
+  "end": null,
+  "name": "Anonymous (10)",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

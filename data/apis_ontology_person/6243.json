@@ -1,0 +1,107 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6243/",
+  "relations": [
+    {
+      "id": 3937,
+      "label": "gnyal pa dad pa bzang po (6243) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6243/",
+        "label": "gnyal pa dad pa bzang po (6243)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[KHFQ2XU4]: 744 (phya pa'i gdan sar rtsags dbang phyug seng ges lo lnga | de gnyis kyi slob ma gnyal pa dad pa bzang pos lo bdun |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1130",
+      "end": "after 1130",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2782,
+      "label": "gnyal pa dad pa bzang po (6243) active at gsang phu ne'u thog gi gtsug lag khang (6173)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6243/",
+        "label": "gnyal pa dad pa bzang po (6243)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6173/",
+        "label": "gsang phu ne'u thog gi gtsug lag khang (6173)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[7FZ3B926]: 111. Abbot of gSang phu ne'u thog monastery for seven years until 1181.\r\n[MPRU5QUC]: 209. Abbot of gSang phu ne'u thog monastery (Regarded as the first abbot of the lower college).",
+      "tei_refs": "",
+      "support_notes": "Since the upper college was only established during the tenure of 'Dzam tsa ne (ID:6244), the successor of Dad pa bzang po, it does not seem reasonable to regard him as the first abbot of the lower college.",
+      "confidence": "Positive",
+      "start": "before 1174",
+      "end": "before 1174",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3936,
+      "label": "gnyal pa dad pa bzang po (6243) student of rtsegs dbang phyug seng ge (4289)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6243/",
+        "label": "gnyal pa dad pa bzang po (6243)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
+        "label": "rtsegs dbang phyug seng ge (4289)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[KHFQ2XU4]: 744 (phya pa'i gdan sar rtsags dbang phyug seng ges lo lnga | de gnyis kyi slob ma gnyal pa dad pa bzang pos lo bdun |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "1181-01-01",
+  "end_date_sort": "1181-01-01",
+  "start_date_to": null,
+  "start_date_from": "1081-01-01",
+  "start_date_sort": "1081-01-01",
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "after 1081",
+  "end": "after 1181",
+  "name": "gnyal pa dad pa bzang po",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

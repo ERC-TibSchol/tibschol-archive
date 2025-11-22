@@ -1,0 +1,104 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4567/",
+  "relations": [
+    {
+      "id": 619,
+      "label": "byang chub sems pa'i sa'i dka' 'grel (4567) commentary on yog\u0101c\u0101rabh\u016bmau bodhisattvabh\u016bmi (3752)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4567/",
+        "label": "byang chub sems pa'i sa'i dka' 'grel (4567)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3752/",
+        "label": "yog\u0101c\u0101rabh\u016bmau bodhisattvabh\u016bmi (3752)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1324,
+      "label": "byang chub sems pa'i sa'i dka' 'grel (4567) has as an instance byang chub sems pa'i sa'i dka' 'grel (4566)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4567/",
+        "label": "byang chub sems pa'i sa'i dka' 'grel (4567)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4566/",
+        "label": "byang chub sems pa'i sa'i dka' 'grel (4566)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 618,
+      "label": "gtsang nag pa brtson 'grus seng ge (3839) author of byang chub sems pa'i sa'i dka' 'grel (4567)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4567/",
+        "label": "byang chub sems pa'i sa'i dka' 'grel (4567)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:4566)  in [8H6M69W4], No. 19039: gtsang nag pa.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1195-12-31",
+  "start_date_from": "1100-01-01",
+  "start_date_sort": "1148-01-01",
+  "comments": "",
+  "alternative_names": "gtsang nag pa btson 'grus seng ges mdzad pa'i byang chub sems pa'i sa'i dka' 'grel",
+  "external_links": "",
+  "review": true,
+  "start": "after 1100 before 1195",
+  "name": "byang chub sems pa'i sa'i dka' 'grel",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/52/"
+  ]
+}

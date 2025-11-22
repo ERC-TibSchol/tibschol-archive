@@ -1,0 +1,74 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7387/",
+  "relations": [
+    {
+      "id": 5818,
+      "label": "bstan kha bo cha'i zin tho (7387) commentary on ratnagotravibh\u0101ga (3749)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7387/",
+        "label": "bstan kha bo cha'i zin tho (7387)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
+        "label": "ratnagotravibh\u0101ga (3749)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5817,
+      "label": "btsan kha bo che (4141) author of bstan kha bo cha'i zin tho (7387)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4141/",
+        "label": "btsan kha bo che (4141)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7387/",
+        "label": "bstan kha bo cha'i zin tho (7387)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1120-12-31",
+  "start_date_from": "1031-01-01",
+  "start_date_sort": "1075-12-31",
+  "comments": "See [BAQ9MH4T]: 406, n. 6.",
+  "alternative_names": "padma lcags kyu",
+  "external_links": "",
+  "review": false,
+  "start": "after 1031 before 1120",
+  "name": "bstan kha bo cha'i zin tho",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": []
+}

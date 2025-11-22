@@ -1,0 +1,104 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4580/",
+  "relations": [
+    {
+      "id": 1330,
+      "label": "mngon par rtogs pa'i rgyan gyi rnam par 'byed pa'i 'grel ba (4580) has as an instance mngon par rtogs pa'i rgyan gyi rnam par 'byed pa'i 'grel ba (4579)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4580/",
+        "label": "mngon par rtogs pa'i rgyan gyi rnam par 'byed pa'i 'grel ba (4580)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4579/",
+        "label": "mngon par rtogs pa'i rgyan gyi rnam par 'byed pa'i 'grel ba (4579)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 628,
+      "label": "mngon par rtogs pa'i rgyan gyi rnam par 'byed pa'i 'grel ba (4580) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4580/",
+        "label": "mngon par rtogs pa'i rgyan gyi rnam par 'byed pa'i 'grel ba (4580)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
+        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 627,
+      "label": "'jam dbyangs 'od zer mgon po (3893) author of mngon par rtogs pa'i rgyan gyi rnam par 'byed pa'i 'grel ba (4580)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4580/",
+        "label": "mngon par rtogs pa'i rgyan gyi rnam par 'byed pa'i 'grel ba (4580)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:4579) in [8H6M69W4], No. 15479: 'od zer mgon po.",
+      "tei_refs": "ex15012023-09-15-113344",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1350-12-31",
+  "start_date_from": "1210-01-01",
+  "start_date_sort": "1280-07-01",
+  "comments": "Possibly the work mentioned by A khu ching, [5RXEUKD9]: 531, No. 11557: 'od zer mgon po'i phar phyin.",
+  "alternative_names": "sgros rnying pa 'od zer mgon pos mdzad pa'i mngon par rtogs pa'i rgyan gyi rnam par 'byed pa'i 'grel ba\r\n'od zer mgon po'i phar phyin\r\nmngon rtogs rgyan rnam par 'byed pa\u2019i 'grel pa",
+  "external_links": "",
+  "review": true,
+  "start": "after 1210 before 1350",
+  "name": "mngon par rtogs pa'i rgyan gyi rnam par 'byed pa'i 'grel ba",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}

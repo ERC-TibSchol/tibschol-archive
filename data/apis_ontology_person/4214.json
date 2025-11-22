@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4214/",
+  "relations": [
+    {
+      "id": 3170,
+      "label": "jo nang mkhan chen phyogs las rnam rgyal (4214) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4214/",
+        "label": "jo nang mkhan chen phyogs las rnam rgyal (4214)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1386-12-31",
+      "end_date_from": "1316-01-01",
+      "end_date_sort": "1351-07-02",
+      "start_date_to": null,
+      "start_date_from": "1316-01-01",
+      "start_date_sort": "1316-01-01",
+      "zotero_refs": "[3WFNMIGQ]: 141.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1316",
+      "end": "after 1316 before 1386",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 416,
+      "label": "skyi ston 'jam pa'i rgyal mtshan (4057) lineage predecessor of jo nang mkhan chen phyogs las rnam rgyal (4214)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4057/",
+        "label": "skyi ston 'jam pa'i rgyal mtshan (4057)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4214/",
+        "label": "jo nang mkhan chen phyogs las rnam rgyal (4214)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1386-12-31",
+  "end_date_from": "1386-01-01",
+  "end_date_sort": "1386-07-02",
+  "start_date_to": "1306-12-31",
+  "start_date_from": "1306-01-01",
+  "start_date_sort": "1306-07-02",
+  "comments": "",
+  "alternative_names": "jo nang phyogs las rnam rgyal",
+  "external_links": "https://purl.bdrc.io/resource/P152",
+  "review": false,
+  "start": "1306",
+  "end": "1386",
+  "name": "jo nang mkhan chen phyogs las rnam rgyal",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

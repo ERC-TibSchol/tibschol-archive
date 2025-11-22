@@ -1,0 +1,143 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6406/",
+  "relations": [
+    {
+      "id": 3045,
+      "label": "zhu ston rdo rje skyabs (6406) active at 'phrang (6407)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6406/",
+        "label": "zhu ston rdo rje skyabs (6406)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6407/",
+        "label": "'phrang (6407)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": "1201-12-31",
+      "start_date_from": "1201-01-01",
+      "start_date_sort": "1201-07-02",
+      "zotero_refs": "[RA3FK3BK]: 161. Taught Sa skya pa\u1e47\u1e0dita there when the latter was 19.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1201",
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        56,
+        13
+      ]
+    },
+    {
+      "id": 3042,
+      "label": "zhu ston rdo rje skyabs (6406) student of rje btsun grags pa rgyal mtshan (6128)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6406/",
+        "label": "zhu ston rdo rje skyabs (6406)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6128/",
+        "label": "rje btsun grags pa rgyal mtshan (6128)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5FZQCNC]: 25-26 and 106.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3043,
+      "label": "zhu ston rdo rje skyabs (6406) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6406/",
+        "label": "zhu ston rdo rje skyabs (6406)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5FZQCNC]: 25-26 and 106.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3044,
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) student of zhu ston rdo rje skyabs (6406)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6406/",
+        "label": "zhu ston rdo rje skyabs (6406)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RA3FK3BK]: 161. Studies in 'Phrang. Subject: Maitreya texts and some epistemology.\r\n[Z5FZQCNC]: 25-26 and 106. Studies in Nyang stod. Subject: Maitreya texts, four of N\u0101g\u0101rjuna\u2019s Rigs tshogs, Satyadvayavibha\u1e45ga and Madhamak\u0101la\u1e43k\u0101ra.\r\n[8S7FDMCJ]: 99 and 302, n. 286. Got acquainted with the \"Great Madhyamaka\" (dbu ma chen po) and gzhan stong theories.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1201",
+      "end": "1201",
+      "subject_of_teaching_vocab": [
+        13,
+        7
+      ]
+    }
+  ],
+  "end_date_to": "1230-12-31",
+  "end_date_from": "1200-01-01",
+  "end_date_sort": "1215-07-02",
+  "start_date_to": "1159-12-31",
+  "start_date_from": "1110-01-01",
+  "start_date_sort": "1134-12-31",
+  "comments": "Probably identical with Zhu ston hral mo (ID: 6338).",
+  "alternative_names": "dge bshes zhu rul",
+  "external_links": "",
+  "review": false,
+  "start": "after 1110 before 1159",
+  "end": "after 1200 before 1230",
+  "name": "zhu ston rdo rje skyabs",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

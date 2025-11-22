@@ -1,0 +1,132 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4480/",
+  "relations": [
+    {
+      "id": 1283,
+      "label": "dbu ma bden gnyis kyi don bsdus (4480) has as an instance dbu ma bden pa gnyis kyi don bsdus (4479)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4480/",
+        "label": "dbu ma bden gnyis kyi don bsdus (4480)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4479/",
+        "label": "dbu ma bden pa gnyis kyi don bsdus (4479)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 559,
+      "label": "dbu ma bden gnyis kyi don bsdus (4480) commentary on satyadvayavibha\u1e45gav\u1e5btti (3729)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4480/",
+        "label": "dbu ma bden gnyis kyi don bsdus (4480)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3729/",
+        "label": "satyadvayavibha\u1e45gav\u1e5btti (3729)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex603_11102023-05-062",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1968,
+      "label": "dbu ma bden gnyis kyi don bsdus (4480) has as an instance dbu ma bden pa gnyis rnam par 'byed pa (5877)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4480/",
+        "label": "dbu ma bden gnyis kyi don bsdus (4480)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5877/",
+        "label": "dbu ma bden pa gnyis rnam par 'byed pa (5877)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8H6M69W4]: No. 15710. Title: slob dpon ye shes snying pos mdzad pa'i dbu ma bden pa gnyis rnam par 'byed pa. Author: phya pa chos kyi seng ge.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 558,
+      "label": "phywa pa chos kyi seng ge (3831) author of dbu ma bden gnyis kyi don bsdus (4480)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4480/",
+        "label": "dbu ma bden gnyis kyi don bsdus (4480)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:5877) in [8H6M69W4], No. 15724: phya pa chos kyi seng ge.",
+      "tei_refs": "ex603_11332023-05-06",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1169-12-31",
+  "start_date_from": "1119-01-01",
+  "start_date_sort": "1144-07-01",
+  "comments": "Topical outline of the Satyadvayavibha\u1e45ga (ID:3729). \r\nIn instance (ID:4479), references to lemmata of the base text are found in interlinear notes. \r\nThis topical outline proposes a hierarchical structure of the base text similar to the one adopted by the author in his commentary on the same text (ID: 5874). See [J8TZBG2Q].",
+  "alternative_names": "dbu ma bden gnyis kyi don bsdus pa (colophon)\r\ndbu ma bden gnyis kyi bsdus don\r\ndbu ma bden gnyis kyi \u2019grel ba",
+  "external_links": "",
+  "review": true,
+  "start": "after 1119 before 1169",
+  "name": "dbu ma bden gnyis kyi don bsdus",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}

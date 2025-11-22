@@ -1,0 +1,48 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7100/",
+  "relations": [
+    {
+      "id": 4913,
+      "label": "rgyud smad shes rab seng ge (4123) author of rnam 'grel gyi TIkka (7100)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4123/",
+        "label": "rgyud smad shes rab seng ge (4123)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7100/",
+        "label": "rnam 'grel gyi TIkka (7100)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BKUHJCNA]: 757. Dge 'dun grub (ID: 7060) was Shes rab seng ge's copyist when the latter was composing his rNam 'grel gyi TIkka and Dge 'dun grub composed the beginning and end verses. So, those at gSang phu would say: \"If a work is done by the copyist Dge 'dun grub, the composition of that TIkka will be pleasing to all!\" (yig mkhan dge 'dun grub kyis byas na TIkka rtsom pa sus kyang 'ong).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1445-12-31",
+  "start_date_from": "1410-01-01",
+  "start_date_sort": "1428-01-01",
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "after 1410 before 1445",
+  "name": "rnam 'grel gyi TIkka",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}
