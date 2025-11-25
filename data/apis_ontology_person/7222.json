@@ -3,10 +3,10 @@
   "relations": [
     {
       "id": 5420,
-      "label": "mal lo tsa ba (7222) active at gung thang gnas gsar (7223)",
+      "label": "mal gyo lo tsa ba blo gros grags pa (7222) active at gung thang gnas gsar (7223)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7222/",
-        "label": "mal lo tsa ba (7222)",
+        "label": "mal gyo lo tsa ba blo gros grags pa (7222)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -36,7 +36,7 @@
     },
     {
       "id": 5417,
-      "label": "sa chen kun dga' snying po (4205) student of mal lo tsa ba (7222)",
+      "label": "sa chen kun dga' snying po (4205) student of mal gyo lo tsa ba blo gros grags pa (7222)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4205/",
         "label": "sa chen kun dga' snying po (4205)",
@@ -45,7 +45,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7222/",
-        "label": "mal lo tsa ba (7222)",
+        "label": "mal gyo lo tsa ba blo gros grags pa (7222)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -55,7 +55,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[I58Z22ET]: 309. In Gung thang gnas gsar (ID:7223).",
+      "zotero_refs": "[I58Z22ET]: 309. In Gung thang gnas gsar (ID:7223).\r\n[ABYM2GP5]: 21. Learned the corpus of the rigs tshogs (ID:5632) of N\u0101g\u0101rjuna (ID:3720), the hymnic coprus (bstod pa'i tshogs) and the S\u016btrasamuccaya (ID:3738).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -75,12 +75,12 @@
   "start_date_from": "0950-01-01",
   "start_date_sort": "0950-01-01",
   "comments": "",
-  "alternative_names": "mal gyo lo tsa ba blo gros grags pa\r\nbla ma mal\r\nmal jo lo tsa",
+  "alternative_names": "mal lo tsa ba\r\nbla ma mal\r\nmal jo lo tsa",
   "external_links": "https://purl.bdrc.io/resource/P3088",
   "review": false,
   "start": "after 950",
   "end": "before 1200",
-  "name": "mal lo tsa ba",
+  "name": "mal gyo lo tsa ba blo gros grags pa",
   "gender": "male",
   "nationality": "Tibetan"
 }

@@ -31,6 +31,37 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 6094,
+      "label": "rma bya byang chub brtson 'grus (3842) student of rma bya byang chub ye shes (6204)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3842/",
+        "label": "rma bya byang chub brtson 'grus (3842)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6204/",
+        "label": "rma bya byang chub ye shes (6204)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 24, n. 22, according to mKhas grub rje's gsan yig. Subject: the Rigs tshogs (ID:5632).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
       "id": 131,
       "label": "rma bya byang chub brtson 'grus (3842) student of pa tshab nyi ma grags (3868)",
       "subj": {
@@ -51,13 +82,106 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 544, n. 57, based on [87YHXZG3]: 116.\r\n[EG6VZ8JK]: 22, translated from [8GL7ZT7Y].\r\n[XJHQU4GM]: 136. rMa bya is one of the \"four sons\" of Pa tshab.",
+      "zotero_refs": "[647FFPZR]: 544, n. 57, based on [87YHXZG3]: 116.\r\n[EG6VZ8JK]: 22, translated from [8GL7ZT7Y].\r\n[XJHQU4GM]: 136. rMa bya is one of the \"four sons\" of Pa tshab.\r\n[CMTPPRKW]: 7, n. 3. Listed as a son of Pa tshab instead of rMa bya Byang chub ye shes (ID:6204) by \u015a\u0101kya mchog ldan.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6095,
+      "label": "rma bya byang chub brtson 'grus (3842) student of gtsang pa sar spos (3871)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3842/",
+        "label": "rma bya byang chub brtson 'grus (3842)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3871/",
+        "label": "gtsang pa sar spos (3871)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 24, n. 22, according to mKhas grub rje's gsan yig. Subject: the Rigs tshogs (ID:5632).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 6096,
+      "label": "rma bya byang chub brtson 'grus (3842) student of zhang thang sag pa ye shes 'byung gnas (3870)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3842/",
+        "label": "rma bya byang chub brtson 'grus (3842)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3870/",
+        "label": "zhang thang sag pa ye shes 'byung gnas (3870)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 24, n. 22, according to mKhas grub rje's gsan yig. Subject: the Rigs tshogs (ID:5632).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 6097,
+      "label": "rma bya byang chub brtson 'grus (3842) student of khu mdo sde 'bar (3873)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3842/",
+        "label": "rma bya byang chub brtson 'grus (3842)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3873/",
+        "label": "khu mdo sde 'bar (3873)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 24, n. 22, according to mKhas grub rje's gsan yig. Subject: the Rigs tshogs (ID:5632).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 620,
@@ -514,6 +638,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6098,
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) student of rma bya byang chub brtson 'grus (3842)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3842/",
+        "label": "rma bya byang chub brtson 'grus (3842)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 24, n. 22, according to Thu'u bkwan, but not recorded in early sources. Subject: epistemology.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Negative",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
     }
   ],
   "end_date_to": "1185-12-31",

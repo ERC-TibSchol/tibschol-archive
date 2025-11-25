@@ -50,9 +50,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "[CMTPPRKW]\r\n[Q5TFQTM8]: vii (translation of the colophon, which is cited in fn. 8). Verse 3 reads: shag kya'i ban de 'byung gnas ye shes rigs ldan gyis || rnam 'grel byed pa'i rjes zhugs ti ka rgya chen bgyis ||",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -128,18 +128,18 @@
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
-      "end_date_to": null,
+      "end_date_to": "1115-12-31",
       "end_date_from": null,
-      "end_date_sort": null,
+      "end_date_sort": "1115-12-31",
       "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: 18\u201319.\r\n[EG6VZ8JK]: 23, translated from [8GL7ZT7Y].\r\n[647FFPZR]: 544, n. 57, based on [87YHXZG3]: 116.\r\n[XJHQU4GM]: 136. Zhang thang sag pa is one of the \"four sons\" of Pa tshab.",
+      "start_date_from": "1101-01-01",
+      "start_date_sort": "1101-01-01",
+      "zotero_refs": "[NTGHCZA8]: 18\u201319.\r\n[EG6VZ8JK]: 23, translated from [8GL7ZT7Y].\r\n[647FFPZR]: 544, n. 57, based on [87YHXZG3]: 116.\r\n[XJHQU4GM]: 136. Zhang thang sag pa is one of the \"four sons\" of Pa tshab.\r\n[CMTPPRKW]: 127b (based on Deb ther sngon po).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
+      "start": "after 1101",
+      "end": "before 1115",
       "subject_of_teaching_vocab": []
     },
     {
@@ -200,6 +200,37 @@
       "subject_of_teaching_vocab": [
         13
       ]
+    },
+    {
+      "id": 6096,
+      "label": "rma bya byang chub brtson 'grus (3842) student of zhang thang sag pa ye shes 'byung gnas (3870)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3842/",
+        "label": "rma bya byang chub brtson 'grus (3842)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3870/",
+        "label": "zhang thang sag pa ye shes 'byung gnas (3870)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 24, n. 22, according to mKhas grub rje's gsan yig. Subject: the Rigs tshogs (ID:5632).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     }
   ],
   "end_date_to": "1180-12-31",
@@ -208,7 +239,7 @@
   "start_date_to": "1100-12-31",
   "start_date_from": "1000-01-01",
   "start_date_sort": "1050-07-02",
-  "comments": "",
+  "comments": "Lived between the second half of the eleventh century and the first half of the twelfth century ([CMTPPRKW]: 6)\r\nOne of the four spiritual sons of Pa tshab (ID:3868), along with gTsang pa Sar spos (ID:3871), rMa bya Byang chub ye shes (ID:6204), and Ngar/Dar Yon tan grags (ID:6211).",
   "alternative_names": "zhang 'byung gnas ye shes",
   "external_links": "https://purl.bdrc.io/resource/P4455",
   "review": false,

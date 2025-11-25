@@ -357,18 +357,18 @@
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
-      "end_date_to": null,
+      "end_date_to": "1141-12-31",
       "end_date_from": null,
-      "end_date_sort": null,
+      "end_date_sort": "1141-12-31",
       "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
+      "start_date_from": "1140-01-01",
+      "start_date_sort": "1140-01-01",
       "zotero_refs": "[82NZNSIS]: 294 (de'i slob ma rin po che glang lung pa ni ... lo bcu dgu la pa tshab lo tsA ba la rab tu byung ste). Novice ordination at 19.\r\n[R894SIKE]: 361. Pa tshab was \"mkhan po\" in Glang lung pa's novice ordination after his 18th year.\r\n[XJHQU4GM]: 135.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "1141",
-      "end": "1141"
+      "start": "after 1140",
+      "end": "before 1141"
     },
     {
       "id": 4030,
@@ -453,35 +453,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 131,
-      "label": "rma bya byang chub brtson 'grus (3842) student of pa tshab nyi ma grags (3868)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3842/",
-        "label": "rma bya byang chub brtson 'grus (3842)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
-        "label": "pa tshab nyi ma grags (3868)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 544, n. 57, based on [87YHXZG3]: 116.\r\n[EG6VZ8JK]: 22, translated from [8GL7ZT7Y].\r\n[XJHQU4GM]: 136. rMa bya is one of the \"four sons\" of Pa tshab.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     },
     {
       "id": 128,
@@ -749,35 +720,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 127,
-      "label": "zhang thang sag pa ye shes 'byung gnas (3870) student of pa tshab nyi ma grags (3868)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3870/",
-        "label": "zhang thang sag pa ye shes 'byung gnas (3870)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
-        "label": "pa tshab nyi ma grags (3868)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: 18\u201319.\r\n[EG6VZ8JK]: 23, translated from [8GL7ZT7Y].\r\n[647FFPZR]: 544, n. 57, based on [87YHXZG3]: 116.\r\n[XJHQU4GM]: 136. Zhang thang sag pa is one of the \"four sons\" of Pa tshab.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3212,
       "label": "dus gsum mkhyen pa (3855) student of pa tshab nyi ma grags (3868)",
       "subj": {
@@ -807,6 +749,93 @@
       "subject_of_teaching_vocab": [
         13
       ]
+    },
+    {
+      "id": 127,
+      "label": "zhang thang sag pa ye shes 'byung gnas (3870) student of pa tshab nyi ma grags (3868)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3870/",
+        "label": "zhang thang sag pa ye shes 'byung gnas (3870)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
+        "label": "pa tshab nyi ma grags (3868)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1115-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1115-12-31",
+      "start_date_to": null,
+      "start_date_from": "1101-01-01",
+      "start_date_sort": "1101-01-01",
+      "zotero_refs": "[NTGHCZA8]: 18\u201319.\r\n[EG6VZ8JK]: 23, translated from [8GL7ZT7Y].\r\n[647FFPZR]: 544, n. 57, based on [87YHXZG3]: 116.\r\n[XJHQU4GM]: 136. Zhang thang sag pa is one of the \"four sons\" of Pa tshab.\r\n[CMTPPRKW]: 127b (based on Deb ther sngon po).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1101",
+      "end": "before 1115",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 131,
+      "label": "rma bya byang chub brtson 'grus (3842) student of pa tshab nyi ma grags (3868)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3842/",
+        "label": "rma bya byang chub brtson 'grus (3842)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
+        "label": "pa tshab nyi ma grags (3868)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 544, n. 57, based on [87YHXZG3]: 116.\r\n[EG6VZ8JK]: 22, translated from [8GL7ZT7Y].\r\n[XJHQU4GM]: 136. rMa bya is one of the \"four sons\" of Pa tshab.\r\n[CMTPPRKW]: 7, n. 3. Listed as a son of Pa tshab instead of rMa bya Byang chub ye shes (ID:6204) by \u015a\u0101kya mchog ldan.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6082,
+      "label": "rma bya byang chub ye shes (6204) student of pa tshab nyi ma grags (3868)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6204/",
+        "label": "rma bya byang chub ye shes (6204)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
+        "label": "pa tshab nyi ma grags (3868)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CMTPPRKW]: 6, citing [R894SIKE].",
+      "tei_refs": "",
+      "support_notes": "\u015a\u0101kya mchog ldan lists instead rMa bya Byang chub brtson 'grus (ID:3842).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 5115,

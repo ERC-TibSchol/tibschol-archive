@@ -31,6 +31,34 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 5428,
+      "label": "smon lam dpal ba (7084) author of tshad ma rnam 'grel smon Tik+ka (7227)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7084/",
+        "label": "smon lam dpal ba (7084)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7227/",
+        "label": "tshad ma rnam 'grel smon Tik+ka (7227)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[E9XCQDGQ]: 130-31.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4865,
       "label": "smon lam dpal ba (7084) active at 'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
       "subj": {
@@ -58,34 +86,6 @@
       "start": "before 1480",
       "end": "before 1480",
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 5428,
-      "label": "smon lam dpal ba (7084) author of tshad ma rnam 'grel smon Tik+ka (7227)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7084/",
-        "label": "smon lam dpal ba (7084)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7227/",
-        "label": "tshad ma rnam 'grel smon Tik+ka (7227)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[E9XCQDGQ]: 130-31.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     }
   ],
   "end_date_to": "1491-12-31",

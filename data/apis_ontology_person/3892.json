@@ -62,6 +62,37 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 6098,
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) student of rma bya byang chub brtson 'grus (3842)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3842/",
+        "label": "rma bya byang chub brtson 'grus (3842)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 24, n. 22, according to Thu'u bkwan, but not recorded in early sources. Subject: epistemology.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Negative",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
       "id": 3328,
       "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) student of bran ston mtha' bral (6508)",
       "subj": {
@@ -180,71 +211,6 @@
       ]
     },
     {
-      "id": 3679,
-      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) student of rtsegs dbang phyug seng ge (4289)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
-        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
-        "label": "rtsegs dbang phyug seng ge (4289)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5632TFMN]: 314, based on [VKBZTBWN]. Studies in Nyang stod (ID:5541). Subject: Epistemology, Madhyamaka.\r\n[8GL7ZT7Y]: 12b6-7 (slob dpon de yis [=Phya pa] byams chos dang | dbu ma'i bka' babs brtsegs dbang phyug seng ge la byung | de la sa skya pa\u1e47\u1e0di tas gsan |).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9,
-        56,
-        13
-      ]
-    },
-    {
-      "id": 2343,
-      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) student of mtshur ston gzhon nu seng ge (4315)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
-        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4315/",
-        "label": "mtshur ston gzhon nu seng ge (4315)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": "1203-12-31",
-      "end_date_from": "1203-01-01",
-      "end_date_sort": "1203-07-02",
-      "start_date_to": "1201-12-31",
-      "start_date_from": "1201-01-01",
-      "start_date_sort": "1201-07-02",
-      "zotero_refs": "[RA3FK3BK]: 163. Studies in rKyang thur (ID:6049). Subject: four times the Pram\u0101\u1e47avini\u015bcaya and the last section twice, N\u0101g\u0101rjuna's Dbu ma rigs tshogs.\r\n[Z5FZQCNC]: 26 and 105-107.\r\n[5632TFMN]: 314, based on [VKBZTBWN]. In Nyang stod. Subject: Epistemology and Madhyamaka; from about 1201 to 1203.\r\n[8S7FDMCJ]: 99.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1201",
-      "end": "1203",
-      "subject_of_teaching_vocab": [
-        9,
-        13
-      ]
-    },
-    {
       "id": 3044,
       "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) student of zhu ston rdo rje skyabs (6406)",
       "subj": {
@@ -262,15 +228,15 @@
       "end_date_to": null,
       "end_date_from": null,
       "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[RA3FK3BK]: 161. Studies in 'Phrang. Subject: Maitreya texts and some epistemology.\r\n[Z5FZQCNC]: 25-26 and 106. Studies in Nyang stod. Subject: Maitreya texts, four of N\u0101g\u0101rjuna\u2019s Rigs tshogs, Satyadvayavibha\u1e45ga and Madhamak\u0101la\u1e43k\u0101ra.\r\n[8S7FDMCJ]: 99 and 302, n. 286. Got acquainted with the \"Great Madhyamaka\" (dbu ma chen po) and gzhan stong theories.",
+      "start_date_to": "1201-12-31",
+      "start_date_from": "1201-01-01",
+      "start_date_sort": "1201-07-02",
+      "zotero_refs": "[RA3FK3BK]: 161. Studies in 'Phrang. Subject: Maitreya texts and some epistemology.\r\n[Z5FZQCNC]: 25-26 and 106, and [ABYM2GP5]: 24. Studies in Nyang stod. Subject: Maitreya texts (ID:6167), four of N\u0101g\u0101rjuna\u2019s Rigs tshogs (ID:5632), Satyadvayavibha\u1e45ga (ID:3729) and Madhyamak\u0101la\u1e43k\u0101ra (ID:3731).\r\n[8S7FDMCJ]: 99 and 302, n. 286. Got acquainted with the \"Great Madhyamaka\" (dbu ma chen po) and gzhan stong theories.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": "1201",
-      "end": "1201",
+      "end": null,
       "subject_of_teaching_vocab": [
         13,
         7
@@ -306,6 +272,71 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 2343,
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) student of mtshur ston gzhon nu seng ge (4315)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4315/",
+        "label": "mtshur ston gzhon nu seng ge (4315)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1203-12-31",
+      "end_date_from": "1203-01-01",
+      "end_date_sort": "1203-07-02",
+      "start_date_to": "1201-12-31",
+      "start_date_from": "1201-01-01",
+      "start_date_sort": "1201-07-02",
+      "zotero_refs": "[8S7FDMCJ]: 99.\r\n[ABYM2GP5]: 24. Studies in Nyang stod rKyang 'dur (ID:6049): the Pram\u0101\u1e47avini\u015bcaya (ID:3774), Prasannapad\u0101 (ID:3724), Tarkamudgarak\u0101rik\u0101 (ID:6569).\r\n[RA3FK3BK]: 163. Studies in rKyang thur (ID:6049). Subject: four times the Pram\u0101\u1e47avini\u015bcaya (ID:3774) and the last section twice, N\u0101g\u0101rjuna's dBu ma rigs tshogs (ID:5632).\r\n[Z5FZQCNC]: 26 and 105-107.\r\n[5632TFMN]: 314, based on [VKBZTBWN]. In Nyang stod. Subject: Epistemology and Madhyamaka; from about 1201 to 1203.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1201",
+      "end": "1203",
+      "subject_of_teaching_vocab": [
+        9,
+        13
+      ]
+    },
+    {
+      "id": 3679,
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) student of rtsegs dbang phyug seng ge (4289)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
+        "label": "rtsegs dbang phyug seng ge (4289)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8GL7ZT7Y]: 12b6-7 (slob dpon de yis [=Phya pa] byams chos dang | dbu ma'i bka' babs brtsegs dbang phyug seng ge la byung | de la sa skya pa\u1e47\u1e0di tas gsan |).\r\n[ABYM2GP5]: 24, based on Lho pa kun mkhyen (who refers to this teacher as \"phywa dbang phyug seng ge\") and \u015a\u0101kya mchog ldan. Subject: dbu tshad, byams chos (ID:6167). According to \u015a\u0101kya mchog ldan and Thu'u bkwan, his main teacher of Madhyamaka. According to Yar klungs pa Grags pa rgyal mtshan (ID:6788), study of the rigs tshogs (ID:5632).\r\n[5632TFMN]: 314, based on [VKBZTBWN]. Studies in Nyang stod (ID:5541). Subject: Epistemology, Madhyamaka.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        56,
+        13
+      ]
+    },
+    {
       "id": 3652,
       "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) lineage predecessor of 'u yug pa bsod nams seng ge (3846)",
       "subj": {
@@ -326,14 +357,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 144. \"'U yug pa\" follows \"Sa skya Pa\u1e47\u1e0dita\" in the lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772).",
+      "zotero_refs": "[ABYM2GP5]: 25. According to \u015a\u0101kya mchog ldan, rNgog Lo (ID:3786)'s sv\u0101tantrika Madhyamaka lineage went from Phya pa (ID:3831) to brTsegs (ID:4289), then to Sa skya Pa\u1e47\u1e0dita (ID:3892), 'U yug pa (ID:3846), Zhang mDo sde dpal (ID:6624), Bla ma dam pa (ID:3916), and g.Yag ston (ID:6153). \r\n[FEHIEFEB]: 144. \"'U yug pa\" follows \"Sa skya Pa\u1e47\u1e0dita\" in the lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
-        9
+        9,
+        13
       ]
     },
     {
@@ -408,18 +440,18 @@
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[RA3FK3BK]: 163. Studies with mTshur ston gZhon nu seng ge (ID:4315).",
+      "end_date_to": "1104-12-31",
+      "end_date_from": "1104-01-01",
+      "end_date_sort": "1104-07-01",
+      "start_date_to": "1102-12-31",
+      "start_date_from": "1102-01-01",
+      "start_date_sort": "1102-07-02",
+      "zotero_refs": "[ABYM2GP5]: 24. Studies in Nyang stod rKyang 'dur (ID:6049) with mTshur ston gZhon nu seng ge (ID:4315). Subject: the Pram\u0101\u1e47avini\u015bcaya (ID:3774), Prasannapad\u0101 (ID:3724), Tarkamudgarak\u0101rik\u0101 (ID:6569).\r\n[RA3FK3BK]: 163. Studies in rKyang thur (ID:6049) with mTshur ston gZhon nu seng ge (ID:4315). Subject: four times the Pram\u0101\u1e47avini\u015bcaya (ID:3774) and the last section twice, N\u0101g\u0101rjuna's dBu ma rigs tshogs (ID:5632).\r\n[RA3FK3BK]: 163. Studies with mTshur ston gZhon nu seng ge (ID:4315).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": "1102",
-      "end": "1102",
+      "end": "1104",
       "subject_of_teaching_vocab": []
     },
     {
@@ -1125,6 +1157,65 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 6099,
+      "label": "yar klungs grags pa rgyal mtshan (6788) biographer of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6788/",
+        "label": "yar klungs grags pa rgyal mtshan (6788)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "In work: Chos kyi rje sa skya pa\u1e47\u1e0dita kun dga' rgyal mtshan dpall bzang po'i rnam par thar pa 'bring po.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6105,
+      "label": "rtsegs dbang phyug seng ge (4289) lineage predecessor of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
+        "label": "rtsegs dbang phyug seng ge (4289)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 25. According to \u015a\u0101kya mchog ldan, rNgog Lo (ID:3786)'s sv\u0101tantrika Madhyamaka lineage went from Phya pa (ID:3831) to brTsegs (ID:4289), then to Sa skya Pa\u1e47\u1e0dita (ID:3892), 'U yug pa (ID:3846), Zhang mDo sde dpal (ID:6624), Bla ma dam pa (ID:3916), and g.Yag ston (ID:6153).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 5088,

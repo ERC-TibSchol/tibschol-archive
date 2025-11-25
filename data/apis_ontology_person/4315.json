@@ -109,7 +109,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[Z5FZQCNC]: 115, n. 10, based on Lho pa Kun mkhyen's narrative (dge ba'i bshes gnyen gtsang nag pa brtson 'grus seng ge zhes bya ba sras dang bcas pa'i sgros 'dzin pa rigs par smra ba chen po rkyang 'dur ba gzhon nu seng ge |).",
+      "zotero_refs": "[ABYM2GP5]: 24 and [Z5FZQCNC]: 115, n. 10, based on Lho pa Kun mkhyen's narrative (dge ba'i bshes gnyen gtsang nag pa brtson 'grus seng ge zhes bya ba sras dang bcas pa'i sgros 'dzin pa rigs par smra ba chen po rkyang 'dur ba gzhon nu seng ge |).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -145,6 +145,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6104,
+      "label": "mtshur ston gzhon nu seng ge (4315) lineage predecessor of rtsegs dbang phyug seng ge (4289)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4315/",
+        "label": "mtshur ston gzhon nu seng ge (4315)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
+        "label": "rtsegs dbang phyug seng ge (4289)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 25. According to Go rams pa; in particular, the lineage of the Pram\u0101\u1e47avini\u015bcaya (ID:3774).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 2722,
@@ -402,13 +433,16 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[RA3FK3BK]: 163.",
+      "zotero_refs": "[ABYM2GP5]: 24. Teaching in Nyang stod rKyang 'dur (ID:6049) to Sa skya Pa\u1e47\u1e0dita (ID:3892). Subject: the Pram\u0101\u1e47avini\u015bcaya (ID:3774), Prasannapad\u0101 (ID:3724), Tarkamudgarak\u0101rik\u0101 (ID:6569).\r\n[RA3FK3BK]: 163. Teaching in rKyang thur (ID:6049) to Sa skya Pa\u1e47\u1e0dita (ID:3892). Subject: four times the Pram\u0101\u1e47avini\u015bcaya (ID:3774) and the last section twice, N\u0101g\u0101rjuna's dBu ma rigs tshogs (ID:5632).\r\n[RA3FK3BK]: 163. Teaching to Sa skya Pa\u1e47\u1e0dita (ID:3892).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9,
+        13
+      ]
     },
     {
       "id": 2006,
@@ -634,7 +668,7 @@
       "start_date_to": "1201-12-31",
       "start_date_from": "1201-01-01",
       "start_date_sort": "1201-07-02",
-      "zotero_refs": "[RA3FK3BK]: 163. Studies in rKyang thur (ID:6049). Subject: four times the Pram\u0101\u1e47avini\u015bcaya and the last section twice, N\u0101g\u0101rjuna's Dbu ma rigs tshogs.\r\n[Z5FZQCNC]: 26 and 105-107.\r\n[5632TFMN]: 314, based on [VKBZTBWN]. In Nyang stod. Subject: Epistemology and Madhyamaka; from about 1201 to 1203.\r\n[8S7FDMCJ]: 99.",
+      "zotero_refs": "[8S7FDMCJ]: 99.\r\n[ABYM2GP5]: 24. Studies in Nyang stod rKyang 'dur (ID:6049): the Pram\u0101\u1e47avini\u015bcaya (ID:3774), Prasannapad\u0101 (ID:3724), Tarkamudgarak\u0101rik\u0101 (ID:6569).\r\n[RA3FK3BK]: 163. Studies in rKyang thur (ID:6049). Subject: four times the Pram\u0101\u1e47avini\u015bcaya (ID:3774) and the last section twice, N\u0101g\u0101rjuna's dBu ma rigs tshogs (ID:5632).\r\n[Z5FZQCNC]: 26 and 105-107.\r\n[5632TFMN]: 314, based on [VKBZTBWN]. In Nyang stod. Subject: Epistemology and Madhyamaka; from about 1201 to 1203.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

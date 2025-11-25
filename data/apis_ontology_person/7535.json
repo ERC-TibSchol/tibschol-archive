@@ -1,0 +1,51 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7535/",
+  "relations": [
+    {
+      "id": 6087,
+      "label": "sa chen kun dga' snying po (4205) student of ka'u pa (7535)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4205/",
+        "label": "sa chen kun dga' snying po (4205)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7535/",
+        "label": "ka'u pa (7535)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 21. Studied \u015aik\u1e63\u0101samuccaya (ID:3742), Bodhicary\u0101vat\u0101ra (ID:3727), and S\u016btrasamuccaya (ID:3738).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    }
+  ],
+  "end_date_to": "1200-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1200-12-31",
+  "start_date_to": "1100-12-31",
+  "start_date_from": "1000-01-01",
+  "start_date_sort": "1050-07-02",
+  "comments": "",
+  "alternative_names": "gnam kha'u pa dar ma seng ge",
+  "external_links": "https://purl.bdrc.io/resource/P2613",
+  "review": false,
+  "start": "after 1000 before 1100",
+  "end": "before 1200",
+  "name": "ka'u pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

@@ -1292,6 +1292,37 @@
       "end": null
     },
     {
+      "id": 6101,
+      "label": "phywa pa chos kyi seng ge (3831) lineage predecessor of rtsegs dbang phyug seng ge (4289)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
+        "label": "rtsegs dbang phyug seng ge (4289)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 25. According to \u015a\u0101kya mchog ldan, rNgog Lo (ID:3786)'s sv\u0101tantrika Madhyamaka lineage went from Phya pa (ID:3831) to brTsegs (ID:4289), then to Sa skya Pa\u1e47\u1e0dita (ID:3892), 'U yug pa (ID:3846), Zhang mDo sde dpal (ID:6624), Bla ma dam pa (ID:3916), and g.Yag ston (ID:6153).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
       "id": 573,
       "label": "phywa pa chos kyi seng ge (3831) author of theg chen mdo sde rgyan gyi lus rnam bzhag (4497)",
       "subj": {
@@ -1553,38 +1584,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 102,
-      "label": "rtsegs dbang phyug seng ge (4289) student of phywa pa chos kyi seng ge (3831)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
-        "label": "rtsegs dbang phyug seng ge (4289)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 405 (khong [=phywa pa] la de dus kyi sde snod 'dzin pa phal mo che slob mar 'dus pa las | gtsang nag pa brtson 'grus seng ge | dan bag pa smra ba'i seng ge | bru sha bsod nams seng ge | rma bya rtsod pa'i seng ge | rtsags dbang phyug seng ge | myang bran chos kyi seng ge | ldan ma dkon mchog seng ge | gnyal pa yon tan seng ge ste seng chen brgyad |).\r\n[VKBZTBWN], fol. 5a2-3. brTsegs dbang phyug seng ge is listed as the 1st of the \"seng chen brgyad.\"\r\n[8GL7ZT7Y]: 12b6-7 (slob dpon de yis byams chos dang | dbu ma\u2019i bka\u2019 babs brtsegs dbang phyug seng ge la byung |).\r\n[EG6VZ8JK]: 21.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        56,
-        13
-      ]
     },
     {
       "id": 111,
@@ -1883,6 +1882,35 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 6100,
+      "label": "lho pa kun mkhyen rin chen dpal (5463) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
+        "label": "lho pa kun mkhyen rin chen dpal (5463)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 24, based on \u015a\u0101kya mchog ldan's Rol mo.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3937,
       "label": "gnyal pa dad pa bzang po (6243) student of phywa pa chos kyi seng ge (3831)",
       "subj": {
@@ -1997,39 +2025,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 107,
-      "label": "bsod nams rtse mo (3848) student of phywa pa chos kyi seng ge (3831)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3848/",
-        "label": "bsod nams rtse mo (3848)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5NY3E6YU]: 68 ('khon jo sras rtse mo | rngog jo sras ra mo | khu jo sras ne tsho | gnyos jo sras dpal chen bzhi la jo sras bzhi zer |).\r\n[R894SIKE]: 463 ('khon jo sras rtse mo | rngog jo sras ra mo | khu jo sras ne tso| gnyos jo sras dpal le dang bzhi la jo sras bzhi zer |).\r\n[VKBZTBWN]: 453.\r\n[S77K59TZ]: 9a.\r\n[RKJB7KGK]: 200/3.\r\n[RA3FK3BK]: 157. Subject: epistemology and Bodhicary\u0101vat\u0101ra.\r\n[8S7FDMCJ]: 97-98. bSod nams rtse mo studied with Phywa pa in gSang phu since he was 16 until Phywa pa's passing.\r\n[EZ5JXHJY]: 357.\r\n[YHLJKFU5]: 100-101.\r\n[MPRU5QUC]: 205.",
-      "tei_refs": "",
-      "support_notes": "bSod nams rtse mo composed an eulogy to his teacher Phya pa, see work (ID:6915).",
-      "confidence": "Positive",
-      "start": "1158",
-      "end": "1158",
-      "subject_of_teaching_vocab": [
-        48,
-        9,
-        13
-      ]
     },
     {
       "id": 113,
@@ -2240,6 +2235,71 @@
       "start": "after 1135",
       "end": "after 1135",
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 107,
+      "label": "bsod nams rtse mo (3848) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3848/",
+        "label": "bsod nams rtse mo (3848)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1169-12-31",
+      "end_date_from": "1169-01-01",
+      "end_date_sort": "1169-07-02",
+      "start_date_to": "1158-12-31",
+      "start_date_from": "1158-01-01",
+      "start_date_sort": "1158-07-02",
+      "zotero_refs": "[5NY3E6YU]: 68 ('khon jo sras rtse mo | rngog jo sras ra mo | khu jo sras ne tsho | gnyos jo sras dpal chen bzhi la jo sras bzhi zer |).\r\n[R894SIKE]: 463 ('khon jo sras rtse mo | rngog jo sras ra mo | khu jo sras ne tso | gnyos jo sras dpal le dang bzhi la jo sras bzhi zer |).\r\n[VKBZTBWN]: 453.\r\n[S77K59TZ]: 9a.\r\n[RKJB7KGK]: 200/3.\r\n[RA3FK3BK]: 157. Subject: epistemology and Bodhicary\u0101vat\u0101ra.\r\n[8S7FDMCJ]: 97-98. bSod nams rtse mo studied with Phywa pa in gSang phu (ID:4332) since he was 16 until Phywa pa's passing.\r\n[EZ5JXHJY]: 357.\r\n[YHLJKFU5]: 100-101.\r\n[MPRU5QUC]: 205.",
+      "tei_refs": "",
+      "support_notes": "bSod nams rtse mo composed an eulogy to his teacher Phya pa, see work (ID:6915).",
+      "confidence": "Positive",
+      "start": "1158",
+      "end": "1169",
+      "subject_of_teaching_vocab": [
+        48,
+        9,
+        13
+      ]
+    },
+    {
+      "id": 102,
+      "label": "rtsegs dbang phyug seng ge (4289) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
+        "label": "rtsegs dbang phyug seng ge (4289)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 405 (khong [=phywa pa] la de dus kyi sde snod 'dzin pa phal mo che slob mar 'dus pa las | gtsang nag pa brtson 'grus seng ge | dan bag pa smra ba'i seng ge | bru sha bsod nams seng ge | rma bya rtsod pa'i seng ge | rtsags dbang phyug seng ge | myang bran chos kyi seng ge | ldan ma dkon mchog seng ge | gnyal pa yon tan seng ge ste seng chen brgyad |).\r\n[VKBZTBWN], fol. 5a2-3. brTsegs dbang phyug seng ge is listed as the 1st of the \"seng chen brgyad.\"\r\n[8GL7ZT7Y]: 12b6-7 (slob dpon de yis byams chos dang | dbu ma\u2019i bka\u2019 babs brtsegs dbang phyug seng ge la byung |).\r\n[ABYM2GP5]: 24. Reported by Lho pa kun mkhyen (ID:5463) to have closely followed Phya pa's system.\r\n[EG6VZ8JK]: 21.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        13
+      ]
     },
     {
       "id": 4712,
@@ -2660,6 +2720,37 @@
       ]
     },
     {
+      "id": 6090,
+      "label": "gro lung pa blo gros 'byung gnas (3806) lineage predecessor of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3806/",
+        "label": "gro lung pa blo gros 'byung gnas (3806)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 22.  According to \u015a\u0101kya mchog ldan, rNgog Lo (ID:3786)'s Madhyamaka lineage went from rNgog Blo ldan shes rab to Gro lung pa (ID:3806) and rGya dmar ba (ID:3834), and from these two to Phya pa (ID:3831).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
       "id": 3339,
       "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) ordinator of phywa pa chos kyi seng ge (3831)",
       "subj": {
@@ -2910,7 +3001,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[MGPRHX73]: 56, n. 21. Teaching: Bodhicary\u0101vat\u0101ra (ID:3727).\r\n[4LWBNM7B]: 216, n. 2. Lineages of epistemology and for the Gang blo ma, that have the sequence: rGya dmar ba (ID:3834), Cha pa (ID:3831), gTsang nag pa (ID:3839), Dan 'bag pa (ID:3840).",
+      "zotero_refs": "[MGPRHX73]: 56, n. 21. Teaching: Bodhicary\u0101vat\u0101ra (ID:3727).\r\n[4LWBNM7B]: 216, n. 2. Lineages of epistemology and for the Gang blo ma, that have the sequence: rGya dmar ba (ID:3834), Cha pa (ID:3831), gTsang nag pa (ID:3839), Dan 'bag pa (ID:3840).\r\n[ABYM2GP5]: 22.  According to \u015a\u0101kya mchog ldan, rNgog Lo (ID:3786)'s Madhyamaka lineage went from rNgog Blo ldan shes rab to Gro lung pa (ID:3806) and rGya dmar ba (ID:3834), and from these two to Phya pa (ID:3831). According to Sangs rgyas phun tshogs's Ngor chos 'byung, rNgog Lo (ID:3786)'s Madhyamaka lineage went from rNgog Blo ldan shes rab to Gangs pa she'u (ID:3810) and Khyung rin chen grags (ID:3809), from these two to sTod lung rGya dmar ba Byang chub grags (ID:3834), and from him to Phya pa (ID:3831).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

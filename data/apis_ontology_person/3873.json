@@ -288,6 +288,37 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 6097,
+      "label": "rma bya byang chub brtson 'grus (3842) student of khu mdo sde 'bar (3873)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3842/",
+        "label": "rma bya byang chub brtson 'grus (3842)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3873/",
+        "label": "khu mdo sde 'bar (3873)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 24, n. 22, according to mKhas grub rje's gsan yig. Subject: the Rigs tshogs (ID:5632).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     }
   ],
   "end_date_to": null,
@@ -297,7 +328,7 @@
   "start_date_from": null,
   "start_date_sort": "1110-12-31",
   "comments": "",
-  "alternative_names": "khu lo tsA ba",
+  "alternative_names": "khu lo tsA ba\r\nkhu ston mdo sde 'bar",
   "external_links": "https://purl.bdrc.io/resource/P4CZ15243",
   "review": false,
   "start": "before 1110",

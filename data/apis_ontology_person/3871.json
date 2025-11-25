@@ -62,6 +62,37 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 6095,
+      "label": "rma bya byang chub brtson 'grus (3842) student of gtsang pa sar spos (3871)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3842/",
+        "label": "rma bya byang chub brtson 'grus (3842)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3871/",
+        "label": "gtsang pa sar spos (3871)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 24, n. 22, according to mKhas grub rje's gsan yig. Subject: the Rigs tshogs (ID:5632).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
       "id": 2630,
       "label": "slob dpon ston pa (6201) student of gtsang pa sar spos (3871)",
       "subj": {
@@ -97,8 +128,8 @@
   "start_date_to": "1131-12-31",
   "start_date_from": null,
   "start_date_sort": "1131-12-31",
-  "comments": "He founded a dgon sde west of lCang ra and a bhos gzhis (sic) at rTa bres. See [647FFPZR]: 544, n. 57.",
-  "alternative_names": "gtsang pa sar sbos\r\nlcang ra ba gtsang pa sar sbos",
+  "comments": "He founded a dgon sde west of lCang ra and a bhos gzhis (sic) at rTa bres. See [647FFPZR]: 544, n. 57.\r\nKnown as one of the four spiritual sons of Pa tshab (ID:3868), along with Zhang Thang sag pa (ID:3870), rMa bya Byang chub ye shes (ID:6204), and Ngar/Dar Yon tan grags (ID:6211).",
+  "alternative_names": "gtsang pa sar sbos\r\ngtsang pa sa sbos\r\nlcang ra ba gtsang pa sar sbos",
   "external_links": "",
   "review": false,
   "start": "before 1131",

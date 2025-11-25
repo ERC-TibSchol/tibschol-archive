@@ -263,6 +263,37 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 6093,
+      "label": "gangs pa she'u blo gros byang chub (3810) lineage predecessor of rgya dmar ba byang chub grags (3834)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3810/",
+        "label": "gangs pa she'u blo gros byang chub (3810)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 22.  According to Sangs rgyas phun tshogs's Ngor chos 'byung, rNgog Lo (ID:3786)'s Madhyamaka lineage went from rNgog Blo ldan shes rab to Gangs pa she'u (ID:3810) and Khyung rin chen grags (ID:3809), from these two to sTod lung rGya dmar ba Byang chub grags (ID:3834), and from him to Phya pa (ID:3831).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
       "id": 2616,
       "label": "zla ba'i 'od zer (3835) student of gangs pa she'u blo gros byang chub (3810)",
       "subj": {
@@ -464,6 +495,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6091,
+      "label": "rngog blo ldan shes rab (3786) lineage predecessor of gangs pa she'u blo gros byang chub (3810)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3810/",
+        "label": "gangs pa she'u blo gros byang chub (3810)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 22.  According to Sangs rgyas phun tshogs's Ngor chos 'byung, rNgog Lo (ID:3786)'s Madhyamaka lineage went from rNgog Blo ldan shes rab to Gangs pa she'u (ID:3810) and Khyung rin chen grags (ID:3809), from these two to sTod lung rGya dmar ba Byang chub grags (ID:3834), and from him to Phya pa (ID:3831).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 5207,

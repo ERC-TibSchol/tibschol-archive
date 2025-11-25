@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6191/",
   "relations": [
     {
-      "id": 2632,
-      "label": "cog ro chos kyi rgyal mtshan (6191) studies pram\u0101\u1e47avini\u015bcaya (3774)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6191/",
-        "label": "cog ro chos kyi rgyal mtshan (6191)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 467 (lo bcu dgu la rgya dmar gyi grwa sar phebs |...tshad ma rnam nges dang | dbu ma rang rgyud du grags pa'i skor rnams gsan zhing mkhas par mdzad |). Studied at rGya dmar ba (ID:3834)'s school.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1127",
-      "end": "after 1127"
-    },
-    {
       "id": 5469,
       "label": "cog ro chos kyi rgyal mtshan (6191) active at do (7241)",
       "subj": {
@@ -206,6 +178,34 @@
         9,
         13
       ]
+    },
+    {
+      "id": 2632,
+      "label": "cog ro chos kyi rgyal mtshan (6191) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6191/",
+        "label": "cog ro chos kyi rgyal mtshan (6191)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 467 (lo bcu dgu la rgya dmar gyi grwa sar phebs |...tshad ma rnam nges dang | dbu ma rang rgyud du grags pa'i skor rnams gsan zhing mkhas par mdzad |). Studied at rGya dmar ba (ID:3834)'s school.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1127",
+      "end": "after 1127"
     }
   ],
   "end_date_to": "1176-12-31",

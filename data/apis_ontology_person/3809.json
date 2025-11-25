@@ -370,7 +370,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[5NY3E6YU]: 57 (des gra pa mngon shes | des khyung rin chen grags | des bya \u2019dul dang slob dpon phya pa la sogs pa|). Khyung is considered as a predecessor of Bya 'Dul 'dzin in a mkhan brgyud lineage.",
+      "zotero_refs": "[5NY3E6YU]: 57 (des gra pa mngon shes | des khyung rin chen grags | des bya \u2019dul dang slob dpon phya pa la sogs pa |). Khyung is considered as a predecessor of Bya 'Dul 'dzin in a mkhan brgyud lineage.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -492,6 +492,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6092,
+      "label": "khyung rin chen grags (3809) lineage predecessor of rgya dmar ba byang chub grags (3834)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 22.  According to Sangs rgyas phun tshogs's Ngor chos 'byung, rNgog Lo (ID:3786)'s Madhyamaka lineage went from rNgog Blo ldan shes rab to Gangs pa she'u (ID:3810) and Khyung rin chen grags (ID:3809), from these two to sTod lung rGya dmar ba Byang chub grags (ID:3834), and from him to Phya pa (ID:3831).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 3299,
@@ -888,11 +919,11 @@
       ]
     },
     {
-      "id": 407,
-      "label": "sa chen kun dga' snying po (4205) student of khyung rin chen grags (3809)",
+      "id": 6084,
+      "label": "me'i lhang tshe (6655) student of khyung rin chen grags (3809)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4205/",
-        "label": "sa chen kun dga' snying po (4205)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6655/",
+        "label": "me'i lhang tshe (6655)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -908,7 +939,36 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[RA3FK3BK]: 137 (based on dMar ston's Zhib mo rdo rje). Studies of epistemology in Nyang stod (all texts of Dharmak\u012brti except the Pram\u0101\u1e47av\u0101rttika).\r\n[CJ75QQKN]: 339 (fol. 8a/170a2-3) (de nas nyang stod du khyung rin chen grags pa zhes bya ba dang | zur chos pa dpal mi dig pa zhes bya ba las tshad ma la sogs pa mang du gsan no |). \r\n[647FFPZR]: 543, based on [NA9AMDH6]: 455. Study of tshad ma at Byang 'chad (ID:4416).\r\n[FEHIEFEB]: 157. Sa chen's studies of epistemology with Khyung are mentioned by rJe btsun Grags pa rgyal mtshan (ID:6128).\r\n[8S7FDMCJ]: 98.",
+      "zotero_refs": "[ABYM2GP5]: 20, based on [VKBZTBWN]: 454.7.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 407,
+      "label": "sa chen kun dga' snying po (4205) student of khyung rin chen grags (3809)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4205/",
+        "label": "sa chen kun dga' snying po (4205)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": "1105-01-01",
+      "end_date_sort": "1105-01-01",
+      "start_date_to": null,
+      "start_date_from": "1105-01-01",
+      "start_date_sort": "1105-01-01",
+      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a2-3) (de nas nyang stod du khyung rin chen grags pa zhes bya ba dang | zur chos pa dpal mi dig pa zhes bya ba las tshad ma la sogs pa mang du gsan no |). \r\n[RA3FK3BK]: 137 (based on dMar ston's Zhib mo rdo rje). Studies of epistemology in Nyang stod (all texts of Dharmak\u012brti except the Pram\u0101\u1e47av\u0101rttika).\r\n[647FFPZR]: 543, based on [NA9AMDH6]: 455. Study of tshad ma at Byang 'chad (ID:4416).\r\n[FEHIEFEB]: 157. Sa chen's studies of epistemology with Khyung are mentioned by rJe btsun Grags pa rgyal mtshan (ID:6128).\r\n[8S7FDMCJ]: 98.\r\n[ABYM2GP5]: 21. Studies of epistemology, possibly also of Madhyamaka, as later historians (\u015a\u0101kya mchog ldan and Thu'u bkwan) specify.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -1228,7 +1288,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[MGPRHX73]: 56, n. 21. Teaching: Bodhicary\u0101vat\u0101ra, D3871.",
+      "zotero_refs": "[ABYM2GP5]: 22.  According to Sangs rgyas phun tshogs's Ngor chos 'byung, rNgog Lo (ID:3786)'s Madhyamaka lineage went from rNgog Blo ldan shes rab to Gangs pa she'u (ID:3810) and Khyung rin chen grags (ID:3809), from these two to sTod lung rGya dmar ba Byang chub grags (ID:3834), and from him to Phya pa (ID:3831).\r\n[MGPRHX73]: 56, n. 21. Teaching: Bodhicary\u0101vat\u0101ra, D3871.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
