@@ -28,15 +28,43 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 6134,
+      "label": "dbu ma rtsa ba shes rab kyi spyi sdom (7545) has source le 'brel pa tshab kyi man ngag (6184)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7545/",
+        "label": "dbu ma rtsa ba shes rab kyi spyi sdom (7545)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6184/",
+        "label": "le 'brel pa tshab kyi man ngag (6184)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "comments": "Second of three texts in an 88-folio manuscript. See <<Dreyfus and Tsering 2009 [FFQQBB4J]>>.",
-  "alternative_names": "",
+  "comments": "Second of three texts in an 88-folio manuscript with continuous folio numbering, listed as a single item in [8H6M69W4], No. 15415. The signature is found on the cover page. The second text is located on fols. 53-54.\r\nSee <<Dreyfus and Tsering 2009 [FFQQBB4J]>>.",
+  "alternative_names": "le 'bre pa tshab kyi man ngag (colophon)",
   "external_links": "https://purl.bdrc.io/resource/MW1PD89051_CD9ABE",
-  "review": false,
+  "review": true,
   "start": null,
   "name": "le 'brel pa tshab kyi man ngag",
   "set_num": "Set 1",
@@ -47,10 +75,10 @@
   "signature_letter": "tsa",
   "signature_number": "24",
   "drepung_number": "15415",
-  "provenance": null,
+  "provenance": "'bras spungs gnas bcu lha khang",
   "zotero_ref": "",
   "tibschol_ref": "1_011_01b",
   "availability": "available",
-  "dimension": null,
-  "item_description": "Script: 'bru tsha.\r\nSize: 60.5x10cm.\r\nThe text is divided into two columns rather than written in a single line.\r\nOrthography:\r\n- Palatalization of ma (e.g., myi, myed)\r\n- Alternative prefixes (e.g., rngos for dngos, rgos for dgos)\r\nUse of expressions mirroring the Sanskrit (e.g., buta for buddha, bode for bodhi(sattva)"
+  "dimension": "60.5 x 10",
+  "item_description": "Script: 'bru tsha.\r\nThe text is divided into two columns rather than written in a single line.\r\nOrthography:\r\n- Palatalization of ma (e.g., myi, myed)\r\n- Alternative prefixes (e.g., rngos for dngos, rgos for dgos)\r\nUse of expressions mirroring the Sanskrit (e.g., buta for buddha, bode for bodhi(sattva)"
 }

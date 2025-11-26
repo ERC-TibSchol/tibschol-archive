@@ -1211,41 +1211,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 758,
-      "label": "mchims nam mkha' grags (3977) author of mi g.yo ba dkar po'i bstod pa (4799)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
-        "label": "mchims nam mkha' grags (3977)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4799/",
-        "label": "mi g.yo ba dkar po'i bstod pa (4799)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[ABYM2GP5]: 25-26, based on Ngag dbang blo bzang rgya mtsho, Ngor chen, \u015a\u0101kya mchog ldan. Lineage of pr\u0101sa\u1e45gika Madhyamaka, from Pa tshab (ID:3868) to, maybe, rMa bya Byang ye (ID:6204), rMa bya Byang brtson (ID:3842), mTshur gZhon nu seng ge (ID:4315), rMa bya Sh\u0101kya seng ge (ID:7536), Zhang Chos kyi bla ma (ID:3890), mChims Nam mkha' grags (ID:3977), bCom ldan Rig ral (ID:4006), lo ts\u0101 ba mChog ldan Legs pa'i blo gros.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 755,
@@ -1271,6 +1245,34 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 758,
+      "label": "mchims nam mkha' grags (3977) author of mi g.yo ba dkar po'i bstod pa (4799)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4799/",
+        "label": "mi g.yo ba dkar po'i bstod pa (4799)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -1577,13 +1579,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "[ABYM2GP5]: 31, n. 33. Tsong kha pa's lineage for N\u0101g\u0101rjuna (ID:3720)'s Rigs tshogs (ID:5632) according to the gsan yig of mKhas grub rje (ID:6470): Pa tshab (ID:3868), to the four, rMa bya Byang ye (ID:6204), gTsang pa Sa sbos (ID:3871), Zhang Thang sag pa (ID:3870), Khu ston mDo sde 'bar (ID:3873), then from rMa bya Byang ye and Khu ston to rMa bya Byang brtson (ID:3842), then mTshur ston (ID:4315), rMa bya Sh\u0101kya seng ge (ID:7536), mChims Nam mkha' grags (ID:3977), sKyo ston sMon lam tshul khrims (ID:4052), rGyang ro Pa\u1e47 chen (ID:4051), mChims Blo bzang grags pa (ID:4007), sNar thang mkhan chen Kun dga' rgyal mtshan (ID:7539), Tshong kha pa (ID:5636).",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 4172,
@@ -2161,6 +2165,37 @@
       "end": null
     },
     {
+      "id": 6119,
+      "label": "rma bya shAkya seng ge (7536) lineage predecessor of mchims nam mkha' grags (3977)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7536/",
+        "label": "rma bya shAkya seng ge (7536)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 31, n. 33. Tsong kha pa's lineage for N\u0101g\u0101rjuna (ID:3720)'s Rigs tshogs (ID:5632) according to the gsan yig of mKhas grub rje (ID:6470): Pa tshab (ID:3868), to the four, rMa bya Byang ye (ID:6204), gTsang pa Sa sbos (ID:3871), Zhang Thang sag pa (ID:3870), Khu ston mDo sde 'bar (ID:3873), then from rMa bya Byang ye and Khu ston to rMa bya Byang brtson (ID:3842), then mTshur ston (ID:4315), rMa bya Sh\u0101kya seng ge (ID:7536), mChims Nam mkha' grags (ID:3977), sKyo ston sMon lam tshul khrims (ID:4052), rGyang ro Pa\u1e47 chen (ID:4051), mChims Blo bzang grags pa (ID:4007), sNar thang mkhan chen Kun dga' rgyal mtshan (ID:7539), Tshong kha pa (ID:5636).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
       "id": 1798,
       "label": "lha sa sman (4027) parent of mchims nam mkha' grags (3977)",
       "subj": {
@@ -2187,6 +2222,37 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 6111,
+      "label": "zhang ston chos kyi bla ma (3890) lineage predecessor of mchims nam mkha' grags (3977)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3890/",
+        "label": "zhang ston chos kyi bla ma (3890)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 25-26, based on Ngag dbang blo bzang rgya mtsho, Ngor chen, \u015a\u0101kya mchog ldan. Lineage of pr\u0101sa\u1e45gika Madhyamaka, from Pa tshab (ID:3868) to, maybe, rMa bya Byang ye (ID:6204), rMa bya Byang brtson (ID:3842), mTshur gZhon nu seng ge (ID:4315), rMa bya Sh\u0101kya seng ge (ID:7536), Zhang Chos kyi bla ma (ID:3890), mChims Nam mkha' grags (ID:3977), bCom ldan Rig ral (ID:4006), lo ts\u0101 ba mChog ldan Legs pa'i blo gros.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 262,
