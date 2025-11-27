@@ -224,7 +224,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "Author reported for instance (ID:5922) and for (ID:5923) in [8H6M69W4], No. 19529 and No. 19827: mang du thos pa'i dge slong brtson 'grus seng ge.",
-      "tei_refs": "",
+      "tei_refs": "ex013062025-11-2613-05-44\r\nex013062025-11-2613-05-04 (signed verse)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -252,11 +252,42 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "Author according to [8H6M69W4], No. 13662: dge slong brtson 'grus seng ge",
-      "tei_refs": "",
+      "tei_refs": "ex13082025-11-2613-46-51",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 6136,
+      "label": "gtsang nag pa brtson 'grus seng ge (3839) quotes with name ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex013072025-11-2621-00-59\r\nex013072025-11-2622-23-20",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52
+      ]
     },
     {
       "id": 3018,
@@ -313,35 +344,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 5270,
-      "label": "gtsang nag pa brtson 'grus seng ge (3839) quotes without name rngog blo ldan shes rab (3786)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
-        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     },
     {
       "id": 609,
@@ -599,6 +601,37 @@
       "end": null
     },
     {
+      "id": 6135,
+      "label": "gtsang nag pa brtson 'grus seng ge (3839) quotes without name nyang bran pa chos kyi ye shes (3876)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3876/",
+        "label": "nyang bran pa chos kyi ye shes (3876)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex013082025-11-2616-12-29",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52
+      ]
+    },
+    {
       "id": 5271,
       "label": "gtsang nag pa brtson 'grus seng ge (3839) quotes without name zhang tshe spong chos kyi bla ma (3805)",
       "subj": {
@@ -761,12 +794,13 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex13012024-10-215-13-39",
+      "tei_refs": "ex13012024-10-215-13-39\r\nex013172025-11-2620-55-08\r\nex013082025-11-2616-12-29",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
+        52,
         9
       ]
     },
@@ -877,7 +911,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "Author reported for instance (ID:4566)  in [8H6M69W4], No. 19039: gtsang nag pa.",
-      "tei_refs": "",
+      "tei_refs": "ex013092025-11-2614-28-06",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -990,7 +1024,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex13072024-02-2616-05-01",
+      "tei_refs": "ex013052025-11-2612-14-48",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -1018,7 +1052,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "Author reported in [8H6M69W4], No. 13663: dge slong brtson 'grus seng ge.",
-      "tei_refs": "",
+      "tei_refs": "ex13072024-02-2616-05-01",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
