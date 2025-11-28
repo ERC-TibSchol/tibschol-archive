@@ -195,12 +195,15 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex013052025-11-2711-10-15\r\nex013062025-11-2709-14-07",
       "support_notes": "",
-      "confidence": "Positive",
+      "confidence": "Uncertain",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        13,
+        26
+      ]
     },
     {
       "id": 614,
@@ -622,43 +625,16 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex013082025-11-2616-12-29",
+      "tei_refs": "ex0130152025-11-2711-08-09\r\nex013062025-11-2709-31-46\r\nex013082025-11-2616-12-29",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
-        52
+        52,
+        13,
+        26
       ]
-    },
-    {
-      "id": 5271,
-      "label": "gtsang nag pa brtson 'grus seng ge (3839) quotes without name zhang tshe spong chos kyi bla ma (3805)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
-        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3805/",
-        "label": "zhang tshe spong chos kyi bla ma (3805)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     },
     {
       "id": 4341,
@@ -689,6 +665,37 @@
       "end": null
     },
     {
+      "id": 6137,
+      "label": "gtsang nag pa brtson 'grus seng ge (3839) quotes without name phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex013062025-11-2709-31-56",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        26
+      ]
+    },
+    {
       "id": 3396,
       "label": "gtsang nag pa brtson 'grus seng ge (3839) author of dbu ma'i rnam bshad (6527)",
       "subj": {
@@ -715,6 +722,37 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 6138,
+      "label": "gtsang nag pa brtson 'grus seng ge (3839) quotes without name rgya dmar ba byang chub grags (3834)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex013052025-11-2711-18-04",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 1197,
@@ -794,14 +832,16 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex13012024-10-215-13-39\r\nex013172025-11-2620-55-08\r\nex013082025-11-2616-12-29",
+      "tei_refs": "ex13012024-10-215-13-39\r\nex013052025-11-2711-02-54\r\nex013052025-11-2711-06-32\r\nex013062025-11-2709-58-17\r\nex013172025-11-2620-55-08\r\nex013082025-11-2616-12-29",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
         52,
-        9
+        9,
+        13,
+        26
       ]
     },
     {
