@@ -1,0 +1,48 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7090/",
+  "relations": [
+    {
+      "id": 4900,
+      "label": "sems dpa' chen po kun dga' bzang po (7089) author of rnam 'grel gyi sbyor TIka (7090)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7089/",
+        "label": "sems dpa' chen po kun dga' bzang po (7089)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7090/",
+        "label": "rnam 'grel gyi sbyor TIka (7090)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BKUHJCNA]: 742.",
+      "tei_refs": "",
+      "support_notes": "This appears to be a work composed before he met Tsong kha pa.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1444-12-31",
+  "start_date_from": "1376-01-01",
+  "start_date_sort": "1410-07-02",
+  "comments": "[BKUHJCNA]: 742. This appears to be a work composed before he met Tsong kha pa.",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "after 1376 before 1444",
+  "name": "rnam 'grel gyi sbyor TIka",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

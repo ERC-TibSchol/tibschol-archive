@@ -1,0 +1,105 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5045/",
+  "relations": [
+    {
+      "id": 4689,
+      "label": "blo sbyong brgyud pa'i gsol 'debs (5045) has as an instance blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5048)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5045/",
+        "label": "blo sbyong brgyud pa'i gsol 'debs (5045)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5048/",
+        "label": "blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5048)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1540,
+      "label": "blo sbyong brgyud pa'i gsol 'debs (5045) has as an instance blo sbyong don bdun ma brgyud pa'i gsol 'debs dang bcas pa (5044)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5045/",
+        "label": "blo sbyong brgyud pa'i gsol 'debs (5045)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5044/",
+        "label": "blo sbyong don bdun ma brgyud pa'i gsol 'debs dang bcas pa (5044)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 887,
+      "label": "rgyal sras thogs med bzang po (4066) author of blo sbyong brgyud pa'i gsol 'debs (5045)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4066/",
+        "label": "rgyal sras thogs med bzang po (4066)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5045/",
+        "label": "blo sbyong brgyud pa'i gsol 'debs (5045)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58042024-12-0515-50-412",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1369-12-31",
+  "start_date_from": "1305-01-01",
+  "start_date_sort": "1337-07-02",
+  "comments": "In instance (ID:5044), the prayer precedes the work on mind training (see work (ID:5049)). In instance (ID:5048), it follows that work, but only the beginning of the prayer is extant as the manuscript is incomplete.",
+  "alternative_names": "blo sbyong don bdun ma'i khrid yig\r\nblo sbyong don bdun ma brgyud pa'i gsol 'debs dang bcas pa",
+  "external_links": "",
+  "review": true,
+  "start": "after 1305 before 1369",
+  "name": "blo sbyong brgyud pa'i gsol 'debs",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/15/",
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/4/"
+  ]
+}

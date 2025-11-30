@@ -1,0 +1,104 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5300/",
+  "relations": [
+    {
+      "id": 1656,
+      "label": "mngon sum le'u'i 'grel pa slob ma'i yid 'phrog (5300) has as an instance mngon sum le'u'i 'grel pa slob ma'i yid 'phrog (5299)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5300/",
+        "label": "mngon sum le'u'i 'grel pa slob ma'i yid 'phrog (5300)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5299/",
+        "label": "mngon sum le'u'i 'grel pa slob ma'i yid 'phrog (5299)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1056,
+      "label": "mngon sum le'u'i 'grel pa slob ma'i yid 'phrog (5300) commentary on pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5300/",
+        "label": "mngon sum le'u'i 'grel pa slob ma'i yid 'phrog (5300)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1055,
+      "label": "Anonymous (4593) author of mngon sum le'u'i 'grel pa slob ma'i yid 'phrog (5300)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4593/",
+        "label": "Anonymous (4593)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5300/",
+        "label": "mngon sum le'u'i 'grel pa slob ma'i yid 'phrog (5300)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "The title echoes the ornamental title \"mkhas pa'i yid 'phrog\" of three works by Zha lu pa Rin chen bsod nams 'phel ba (ID:4129).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "Commentary on the first chapter of the Pram\u0101\u1e47avini\u015bcaya (ID:3774), on perception.\r\nThe title echoes the ornamental title \"mkhas pa'i yid 'phrog\" of three works by Zha lu pa Rin chen bsod nams 'phel ba (ID:4129), see (ID:5497), (ID:5499) and (ID:6872).",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": null,
+  "name": "mngon sum le'u'i 'grel pa slob ma'i yid 'phrog",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

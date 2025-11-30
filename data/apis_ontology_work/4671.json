@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4671/",
+  "relations": [
+    {
+      "id": 1374,
+      "label": "dbu' ma chen po'i man ngag nyams len bsgoms pa'i lde mig (4671) has as an instance dbu' ma chen po'i man ngag nyams len bsgoms pa'i lde mig (4670)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4671/",
+        "label": "dbu' ma chen po'i man ngag nyams len bsgoms pa'i lde mig (4671)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4670/",
+        "label": "dbu' ma chen po'i man ngag nyams len bsgoms pa'i lde mig (4670)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 690,
+      "label": "btsun pa dbu ma ba (3934) author of dbu' ma chen po'i man ngag nyams len bsgoms pa'i lde mig (4671)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3934/",
+        "label": "btsun pa dbu ma ba (3934)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4671/",
+        "label": "dbu' ma chen po'i man ngag nyams len bsgoms pa'i lde mig (4671)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1399-12-31",
+  "start_date_from": "1310-01-01",
+  "start_date_sort": "1354-12-31",
+  "comments": "",
+  "alternative_names": "btsun pa dbu ma pas mdzad pa'i theg pa chen po dbu ma'i nyams len bsgom pa'i lde mig\r\ntheg pa chen po dbu ma'i nyams su blang pa bsgom pa'i rim pa\r\nnyams myong bsgom pa'i lde mig\r\ntheg pa chen po dbu ma'i nyams len bsgom pa'i lde mig",
+  "external_links": "",
+  "review": true,
+  "start": "after 1310 before 1399",
+  "name": "dbu' ma chen po'i man ngag nyams len bsgoms pa'i lde mig",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}

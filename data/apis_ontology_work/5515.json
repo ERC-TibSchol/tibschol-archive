@@ -1,0 +1,132 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5515/",
+  "relations": [
+    {
+      "id": 1753,
+      "label": "'brel ba brtag pa rgyan gyi me tog (5515) has as an instance 'brel ba brtag pa rgyan gyi me tog (2) (5514)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5515/",
+        "label": "'brel ba brtag pa rgyan gyi me tog (5515)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5514/",
+        "label": "'brel ba brtag pa rgyan gyi me tog (2) (5514)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2482,
+      "label": "'brel ba brtag pa rgyan gyi me tog (5515) has as an instance 'brel ba brtag pa rgyan gyi me tog (1) (6130)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5515/",
+        "label": "'brel ba brtag pa rgyan gyi me tog (5515)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6130/",
+        "label": "'brel ba brtag pa rgyan gyi me tog (1) (6130)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8H6M69W4]: No. 19262. Title: 'grel (sic) pa rtag pa rgyan gyi me tog. Author: mang du thos pa'i dge slong bcom ldan ral gri.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1192,
+      "label": "'brel ba brtag pa rgyan gyi me tog (5515) commentary on sambandhapar\u012bk\u1e63\u0101prakara\u1e47a (3775)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5515/",
+        "label": "'brel ba brtag pa rgyan gyi me tog (5515)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3775/",
+        "label": "sambandhapar\u012bk\u1e63\u0101prakara\u1e47a (3775)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1191,
+      "label": "rigs pa'i ral gri (4006) author of 'brel ba brtag pa rgyan gyi me tog (5515)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5515/",
+        "label": "'brel ba brtag pa rgyan gyi me tog (5515)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "exX52023-01-3015-25-48\r\nexX52023-01-3015-44-32\r\nex51012025-02-0515-33-4",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1305-12-31",
+  "start_date_from": "1237-01-01",
+  "start_date_sort": "1271-07-02",
+  "comments": "Short commentary on the Sambandhapar\u012bk\u1e63\u0101prakara\u1e47a (ID:3775), following, according to the author, the auto-commentary (ID:5567) and the commentary by Vin\u012btadeva (ID:5568).\r\nThis likely corresponds to the work referred to as \"'brel brtag la ti ka\" in the list of Ral gri's writings (ID:7112), one of his three works on the Sambandhapar\u012bk\u1e63\u0101 (for the other two, see (ID:4947) and (ID:5900)). These works are discussed in [WEPMCAYR].",
+  "alternative_names": "'brel pa rtag pa rgyan gyi me tog\r\nsaM ban d+ha pa ri k+Sha a laM ka ra puSH+pa",
+  "external_links": "",
+  "review": true,
+  "start": "after 1237 before 1305",
+  "name": "'brel ba brtag pa rgyan gyi me tog",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

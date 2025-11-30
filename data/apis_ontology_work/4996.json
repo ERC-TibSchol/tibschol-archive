@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4996/",
+  "relations": [
+    {
+      "id": 1517,
+      "label": "sangs rgyas tshe dpag med kyi sgrub thabs (4996) has as an instance sangs rgyas tshe dpag med kyi sgrub thabs (4995)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4996/",
+        "label": "sangs rgyas tshe dpag med kyi sgrub thabs (4996)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4995/",
+        "label": "sangs rgyas tshe dpag med kyi sgrub thabs (4995)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 860,
+      "label": "rigs pa'i ral gri (4006) author of sangs rgyas tshe dpag med kyi sgrub thabs (4996)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4996/",
+        "label": "sangs rgyas tshe dpag med kyi sgrub thabs (4996)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:4995) in [8H6M69W4], No. 11554: bcom ldan rig pa'i ral gri.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1305-12-31",
+  "start_date_from": "1237-01-01",
+  "start_date_sort": "1271-07-02",
+  "comments": "",
+  "alternative_names": "sangs rgyas tshe dang ye shes dpag tu med pa'I sgrub thabs",
+  "external_links": "",
+  "review": true,
+  "start": "after 1237 before 1305",
+  "name": "sangs rgyas tshe dpag med kyi sgrub thabs",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/36/"
+  ]
+}

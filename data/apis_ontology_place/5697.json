@@ -1,0 +1,133 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5697/",
+  "relations": [
+    {
+      "id": 1910,
+      "label": "bstan pa rgyas pa rgyan gyi nyi 'od (2) (4894) written at brag dkar (5697)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4894/",
+        "label": "bstan pa rgyas pa rgyan gyi nyi 'od (2) (4894)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5697/",
+        "label": "brag dkar (5697)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex61122023-09-13-102",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2323,
+      "label": "sangs rgyas rgyal mtshan (1) (5910) active at brag dkar (5697)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5910/",
+        "label": "sangs rgyas rgyal mtshan (1) (5910)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5697/",
+        "label": "brag dkar (5697)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex45022023-09-19",
+      "support_notes": "Composition of work (ID:4773).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 2040,
+      "label": "tshad ma'i mtshan nyid bsdus pa rigs pa'i sgo 'byed pa (4773) composed at brag dkar (5697)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4773/",
+        "label": "tshad ma'i mtshan nyid bsdus pa rigs pa'i sgo 'byed pa (4773)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5697/",
+        "label": "brag dkar (5697)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex45022023-09-19",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1837,
+      "label": "slob dpon zhang (5842) active at brag dkar (5697)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5842/",
+        "label": "slob dpon zhang (5842)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5697/",
+        "label": "brag dkar (5697)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "latitude": 28.36,
+  "longitude": 85.15,
+  "feature_code": "",
+  "comments": "Maybe Brag dkar rta so in sKyid grong rdzong in the region of Mang yul (south-western Tibet), founded in 1050, for which the coordinates are provided here. (https://sakyaresearch.org/places/801; http://purl.bdrc.io/resource/G317). Clemente ([2DSW4B7E]: 122) reports the monastery of Brag dkar rta so to have been founded by Rin chen rnam rgyal (1473-1557).",
+  "alternative_names": "dben gnas brag dkar",
+  "external_links": "",
+  "review": false,
+  "label": "brag dkar",
+  "start": null
+}

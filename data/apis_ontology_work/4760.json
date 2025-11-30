@@ -1,0 +1,132 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4760/",
+  "relations": [
+    {
+      "id": 1414,
+      "label": "chos mngon gsal byed rigs pa'i rgya mtsho (4760) has as an instance chos mngon gsal byed rigs pa'i rgya mtsho (4759)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4760/",
+        "label": "chos mngon gsal byed rigs pa'i rgya mtsho (4760)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4759/",
+        "label": "chos mngon gsal byed rigs pa'i rgya mtsho (4759)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4573,
+      "label": "chos mngon gsal byed rigs pa'i rgya mtsho (4760) commentary on abhidharmako\u015bak\u0101rik\u0101 (3761)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4760/",
+        "label": "chos mngon gsal byed rigs pa'i rgya mtsho (4760)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3761/",
+        "label": "abhidharmako\u015bak\u0101rik\u0101 (3761)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1855,
+      "label": "chos mngon gsal byed rigs pa'i rgya mtsho (4760) composed at mthong smon dgu gling gi bzhi thog (4382)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4760/",
+        "label": "chos mngon gsal byed rigs pa'i rgya mtsho (4760)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4382/",
+        "label": "mthong smon dgu gling gi bzhi thog (4382)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex44012023-09-12",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 737,
+      "label": "bsod nams ye shes (4016) author of chos mngon gsal byed rigs pa'i rgya mtsho (4760)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4016/",
+        "label": "bsod nams ye shes (4016)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4760/",
+        "label": "chos mngon gsal byed rigs pa'i rgya mtsho (4760)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex44012023-09-12",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1425-12-31",
+  "start_date_from": "1310-01-01",
+  "start_date_sort": "1367-12-31",
+  "comments": "Commentary in the form of \"chos can...te...phyir\" arguments.\r\nThe text has chapter divisions but no nested hierarchical structure (sa bcad). \r\nThe author claims to follow the teaching of his teacher, mChims Blo bzang grags pa (ID:4007), author of a commentary with a similar title (ID:5279).",
+  "alternative_names": "chos mngon pa mdzod kyi sbyor Tik\r\nchos mngon pa mdzod kyi sbyor tik\r\nchos mongon pa mngon mdzod kyi sbyor tig",
+  "external_links": "",
+  "review": true,
+  "start": "after 1310 before 1425",
+  "name": "chos mngon gsal byed rigs pa'i rgya mtsho",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/17/"
+  ]
+}

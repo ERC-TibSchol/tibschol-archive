@@ -1,0 +1,104 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6549/",
+  "relations": [
+    {
+      "id": 3430,
+      "label": "bslab pa kun las btus pa'i rtsa ba'i don man ngag gi bshad pa'i brjed byang (6549) commentary on \u015bik\u1e63\u0101samuccaya (3742)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6549/",
+        "label": "bslab pa kun las btus pa'i rtsa ba'i don man ngag gi bshad pa'i brjed byang (6549)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3742/",
+        "label": "\u015bik\u1e63\u0101samuccaya (3742)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5685,
+      "label": "bslab pa kun las btus pa'i rtsa ba'i don man ngag gi bshad pa'i brjed byang (6549) has as an instance bslab pa kun las btus pa'i rtsa ba'i don man ngag gi bshad pa'i brjed byang (7332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6549/",
+        "label": "bslab pa kun las btus pa'i rtsa ba'i don man ngag gi bshad pa'i brjed byang (6549)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7332/",
+        "label": "bslab pa kun las btus pa'i rtsa ba'i don man ngag gi bshad pa'i brjed byang (7332)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3429,
+      "label": "gtsang nag pa brtson 'grus seng ge (3839) author of bslab pa kun las btus pa'i rtsa ba'i don man ngag gi bshad pa'i brjed byang (6549)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6549/",
+        "label": "bslab pa kun las btus pa'i rtsa ba'i don man ngag gi bshad pa'i brjed byang (6549)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 514, No. 11065.\r\n[HMSTSJ7Q]: 73, No. 23.2 (bslab pa kun las btus pa'i rtsa ba'i don man ngag gi bshad pa'i brjed byang mang du thos pa'i dge slong brtson 'grus seng ges sbyar ba)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1250-12-31",
+  "start_date_from": "1100-01-01",
+  "start_date_sort": "1175-07-02",
+  "comments": "The existence of a manuscript of a memorandum on the explanation of the verses the \u015aik\u1e63\u0101samuccaya (ID:3742) is reported in [HMSTSJ7Q]: 73 (bslab pa kun las btus pa'i rtsa ba'i don man ngag gi bshad pa'i brjed byang mang du thos pa'i dge slong brtson 'grus seng ges sbyar ba; 17 fols.).\r\nThis may correspond to the commentary on the \u015aik\u1e63\u0101samuccaya (ID:3742) by gTsang nag pa listed by A khu ching shes rab rgya mtsho in his Tho yig ([5RXEUKD9]: 514, No. 11065: gtsang nag pa'i bslab btus (dang spyod 'jug gnyis) kyi 'grel pa.",
+  "alternative_names": "bslab btus kyi 'grel pa",
+  "external_links": "",
+  "review": true,
+  "start": "after 1100 before 1250",
+  "name": "bslab pa kun las btus pa'i rtsa ba'i don man ngag gi bshad pa'i brjed byang",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}

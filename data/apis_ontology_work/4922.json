@@ -1,0 +1,104 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4922/",
+  "relations": [
+    {
+      "id": 1838,
+      "label": "grub mtha' rgyan gyi me tog (4922) has as an instance grub mtha' rgyan gyi me tog (1) (5843)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4922/",
+        "label": "grub mtha' rgyan gyi me tog (4922)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5843/",
+        "label": "grub mtha' rgyan gyi me tog (1) (5843)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1484,
+      "label": "grub mtha' rgyan gyi me tog (4922) has as an instance grub mtha' rgyan gyi me tog (2) (4921)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4922/",
+        "label": "grub mtha' rgyan gyi me tog (4922)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4921/",
+        "label": "grub mtha' rgyan gyi me tog (2) (4921)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 821,
+      "label": "rigs pa'i ral gri (4006) author of grub mtha' rgyan gyi me tog (4922)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4922/",
+        "label": "grub mtha' rgyan gyi me tog (4922)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex61132023-09-09-1206",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1305-12-31",
+  "start_date_from": "1237-01-01",
+  "start_date_sort": "1271-07-02",
+  "comments": "Corresponds to the work listed by A khu ching shes rab rgya mtsho in his Tho yig ([5RXEUKD9]: 544, No. 11912: bcom ldan rigs ral gyi grub mtha' rgyan gyi me tog).",
+  "alternative_names": "sid d+hi an ta vi b+ha ga a laM ka ra bu Sha pa",
+  "external_links": "",
+  "review": true,
+  "start": "after 1237 before 1305",
+  "name": "grub mtha' rgyan gyi me tog",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/14/"
+  ]
+}
