@@ -3,16 +3,16 @@
   "relations": [
     {
       "id": 1298,
-      "label": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam bshad (4511) has as an instance dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam bshad (4510)",
+      "label": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (4511) has as an instance dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (4510)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4511/",
-        "label": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam bshad (4511)",
+        "label": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (4511)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4510/",
-        "label": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam bshad (4510)",
+        "label": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (4510)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -31,7 +31,7 @@
     },
     {
       "id": 1246,
-      "label": "ka rma bsod nams (4512) owner of dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam bshad (4510)",
+      "label": "ka rma bsod nams (4512) owner of dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (4510)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4512/",
         "label": "ka rma bsod nams (4512)",
@@ -40,7 +40,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4510/",
-        "label": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam bshad (4510)",
+        "label": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (4510)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -62,11 +62,11 @@
   "start_date_from": null,
   "start_date_sort": null,
   "comments": "",
-  "alternative_names": "thams cad yod par smra ba'i dge tshul rnams kyi bslab pa\u2019i rim pa ston pa\u2019i rnam par bshad pa (catalogue)",
+  "alternative_names": "thams cad yod par smra ba'i dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (colophon, catalogue)",
   "external_links": "https://purl.bdrc.io/resource/MW1PD89051_45E973",
   "review": true,
   "start": null,
-  "name": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam bshad",
+  "name": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa",
   "set_num": "Set 1",
   "volume": "9",
   "sb_text_number": "4",
@@ -75,10 +75,10 @@
   "signature_letter": "wa",
   "signature_number": "30",
   "drepung_number": "16227",
-  "provenance": "",
+  "provenance": "'bras spungs gnas bcu lha khang",
   "zotero_ref": "",
   "tibschol_ref": "1_009_04",
   "availability": "available",
   "dimension": "66 x 8",
-  "item_description": "Script: 'bru tsha.\r\nLines per folio: 8; 6 on fol. 33b.\r\nNumbering in letters on the recto of the folios from fol. 1\r\nFolio number on last folio: so gsuM bzhugs_so.\r\nOrthography: <Orthography>\r\n- Abbreviations (e.g., for thams cad, etc.)\r\n- Bindu for m"
+  "item_description": "Script: 'bru tsha.\r\nLines per folio: 8; 6 on fol. 33b.\r\nNumbering in letters on the recto of the folios from fol. 1\r\nFolio number on last folio: so gsuM bzhugs_so.\r\nOrthography:\r\n- Abbreviations (e.g., for thams cad, etc.)\r\n- Bindu for m\r\nSome annotations (corrections)."
 }
