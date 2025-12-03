@@ -1,0 +1,48 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5978/",
+  "relations": [
+    {
+      "id": 2259,
+      "label": "gnyos rgyal ba lha nang pa sangs rgyas rin chen (5978) author of rnam nges zin bris (5979)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5978/",
+        "label": "gnyos rgyal ba lha nang pa sangs rgyas rin chen (5978)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5979/",
+        "label": "rnam nges zin bris (5979)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": "1224-12-31",
+  "end_date_from": "1224-01-01",
+  "end_date_sort": "1224-07-01",
+  "start_date_to": "1164-12-31",
+  "start_date_from": "1164-01-01",
+  "start_date_sort": "1164-07-01",
+  "comments": "",
+  "alternative_names": "sangs rgyas ras chen",
+  "external_links": "https://purl.bdrc.io/resource/P15",
+  "review": false,
+  "start": "1164",
+  "end": "1224",
+  "name": "gnyos rgyal ba lha nang pa sangs rgyas rin chen",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

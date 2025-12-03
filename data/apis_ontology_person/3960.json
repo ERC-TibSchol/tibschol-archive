@@ -1,0 +1,79 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3960/",
+  "relations": [
+    {
+      "id": 203,
+      "label": "gnyal pa dar ma 'od zer (3960) student of bya 'dul 'dzin brtson 'grus 'bar (3818)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3960/",
+        "label": "gnyal pa dar ma 'od zer (3960)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5WBK2VV]: 42.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
+    },
+    {
+      "id": 698,
+      "label": "gnyal pa dar ma 'od zer (3960) author of 'dul ba mdo rtsa'i 'grel pa (4690)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3960/",
+        "label": "gnyal pa dar ma 'od zer (3960)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4690/",
+        "label": "'dul ba mdo rtsa'i 'grel pa (4690)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No. 16230: rgya 'dul 'dzin gyi slob ma gnyal ba dar ma \u2018od zer",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "1101-01-01",
+  "end_date_sort": "1101-01-01",
+  "start_date_to": "1164-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1164-12-31",
+  "comments": "Same person as bZad pa dar ma 'od (ID:6425)?",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/P3JT13442",
+  "review": false,
+  "start": "before 1164",
+  "end": "after 1101",
+  "name": "gnyal pa dar ma 'od zer",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

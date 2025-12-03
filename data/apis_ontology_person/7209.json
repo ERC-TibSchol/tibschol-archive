@@ -1,0 +1,48 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7209/",
+  "relations": [
+    {
+      "id": 5376,
+      "label": "gcung po (7209) ordinator of dus gsum mkhyen pa (3855)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7209/",
+        "label": "gcung po (7209)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3855/",
+        "label": "dus gsum mkhyen pa (3855)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Y6NGTTC6]: 24, n. 71. gCung po acted as \"gsang ston\" in the final ordination (bsnyen rdzogs) of Dus gsum mkhyen when the latter was 20.\r\n[I58Z22ET]: 408-409, n. 42, based on Dus gsum mkhyen pa'i rnam thar in Si tu Chos kyi 'byung gnas's Karma kam tshang gser 'phreng (mkhan po mal 'dul 'dzin | las slob ye shes blo gros | gsang ston mkhan po cung gis mdzad de bsnyen par rdzogs pa'i sdom pa bzhes nas 'dul ba la mkhas par mdzad).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1130",
+      "end": "1130"
+    }
+  ],
+  "end_date_to": "1190-12-31",
+  "end_date_from": "1130-01-01",
+  "end_date_sort": "1160-07-01",
+  "start_date_to": "1110-12-31",
+  "start_date_from": "1050-01-01",
+  "start_date_sort": "1080-07-01",
+  "comments": "",
+  "alternative_names": "cung po",
+  "external_links": "",
+  "review": false,
+  "start": "after 1050 before 1110",
+  "end": "after 1130 before 1190",
+  "name": "gcung po",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

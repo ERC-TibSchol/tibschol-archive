@@ -1,0 +1,135 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
+  "relations": [
+    {
+      "id": 4068,
+      "label": "mar pa do ba chos kyi dbang phyug (4215) student of bodhibhadra (5921)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
+        "label": "mar pa do ba chos kyi dbang phyug (4215)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5921/",
+        "label": "bodhibhadra (5921)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BUDA",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 417,
+      "label": "mar pa do ba chos kyi dbang phyug (4215) lineage predecessor of lcang ra ba ldum ston (4216)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
+        "label": "mar pa do ba chos kyi dbang phyug (4215)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4216/",
+        "label": "lcang ra ba ldum ston (4216)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4040,
+      "label": "mar pa do ba chos kyi dbang phyug (4215) translator of ratnagotravibh\u0101ga (3749)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
+        "label": "mar pa do ba chos kyi dbang phyug (4215)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
+        "label": "ratnagotravibh\u0101ga (3749)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 171-172. This translation is not extant.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2635,
+      "label": "cog ro chos kyi rgyal mtshan (6191) student of mar pa do ba chos kyi dbang phyug (4215)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6191/",
+        "label": "cog ro chos kyi rgyal mtshan (6191)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
+        "label": "mar pa do ba chos kyi dbang phyug (4215)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1136-12-31",
+  "end_date_from": "1136-01-01",
+  "end_date_sort": "1136-07-01",
+  "start_date_to": "1042-12-31",
+  "start_date_from": "1042-01-01",
+  "start_date_sort": "1042-07-02",
+  "comments": "Held to have translated all the Five Treatises of Maitreya (ID:6167), but none of his translations are extant ([BAQ9MH4T]: 171).",
+  "alternative_names": "mar pa do pa chos kyi dbang phyug",
+  "external_links": "https://purl.bdrc.io/resource/P3814",
+  "review": false,
+  "start": "1042",
+  "end": "1136",
+  "name": "mar pa do ba chos kyi dbang phyug",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

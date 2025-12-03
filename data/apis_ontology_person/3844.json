@@ -1,0 +1,193 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3844/",
+  "relations": [
+    {
+      "id": 3433,
+      "label": "nyang bran chos kyi seng ge (3844) author of bslab btus kyi 'grel pa (6551)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3844/",
+        "label": "nyang bran chos kyi seng ge (3844)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6551/",
+        "label": "bslab btus kyi 'grel pa (6551)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 514, No. 11067.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4790,
+      "label": "nyang bran chos kyi seng ge (3844) author of byang chub sems dpa'i spyod 'jug gi bsdus don (7048)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3844/",
+        "label": "nyang bran chos kyi seng ge (3844)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7048/",
+        "label": "byang chub sems dpa'i spyod 'jug gi bsdus don (7048)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BUDA (https://purl.bdrc.io/resource/W2KG5026).\r\nColophon (15a3-4): byang chub seMs dpa'i spyod pa la 'jug pa {*}'i bsdus don shag kya'i dge slong chos kyi seng ges sbyar ba las | rigs par smra ba'i dge' slong dar ma rdo rjes gsung ba ltar (15a4) bris pa 'di yongs su rdzogs s+ho || \r\n\"Chos kyi seng ge\" could also refer to Phya pa Chos kyi seng ge (ID:3831).",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5821,
+      "label": "nyang bran chos kyi seng ge (3844) active at nyang bran (7388)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3844/",
+        "label": "nyang bran chos kyi seng ge (3844)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7388/",
+        "label": "nyang bran (7388)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Presumably his place of origin.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3461,
+      "label": "nyang bran chos kyi seng ge (3844) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3844/",
+        "label": "nyang bran chos kyi seng ge (3844)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 405 (khong [=phywa pa] la de dus kyi sde snod 'dzin pa phal mo che slob mar 'dus pa las | gtsang nag pa brtson 'grus seng ge | dan bag pa smra ba'i seng ge | bru sha bsod nams seng ge | rma bya rtsod pa'i seng ge | rtsags dbang phyug seng ge | myang bran chos kyi seng ge | ldan ma dkon mchog seng ge | gnyal pa yon tan seng ge ste seng chen brgyad |).\r\n[VKBZTBWN]: 5a2-3. Listed as the fifth of the Eight Great Lions (seng chen brgyad).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3431,
+      "label": "nyang bran chos kyi seng ge (3844) author of spyod 'jug gi 'grel (6550)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3844/",
+        "label": "nyang bran chos kyi seng ge (3844)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6550/",
+        "label": "spyod 'jug gi 'grel (6550)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 514, No. 11068: nyang bran chos kyi seng+ge'i (bslab btus dang) spyod 'jug gi 'grel pa",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3458,
+      "label": "phag mo gru pa rdo rje rgyal po (3856) student of nyang bran chos kyi seng ge (3844)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3856/",
+        "label": "phag mo gru pa rdo rje rgyal po (3856)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3844/",
+        "label": "nyang bran chos kyi seng ge (3844)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1134-12-31",
+      "end_date_from": "1134-01-01",
+      "end_date_sort": "1134-07-02",
+      "start_date_to": "1134-12-31",
+      "start_date_from": "1134-01-01",
+      "start_date_sort": "1134-07-02",
+      "zotero_refs": "[CCSBSVCA]: 164, n. 416.\r\n[CJPTU9FV]: 34. Subject: spyod phyogs and treatises of Maitreya.\r\n[R894SIKE]: 655 (myang bran la spyod phyogs mang du gsan |)\r\n[CM86HFZP]: 175 (dge bshes chen po phya pa chos kyi seng ge (ID:3831) dang myang bran (ID:3844) la sogs la'ang gsan pa mdzad | dge ba'i bshes gnyen yang gad pa (ID:4107) dang | don stengs pa (ID:7179)  dang | bya yul ba  (ID:3915) la sogs pa mkhas btsun bzang po'i nor can 'ga' zhig la bsnyen te | byang chub kyi mchog tu thugs bskyed cing bka' gdams kyi gzhung dang | gdams pa'i chu bo mtha' yas pa thugs kyi rgya mtshor zhugs).",
+      "tei_refs": "exX0012025-02-2515-17-262",
+      "support_notes": "The relation could also be with \"Nyang bran chos kyi ye shes\" (ID:3876).",
+      "confidence": "Positive",
+      "start": "1134",
+      "end": "1134",
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    }
+  ],
+  "end_date_to": "1230-12-31",
+  "end_date_from": "1119-01-01",
+  "end_date_sort": "1174-12-31",
+  "start_date_to": "1159-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1159-12-31",
+  "comments": "His name is found in the list of the \"Eight Great Lion.\"\r\nMaybe the same person as \"Nyang bran chos kyi ye shes\" (ID:3876), as suggested in [CCSBSVCA]: 164, n. 416. However, A khu ching distinguishes the two.\r\nIt is questionable whether he is the \"chos kyi seng ge\" named as author in the colophon of work (ID:3727) - this could also refer to Phya pa Chos kyi seng ge (ID:3831). Conversely, he could be a candidate for the authorship of work (ID:6554) whose author is also named as \"chos kyi seng ge\" in the colophon.",
+  "alternative_names": "nyang bran chos kyi seng+ge\r\nslob dpon chos kyi seng ge\r\nmyang bran chos kyi seng ge\r\ndge bshes nyang bran",
+  "external_links": "https://purl.bdrc.io/resource/P4859",
+  "review": false,
+  "start": "before 1159",
+  "end": "after 1119 before 1230",
+  "name": "nyang bran chos kyi seng ge",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

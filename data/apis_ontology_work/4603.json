@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4603/",
   "relations": [
     {
+      "id": 6209,
+      "label": "dbu ma'i man ngag gi 'bum (4603) has as an instance bden gnyis kyi 'bum (7581)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4603/",
+        "label": "dbu ma'i man ngag gi 'bum (4603)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7581/",
+        "label": "bden gnyis kyi 'bum (7581)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1341,
       "label": "dbu ma'i man ngag gi 'bum (4603) has as an instance dbu ma'i man ngag gi 'bum (4602)",
       "subj": {
@@ -78,7 +106,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "No author reported for instance (ID:4602) in [8H6M69W4], No. 15400.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -89,7 +117,7 @@
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "comments": "Translated in [4W5HW75B].",
+  "comments": "Study in [4W5HW75B]: 21-24 and translation in [4W5HW75B]: 25-64.\r\nCommentary on the  Madhyamakopade\u015ba (ID:6041) of Ati\u015ba (ID:3745). The author mentions Rwa sgreng and a number of figures affiliated with Rwa sgreng dgon pa (ID:4397), notably dGon pa ba (ID:6689), Po to ba (ID:3829), rNal 'byor pa Byang chub rin chen (ID:6952), and sPyan snga Tshul khrims 'bar (ID:3830) ([4W5HW75B]: 23).",
   "alternative_names": "bden gnyis kyi 'bum zhes pa jo bo'i dbu ma bden gnyis kyi 'grel ba\r\ndbu ma bden gnyis kyi 'bum (incorrect title)",
   "external_links": "",
   "review": true,

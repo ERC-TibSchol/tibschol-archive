@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4605/",
   "relations": [
     {
+      "id": 6205,
+      "label": "bden chung gi 'bum (4605) has as an instance bden gnyis kyi 'bum (1) (7579)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4605/",
+        "label": "bden chung gi 'bum (4605)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7579/",
+        "label": "bden gnyis kyi 'bum (1) (7579)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1342,
       "label": "bden chung gi 'bum (4605) has as an instance bden chung gi 'bum (4604)",
       "subj": {
@@ -25,6 +53,34 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6207,
+      "label": "bden chung gi 'bum (4605) has as an instance bden gnyis kyi 'bum (2) (7580)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4605/",
+        "label": "bden chung gi 'bum (4605)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7580/",
+        "label": "bden gnyis kyi 'bum (2) (7580)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -78,7 +134,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "No author reported for instance (ID:4604) in [8H6M69W4], No. 15401.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -89,7 +145,7 @@
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "comments": "Edited in [53V3UYUL] and translated in [D6HTUYUR].",
+  "comments": "First identified and translated in [D6HTUYUR]; diplomatically edited in [53V3UYUL].\r\nAn early commentary on the Satyadvay\u0101vat\u0101ra (ID:6040) of Ati\u015ba (ID:3745).",
   "alternative_names": "bden chung gi 'bum\r\nbden gnyis kyi 'bum\r\ndbu ma'i man ngag gi 'bum (incorrect title)",
   "external_links": "",
   "review": true,

@@ -1,0 +1,49 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6696/",
+  "relations": [
+    {
+      "id": 3802,
+      "label": "mkhas grub dar ma rgyal mtshan (6696) student of zhwa dmar pa grags pa seng ge (6161)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6696/",
+        "label": "mkhas grub dar ma rgyal mtshan (6696)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6161/",
+        "label": "zhwa dmar pa grags pa seng ge (6161)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BDRC",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": "1300-01-01",
+  "start_date_sort": "1300-01-01",
+  "comments": "",
+  "alternative_names": "ri khrod pa dar ma rgyal mtshan",
+  "external_links": "https://purl.bdrc.io/resource/P61",
+  "review": false,
+  "start": "after 1300",
+  "end": null,
+  "name": "mkhas grub dar ma rgyal mtshan",
+  "gender": "male",
+  "nationality": "Tibetan"
+}
