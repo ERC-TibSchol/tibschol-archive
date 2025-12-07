@@ -1,0 +1,106 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5970/",
+  "relations": [
+    {
+      "id": 2363,
+      "label": "kun dga' (5970) student of chos kyi rgyal mtshan dpal bzang po (6059)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5970/",
+        "label": "kun dga' (5970)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6059/",
+        "label": "chos kyi rgyal mtshan dpal bzang po (6059)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2362,
+      "label": "kun dga' (5970) student of blo gros chos kyi seng ge (6057)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5970/",
+        "label": "kun dga' (5970)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6057/",
+        "label": "blo gros chos kyi seng ge (6057)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 1159,
+      "label": "kun dga' (5970) author of tshad ma rnam 'grel gsal ba byed pa'i zin bris rin chen snying po (5472)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5970/",
+        "label": "kun dga' (5970)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5472/",
+        "label": "tshad ma rnam 'grel gsal ba byed pa'i zin bris rin chen snying po (5472)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": "1454-12-31",
+  "end_date_from": "1454-01-01",
+  "end_date_sort": "1454-07-02",
+  "start_date_to": "1372-12-31",
+  "start_date_from": "1372-01-01",
+  "start_date_sort": "1372-07-01",
+  "comments": "",
+  "alternative_names": "\u0100nanda",
+  "external_links": "",
+  "review": false,
+  "start": "1372",
+  "end": "1454",
+  "name": "kun dga'",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

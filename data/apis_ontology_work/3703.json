@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3703/",
+  "relations": [
+    {
+      "id": 1116,
+      "label": "dal 'byor rnyed dka' ba bsam pa'i tshul zab mo (5401) commentary on v\u0101gan\u0101\u015britadhy\u0101na (3703)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5401/",
+        "label": "dal 'byor rnyed dka' ba bsam pa'i tshul zab mo (5401)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3703/",
+        "label": "v\u0101gan\u0101\u015britadhy\u0101na (3703)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3,
+      "label": "d\u012bpa\u1e43karabhadra (3704) author of v\u0101gan\u0101\u015britadhy\u0101na (3703)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3704/",
+        "label": "d\u012bpa\u1e43karabhadra (3704)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3703/",
+        "label": "v\u0101gan\u0101\u015britadhy\u0101na (3703)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "sgra la mi gnas pa'i bsam gtan zhes bya ba rnal 'byor pa'i 'khor rkyen drungs nas 'don pa",
+  "external_links": "http://purl.rkts.eu/resource/WTT1870",
+  "review": true,
+  "start": null,
+  "name": "v\u0101gan\u0101\u015britadhy\u0101na",
+  "sde_dge_ref": "D3047",
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/3/"
+  ]
+}

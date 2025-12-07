@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6581/",
+  "relations": [
+    {
+      "id": 3492,
+      "label": "rgyud bla ma'i Tik+ka (6581) commentary on ratnagotravibh\u0101ga (3749)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6581/",
+        "label": "rgyud bla ma'i Tik+ka (6581)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
+        "label": "ratnagotravibh\u0101ga (3749)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3493,
+      "label": "nyang bran pa chos kyi ye shes (3876) author of rgyud bla ma'i Tik+ka (6581)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3876/",
+        "label": "nyang bran pa chos kyi ye shes (3876)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6581/",
+        "label": "rgyud bla ma'i Tik+ka (6581)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 523, No. 11334: de'i {=Zhang tshe spong} slob ma nyang brang pa chos kyi ye shes [...] mdzad pa'i rgyud bla ma'i Tik+ka.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1200-12-31",
+  "start_date_from": "1070-01-01",
+  "start_date_sort": "1135-07-03",
+  "comments": "A commentary by \"Nyang bran\" is mentioned by 'Gos lo tsA ba (ID:5839) and listed in A khu ching Shes rab rgya mtsho's Tho yig ([5RXEUKD9]: 523, No. 11334: de'i slob ma nyang brang pa chos kyi ye shes [...] mdzad pa'i rgyud bla ma'i Tik+ka). See Kano [BAQ9MH4T]: 408.\r\n\r\nAccording to 'Gos lo tsA ba, this commentary was based on the commentaries of Gro lung pa (see (ID:6579)) and Zhang tshes spong (see (ID:6580)), themselves based on the small commentary by rNgog Blo ldan shes rab (ID:4441). See [7V8MZYAI]: 4 (rngog gis rgyud bla ma'i 'grel pa la TI kA chung yang mdzad cing | de la brten nas gro lung pa dang | zhang tshes kyis kyang TI kA mdzad de | de gnyis la brten nas nyang bran gyis kyang TI kA mdzad la |).",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "after 1070 before 1200",
+  "name": "rgyud bla ma'i Tik+ka",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/10/"
+  ]
+}

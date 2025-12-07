@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4716/",
+  "relations": [
+    {
+      "id": 1394,
+      "label": "shes rab sgrol ma'i sgra bshad skabs kyi mchan don (4716) has as an instance shes rab sgrol ma'i sgra bshad skabs kyi mchan don (4715)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4716/",
+        "label": "shes rab sgrol ma'i sgra bshad skabs kyi mchan don (4716)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4715/",
+        "label": "shes rab sgrol ma'i sgra bshad skabs kyi mchan don (4715)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 713,
+      "label": "brtson 'grus grags (3978) author of shes rab sgrol ma'i sgra bshad skabs kyi mchan don (4716)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3978/",
+        "label": "brtson 'grus grags (3978)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4716/",
+        "label": "shes rab sgrol ma'i sgra bshad skabs kyi mchan don (4716)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:4715) in [8H6M69W4], No. 19367: shAkya'i dge slong brtson 'grus grags.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "Tik+ka shes sgron ma'i sgra bshad skabs kyi mchan don",
+  "external_links": "",
+  "review": true,
+  "start": null,
+  "name": "shes rab sgrol ma'i sgra bshad skabs kyi mchan don",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/8/"
+  ]
+}

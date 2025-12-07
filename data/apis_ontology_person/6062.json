@@ -1,0 +1,200 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6062/",
+  "relations": [
+    {
+      "id": 2500,
+      "label": "klong chen rab 'byams pa (6062) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6062/",
+        "label": "klong chen rab 'byams pa (6062)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1364-12-31",
+      "end_date_from": "1320-01-01",
+      "end_date_sort": "1342-07-02",
+      "start_date_to": null,
+      "start_date_from": "1320-01-01",
+      "start_date_sort": "1320-01-01",
+      "zotero_refs": "[R894SIKE]: 249 (gsang phur btsan dgon pa dang bla brang ba chos dpal rgyal mtshan la sogs pa'i mkhas pa mang du bsten |). He studied with bTsan dgon pa, Bla brang pa chos dpal rgyal mtshan (ID:6146) and others: the five treatises of Maitreya, the seven-fold collection (of Dharmak\u012brti), etc.\r\n[CCSBSVCA]: 688, n. 4. In the 1350s he held debates at gSang phu during the tenure of Yon tan rgya mtsho (ID:6357).\r\n[3WFNMIGQ]: 141.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1320",
+      "end": "after 1320 before 1364",
+      "subject_of_teaching_vocab": [
+        9,
+        56,
+        7
+      ]
+    },
+    {
+      "id": 2504,
+      "label": "klong chen rab 'byams pa (6062) student of bla brang pa chos dpal rgyal mtshan (6146)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6062/",
+        "label": "klong chen rab 'byams pa (6062)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6146/",
+        "label": "bla brang pa chos dpal rgyal mtshan (6146)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 249 (gsang phur btsan dgon pa dang bla brang ba chos dpal rgyal mtshan la sogs pa'i mkhas pa mang du bsten). In gSang phu (ID: 4332).\r\n[MPRU5QUC]: 211.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3007,
+      "label": "klong chen rab 'byams pa (6062) student of gzhon nu rin chen (3911)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6062/",
+        "label": "klong chen rab 'byams pa (6062)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3911/",
+        "label": "gzhon nu rin chen (3911)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BDRC",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3961,
+      "label": "klong chen rab 'byams pa (6062) student of btsang dgon pa gzhon nu bsam gtan (6351)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6062/",
+        "label": "klong chen rab 'byams pa (6062)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6351/",
+        "label": "btsang dgon pa gzhon nu bsam gtan (6351)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MPRU5QUC]: 211, n. 25.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2501,
+      "label": "klong chen rab 'byams pa (6062) student of btsan dgon pa (6145)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6062/",
+        "label": "klong chen rab 'byams pa (6062)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6145/",
+        "label": "btsan dgon pa (6145)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 249. In gSang phu (ID: 4332).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "",
+      "end": "",
+      "subject_of_teaching_vocab": [
+        9,
+        7
+      ]
+    },
+    {
+      "id": 2370,
+      "label": "klong chen rab 'byams pa (6062) author of tshad ma'i de kho na nyid bsdus pa (5507)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6062/",
+        "label": "klong chen rab 'byams pa (6062)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5507/",
+        "label": "tshad ma'i de kho na nyid bsdus pa (5507)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "The colophon of the text that attributes authorship to Klong chen rab 'byams. This is contested in <<van der Kuijp 2003 [FZ6N88AU]>> and <<Stoltz 2020 [MGPRHX73]>>.",
+      "confidence": "Negative",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": "1364-12-31",
+  "end_date_from": "1364-01-01",
+  "end_date_sort": "1364-07-01",
+  "start_date_to": "1308-12-31",
+  "start_date_from": "1308-01-01",
+  "start_date_sort": "1308-07-01",
+  "comments": "",
+  "alternative_names": "'dri med 'od zer\r\ntshul khrims blo gros",
+  "external_links": "https://purl.bdrc.io/resource/P1583",
+  "review": false,
+  "start": "1308",
+  "end": "1364",
+  "name": "klong chen rab 'byams pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

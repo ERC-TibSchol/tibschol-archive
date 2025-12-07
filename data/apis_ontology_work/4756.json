@@ -1,0 +1,104 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4756/",
+  "relations": [
+    {
+      "id": 1412,
+      "label": "chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed (4756) has as an instance chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed (4755)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4756/",
+        "label": "chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed (4756)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4755/",
+        "label": "chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed (4755)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 734,
+      "label": "chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed (4756) commentary on abhidharmasamuccaya (3755)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4756/",
+        "label": "chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed (4756)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3755/",
+        "label": "abhidharmasamuccaya (3755)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 733,
+      "label": "'gar dharma smon lam (4012) author of chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed (4756)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4012/",
+        "label": "'gar dharma smon lam (4012)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4756/",
+        "label": "chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed (4756)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1389.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1250-12-31",
+  "start_date_from": "1060-01-01",
+  "start_date_sort": "1155-07-02",
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "after 1060 before 1250",
+  "name": "chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/17/"
+  ]
+}

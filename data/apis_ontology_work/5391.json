@@ -1,0 +1,74 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5391/",
+  "relations": [
+    {
+      "id": 1699,
+      "label": "bstan pa la 'jug pa'i rim pa dpe chos rin chen spungs pa'i gtam rgyud (5391) has as an instance bstan pa la 'jug pa'i rim pa dpe chos rin chen spungs pa'i gtam rgyud (5390)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5391/",
+        "label": "bstan pa la 'jug pa'i rim pa dpe chos rin chen spungs pa'i gtam rgyud (5391)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5390/",
+        "label": "bstan pa la 'jug pa'i rim pa dpe chos rin chen spungs pa'i gtam rgyud (5390)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1106,
+      "label": "dpal ldan ye shes (1) (4112) author of bstan pa la 'jug pa'i rim pa dpe chos rin chen spungs pa'i gtam rgyud (5391)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4112/",
+        "label": "dpal ldan ye shes (1) (4112)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5391/",
+        "label": "bstan pa la 'jug pa'i rim pa dpe chos rin chen spungs pa'i gtam rgyud (5391)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:5390) in [8H6M69W4]: sprang po dpal ldan ye shes.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": null,
+  "name": "bstan pa la 'jug pa'i rim pa dpe chos rin chen spungs pa'i gtam rgyud",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": []
+}

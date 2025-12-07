@@ -1,0 +1,77 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6523/",
+  "relations": [
+    {
+      "id": 3383,
+      "label": "'dul ba 'dzin pa brtson 'grus dpal (6523) ordinator of ze'u grags pa brtson 'grus (6519)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6523/",
+        "label": "'dul ba 'dzin pa brtson 'grus dpal (6523)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
+        "label": "ze'u grags pa brtson 'grus (6519)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: Appendix 3, 236. 'Dul ba 'dzin pa was \"slob dpon\" in the novice ordination of Ze'u 'Dul 'dzin grags at sNar thang (ID:4411).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3384,
+      "label": "'dul ba 'dzin pa brtson 'grus dpal (6523) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6523/",
+        "label": "'dul ba 'dzin pa brtson 'grus dpal (6523)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: Appendix 3, 237. \"slob dpon\" in the novice ordination of Ze'u 'Dul 'dzin grags at sNar thang (ID:4411).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1375-12-31",
+  "end_date_from": "1261-01-01",
+  "end_date_sort": "1318-07-02",
+  "start_date_to": "1295-12-31",
+  "start_date_from": "1181-01-01",
+  "start_date_sort": "1238-07-02",
+  "comments": "",
+  "alternative_names": "'dul ba 'dzin pa btson 'grus dpal",
+  "external_links": "",
+  "review": false,
+  "start": "after 1181 before 1295",
+  "end": "after 1261 before 1375",
+  "name": "'dul ba 'dzin pa brtson 'grus dpal",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5125/",
+  "relations": [
+    {
+      "id": 1577,
+      "label": "dbu ma chen mo'i sgom khrid kyi gdams ngag (5125) has as an instance dbu ma chen mo'i bsgom khrid kyi gdam ngag (5124)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5125/",
+        "label": "dbu ma chen mo'i sgom khrid kyi gdams ngag (5125)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5124/",
+        "label": "dbu ma chen mo'i bsgom khrid kyi gdam ngag (5124)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 931,
+      "label": "bsod rdor ba  (4124) author of dbu ma chen mo'i sgom khrid kyi gdams ngag (5125)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4124/",
+        "label": "bsod rdor ba  (4124)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5125/",
+        "label": "dbu ma chen mo'i sgom khrid kyi gdams ngag (5125)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:5124) in [8H6M69W4], No. 18470: rin po che bsod rdor",
+      "tei_refs": "",
+      "support_notes": "Colophon of (ID:5124), fol. 35b3: bla ma'i gsung la brten ba rin po che bsod rdor gyis mdzad pa rdzogs_s+ho ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "At the end of the text in instance (ID:5124), a teaching lineage is provided from the Buddha to the author.\r\n\r\nThe work appears to be related to the dBu ma'i khrid (ID:4793) by mChims nam mkha' grags (ID:3977).",
+  "alternative_names": "dbu ma chen mo'i bsgom khrid kyi gdams ngag\r\ndbu ma chen mo'i bsgom khrid kyi gdam ngag\r\ndbu ma chen po'i stong nyid bsgom pa'i man ngag\r\ndbu ma chen mo'i sgo khrid kyi man ngag",
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "name": "dbu ma chen mo'i sgom khrid kyi gdams ngag",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}

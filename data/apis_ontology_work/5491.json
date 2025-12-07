@@ -1,0 +1,104 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5491/",
+  "relations": [
+    {
+      "id": 1744,
+      "label": "dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5491) has as an instance dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5490)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5491/",
+        "label": "dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5491)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5490/",
+        "label": "dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5490)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1177,
+      "label": "dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5491) commentary on abhidharmasamuccaya (3755)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5491/",
+        "label": "dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5491)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3755/",
+        "label": "abhidharmasamuccaya (3755)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1176,
+      "label": "sa bzang ma ti paN chen blo gros rgyal mtshan (4128) author of dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5491)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4128/",
+        "label": "sa bzang ma ti paN chen blo gros rgyal mtshan (4128)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5491/",
+        "label": "dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5491)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 528, No. 11482.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1376-12-31",
+  "start_date_from": "1304-01-01",
+  "start_date_sort": "1340-07-01",
+  "comments": "Listed in A khu ching Shes rab rgya mtsho's Tho yig ([5RXEUKD9]: 528, No. 11482: [sa bzang 'phags pa blo gros rgyal mtshan gyi] mngon pa kun btus kyi Tik+ka shes bya rab gsal).",
+  "alternative_names": "mngon pa kun btus kyi Tik+ka shes bya rab gsal",
+  "external_links": "",
+  "review": true,
+  "start": "after 1304 before 1376",
+  "name": "dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/17/"
+  ]
+}

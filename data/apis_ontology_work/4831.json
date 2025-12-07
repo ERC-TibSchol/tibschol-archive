@@ -1,0 +1,104 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4831/",
+  "relations": [
+    {
+      "id": 1448,
+      "label": "dbu ma 'jug pa'i dka' gnad (4831) has as an instance dbu ma 'jug pa'i dka' gnad (4830)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4831/",
+        "label": "dbu ma 'jug pa'i dka' gnad (4831)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4830/",
+        "label": "dbu ma 'jug pa'i dka' gnad (4830)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 778,
+      "label": "dbu ma 'jug pa'i dka' gnad (4831) commentary on madhyamak\u0101vat\u0101ra (3726)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4831/",
+        "label": "dbu ma 'jug pa'i dka' gnad (4831)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3726/",
+        "label": "madhyamak\u0101vat\u0101ra (3726)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 777,
+      "label": "skyel nag grags seng ge (4020) author of dbu ma 'jug pa'i dka' gnad (4831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4020/",
+        "label": "skyel nag grags seng ge (4020)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4831/",
+        "label": "dbu ma 'jug pa'i dka' gnad (4831)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex49042025-01-0215-52-17",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1355-12-31",
+  "start_date_from": "1210-01-01",
+  "start_date_sort": "1282-12-31",
+  "comments": "Composed as a memorandum (brjed byang).",
+  "alternative_names": "dbu ma 'jug pa'i dka' gnad grags pa seng ges brjed byang du mdzad pa",
+  "external_links": "",
+  "review": false,
+  "start": "after 1210 before 1355",
+  "name": "dbu ma 'jug pa'i dka' gnad",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}

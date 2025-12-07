@@ -1,0 +1,48 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6736/",
+  "relations": [
+    {
+      "id": 3885,
+      "label": "khams pa phyag dar ston pa (6736) author of brgyad stong pa dang rgyan gyi bshad pa'i zin bris (6737)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6736/",
+        "label": "khams pa phyag dar ston pa (6736)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6737/",
+        "label": "brgyad stong pa dang rgyan gyi bshad pa'i zin bris (6737)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 529, No. 11491 (jo bos dbus nas 'brom sogs la brgyad stong pa dang rgyan gyi bshad pa mdzad pa la khams pa phyag dar ston pas zin bris byas pa phar phyin khams lugs su grags pa).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": "1100-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1100-12-31",
+  "start_date_to": null,
+  "start_date_from": "1000-01-01",
+  "start_date_sort": "1000-01-01",
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "after 1000",
+  "end": "before 1100",
+  "name": "khams pa phyag dar ston pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}
