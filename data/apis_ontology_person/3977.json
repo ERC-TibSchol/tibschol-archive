@@ -1222,34 +1222,6 @@
       ]
     },
     {
-      "id": 755,
-      "label": "mchims nam mkha' grags (3977) author of dbu ma'i khrid (4793)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
-        "label": "mchims nam mkha' grags (3977)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4793/",
-        "label": "dbu ma'i khrid (4793)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 758,
       "label": "mchims nam mkha' grags (3977) author of mi g.yo ba dkar po'i bstod pa (4799)",
       "subj": {
@@ -1272,6 +1244,34 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 755,
+      "label": "mchims nam mkha' grags (3977) author of dbu ma'i khrid (4793)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4793/",
+        "label": "dbu ma'i khrid (4793)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex047022025-12-1016-57-45\r\nex047022025-12-1017-02-02",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -2107,10 +2107,10 @@
     },
     {
       "id": 2309,
-      "label": "skyel nag grags seng ge (4020) student of mchims nam mkha' grags (3977)",
+      "label": "skyel nag grags pa seng ge (4020) student of mchims nam mkha' grags (3977)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4020/",
-        "label": "skyel nag grags seng ge (4020)",
+        "label": "skyel nag grags pa seng ge (4020)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },

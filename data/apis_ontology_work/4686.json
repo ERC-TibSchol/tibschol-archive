@@ -3,16 +3,16 @@
   "relations": [
     {
       "id": 1380,
-      "label": "dbu ma'i de kho na nyid gtan la dbab pa (4686) has as an instance dbu ma'i de kho na nyid gtan la dbab pa (4685)",
+      "label": "dbu ma de kho na nyid rnam par dpyod pa (4686) has as an instance dbu ma de kho na nyid rnam par dpyod pa (4685)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4686/",
-        "label": "dbu ma'i de kho na nyid gtan la dbab pa (4686)",
+        "label": "dbu ma de kho na nyid rnam par dpyod pa (4686)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4685/",
-        "label": "dbu ma'i de kho na nyid gtan la dbab pa (4685)",
+        "label": "dbu ma de kho na nyid rnam par dpyod pa (4685)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -31,7 +31,7 @@
     },
     {
       "id": 695,
-      "label": "rgya dmar ba byang chub grags (3834) author of dbu ma'i de kho na nyid gtan la dbab pa (4686)",
+      "label": "rgya dmar ba byang chub grags (3834) author of dbu ma de kho na nyid rnam par dpyod pa (4686)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
         "label": "rgya dmar ba byang chub grags (3834)",
@@ -40,7 +40,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4686/",
-        "label": "dbu ma'i de kho na nyid gtan la dbab pa (4686)",
+        "label": "dbu ma de kho na nyid rnam par dpyod pa (4686)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -61,12 +61,12 @@
   "start_date_to": "1150-12-31",
   "start_date_from": "1100-01-01",
   "start_date_sort": "1125-07-02",
-  "comments": "",
-  "alternative_names": "dbu ma de kho na nyid rnam par spyod pa\r\ndbu ma de kho na nyid rnam par dpyod pa\r\nrgya dmar bas mdzad pa'i dbu ma'i de kho na nyid gtan la dbab pa",
+  "comments": "The text is being edited, translated and studied by Pascale Hugon and Kevin Vose ([RH4GCHQB]).\r\nIt is a Madhyamaka treatise articulated around the presentation of the two truths, which builds upon and discusses the views of earlier scholars, who are identified in interlinear notes in (ID:4685). They are, notably, rNgog Blo ldan shes rab (ID:3786), Gangs pa She'u (ID:3810), Khyung rin chen grags (ID:3809), as well as Me tig pa (ID:4207) and a yet unidentified \"dge bshes pa.\" See [VA4UYHER].",
+  "alternative_names": "dbu ma de kho na nyid rnam par spyod pa\r\ndbu ma'i de kho na nyid gtan la dbab pa\r\nrgya dmar bas mdzad pa'i dbu ma'i de kho na nyid gtan la dbab pa",
   "external_links": "https://www.oeaw.ac.at/ikga/forschung/tibetologie/materialien/the-dbu-ma-de-kho-na-nyid-of-rgya-dmar-ba-byang-chub-grags-12th-c/",
   "review": true,
   "start": "after 1100 before 1150",
-  "name": "dbu ma'i de kho na nyid gtan la dbab pa",
+  "name": "dbu ma de kho na nyid rnam par dpyod pa",
   "sde_dge_ref": null,
   "original_language": "Tibetan",
   "isExtant": true,
