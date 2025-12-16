@@ -1,18 +1,18 @@
 {
-  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4851/",
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7588/",
   "relations": [
     {
-      "id": 1868,
-      "label": "dbu ma'i man ngag (4851) has as an instance dbu ma'i man ngag (1) (5853)",
+      "id": 6229,
+      "label": "dbu ma tshig gsal gyi bsdus don (7588) has as an instance dbu ma tshig gsal gyi bsdus don (7255)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4851/",
-        "label": "dbu ma'i man ngag (4851)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7588/",
+        "label": "dbu ma tshig gsal gyi bsdus don (7588)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5853/",
-        "label": "dbu ma'i man ngag (1) (5853)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7255/",
+        "label": "dbu ma tshig gsal gyi bsdus don (7255)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -22,27 +22,27 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
     },
     {
-      "id": 1455,
-      "label": "dbu ma'i man ngag (4851) has as an instance dbu ma'i man ngag (2) (4850)",
+      "id": 6230,
+      "label": "dbu ma tshig gsal gyi bsdus don (7588) commentary on prasannapad\u0101 (3724)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4851/",
-        "label": "dbu ma'i man ngag (4851)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7588/",
+        "label": "dbu ma tshig gsal gyi bsdus don (7588)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4850/",
-        "label": "dbu ma'i man ngag (2) (4850)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3724/",
+        "label": "prasannapad\u0101 (3724)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -50,16 +50,16 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
     },
     {
-      "id": 787,
-      "label": "skyo ston smon lam tshul khrims (4052) author of dbu ma'i man ngag (4851)",
+      "id": 6228,
+      "label": "skyo ston smon lam tshul khrims (4052) author of dbu ma tshig gsal gyi bsdus don (7588)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4052/",
         "label": "skyo ston smon lam tshul khrims (4052)",
@@ -67,8 +67,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4851/",
-        "label": "dbu ma'i man ngag (4851)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7588/",
+        "label": "dbu ma tshig gsal gyi bsdus don (7588)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -78,7 +78,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "Author according to [8H6M69W4], No. 19643: skyo ston smon lam tshul khrims.",
+      "zotero_refs": "Author reported for instance (ID:7255) in [8H6M69W4], No. 15669: shAkya'i btsun pa smon lam tshul khrims",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -89,17 +89,16 @@
   "start_date_to": "1299-12-31",
   "start_date_from": "1229-01-01",
   "start_date_sort": "1264-07-01",
-  "comments": "Summary of the teachings of Ati\u015ba (ID:3745) with some citations.",
-  "alternative_names": "theg chen dbu ma'i gdams pa\r\nmkhas pa chen po dpal mar me mdzas ye shes kyis sde snod thams cad kyi don bsdus te bsgoM pa dbu ma'i man ngag",
+  "comments": "Possibly a topical outline of the Prasannapad\u0101 (ID:3724).",
+  "alternative_names": "",
   "external_links": "",
   "review": true,
   "start": "after 1229 before 1299",
-  "name": "dbu ma'i man ngag",
+  "name": "dbu ma tshig gsal gyi bsdus don",
   "sde_dge_ref": null,
   "original_language": "Tibetan",
   "isExtant": true,
   "subject_vocab": [
-    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/16/",
     "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
   ]
 }
