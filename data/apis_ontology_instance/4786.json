@@ -1,0 +1,112 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4786/",
+  "relations": [
+    {
+      "id": 1768,
+      "label": "dkon mchog nor bu (4788) scribe of tshad ma rnam nges kyi 'grel pa (4786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4788/",
+        "label": "dkon mchog nor bu (4788)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4786/",
+        "label": "tshad ma rnam nges kyi 'grel pa (4786)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex46052023-09-12-092",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1427,
+      "label": "tshad ma rnam nges kyi 'grel pa (4787) has as an instance tshad ma rnam nges kyi 'grel pa (4786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4787/",
+        "label": "tshad ma rnam nges kyi 'grel pa (4787)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4786/",
+        "label": "tshad ma rnam nges kyi 'grel pa (4786)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1769,
+      "label": "tshad ma rab bsal (4789) owner of tshad ma rnam nges kyi 'grel pa (4786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4789/",
+        "label": "tshad ma rab bsal (4789)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4786/",
+        "label": "tshad ma rnam nges kyi 'grel pa (4786)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex46052023-09-12-091",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "The last digit of the signature number (which is written on the top left corner of fol. 2a) is unclear. <<bKa\u02bc gdams gsung \u02bcbum phyogs sgrig thengs gnyis pa\u02bci dkar chag [Z5WBK2VV]>>: 68 reports \"phyi zha 12,\" but there is no corresponding item with this signature in the [8H6M69W4]. \r\nThe instance could corresponds, rather, to No. 16358 in the <<'Bras spungs dkar chag [8H6M69W4]>> with signature \"phyi zha 15\" and the reported title \"tshad ma rnam nges le'u gsum pa'i 'grel pa zhig,\" which corresponds to the colophon of the third chapter in this text (fol. 64a5).\r\n[8H6M69W4] reports 64 folios (which corresponds to the number on the last folio).",
+  "alternative_names": "tshad ma rnam nges le'u gsum pa'i 'grel ba (catalogue)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_1EB20C",
+  "review": true,
+  "start": null,
+  "name": "tshad ma rnam nges kyi 'grel pa",
+  "set_num": "Set 2",
+  "volume": "46",
+  "sb_text_number": "5",
+  "pp_kdsb": "405-520",
+  "num_folios": "58(/64)",
+  "signature_letter": "zha",
+  "signature_number": "15",
+  "drepung_number": "16358",
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "2_046_05",
+  "availability": "available",
+  "dimension": "61 x 9",
+  "item_description": "Script: dpe tshugs.\r\nNumber on the last folio: 64.\r\nMissing folios: 1, 11, 12, 16, 25, 49.\r\nAbundant use of abbreviations."
+}

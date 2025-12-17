@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5148/",
+  "relations": [
+    {
+      "id": 1822,
+      "label": "chos skyong dpal ldan (5835) owner of byang chub sems dpa'i spyod pa la 'jug pa'i rgyan (5148)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5835/",
+        "label": "chos skyong dpal ldan (5835)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5148/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rgyan (5148)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex66042023-09-091209",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1589,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rgyan (5149) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i rgyan (5148)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5149/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rgyan (5149)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5148/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rgyan (5148)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "bo d+hi sa t+wa tsar+* ya ba ta ra a lang ka ra",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD153536_1310ED",
+  "review": false,
+  "start": null,
+  "name": "byang chub sems dpa'i spyod pa la 'jug pa'i rgyan",
+  "set_num": "Set 3",
+  "volume": "66",
+  "sb_text_number": "4",
+  "pp_kdsb": "335-494",
+  "num_folios": "80",
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "3_066_04",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Script: Handwritten dbu can."
+}

@@ -1,0 +1,77 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6360/",
+  "relations": [
+    {
+      "id": 3925,
+      "label": "sangs rgyal 'od chen pa (6360) other relation to red mda' ba gzhon nu blo gros (6756)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6360/",
+        "label": "sangs rgyal 'od chen pa (6360)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
+        "label": "red mda' ba gzhon nu blo gros (6756)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 688, n. 7. Red mda' ba met 'Od chen pa during the time of bSod nams 'phel (ID:6299)'s tenure at gSang phu gling smad (ID:6158).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2968,
+      "label": "sangs rgyal 'od chen pa (6360) active at gsang phu gling stod (6172)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6360/",
+        "label": "sangs rgyal 'od chen pa (6360)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
+        "label": "gsang phu gling stod (6172)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": "1475-12-31",
+      "start_date_from": "1295-01-01",
+      "start_date_sort": "1385-07-01",
+      "zotero_refs": "[MPRU5QUC]: 212. Abbot of gSang phu ne'u thog monastery (21st abbot of upper college) for six years.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1295 before 1475",
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1475-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1475-12-31",
+  "start_date_to": null,
+  "start_date_from": "1275-01-01",
+  "start_date_sort": "1275-01-01",
+  "comments": "Fl. late 14th to early 15th c.",
+  "alternative_names": "sangs rgyal mdo chen pa\r\nsangs rgyas 'od chen pa",
+  "external_links": "",
+  "review": false,
+  "start": "after 1275",
+  "end": "before 1475",
+  "name": "sangs rgyal 'od chen pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

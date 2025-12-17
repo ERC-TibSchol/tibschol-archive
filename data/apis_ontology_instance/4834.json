@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4834/",
+  "relations": [
+    {
+      "id": 1450,
+      "label": "shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa legs par bshad pa skyes bu'i don grub (4835) has as an instance shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa legs par bshad pa skyes bu'i don grub (4834)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4835/",
+        "label": "shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa legs par bshad pa skyes bu'i don grub (4835)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4834/",
+        "label": "shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa legs par bshad pa skyes bu'i don grub (4834)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1770,
+      "label": "glan ston (4836) scribe of shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa legs par bshad pa skyes bu'i don grub (4834)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4836/",
+        "label": "glan ston (4836)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4834/",
+        "label": "shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa legs par bshad pa skyes bu'i don grub (4834)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50022023-09-125",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "[Z5WBK2VV]: 73 mistakenly reports 68 folios. The signature \"phyi tsha 131\" is not visible in the [UJDXNMGD] reproduction.",
+  "alternative_names": "gzhi lam 'bras gsum gyi rnam gzhag (cover page)\r\nshes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa legs par bshad pa skyes bu'i don grub (colophon)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_BD6C16",
+  "review": true,
+  "start": null,
+  "name": "shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa legs par bshad pa skyes bu'i don grub",
+  "set_num": "Set 2",
+  "volume": "50",
+  "sb_text_number": "2",
+  "pp_kdsb": "31-146",
+  "num_folios": "69",
+  "signature_letter": "tsha",
+  "signature_number": "131",
+  "drepung_number": "16041",
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "2_050_02",
+  "availability": "available",
+  "dimension": "70 x 10",
+  "item_description": "Script: 'bru tsha.\r\nMissing folios: 5-15."
+}

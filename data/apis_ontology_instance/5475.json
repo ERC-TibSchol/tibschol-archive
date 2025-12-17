@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5475/",
+  "relations": [
+    {
+      "id": 5352,
+      "label": "gha rung pa lha'i rgyal mtshan (4125) sponsor of theg pa chen po rgyud bla ma'i TIk+ka de nyid snang ba (5475)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4125/",
+        "label": "gha rung pa lha'i rgyal mtshan (4125)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5475/",
+        "label": "theg pa chen po rgyud bla ma'i TIk+ka de nyid snang ba (5475)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex113022025-02-2416-01-142",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1737,
+      "label": "theg pa chen po rgyud bla ma'i TIk+ka de nyid snang ba (5476) has as an instance theg pa chen po rgyud bla ma'i TIk+ka de nyid snang ba (5475)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5476/",
+        "label": "theg pa chen po rgyud bla ma'i TIk+ka de nyid snang ba (5476)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5475/",
+        "label": "theg pa chen po rgyud bla ma'i TIk+ka de nyid snang ba (5475)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "theg pa chen po rgyud bla ma'i Tik+ka de nyid snang ba (catalogue)",
+  "external_links": "https://purl.bdrc.io/resource/MW4PD3076_57C1B3",
+  "review": false,
+  "start": null,
+  "name": "theg pa chen po rgyud bla ma'i TIk+ka de nyid snang ba",
+  "set_num": "Set 4",
+  "volume": "113",
+  "sb_text_number": "2",
+  "pp_kdsb": "133-252",
+  "num_folios": "60",
+  "signature_letter": "tsha",
+  "signature_number": "117",
+  "drepung_number": "15994",
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "4_113_02",
+  "availability": "available",
+  "dimension": "64 x 9.5",
+  "item_description": "Script: dpe tshugs."
+}

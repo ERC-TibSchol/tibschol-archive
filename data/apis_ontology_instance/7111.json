@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7111/",
+  "relations": [
+    {
+      "id": 4953,
+      "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7113) has source shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7111)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7113/",
+        "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7113)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7111/",
+        "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7111)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4952,
+      "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7112) has as an instance shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7111)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7112/",
+        "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7112)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7111/",
+        "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7111)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "bcom ldan rigs pa'i ral gri'i gsung rtsom dkar chag",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_C728C1",
+  "review": false,
+  "start": null,
+  "name": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul",
+  "set_num": "Set 2",
+  "volume": "51",
+  "sb_text_number": "1",
+  "pp_kdsb": "37-51",
+  "num_folios": "8",
+  "signature_letter": "la",
+  "signature_number": "541",
+  "drepung_number": "19509",
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "2_051_01",
+  "availability": "available",
+  "dimension": null,
+  "item_description": ""
+}

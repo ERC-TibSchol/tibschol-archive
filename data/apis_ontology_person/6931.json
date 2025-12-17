@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6931/",
+  "relations": [
+    {
+      "id": 4384,
+      "label": "jo stan nag po dar tshul (6931) student of rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6931/",
+        "label": "jo stan nag po dar tshul (6931)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3941/",
+        "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 108 (jo stan nag po dar tshul gyis dgung lo drug cu la rab tu byung | klog bslabs nas 'dul ba sbyangs pas mkhas par gyur te | yar klung tsha rong du bshad pa'i slob ma sha mi |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4386,
+      "label": "sha mi smon lam tshul khrims (3979) student of jo stan nag po dar tshul (6931)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3979/",
+        "label": "sha mi smon lam tshul khrims (3979)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6931/",
+        "label": "jo stan nag po dar tshul (6931)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 108 (jo stan nag po dar tshul gyis dgung lo drug cu la rab tu byung | klog bslabs nas 'dul ba sbyangs pas mkhas par gyur te | yar klung tsha rong du bshad pa'i slob ma sha mi |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "One of the \"four pillars\" (ka ba bzhi) of rGya 'dul 'dzin (ID:3941).",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "jo stan nag po dar tshul",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

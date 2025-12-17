@@ -1,0 +1,112 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4853/",
+  "relations": [
+    {
+      "id": 1843,
+      "label": "rten 'brel lag len du dril ba (2) (4853) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4853/",
+        "label": "rten 'brel lag len du dril ba (2) (4853)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50082023-09-131",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1891,
+      "label": "rten 'brel lag len du dril ba (2) (4853) has source rten 'brel lag len du dril ba (1) (5861)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4853/",
+        "label": "rten 'brel lag len du dril ba (2) (4853)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5861/",
+        "label": "rten 'brel lag len du dril ba (1) (5861)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50082023-09-131",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1456,
+      "label": "rten 'brel lag len du dril ba (4854) has as an instance rten 'brel lag len du dril ba (2) (4853)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4854/",
+        "label": "rten 'brel lag len du dril ba (4854)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4853/",
+        "label": "rten 'brel lag len du dril ba (2) (4853)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_A95B3D",
+  "review": false,
+  "start": null,
+  "name": "rten 'brel lag len du dril ba (2)",
+  "set_num": "Set 2",
+  "volume": "50",
+  "sb_text_number": "8",
+  "pp_kdsb": "193-234",
+  "num_folios": "21",
+  "signature_letter": "la",
+  "signature_number": "550",
+  "drepung_number": "19647",
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "2_050_08",
+  "availability": "available",
+  "dimension": "35 x 6",
+  "item_description": "Script: 'bru tsha."
+}

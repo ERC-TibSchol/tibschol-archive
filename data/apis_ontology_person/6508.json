@@ -1,0 +1,107 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6508/",
+  "relations": [
+    {
+      "id": 3330,
+      "label": "bran ston mtha' bral (6508) active at man lung (6509)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6508/",
+        "label": "bran ston mtha' bral (6508)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6509/",
+        "label": "man lung (6509)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 549.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4706,
+      "label": "bran ston mtha' bral (6508) student of rngog mdo sde (6510)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6508/",
+        "label": "bran ston mtha' bral (6508)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6510/",
+        "label": "rngog mdo sde (6510)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 550.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3328,
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) student of bran ston mtha' bral (6508)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6508/",
+        "label": "bran ston mtha' bral (6508)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 545, based on [Q3KCZX7B]: 116.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "1192-01-01",
+  "end_date_sort": "1192-01-01",
+  "start_date_to": "1175-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1175-12-31",
+  "comments": "First major master at Nyang Man lung at sTag rtse (ID:6509), known as a \"master of sngags and mtshan nyid\" ([647FFPZR]: 549).",
+  "alternative_names": "dran ston mtha' bral",
+  "external_links": "https://purl.bdrc.io/resource/P7250",
+  "review": false,
+  "start": "before 1175",
+  "end": "after 1192",
+  "name": "bran ston mtha' bral",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

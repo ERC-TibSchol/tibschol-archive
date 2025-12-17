@@ -1,0 +1,74 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6778/",
+  "relations": [
+    {
+      "id": 3997,
+      "label": "khu be grwa tshang (6778) located within gsang phu gling stod (6172)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6778/",
+        "label": "khu be grwa tshang (6778)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
+        "label": "gsang phu gling stod (6172)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CKLUC29Y]: 19.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5423,
+      "label": "blo gros brtan pa (7083) active at khu be grwa tshang (6778)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7083/",
+        "label": "blo gros brtan pa (7083)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6778/",
+        "label": "khu be grwa tshang (6778)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[E9XCQDGQ]: 128 (dang por gsang phu khu spe grwa tshang gi 'chad nyan mdzad pa | chags sdang 'phel ba'i dbang gis bzhugs ma spro bar | yar stod | e dwags sogs su bya bral 'chad nyan 'phel bar mdzad).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "latitude": null,
+  "longitude": null,
+  "feature_code": "",
+  "comments": "Sa skya college.",
+  "alternative_names": "stag khu sbe\r\nkhu be ba\r\nkhu spe",
+  "external_links": "",
+  "review": false,
+  "label": "khu be grwa tshang",
+  "start": null
+}

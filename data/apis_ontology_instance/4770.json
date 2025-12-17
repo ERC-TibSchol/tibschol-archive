@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4770/",
+  "relations": [
+    {
+      "id": 1930,
+      "label": "gzhan gyi phyogs thams cad las rnam par rgyal ba (2) (4770) has source gzhan gyi phyogs thams cad las rnam par rgyal ba (1) (5867)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4770/",
+        "label": "gzhan gyi phyogs thams cad las rnam par rgyal ba (2) (4770)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5867/",
+        "label": "gzhan gyi phyogs thams cad las rnam par rgyal ba (1) (5867)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1419,
+      "label": "gzhan gyi phyogs thams cad las rnam par rgyal ba (4771) has as an instance gzhan gyi phyogs thams cad las rnam par rgyal ba (2) (4770)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4771/",
+        "label": "gzhan gyi phyogs thams cad las rnam par rgyal ba (4771)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4770/",
+        "label": "gzhan gyi phyogs thams cad las rnam par rgyal ba (2) (4770)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "The <<'Bras spungs dkar chag [8H6M69W4]>> reports the signature as \"phyi zha 15\" and 777 folios (probably a typo for 77, the number on the last folio). [6TNNKSQ3]: 107 reports the signature \"phyi zha 14.\" On the cover page in the reproduction in [UJDXNMGD], in the center one can only read \"phy[i]\" and, below, the number \"222\" or \"223.\"\r\nThe text contains readings that differ from the text in (ID:5593).",
+  "alternative_names": "tshad ma sde bdun gyi don phyogs gcig tu bsdus pa gzhan gyi phyogs thams cad las rnam par rgyal ba (incipit)\r\nrigs pa'i de nyid gsal ba (conclusive verse)\r\nrigs pa'i de nyid gsal ba (colophon)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_31D9FB",
+  "review": true,
+  "start": null,
+  "name": "gzhan gyi phyogs thams cad las rnam par rgyal ba (2)",
+  "set_num": "Set 2",
+  "volume": "45",
+  "sb_text_number": "1",
+  "pp_kdsb": "11-161",
+  "num_folios": "76",
+  "signature_letter": "zha",
+  "signature_number": "15",
+  "drepung_number": "16362",
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "2_045_01",
+  "availability": "available",
+  "dimension": "66 x 12",
+  "item_description": "Script: dpe tshugs.\r\nFolio number on last folio: 77. \r\nFolios 58 and 59 occur on the same page."
+}

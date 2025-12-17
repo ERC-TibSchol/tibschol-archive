@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6448/",
+  "relations": [
+    {
+      "id": 3142,
+      "label": "bsod nams rin chen (2) (6448) active at gnas rnying (4341)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6448/",
+        "label": "bsod nams rin chen (2) (6448)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4341/",
+        "label": "gnas rnying (4341)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 99-100, n. 20, based on [Y2ZN5C6X]: 16. Abbot for two years, after dBang phyug rin chen (ID:6440) and before Zang zang Padma rin chen (ID:6439).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1172",
+      "end": "after 1172",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3143,
+      "label": "bsod nams rin chen (2) (6448) student of dbang phyug rin chen (3) (6440)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6448/",
+        "label": "bsod nams rin chen (2) (6448)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6440/",
+        "label": "dbang phyug rin chen (3) (6440)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 99-100, n. 20, based on [Y2ZN5C6X]: 16. Topic: Abhidharma, Perfection of wisdom, epistemology.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "Died at 44 ([4LDAV8UH]: 99-100, n. 20, based on [Y2ZN5C6X]: 16).",
+  "alternative_names": "slob dpon bsod nams rin chen",
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "bsod nams rin chen (2)",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

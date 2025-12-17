@@ -1,0 +1,77 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7166/",
+  "relations": [
+    {
+      "id": 5343,
+      "label": "shes rab rgyal ba (7166) quotes with name khyung rin chen grags (3809)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7166/",
+        "label": "shes rab rgyal ba (7166)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3HXACZSD].",
+      "tei_refs": "",
+      "support_notes": "In work (ID:7165).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5060,
+      "label": "shes rab rgyal ba (7166) author of rigs pa\u2019i thigs pa\u2019i tshig don gsal bar byed pa (7165)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7166/",
+        "label": "shes rab rgyal ba (7166)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7165/",
+        "label": "rigs pa\u2019i thigs pa\u2019i tshig don gsal bar byed pa (7165)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3HXACZSD]: chap. 5",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": "1200-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1200-12-31",
+  "start_date_to": null,
+  "start_date_from": "1050-01-01",
+  "start_date_sort": "1050-01-01",
+  "comments": "The author of an early Tibetan indigenous commentary on the Ny\u0101yabindu (ID: 7165), whose first chapter is preserved in Tangut translation. The author's name appears only in Tangut in the colophon as \"\u0179j\u0268r \u0263wie.\" Because the first word, \u017aj\u0268r, means \"insight\" and the second, \"\u0263wie,\" means \"victory,\" the name can possibly be reconstructed as Shes rab rgyal ba. \r\nMany features of the commentary, such as the hermeneutic tools utilized and the persons cited in there, indicate the author was part of the intellectual tradition stemming from rNgog Blo ldan shes rab (ID:3786). \r\nThe author quotes from early followers of rNgog Lo, such as Khyung Rin chen grags (ID:3809). However, in the extant part of the commentary, we do not see him quoting from Phya pa (ID:3831) or anyone after him. This suggests he was likely a contemporary of Phya pa. \r\nAlso, a certain \"Sher rgyal\" documented in the Red Annals fits with \u0179j\u0268r \u0263wie's intellectual and biographical profiles. Hence, they could be the same person. \r\n\r\n For details, see [3HXACZSD]: 208\u2013216.",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "after 1050",
+  "end": "before 1200",
+  "name": "shes rab rgyal ba",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

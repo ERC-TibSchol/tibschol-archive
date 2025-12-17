@@ -1,0 +1,56 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5280/",
+  "relations": [
+    {
+      "id": 1648,
+      "label": "chos mngon pa mdzod kyi rnam bshad slob ma la phan pa (5281) has as an instance chos mngon pa mdzod kyi rnam bshad slob ma la phan pa (5280)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5281/",
+        "label": "chos mngon pa mdzod kyi rnam bshad slob ma la phan pa (5281)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5280/",
+        "label": "chos mngon pa mdzod kyi rnam bshad slob ma la phan pa (5280)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "Vol. 86 and vol. 120 of the [ZZVAXS4X] contain the same images. In vol. 120, empty pages have been inserted in place of the missing fol. 49 and fol. 83, but not in vol. 86.",
+  "alternative_names": "chos mngon pa mdzod kyi rnaM par bshad pa slob ma la phan pa (incipit)\r\nchos mngon pa'i mdzod kyi rnam par bshad pa slob ma la phan pa (colophon)\r\nchos mngon pa mdzod gyi rnam par bshad pa slob ma la phan pa zhes bya ba'i 'grel pa (cover page)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD153536_96EFA7\r\nhttps://purl.bdrc.io/resource/MW4PD3076_EA4381",
+  "review": true,
+  "start": null,
+  "name": "chos mngon pa mdzod kyi rnam bshad slob ma la phan pa",
+  "set_num": "Set 3",
+  "volume": "86",
+  "sb_text_number": "1",
+  "pp_kdsb": "9-245",
+  "num_folios": "121",
+  "signature_letter": "dza",
+  "signature_number": "1 (342)",
+  "drepung_number": "16063",
+  "provenance": "",
+  "zotero_ref": "XL5A3G5J",
+  "tibschol_ref": "3_086_01\r\n4_120_02",
+  "availability": "available",
+  "dimension": "64.2 x 9.1",
+  "item_description": "Script: dpe tshugs.\r\nMissing folios: fol. 49 and fol. 83.\r\nOn the cover page, the number 342 is written above the title to the left of the signature phyi dza 1."
+}

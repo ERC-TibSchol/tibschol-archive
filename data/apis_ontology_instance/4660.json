@@ -1,0 +1,112 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4660/",
+  "relations": [
+    {
+      "id": 2016,
+      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi rnam par bshad pa nges don rab gsal snang ba (1) (4660) written at tshal yang dgon (5744)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4660/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi rnam par bshad pa nges don rab gsal snang ba (1) (4660)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5744/",
+        "label": "tshal yang dgon (5744)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex2702_2024-09-1114-42-583",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1369,
+      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi rnam bshad nges don rab gsal snang ba (4661) has as an instance theg pa chen po rgyud bla ma'i bstan bcos kyi rnam par bshad pa nges don rab gsal snang ba (1) (4660)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4661/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi rnam bshad nges don rab gsal snang ba (4661)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4660/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi rnam par bshad pa nges don rab gsal snang ba (1) (4660)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4215,
+      "label": "seng ge (6834) scribe of theg pa chen po rgyud bla ma'i bstan bcos kyi rnam par bshad pa nges don rab gsal snang ba (1) (4660)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6834/",
+        "label": "seng ge (6834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4660/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi rnam par bshad pa nges don rab gsal snang ba (1) (4660)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "\"seng ge\" could be the scribe of the first written copy rather than that of this instance, as his name is mentioned along with the place of composition of the work (dpal sa skya'i chos gwa chen po), whereas another place of scribing (dpal ldan yang dgon) is given after the lineage.",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "Incomplete manuscript. 208 folios are extant (number on the last folio: 217) and the text stops abruptly.\r\nIt is unclear whether this manuscript corresponds to either No. 15939 or No. 15940 [8H6M69W4], with this title and signature.\r\n[8H6M69W4] reports 142 folios for No. 15940 (author: blo gros rgyal mtshan; 45 x 7.6 cm) and 117 folios for No. 15939 (author: paNDi ta 'jam dbyangs blo gros kyis; 44 x 9 cm.).\r\nThe latter is more likely as this is the name of the author found in the other instance (ID:5488).",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_2A5E71",
+  "review": true,
+  "start": null,
+  "name": "theg pa chen po rgyud bla ma'i bstan bcos kyi rnam par bshad pa nges don rab gsal snang ba (1)",
+  "set_num": "Set 1",
+  "volume": "27",
+  "sb_text_number": "2",
+  "pp_kdsb": "211-624",
+  "num_folios": "217",
+  "signature_letter": "tsha",
+  "signature_number": "100",
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "1_027_02",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Script: dpe tshugs."
+}

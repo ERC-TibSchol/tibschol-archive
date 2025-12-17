@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4615/",
+  "relations": [
+    {
+      "id": 1252,
+      "label": "nyi ma rgyal mtshan (5626) owner of dpal dus kyi 'khor lo'i sgrub thabs rnal 'byor bcu gnyis pa (4615)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5626/",
+        "label": "nyi ma rgyal mtshan (5626)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4615/",
+        "label": "dpal dus kyi 'khor lo'i sgrub thabs rnal 'byor bcu gnyis pa (4615)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex19112023-09-15-125912",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1347,
+      "label": "dpal dus kyi 'khor lo'i sgrub thabs rnal 'byor bcu gnyis pa (4616) has as an instance dpal dus kyi 'khor lo'i sgrub thabs rnal 'byor bcu gnyis pa (4615)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4616/",
+        "label": "dpal dus kyi 'khor lo'i sgrub thabs rnal 'byor bcu gnyis pa (4616)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4615/",
+        "label": "dpal dus kyi 'khor lo'i sgrub thabs rnal 'byor bcu gnyis pa (4615)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "dpal dus kyi 'khor lo'i sgrub thabs rnal 'byor bcu gnyis pa (cover page, colophon)\r\ndpal ldan dus 'khor bde stong gnyis med kyi bsgrub thabs mdor bsdus rnal 'byor bcu gnyis pa (closing verse)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_E47895\r\nhttps://purl.bdrc.io/resource/MW3PD287_1C57FC",
+  "review": false,
+  "start": null,
+  "name": "dpal dus kyi 'khor lo'i sgrub thabs rnal 'byor bcu gnyis pa",
+  "set_num": "Set 1",
+  "volume": "19",
+  "sb_text_number": "11",
+  "pp_kdsb": "655-685",
+  "num_folios": "16",
+  "signature_letter": "ka",
+  "signature_number": "6",
+  "drepung_number": "27",
+  "provenance": "",
+  "zotero_ref": "A8BUGI2P",
+  "tibschol_ref": "1_019_11",
+  "availability": "available",
+  "dimension": "36 x 8",
+  "item_description": "Script: 'bru tsha"
+}

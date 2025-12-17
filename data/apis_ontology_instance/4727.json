@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4727/",
+  "relations": [
+    {
+      "id": 1400,
+      "label": "'dul ba mdo'i rnam bshad mdo nyi ma'i rgyan (4728) has as an instance 'dul ba mdo'i rnam bshad mdo'i nyi ma'i rgyan (4727)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4728/",
+        "label": "'dul ba mdo'i rnam bshad mdo nyi ma'i rgyan (4728)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4727/",
+        "label": "'dul ba mdo'i rnam bshad mdo'i nyi ma'i rgyan (4727)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1766,
+      "label": "blo gros seng ge (2) (4729) scribe of 'dul ba mdo'i rnam bshad mdo'i nyi ma'i rgyan (4727)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4729/",
+        "label": "blo gros seng ge (2) (4729)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4727/",
+        "label": "'dul ba mdo'i rnam bshad mdo'i nyi ma'i rgyan (4727)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex37012023-09-11-145230",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "'dul ba mdo'i rnam bshad mdo'i nyi ma'i rgyan (colophon)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_E68230",
+  "review": false,
+  "start": null,
+  "name": "'dul ba mdo'i rnam bshad mdo'i nyi ma'i rgyan",
+  "set_num": "Set 2",
+  "volume": "37",
+  "sb_text_number": "1",
+  "pp_kdsb": "11-457",
+  "num_folios": "225",
+  "signature_letter": "wa",
+  "signature_number": "15",
+  "drepung_number": "16188",
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "2_037_01",
+  "availability": "available",
+  "dimension": "57 x 9.2",
+  "item_description": "Script: dpe tshugs."
+}

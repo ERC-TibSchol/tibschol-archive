@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5078/",
+  "relations": [
+    {
+      "id": 1834,
+      "label": "skyo ston smon lam tshul khrims kyi gsan yig (4863) has as an instance skyo ston smon lam tshul khrims kyi gsan yig (5078)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4863/",
+        "label": "skyo ston smon lam tshul khrims kyi gsan yig (4863)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5078/",
+        "label": "skyo ston smon lam tshul khrims kyi gsan yig (5078)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 905,
+      "label": "rtsed pa bsod nams blo gros (4864) owner of skyo ston smon lam tshul khrims kyi gsan yig (5078)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4864/",
+        "label": "rtsed pa bsod nams blo gros (4864)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5078/",
+        "label": "skyo ston smon lam tshul khrims kyi gsan yig (5078)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50122024-09-1712-56-13",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "Same manuscript in 2_050_12, pp. 253-280.\r\nNo corresponding entry could be located in [8H6M69W4].",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD153536_5F274A\r\nhttps://purl.bdrc.io/resource/MW1PD89084_8693B4",
+  "review": false,
+  "start": null,
+  "name": "skyo ston smon lam tshul khrims kyi gsan yig",
+  "set_num": "Set 3",
+  "volume": "61",
+  "sb_text_number": "1",
+  "pp_kdsb": "7-34",
+  "num_folios": "14",
+  "signature_letter": "ma",
+  "signature_number": "927",
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "2_050_12\r\n3_061_01",
+  "availability": "available",
+  "dimension": null,
+  "item_description": ""
+}
