@@ -1,0 +1,48 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7065/",
+  "relations": [
+    {
+      "id": 4823,
+      "label": "rgyal tshab dar ma rin chen (6006) author of rgyal tshab chos rjes rje'i drung du gsan pa'i tshad ma'i brjed byang chen mo (7065)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6006/",
+        "label": "rgyal tshab dar ma rin chen (6006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7065/",
+        "label": "rgyal tshab chos rjes rje'i drung du gsan pa'i tshad ma'i brjed byang chen mo (7065)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "According to its colophon, a memorandum based on oral teachings given by Tsong kha pa (ID: 5636) ([83QKLSCM]: 663).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1432-12-31",
+  "start_date_from": "1374-01-01",
+  "start_date_sort": "1403-07-03",
+  "comments": "According to its colophon, a memorandum based on oral teachings given by Tsong kha pa (ID: 5636) ([83QKLSCM]: 663).",
+  "alternative_names": "tshad ma'i brjed byang chen mo",
+  "external_links": "https://purl.bdrc.io/resource/WA0XLF4889633F2F0",
+  "review": false,
+  "start": "after 1374 before 1432",
+  "name": "rgyal tshab chos rjes rje'i drung du gsan pa'i tshad ma'i brjed byang chen mo",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

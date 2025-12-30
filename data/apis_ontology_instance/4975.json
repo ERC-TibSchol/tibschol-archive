@@ -1,0 +1,56 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4975/",
+  "relations": [
+    {
+      "id": 1509,
+      "label": "sdom gsum 'od kyi phreng ba rgyan gyi me tog (4976) has as an instance sdom gsum 'od kyi phreng ba rgyan gyi me tog (4975)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4976/",
+        "label": "sdom gsum 'od kyi phreng ba rgyan gyi me tog (4976)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4975/",
+        "label": "sdom gsum 'od kyi phreng ba rgyan gyi me tog (4975)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "The identification with No. 19278 in [8H6M69W4] is tentative, as the catalogue reports 5 folios for that item.",
+  "alternative_names": "sdom gsum 'od kyi phreng ba rgyan gyi me tog (cover page)\r\npaN chen bi g+hU ti'i sdom gsum 'od kyi phreng ba' rgyan gyi me tog (colophon)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_85F279",
+  "review": true,
+  "start": null,
+  "name": "sdom gsum 'od kyi phreng ba rgyan gyi me tog",
+  "set_num": "Set 2",
+  "volume": "55",
+  "sb_text_number": "15",
+  "pp_kdsb": "489-503",
+  "num_folios": "8",
+  "signature_letter": "la",
+  "signature_number": "501",
+  "drepung_number": "19278",
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "2_055_15",
+  "availability": "available",
+  "dimension": "42.7 x 6.5",
+  "item_description": "Proofread once (1 zhus dag)."
+}

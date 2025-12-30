@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6185/",
+  "relations": [
+    {
+      "id": 2590,
+      "label": "tshad ma shes rab sgron ma (2) (6185) has source tshad ma shes rab sgron ma (1) (5291)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6185/",
+        "label": "tshad ma shes rab sgron ma (2) (6185)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5291/",
+        "label": "tshad ma shes rab sgron ma (1) (5291)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2589,
+      "label": "tshad ma shes rab sgron ma (5292) has as an instance tshad ma shes rab sgron ma (2) (6185)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5292/",
+        "label": "tshad ma shes rab sgron ma (5292)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6185/",
+        "label": "tshad ma shes rab sgron ma (2) (6185)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "2004-12-31",
+  "start_date_from": "2004-01-01",
+  "start_date_sort": "2004-07-01",
+  "comments": "Critical edition by Pascale Hugon, in dbu can, based on the single available manuscript (ID:5291), with an introduction.",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "2004",
+  "name": "tshad ma shes rab sgron ma (2)",
+  "set_num": null,
+  "volume": null,
+  "sb_text_number": "",
+  "pp_kdsb": null,
+  "num_folios": null,
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "[DIPDNQZU]",
+  "tibschol_ref": "",
+  "availability": "available",
+  "dimension": null,
+  "item_description": ""
+}

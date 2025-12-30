@@ -1,0 +1,48 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6877/",
+  "relations": [
+    {
+      "id": 4308,
+      "label": "rong ston shes bya kun rig (6005) author of rnam bshad mdzad pa'i gzhung lugs bzhi bcu (6877)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6877/",
+        "label": "rnam bshad mdzad pa'i gzhung lugs bzhi bcu (6877)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 530, No. 11528",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1244-12-31",
+  "start_date_from": "1176-01-01",
+  "start_date_sort": "1210-07-02",
+  "comments": "Listed in A khu ching Shes rab rgya mtsho's Tho yig ([5RXEUKD9]: 530, No. 11528: rnam bshad mdzad pa'i gzhung lugs bzhi bcu zer te ji ltar yang phar phyin gyi rnam bshad).",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "after 1176 before 1244",
+  "name": "rnam bshad mdzad pa'i gzhung lugs bzhi bcu",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}

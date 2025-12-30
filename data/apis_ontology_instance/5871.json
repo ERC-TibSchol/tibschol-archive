@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5871/",
+  "relations": [
+    {
+      "id": 2316,
+      "label": "thang pa bla brang pa (6036) owner of phar phyin chu tig (5871)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6036/",
+        "label": "thang pa bla brang pa (6036)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5871/",
+        "label": "phar phyin chu tig (5871)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "exX202024-09-1811-03-222",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1940,
+      "label": "Tik chen lung don rnam gzigs (5870) has as an instance phar phyin chu tig (5871)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5870/",
+        "label": "Tik chen lung don rnam gzigs (5870)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5871/",
+        "label": "phar phyin chu tig (5871)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/MW3CN18514",
+  "review": false,
+  "start": null,
+  "name": "phar phyin chu tig",
+  "set_num": null,
+  "volume": null,
+  "sb_text_number": "",
+  "pp_kdsb": null,
+  "num_folios": "208",
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "X_020",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Volume \"pa\".\r\nLemmata written in red ink with vowels in black.\r\nSome corrections in dbu can and dbu med.\r\nProofread."
+}
