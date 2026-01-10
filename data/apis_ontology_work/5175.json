@@ -3,7 +3,7 @@
   "relations": [
     {
       "id": 1602,
-      "label": "gnyis su med pa'i shes rab kyi pha rol tu phyin pa'i gdams pa don brgyad du bsdus nas rgyas par bshad pa (5175) has as an instance gnyis su med pa'i shes rab kyi pha rol tu phyin pa'i gdams pa don brgyad du bsdus nas rgyas par bshad pa jo bo rje'i gdams pa zhes pa (5174)",
+      "label": "gnyis su med pa'i shes rab kyi pha rol tu phyin pa'i gdams pa don brgyad du bsdus nas rgyas par bshad pa (5175) has as an instance shes rab kyi pha rol du phyin pa gnyis su med pa'i don brgyad du bstan pa'i gdams pa (5174)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5175/",
         "label": "gnyis su med pa'i shes rab kyi pha rol tu phyin pa'i gdams pa don brgyad du bsdus nas rgyas par bshad pa (5175)",
@@ -12,7 +12,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5174/",
-        "label": "gnyis su med pa'i shes rab kyi pha rol tu phyin pa'i gdams pa don brgyad du bsdus nas rgyas par bshad pa jo bo rje'i gdams pa zhes pa (5174)",
+        "label": "shes rab kyi pha rol du phyin pa gnyis su med pa'i don brgyad du bstan pa'i gdams pa (5174)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -25,6 +25,62 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6237,
+      "label": "gnyis su med pa'i shes rab kyi pha rol tu phyin pa'i gdams pa don brgyad du bsdus nas rgyas par bshad pa (5175) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5175/",
+        "label": "gnyis su med pa'i shes rab kyi pha rol tu phyin pa'i gdams pa don brgyad du bsdus nas rgyas par bshad pa (5175)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
+        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6238,
+      "label": "gnyis su med pa'i shes rab kyi pha rol tu phyin pa'i gdams pa don brgyad du bsdus nas rgyas par bshad pa (5175) records the teaching of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5175/",
+        "label": "gnyis su med pa'i shes rab kyi pha rol tu phyin pa'i gdams pa don brgyad du bsdus nas rgyas par bshad pa (5175)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -61,8 +117,8 @@
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "comments": "",
-  "alternative_names": "jo bo rje'i gdams pa",
+  "comments": "The title suggests a report of Ati\u015ba's (ID:3745) teaching on the eight topics of the Abhisamay\u0101la\u1e43k\u0101ra (ID:3706).\r\nIn (ID:5174), the portion explaining the eight topics covers fol. 37a1-61b4, ending with \"rdzogs so\" and is followed, up to 62b4, by a  summarized explanation (don brgyad du bstan pa'i gdam ngag la spyir bsdus don gyi tshul du rnam par bshad pa) which starts with \"da ni\" and ends with \"jo bo rje'i gdams pa rdzogs s+h+hyo.\"\r\n\r\nThe contents of the first third of the text is more tied to Madhyamaka than Perfection of wisdom, and includes digressions about the perspectives of the \"hearers\" (nyan thos), \"idealists\" (sems tsam), and Madhyamaka (dbu ma) and a refutation of idealism. The author uses tools and vocabulary of epistemology (e.g., gnod pa'i tshad ma, lhan cig mi gnas pa'i 'gal ba), but refutes perception and inference being valid cognitions (fol. 42). \r\nNew sections start with the expression \"da ni.\"\r\n\r\nThe views of other scholars, who are not named, are mentioned about 10 times (often with the expression \"kha cig dag di ltar sems ste).",
+  "alternative_names": "jo bo rje'i gdams pa\r\ngnyis med shes rab pha rol du phyin pa zab mo lam gyi gdams pa",
   "external_links": "",
   "review": false,
   "start": null,
