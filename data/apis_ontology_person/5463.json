@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
   "relations": [
     {
+      "id": 6239,
+      "label": "lho pa kun mkhyen rin chen dpal (5463) author of 'khon dkon mchog rgyal po sogs sa skya'i bla rabs kyi rnam thar (7589)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
+        "label": "lho pa kun mkhyen rin chen dpal (5463)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7589/",
+        "label": "'khon dkon mchog rgyal po sogs sa skya'i bla rabs kyi rnam thar (7589)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8H6M69W4], No. 17494: 'khon dkon mchog rgyal po sogs sa skya'i bla rabs kyi rnam thar; btsun pa rin chen dpal gyis",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 6100,
       "label": "lho pa kun mkhyen rin chen dpal (5463) student of phywa pa chos kyi seng ge (3831)",
       "subj": {
@@ -79,9 +107,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Conclusive verses: gzhung 'di btsun pa rin chen dpal gyis phye ||\r\nColophon: byang chub sems pa'i spyod pa la 'jug pa'i gsal byed btsun pa rin chen dpal gyis sbyar pa'o ||",
       "confidence": "Positive",
       "start": null,
       "end": null
