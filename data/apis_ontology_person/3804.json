@@ -1,0 +1,163 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3804/",
+  "relations": [
+    {
+      "id": 5590,
+      "label": "sumatik\u012brti (3804) active at snye thang (6700)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3804/",
+        "label": "sumatik\u012brti (3804)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6700/",
+        "label": "snye thang (6700)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q47PVAE6]: 42.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5606,
+      "label": "sumatik\u012brti (3804) translator of ny\u0101yabindu\u1e6d\u012bk\u0101 (3779)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3804/",
+        "label": "sumatik\u012brti (3804)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3779/",
+        "label": "ny\u0101yabindu\u1e6d\u012bk\u0101 (3779)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q47PVAE6]: 66. Revision, with rNgog Blo ldan shes rab (ID:3786).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5572,
+      "label": "rngog blo ldan shes rab (3786) other relation to sumatik\u012brti (3804)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3804/",
+        "label": "sumatik\u012brti (3804)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[LNWGLM8T]: 181. Translated eight texts together.\r\n[Q47PVAE6]: 42. Collaborated on the revision of the Pram\u0101\u1e47av\u0101rttik\u0101la\u1e43k\u0101ra (ID:5588) and translation of vajray\u0101na works.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 49,
+      "label": "rngog blo ldan shes rab (3786) student of sumatik\u012brti (3804)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3804/",
+        "label": "sumatik\u012brti (3804)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5NY3E6YU]: 67 (paN+Di ta san dza na dang | 'bum phrag gsum pa dang | pa ra he ta dang | ma hA dznya na dang | su ma ti kIrti dang | skal ldan rgyal po la sogs pa mkhas shing grub pa brnyes pa du ma bsten te).\r\n[BAQ9MH4T]: 195. Studies of religious teachings after returning to Tibet.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1092",
+      "end": "after 1092",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5573,
+      "label": "ras chung pa rdo rje grags pa (6209) student of sumatik\u012brti (3804)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6209/",
+        "label": "ras chung pa rdo rje grags pa (6209)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3804/",
+        "label": "sumatik\u012brti (3804)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[LNWGLM8T]: 181.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": "1099-12-31",
+  "start_date_from": "1000-01-01",
+  "start_date_sort": "1049-12-31",
+  "comments": "",
+  "alternative_names": "su ma ti kIr ti",
+  "external_links": "https://purl.bdrc.io/resource/P3822",
+  "review": true,
+  "start": "after 1000 before 1099",
+  "end": null,
+  "name": "sumatik\u012brti",
+  "gender": "male",
+  "nationality": "Indic"
+}

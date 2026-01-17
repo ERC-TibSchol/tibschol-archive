@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6350/",
+  "relations": [
+    {
+      "id": 2955,
+      "label": "nyang stod pa ye shes mgon po (6350) active at gsang phu gling stod (6172)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6350/",
+        "label": "nyang stod pa ye shes mgon po (6350)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
+        "label": "gsang phu gling stod (6172)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[7FZ3B926]: 114. Abbot of gSang phu ne'u thog's monastery (upper college) for seven years.\r\n[MPRU5QUC]: 211. Abbot of gSang phu ne'u thog monastery (8th abbot of upper college) for seven years.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5868,
+      "label": "nyang stod pa ye shes mgon po (6350) active at nyang stod (5541)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6350/",
+        "label": "nyang stod pa ye shes mgon po (6350)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5541/",
+        "label": "nyang stod (5541)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Relation to Nyang stod unclear.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1350-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1350-12-31",
+  "start_date_to": null,
+  "start_date_from": "1150-01-01",
+  "start_date_sort": "1150-01-01",
+  "comments": "Fl. late 13th c.",
+  "alternative_names": "nyan stod pa ye shes mgon po",
+  "external_links": "",
+  "review": false,
+  "start": "after 1150",
+  "end": "before 1350",
+  "name": "nyang stod pa ye shes mgon po",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

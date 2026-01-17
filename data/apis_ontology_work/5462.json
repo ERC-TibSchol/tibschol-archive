@@ -30,6 +30,34 @@
       "end": null
     },
     {
+      "id": 6243,
+      "label": "byang chub sems pa'i spyod pa la 'jug pa'i zin bris 'jam dpal zhal lung (5462) has as an instance spyod 'jug dka' 'grel 'jam dbyangs bla ma'i zhal lung (7591)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5462/",
+        "label": "byang chub sems pa'i spyod pa la 'jug pa'i zin bris 'jam dpal zhal lung (5462)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7591/",
+        "label": "spyod 'jug dka' 'grel 'jam dbyangs bla ma'i zhal lung (7591)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5736,
       "label": "byang chub sems pa'i spyod pa la 'jug pa'i zin bris 'jam dpal zhal lung (5462) has as an instance spyod 'jug gi 'grel ba gsung sgros ma (7367)",
       "subj": {
@@ -107,8 +135,8 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "Conclusive verses: gzhung 'di btsun pa rin chen dpal gyis phye ||\r\nColophon: byang chub sems pa'i spyod pa la 'jug pa'i gsal byed btsun pa rin chen dpal gyis sbyar pa'o ||",
+      "tei_refs": "ex111052026-01-1609-10-53\r\nex111052026-01-1609-10-52",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -118,7 +146,7 @@
   "start_date_from": "1110-01-01",
   "start_date_sort": "1204-12-31",
   "comments": "",
-  "alternative_names": "byang chub sems pa'i spyod pa la 'jug pa'i gsal byed",
+  "alternative_names": "byang chub sems pa'i spyod pa la 'jug pa'i gsal byed\r\nspyod 'jug dka' 'grel 'jam dbyangs bla ma'i zhal lung",
   "external_links": "",
   "review": true,
   "start": "after 1110 before 1299",

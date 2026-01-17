@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6374/",
+  "relations": [
+    {
+      "id": 4871,
+      "label": "mnga' ris pa legs pa don grub (6374) active at mnga' ris (5949)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6374/",
+        "label": "mnga' ris pa legs pa don grub (6374)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5949/",
+        "label": "mnga' ris (5949)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "His name suggests he originated or was active in mNga' ris.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2982,
+      "label": "mnga' ris pa legs pa don grub (6374) active at gsang phu gling stod (6172)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6374/",
+        "label": "mnga' ris pa legs pa don grub (6374)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
+        "label": "gsang phu gling stod (6172)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MPRU5QUC]: 212. Abbot of gSang phu ne'u thog monastery (35th abbot of upper college) for four years.\r\n[CCSBSVCA]: 688, n. 15. Ca. 1549, as the third 'Bras spungs chos rje, bSod nams rgya mtsho, took his novice vows during his tenure.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "before 1549",
+      "end": "before 1549",
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1600-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1600-12-31",
+  "start_date_to": null,
+  "start_date_from": "1450-01-01",
+  "start_date_sort": "1450-01-01",
+  "comments": "Fl. early 16th c.",
+  "alternative_names": "gtsang pa legs pa don grub",
+  "external_links": "",
+  "review": true,
+  "start": "after 1450",
+  "end": "before 1600",
+  "name": "mnga' ris pa legs pa don grub",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

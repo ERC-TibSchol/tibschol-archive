@@ -1,0 +1,103 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6200/",
+  "relations": [
+    {
+      "id": 3785,
+      "label": "rgyang rong (6200) located within gtsang (5915)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6200/",
+        "label": "rgyang rong (6200)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
+        "label": "gtsang (5915)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 534 (gtsang gi rgyang rong).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2624,
+      "label": "gangs pa she'u blo gros byang chub (3810) active at rgyang rong (6200)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3810/",
+        "label": "gangs pa she'u blo gros byang chub (3810)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6200/",
+        "label": "rgyang rong (6200)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 281 (rgyang rong gangs pa she'u la de nyid 'dus pa | rdo rje rtse mo | dpal mchog gi rgyud gsum po nyan |). Taught 'Khon phu ba around 1083-1095.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "before 1083",
+      "end": "before 1083",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2623,
+      "label": "'khon phu ba chos kyi rgyal po (3836) active at rgyang rong (6200)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3836/",
+        "label": "'khon phu ba chos kyi rgyal po (3836)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6200/",
+        "label": "rgyang rong (6200)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 281 (rgyang rong gangs pa she'u la de nyid 'dus pa |  rdo rje rtse mo | dpal mchog gi rgyud gsum po nyan |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1083",
+      "end": "after 1083",
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "latitude": null,
+  "longitude": null,
+  "feature_code": "",
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "label": "rgyang rong",
+  "start": null
+}

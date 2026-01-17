@@ -1,0 +1,80 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6604/",
+  "relations": [
+    {
+      "id": 3538,
+      "label": "nor bu bzang po (6604) student of btsun pa ston gzhon (5942)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6604/",
+        "label": "nor bu bzang po (6604)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5942/",
+        "label": "btsun pa ston gzhon (5942)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 118. It is not certain this is the same \"ston gzhon,\" mentioned in a a gloss in a work of Ngag dbang chos grags.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3651,
+      "label": "btsun pa ston gzhon (5942) lineage predecessor of nor bu bzang po (6604)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5942/",
+        "label": "btsun pa ston gzhon (5942)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6604/",
+        "label": "nor bu bzang po (6604)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 144. \"Nor bzang dpal\" follows \"'jam dbyangs ston gzhon\" in the lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    }
+  ],
+  "end_date_to": "1450-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1450-12-31",
+  "start_date_to": null,
+  "start_date_from": "1300-01-01",
+  "start_date_sort": "1300-01-01",
+  "comments": "See [4G8T8CP3].",
+  "alternative_names": "nor bu bzang po dpal\r\nnor bzangs dpal\r\nnor bzang dpal",
+  "external_links": "",
+  "review": false,
+  "start": "after 1300",
+  "end": "before 1450",
+  "name": "nor bu bzang po",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

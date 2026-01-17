@@ -1,0 +1,51 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3940/",
+  "relations": [
+    {
+      "id": 178,
+      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) student of sog tshul khrims bla ma (3940)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3940/",
+        "label": "sog tshul khrims bla ma (3940)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 109 (bya 'dul 'dzin ... sog la 'dul ba gsan). Subject: Monastic rules.\r\n[W4T5ZMUP]: 40. Subject: monastic rules.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
+    }
+  ],
+  "end_date_to": "1126-12-31",
+  "end_date_from": "1126-01-01",
+  "end_date_sort": "1126-07-02",
+  "start_date_to": null,
+  "start_date_from": "1055-01-01",
+  "start_date_sort": "1055-01-01",
+  "comments": "Passed away at 36 ([R894SIKE]: 109). According to [W4T5ZMUP]: 40, in 1126.",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/P3060",
+  "review": false,
+  "start": "after 1055",
+  "end": "1126",
+  "name": "sog tshul khrims bla ma",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

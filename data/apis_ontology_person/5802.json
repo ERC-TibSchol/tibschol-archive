@@ -1,0 +1,48 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5802/",
+  "relations": [
+    {
+      "id": 4234,
+      "label": "brtson 'grus seng ge (1) (5802) scribe of byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (1) (6843)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5802/",
+        "label": "brtson 'grus seng ge (1) (5802)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6843/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (1) (6843)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex67022024-09-1610-30-07\r\nex67022024-09-1610-30-072",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": "1250-01-01",
+  "start_date_sort": "1250-01-01",
+  "comments": "Alternative name: dge slong ston pa brtson 'grus seng ge",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "after 1250",
+  "end": null,
+  "name": "brtson 'grus seng ge (1)",
+  "gender": "male",
+  "nationality": "Tibetan"
+}
