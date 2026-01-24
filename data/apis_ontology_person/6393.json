@@ -2,6 +2,37 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6393/",
   "relations": [
     {
+      "id": 6316,
+      "label": "ba ri lo tsA ba rin chen grags (6393) lineage predecessor of sa chen kun dga' snying po (4205)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6393/",
+        "label": "ba ri lo tsA ba rin chen grags (6393)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4205/",
+        "label": "sa chen kun dga' snying po (4205)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RA3FK3BK]: 245, n. 177. Tantric transmissions, lineages of Guhyasam\u0101ja, Yam\u0101ntaka, Kye rdor rgyud gsum, bDe mchog rgyud gsum, etc.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        3
+      ]
+    },
+    {
       "id": 3040,
       "label": "ba ri lo tsA ba rin chen grags (6393) active at sgrol ma lha khang (6404)",
       "subj": {
@@ -74,13 +105,13 @@
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[RA3FK3BK]: 137.\r\n[RA3FK3BK]: 245, n. 177. Tantric transmissions, lineages of Guhyasam\u0101ja, Yam\u0101ntaka, Kye rdor rgyud gsum, bDe mchog rgyud gsum, etc.",
+      "end_date_to": "1112-12-31",
+      "end_date_from": "1105-01-01",
+      "end_date_sort": "1108-12-31",
+      "start_date_to": "1112-12-31",
+      "start_date_from": "1105-01-01",
+      "start_date_sort": "1108-12-31",
+      "zotero_refs": "[RA3FK3BK]: 137.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

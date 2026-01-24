@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7169/",
   "relations": [
     {
+      "id": 752,
+      "label": "Anonymous (13) (7169) author of tshad ma rnam nges kyi 'grel pa (4787)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7169/",
+        "label": "Anonymous (13) (7169)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4787/",
+        "label": "tshad ma rnam nges kyi 'grel pa (4787)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5091,
       "label": "Anonymous (13) (7169) quotes with name rngog blo ldan shes rab (3786)",
       "subj": {
@@ -31,34 +59,6 @@
       "subject_of_teaching_vocab": [
         9
       ]
-    },
-    {
-      "id": 752,
-      "label": "Anonymous (13) (7169) author of tshad ma rnam nges kyi 'grel pa (4787)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7169/",
-        "label": "Anonymous (13) (7169)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4787/",
-        "label": "tshad ma rnam nges kyi 'grel pa (4787)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     }
   ],
   "end_date_to": null,

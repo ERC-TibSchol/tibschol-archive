@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
   "relations": [
     {
-      "id": 3076,
-      "label": "g.yag ston sangs rgyas dpal (6153) quotes with name 'bre shes rab 'bar (3807)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
-        "label": "g.yag ston sangs rgyas dpal (6153)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
-        "label": "'bre shes rab 'bar (3807)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[2V6H2FBU]: 25, n. 67.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2515,
       "label": "g.yag ston sangs rgyas dpal (6153) active at gsang phu ne'u thog (4332)",
       "subj": {
@@ -114,6 +85,35 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 3076,
+      "label": "g.yag ston sangs rgyas dpal (6153) quotes with name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
+        "label": "g.yag ston sangs rgyas dpal (6153)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[2V6H2FBU]: 25, n. 67.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 4299,
@@ -240,7 +240,7 @@
   "start_date_from": "1350-01-01",
   "start_date_sort": "1350-07-02",
   "comments": "A khu ching Shes rab rgya mtsho's Tho yig lists several work on the Perfection of wisdom for this scholar ([5RXEUKD9]: 529, No. 11518: phar phyin rin chen bang mdzod dgos 'dod stsol pa; No. 11519 phar phyin dka' 'grel; No. 11520: phar phyin bsdus don).",
-  "alternative_names": "g.yag phrug sangs rgyas dpal",
+  "alternative_names": "g.yag phrug sangs rgyas dpal\r\nmi pham g.yag\r\ng.yag mi pham chos rje",
   "external_links": "https://purl.bdrc.io/resource/P7997",
   "review": false,
   "start": "1350",
