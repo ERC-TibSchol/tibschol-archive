@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5048/",
+  "relations": [
+    {
+      "id": 1542,
+      "label": "blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5049) has as an instance blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5048)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5049/",
+        "label": "blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5049)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5048/",
+        "label": "blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5048)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58062024-12-0515-50-41",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4689,
+      "label": "blo sbyong brgyud pa'i gsol 'debs (5045) has as an instance blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5048)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5045/",
+        "label": "blo sbyong brgyud pa'i gsol 'debs (5045)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5048/",
+        "label": "blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5048)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "This instance contains work (ID:5049) (fols. 1 to 20b5), followed by the beginning of work (ID:5045) (fol. 20b6-7).",
+  "alternative_names": "blo sbyong don bdun ma (cover page)\r\nblo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (colophon)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_FEAFE7",
+  "review": true,
+  "start": null,
+  "name": "blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba",
+  "set_num": "Set 2",
+  "volume": "58",
+  "sb_text_number": "6",
+  "pp_kdsb": "249-286",
+  "num_folios": "20(/?)",
+  "signature_letter": "la",
+  "signature_number": "355",
+  "drepung_number": "18759",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "2_058_06",
+  "availability": "available",
+  "dimension": "39.5 x 7",
+  "item_description": "Script: dpe tshugs.\r\nThe manuscript is incomplete. Only fols. 1-20 are extant. Folios 15 and 16 are on the same page.\r\nSome corrections, but no annotations."
+}

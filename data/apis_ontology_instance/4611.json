@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4611/",
+  "relations": [
+    {
+      "id": 4280,
+      "label": "sangs rgyas bzang po (2) (6042) owner of 'dul ba'i sdom tshig bsdus don gsal byed me long (4611)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6042/",
+        "label": "sangs rgyas bzang po (2) (6042)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4611/",
+        "label": "'dul ba'i sdom tshig bsdus don gsal byed me long (4611)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex19092024-09-2415-26-29",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1345,
+      "label": "'dul ba'i sdom tshig bsdus don gsal byed me long (4612) has as an instance 'dul ba'i sdom tshig bsdus don gsal byed me long (4611)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4612/",
+        "label": "'dul ba'i sdom tshig bsdus don gsal byed me long (4612)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4611/",
+        "label": "'dul ba'i sdom tshig bsdus don gsal byed me long (4611)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "Same images in 1_019_09, pp. 595-609",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD153536_BF4D05\r\nhttps://purl.bdrc.io/resource/MW1PD89051_45EB69",
+  "review": false,
+  "start": null,
+  "name": "'dul ba'i sdom tshig bsdus don gsal byed me long",
+  "set_num": "Set 3",
+  "volume": "79",
+  "sb_text_number": "5",
+  "pp_kdsb": "421-435",
+  "num_folios": "8",
+  "signature_letter": "wa",
+  "signature_number": "47",
+  "drepung_number": "16269",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "1_019_09\r\n3_079_05",
+  "availability": "available",
+  "dimension": "33.4 x 7.6",
+  "item_description": "Script: dpe tshugs."
+}

@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6863/",
+  "relations": [
+    {
+      "id": 6224,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa (6863) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa (7583)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6863/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa (6863)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7583/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa (7583)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4288,
+      "label": "nyang bran pa chos kyi ye shes (3876) author of byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa (6863)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3876/",
+        "label": "nyang bran pa chos kyi ye shes (3876)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6863/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa (6863)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:7583) in [8H6M69W4], No. 15575: zhang tshe spong gi slob ma dge slong chos kyi ye shes.\r\n[R894SIKE]: 405 (zhang tshe spong ba chos kyi bla mas kyang TI ka 'ga' re brtsams shing de'i slob ma nyan bran pa chos kyi ye shes kyis ni bslabs pa kun las btus pa dang | byang chub sems dpa'i spyod pa la 'jug pa la sogs pa spyod phyogs kyi yig cha dang |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1200-12-31",
+  "start_date_from": "1070-01-01",
+  "start_date_sort": "1135-07-03",
+  "comments": "A manuscript of this work is listed in [8H6M69W4].\r\nThis could correspond to the work mentioned in [R894SIKE]: 405 (de (=zhang tshe spong)'i slob ma nyan bran pa chos kyi ye shes kyis ni bslabs pa kun las btus pa dang | byang chub sems dpa'i spyod pa la 'jug pa la sogs pa spyod phyogs kyi yig cha dang |).",
+  "alternative_names": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel",
+  "external_links": "",
+  "review": true,
+  "start": "after 1070 before 1200",
+  "name": "byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}

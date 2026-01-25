@@ -1,0 +1,56 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5176/",
+  "relations": [
+    {
+      "id": 1603,
+      "label": "mngon rtogs rgyan 'grel pa (5177) has as an instance mngon rtogs rgyan 'grel pa (5176)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5177/",
+        "label": "mngon rtogs rgyan 'grel pa (5177)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5176/",
+        "label": "mngon rtogs rgyan 'grel pa (5176)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "bstan bcos mngon rtogs rgyan gyi 'grel ba'i rnam bshad ngag gi don 'debs pa (colophon)\r\nslob dpon seng ge bzang pos mdzad pa'i bstan bcos mngon rtogs rgyan gyi 'grel ba'i rnam bshad ngag gi don 'debs pa ces bya ba",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD153536_4D8E8E",
+  "review": true,
+  "start": null,
+  "name": "mngon rtogs rgyan 'grel pa",
+  "set_num": "Set 3",
+  "volume": "71",
+  "sb_text_number": "3",
+  "pp_kdsb": "133-412",
+  "num_folios": "140(/142)",
+  "signature_letter": "tsha",
+  "signature_number": "105",
+  "drepung_number": "15956",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "3_071_03",
+  "availability": "available",
+  "dimension": "68 x 10.5",
+  "item_description": "Missing folios: 1 and 2.\r\nLast line on fol. 142 does not seem to belong to the text; verso faded, maybe continuation of the line on the recto (?)."
+}

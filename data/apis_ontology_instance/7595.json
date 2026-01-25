@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7595/",
+  "relations": [
+    {
+      "id": 6278,
+      "label": "bcom ldan rigs pa'i ral gri'i rnam thar dad pa'i ljon shing (7595) has source bcom ldan pa'i rnam thar (7594)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7595/",
+        "label": "bcom ldan rigs pa'i ral gri'i rnam thar dad pa'i ljon shing (7595)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7594/",
+        "label": "bcom ldan pa'i rnam thar (7594)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6277,
+      "label": "bcom ldan ral gri'i rnam thar dad pa'i ljon shing (7016) has as an instance bcom ldan rigs pa'i ral gri'i rnam thar dad pa'i ljon shing (7595)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7016/",
+        "label": "bcom ldan ral gri'i rnam thar dad pa'i ljon shing (7016)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7595/",
+        "label": "bcom ldan rigs pa'i ral gri'i rnam thar dad pa'i ljon shing (7595)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "2006-12-31",
+  "start_date_from": "2006-01-01",
+  "start_date_sort": "2006-07-02",
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/MW00EGS1017426_372F9F",
+  "review": false,
+  "start": "2006",
+  "name": "bcom ldan rigs pa'i ral gri'i rnam thar dad pa'i ljon shing",
+  "set_num": null,
+  "volume": null,
+  "sb_text_number": "",
+  "pp_kdsb": null,
+  "num_folios": null,
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Typeset edition in dbu can in dpe cha format based on a manuscript from gNas bcu lha khang, probably (ID:7594)."
+}

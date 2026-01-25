@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6894/",
+  "relations": [
+    {
+      "id": 4808,
+      "label": "sher snying 'brel pa (6894) commentary on praj\u00f1\u0101p\u0101ramit\u0101h\u1e5bdaya (3694)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6894/",
+        "label": "sher snying 'brel pa (6894)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3694/",
+        "label": "praj\u00f1\u0101p\u0101ramit\u0101h\u1e5bdaya (3694)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4319,
+      "label": "rgya ston kun dga' brtson 'grus (6893) author of sher snying 'brel pa (6894)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6893/",
+        "label": "rgya ston kun dga' brtson 'grus (6893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6894/",
+        "label": "sher snying 'brel pa (6894)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 539, No. 11552.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1450-12-31",
+  "start_date_from": "1260-01-01",
+  "start_date_sort": "1355-07-02",
+  "comments": "Listed in A khu ching Shes rab rgya mtsho's Tho yig ([5RXEUKD9]: 531, No. 11552: rgya ston kun dga' brtson 'grus kyi sher snying 'brel pa).",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "after 1260 before 1450",
+  "name": "sher snying 'brel pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}

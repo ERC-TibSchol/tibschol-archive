@@ -1,0 +1,132 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4635/",
+  "relations": [
+    {
+      "id": 665,
+      "label": "theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4635) commentary on mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4635/",
+        "label": "theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4635)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3746/",
+        "label": "mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1356,
+      "label": "theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4635) has as an instance theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4634)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4635/",
+        "label": "theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4635)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4634/",
+        "label": "theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4634)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 664,
+      "label": "bla ma dam pa bsod nams rgyal mtshan (3916) author of theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4635)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3916/",
+        "label": "bla ma dam pa bsod nams rgyal mtshan (3916)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4635/",
+        "label": "theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4635)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5667,
+      "label": "lha ston zhig po bsod nams rgyal mtshan (6352) author of theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4635)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6352/",
+        "label": "lha ston zhig po bsod nams rgyal mtshan (6352)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4635/",
+        "label": "theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4635)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1375-12-31",
+  "start_date_from": "1322-01-01",
+  "start_date_sort": "1348-12-31",
+  "comments": "BDRC connects with work with Bla ma Dam pa bSod nams rgyal mtshan (ID:3916), [Z5WBK2VV] with lHa ston zhig po bSod nams rgyal mtshan (ID:6352).",
+  "alternative_names": "shAkya'i dge slong bsod nams rgyal mtshan gyis mdzad pa'i theg pa chen po mdo sde rgyan gyi dka' gnad bshad pa\r\ntheg pa chen po'i mdo sde rgyan gyi dka' gnad bshad pa\r\ntheg pa chen po'i mdo' sde'i rgyan gyi dka' ba'i gnas bshad pa",
+  "external_links": "",
+  "review": false,
+  "start": "after 1322 before 1375",
+  "name": "theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}

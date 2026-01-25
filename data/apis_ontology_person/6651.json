@@ -1,0 +1,49 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6651/",
+  "relations": [
+    {
+      "id": 3650,
+      "label": "sbas pa ston gzhon (6651) active at spyil phu dgon (4373)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6651/",
+        "label": "sbas pa ston gzhon (6651)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4373/",
+        "label": "spyil phu dgon (4373)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 143.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1320-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1320-12-31",
+  "start_date_to": "1224-12-31",
+  "start_date_from": "1223-01-01",
+  "start_date_sort": "1224-01-01",
+  "comments": "Identified with bTsun pa sTon gzhon (ID: 5942) by BDRC.",
+  "alternative_names": "'jam dbyangs ston gzhon\r\nsbas pa ston gzhon",
+  "external_links": "https://purl.bdrc.io/resource/P6866",
+  "review": false,
+  "start": "after 1223 before 1224",
+  "end": "before 1320",
+  "name": "sbas pa ston gzhon",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

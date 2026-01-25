@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4686/",
+  "relations": [
+    {
+      "id": 1380,
+      "label": "dbu ma de kho na nyid rnam par dpyod pa (4686) has as an instance dbu ma de kho na nyid rnam par dpyod pa (4685)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4686/",
+        "label": "dbu ma de kho na nyid rnam par dpyod pa (4686)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4685/",
+        "label": "dbu ma de kho na nyid rnam par dpyod pa (4685)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 695,
+      "label": "rgya dmar ba byang chub grags (3834) author of dbu ma de kho na nyid rnam par dpyod pa (4686)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4686/",
+        "label": "dbu ma de kho na nyid rnam par dpyod pa (4686)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No. 15397: stod lung rgya dmar ba",
+      "tei_refs": "ex3101_2024-05-16\r\nex3101_2024-05-16_2 (hidden signature)\r\nex3101_2024-05-16_3",
+      "support_notes": "Hidden signature \"byang chub grags\" (glossed \"rgya dmar ba\") in one of the closing verses, two lines of which have the same reading as the closing verse of his De kho na nyid don gsal bar byed pa (ID:4599).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1150-12-31",
+  "start_date_from": "1100-01-01",
+  "start_date_sort": "1125-07-02",
+  "comments": "The text is being edited, translated and studied by Pascale Hugon and Kevin Vose ([RH4GCHQB]).\r\nIt is a Madhyamaka treatise articulated around the presentation of the two truths, which builds upon and discusses the views of earlier scholars, who are identified in interlinear notes in (ID:4685). They are, notably, rNgog Blo ldan shes rab (ID:3786), Gangs pa She'u (ID:3810), Khyung rin chen grags (ID:3809), as well as Me tig pa (ID:4207) and a yet unidentified \"dge bshes pa.\" See [VA4UYHER].\r\n\r\nA (reworked) Tangut version of that treatise is discussed in [E6DFSL9U].",
+  "alternative_names": "dbu ma de kho na nyid rnam par spyod pa\r\ndbu ma'i de kho na nyid gtan la dbab pa\r\nrgya dmar bas mdzad pa'i dbu ma'i de kho na nyid gtan la dbab pa",
+  "external_links": "https://www.oeaw.ac.at/ikga/forschung/tibetologie/materialien/the-dbu-ma-de-kho-na-nyid-of-rgya-dmar-ba-byang-chub-grags-12th-c/",
+  "review": true,
+  "start": "after 1100 before 1150",
+  "name": "dbu ma de kho na nyid rnam par dpyod pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}
