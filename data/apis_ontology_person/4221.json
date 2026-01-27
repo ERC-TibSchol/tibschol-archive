@@ -30,6 +30,40 @@
       "end": null
     },
     {
+      "id": 6355,
+      "label": "skyi ston grags pa rgyal mtshan (4221) active at skyi stengs (7633)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4221/",
+        "label": "skyi ston grags pa rgyal mtshan (4221)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7633/",
+        "label": "skyi stengs (7633)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": "1310-12-31",
+      "start_date_from": "1310-01-01",
+      "start_date_sort": "1310-07-02",
+      "zotero_refs": "[KM47ZZDJ]: 656. According to Dol po pa's disciples Chos grags dpal bzang po and Gha rung pa sKyi ston taught Dol po pa an unidentified Tshad ma bsdus pa at sKyi stengs monastery (ID:7633) in Dol po in 1310. According to lHa'i rgyal mtshan, sKyi ston taught Dol po pa the Pram\u0101\u1e47avini\u015bcaya (ID:3774), the Tshad ma rigs pa'i (b)rgyan, Perfection of Wisdom, Abhidharma, the Bodhicary\u0101vat\u0101ra (ID:3727), the rdo rje phreng ba, etc.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1310",
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17,
+        9,
+        13,
+        7
+      ]
+    },
+    {
       "id": 6236,
       "label": "skyi ston grags pa rgyal mtshan (4221) student of mchims nam mkha' grags (3977)",
       "subj": {
@@ -116,6 +150,34 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 6365,
+      "label": "skyi ston grags pa rgyal mtshan (4221) teaches pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4221/",
+        "label": "skyi ston grags pa rgyal mtshan (4221)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": "1312-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1312-12-31",
+      "start_date_to": "1310-12-31",
+      "start_date_from": "1310-01-01",
+      "start_date_sort": "1310-07-02",
+      "zotero_refs": "[KM47ZZDJ]: 656. According to Dol po pa's disciple lHa'i rgyal mtshan, sKyi ston taught Dol po pa (ID:4213) the Pram\u0101\u1e47avini\u015bcaya (ID:3774), the Tshad ma rigs pa'i (b)rgyan, Perfection of Wisdom, Abhidharma, the Bodhicary\u0101vat\u0101ra (ID:3727), the rdo rje phreng ba, etc. at sKyi stengs (ID:7633).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1310",
+      "end": "before 1312"
+    },
+    {
       "id": 2166,
       "label": "skyi ston grags pa rgyal mtshan (4221) active at sa skya dong pa (5733)",
       "subj": {
@@ -191,17 +253,20 @@
       "end_date_to": null,
       "end_date_from": null,
       "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[KM47ZZDJ]: 656. sKyi ston taught Dol po pa the Tshad ma rigs pa'i rgyan.\r\n[FZ6N88AU]: 430, n. 78. The \"Tshad ma rigs pa'i rgya\" is maybe identical with work (ID:5992).",
+      "start_date_to": "1310-12-31",
+      "start_date_from": "1310-01-01",
+      "start_date_sort": "1310-07-02",
+      "zotero_refs": "[KM47ZZDJ]: 656. According to Dol po pa's disciples Chos grags dpal bzang po and Gha rung pa sKyi ston taught Dol po pa an unidentified Tshad ma bsdus pa at sKyi stengs monastery (ID:7633) in Dol po in 1310. According to lHa'i rgyal mtshan, sKyi ston taught Dol po pa the Pram\u0101\u1e47avini\u015bcaya (ID:3774), the Tshad ma rigs pa'i (b)rgyan, Perfection of Wisdom, Abhidharma, the Bodhicary\u0101vat\u0101ra (ID:3727), the rdo rje phreng ba, etc.\r\n[FZ6N88AU]: 430, n. 78. The \"Tshad ma rigs pa'i rgyan\" is maybe identical with work (ID:5992).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
+      "start": "1310",
       "end": null,
       "subject_of_teaching_vocab": [
-        9
+        17,
+        9,
+        13,
+        7
       ]
     },
     {
@@ -269,7 +334,7 @@
   "start_date_from": "1200-01-01",
   "start_date_sort": "1237-12-31",
   "comments": "",
-  "alternative_names": "skyi ston grags pa'i rgyal mtshan\r\nskyi ston 'jam dbyangs pa grags pa rgyal mtshan",
+  "alternative_names": "skyi ston grags pa'i rgyal mtshan\r\nskyi ston 'jam dbyangs pa grags pa rgyal mtshan\r\nskyi ston 'jam dbyangs grags pa rgyal mtshan",
   "external_links": "https://purl.bdrc.io/resource/P144",
   "review": false,
   "start": "after 1200 before 1275",

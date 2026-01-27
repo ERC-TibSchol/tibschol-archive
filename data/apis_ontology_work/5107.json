@@ -30,6 +30,34 @@
       "end": null
     },
     {
+      "id": 6373,
+      "label": "rnal 'byor spyod pa bzhi brgya pa rgyan gyi me tog (5107) has as an instance rnal 'byor spyod pa'i bzhi brgya pa rgyan gyi me tog (7643)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5107/",
+        "label": "rnal 'byor spyod pa bzhi brgya pa rgyan gyi me tog (5107)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7643/",
+        "label": "rnal 'byor spyod pa'i bzhi brgya pa rgyan gyi me tog (7643)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 6232,
       "label": "rnal 'byor spyod pa bzhi brgya pa rgyan gyi me tog (5107) commentary on bodhisattvayog\u0101c\u0101racatu\u1e25\u015bataka\u1e6d\u012bk\u0101 (5931)",
       "subj": {
@@ -89,8 +117,8 @@
   "start_date_to": "1305-12-31",
   "start_date_from": "1237-01-01",
   "start_date_sort": "1271-07-02",
-  "comments": "An e-text is available at http://www.sakyalibrary.com/library/collections (works of Chomden Rigpe Raltri).",
-  "alternative_names": "bo d+hi sat twa yo ga tsa ra ca tu sha ta ka alaM ka ra puSH+pa",
+  "comments": "An e-text is available at http://www.sakyalibrary.com/library/collections (works of Chomden Rigpe Raltri).\r\n\r\nDiscussed in [KM47ZZDJ]: 664-665, where it is argued that it was composed after the Grub mtha' rgyan gyi me thog (ID:4922) as it refers to it.",
+  "alternative_names": "rnal 'byor spyod pa'i bzhi brgya pa rgyan gyi me tog\r\nbo d+hi sat twa yo ga tsa ra ca tu sha ta ka alaM ka ra puSH+pa",
   "external_links": "",
   "review": true,
   "start": "after 1237 before 1305",
