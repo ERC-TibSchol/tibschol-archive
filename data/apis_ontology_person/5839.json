@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5839/",
   "relations": [
     {
+      "id": 6378,
+      "label": "'gos lo tsA ba gzhon nu dpal (5839) studies nor bzang TIk (7648)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5839/",
+        "label": "'gos lo tsA ba gzhon nu dpal (5839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7648/",
+        "label": "nor bzang TIk (7648)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": "1405-12-31",
+      "end_date_from": "1405-01-01",
+      "end_date_sort": "1405-07-02",
+      "start_date_to": "1403-12-31",
+      "start_date_from": "1403-01-01",
+      "start_date_sort": "1403-07-02",
+      "zotero_refs": "[FEHIEFEB]: 144, n. 179.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1403",
+      "end": "1405"
+    },
+    {
       "id": 4841,
       "label": "'gos lo tsA ba gzhon nu dpal (5839) author of phar phyin rnam bshad chung ba (7074)",
       "subj": {
