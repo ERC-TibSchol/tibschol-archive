@@ -3,10 +3,10 @@
   "relations": [
     {
       "id": 883,
-      "label": "mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036) commentary on abhidharmasamuccaya (3755)",
+      "label": "chos mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036) commentary on abhidharmasamuccaya (3755)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5036/",
-        "label": "mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036)",
+        "label": "chos mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -31,16 +31,16 @@
     },
     {
       "id": 2004,
-      "label": "mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036) has as an instance mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (3) (5897)",
+      "label": "chos mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036) has as an instance chos mngon pa kun las btus kyi rnam par bshad pa rgyan gyi me tog (3) (5897)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5036/",
-        "label": "mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036)",
+        "label": "chos mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5897/",
-        "label": "mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (3) (5897)",
+        "label": "chos mngon pa kun las btus kyi rnam par bshad pa rgyan gyi me tog (3) (5897)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -59,16 +59,16 @@
     },
     {
       "id": 1536,
-      "label": "mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036) has as an instance mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (2) (5035)",
+      "label": "chos mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036) has as an instance chos mngon pa kun las btus kyi rnam par bshad pa rgyan gyi me tog (2) (5035)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5036/",
-        "label": "mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036)",
+        "label": "chos mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5035/",
-        "label": "mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (2) (5035)",
+        "label": "chos mngon pa kun las btus kyi rnam par bshad pa rgyan gyi me tog (2) (5035)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -86,17 +86,45 @@
       "end": null
     },
     {
-      "id": 1992,
-      "label": "mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036) has as an instance mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (1) (5890)",
+      "id": 6422,
+      "label": "chos mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036) has as an instance chos mngon pa kun las btus gyi rnam par bshad pa rgyan gyi me tog (7685)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5036/",
-        "label": "mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036)",
+        "label": "chos mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7685/",
+        "label": "chos mngon pa kun las btus gyi rnam par bshad pa rgyan gyi me tog (7685)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1992,
+      "label": "chos mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036) has as an instance chos mngon pa kun las btus kyi rnam par bshad pa rgyan gyi me tog (1) (5890)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5036/",
+        "label": "chos mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5890/",
-        "label": "mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (1) (5890)",
+        "label": "chos mngon pa kun las btus kyi rnam par bshad pa rgyan gyi me tog (1) (5890)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -115,7 +143,7 @@
     },
     {
       "id": 882,
-      "label": "rigs pa'i ral gri (4006) author of mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036)",
+      "label": "rigs pa'i ral gri (4006) author of chos mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
         "label": "rigs pa'i ral gri (4006)",
@@ -124,7 +152,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5036/",
-        "label": "mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036)",
+        "label": "chos mngon pa kun las btus pa'i bshad pa rgyan gyi me tog (5036)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -135,7 +163,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex57012024-10-1813-37-35",
       "support_notes": "Colophon, (ID:5035), fol. 314a3.",
       "confidence": "Positive",
       "start": null,
@@ -146,11 +174,11 @@
   "start_date_from": "1237-01-01",
   "start_date_sort": "1271-07-02",
   "comments": "",
-  "alternative_names": "",
+  "alternative_names": "chos mngon pa kun las btus pa'i rgyan gyi me tog",
   "external_links": "",
   "review": true,
   "start": "after 1237 before 1305",
-  "name": "mngon pa kun las btus pa'i bshad pa rgyan gyi me tog",
+  "name": "chos mngon pa kun las btus pa'i bshad pa rgyan gyi me tog",
   "sde_dge_ref": null,
   "original_language": "Tibetan",
   "isExtant": true,
