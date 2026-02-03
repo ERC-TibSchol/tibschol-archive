@@ -59,6 +59,37 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 6429,
+      "label": "lho pa kun mkhyen rin chen dpal (5463) lineage predecessor of 'u yug pa bsod nams seng ge (3846)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
+        "label": "lho pa kun mkhyen rin chen dpal (5463)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3846/",
+        "label": "'u yug pa bsod nams seng ge (3846)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5FZQCNC]: 142. Lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772) according to\u202fNgag dbang chos grags (ID:6897): from Kha che paN chen (ID:6418) to Sa paN (ID:3892). Then from Sa paN it goes directly to Lho pa kun mkhyen (ID:5463), 'U yug pa (ID:3846), and Zhang mDo sde dpal (ID:6624). Then from the latter to 'Jam dbyangs skya bo (ID:6621), then to dPang lo tsA ba (ID:4097), etc.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
       "id": 4194,
       "label": "lho pa kun mkhyen rin chen dpal (5463) author of sde bdun gsal ba'i rgyan (6827)",
       "subj": {
@@ -171,6 +202,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6428,
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) lineage predecessor of lho pa kun mkhyen rin chen dpal (5463)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
+        "label": "lho pa kun mkhyen rin chen dpal (5463)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5FZQCNC]: 142. Lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772) according to\u202fNgag dbang chos grags (ID:6897): from Kha che paN chen (ID:6418) to Sa paN (ID:3892). Then from Sa paN it goes directly to Lho pa kun mkhyen (ID:5463), 'U yug pa (ID:3846), and Zhang mDo sde dpal (ID:6624). Then from the latter to 'Jam dbyangs skya bo (ID:6621), then to dPang lo tsA ba (ID:4097), etc.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
     }
   ],
   "end_date_to": "1239-12-31",
@@ -180,7 +242,7 @@
   "start_date_from": "1112-01-01",
   "start_date_sort": "1135-12-31",
   "comments": "",
-  "alternative_names": "",
+  "alternative_names": "lho pa kun mkhyen",
   "external_links": "https://purl.bdrc.io/resource/P5298",
   "review": false,
   "start": "after 1112 before 1159",
