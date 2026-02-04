@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7080/",
   "relations": [
     {
+      "id": 6472,
+      "label": "tshad ma rnam 'grel gyi dka' 'grel (7080) commentary on pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (3772)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7080/",
+        "label": "tshad ma rnam 'grel gyi dka' 'grel (7080)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
+        "label": "pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (3772)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4858,
       "label": "devendrabuddhi (5554) author of tshad ma rnam 'grel gyi dka' 'grel (7080)",
       "subj": {
@@ -62,12 +90,12 @@
   "start_date_from": null,
   "start_date_sort": null,
   "comments": "",
-  "alternative_names": "Pram\u0101\u1e47av\u0101rttikapa\u00f1jik\u0101",
-  "external_links": "",
+  "alternative_names": "pram\u0101\u1e47av\u0101rttikapa\u00f1jik\u0101",
+  "external_links": "http://purl.rkts.eu/resource/WTT3554",
   "review": false,
   "start": null,
   "name": "tshad ma rnam 'grel gyi dka' 'grel",
-  "sde_dge_ref": null,
+  "sde_dge_ref": "D4217",
   "original_language": "Sanskrit",
   "isExtant": true,
   "subject_vocab": [
