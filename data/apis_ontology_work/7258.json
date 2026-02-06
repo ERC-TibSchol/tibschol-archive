@@ -1,0 +1,102 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7258/",
+  "relations": [
+    {
+      "id": 5488,
+      "label": "bya rog gi legs nyes brtag thabs kyi man ngag (7258) has as an instance bya rog gi legs nyes brtag thabs kyi man ngag (7259)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7258/",
+        "label": "bya rog gi legs nyes brtag thabs kyi man ngag (7258)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7259/",
+        "label": "bya rog gi legs nyes brtag thabs kyi man ngag (7259)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5489,
+      "label": "rgwa lo tsa ba gzhon nu dpal (6486) translator of bya rog gi legs nyes brtag thabs kyi man ngag (7258)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6486/",
+        "label": "rgwa lo tsa ba gzhon nu dpal (6486)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7258/",
+        "label": "bya rog gi legs nyes brtag thabs kyi man ngag (7258)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 842,
+      "label": "tsa mi sangs rgyas grags pa (4954) author of bya rog gi legs nyes brtag thabs kyi man ngag (7258)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4954/",
+        "label": "tsa mi sangs rgyas grags pa (4954)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7258/",
+        "label": "bya rog gi legs nyes brtag thabs kyi man ngag (7258)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1100-12-31",
+  "start_date_from": "1000-01-01",
+  "start_date_sort": "1050-07-02",
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "after 1000 before 1100",
+  "name": "bya rog gi legs nyes brtag thabs kyi man ngag",
+  "sde_dge_ref": null,
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": []
+}

@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6221/",
+  "relations": [
+    {
+      "id": 2666,
+      "label": "dbu ma bden gnyis kyi rnam bshad (6221) commentary on satyadvayavibha\u1e45gav\u1e5btti (3729)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6221/",
+        "label": "dbu ma bden gnyis kyi rnam bshad (6221)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3729/",
+        "label": "satyadvayavibha\u1e45gav\u1e5btti (3729)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2667,
+      "label": "bo dong paN chen phyogs las rnam rgyal (6058) author of dbu ma bden gnyis kyi rnam bshad (6221)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6058/",
+        "label": "bo dong paN chen phyogs las rnam rgyal (6058)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6221/",
+        "label": "dbu ma bden gnyis kyi rnam bshad (6221)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9], No. 11372: [dbu ma 'jug pa |] dbu ma bden gnyis rnams kyi rnam bshad",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1451-12-31",
+  "start_date_from": "1386-01-01",
+  "start_date_sort": "1419-01-01",
+  "comments": "Listed by A khu ching shes rab rgya mtsho in his Tho yig ([5RXEUKD9], No. 11372: [dbu ma 'jug pa |] dbu ma bden gnyis rnams kyi rnam bshad).",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "after 1386 before 1451",
+  "name": "dbu ma bden gnyis kyi rnam bshad",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6004/",
+  "relations": [
+    {
+      "id": 2293,
+      "label": "rnam nges rnam bshad rtog ge'i snang ba (6004) composed at gsang phu ne'u thog gi gtsug lag khang (6173)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6004/",
+        "label": "rnam nges rnam bshad rtog ge'i snang ba (6004)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6173/",
+        "label": "gsang phu ne'u thog gi gtsug lag khang (6173)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4TBERVZD]: 18. According to gSer mdog Pa\u1e47 chen.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "",
+      "end": ""
+    },
+    {
+      "id": 2517,
+      "label": "rnam nges rnam bshad rtog ge'i snang ba (6004) commentary on pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6004/",
+        "label": "rnam nges rnam bshad rtog ge'i snang ba (6004)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2292,
+      "label": "rong ston shes bya kun rig (6005) author of rnam nges rnam bshad rtog ge'i snang ba (6004)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6004/",
+        "label": "rnam nges rnam bshad rtog ge'i snang ba (6004)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RSAHY7SM]: II. Wrote a commentary on the Pram\u0101\u1e47avini\u015bcaya (ID:3774) at the age of 21.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1388",
+      "end": "1388"
+    }
+  ],
+  "start_date_to": "1388-12-31",
+  "start_date_from": "1388-01-01",
+  "start_date_sort": "1388-07-01",
+  "comments": "See <<van der Kuijp 1994 [4TBERVZD]>>: 17-18 on the manuscript in 24 fols., CPN 5148(6) (chapter 1) and 54 fols., CPN 5148 (7) (chapter 3), signature phyi zha 18, and 33 fols., CPN 4784(5).",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/WA0XL156B094DB616",
+  "review": false,
+  "start": "1388",
+  "name": "rnam nges rnam bshad rtog ge'i snang ba",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

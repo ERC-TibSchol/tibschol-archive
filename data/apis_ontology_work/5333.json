@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5333/",
+  "relations": [
+    {
+      "id": 1672,
+      "label": "rgyud sde'i spyi'i rnam par bzhag pa 'thad ldan lung gi rgyan gyis spras pa (5333) has as an instance rgyud sde spyi'i rnam par bzhag pa 'thad ldan lung gi rgyan gyis spras pa (5332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5333/",
+        "label": "rgyud sde'i spyi'i rnam par bzhag pa 'thad ldan lung gi rgyan gyis spras pa (5333)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5332/",
+        "label": "rgyud sde spyi'i rnam par bzhag pa 'thad ldan lung gi rgyan gyis spras pa (5332)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1077,
+      "label": "rin chen bzang po (1) (3784) author of rgyud sde'i spyi'i rnam par bzhag pa 'thad ldan lung gi rgyan gyis spras pa (5333)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3784/",
+        "label": "rin chen bzang po (1) (3784)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5333/",
+        "label": "rgyud sde'i spyi'i rnam par bzhag pa 'thad ldan lung gi rgyan gyis spras pa (5333)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "(ID:5332), fol. 39a4: 'thad pa'i lung gyis spras pa zhes bya ba | sgra bsgyur gyi lo tsA ba rin chen bzang pos mar yul du sbyar ba'o || dge slong bzang po'i mtha' can gyis sbyar ba'o || gang mo grub pa dpal bzang gis sbyar ba yin |",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1055-12-31",
+  "start_date_from": "1000-01-01",
+  "start_date_sort": "1028-01-01",
+  "comments": "",
+  "alternative_names": "rgyud sde spyi'i rnam par bzhag pa 'thad ldan lung gi rgyan gyis spras pa",
+  "external_links": "",
+  "review": true,
+  "start": "after 1000 before 1055",
+  "name": "rgyud sde'i spyi'i rnam par bzhag pa 'thad ldan lung gi rgyan gyis spras pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/3/"
+  ]
+}

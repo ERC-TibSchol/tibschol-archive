@@ -1,0 +1,104 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5399/",
+  "relations": [
+    {
+      "id": 1114,
+      "label": "byang chub lam gyi sgron ma las sangs rgyas kyi bstan pa la 'jug pa'i rim pa dal 'byor rnyed dka' dang mi rtag pa'i chos bsam tshul zab mo (5399) commentary on bodhipathaprad\u012bpa (3744)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5399/",
+        "label": "byang chub lam gyi sgron ma las sangs rgyas kyi bstan pa la 'jug pa'i rim pa dal 'byor rnyed dka' dang mi rtag pa'i chos bsam tshul zab mo (5399)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3744/",
+        "label": "bodhipathaprad\u012bpa (3744)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1703,
+      "label": "byang chub lam gyi sgron ma las sangs rgyas kyi bstan pa la 'jug pa'i rim pa dal 'byor rnyed dka' dang mi rtag pa'i chos bsam tshul zab mo (5399) has as an instance byang chub lam gyi sgron ma las sangs rgyas kyi bstan pa la 'jug pa'i rim pa dal 'byor rnyed dka' dang mi rtag pa'i chos bsam tshul zab mo (5398)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5399/",
+        "label": "byang chub lam gyi sgron ma las sangs rgyas kyi bstan pa la 'jug pa'i rim pa dal 'byor rnyed dka' dang mi rtag pa'i chos bsam tshul zab mo (5399)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5398/",
+        "label": "byang chub lam gyi sgron ma las sangs rgyas kyi bstan pa la 'jug pa'i rim pa dal 'byor rnyed dka' dang mi rtag pa'i chos bsam tshul zab mo (5398)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1113,
+      "label": "sems dpa' chen po gzhon nu rgyal mchog (4113) author of byang chub lam gyi sgron ma las sangs rgyas kyi bstan pa la 'jug pa'i rim pa dal 'byor rnyed dka' dang mi rtag pa'i chos bsam tshul zab mo (5399)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4113/",
+        "label": "sems dpa' chen po gzhon nu rgyal mchog (4113)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5399/",
+        "label": "byang chub lam gyi sgron ma las sangs rgyas kyi bstan pa la 'jug pa'i rim pa dal 'byor rnyed dka' dang mi rtag pa'i chos bsam tshul zab mo (5399)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Colophon: 'di ni \u00a6 mang du thos pa'i dge slong spong ba pa dkon mchog gsum gyis 'bangs zhes bya bas sbyar ba'o ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1390-12-31",
+  "start_date_from": "1321-01-01",
+  "start_date_sort": "1356-01-01",
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "after 1321 before 1390",
+  "name": "byang chub lam gyi sgron ma las sangs rgyas kyi bstan pa la 'jug pa'i rim pa dal 'byor rnyed dka' dang mi rtag pa'i chos bsam tshul zab mo",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/12/"
+  ]
+}

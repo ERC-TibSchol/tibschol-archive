@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7133/",
+  "relations": [
+    {
+      "id": 4988,
+      "label": "gzhan sel ti ka (2) (7133) commentary on any\u0101pohasiddhi (5587)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7133/",
+        "label": "gzhan sel ti ka (2) (7133)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5587/",
+        "label": "any\u0101pohasiddhi (5587)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4987,
+      "label": "rigs pa'i ral gri (4006) author of gzhan sel ti ka (2) (7133)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7133/",
+        "label": "gzhan sel ti ka (2) (7133)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FZ6N88AU]: 409.",
+      "tei_refs": "ex2512025-02-0610-21-412",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1305-12-31",
+  "start_date_from": "1237-01-01",
+  "start_date_sort": "1271-07-02",
+  "comments": "The list of Ral gri's writings by bSam gtan bzang po (ID:4005) mentions one commentary on the Apohasiddhi, which may refer to either the work by Dharmottara or by \u015aa\u1e45karanandana ([FZ6N88AU]: 409), which Ral gri's list of his writings (ID:7112) mentions commentaries on both treatises (see also (ID:7132)).",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "after 1237 before 1305",
+  "name": "gzhan sel ti ka (2)",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}
