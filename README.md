@@ -19,9 +19,9 @@ The archived data is located in the directory *data*, under the folder correspon
 
 The relevant .json file is named after the TibSchol ID of the entity in [TibSchol database](https://tibschol.acdh-ch-dev.oeaw.ac.at/). For instance, [3831.json] (https://github.com/ERC-TibSchol/tibschol-archive/blob/main/data/apis_ontology_person/3831.json) for Phya pa Chos kyi seng ge, TibSchol ID 3831.
 
-Contained in the .json file are the entity's attributes and relations to other entities (see [TibSchol Datamodel] (https://github.com/ERC-TibSchol/TibSchol-Datamodel).
+Contained in the .json file are the entity's attributes and relations to other entities (see [TibSchol Datamodel](https://github.com/ERC-TibSchol/TibSchol-Datamodel).
 
-In addition, the directory *data* contains an archive of all *excerpts* in use in the database (see https://github.com/ERC-TibSchol/TibSchol-TEI-Library), and references to publications in [TibSchol Zotero Library] (https://www.zotero.org/groups/4394244/tibschol/library).
+In addition, the directory *data* contains an archive of all *excerpts* in use in the database (see https://github.com/ERC-TibSchol/TibSchol-TEI-Library), and references to publications in [TibSchol Zotero Library](https://www.zotero.org/groups/4394244/tibschol/library).
 
 ## Backup policy
 The archive is refreshed daily. Only documents for entities that underwent a change are updated.
