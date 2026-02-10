@@ -27,4 +27,4 @@ In addition, the directory *data* contains an archive of all *excerpts* in use i
 The archive is refreshed daily. Only documents for entities that underwent a change are updated.
 
 ## License for the data
-The dataset in *data* is placed under the Creative Commons license CC0, at the exception of Comments (in pages related to Person, Work, Instance, Place) and Item description (in Instance pages), which are placed under the Creative Common license CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). 
+The dataset in *data* is placed under the [Creative Commons license CC0](https://creativecommons.org/publicdomain/zero/1.0/), at the exception of *Comments* (in pages related to Person, Work, Instance, Place) and *Item description* (in Instance pages), which are placed under the [Creative Common license CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
