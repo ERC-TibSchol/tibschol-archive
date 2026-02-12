@@ -87,35 +87,6 @@
       "end": null
     },
     {
-      "id": 5590,
-      "label": "sumatik\u012brti (3804) active at snye thang (6700)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3804/",
-        "label": "sumatik\u012brti (3804)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6700/",
-        "label": "snye thang (6700)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Q47PVAE6]: 42.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 5063,
       "label": "rngog legs pa'i shes rab (3788) active at snye thang (6700)",
       "subj": {
@@ -234,35 +205,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5591,
-      "label": "rngog blo ldan shes rab (3786) active at snye thang (6700)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6700/",
-        "label": "snye thang (6700)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Q47PVAE6]: 42.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 4437,
       "label": "snye thang brag sna bkra shis (5662) located within snye thang (6700)",
       "subj": {
@@ -348,16 +290,16 @@
       "end": null
     }
   ],
-  "start_date_to": null,
-  "start_date_from": null,
-  "start_date_sort": null,
+  "start_date_to": "1055-12-31",
+  "start_date_from": "1055-01-01",
+  "start_date_sort": "1055-07-02",
   "latitude": null,
   "longitude": null,
   "feature_code": "",
-  "comments": "Financially supported by the rBa rag ([7FZ3B926]: 108).\r\nSee [CCSBSVCA], 166, n. 419.",
+  "comments": "Founded by Bang ston in 1055, situated in the south-west of Lhasa ([Q47PVAE6]: 42, n. 63 and 66, n. 72).\r\nFinancially supported by the rBa rag ([7FZ3B926]: 108).\r\nSee [CCSBSVCA]: 166, n. 419.",
   "alternative_names": "mnye thang",
   "external_links": "https://purl.bdrc.io/resource/G1477",
   "review": false,
   "label": "snye thang",
-  "start": null
+  "start": "1055"
 }
