@@ -1,0 +1,49 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6293/",
+  "relations": [
+    {
+      "id": 2855,
+      "label": "dar ma dbang phyug (6293) active at gsang phu gling smad (6158)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6293/",
+        "label": "dar ma dbang phyug (6293)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6158/",
+        "label": "gsang phu gling smad (6158)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1425-12-31",
+      "end_date_from": "1245-01-01",
+      "end_date_sort": "1335-07-02",
+      "start_date_to": null,
+      "start_date_from": "1245-01-01",
+      "start_date_sort": "1245-01-01",
+      "zotero_refs": "[MPRU5QUC]: 210. Abbot of gSang phu ne'u thog monastery (15th abbot of lower college) for three years.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1245",
+      "end": "after 1245 before 1425",
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1425-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1425-12-31",
+  "start_date_to": null,
+  "start_date_from": "1225-01-01",
+  "start_date_sort": "1225-01-01",
+  "comments": "Fl. early 14th c.",
+  "alternative_names": "dar dbang \r\nngar dbang",
+  "external_links": "",
+  "review": false,
+  "start": "after 1225",
+  "end": "before 1425",
+  "name": "dar ma dbang phyug",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

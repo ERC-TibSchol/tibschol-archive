@@ -1,0 +1,82 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7350/",
+  "relations": [
+    {
+      "id": 5705,
+      "label": "dkon mchog seng ge (7350) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7350/",
+        "label": "dkon mchog seng ge (7350)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1428-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1428-12-31",
+      "start_date_to": null,
+      "start_date_from": "1366-01-01",
+      "start_date_sort": "1366-01-01",
+      "zotero_refs": "[BKUHJCNA]: 711. Taught epistemology to 'Jam dpal rgya mtsho (ID:7061).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1366",
+      "end": "before 1428",
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 5704,
+      "label": "'jam dpal rgya mtsho (7061) student of dkon mchog seng ge (7350)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7061/",
+        "label": "'jam dpal rgya mtsho (7061)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7350/",
+        "label": "dkon mchog seng ge (7350)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BKUHJCNA]: 711.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    }
+  ],
+  "end_date_to": "1450-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1450-12-31",
+  "start_date_to": null,
+  "start_date_from": "1300-01-01",
+  "start_date_sort": "1300-01-01",
+  "comments": "",
+  "alternative_names": "slob dpon dkon seng pa",
+  "external_links": "https://purl.bdrc.io/resource/P2078",
+  "review": true,
+  "start": "after 1300",
+  "end": "before 1450",
+  "name": "dkon mchog seng ge",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

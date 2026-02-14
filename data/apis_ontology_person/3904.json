@@ -64,6 +64,35 @@
       ]
     },
     {
+      "id": 6556,
+      "label": "bo dong rin chen rtse mo (3904) active at brag ram (5572)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
+        "label": "bo dong rin chen rtse mo (3904)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5572/",
+        "label": "brag ram (5572)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "exXX0032026-02-1314-58-55",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 2275,
       "label": "bo dong rin chen rtse mo (3904) student of gnyal zhig po 'jam pa'i rdo rje (3887)",
       "subj": {
@@ -308,7 +337,7 @@
   "start_date_from": "1100-01-01",
   "start_date_sort": "1140-07-02",
   "comments": "Same person as (ID:6061)?\r\nAccording to [2X2E3882]: 207, same person as Bo dong Sho re ba (ID: 5518).",
-  "alternative_names": "",
+  "alternative_names": "bo dong rin rtse",
   "external_links": "https://purl.bdrc.io/resource/P2375",
   "review": false,
   "start": "after 1100 before 1180",

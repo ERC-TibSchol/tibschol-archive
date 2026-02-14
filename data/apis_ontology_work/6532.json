@@ -1,0 +1,48 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6532/",
+  "relations": [
+    {
+      "id": 3406,
+      "label": "khu shes rab brtson 'grus (3823) author of mngon rtogs rgyan gyii Tik+ka rgyas (6532)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3823/",
+        "label": "khu shes rab brtson 'grus (3823)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6532/",
+        "label": "mngon rtogs rgyan gyii Tik+ka rgyas (6532)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 529, No. 11501.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1143-12-31",
+  "start_date_from": "1085-01-01",
+  "start_date_sort": "1114-07-02",
+  "comments": "Listed along with two other works by A khu ching shes rab rgya mtsho in his Tho yig ([5RXEUKD9]: 529, No. 11501: 'bre'i slob ma khu shes rab brtson 'grus kyi mngon rtogs rgyan gyi Tik+ka rgyas 'bring bsdus gsum. One of them probably corresponds to (ID:4514).",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "after 1085 before 1143",
+  "name": "mngon rtogs rgyan gyii Tik+ka rgyas",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}

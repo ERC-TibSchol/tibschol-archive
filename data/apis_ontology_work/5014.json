@@ -1,0 +1,130 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5014/",
+  "relations": [
+    {
+      "id": 2135,
+      "label": "spring yig bdud rtsi thig pa'i bsdus don (5014) commentary on spring yig bdud rtsi'i thig pa (4447)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5014/",
+        "label": "spring yig bdud rtsi thig pa'i bsdus don (5014)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4447/",
+        "label": "spring yig bdud rtsi'i thig pa (4447)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 206, n. 71.",
+      "tei_refs": "ex56192024-12-1911-24-21",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1525,
+      "label": "spring yig bdud rtsi thig pa'i bsdus don (5014) has as an instance spring yig bdud rtsi thig pa'i bsdus don (5013)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5014/",
+        "label": "spring yig bdud rtsi thig pa'i bsdus don (5014)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5013/",
+        "label": "spring yig bdud rtsi thig pa'i bsdus don (5013)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2134,
+      "label": "spring yig bdud rtsi thig pa'i bsdus don (5014) composed at dpal ldan gser bzang dgon pa (5688)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5014/",
+        "label": "spring yig bdud rtsi thig pa'i bsdus don (5014)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5688/",
+        "label": "dpal ldan gser bzang dgon pa (5688)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex56192024-11-0513-47-41",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 869,
+      "label": "rigs pa'i ral gri (4006) author of spring yig bdud rtsi thig pa'i bsdus don (5014)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5014/",
+        "label": "spring yig bdud rtsi thig pa'i bsdus don (5014)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:5013) in [8H6M69W4], No. 19266: mang du thos pa'i dge slong bcom ldan ral gri.",
+      "tei_refs": "ex56192024-11-0513-47-41",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1305-12-31",
+  "start_date_from": "1237-01-01",
+  "start_date_sort": "1271-07-02",
+  "comments": "Topical outline of the sPring yig bdud rtsi'i thig pa (ID:4447).",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "after 1237 before 1305",
+  "name": "spring yig bdud rtsi thig pa'i bsdus don",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": []
+}

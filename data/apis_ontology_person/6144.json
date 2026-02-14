@@ -1,0 +1,79 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6144/",
+  "relations": [
+    {
+      "id": 2555,
+      "label": "dpal ldan rdo rje rgyal mtshan (6144) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6144/",
+        "label": "dpal ldan rdo rje rgyal mtshan (6144)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 196 (de la dbon po dpal ldan rdo rje rgyal mtshan gyis dang po gsang phur byon nas tshad ma rnam nges mkhas par bslabs). Studies at gSang phu (ID:4332).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2499,
+      "label": "dpal ldan rdo rje rgyal mtshan (6144) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6144/",
+        "label": "dpal ldan rdo rje rgyal mtshan (6144)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 196 (de la dbon po dpal ldan rdo rje rgyal mtshan gyis dang po gsang phur byon nas tshad ma rnam nges mkhas par bslabs). Text studied: Pram\u0101\u1e47avini\u015bcaya (ID: 3774).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "Scholar in the sGyu 'phrul rgyud lineage.",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "dpal ldan rdo rje rgyal mtshan",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

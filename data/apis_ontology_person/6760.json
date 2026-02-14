@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6760/",
+  "relations": [
+    {
+      "id": 3933,
+      "label": "nor bzang rgya mtsho (6760) active at rtses thang (5765)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6760/",
+        "label": "nor bzang rgya mtsho (6760)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5765/",
+        "label": "rtses thang (5765)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MKF6XDW8]: 85, n. 208. Developed the thur grib (shadow-time measuring) there.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3932,
+      "label": "nor bzang rgya mtsho (6760) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6760/",
+        "label": "nor bzang rgya mtsho (6760)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MKF6XDW8]: 85, n. 208. Gained a great reputation as a scholar, e.g., at gSang phu.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1443",
+      "end": "after 1443",
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1513-12-31",
+  "end_date_from": "1513-01-01",
+  "end_date_sort": "1513-07-02",
+  "start_date_to": "1423-12-31",
+  "start_date_from": "1423-01-01",
+  "start_date_sort": "1423-07-02",
+  "comments": "Born in rTa nag in gTsang. Received training at bKra shis lhun po from dGe 'dun rgya mtsho. Gained a reputation at gSang phu, and arrived at dGa' ldan at 35. See [MKF6XDW8]: 85, n. 208.",
+  "alternative_names": "mkhas grub nor bzang rgya mtsho",
+  "external_links": "",
+  "review": false,
+  "start": "1423",
+  "end": "1513",
+  "name": "nor bzang rgya mtsho",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

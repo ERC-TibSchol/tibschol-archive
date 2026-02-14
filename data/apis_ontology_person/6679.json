@@ -1,0 +1,77 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6679/",
+  "relations": [
+    {
+      "id": 6233,
+      "label": "dmyal pa yon tan seng ge (6679) author of bden gnyis stong thun (5121)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6679/",
+        "label": "dmyal pa yon tan seng ge (6679)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5121/",
+        "label": "bden gnyis stong thun (5121)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "According to [6TNNKSQ3]: 54, the \"yon seng\" named in the closing verses could be Phya pa (ID:3831)'s student gNyal/dMyal ba Yon tan seng ge (ID:6679), but this seems not to be possible on account of the text adopting a \"thal 'gyur ba\" stance.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3743,
+      "label": "dmyal pa yon tan seng ge (6679) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6679/",
+        "label": "dmyal pa yon tan seng ge (6679)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 405 (khong [=phywa pa] la de dus kyi sde snod 'dzin pa phal mo che slob mar 'dus pa las | gtsang nag pa brtson 'grus seng ge | dan bag pa smra ba'i seng ge | bru sha bsod nams seng ge | rma bya rtsod pa'i seng ge | rtsags dbang phyug seng ge | myang bran chos kyi seng ge | ldan ma dkon mchog seng ge | gnyal pa yon tan seng ge ste seng chen brgyad |). He is also listed in the \"eight-lion\" list of [5NY3E6YU]: 68, his name being recorded as dmyal pa yon tan seng ge.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": "1159-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1159-12-31",
+  "comments": "",
+  "alternative_names": "gnyal pa yon tan seng ge\r\ngnyal ma yon tan seng ge\r\ngnyal po yon tan seng ge",
+  "external_links": "",
+  "review": false,
+  "start": "before 1159",
+  "end": null,
+  "name": "dmyal pa yon tan seng ge",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

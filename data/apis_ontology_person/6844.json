@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6844/",
+  "relations": [
+    {
+      "id": 4241,
+      "label": "seng ge rgyal mtshan (2) (6844) scribe of dbu ma la 'jug pa'i rgya cher bshad pa gsung rab rgya mtsho'i de kho na nyid rab tu gsal ba (1) (6847)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6844/",
+        "label": "seng ge rgyal mtshan (2) (6844)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6847/",
+        "label": "dbu ma la 'jug pa'i rgya cher bshad pa gsung rab rgya mtsho'i de kho na nyid rab tu gsal ba (1) (6847)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[UUCA9YLQ]: 531 (yi ge pa ni lung dang rigs par smra ba seng ge rgyal mtshan gyis bgyis so ||)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4235,
+      "label": "seng ge rgyal mtshan (2) (6844) scribe of dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5208)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6844/",
+        "label": "seng ge rgyal mtshan (2) (6844)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5208/",
+        "label": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5208)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex76012024-09-1612-39-18",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": "1450-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1450-12-31",
+  "start_date_to": null,
+  "start_date_from": "1350-01-01",
+  "start_date_sort": "1350-01-01",
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "after 1350",
+  "end": "before 1450",
+  "name": "seng ge rgyal mtshan (2)",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

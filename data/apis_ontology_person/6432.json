@@ -1,0 +1,49 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6432/",
+  "relations": [
+    {
+      "id": 3095,
+      "label": "spo chung ba tshul khrims shes rab (6152) student of gzus (6432)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6152/",
+        "label": "spo chung ba tshul khrims shes rab (6152)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6432/",
+        "label": "gzus (6432)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 194.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "Possibly gZus rDo rje rgyal mtshan, a disciple of Gru mer mentioned in [R894SIKE]: 106.",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "gzus",
+  "gender": "male",
+  "nationality": "Tibetan"
+}
