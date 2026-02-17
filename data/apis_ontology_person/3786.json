@@ -834,7 +834,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[ABYM2GP5]: 22.  According to Sangs rgyas phun tshogs's Ngor chos 'byung, rNgog Lo (ID:3786)'s Madhyamaka lineage went from rNgog Blo ldan shes rab to Gangs pa she'u (ID:3810) and Khyung rin chen grags (ID:3809), from these two to sTod lung rGya dmar ba Byang chub grags (ID:3834), and from him to Phya pa (ID:3831).\r\n[MGPRHX73]: 56, n. 21. Teaching: Bodhicary\u0101vat\u0101ra, D3871.\r\n[Z5FZQCNC]: 143-144. Lineage of the reading transmission (lung) of the Pram\u0101\u1e47av\u0101rttika (ID:3772) as received by Bu ston (ID:5999): from rNgog lo tsA ba (ID:3786) to Khyung Rin chen grags (ID:3809), rGya dmar Byang chub grags (ID:3834), Phywa ba (ID:3831), gTsang nag pa (ID:3839), Dar ma bkra shis (ID:6217), gNyal pa (i.e., gNyal zhig \u2018Jam pa\u2019i rdo rje (ID:3887)), Bo dong pa (probably (ID:3904)), lDong pa Grags pa dpal, Lho pa Grub seng (ID:7651), Tshad ma'i skyes bu (ID:6925), Bu ston (ID:5999).",
+      "zotero_refs": "[ABYM2GP5]: 22.  According to Sangs rgyas phun tshogs's Ngor chos 'byung, rNgog Lo (ID:3786)'s Madhyamaka lineage went from rNgog Blo ldan shes rab to Gangs pa she'u (ID:3810) and Khyung rin chen grags (ID:3809), from these two to sTod lung rGya dmar ba Byang chub grags (ID:3834), and from him to Phya pa (ID:3831).\r\n[MGPRHX73]: 56, n. 21. Teaching: Bodhicary\u0101vat\u0101ra, D3871.\r\n[Z5FZQCNC]: 143-144. Lineage of the reading transmission (lung) of the Pram\u0101\u1e47av\u0101rttika (ID:3772) as received by Bu ston (ID:5999): from rNgog lo tsA ba (ID:3786) to Khyung Rin chen grags (ID:3809), rGya dmar Byang chub grags (ID:3834), Phywa ba (ID:3831), gTsang nag pa (ID:3839), Dar ma bkra shis (ID:6217), gNyal pa (i.e., gNyal zhig \u2018Jam pa\u2019i rdo rje (ID:3887)), Bo dong pa (probably (ID:3904)), lDong pa Grags pa dpal (ID:7761), Lho pa Grub seng (ID:7651), Tshad ma'i skyes bu (ID:6925), Bu ston (ID:5999).\r\nSee also [CTAI38G9]: 928.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -1356,38 +1356,6 @@
       "end": null
     },
     {
-      "id": 5791,
-      "label": "rngog blo ldan shes rab (3786) lineage predecessor of 'bre shes rab 'bar (3807)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
-        "label": "'bre shes rab 'bar (3807)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[BAQ9MH4T]: 321, n. 153. Based on [8GL7ZT7Y]. Transmission lineage of the Ratnagotravibh\u0101ga (ID:3749).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        10,
-        56
-      ]
-    },
-    {
       "id": 2416,
       "label": "rngog blo ldan shes rab (3786) author of slob dpon chos mchog gi tshad ma brtag pa chung ba'i rnam bshad (6090)",
       "subj": {
@@ -1442,6 +1410,38 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 5791,
+      "label": "rngog blo ldan shes rab (3786) lineage predecessor of 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 321, n. 153. Based on [8GL7ZT7Y]. Transmission lineage of the Ratnagotravibh\u0101ga (ID:3749).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10,
+        56
+      ]
     },
     {
       "id": 2426,

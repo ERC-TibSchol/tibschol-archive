@@ -1,0 +1,79 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7762/",
+  "relations": [
+    {
+      "id": 6577,
+      "label": "brag ston bsod nams rgyal mtshan dpal bzang po (7762) parent of bu ston rin chen grub (5999)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7762/",
+        "label": "brag ston bsod nams rgyal mtshan dpal bzang po (7762)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5999/",
+        "label": "bu ston rin chen grub (5999)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[G3A38VJG]: 44, 57.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6578,
+      "label": "bu ston rin chen grub (5999) student of brag ston bsod nams rgyal mtshan dpal bzang po (7762)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5999/",
+        "label": "bu ston rin chen grub (5999)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7762/",
+        "label": "brag ston bsod nams rgyal mtshan dpal bzang po (7762)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[G3A38VJG]: 75. Study of the Pram\u0101\u1e47avini\u015bcaya (ID:3774) and epistemological summary/summaries (bsdus pa) (or maybe \"Tshad ma'i skyes bu (ID:6925)'s summary?\", as suggested in [CTAI38G9]: 928).\r\n[CTAI38G9]: 923, 928.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/P3675",
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "brag ston bsod nams rgyal mtshan dpal bzang po",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

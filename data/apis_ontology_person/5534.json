@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5534/",
   "relations": [
     {
+      "id": 6580,
+      "label": "vin\u012btadeva (5534) author of hetu\u00adbindu\u00ad\u1e6d\u012bk\u0101 (7763)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5534/",
+        "label": "vin\u012btadeva (5534)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7763/",
+        "label": "hetu\u00adbindu\u00ad\u1e6d\u012bk\u0101 (7763)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4910,
       "label": "vin\u012btadeva (5534) author of v\u0101dany\u0101ya\u1e6d\u012bk\u0101 (7098)",
       "subj": {

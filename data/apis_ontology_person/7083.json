@@ -3,10 +3,10 @@
   "relations": [
     {
       "id": 4891,
-      "label": "blo gros brtan pa (7083) active at 'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
+      "label": "blo gros brtan pa (2) (7083) active at 'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7083/",
-        "label": "blo gros brtan pa (7083)",
+        "label": "blo gros brtan pa (2) (7083)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -32,10 +32,10 @@
     },
     {
       "id": 5470,
-      "label": "blo gros brtan pa (7083) author of rnam 'grel gyi lam sgrigs (7242)",
+      "label": "blo gros brtan pa (2) (7083) author of rnam 'grel gyi lam sgrigs (7242)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7083/",
-        "label": "blo gros brtan pa (7083)",
+        "label": "blo gros brtan pa (2) (7083)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -60,10 +60,10 @@
     },
     {
       "id": 5423,
-      "label": "blo gros brtan pa (7083) active at khu be grwa tshang (6778)",
+      "label": "blo gros brtan pa (2) (7083) active at khu be grwa tshang (6778)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7083/",
-        "label": "blo gros brtan pa (7083)",
+        "label": "blo gros brtan pa (2) (7083)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -89,10 +89,10 @@
     },
     {
       "id": 4864,
-      "label": "blo gros brtan pa (7083) active at gsang phu gling stod (6172)",
+      "label": "blo gros brtan pa (2) (7083) active at gsang phu gling stod (6172)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7083/",
-        "label": "blo gros brtan pa (7083)",
+        "label": "blo gros brtan pa (2) (7083)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -102,18 +102,18 @@
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
-      "end_date_to": null,
+      "end_date_to": "1478-12-31",
       "end_date_from": null,
-      "end_date_sort": null,
+      "end_date_sort": "1478-12-31",
       "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
+      "start_date_from": "1422-01-01",
+      "start_date_sort": "1422-01-01",
       "zotero_refs": "[BKUHJCNA]: 737 (gsang phu gling stod kyi chen po'ang lo shas mdzad).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
+      "start": "after 1422",
+      "end": "before 1478",
       "subject_of_teaching_vocab": []
     }
   ],
@@ -129,7 +129,7 @@
   "review": false,
   "start": "1402",
   "end": "1478",
-  "name": "blo gros brtan pa",
+  "name": "blo gros brtan pa (2)",
   "gender": "male",
   "nationality": "Tibetan"
 }

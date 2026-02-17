@@ -3,10 +3,10 @@
   "relations": [
     {
       "id": 4891,
-      "label": "blo gros brtan pa (7083) active at 'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
+      "label": "blo gros brtan pa (2) (7083) active at 'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7083/",
-        "label": "blo gros brtan pa (7083)",
+        "label": "blo gros brtan pa (2) (7083)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -244,18 +244,18 @@
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
+      "end_date_to": "1492-12-31",
+      "end_date_from": "1492-01-01",
+      "end_date_sort": "1492-07-01",
+      "start_date_to": "1490-12-31",
+      "start_date_from": "1490-01-01",
+      "start_date_sort": "1490-07-02",
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "Ninth Dga' ldan khri pa (1490-1492).",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
+      "start": "1490",
+      "end": "1492",
       "subject_of_teaching_vocab": []
     },
     {
