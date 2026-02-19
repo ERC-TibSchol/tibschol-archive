@@ -2,6 +2,38 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7726/",
   "relations": [
     {
+      "id": 6595,
+      "label": "Ratnavajra (7726) lineage predecessor of sajjana (3800)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7726/",
+        "label": "Ratnavajra (7726)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3800/",
+        "label": "sajjana (3800)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex2702_2024-09-1114-42-583",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10,
+        56
+      ]
+    },
+    {
       "id": 6486,
       "label": "p\u016br\u1e47avardhana (6975) lineage predecessor of Ratnavajra (7726)",
       "subj": {
