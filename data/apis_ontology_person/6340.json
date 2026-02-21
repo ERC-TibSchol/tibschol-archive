@@ -201,11 +201,11 @@
       "end": null
     },
     {
-      "id": 4742,
-      "label": "Anonymous (11) (7028) quotes with name nag tsho tshul khrims rgyal ba (6340)",
+      "id": 3826,
+      "label": "rong pa phyag sor ba (3943) student of nag tsho tshul khrims rgyal ba (6340)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7028/",
-        "label": "Anonymous (11) (7028)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3943/",
+        "label": "rong pa phyag sor ba (3943)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -221,15 +221,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[64YBVNDG]: 625.",
+      "zotero_refs": "[W4T5ZMUP]: 40.\r\n[AXC5KZK3]: 239.",
       "tei_refs": "",
-      "support_notes": "In work (ID:5119).",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": [
-        13
-      ]
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 5196,
@@ -253,35 +251,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3826,
-      "label": "rong pa phyag sor ba (3943) student of nag tsho tshul khrims rgyal ba (6340)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3943/",
-        "label": "rong pa phyag sor ba (3943)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
-        "label": "nag tsho tshul khrims rgyal ba (6340)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[W4T5ZMUP]: 40.\r\n[AXC5KZK3]: 239.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -317,6 +286,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4742,
+      "label": "Anonymous (11) (7028) quotes with name nag tsho tshul khrims rgyal ba (6340)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7028/",
+        "label": "Anonymous (11) (7028)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
+        "label": "nag tsho tshul khrims rgyal ba (6340)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[64YBVNDG]: 625.",
+      "tei_refs": "",
+      "support_notes": "In work (ID:5119).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     }
   ],
   "end_date_to": "1064-12-31",

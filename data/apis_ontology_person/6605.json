@@ -2,37 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6605/",
   "relations": [
     {
-      "id": 3540,
-      "label": "dbus pa blo gsal (4091) quotes with name bsam bu lo tsa ba (6605)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4091/",
-        "label": "dbus pa blo gsal (4091)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6605/",
-        "label": "bsam bu lo tsa ba (6605)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CTAI38G9]: 920, n. 1. dBus pa refers to Sam bu's views on grammar.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        5
-      ]
-    },
-    {
       "id": 3539,
       "label": "zhang g.yu brag brtson 'grus grags pa (6409) student of bsam bu lo tsa ba (6605)",
       "subj": {
@@ -61,6 +30,37 @@
       "end": null,
       "subject_of_teaching_vocab": [
         9
+      ]
+    },
+    {
+      "id": 3540,
+      "label": "dbus pa blo gsal (4091) quotes with name bsam bu lo tsa ba (6605)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4091/",
+        "label": "dbus pa blo gsal (4091)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6605/",
+        "label": "bsam bu lo tsa ba (6605)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTAI38G9]: 920, n. 1. dBus pa refers to Sam bu's views on grammar.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        5
       ]
     }
   ],

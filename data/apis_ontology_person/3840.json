@@ -116,6 +116,37 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 6610,
+      "label": "dan bag pa smra ba'i seng ge (3840) lineage predecessor of gnyal zhig po 'jam pa'i rdo rje (3887)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3840/",
+        "label": "dan bag pa smra ba'i seng ge (3840)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
+        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTAI38G9]: 939.  Lineage of the Pram\u0101\u1e47avini\u015bcaya (ID:3774) according to Bu ston (ID:5999)\u2019s student sGra tshad pa (ID:7772) or one of his students. After several other Indian figures it begins with gZhan phan bzang po (Parahitabhadra (ID:3798)), followed by rNgog lo tsA ba (ID:3786), Khyung Rin chen grags (ID:3809), rGya dmar (ID:3834), Cha pa (ID:3831), gTsang nag pa (ID:3839), Dan 'bag pa (ID:3840), gNyal zhig (ID:3887), Bo dong Rin chen (ID:3904), lDong[s] Grags pa dpal (ID:7761), <Lho pa> Grub pa seng ge (ID:7651), Tshad ma'i skyes bu (ID:6925), Bu ston (ID:5999), Thugs sras lo tsA ba (ID:7772).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
       "id": 403,
       "label": "gnyal zhig po 'jam pa'i rdo rje (3887) student of dan bag pa smra ba'i seng ge (3840)",
       "subj": {
@@ -223,7 +254,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[4LWBNM7B]: 216, n. 2. Lineages of epistemology and for the Gang blo ma, that have the sequence: rGya dmar ba (ID:3834), Cha pa (ID:3831), gTsang nag pa (ID:3839), Dan 'bag pa (ID:3840).",
+      "zotero_refs": "[4LWBNM7B]: 216, n. 2. Lineages of epistemology and for the Gang blo ma, that have the sequence: rGya dmar ba (ID:3834), Cha pa (ID:3831), gTsang nag pa (ID:3839), Dan 'bag pa (ID:3840).\r\n[CTAI38G9]: 939.  Lineage of the Pram\u0101\u1e47avini\u015bcaya (ID:3774) according to Bu ston (ID:5999)\u2019s student sGra tshad pa (ID:7772) or one of his students. After several other Indian figures it begins with gZhan phan bzang po (Parahitabhadra (ID:3798)), followed by rNgog lo tsA ba (ID:3786), Khyung Rin chen grags (ID:3809), rGya dmar (ID:3834), Cha pa (ID:3831), gTsang nag pa (ID:3839), Dan 'bag pa (ID:3840), gNyal zhig (ID:3887), Bo dong Rin chen (ID:3904), lDong[s] Grags pa dpal (ID:7761), <Lho pa> Grub pa seng ge (ID:7651), Tshad ma'i skyes bu (ID:6925), Bu ston (ID:5999), Thugs sras lo tsA ba (ID:7772).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -360,7 +391,7 @@
   "start_date_to": "1159-12-31",
   "start_date_from": "1050-01-01",
   "start_date_sort": "1104-12-31",
-  "comments": "Part of the group of Phya pa (ID:3831)'s students referred to as the \"Eight Mighty Lions.\"\r\nPossibly identical with (ID:6217) ([4LWBNM7B]: 106).",
+  "comments": "Part of the group of Phya pa (ID:3831)'s students referred to as the \"Eight Mighty Lions.\"\r\nPossibly identical with (ID:6217) ([4LWBNM7B]: 106).\r\nMaybe the same person as the \"Chos kyi grags pa\" mentioned as lineage successor of gTsang nag pa (ID:3839) and predecessor of gNyal zhig (ID:3887) in Bu ston's lineage of the Pram\u0101\u1e47avini\u015bcaya (ID:3774).",
   "alternative_names": "'dan bag pa\r\ndan 'bag pa\r\ndan\r\ndan bag\r\nsmra ba'i seng ge dan 'bag pa\r\nsmra ba'i seng+ge\r\nsmra seng ge\r\ndar ma bkra shis\r\ndar ma seng ge\r\ndan 'bag pa dar seng\r\ndan phag pa dar ma seng ge\r\ndang 'bag smra ba'i seng ge\r\nsmra ba'i seng ge dar 'bag pa",
   "external_links": "https://purl.bdrc.io/resource/P4747",
   "review": false,

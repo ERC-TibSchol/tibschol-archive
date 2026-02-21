@@ -475,18 +475,18 @@
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
-      "end_date_to": null,
+      "end_date_to": "1280-12-31",
       "end_date_from": null,
-      "end_date_sort": null,
+      "end_date_sort": "1280-12-31",
       "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
+      "start_date_from": "1253-01-01",
+      "start_date_sort": "1253-01-01",
       "zotero_refs": "[FEHIEFEB]: 136. Taught by Chu mig pa (ID:4018) to Kun spangs Thugs rje brtson 'grus (ID:3905).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null
+      "start": "after 1253",
+      "end": "before 1280"
     },
     {
       "id": 3384,
@@ -1202,34 +1202,6 @@
       "end": null
     },
     {
-      "id": 1856,
-      "label": "shes rab kyi pha rol tu phyin pa'i sgom don rin chen spungs pa (2) (4794) written at snar thang (4411)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4794/",
-        "label": "shes rab kyi pha rol tu phyin pa'i sgom don rin chen spungs pa (2) (4794)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
-        "label": "snar thang (4411)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex047032025-11-1011-17-00",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 6127,
       "label": "byang chub sems dpa'i spyod pa la 'jug pa'i gzhung dka' ba'i bshad yams gsal bar byed pa mkhas pa'i rgyan rin po che'i gter (7540) composed at snar thang (4411)",
       "subj": {
@@ -1253,6 +1225,34 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "Colophon in (ID:7541), fol. 28a4-5: 'di ni dpal ldan snar thang gi chos gra chen por \u00a6 mkhas mang rgya mtsho'i dbus \u00a6 ma ga ta rdo rje'i gdan dang chos mtshungs pa \u00a6 snar thang gzims khang du \u00a6 btsun pa kun dga' rgyal mtshan dpal bzang pos \u00a6 blo gros kyi mig can 'ga' yis bskul ba'i ngor sbyar ba rdzogs s+ho ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1856,
+      "label": "shes rab kyi pha rol tu phyin pa'i sgom don rin chen spungs pa (2) (4794) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4794/",
+        "label": "shes rab kyi pha rol tu phyin pa'i sgom don rin chen spungs pa (2) (4794)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex047032025-11-1011-17-00",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

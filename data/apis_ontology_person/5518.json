@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5518/",
   "relations": [
     {
-      "id": 5192,
-      "label": "bo dong ba 'jam pa'i dbyangs sho re pa (5518) quotes with name gnyal zhig po 'jam pa'i rdo rje (3887)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5518/",
-        "label": "bo dong ba 'jam pa'i dbyangs sho re pa (5518)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
-        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2276,
       "label": "bo dong ba 'jam pa'i dbyangs sho re pa (5518) student of dbu ma pa shes rab 'bum (3903)",
       "subj": {
@@ -51,9 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "exX062023-02-2315-43-12",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -110,12 +81,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "exX062023-02-2315-34-10\r\nexX062023-02-2315-35-00\r\nexX062023-02-2315-35-21\r\nexX062023-02-2315-35-45\r\nexX062023-02-2315-36-26\r\nexX062023-02-2315-38-34\r\nexX062023-02-2315-39-18\r\nexX062023-02-2315-39-43",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 1193,
@@ -139,7 +112,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[FZ6N88AU]: 405.",
-      "tei_refs": "exX062023-02-2315-43-12",
+      "tei_refs": "exX062023-02-2315-51-15\r\nexX062023-02-2315-43-12",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -167,12 +140,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "exX062023-02-2315-21-55\r\nexX062023-02-2315-23-13\r\nexX062023-02-2315-24-19\r\nexX062023-02-2315-24-48\r\nexX062023-02-2315-25-19\r\nexX062023-02-2315-26-03\r\nexX062023-02-2315-26-48\r\nexX062023-02-2315-28-14\r\nexX062023-02-2315-28-39\r\nexX062023-02-215-29-09\r\nexX062023-02-2315-29-45",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9
+      ]
     }
   ],
   "end_date_to": "1260-12-31",
@@ -182,7 +157,7 @@
   "start_date_from": "1200-01-01",
   "start_date_sort": "1200-01-01",
   "comments": "According to [2X2E3882]: 207, same person as Bo dong Rin chen rtse mo (ID: 3904).",
-  "alternative_names": "'jam dbyangs sho re ba\r\nbrag ram 'jam dbyangs sho re pa\r\nbo dong 'jam pa'i dbyangs sho re ba",
+  "alternative_names": "bo don 'jam dbyangs\r\n'jam dbyangs sho re ba\r\nbrag ram 'jam dbyangs sho re pa\r\nbo dong 'jam pa'i dbyangs sho re ba",
   "external_links": "https://purl.bdrc.io/resource/P8405",
   "review": true,
   "start": "after 1200",
