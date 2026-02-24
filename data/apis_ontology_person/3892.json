@@ -1046,6 +1046,37 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 6615,
+      "label": "rong pa rgwa lo rnam rgyal rdo rje (7775) student of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7775/",
+        "label": "rong pa rgwa lo rnam rgyal rdo rje (7775)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8S7FDMCJ]: 117.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
       "id": 4197,
       "label": "lho pa kun mkhyen rin chen dpal (5463) student of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
       "subj": {
@@ -1185,7 +1216,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex087042026-02-2315-44-51",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -1464,6 +1495,34 @@
       "subject_of_teaching_vocab": [
         9
       ]
+    },
+    {
+      "id": 6635,
+      "label": "lho pa kun mkhyen rin chen dpal (5463) biographer of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
+        "label": "lho pa kun mkhyen rin chen dpal (5463)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 3675,

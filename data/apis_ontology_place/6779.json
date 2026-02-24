@@ -1,0 +1,74 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6779/",
+  "relations": [
+    {
+      "id": 4005,
+      "label": "ra ba stod gwa tshang (6779) located within gsang phu gling smad (6158)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6779/",
+        "label": "ra ba stod gwa tshang (6779)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6158/",
+        "label": "gsang phu gling smad (6158)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CKLUC29Y]: 19.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5433,
+      "label": "blo bzang nyi ma (6307) active at ra ba stod gwa tshang (6779)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6307/",
+        "label": "blo bzang nyi ma (6307)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6779/",
+        "label": "ra ba stod gwa tshang (6779)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[E9XCQDGQ]: 132 (gsang phur po ti nyi shu rtsa gnyis kyi grwa skor mdzad cing | slob dpon rnams tshogs pa'i sar bgro gleng mdzad pas slob dpon rtse nyag pa bcoms | de'i phyi lo ra ba stod kyi 'chad nyan mdzad de chen po'i go sar yang phebs).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "latitude": null,
+  "longitude": null,
+  "feature_code": "",
+  "comments": "dGe lugs college.",
+  "alternative_names": "grwa tshang ra ba stod pa",
+  "external_links": "",
+  "review": false,
+  "label": "ra ba stod gwa tshang",
+  "start": null
+}

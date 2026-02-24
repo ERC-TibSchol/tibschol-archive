@@ -1,0 +1,336 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6049/",
+  "relations": [
+    {
+      "id": 2344,
+      "label": "rkyang 'dur (6049) located within nyang stod (5541)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6049/",
+        "label": "rkyang 'dur (6049)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5541/",
+        "label": "nyang stod (5541)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3181,
+      "label": "rkyang 'dur (6049) located within nyang (6430)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6049/",
+        "label": "rkyang 'dur (6049)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6430/",
+        "label": "nyang (6430)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 519. One of the three main holy places of Nyang gzhung bar.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5492,
+      "label": "pram\u0101\u1e47avini\u015bcaya (3774) taught at rkyang 'dur (6049)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6049/",
+        "label": "rkyang 'dur (6049)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 24. Teaching in Nyang stod rKyang 'dur (ID:6049) by mTshur ston (ID:4315) to Sa skya Pa\u1e47\u1e0dita (ID:3892), along with the Prasannapad\u0101 (ID:3724) and Tarkamudgarak\u0101rik\u0101 (ID:6569).\r\n[RA3FK3BK]: 163. Teaching in rKyang thur (ID:6049) by mTshur ston (ID:4315) to Sa skya Pa\u1e47\u1e0dita (ID:3892), four times and the last section twice, along with N\u0101g\u0101rjuna's dBu ma rigs tshogs (ID:5632).\r\n[FEHIEFEB]: 137. Taught by Kun spangs thugs rje brtson 'grus (ID:3905).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3626,
+      "label": "kun spangs thugs rje brtson 'grus (3905) active at rkyang 'dur (6049)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3905/",
+        "label": "kun spangs thugs rje brtson 'grus (3905)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6049/",
+        "label": "rkyang 'dur (6049)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 136-137. Was invited and assumed the monastery's abbacy. Taught  the Pram\u0101\u1e47avini\u015bcaya (ID:3774) and the Rigs gter (ID:5564) and composed there a work of epistemology (ID:6641) and a work of Madhyamaka (ID:6642).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        13
+      ]
+    },
+    {
+      "id": 3048,
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) active at rkyang 'dur (6049)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6049/",
+        "label": "rkyang 'dur (6049)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1104-12-31",
+      "end_date_from": "1104-01-01",
+      "end_date_sort": "1104-07-01",
+      "start_date_to": "1102-12-31",
+      "start_date_from": "1102-01-01",
+      "start_date_sort": "1102-07-02",
+      "zotero_refs": "[ABYM2GP5]: 24. Studies in Nyang stod rKyang 'dur (ID:6049) with mTshur ston gZhon nu seng ge (ID:4315). Subject: the Pram\u0101\u1e47avini\u015bcaya (ID:3774), Prasannapad\u0101 (ID:3724), Tarkamudgarak\u0101rik\u0101 (ID:6569).\r\n[RA3FK3BK]: 163. Studies in rKyang thur (ID:6049) with mTshur ston gZhon nu seng ge (ID:4315). Subject: four times the Pram\u0101\u1e47avini\u015bcaya (ID:3774) and the last section twice, N\u0101g\u0101rjuna's dBu ma rigs tshogs (ID:5632).\r\n[RA3FK3BK]: 163. Studies with mTshur ston gZhon nu seng ge (ID:4315).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1102",
+      "end": "1104",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5897,
+      "label": "tshad ma rigs gter (5564) taught at rkyang 'dur (6049)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6049/",
+        "label": "rkyang 'dur (6049)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 137. Taught by Kun spangs thugs rje brtson 'grus (ID:3905).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3627,
+      "label": "nag phug pa (6639) active at rkyang 'dur (6049)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6639/",
+        "label": "nag phug pa (6639)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6049/",
+        "label": "rkyang 'dur (6049)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 136-137. rKyang 'dur was Nag phug pa's seat (gdan sa).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2345,
+      "label": "mtshur ston gzhon nu seng ge (4315) active at rkyang 'dur (6049)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4315/",
+        "label": "mtshur ston gzhon nu seng ge (4315)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6049/",
+        "label": "rkyang 'dur (6049)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 24. Teaching in Nyang stod rKyang 'dur (ID:6049) to Sa skya Pa\u1e47\u1e0dita (ID:3892). Subject: the Pram\u0101\u1e47avini\u015bcaya (ID:3774), Prasannapad\u0101 (ID:3724), Tarkamudgarak\u0101rik\u0101 (ID:6569).\r\n[RA3FK3BK]: 163. Teaching in rKyang thur (ID:6049) to Sa skya Pa\u1e47\u1e0dita (ID:3892). Subject: four times the Pram\u0101\u1e47avini\u015bcaya (ID:3774) and the last section twice, N\u0101g\u0101rjuna's dBu ma rigs tshogs (ID:5632).\r\n[RA3FK3BK]: 163. Teaching to Sa skya Pa\u1e47\u1e0dita (ID:3892).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        13
+      ]
+    },
+    {
+      "id": 3631,
+      "label": "dbu ma'i rigs pa gsal bar byed pa rdo rje 'phreng ba (6642) composed at rkyang 'dur (6049)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6642/",
+        "label": "dbu ma'i rigs pa gsal bar byed pa rdo rje 'phreng ba (6642)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6049/",
+        "label": "rkyang 'dur (6049)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 137.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3887,
+      "label": "'jam gsar ba shes rab 'od zer (3884) active at rkyang 'dur (6049)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
+        "label": "'jam gsar ba shes rab 'od zer (3884)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6049/",
+        "label": "rkyang 'dur (6049)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1280-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1280-12-31",
+      "start_date_to": null,
+      "start_date_from": "1120-01-01",
+      "start_date_sort": "1120-01-01",
+      "zotero_refs": "[D5VJHLSN]: 19. Founded a seminary at sKyang 'dur.",
+      "tei_refs": "exXX0032026-02-1314-58-22",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1120",
+      "end": "before 1280",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3629,
+      "label": "tshad ma bsdus pa (6641) composed at rkyang 'dur (6049)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6641/",
+        "label": "tshad ma bsdus pa (6641)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6049/",
+        "label": "rkyang 'dur (6049)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 137.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "latitude": null,
+  "longitude": null,
+  "feature_code": "",
+  "comments": "[8S7FDMCJ]: 302, n. 285 gives for this place the references [XJZTV8D9]: 67-68 and [UGX3W3AK]: 90.",
+  "alternative_names": "rkyang thur\r\nrkyang dur\r\nskyang 'dur",
+  "external_links": "",
+  "review": false,
+  "label": "rkyang 'dur",
+  "start": null
+}

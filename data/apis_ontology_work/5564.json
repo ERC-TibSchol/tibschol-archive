@@ -86,6 +86,34 @@
       "end": "1294"
     },
     {
+      "id": 6627,
+      "label": "tshad ma rigs gter gyi Tik+ka (7780) commentary on tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7780/",
+        "label": "tshad ma rigs gter gyi Tik+ka (7780)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2325,
       "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) author of tshad ma rigs gter (5564)",
       "subj": {
@@ -136,6 +164,34 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6637,
+      "label": "tshad ma'i don bsdus pa (5294) contains citations of tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5294/",
+        "label": "tshad ma'i don bsdus pa (5294)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex087042026-02-2315-48-02\r\nex087042026-02-2317-05-14",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

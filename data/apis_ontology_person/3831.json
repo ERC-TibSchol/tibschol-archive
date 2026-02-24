@@ -1914,35 +1914,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 6100,
-      "label": "lho pa kun mkhyen rin chen dpal (5463) student of phywa pa chos kyi seng ge (3831)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
-        "label": "lho pa kun mkhyen rin chen dpal (5463)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[ABYM2GP5]: 24, based on \u015a\u0101kya mchog ldan's Rol mo.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3937,
       "label": "gnyal pa dad pa bzang po (6243) student of phywa pa chos kyi seng ge (3831)",
       "subj": {
@@ -2332,6 +2303,35 @@
         56,
         13
       ]
+    },
+    {
+      "id": 6100,
+      "label": "lho pa kun mkhyen rin chen dpal (5463) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
+        "label": "lho pa kun mkhyen rin chen dpal (5463)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 24, based on [8GL7ZT7Y]: 15b4, which gives \"lho pa thams cad mkhyen pa\" as an alternative name of sGom gzan (ID:3853).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 4712,

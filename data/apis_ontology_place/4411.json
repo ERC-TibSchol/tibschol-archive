@@ -1,0 +1,1844 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+  "relations": [
+    {
+      "id": 5768,
+      "label": "snar thang (4411) located within gtsang (5915)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
+        "label": "gtsang (5915)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6123,
+      "label": "snar thang mkhan chen kun dga' rgyal mtshan (7539) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7539/",
+        "label": "snar thang mkhan chen kun dga' rgyal mtshan (7539)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1401-12-31",
+      "end_date_from": "1400-01-01",
+      "end_date_sort": "1400-12-31",
+      "start_date_to": "1375-12-31",
+      "start_date_from": "1375-01-01",
+      "start_date_sort": "1375-07-02",
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "13th throne holder of sNar thang.\r\nComposition of work (ID:7540), see the colophon in (ID:7541), fol. 28a4-5: 'di ni dpal ldan snar thang gi chos gra chen por \u00a6 mkhas mang rgya mtsho'i dbus \u00a6 ma ga ta rdo rje'i gdan dang chos mtshungs pa \u00a6 snar thang gzims khang du \u00a6 btsun pa kun dga' rgyal mtshan dpal bzang pos \u00a6 blo gros kyi mig can 'ga' yis bskul ba'i ngor sbyar ba rdzogs s+ho ||",
+      "confidence": "Positive",
+      "start": "1375",
+      "end": "after 1400 before 1401",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2125,
+      "label": "ri khrod lo ma can gyi sgrub thabs (5094) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5094/",
+        "label": "ri khrod lo ma can gyi sgrub thabs (5094)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex61092024-11-0513-12-53",
+      "support_notes": "\"snar thang\" could also be the place the teaching was given to \"ze'u\".",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1946,
+      "label": "'jam dbyangs shes rab rgya mtsho (4009) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4009/",
+        "label": "'jam dbyangs shes rab rgya mtsho (4009)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2310,
+      "label": "skyel nag grags pa seng ge (4020) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4020/",
+        "label": "skyel nag grags pa seng ge (4020)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": "1232-01-01",
+      "end_date_sort": "1232-01-01",
+      "start_date_to": null,
+      "start_date_from": "1232-01-01",
+      "start_date_sort": "1232-01-01",
+      "zotero_refs": "[Q8FCH7LF]: 296. Set up a tradition of epistemology in sNar thang monastery.\r\n[V4DZTVU8]: 305. According to Yar lung Jo ba ShAkya rin chen's Yar lung jo bo'i chos 'byung (1376), taught \"tshad ma\" at sNar thang.\r\n[FZ6N88AU]: 412. According to the chronicle of Tshal pa Kun dga' rdo rje (1309-1364), founded a \"mtshan nyid kyi grwa sa\" at sNar thang during the era of 'Gro mgon Zhang ston (ID:3890).",
+      "tei_refs": "exXX0032026-02-1315-33-04",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1232",
+      "end": "after 1232",
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 5769,
+      "label": "gtum ston blo gros grags (3925) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3925/",
+        "label": "gtum ston blo gros grags (3925)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1166-12-31",
+      "end_date_from": "1166-01-01",
+      "end_date_sort": "1166-07-02",
+      "start_date_to": "1153-12-31",
+      "start_date_from": "1153-01-01",
+      "start_date_sort": "1153-07-02",
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Founder and first abbot of the monastery.",
+      "confidence": "Positive",
+      "start": "1153",
+      "end": "1166",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 1945,
+      "label": "bslab bya'i gnas gtan la 'beb par byed pa'i legs bshad khyad par gsum ldan (4737) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4737/",
+        "label": "bslab bya'i gnas gtan la 'beb par byed pa'i legs bshad khyad par gsum ldan (4737)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex38042023-09-18-114223",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2699,
+      "label": "zhang ston chos kyi bla ma (3890) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3890/",
+        "label": "zhang ston chos kyi bla ma (3890)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4TBERVZD]: 118. Abbot from 1232 to 1241. (Fifth abbot of sNar thang)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "before 1232",
+      "end": "before 1232",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2228,
+      "label": "dbu ma 'jug pa'i 'grel pa (5465) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5465/",
+        "label": "dbu ma 'jug pa'i 'grel pa (5465)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex112012025-02-2417-42-55",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2229,
+      "label": "rgyud smad shes rab seng ge (4123) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4123/",
+        "label": "rgyud smad shes rab seng ge (4123)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1445-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1445-12-31",
+      "start_date_to": null,
+      "start_date_from": "1400-01-01",
+      "start_date_sort": "1400-01-01",
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1400",
+      "end": "before 1445",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3359,
+      "label": "sangs rgyas sgom pa seng ge skyabs (3976) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3976/",
+        "label": "sangs rgyas sgom pa seng ge skyabs (3976)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BDRC. Sixth abbot of sNar thang.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4569,
+      "label": "mchims blo bzang grags pa (4007) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4007/",
+        "label": "mchims blo bzang grags pa (4007)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BUDA. 12th abbot of sNar thang, after Grags pa shes rab (ID:4065).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 1954,
+      "label": "sangs rgyas sgom pa'i rnam thar (4882) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4882/",
+        "label": "sangs rgyas sgom pa'i rnam thar (4882)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50192023-09-2012",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2158,
+      "label": "chos 'chad nyan la 'jug pa'i yan lag dam tshig gi sgron ma (5085) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5085/",
+        "label": "chos 'chad nyan la 'jug pa'i yan lag dam tshig gi sgron ma (5085)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex61042023-09-26-093717",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2119,
+      "label": "rdo rje gdan pa rgyan gyi me tog (4934) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4934/",
+        "label": "rdo rje gdan pa rgyan gyi me tog (4934)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex53072023-09-25-095714",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3371,
+      "label": "ze'u grags pa brtson 'grus (6519) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
+        "label": "ze'u grags pa brtson 'grus (6519)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: Appendix 3, 235. Invited in 1265 by Chos kyi byang chub. Novice ordination. Final ordination in 1272. Tenth abbot of sNar thang from 1305 to 1316, after Nyi ma rgyal mtshan (ID:6520).\r\n[FZ6N88AU]: 408. Tenth abbot of sNar thang from 1304 to 1314.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1265",
+      "end": "1265",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5497,
+      "label": "tshad ma rnam par nges pa'i ti ka chen po legs bshad bstan pa'i 'od zer (5290) taught at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5290/",
+        "label": "tshad ma rnam par nges pa'i ti ka chen po legs bshad bstan pa'i 'od zer (5290)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1280-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1280-12-31",
+      "start_date_to": null,
+      "start_date_from": "1253-01-01",
+      "start_date_sort": "1253-01-01",
+      "zotero_refs": "[FEHIEFEB]: 136. Taught by Chu mig pa (ID:4018) to Kun spangs Thugs rje brtson 'grus (ID:3905).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1253",
+      "end": "before 1280"
+    },
+    {
+      "id": 3384,
+      "label": "'dul ba 'dzin pa brtson 'grus dpal (6523) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6523/",
+        "label": "'dul ba 'dzin pa brtson 'grus dpal (6523)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: Appendix 3, 237. \"slob dpon\" in the novice ordination of Ze'u 'Dul 'dzin grags at sNar thang (ID:4411).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 1892,
+      "label": "zhi ba lha'i sems bskyed (2) (4857) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4857/",
+        "label": "zhi ba lha'i sems bskyed (2) (4857)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50102023-09-133",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4769,
+      "label": "mchims 'jam pa'i dbyangs (4090) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4090/",
+        "label": "mchims 'jam pa'i dbyangs (4090)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BUDA",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2701,
+      "label": "zhang btsun rdo rje 'od zer (3974) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3974/",
+        "label": "zhang btsun rdo rje 'od zer (3974)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LWBNM7B]: 119, n. 21. Abbot from 1185 to 1193.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "before 1185",
+      "end": "before 1185",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 1955,
+      "label": "zhang ston chos kyi bla ma'i rnam thar (4884) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4884/",
+        "label": "zhang ston chos kyi bla ma'i rnam thar (4884)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex5020_2024-09-1111-32-43",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1944,
+      "label": "me tog phreng rgyud kyi TIk+ka legs bshad rgya mtsho (4735) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4735/",
+        "label": "me tog phreng rgyud kyi TIk+ka legs bshad rgya mtsho (4735)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex38032023-09-181",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3375,
+      "label": "ze'u grags pa shes rab (4065) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4065/",
+        "label": "ze'u grags pa shes rab (4065)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "11th abbot of sNar thang, after Ze'u ba brtson 'grus grags pa (ID:6519).",
+      "confidence": "Positive",
+      "start": "1314",
+      "end": "1314",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 1996,
+      "label": "gro ston bdud rtsi grags (3880) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
+        "label": "gro ston bdud rtsi grags (3880)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Fourth abbot of sNar thang monastery.",
+      "confidence": "Positive",
+      "start": "1196",
+      "end": "1196",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3840,
+      "label": "zul phu mkhan byang chub rin chen dpal bzang po'i rnam par thar pa (6715) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6715/",
+        "label": "zul phu mkhan byang chub rin chen dpal bzang po'i rnam par thar pa (6715)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 40.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2027,
+      "label": "mthong smon dgu gling (5663) located within snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5663/",
+        "label": "mthong smon dgu gling (5663)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6633,
+      "label": "snar thang pa don grub bzang po (7784) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7784/",
+        "label": "snar thang pa don grub bzang po (7784)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P3303 (accessed 23-02-2026). Abbot of sNar thang dgon.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3388,
+      "label": "'dul 'dzin gur ston (4170) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4170/",
+        "label": "'dul 'dzin gur ston (4170)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: Appendix 3, 236. 'Dul 'dzin gur ston was \"gsang ste ston pa'i slob dpon\" in the full ordination of Ze'u 'Dul 'dzin at sNar thang in 1272.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1272",
+      "end": "1272",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3373,
+      "label": "snar thang mkhan chen nyi ma rgyal mtshan (6520) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6520/",
+        "label": "snar thang mkhan chen nyi ma rgyal mtshan (6520)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Ninth abbot of sNar thang, after sKyo ston (ID:4052).",
+      "confidence": "Positive",
+      "start": "1298",
+      "end": "1298",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2172,
+      "label": "snar thang bsam gtan bzang po (4005) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4005/",
+        "label": "snar thang bsam gtan bzang po (4005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 1952,
+      "label": "chu mig pa chen po'i rnam thar (4880) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4880/",
+        "label": "chu mig pa chen po'i rnam thar (4880)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50182023-09-20-094538",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2208,
+      "label": "grub mtha' rnam par bshad pa'i mdzod (5312) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5312/",
+        "label": "grub mtha' rnam par bshad pa'i mdzod (5312)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3162,
+      "label": "chu mig pa seng ge dpal (4018) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4018/",
+        "label": "chu mig pa seng ge dpal (4018)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q8FCH7LF]: 296, n. 42. \"Dpa' bo Gtsug lag phreng ba (1504-1566) relates that although Chu mig pa was a scholar at Snar thang, he had come to Rgya M/'ching ru ba [in the Gling stod college of Gsang phu ne'u thog] to debate with him. Unable to defeat him, he became his disciple.\"\r\n[FEHIEFEB]: 136. Taught his Pram\u0101\u1e47avini\u015bcaya commentary (ID:5290) and the Tshad ma bsdus pa (ID:4771) to Kun spangs Thugs rje brtson 'grus (ID: 3905).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 1956,
+      "label": "shes rab kyi pha rol phyin pa'i man ngag (3) (4887) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4887/",
+        "label": "shes rab kyi pha rol phyin pa'i man ngag (3) (4887)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50222023-09-131",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1884,
+      "label": "'da' ka ye shes kyi 'chi kha ma'i man ngag (3) (4847) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4847/",
+        "label": "'da' ka ye shes kyi 'chi kha ma'i man ngag (3) (4847)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50062023-09-19-13",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1951,
+      "label": "slob dpon zhi ba lha nas brgyud pa'i byang chub kyi sems sbyong ba (4844) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4844/",
+        "label": "slob dpon zhi ba lha nas brgyud pa'i byang chub kyi sems sbyong ba (4844)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50052023-09-194",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1953,
+      "label": "mchims nam mkha' grags (3977) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BDRC. Seventh abbot of sNar thang.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2160,
+      "label": "mdo sde rgyan gyi rnam par bshad pa rgyan gyi me tog (5101) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5101/",
+        "label": "mdo sde rgyan gyi rnam par bshad pa rgyan gyi me tog (5101)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex61142023-09-261",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1949,
+      "label": "skyo ston smon lam tshul khrims (4052) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4052/",
+        "label": "skyo ston smon lam tshul khrims (4052)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BDRC. Eighth abbot of sNar thang.",
+      "confidence": "Positive",
+      "start": "1285",
+      "end": "1285",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 1843,
+      "label": "rten 'brel lag len du dril ba (2) (4853) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4853/",
+        "label": "rten 'brel lag len du dril ba (2) (4853)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50082023-09-131",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2127,
+      "label": "mi g.yo ba'i dmigs pa skor gsum (4993) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4993/",
+        "label": "mi g.yo ba'i dmigs pa skor gsum (4993)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex56092024-09-307-22-36",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1880,
+      "label": "mdo sde rgyan gyi khrid (3) (4871) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4871/",
+        "label": "mdo sde rgyan gyi khrid (3) (4871)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50152023-09-1108-00-56",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6127,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i gzhung dka' ba'i bshad yams gsal bar byed pa mkhas pa'i rgyan rin po che'i gter (7540) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7540/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i gzhung dka' ba'i bshad yams gsal bar byed pa mkhas pa'i rgyan rin po che'i gter (7540)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Colophon in (ID:7541), fol. 28a4-5: 'di ni dpal ldan snar thang gi chos gra chen por \u00a6 mkhas mang rgya mtsho'i dbus \u00a6 ma ga ta rdo rje'i gdan dang chos mtshungs pa \u00a6 snar thang gzims khang du \u00a6 btsun pa kun dga' rgyal mtshan dpal bzang pos \u00a6 blo gros kyi mig can 'ga' yis bskul ba'i ngor sbyar ba rdzogs s+ho ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1856,
+      "label": "shes rab kyi pha rol tu phyin pa'i sgom don rin chen spungs pa (2) (4794) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4794/",
+        "label": "shes rab kyi pha rol tu phyin pa'i sgom don rin chen spungs pa (2) (4794)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex047032025-11-1011-17-00",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3211,
+      "label": "rdo ston shes rab grags (3924) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3924/",
+        "label": "rdo ston shes rab grags (3924)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1166-12-31",
+      "end_date_from": "1166-01-01",
+      "end_date_sort": "1166-07-02",
+      "start_date_to": "1166-12-31",
+      "start_date_from": "1166-01-01",
+      "start_date_sort": "1166-07-02",
+      "zotero_refs": "[NTGHCZA8]: 29. Second abbot of sNar thang monastery.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1166",
+      "end": "1166",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2128,
+      "label": "mchod pa'i cho ga rgyan gyi me tog (5005) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5005/",
+        "label": "mchod pa'i cho ga rgyan gyi me tog (5005)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex56152023-09-251",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4578,
+      "label": "chos mngon pa mdzod kyi bsdus don (1) (5913) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5913/",
+        "label": "chos mngon pa mdzod kyi bsdus don (1) (5913)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex53032024-10-2515-58-57",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1948,
+      "label": "btsun pa grags pa rgyal mtshan (5788) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5788/",
+        "label": "btsun pa grags pa rgyal mtshan (5788)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex47032023-09-121",
+      "support_notes": "Scribing of work (ID:4795).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
+      "id": 3616,
+      "label": "kun spangs thugs rje brtson 'grus (3905) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3905/",
+        "label": "kun spangs thugs rje brtson 'grus (3905)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 136. Studied Chu mig pa (ID:4018)'s Pram\u0101\u1e47avini\u015bcaya commentary (ID:5290) and the Tshad ma bsdus pa (ID:4771) with the author.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 2171,
+      "label": "shes rab kyi pha rol tu phyin pa'i rgyan bstan bcos 'grel pa dang bcas pa'i rgya cher bshad pa mdo'i don gsal bar byed pa la (5181) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5181/",
+        "label": "shes rab kyi pha rol tu phyin pa'i rgyan bstan bcos 'grel pa dang bcas pa'i rgya cher bshad pa mdo'i don gsal bar byed pa la (5181)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex72012025-02-2416-45-50",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3377,
+      "label": "rigs pa'i ral gri (4006) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1262-12-31",
+      "end_date_from": "1262-01-01",
+      "end_date_sort": "1262-07-02",
+      "start_date_to": "1262-12-31",
+      "start_date_from": "1262-01-01",
+      "start_date_sort": "1262-07-02",
+      "zotero_refs": "[KHA9ZVGP]: 4. Ral gri spent most of his adult life at sNar thang monastery and its environs.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1262",
+      "end": "1262",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4348,
+      "label": "bru sha bsod nams seng ge (3841) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3841/",
+        "label": "bru sha bsod nams seng ge (3841)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8GL7ZT7Y]: 15b6 (bru sha bsod nams seng ge ni | snar thang du bshad grwa btugs).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5498,
+      "label": "gzhan gyi phyogs thams cad las rnam par rgyal ba (4771) taught at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4771/",
+        "label": "gzhan gyi phyogs thams cad las rnam par rgyal ba (4771)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 136. Taught by Chu mig pa (ID:4018) to Kun spangs Thugs rje brtson 'grus (ID:3905).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1950,
+      "label": "bslas btus dang spyod 'jug gi khrid (2) (4840) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4840/",
+        "label": "bslas btus dang spyod 'jug gi khrid (2) (4840)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50042003-8-9",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1895,
+      "label": "chos nyid kyi khrid (2) (4874) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4874/",
+        "label": "chos nyid kyi khrid (2) (4874)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50162023-09-1109-06-00",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2120,
+      "label": "rdo rje gdan pa rgyan gyi me tog (2) (4933) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4933/",
+        "label": "rdo rje gdan pa rgyan gyi me tog (2) (4933)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex53072023-09-25111",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1861,
+      "label": "theg chen rgyud bla ma'i gdams pa (4837) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4837/",
+        "label": "theg chen rgyud bla ma'i gdams pa (4837)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50032023-05-2608-58-01",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1857,
+      "label": "shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa legs par bshad pa skyes bu'i don grub (4835) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4835/",
+        "label": "shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa legs par bshad pa skyes bu'i don grub (4835)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50022023-09-125",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1957,
+      "label": "shes rab kyi pha rol du phyin pa'i 'grel bshad mngon par rtogs pa rgyan gyi me tog (4915) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4915/",
+        "label": "shes rab kyi pha rol du phyin pa'i 'grel bshad mngon par rtogs pa rgyan gyi me tog (4915)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex52052024-10-1815-08-44",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1894,
+      "label": "ye shes kyi gzhag sa (2) (4868) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4868/",
+        "label": "ye shes kyi gzhag sa (2) (4868)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50142023-09-0816-07-29",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2227,
+      "label": "lha chos nyams len gyi man ngag thig le chen po'i dbyings su byang chub kyi sems spel ba (5458) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5458/",
+        "label": "lha chos nyams len gyi man ngag thig le chen po'i dbyings su byang chub kyi sems spel ba (5458)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex111032025-02-2416-26-57",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1888,
+      "label": "dbu ma'i man ngag (2) (4850) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4850/",
+        "label": "dbu ma'i man ngag (2) (4850)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50072023-09-12-094632",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2209,
+      "label": "dbus pa blo gsal (4091) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4091/",
+        "label": "dbus pa blo gsal (4091)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "start_date_to": "1153-12-31",
+  "start_date_from": "1153-01-01",
+  "start_date_sort": "1153-07-02",
+  "latitude": 29.18333,
+  "longitude": 88.75,
+  "feature_code": "",
+  "comments": "",
+  "alternative_names": "dpal ldan snar thang\r\ndpal snar thang\r\ndpal ldan snar thang gi dgon pa\r\nsnar thang dgon, snar thang dgon pa\r\ndpal ldan snar thang gi gtsug lag khang\r\ndpal snar thang gi gtsug lag khang chen po\r\ndpal snar thang gi chos sde\r\nsnar thang gyi dben gnas\r\ndam pas sngags pa snar thang gyi dben gnas\r\ndben gnas snar thang gtsug lag khang mchog\r\ndam pa bsngags pa'i snar thang gi dben gnas\r\nbsngags pa'i gnas mchog snar thang\r\ndpal snar thang gi chos grwa chen po bde bar gshegs pa'i bka' dang mkhas pa'i bstan bcos ma lus pa bzhugs pa'i gtsug lag khang",
+  "external_links": "https://purl.bdrc.io/resource/G225",
+  "review": false,
+  "label": "snar thang",
+  "start": "1153"
+}
