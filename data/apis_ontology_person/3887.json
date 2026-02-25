@@ -702,38 +702,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 147,
-      "label": "'jam gsar ba shes rab 'od zer (3884) student of gnyal zhig po 'jam pa'i rdo rje (3887)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
-        "label": "'jam gsar ba shes rab 'od zer (3884)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
-        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 852 (dge bshes gtsang ba | dge bshes nyi ma | 'jam dbyangs gsar ma | rgyang ro gzhon rin | mnga' ris dgra bcom | nyi ma sbral nag gtsang pa drug po | mkhas btsun byang chub la sogs mkhas pa mang po dang |). [R894SIKE]: 407 (rgya 'ching ru ba | 'jam gsar | skyel nag grags seng gsum phyi tshar ro |). [S635TW6P]: 78 (de nas ['jam gsar ba] gsang phu ne'u thog tu phebs te gnyal zhig 'jam dpal rdo rje'i mdun tshad ma rnam nges dang dbu ma sogs gsan |)",
-      "tei_refs": "",
-      "support_notes": "Subject: Epistemology , Teaching: D4211",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9,
-        13
-      ]
-    },
-    {
       "id": 399,
       "label": "gtsang pa jo nam (4201) student of gnyal zhig po 'jam pa'i rdo rje (3887)",
       "subj": {
@@ -1053,6 +1021,38 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 147,
+      "label": "'jam gsar ba shes rab 'od zer (3884) student of gnyal zhig po 'jam pa'i rdo rje (3887)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
+        "label": "'jam gsar ba shes rab 'od zer (3884)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
+        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 852 (dge bshes gtsang ba | dge bshes nyi ma | 'jam dbyangs gsar ma | rgyang ro gzhon rin | mnga' ris dgra bcom | nyi ma sbral nag gtsang pa drug po | mkhas btsun byang chub la sogs mkhas pa mang po dang |). [R894SIKE]: 407 (rgya 'ching ru ba | 'jam gsar | skyel nag grags seng gsum phyi tshar ro |). [S635TW6P]: 78 (de nas ['jam gsar ba] gsang phu ne'u thog tu phebs te gnyal zhig 'jam dpal rdo rje'i mdun tshad ma rnam nges dang dbu ma sogs gsan |)",
+      "tei_refs": "",
+      "support_notes": "Subject: Epistemology, Teaching: Pram\u0101\u1e47avini\u015bcaya (ID:3774).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        13
+      ]
+    },
+    {
       "id": 5788,
       "label": "byang chub 'bum (7146) lineage predecessor of gnyal zhig po 'jam pa'i rdo rje (3887)",
       "subj": {
@@ -1144,6 +1144,37 @@
       "end": null,
       "subject_of_teaching_vocab": [
         9
+      ]
+    },
+    {
+      "id": 6646,
+      "label": "'jam gsar ba shes rab 'od zer (3884) quotes without name gnyal zhig po 'jam pa'i rdo rje (3887)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
+        "label": "'jam gsar ba shes rab 'od zer (3884)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
+        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LWBNM7B]: 121.",
+      "tei_refs": "ex014022026-02-2412-06-25",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
       ]
     },
     {
