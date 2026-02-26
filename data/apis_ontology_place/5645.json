@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5645/",
   "relations": [
     {
-      "id": 2024,
-      "label": "mchims phu (5645) located within bsam yas dgon pa (4335)",
+      "id": 6651,
+      "label": "mchims phu (5645) located within dbus (6650)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5645/",
         "label": "mchims phu (5645)",
@@ -11,8 +11,8 @@
         "content_type_name": "place"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4335/",
-        "label": "bsam yas dgon pa (4335)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6650/",
+        "label": "dbus (6650)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -22,9 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -145,16 +145,16 @@
       "subject_of_teaching_vocab": []
     }
   ],
-  "start_date_to": null,
-  "start_date_from": null,
-  "start_date_sort": null,
-  "latitude": 29.2235,
-  "longitude": 91.332,
+  "start_date_to": "0750-12-31",
+  "start_date_from": "0750-01-01",
+  "start_date_sort": "0750-07-02",
+  "latitude": 29.38216,
+  "longitude": 91.53545,
   "feature_code": "",
-  "comments": "",
+  "comments": "Meditation center and house of retreat for the community of bSam yas monastery (ID:4335), situated on the mountainside above. Founded during the reign of Khri Srong lde brtsan ([ETP6DFNR]: 431).",
   "alternative_names": "bsam yas mchims phu",
-  "external_links": "https://purl.bdrc.io/resource/G3528\r\nhttps://treasuryoflives.org/institution/Samye-Chimpu\r\nhttps://collab.its.virginia.edu/wiki/renaissanceold/Chimpu.html",
+  "external_links": "https://purl.bdrc.io/resource/G3528\r\nhttps://treasuryoflives.org/institution/Samye-Chimpu",
   "review": true,
   "label": "mchims phu",
-  "start": null
+  "start": "750"
 }
