@@ -1,0 +1,112 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5946/",
+  "relations": [
+    {
+      "id": 2121,
+      "label": "rdo rje gdan pa rgyan gyi me tog (4934) has as an instance rdo rje gdan pa rgyan gyi me tog (1) (5946)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4934/",
+        "label": "rdo rje gdan pa rgyan gyi me tog (4934)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5946/",
+        "label": "rdo rje gdan pa rgyan gyi me tog (1) (5946)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2122,
+      "label": "rdo rje gdan pa rgyan gyi me tog (2) (4933) has source rdo rje gdan pa rgyan gyi me tog (1) (5946)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4933/",
+        "label": "rdo rje gdan pa rgyan gyi me tog (2) (4933)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5946/",
+        "label": "rdo rje gdan pa rgyan gyi me tog (1) (5946)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex53072023-09-25111",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2123,
+      "label": "mkhas btsun mgon po dpal (5947) owner of rdo rje gdan pa rgyan gyi me tog (1) (5946)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5947/",
+        "label": "mkhas btsun mgon po dpal (5947)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5946/",
+        "label": "rdo rje gdan pa rgyan gyi me tog (1) (5946)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex53072023-09-25111",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "Lost instance of the rDo rje gdan pa rgyan gyi me tog (ID:4934), from which instance (ID:4933) was copied.",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": null,
+  "name": "rdo rje gdan pa rgyan gyi me tog (1)",
+  "set_num": null,
+  "volume": null,
+  "sb_text_number": "",
+  "pp_kdsb": null,
+  "num_folios": null,
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "",
+  "availability": "lost",
+  "dimension": null,
+  "item_description": ""
+}

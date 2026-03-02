@@ -1,0 +1,188 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
+  "relations": [
+    {
+      "id": 5466,
+      "label": "'dul TIka 'thad ldan (4682) commentary on m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101v\u1e5btti (3766)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
+        "label": "'dul TIka 'thad ldan (4682)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3766/",
+        "label": "m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101v\u1e5btti (3766)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1378,
+      "label": "'dul TIka 'thad ldan (4682) has as an instance 'dul TIka 'thad ldan (4681)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
+        "label": "'dul TIka 'thad ldan (4682)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4681/",
+        "label": "'dul TIka 'thad ldan (4681)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5465,
+      "label": "'dul TIka 'thad ldan (4682) has as an instance 'dul ba 'od ldan yi Tik+ka (7239)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
+        "label": "'dul TIka 'thad ldan (4682)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7239/",
+        "label": "'dul ba 'od ldan yi Tik+ka (7239)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1379,
+      "label": "'dul TIka 'thad ldan (4682) has as an instance 'dul TIka 'thad ldan gyi gzhi smad (4683)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
+        "label": "'dul TIka 'thad ldan (4682)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4683/",
+        "label": "'dul TIka 'thad ldan gyi gzhi smad (4683)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 693,
+      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) author of 'dul TIka 'thad ldan (4682)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
+        "label": "'dul TIka 'thad ldan (4682)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5467,
+      "label": "ti ka 'thad ldan gyi 'grel pa rin chen rgyan 'bum (4696) commentary on 'dul TIka 'thad ldan (4682)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4696/",
+        "label": "ti ka 'thad ldan gyi 'grel pa rin chen rgyan 'bum (4696)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
+        "label": "'dul TIka 'thad ldan (4682)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex032_01_033_012025-12-0116-00-07",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1174-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1174-12-31",
+  "comments": "Could be the work listed as \"'dul Tik\" by A khu ching shes rab rgya mtsho in his Tho yig ([5RXEUKD9]: 529, No. 11508: bya 'dul 'dzin brtson 'grus 'bar gyi 'dul Tik dang 'dul ba'i spyi don).",
+  "alternative_names": "bya 'dul 'dzin brtson 'grus 'bar gyis mdzad pa'i 'dul TIka 'thad ldan\r\nbya 'dul ba 'dzin pa chen pos mdzad pa'i 'dul Tik 'thad ldan zhes bya ba",
+  "external_links": "",
+  "review": false,
+  "start": "ater 1100 before 1174",
+  "name": "'dul TIka 'thad ldan",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/8/"
+  ]
+}

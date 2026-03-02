@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7369/",
+  "relations": [
+    {
+      "id": 5740,
+      "label": "lung gi snye ma'i skabs skabs su mkho ba'i zur 'debs mthong lam stong thun (7369) commentary on sher phyin lung gi snye ma (7368)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7369/",
+        "label": "lung gi snye ma'i skabs skabs su mkho ba'i zur 'debs mthong lam stong thun (7369)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7368/",
+        "label": "sher phyin lung gi snye ma (7368)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5739,
+      "label": "bu ston rin chen grub (5999) author of lung gi snye ma'i skabs skabs su mkho ba'i zur 'debs mthong lam stong thun (7369)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5999/",
+        "label": "bu ston rin chen grub (5999)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7369/",
+        "label": "lung gi snye ma'i skabs skabs su mkho ba'i zur 'debs mthong lam stong thun (7369)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1364-12-31",
+  "start_date_from": "1319-01-01",
+  "start_date_sort": "1341-12-31",
+  "comments": "On its date of composition, see [2X2E3882]: 234 and n. 85 and 86.",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/WA0XLACDAB39B8DB3",
+  "review": true,
+  "start": "after 1319 before 1364",
+  "name": "lung gi snye ma'i skabs skabs su mkho ba'i zur 'debs mthong lam stong thun",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}

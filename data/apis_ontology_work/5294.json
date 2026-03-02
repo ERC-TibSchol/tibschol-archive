@@ -1,0 +1,132 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5294/",
+  "relations": [
+    {
+      "id": 6637,
+      "label": "tshad ma'i don bsdus pa (5294) contains citations of tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5294/",
+        "label": "tshad ma'i don bsdus pa (5294)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex087042026-02-2315-48-02\r\nex087042026-02-2317-05-14",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2195,
+      "label": "tshad ma'i don bsdus pa (5294) composed at sa skya dong pa (5733)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5294/",
+        "label": "tshad ma'i don bsdus pa (5294)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
+        "label": "sa skya dong pa (5733)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex87042023-10-04-135",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1654,
+      "label": "tshad ma'i don bsdus pa (5294) has as an instance tshad ma'i don bsdus pa (5293)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5294/",
+        "label": "tshad ma'i don bsdus pa (5294)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5293/",
+        "label": "tshad ma'i don bsdus pa (5293)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1053,
+      "label": "gnas drug pa blo gros mtshungs med (4094) author of tshad ma'i don bsdus pa (5294)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4094/",
+        "label": "gnas drug pa blo gros mtshungs med (4094)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5294/",
+        "label": "tshad ma'i don bsdus pa (5294)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex87042023-10-04-135",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1400-12-31",
+  "start_date_from": "1300-01-01",
+  "start_date_sort": "1350-07-02",
+  "comments": "As the author completed the work in Sa skya (ID:5733), refers to Phyogs glang gsar ma (ID:6828), and mostly follows the Rigs gter (ID:5564), he is to be identified as Blo gros mtshungs med gNas drug pa (ID:4094) rather than Blo gros mtshungs med gSang phu ba (ID:3896).\r\n\r\nThis work might be the \"tshad ma bsdus pa\" referred to in the biography of Mi nyag 'Jam dbyangs grags pa ([FEHIEFEB]: 141).\r\n[8H6M69W4], No. 16323 mistakenly indicates \"mnga' ris kyi dge ba'i bshes gnyen 'od zer seng ge\" as the author, whereas he is the person who offered the paper to write down the text.\r\n\r\nThe author makes an opposition between the \"rigs gter ba\" (followers of the Rigs gter (ID:5564)) and the \"bsdus par smra ba,\" \"bsdus pa ba,\" or \"bod bsdus smra ba\" (followers of the [Tibetan] summaries). \r\nHe frequently refers anonymously to the views of Tibetan scholars. In particular, he regularly compares the views of Chu mig pa (ID:4018) and bCom ldan ral gri (ID:4006), without naming the proponents of the views in question (e.g., ex087042026-02-2316-10-18 ).\r\nThe author however explicitly names Phya pa (ID:3831), Chu mig pa (ID:4018) and his followers, Sa skya Pa\u1e47\u1e0dita (ID:3892), and rNgog Lo tsa ba (ID:3786)'s followers.",
+  "alternative_names": "pra mA Na pin dAr tha\r\npram\u0101\u1e47apind\u0101rtha",
+  "external_links": "",
+  "review": true,
+  "start": "after 1300 before 1400",
+  "name": "tshad ma'i don bsdus pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

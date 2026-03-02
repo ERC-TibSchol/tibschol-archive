@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6855/",
+  "relations": [
+    {
+      "id": 4275,
+      "label": "rgyal sras 'jigs med (6856) owner of dam pa'i chos la zhus dag bya ba'i tshul (6855)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6856/",
+        "label": "rgyal sras 'jigs med (6856)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6855/",
+        "label": "dam pa'i chos la zhus dag bya ba'i tshul (6855)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex114022024-11-2212-13-20\r\nex114022024-11-2212-06-00",
+      "support_notes": "Note below the title on the cover page: rgyal sras 'jigs med kyi dpe'o ||\r\nPost-colophon note on fol. 2a: rgyal sras 'jigs med kyi dpe'o |",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4274,
+      "label": "dam pa'i chos la zhus dag bya ba'i tshul (6854) has as an instance dam pa'i chos la zhus dag bya ba'i tshul (6855)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6854/",
+        "label": "dam pa'i chos la zhus dag bya ba'i tshul (6854)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6855/",
+        "label": "dam pa'i chos la zhus dag bya ba'i tshul (6855)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/MW4PD3076_0CA5BC",
+  "review": true,
+  "start": null,
+  "name": "dam pa'i chos la zhus dag bya ba'i tshul",
+  "set_num": "Set 4",
+  "volume": "114",
+  "sb_text_number": "2",
+  "pp_kdsb": "657-659",
+  "num_folios": null,
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "4_114_02",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Signature \"chos 31\" on the cover page.\r\nProofread."
+}

@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5977/",
+  "relations": [
+    {
+      "id": 2258,
+      "label": "rnam nges Tik+ka (2) (5977) commentary on pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5977/",
+        "label": "rnam nges Tik+ka (2) (5977)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2257,
+      "label": "'jam gsar ba shes rab 'od zer (3884) author of rnam nges Tik+ka (2) (5977)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
+        "label": "'jam gsar ba shes rab 'od zer (3884)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5977/",
+        "label": "rnam nges Tik+ka (2) (5977)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 674, No. 11812: 'jam gsar gyi rnam nges Tik+ka.",
+      "tei_refs": "exXX0032026-02-1314-58-22",
+      "support_notes": "The passage of the Blue Annals reporting that \"There seems that he composed commentaries on the Perfection of Wisdom and the Pram\u0101\u1e47avini\u015bcaya (ID:3774)\" is to be linked to 'Jam dbyangs gsar ma (ID:3884) and not to his disciple Chos sku 'od zer (ID:7759).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1280-12-31",
+  "start_date_from": "1110-01-01",
+  "start_date_sort": "1195-07-02",
+  "comments": "This work is not extant. It is listed by A khu shes rab rgya mtsho in the Tho yig ([5RXEUKD9]: 674, No. 11812: 'jam gsar gyi rnam nges Tik+ka). This might be the same work as the  tshad ma rnam nges kyi rgyan mentionned in <<bKa' gdams gsung 'bum dkar chag [S635TW6P]>>: 78.",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "after 1110 before 1280",
+  "name": "rnam nges Tik+ka (2)",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

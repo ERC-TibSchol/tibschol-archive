@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5208/",
+  "relations": [
+    {
+      "id": 4235,
+      "label": "seng ge rgyal mtshan (2) (6844) scribe of dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5208)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6844/",
+        "label": "seng ge rgyal mtshan (2) (6844)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5208/",
+        "label": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5208)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex76012024-09-1612-39-18",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1616,
+      "label": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5209) has as an instance dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5208)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5209/",
+        "label": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5209)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5208/",
+        "label": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5208)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "The images found as the second text in vol. 1 (ka) of [WD872RQ5] feature an additional folio between fol. 1a and fol. 1b, which does not appear to belong to the same work, and include only the first 40 folios of the work, whereas the images in [KUYBGM7V] cover the whole work.\r\n\r\nThe scribe named in the colophon is likely that of the first copy of the work, which is the direct or indirect source for the present instance. He was also the scribe for work (ID:6845).",
+  "alternative_names": "dbu ma rtsa ba shes rab kyi \u2018grel pa don gsal (catalogue)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD153536_2CD2DC\r\nhttps://purl.bdrc.io/resource/MW3CN3014_205930",
+  "review": true,
+  "start": null,
+  "name": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal",
+  "set_num": "Set 3",
+  "volume": "76",
+  "sb_text_number": "1",
+  "pp_kdsb": "11-205",
+  "num_folios": "97",
+  "signature_letter": "tsa",
+  "signature_number": "7",
+  "drepung_number": "15375",
+  "provenance": "",
+  "zotero_ref": "[PXWCB73I]",
+  "tibschol_ref": "3_076_01",
+  "availability": "available",
+  "dimension": "66 x 10",
+  "item_description": "Script: dpe tshugs."
+}

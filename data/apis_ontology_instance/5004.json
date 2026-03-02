@@ -1,0 +1,56 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5004/",
+  "relations": [
+    {
+      "id": 1521,
+      "label": "mchod pa'i cho ga rgyan gyi me tog (5005) has as an instance mchod pa'i cho ga rgyan gyi me tog (5004)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5005/",
+        "label": "mchod pa'i cho ga rgyan gyi me tog (5005)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5004/",
+        "label": "mchod pa'i cho ga rgyan gyi me tog (5004)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "The identification with No. 19272 in [8H6M69W4] as the catalogue reports 13 folios for that item.",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_8CCBEE",
+  "review": false,
+  "start": null,
+  "name": "mchod pa'i cho ga rgyan gyi me tog",
+  "set_num": "Set 2",
+  "volume": "56",
+  "sb_text_number": "15",
+  "pp_kdsb": "53-65",
+  "num_folios": "7",
+  "signature_letter": "la",
+  "signature_number": "501",
+  "drepung_number": "19272",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "2_056_15",
+  "availability": "available",
+  "dimension": "43 x 6.5",
+  "item_description": "Script: dpe tshugs."
+}

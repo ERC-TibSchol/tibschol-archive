@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4645/",
+  "relations": [
+    {
+      "id": 1361,
+      "label": "dri ma med pa'i 'od (4645) has as an instance dri ma med pa'i 'od (4644)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4645/",
+        "label": "dri ma med pa'i 'od (4645)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4644/",
+        "label": "dri ma med pa'i 'od (4644)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 670,
+      "label": "Anonymous (4593) author of dri ma med pa'i 'od (4645)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4593/",
+        "label": "Anonymous (4593)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4645/",
+        "label": "dri ma med pa'i 'od (4645)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "No author reported for instance (ID:4644) in [8H6M69W4], No. 19565.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "Text written as a compendium of the teachings of \"rJe lung pa\" (ID:3920) ex024012025-12-1015-42-45.",
+  "alternative_names": "dri ma med pa'i 'od\r\ndri ma med pa'i 'od ces bya ba bden gnyis kyi rnam bshad rje lung pa'i gsung bzhin",
+  "external_links": "",
+  "review": true,
+  "start": null,
+  "name": "dri ma med pa'i 'od",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}

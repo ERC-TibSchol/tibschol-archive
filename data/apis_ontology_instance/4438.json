@@ -1,0 +1,112 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4438/",
+  "relations": [
+    {
+      "id": 5563,
+      "label": "dbus mtha'i don bsdus (2) (6263) has source dbus mtha'i don bsdus (1) (4438)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6263/",
+        "label": "dbus mtha'i don bsdus (2) (6263)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4438/",
+        "label": "dbus mtha'i don bsdus (1) (4438)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5564,
+      "label": "dbus mtha'i don bsdus (3) (6264) has source dbus mtha'i don bsdus (1) (4438)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6264/",
+        "label": "dbus mtha'i don bsdus (3) (6264)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4438/",
+        "label": "dbus mtha'i don bsdus (1) (4438)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1266,
+      "label": "dbus mtha'i don bsdus (4439) has as an instance dbus mtha'i don bsdus (1) (4438)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4439/",
+        "label": "dbus mtha'i don bsdus (4439)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4438/",
+        "label": "dbus mtha'i don bsdus (1) (4438)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "xml:id=\"ex1102023-26-04-149\"",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "The signature \"phyi tsha 116\" is reported in [S635TW6P]: 47. No signature is visible in the [Z5AUD7GQ]. There is no matching entry in the [8H6M69W4], which lists six texts with the signature \u201cphyi tsha 116,\u201d all of which are related to the Abhisamay\u0101la\u1e45k\u0101ra (ID: 3706) and not to the Madhy\u0101ntavibh\u0101ga (ID:3748).",
+  "alternative_names": "dbu mtha'i don bsdu (cover page)\r\ndbus dang mtha' rnam par 'byed pa'i don bsdus pa (colophon)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_411055",
+  "review": true,
+  "start": null,
+  "name": "dbus mtha'i don bsdus (1)",
+  "set_num": "Set 1",
+  "volume": "1",
+  "sb_text_number": "10",
+  "pp_kdsb": "258-281",
+  "num_folios": "13",
+  "signature_letter": "tsha",
+  "signature_number": "116",
+  "drepung_number": null,
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "1_001_10",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Lines per folio: 9; 7 on fol. 13a.\r\nNumbering of folios in numerals on fols. 2\u20134 and in letters on fols. 5\u201312 (preceded by an illegible character on 5 and 5, maybe a numeral?) on the recto of the folios.\r\nOrthography:\r\n-  Extensive use of abbreviations (e.g., for thun mong, shes rab, 'jig rten, bdag nyid, phun sum tshogs etc.) (number increasing as the text goes)\r\n- Numerals used for numbers and for phonetic value (e.g., 4+n for bzhin)\r\n- \u1e47a for med\r\n- Additional b- prefixes (e.g., bsgrub, bston)\r\n- Alternative prefix b- for g- (e.g., rnam par bzhag pa)\r\nA few interlinear corrections and some glosses (e.g., fol. 4b9), in two different hands."
+}
