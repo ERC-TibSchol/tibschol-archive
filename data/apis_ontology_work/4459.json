@@ -3,10 +3,10 @@
   "relations": [
     {
       "id": 3817,
-      "label": "blo ldan shes rab kyi rnam thar (4459) has as an instance blo ldan shes rab kyi rnam thar (4) (6707)",
+      "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459) has as an instance blo ldan shes rab kyi rnam thar (4) (6707)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4459/",
-        "label": "blo ldan shes rab kyi rnam thar (4459)",
+        "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -31,10 +31,10 @@
     },
     {
       "id": 1275,
-      "label": "blo ldan shes rab kyi rnam thar (4459) has as an instance blo ldan shes rab kyi rnam thar (2) (4458)",
+      "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459) has as an instance blo ldan shes rab kyi rnam thar (2) (4458)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4459/",
-        "label": "blo ldan shes rab kyi rnam thar (4459)",
+        "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -59,10 +59,10 @@
     },
     {
       "id": 3816,
-      "label": "blo ldan shes rab kyi rnam thar (4459) has as an instance blo ldan shes rab kyi rnam thar (3) (6706)",
+      "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459) has as an instance blo ldan shes rab kyi rnam thar (3) (6706)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4459/",
-        "label": "blo ldan shes rab kyi rnam thar (4459)",
+        "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -86,11 +86,39 @@
       "end": null
     },
     {
-      "id": 1827,
-      "label": "blo ldan shes rab kyi rnam thar (4459) has as an instance blo ldan shes rab kyi rnam thar (1) (5837)",
+      "id": 6652,
+      "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459) has as an instance 'jig rten mig gcig blo ldan shes rab kyi rnam thar (7792)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4459/",
-        "label": "blo ldan shes rab kyi rnam thar (4459)",
+        "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7792/",
+        "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (7792)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1827,
+      "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459) has as an instance blo ldan shes rab kyi rnam thar (1) (5837)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4459/",
+        "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -115,7 +143,7 @@
     },
     {
       "id": 547,
-      "label": "gro lung pa blo gros 'byung gnas (3806) author of blo ldan shes rab kyi rnam thar (4459)",
+      "label": "gro lung pa blo gros 'byung gnas (3806) author of 'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3806/",
         "label": "gro lung pa blo gros 'byung gnas (3806)",
@@ -124,7 +152,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4459/",
-        "label": "blo ldan shes rab kyi rnam thar (4459)",
+        "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -143,7 +171,7 @@
     },
     {
       "id": 4687,
-      "label": "rngog blo ldan shes rab (3786) biographed in blo ldan shes rab kyi rnam thar (4459)",
+      "label": "rngog blo ldan shes rab (3786) biographed in 'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
         "label": "rngog blo ldan shes rab (3786)",
@@ -152,7 +180,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4459/",
-        "label": "blo ldan shes rab kyi rnam thar (4459)",
+        "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -174,11 +202,11 @@
   "start_date_from": "1109-01-01",
   "start_date_sort": "1115-01-01",
   "comments": "The work is a mix of verses (43 verses of four lines each, v. 37 has five lines) and prose (expanding on the verses).\r\nThe text and manuscripts are described in [Q47PVAE6]: 75\u201376 and [A62SS59H].\r\nIt corresponds to the work listed by A khu ching as \"blo ldan shes rab kyi rnam thar bstod 'grel gro lung pas mdzad pa\" ([5RXEUKD9]: 507, No. 10903).",
-  "alternative_names": "'jig rten mig gcig blo ldan shes rab gyi rnam thar\r\nbdag nyid chen po rngog lo tsa ba'i rnam par thar pa\r\nrngog lo tsa ba chen po'i rnam thar\r\nrngog lo tsA ba chen po'i rnam thar\r\nblo ldan shes rab kyi rnam par thar pa\r\nbla ma rje btsun dam pa gsang phu lo tsha ba chen po la bstod pa'i tshig le'ur byas pa\u2019i rnam par bshad pa",
+  "alternative_names": "blo ldan shes rab gyi rnam thar\r\nbdag nyid chen po rngog lo tsa ba'i rnam par thar pa\r\nrngog lo tsa ba chen po'i rnam thar\r\nrngog lo tsA ba chen po'i rnam thar\r\nblo ldan shes rab kyi rnam par thar pa\r\nrngog rnam thar\r\nbla ma rje btsun dam pa gsang phu lo tsha ba chen po la bstod pa'i tshig le'ur byas pa\u2019i rnam par bshad pa",
   "external_links": "",
   "review": true,
   "start": "after 1109 before 1120",
-  "name": "blo ldan shes rab kyi rnam thar",
+  "name": "'jig rten mig gcig blo ldan shes rab kyi rnam thar",
   "sde_dge_ref": null,
   "original_language": "Tibetan",
   "isExtant": true,
