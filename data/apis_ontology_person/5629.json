@@ -2,6 +2,37 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5629/",
   "relations": [
     {
+      "id": 6653,
+      "label": "dar ma dkon mchog (5510) quotes without name \u015b\u0101ntabhadra (5629)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5510/",
+        "label": "dar ma dkon mchog (5510)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5629/",
+        "label": "\u015b\u0101ntabhadra (5629)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "exX0042026-03-0315-27-47",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
       "id": 4109,
       "label": "rngog blo ldan shes rab (3786) quotes with name \u015b\u0101ntabhadra (5629)",
       "subj": {
@@ -38,7 +69,7 @@
   "start_date_from": "0705-01-01",
   "start_date_sort": "0710-07-02",
   "comments": "Dates: ca. 710-770.",
-  "alternative_names": "rab tu zhi ba bzang po\r\nrab du zhi bzang",
+  "alternative_names": "rab tu zhi ba bzang po\r\nrab du zhi bzang\r\nzhi bzang",
   "external_links": "",
   "review": true,
   "start": "after 705 before 715",
