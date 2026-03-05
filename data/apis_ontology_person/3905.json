@@ -188,6 +188,35 @@
       ]
     },
     {
+      "id": 6671,
+      "label": "kun spangs thugs rje brtson 'grus (3905) student of 'jam gsar ba shes rab 'od zer (3884)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3905/",
+        "label": "kun spangs thugs rje brtson 'grus (3905)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
+        "label": "'jam gsar ba shes rab 'od zer (3884)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P2585 (accessed 04-03-2026)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3622,
       "label": "kun spangs thugs rje brtson 'grus (3905) active at don mo ri (6638)",
       "subj": {
@@ -724,7 +753,7 @@
   "start_date_to": "1243-12-31",
   "start_date_from": "1243-01-01",
   "start_date_sort": "1243-07-02",
-  "comments": "",
+  "comments": "See [FEHIEFEB]: 134 on his life and studies.",
   "alternative_names": "kun spangs pa\r\njo nang gdan rabs 1\r\nkun spangs chos rje",
   "external_links": "https://purl.bdrc.io/resource/P858",
   "review": false,

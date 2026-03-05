@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5924/",
   "relations": [
     {
+      "id": 6658,
+      "label": "gtsang nag pa thugs rje seng ge (5924) active at nags phug (7795)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5924/",
+        "label": "gtsang nag pa thugs rje seng ge (5924)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7795/",
+        "label": "nags phug (7795)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[E8Z2R8MK]: 187 (on renowned scholars from Nags phug).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 4600,
       "label": "gtsang nag pa thugs rje seng ge (5924) author of phyag rgya chen po'i bla ma la gsol ba 'debs pa'i tshul (6984)",
       "subj": {
