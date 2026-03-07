@@ -292,11 +292,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3119,
-      "label": "nyi phug pa chos kyi grags pa (6347) student of la stod pa dkon mchog mkhar (3819)",
+      "id": 3323,
+      "label": "'bre shes rab 'bar (3807) ordinator of la stod pa dkon mchog mkhar (3819)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6347/",
-        "label": "nyi phug pa chos kyi grags pa (6347)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -312,13 +312,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[4LDAV8UH]: 97.",
+      "zotero_refs": "[647FFPZR]: 544-545. The ordination took place at Bye mda' (ID:4347).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 3132,
@@ -350,6 +349,34 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 2951,
+      "label": "nyi phug pa chos kyi grags pa (6347) other relation to la stod pa dkon mchog mkhar (3819)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6347/",
+        "label": "nyi phug pa chos kyi grags pa (6347)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3819/",
+        "label": "la stod pa dkon mchog mkhar (3819)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 1177 (dge bshes dkon mkhar la zur chos nyan |). Studied with La stod's assistant teacher.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3139,
       "label": "dkon mchog seng ge (6447) student of la stod pa dkon mchog mkhar (3819)",
       "subj": {
@@ -377,6 +404,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3136,
+      "label": "dkon mchog seng ge (6447) sibling of la stod pa dkon mchog mkhar (3819)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6447/",
+        "label": "dkon mchog seng ge (6447)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3819/",
+        "label": "la stod pa dkon mchog mkhar (3819)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 99. dKon seng was the younger brother of dKon mchog mkhar.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 3271,
@@ -408,36 +463,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3323,
-      "label": "'bre shes rab 'bar (3807) ordinator of la stod pa dkon mchog mkhar (3819)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
-        "label": "'bre shes rab 'bar (3807)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3819/",
-        "label": "la stod pa dkon mchog mkhar (3819)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 544-545. The ordination took place at Bye mda' (ID:4347).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 2951,
-      "label": "nyi phug pa chos kyi grags pa (6347) other relation to la stod pa dkon mchog mkhar (3819)",
+      "id": 3119,
+      "label": "nyi phug pa chos kyi grags pa (6347) student of la stod pa dkon mchog mkhar (3819)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6347/",
         "label": "nyi phug pa chos kyi grags pa (6347)",
@@ -456,40 +483,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 1177 (dge bshes dkon mkhar la zur chos nyan |). Studied with La stod's assistant teacher.",
+      "zotero_refs": "[4LDAV8UH]: 97.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
-    },
-    {
-      "id": 3136,
-      "label": "dkon mchog seng ge (6447) sibling of la stod pa dkon mchog mkhar (3819)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6447/",
-        "label": "dkon mchog seng ge (6447)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3819/",
-        "label": "la stod pa dkon mchog mkhar (3819)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[4LDAV8UH]: 99. dKon seng was the younger brother of dKon mchog mkhar.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1171-12-31",

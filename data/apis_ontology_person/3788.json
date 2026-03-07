@@ -89,35 +89,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3953,
-      "label": "rngog legs pa'i shes rab (3788) student of jo bo se btsun (6763)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3788/",
-        "label": "rngog legs pa'i shes rab (3788)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6763/",
-        "label": "jo bo se btsun (6763)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[MPRU5QUC]: 204, based on the Blue annals. In Khams (ID:6496).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3958,
       "label": "rngog legs pa'i shes rab (3788) student of se btsun dbang phyug gzhon nu (4232)",
       "subj": {
@@ -139,6 +110,35 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[MPRU5QUC]: 205.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3953,
+      "label": "rngog legs pa'i shes rab (3788) student of se btsun dbang phyug gzhon nu (4232)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3788/",
+        "label": "rngog legs pa'i shes rab (3788)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4232/",
+        "label": "se btsun dbang phyug gzhon nu (4232)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MPRU5QUC]: 204, based on the Blue annals. In Khams (ID:6496).\r\n[TZC3JQWE]: 342, n. 19.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -801,7 +801,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 122 (khu ston brtson 'grus g.yung drung lcags mo phag la 'khrungs | khong dang rngog legs pa'i shes rab dang | 'bre chen po rnams kyis khams su byon nas | jo bo se btsun la chos mang du mnyan |). Went to Khams (ID:6496) with Khu ston (ID:4235) and 'Bre chen po (ID:3807).",
+      "zotero_refs": "[R894SIKE]: 122 (khu ston brtson 'grus g.yung drung lcags mo phag la 'khrungs | khong dang rngog legs pa'i shes rab dang | 'bre chen po rnams kyis khams su byon nas | jo bo se btsun la chos mang du mnyan |). Went to Khams (ID:6496) with Khu ston (ID:4235) and 'Bre chen po (ID:3807).\r\n[R894SIKE]: 392 (chos mang du mkhyen nas khu ston la sogs pa dang 'grogs te | 'brom ston bzhud pa'i phyi de lo bya'i lo la dbus su phebs |)",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -809,11 +809,11 @@
       "end": null
     },
     {
-      "id": 5065,
-      "label": "khu ston brtson 'grus g.yung drung (4235) other relation to rngog legs pa'i shes rab (3788)",
+      "id": 6678,
+      "label": "Anonymous (17) (7173) quotes with name rngog legs pa'i shes rab (3788)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
-        "label": "khu ston brtson 'grus g.yung drung (4235)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7173/",
+        "label": "Anonymous (17) (7173)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -829,12 +829,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 392 (chos mang du mkhyen nas khu ston la sogs pa dang 'grogs te | 'brom ston bzhud pa'i phyi de lo bya'i lo la dbus su phebs |)",
-      "tei_refs": "",
+      "zotero_refs": "",
+      "tei_refs": "ex190522024-11-19-15-01 (gsang phu ba)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 3952,

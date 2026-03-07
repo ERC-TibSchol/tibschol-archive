@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3870/",
   "relations": [
     {
+      "id": 127,
+      "label": "zhang thang sag pa ye shes 'byung gnas (3870) student of pa tshab nyi ma grags (3868)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3870/",
+        "label": "zhang thang sag pa ye shes 'byung gnas (3870)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
+        "label": "pa tshab nyi ma grags (3868)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1115-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1115-12-31",
+      "start_date_to": null,
+      "start_date_from": "1101-01-01",
+      "start_date_sort": "1101-01-01",
+      "zotero_refs": "[NTGHCZA8]: 18\u201319.\r\n[EG6VZ8JK]: 23, translated from [8GL7ZT7Y].\r\n[647FFPZR]: 544, n. 57, based on [87YHXZG3]: 116.\r\n[XJHQU4GM]: 136. Zhang thang sag pa is one of the \"four sons\" of Pa tshab.\r\n[CMTPPRKW]: 127b (based on Deb ther sngon po).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1101",
+      "end": "before 1115",
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3509,
       "label": "zhang thang sag pa ye shes 'byung gnas (3870) author of rin chen phreng ba'i rnam bshad (6591)",
       "subj": {
@@ -143,35 +172,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 127,
-      "label": "zhang thang sag pa ye shes 'byung gnas (3870) student of pa tshab nyi ma grags (3868)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3870/",
-        "label": "zhang thang sag pa ye shes 'byung gnas (3870)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
-        "label": "pa tshab nyi ma grags (3868)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": "1115-12-31",
-      "end_date_from": null,
-      "end_date_sort": "1115-12-31",
-      "start_date_to": null,
-      "start_date_from": "1101-01-01",
-      "start_date_sort": "1101-01-01",
-      "zotero_refs": "[NTGHCZA8]: 18\u201319.\r\n[EG6VZ8JK]: 23, translated from [8GL7ZT7Y].\r\n[647FFPZR]: 544, n. 57, based on [87YHXZG3]: 116.\r\n[XJHQU4GM]: 136. Zhang thang sag pa is one of the \"four sons\" of Pa tshab.\r\n[CMTPPRKW]: 127b (based on Deb ther sngon po).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1101",
-      "end": "before 1115",
-      "subject_of_teaching_vocab": []
     },
     {
       "id": 3505,

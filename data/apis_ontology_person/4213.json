@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
   "relations": [
     {
-      "id": 6364,
-      "label": "dol po pa shes rab rgyal mtshan (4213) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "id": 4995,
+      "label": "dol po pa shes rab rgyal mtshan (4213) student of rin chen tshul khrims (1) (5954)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
         "label": "dol po pa shes rab rgyal mtshan (4213)",
@@ -11,54 +11,24 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": "1312-12-31",
-      "end_date_from": null,
-      "end_date_sort": "1312-12-31",
-      "start_date_to": null,
-      "start_date_from": "1310-01-01",
-      "start_date_sort": "1310-01-01",
-      "zotero_refs": "[KM47ZZDJ]: 656. According to Dol po pa's disciples lHa'i rgyal mtshan, sKyi ston (ID:4221) taught Dol po pa the Pram\u0101\u1e47avini\u015bcaya (ID:3774), the Tshad ma rigs pa'i (b)rgyan, Perfection of Wisdom, Abhidharma, the Bodhicary\u0101vat\u0101ra (ID:3727), the rdo rje phreng ba, etc.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1310",
-      "end": "before 1312"
-    },
-    {
-      "id": 6363,
-      "label": "dol po pa shes rab rgyal mtshan (4213) student of nam mkha' legs pa'i rgyal mtshan (7638)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
-        "label": "dol po pa shes rab rgyal mtshan (4213)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7638/",
-        "label": "nam mkha' legs pa'i rgyal mtshan (7638)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5954/",
+        "label": "rin chen tshul khrims (1) (5954)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
       "end_date_sort": null,
-      "start_date_to": "1312-12-31",
-      "start_date_from": "1312-01-01",
-      "start_date_sort": "1312-07-01",
-      "zotero_refs": "[KM47ZZDJ]: 656-657. Studies, at Sa skya (ID:5733), of the sa lugs of tshad ma, the Tshad ma rigs pa'i gter (ID:5564), and the Pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (ID:3772) with Kun dga' blo gros (ID:7637) and Nam mkha' legs pa'i rgyal mtshan dpal bzang po (ID:7638).",
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4TBERVZD]: 72, n. 16.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "1312",
+      "start": null,
       "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 5795,
@@ -93,8 +63,8 @@
       ]
     },
     {
-      "id": 4995,
-      "label": "dol po pa shes rab rgyal mtshan (4213) student of rin chen tshul khrims (1) (5954)",
+      "id": 6356,
+      "label": "dol po pa shes rab rgyal mtshan (4213) student of gzhon nu bzang po (7635)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
         "label": "dol po pa shes rab rgyal mtshan (4213)",
@@ -102,28 +72,30 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5954/",
-        "label": "rin chen tshul khrims (1) (5954)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7635/",
+        "label": "gzhon nu bzang po (7635)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
-      "end_date_to": null,
+      "end_date_to": "1312-12-31",
       "end_date_from": null,
-      "end_date_sort": null,
+      "end_date_sort": "1312-12-31",
       "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[4TBERVZD]: 72, n. 16.",
+      "start_date_from": "1310-01-01",
+      "start_date_sort": "1310-01-01",
+      "zotero_refs": "[KM47ZZDJ]: 656. Studies of the tshad ma's textual tradition and summaries.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "start": "after 1310",
+      "end": "before 1312",
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
-      "id": 3890,
-      "label": "dol po pa shes rab rgyal mtshan (4213) author of mngon rtogs rgyan gyi rnam bshad (6740)",
+      "id": 6359,
+      "label": "dol po pa shes rab rgyal mtshan (4213) student of sa skya slob dpon shes rab bzang po (7636)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
         "label": "dol po pa shes rab rgyal mtshan (4213)",
@@ -131,23 +103,88 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6740/",
-        "label": "mngon rtogs rgyan gyi rnam bshad (6740)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7636/",
+        "label": "sa skya slob dpon shes rab bzang po (7636)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1312-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1312-12-31",
+      "start_date_to": null,
+      "start_date_from": "1310-01-01",
+      "start_date_sort": "1310-01-01",
+      "zotero_refs": "[KM47ZZDJ]: 656. Studies of the tshad ma's textual tradition and summaries.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1310",
+      "end": "before 1312",
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 6362,
+      "label": "dol po pa shes rab rgyal mtshan (4213) student of kun dga' blo gros rgyal mtshan (7637)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
+        "label": "dol po pa shes rab rgyal mtshan (4213)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7637/",
+        "label": "kun dga' blo gros rgyal mtshan (7637)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
       "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5RXEUKD9]: 529, No. 11515 (dol po pa'i mngon rtogs rgyan gyi rnam bshad).",
+      "start_date_to": "1312-12-31",
+      "start_date_from": "1312-01-01",
+      "start_date_sort": "1312-07-01",
+      "zotero_refs": "[KM47ZZDJ]: 656-657. Dol po pa studiee of the sa lugs of tshad ma, the Tshad ma rigs pa'i gter (ID:5564), and the Pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (ID:3772) with Kun dga' blo gros (ID:7637) and Nam mkha' legs pa'i rgyal mtshan dpal bzang po (ID:7638).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null
+      "start": "1312",
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 6363,
+      "label": "dol po pa shes rab rgyal mtshan (4213) student of nam mkha' legs pa'i rgyal mtshan (7638)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
+        "label": "dol po pa shes rab rgyal mtshan (4213)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7638/",
+        "label": "nam mkha' legs pa'i rgyal mtshan (7638)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": "1312-12-31",
+      "start_date_from": "1312-01-01",
+      "start_date_sort": "1312-07-01",
+      "zotero_refs": "[KM47ZZDJ]: 656-657. Studies, at Sa skya (ID:5733), of the sa lugs of tshad ma, the Tshad ma rigs pa'i gter (ID:5564), and the Pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (ID:3772) with Kun dga' blo gros (ID:7637) and Nam mkha' legs pa'i rgyal mtshan dpal bzang po (ID:7638).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1312",
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 2277,
@@ -182,6 +219,34 @@
         13,
         7
       ]
+    },
+    {
+      "id": 3890,
+      "label": "dol po pa shes rab rgyal mtshan (4213) author of mngon rtogs rgyan gyi rnam bshad (6740)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
+        "label": "dol po pa shes rab rgyal mtshan (4213)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6740/",
+        "label": "mngon rtogs rgyan gyi rnam bshad (6740)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 529, No. 11515 (dol po pa'i mngon rtogs rgyan gyi rnam bshad).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 4042,
@@ -271,37 +336,6 @@
       "end": null
     },
     {
-      "id": 6359,
-      "label": "dol po pa shes rab rgyal mtshan (4213) student of sa skya slob dpon shes rab bzang po (7636)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
-        "label": "dol po pa shes rab rgyal mtshan (4213)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7636/",
-        "label": "sa skya slob dpon shes rab bzang po (7636)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": "1312-12-31",
-      "end_date_from": null,
-      "end_date_sort": "1312-12-31",
-      "start_date_to": null,
-      "start_date_from": "1310-01-01",
-      "start_date_sort": "1310-01-01",
-      "zotero_refs": "[KM47ZZDJ]: 656. Studies of the tshad ma's textual tradition and summaries.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1310",
-      "end": "before 1312",
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
       "id": 6366,
       "label": "dol po pa shes rab rgyal mtshan (4213) active at skyi stengs (7633)",
       "subj": {
@@ -336,8 +370,8 @@
       ]
     },
     {
-      "id": 6356,
-      "label": "dol po pa shes rab rgyal mtshan (4213) student of gzhon nu bzang po (7635)",
+      "id": 6364,
+      "label": "dol po pa shes rab rgyal mtshan (4213) studies pram\u0101\u1e47avini\u015bcaya (3774)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
         "label": "dol po pa shes rab rgyal mtshan (4213)",
@@ -345,10 +379,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7635/",
-        "label": "gzhon nu bzang po (7635)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": "1312-12-31",
       "end_date_from": null,
@@ -356,46 +390,12 @@
       "start_date_to": null,
       "start_date_from": "1310-01-01",
       "start_date_sort": "1310-01-01",
-      "zotero_refs": "[KM47ZZDJ]: 656. Studies of the tshad ma's textual tradition and summaries.",
+      "zotero_refs": "[KM47ZZDJ]: 656. According to Dol po pa's disciples lHa'i rgyal mtshan, sKyi ston (ID:4221) taught Dol po pa the Pram\u0101\u1e47avini\u015bcaya (ID:3774), the Tshad ma rigs pa'i (b)rgyan, Perfection of Wisdom, Abhidharma, the Bodhicary\u0101vat\u0101ra (ID:3727), the rdo rje phreng ba, etc.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": "after 1310",
-      "end": "before 1312",
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
-      "id": 6362,
-      "label": "dol po pa shes rab rgyal mtshan (4213) student of kun dga' blo gros rgyal mtshan (7637)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
-        "label": "dol po pa shes rab rgyal mtshan (4213)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7637/",
-        "label": "kun dga' blo gros rgyal mtshan (7637)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": "1312-12-31",
-      "start_date_from": "1312-01-01",
-      "start_date_sort": "1312-07-01",
-      "zotero_refs": "[KM47ZZDJ]: 656-657. Dol po pa studiee of the sa lugs of tshad ma, the Tshad ma rigs pa'i gter (ID:5564), and the Pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (ID:3772) with Kun dga' blo gros (ID:7637) and Nam mkha' legs pa'i rgyal mtshan dpal bzang po (ID:7638).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1312",
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
+      "end": "before 1312"
     },
     {
       "id": 5830,

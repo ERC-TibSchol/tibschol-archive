@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
   "relations": [
     {
-      "id": 6582,
-      "label": "tshad ma'i skyes bu bsod nams mgon (6925) teaches hetu\u00adbindu\u00ad\u1e6d\u012bk\u0101 (7763)",
+      "id": 6568,
+      "label": "tshad ma'i skyes bu bsod nams mgon (6925) student of darma 'od zer (6635)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
         "label": "tshad ma'i skyes bu bsod nams mgon (6925)",
@@ -11,36 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7763/",
-        "label": "hetu\u00adbindu\u00ad\u1e6d\u012bk\u0101 (7763)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CTAI38G9]: 927.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 4368,
-      "label": "tshad ma'i skyes bu bsod nams mgon (6925) student of mchims nam mkha' grags (3977)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
-        "label": "tshad ma'i skyes bu bsod nams mgon (6925)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
-        "label": "mchims nam mkha' grags (3977)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6635/",
+        "label": "darma 'od zer (6635)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -50,36 +22,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[CTAI38G9]: 925. According Bu ston's gsan yig.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 6383,
-      "label": "tshad ma'i skyes bu bsod nams mgon (6925) student of lho pa grub seng (7651)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
-        "label": "tshad ma'i skyes bu bsod nams mgon (6925)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7651/",
-        "label": "lho pa grub seng (7651)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CTAI38G9]: 925. According to Tshal pa and Bu ston's gsan yig.\r\n[JZP4CZRX], bdr:P10021.",
+      "zotero_refs": "[CTAI38G9]: 925. According to Bu ston's gsan yig.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -117,8 +60,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 6471,
-      "label": "tshad ma'i skyes bu bsod nams mgon (6925) lineage predecessor of bu ston rin chen grub (5999)",
+      "id": 6383,
+      "label": "tshad ma'i skyes bu bsod nams mgon (6925) student of lho pa grub seng (7651)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
         "label": "tshad ma'i skyes bu bsod nams mgon (6925)",
@@ -126,8 +69,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5999/",
-        "label": "bu ston rin chen grub (5999)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7651/",
+        "label": "lho pa grub seng (7651)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -137,15 +80,42 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[Z5FZQCNC]: 143. Lineage of exposition (bshad pa) of the Pram\u0101\u1e47av\u0101rttika (ID:3772) as received by\u202fBu ston (ID:5999): from PaN chen \u015a\u0101kya\u015br\u012b (ID:6418), Chos rje Sa skya pa (ID:3892), 'U yug pa bSod seng (ID:3846), Khang sten 'Od zer rgyal mtshan (ID:7647), Slob dpon Tshad ma pa (i.e., Tshad ma\u2019i skyes bu bSod nams mgon (ID:6925)), Bu ston (ID:5999). \r\n[Z5FZQCNC]: 143-144. Lineage of the reading transmission (lung) of the Pram\u0101\u1e47av\u0101rttika (ID:3772) as received by Bu ston (ID:5999): from rNgog lo tsA ba (ID:3786) to Khyung Rin chen grags (ID:3809), rGya dmar Byang chub grags (ID:3834), Phywa ba (ID:3831), gTsang nag pa (ID:3839), Dar ma bkra shis (ID:6217), gNyal pa (i.e., gNyal zhig \u2018Jam pa\u2019i rdo rje (ID:3887)), Bo dong pa (probably (ID:3904)), lDong pa Grags pa dpal (ID:7761), Lho pa Grub seng (ID:7651), Tshad ma'i skyes bu (ID:6925), Bu ston (ID:5999).\r\nSee also [CTAI38G9]: 928.\r\n[CTAI38G9]: 939.  Lineage of the Pram\u0101\u1e47avini\u015bcaya (ID:3774) according to Bu ston (ID:5999)\u2019s student sGra tshad pa (ID:7772) or one of his students. After several other Indian figures it begins with gZhan phan bzang po (Parahitabhadra (ID:3798)), followed by rNgog lo tsA ba (ID:3786), Khyung Rin chen grags (ID:3809), rGya dmar (ID:3834), Cha pa (ID:3831), gTsang nag pa (ID:3839), Dan 'bag pa (ID:3840), gNyal zhig (ID:3887), Bo dong Rin chen (ID:3904), lDong[s] Grags pa dpal (ID:7761), <Lho pa> Grub pa seng ge (ID:7651), Tshad ma'i skyes bu (ID:6925), Bu ston (ID:5999), Thugs sras lo tsA ba (ID:7772).",
+      "zotero_refs": "[CTAI38G9]: 925. According to Tshal pa and Bu ston's gsan yig.\r\n[JZP4CZRX], bdr:P10021.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4368,
+      "label": "tshad ma'i skyes bu bsod nams mgon (6925) student of mchims nam mkha' grags (3977)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
+        "label": "tshad ma'i skyes bu bsod nams mgon (6925)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTAI38G9]: 925. According Bu ston's gsan yig.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 6572,
@@ -169,66 +139,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[CTAI38G9]: 925. According Bu ston's gsan yig.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 6559,
-      "label": "tshad ma'i skyes bu bsod nams mgon (6925) active at khro phu (6924)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
-        "label": "tshad ma'i skyes bu bsod nams mgon (6925)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6924/",
-        "label": "khro phu (6924)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CTAI38G9]: 924. bSod nams mgon (ID:6925) taught epistemology to Bu ston (ID:5999).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
-      "id": 6568,
-      "label": "tshad ma'i skyes bu bsod nams mgon (6925) student of darma 'od zer (6635)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
-        "label": "tshad ma'i skyes bu bsod nams mgon (6925)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6635/",
-        "label": "darma 'od zer (6635)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CTAI38G9]: 925. According to Bu ston's gsan yig.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -264,6 +174,96 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6582,
+      "label": "tshad ma'i skyes bu bsod nams mgon (6925) teaches hetu\u00adbindu\u00ad\u1e6d\u012bk\u0101 (7763)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
+        "label": "tshad ma'i skyes bu bsod nams mgon (6925)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7763/",
+        "label": "hetu\u00adbindu\u00ad\u1e6d\u012bk\u0101 (7763)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTAI38G9]: 927.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6471,
+      "label": "tshad ma'i skyes bu bsod nams mgon (6925) lineage predecessor of bu ston rin chen grub (5999)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
+        "label": "tshad ma'i skyes bu bsod nams mgon (6925)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5999/",
+        "label": "bu ston rin chen grub (5999)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5FZQCNC]: 143. Lineage of exposition (bshad pa) of the Pram\u0101\u1e47av\u0101rttika (ID:3772) as received by\u202fBu ston (ID:5999): from PaN chen \u015a\u0101kya\u015br\u012b (ID:6418), Chos rje Sa skya pa (ID:3892), 'U yug pa bSod seng (ID:3846), Khang sten 'Od zer rgyal mtshan (ID:7647), Slob dpon Tshad ma pa (i.e., Tshad ma\u2019i skyes bu bSod nams mgon (ID:6925)), Bu ston (ID:5999). \r\n[Z5FZQCNC]: 143-144. Lineage of the reading transmission (lung) of the Pram\u0101\u1e47av\u0101rttika (ID:3772) as received by Bu ston (ID:5999): from rNgog lo tsA ba (ID:3786) to Khyung Rin chen grags (ID:3809), rGya dmar Byang chub grags (ID:3834), Phywa ba (ID:3831), gTsang nag pa (ID:3839), Dar ma bkra shis (ID:6217), gNyal pa (i.e., gNyal zhig \u2018Jam pa\u2019i rdo rje (ID:3887)), Bo dong pa (probably (ID:3904)), lDong pa Grags pa dpal (ID:7761), Lho pa Grub seng (ID:7651), Tshad ma'i skyes bu (ID:6925), Bu ston (ID:5999).\r\nSee also [CTAI38G9]: 928.\r\n[CTAI38G9]: 939.  Lineage of the Pram\u0101\u1e47avini\u015bcaya (ID:3774) according to Bu ston (ID:5999)\u2019s student sGra tshad pa (ID:7772) or one of his students. After several other Indian figures it begins with gZhan phan bzang po (Parahitabhadra (ID:3798)), followed by rNgog lo tsA ba (ID:3786), Khyung Rin chen grags (ID:3809), rGya dmar (ID:3834), Cha pa (ID:3831), gTsang nag pa (ID:3839), Dan 'bag pa (ID:3840), gNyal zhig (ID:3887), Bo dong Rin chen (ID:3904), lDong[s] Grags pa dpal (ID:7761), <Lho pa> Grub pa seng ge (ID:7651), Tshad ma'i skyes bu (ID:6925), Bu ston (ID:5999), Thugs sras lo tsA ba (ID:7772).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 6559,
+      "label": "tshad ma'i skyes bu bsod nams mgon (6925) active at khro phu (6924)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
+        "label": "tshad ma'i skyes bu bsod nams mgon (6925)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6924/",
+        "label": "khro phu (6924)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTAI38G9]: 924. bSod nams mgon (ID:6925) taught epistemology to Bu ston (ID:5999).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 6603,

@@ -2,6 +2,93 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
   "relations": [
     {
+      "id": 2367,
+      "label": "bo dong rin chen rtse mo (3904) student of gnyal zhig po 'jam pa'i rdo rje (3887)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
+        "label": "bo dong rin chen rtse mo (3904)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
+        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4TBERVZD]: 11.",
+      "tei_refs": "exXX0032026-02-1619-32-22",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2275,
+      "label": "bo dong rin chen rtse mo (3904) student of gnyal zhig po 'jam pa'i rdo rje (3887)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
+        "label": "bo dong rin chen rtse mo (3904)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
+        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 407. Bo dong rin chen rtse mo was one of the \"intermediate\" graduates of gNyal zhig ('u yug pa bsod nams seng ge | bo dong rin rtse | gtsang pa jo nam gsum bar tshar |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6670,
+      "label": "bo dong rin chen rtse mo (3904) student of 'jam gsar ba shes rab 'od zer (3884)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
+        "label": "bo dong rin chen rtse mo (3904)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
+        "label": "'jam gsar ba shes rab 'od zer (3884)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P2585 (accessed 04-03-2026)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 486,
       "label": "bo dong rin chen rtse mo (3904) lineage predecessor of stag sde pa seng ge rgyal mtshan (4127)",
       "subj": {
@@ -124,64 +211,6 @@
       ]
     },
     {
-      "id": 2275,
-      "label": "bo dong rin chen rtse mo (3904) student of gnyal zhig po 'jam pa'i rdo rje (3887)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
-        "label": "bo dong rin chen rtse mo (3904)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
-        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 407. Bo dong rin chen rtse mo was one of the \"intermediate\" graduates of gNyal zhig ('u yug pa bsod nams seng ge | bo dong rin rtse | gtsang pa jo nam gsum bar tshar |)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 6670,
-      "label": "bo dong rin chen rtse mo (3904) student of 'jam gsar ba shes rab 'od zer (3884)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
-        "label": "bo dong rin chen rtse mo (3904)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
-        "label": "'jam gsar ba shes rab 'od zer (3884)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P2585 (accessed 04-03-2026)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 6609,
       "label": "bo dong rin chen rtse mo (3904) lineage predecessor of don grub seng ge (7764)",
       "subj": {
@@ -213,35 +242,6 @@
       ]
     },
     {
-      "id": 2367,
-      "label": "bo dong rin chen rtse mo (3904) student of gnyal zhig po 'jam pa'i rdo rje (3887)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
-        "label": "bo dong rin chen rtse mo (3904)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
-        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[4TBERVZD]: 11.",
-      "tei_refs": "exXX0032026-02-1619-32-22",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 5699,
       "label": "bo dong rin chen rtse mo (3904) teaches pram\u0101\u1e47avini\u015bcaya (3774)",
       "subj": {
@@ -268,68 +268,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 485,
-      "label": "zhang 'bring mtshams pa (3867) lineage predecessor of bo dong rin chen rtse mo (3904)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3867/",
-        "label": "zhang 'bring mtshams pa (3867)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
-        "label": "bo dong rin chen rtse mo (3904)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 5696,
-      "label": "u rgyan pa rin chen dpal (7346) student of bo dong rin chen rtse mo (3904)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7346/",
-        "label": "u rgyan pa rin chen dpal (7346)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
-        "label": "bo dong rin chen rtse mo (3904)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "exX0032025-04-2315-33-03",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17,
-        9,
-        13
-      ]
     },
     {
       "id": 162,
@@ -384,6 +322,130 @@
       "zotero_refs": "[R894SIKE]: 408 (bo dong rin rtses brag ram du bshad grwa btsugs | slob dpon der 'ong | dbu ma pa sher 'bum | bu ston grags seng la sogs pa'i mkhas pa mang du thon no |).",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2369,
+      "label": "dbu ma pa shes rab 'bum (3903) student of bo dong rin chen rtse mo (3904)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3903/",
+        "label": "dbu ma pa shes rab 'bum (3903)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
+        "label": "bo dong rin chen rtse mo (3904)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4TBERVZD]: 11.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5696,
+      "label": "u rgyan pa rin chen dpal (7346) student of bo dong rin chen rtse mo (3904)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7346/",
+        "label": "u rgyan pa rin chen dpal (7346)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
+        "label": "bo dong rin chen rtse mo (3904)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "exX0032025-04-2315-33-03",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17,
+        9,
+        13
+      ]
+    },
+    {
+      "id": 5950,
+      "label": "stag sde pa seng ge rgyal mtshan (4127) student of bo dong rin chen rtse mo (3904)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4127/",
+        "label": "stag sde pa seng ge rgyal mtshan (4127)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
+        "label": "bo dong rin chen rtse mo (3904)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[N35FPQ6L]: 63, n. 220 (based on [R894SIKE]).",
+      "tei_refs": "exXX0032026-02-1619-32-11",
+      "support_notes": "The passage names the teacher \"bo dong rin po che,\" who, earlier in the same section of the text, is named \"bo dong rin po che rin chen rtse mo.\"",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17,
+        9,
+        7
+      ]
+    },
+    {
+      "id": 485,
+      "label": "zhang 'bring mtshams pa (3867) lineage predecessor of bo dong rin chen rtse mo (3904)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3867/",
+        "label": "zhang 'bring mtshams pa (3867)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
+        "label": "bo dong rin chen rtse mo (3904)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -449,68 +511,6 @@
       "end": null,
       "subject_of_teaching_vocab": [
         9
-      ]
-    },
-    {
-      "id": 2369,
-      "label": "dbu ma pa shes rab 'bum (3903) student of bo dong rin chen rtse mo (3904)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3903/",
-        "label": "dbu ma pa shes rab 'bum (3903)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
-        "label": "bo dong rin chen rtse mo (3904)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[4TBERVZD]: 11.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 5950,
-      "label": "stag sde pa seng ge rgyal mtshan (4127) student of bo dong rin chen rtse mo (3904)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4127/",
-        "label": "stag sde pa seng ge rgyal mtshan (4127)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
-        "label": "bo dong rin chen rtse mo (3904)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[N35FPQ6L]: 63, n. 220 (based on [R894SIKE]).",
-      "tei_refs": "exXX0032026-02-1619-32-11",
-      "support_notes": "The passage names the teacher \"bo dong rin po che,\" who, earlier in the same section of the text, is named \"bo dong rin po che rin chen rtse mo.\"",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17,
-        9,
-        7
       ]
     }
   ],

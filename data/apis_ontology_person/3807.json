@@ -1164,10 +1164,10 @@
     },
     {
       "id": 2691,
-      "label": "khu shes rab brtson 'grus (3823) student of 'bre shes rab 'bar (3807)",
+      "label": "khu ston shes rab brtson 'grus (3823) student of 'bre shes rab 'bar (3807)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3823/",
-        "label": "khu shes rab brtson 'grus (3823)",
+        "label": "khu ston shes rab brtson 'grus (3823)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -1629,12 +1629,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex02032025-11-017-09-12\r\nex02032025-11-0617-22-26\r\nex02032025-11-0617-32-09\r\nex3012023-07-1009-02-40\r\nex02032025-04-2514-57-05",
+      "tei_refs": "ex02032025-11-017-09-12\r\nex02032025-11-0617-22-26\r\nex02032025-11-0617-32-09\r\nex02032025-04-2514-57-05\r\nex3012023-07-1009-02-40\r\nex003012026-03-0613-44-56",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        7
+      ]
     },
     {
       "id": 5791,
@@ -1969,7 +1971,7 @@
   "start_date_from": "1040-01-01",
   "start_date_sort": "1070-07-01",
   "comments": "Further holy places associated to him are: Ze thang, Grwa thang and rMog po ([647FFPZR]: 545, based on [Q3KCZX7B]: 38).",
-  "alternative_names": "'bre chen po\r\n'dre chen po\r\n'dre shes rab 'bar\r\n'bri shes rab 'bar",
+  "alternative_names": "'bre chen po\r\n'dre chen po\r\n'dre shes rab 'bar\r\n'bri shes rab 'bar\r\nshes rab bla ma",
   "external_links": "https://purl.bdrc.io/resource/P2274",
   "review": false,
   "start": "after 1040 before 1100",

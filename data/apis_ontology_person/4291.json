@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
   "relations": [
     {
+      "id": 6684,
+      "label": "ngur smrig pa dar ma snying po (4291) student of ra khri bzang 'bar (4237)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
+        "label": "ngur smrig pa dar ma snying po (4291)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4237/",
+        "label": "ra khri bzang 'bar (4237)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[TZC3JQWE]: 342, n. 19. Ra khri bzang 'bar was teacher of Brang ti dar ma snying po.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 458,
       "label": "ngur smrig pa dar ma snying po (4291) lineage predecessor of rog chos kyi brtson 'grus (4242)",
       "subj": {
@@ -25,6 +54,37 @@
       "zotero_refs": "[K9NNDTDS]: 1402 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012)). Alternative lineage: \"Brang ti (dar ma snying po)\" taught to \"Rog (Chos kyi brtson 'grus)\".",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 6685,
+      "label": "ngur smrig pa dar ma snying po (4291) lineage predecessor of ko ye shes 'byung gnas (4241)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
+        "label": "ngur smrig pa dar ma snying po (4291)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
+        "label": "ko ye shes 'byung gnas (4241)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[TZC3JQWE]: 352.",
+      "tei_refs": "",
+      "support_notes": "Abhidharmasamuccaya lineage",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -113,7 +173,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[CTQMVBPR]: Appendix A. Lineage of the Abhidharmasamuccaya (ID:3755).",
+      "zotero_refs": "[CTQMVBPR]: Appendix A. Lineage of the Abhidharmasamuccaya (ID:3755).\r\n[TZC3JQWE]: 357. Abhidharmasamuccaya lineage according to the Fifth Dalai Lama (ca. 1670).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -504,7 +564,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[TZC3JQWE]: 357. Abhidharmasamuccaya lineage according to the Fifth Dalai Lama (ca. 1670).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -789,7 +849,7 @@
   "start_date_from": null,
   "start_date_sort": "1085-12-31",
   "comments": "We follow Stearns ([RA3FK3BK]: 245, n. 173 and n. 176) in assuming that Ngur smrig pa is the same person as Brang ti Dar ma snying po, a foremost figure in the transmission of the Abhidharma in Tibet.\r\nAccording to [K9NNDTDS]: 1397, n. 37, \"ngur smrig\" designates a religious clothing of yellow-red color.",
-  "alternative_names": "ngur mig pa\r\ndar ma snying po\r\nngur smrig pa chen po\r\nngur dmigs pa\r\nrong gi dge bshes ngur dmig pa\r\nbrang ti dar ma snying po\r\n'brang\r\nngur mig\r\n'ur smrig\r\nbrang ti\r\nrdu",
+  "alternative_names": "ngur mig pa\r\ndar ma snying po\r\nngur smrig pa chen po\r\nngur dmigs pa\r\nrong gi dge bshes ngur dmig pa\r\nbrang ti dar ma snying po\r\nbrang ti dar snying\r\n'brang\r\nngur mig\r\n'ur smrig\r\nbrang ti\r\nrdu",
   "external_links": "https://purl.bdrc.io/resource/P10011",
   "review": false,
   "start": "before 1085",

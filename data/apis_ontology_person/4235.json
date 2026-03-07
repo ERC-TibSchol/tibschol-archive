@@ -2,37 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
   "relations": [
     {
-      "id": 3715,
-      "label": "khu ston brtson 'grus g.yung drung (4235) student of 'gar mi yon tan g.yung drung (4234)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
-        "label": "khu ston brtson 'grus g.yung drung (4235)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4234/",
-        "label": "'gar mi yon tan g.yung drung (4234)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[K9NNDTDS]: 1401 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012)).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
       "id": 3021,
       "label": "khu ston brtson 'grus g.yung drung (4235) student of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
       "subj": {
@@ -53,7 +22,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[Q922IUFM]: 19 (based on Bu ston).",
+      "zotero_refs": "[Q922IUFM]: 19 (based on Bu ston).\r\n[TZC3JQWE]: 342.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -63,7 +32,7 @@
     },
     {
       "id": 5067,
-      "label": "khu ston brtson 'grus g.yung drung (4235) student of jo bo se btsun (6763)",
+      "label": "khu ston brtson 'grus g.yung drung (4235) student of se btsun dbang phyug gzhon nu (4232)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
         "label": "khu ston brtson 'grus g.yung drung (4235)",
@@ -71,8 +40,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6763/",
-        "label": "jo bo se btsun (6763)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4232/",
+        "label": "se btsun dbang phyug gzhon nu (4232)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -82,7 +51,67 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 122 (khu ston brtson 'grus g.yung drung lcags mo phag la 'khrungs | khong dang rngog legs pa'i shes rab dang | 'bre chen po rnams kyis khams su byon nas | jo bo se btsun la chos mang du mnyan |). Studies in Khams (ID:6496).",
+      "zotero_refs": "[R894SIKE]: 122 (khu ston brtson 'grus g.yung drung lcags mo phag la 'khrungs | khong dang rngog legs pa'i shes rab dang | 'bre chen po rnams kyis khams su byon nas | jo bo se btsun la chos mang du mnyan |). Studies in Khams (ID:6496).\r\n[TZC3JQWE]: 341-342.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3715,
+      "label": "khu ston brtson 'grus g.yung drung (4235) student of 'gar mi yon tan g.yung drung (4234)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
+        "label": "khu ston brtson 'grus g.yung drung (4235)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4234/",
+        "label": "'gar mi yon tan g.yung drung (4234)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1401 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012)).\r\n[TZC3JQWE]: 341-342 and n. 19.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 6679,
+      "label": "khu ston brtson 'grus g.yung drung (4235) active at 'dren gyi lha sdings (6701)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
+        "label": "khu ston brtson 'grus g.yung drung (4235)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6701/",
+        "label": "'dren gyi lha sdings (6701)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[TZC3JQWE]: 342 (based on the Nel pa history).\r\n[JZP4CZRX], bdr:P3464 (accessed 06-03-2026).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -122,6 +151,34 @@
       ]
     },
     {
+      "id": 6681,
+      "label": "khu ston brtson 'grus g.yung drung (4235) author of lo rgyus chen mo (7800)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
+        "label": "khu ston brtson 'grus g.yung drung (4235)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7800/",
+        "label": "lo rgyus chen mo (7800)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[TZC3JQWE]: 342.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5070,
       "label": "khu ston brtson 'grus g.yung drung (4235) other relation to rngog legs pa'i shes rab (3788)",
       "subj": {
@@ -142,12 +199,41 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 122 (khu ston brtson 'grus g.yung drung lcags mo phag la 'khrungs | khong dang rngog legs pa'i shes rab dang | 'bre chen po rnams kyis khams su byon nas | jo bo se btsun la chos mang du mnyan |). Went to Khams (ID:6496) with Khu ston (ID:4235) and 'Bre chen po (ID:3807).",
+      "zotero_refs": "[R894SIKE]: 122 (khu ston brtson 'grus g.yung drung lcags mo phag la 'khrungs | khong dang rngog legs pa'i shes rab dang | 'bre chen po rnams kyis khams su byon nas | jo bo se btsun la chos mang du mnyan |). Went to Khams (ID:6496) with Khu ston (ID:4235) and 'Bre chen po (ID:3807).\r\n[R894SIKE]: 392 (chos mang du mkhyen nas khu ston la sogs pa dang 'grogs te | 'brom ston bzhud pa'i phyi de lo bya'i lo la dbus su phebs |)",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 4119,
+      "label": "khu ston brtson 'grus g.yung drung (4235) active at mchims phu (5645)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
+        "label": "khu ston brtson 'grus g.yung drung (4235)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5645/",
+        "label": "mchims phu (5645)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex2012023-07-1008-32-58",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 443,
@@ -170,9 +256,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex8001_2024-11-1408-36-05",
-      "support_notes": "Abhidharmasamuccaya lineage",
+      "zotero_refs": "[TZC3JQWE]: 357. Abhidharmasamuccaya lineage according to the Fifth Dalai Lama (ca. 1670).",
+      "tei_refs": "ex8001_2024-11-1408-36-05 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -303,8 +389,8 @@
       ]
     },
     {
-      "id": 5065,
-      "label": "khu ston brtson 'grus g.yung drung (4235) other relation to rngog legs pa'i shes rab (3788)",
+      "id": 3697,
+      "label": "khu ston brtson 'grus g.yung drung (4235) lineage predecessor of rgya tshul li (4238)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
         "label": "khu ston brtson 'grus g.yung drung (4235)",
@@ -312,8 +398,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3788/",
-        "label": "rngog legs pa'i shes rab (3788)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4238/",
+        "label": "rgya tshul li (4238)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -323,12 +409,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 392 (chos mang du mkhyen nas khu ston la sogs pa dang 'grogs te | 'brom ston bzhud pa'i phyi de lo bya'i lo la dbus su phebs |)",
+      "zotero_refs": "[K9NNDTDS]: 1397. rGya rgyal bu tshul le is successor of Khu chen po lha sdings pa in the transmission of the Abhidharmasamuccaya (ID:3755).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
     },
     {
       "id": 5071,
@@ -389,6 +478,126 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 2840,
+      "label": "khyung po 'dul ba  'dzin pa (5828) student of khu ston brtson 'grus g.yung drung (4235)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5828/",
+        "label": "khyung po 'dul ba  'dzin pa (5828)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
+        "label": "khu ston brtson 'grus g.yung drung (4235)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex2012023-07-1008-32-58",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3717,
+      "label": "rgya tshul li (4238) student of khu ston brtson 'grus g.yung drung (4235)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4238/",
+        "label": "rgya tshul li (4238)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
+        "label": "khu ston brtson 'grus g.yung drung (4235)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1401-1402 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012)). \"rGyal ba Tshul le\" is part of the \"earlier group\" of his students.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 4553,
+      "label": "ra khri bzang 'bar (4237) student of khu ston brtson 'grus g.yung drung (4235)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4237/",
+        "label": "ra khri bzang 'bar (4237)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
+        "label": "khu ston brtson 'grus g.yung drung (4235)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[TZC3JQWE]: 342, n. 19.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5074,
+      "label": "dwags po dbang rgyal (3792) student of khu ston brtson 'grus g.yung drung (4235)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3792/",
+        "label": "dwags po dbang rgyal (3792)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
+        "label": "khu ston brtson 'grus g.yung drung (4235)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 122 (dwags po dbang rgyal gyis kyang khong la phar phyin bslabs | mkhas par mkhyen pa'i nga rgyal gyis dwags pos jo bo rje la chos ma gsan |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
       "id": 5745,
       "label": "'jam gsar ba shes rab 'od zer (3884) quotes without name khu ston brtson 'grus g.yung drung (4235)",
       "subj": {
@@ -438,7 +647,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[K9NNDTDS]: 1397. \"Khu chen po Lha sdings pa\" follows \"Gar mi Yon tan g.yung drung\" in the transmission of the Abhidharmasamuccaya (ID:3755).",
       "tei_refs": "ex8001_2024-11-1408-36-05",
       "support_notes": "Abhidharmasamuccaya lineage",
       "confidence": "Positive",
@@ -477,37 +686,6 @@
       "end": null
     },
     {
-      "id": 3717,
-      "label": "rgya tshul li (4238) student of khu ston brtson 'grus g.yung drung (4235)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4238/",
-        "label": "rgya tshul li (4238)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
-        "label": "khu ston brtson 'grus g.yung drung (4235)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[K9NNDTDS]: 1401-1402 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012)). \"rGyal ba Tshul le\" is part of the \"earlier group\" of his students.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
       "id": 5178,
       "label": "chos kyi grags pa (6022) quotes with name khu ston brtson 'grus g.yung drung (4235)",
       "subj": {
@@ -535,66 +713,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 4553,
-      "label": "ra khri bzang 'bar (4237) student of khu ston brtson 'grus g.yung drung (4235)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4237/",
-        "label": "ra khri bzang 'bar (4237)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
-        "label": "khu ston brtson 'grus g.yung drung (4235)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "BUDA",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 5074,
-      "label": "dwags po dbang rgyal (3792) student of khu ston brtson 'grus g.yung drung (4235)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3792/",
-        "label": "dwags po dbang rgyal (3792)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
-        "label": "khu ston brtson 'grus g.yung drung (4235)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 122 (dwags po dbang rgyal gyis kyang khong la phar phyin bslabs | mkhas par mkhyen pa'i nga rgyal gyis dwags pos jo bo rje la chos ma gsan |).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        7
-      ]
     }
   ],
   "end_date_to": "1075-12-31",
@@ -603,8 +721,8 @@
   "start_date_to": "1011-12-31",
   "start_date_from": "1011-01-01",
   "start_date_sort": "1011-07-02",
-  "comments": "",
-  "alternative_names": "khu brtson 'grus g.yung drung\r\nkhu ston chen po brtson 'grus g.yung drung",
+  "comments": "The Abhidharma lineage found in (ID:5483) names \"khu lha sdings pa brtson 'grus g.yung drung\" between \"gar mi yon tan g.yung drung\" (ID:4234) and \"rgya rgyal bu tshul le\" (ID:4238). We consider \"khu lha sdings pa\" to be the same person as \"khu ston brtson 'grus g.yung drung,\" who founded lHa sdings (ID:6701) in Yar lung.\r\nHe is also mistakenly given the name Khu ston shes rab brtson 'grus in a lineage list, but should not be confused with (ID:3823) ([TZC3JQWE]: 342).",
+  "alternative_names": "khu brtson 'grus g.yung drung\r\nkhu ston chen po brtson 'grus g.yung drung\r\nkhu lha sdings pa\r\nkhu chen po lha sdings pa\r\nkhu ston shes rab brtson 'grus",
   "external_links": "https://purl.bdrc.io/resource/P3464",
   "review": false,
   "start": "1011",
