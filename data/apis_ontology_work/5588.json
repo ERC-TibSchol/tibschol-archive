@@ -3,7 +3,7 @@
   "relations": [
     {
       "id": 2067,
-      "label": "pram\u0101\u1e47av\u0101rttik\u0101la\u1e43k\u0101ra (5588) commentary on pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (3772)",
+      "label": "pram\u0101\u1e47av\u0101rttik\u0101la\u1e43k\u0101ra (5588) commentary on pram\u0101\u1e47av\u0101rttika (3772)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5588/",
         "label": "pram\u0101\u1e47av\u0101rttik\u0101la\u1e43k\u0101ra (5588)",
@@ -12,7 +12,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
-        "label": "pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (3772)",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -226,14 +226,14 @@
       "end": null
     }
   ],
-  "start_date_to": null,
-  "start_date_from": null,
-  "start_date_sort": null,
+  "start_date_to": "0850-12-31",
+  "start_date_from": "0760-01-01",
+  "start_date_sort": "0805-07-01",
   "comments": "",
   "alternative_names": "tshad ma rnam 'grel gyi rgyan\r\nrnam 'grel rgyan",
-  "external_links": "http://purl.rkts.eu/resource/WTT3558",
+  "external_links": "http://purl.rkts.eu/resource/WTT3558\r\nhttps://east.ikga.oeaw.ac.at/data/20/50/",
   "review": true,
-  "start": null,
+  "start": "after 760 before 850",
   "name": "pram\u0101\u1e47av\u0101rttik\u0101la\u1e43k\u0101ra",
   "sde_dge_ref": "D4221",
   "original_language": "Sanskrit",

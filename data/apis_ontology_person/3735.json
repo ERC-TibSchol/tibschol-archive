@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3735/",
   "relations": [
     {
+      "id": 6707,
+      "label": "kamala\u015b\u012bla (3735) student of \u015b\u0101ntarak\u1e63ita (1) (3732)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3735/",
+        "label": "kamala\u015b\u012bla (3735)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3732/",
+        "label": "\u015b\u0101ntarak\u1e63ita (1) (3732)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 13,
       "label": "kamala\u015b\u012bla (3735) author of madhyamak\u0101loka (3734)",
       "subj": {
@@ -56,6 +85,34 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 6708,
+      "label": "kamala\u015b\u012bla (3735) author of ny\u0101ya\u00adbindu\u00adp\u016brvapak\u1e63a\u00adsa\u1e43k\u1e63ipti (7813)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3735/",
+        "label": "kamala\u015b\u012bla (3735)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7813/",
+        "label": "ny\u0101ya\u00adbindu\u00adp\u016brvapak\u1e63a\u00adsa\u1e43k\u1e63ipti (7813)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": "0800-12-31",
@@ -64,9 +121,9 @@
   "start_date_to": "0745-12-31",
   "start_date_from": "0735-01-01",
   "start_date_sort": "0740-07-01",
-  "comments": "Date: ca. 740-795",
-  "alternative_names": "slob dpon ka ma la shI la",
-  "external_links": "https://purl.bdrc.io/resource/P7641",
+  "comments": "Date: ca. 740-795 (see [AAIEJBMW]).",
+  "alternative_names": "slob dpon ka ma la shI la\r\nslob dpon mang du thos pa ka ma la shI la",
+  "external_links": "https://purl.bdrc.io/resource/P7641\r\nhttps://east.ikga.oeaw.ac.at/data/17/",
   "review": true,
   "start": "after 735 before 745",
   "end": "after 790 before 800",

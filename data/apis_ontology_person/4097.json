@@ -330,7 +330,7 @@
     },
     {
       "id": 3963,
-      "label": "dpang lo tsA ba blo gros brtan pa (4097) studies pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (3772)",
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) studies pram\u0101\u1e47av\u0101rttika (3772)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
         "label": "dpang lo tsA ba blo gros brtan pa (4097)",
@@ -339,7 +339,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
-        "label": "pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (3772)",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -386,6 +386,34 @@
       "subject_of_teaching_vocab": [
         5
       ]
+    },
+    {
+      "id": 6723,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) translator of tarka\u00adbh\u0101\u1e63\u0101 (7821)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7821/",
+        "label": "tarka\u00adbh\u0101\u1e63\u0101 (7821)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 2577,

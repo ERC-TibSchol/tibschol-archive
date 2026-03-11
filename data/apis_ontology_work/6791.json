@@ -3,7 +3,7 @@
   "relations": [
     {
       "id": 4059,
-      "label": "pram\u0101\u1e47av\u0101rttikav\u1e5btti (6791) commentary on pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (3772)",
+      "label": "pram\u0101\u1e47av\u0101rttikav\u1e5btti (6791) commentary on pram\u0101\u1e47av\u0101rttika (3772)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6791/",
         "label": "pram\u0101\u1e47av\u0101rttikav\u1e5btti (6791)",
@@ -12,7 +12,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
-        "label": "pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (3772)",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -142,14 +142,14 @@
       "end": null
     }
   ],
-  "start_date_to": null,
-  "start_date_from": null,
-  "start_date_sort": null,
+  "start_date_to": "0660-12-31",
+  "start_date_from": "0560-01-01",
+  "start_date_sort": "0610-07-02",
   "comments": "",
   "alternative_names": "svav\u1e5btti",
-  "external_links": "http://purl.rkts.eu/resource/WTT3553",
+  "external_links": "http://purl.rkts.eu/resource/WTT3553\r\nhttps://east.ikga.oeaw.ac.at/data/7/17/",
   "review": true,
-  "start": null,
+  "start": "after 560 before 660",
   "name": "pram\u0101\u1e47av\u0101rttikav\u1e5btti",
   "sde_dge_ref": "D4216",
   "original_language": "Sanskrit",

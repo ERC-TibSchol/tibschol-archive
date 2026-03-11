@@ -58,17 +58,19 @@
       "end": null
     }
   ],
-  "start_date_to": null,
-  "start_date_from": null,
-  "start_date_sort": null,
+  "start_date_to": "0250-12-31",
+  "start_date_from": "0160-01-01",
+  "start_date_sort": "0205-07-02",
   "comments": "",
   "alternative_names": "rten cing 'brel par 'byung ba'i snying po'i rnam par bshad pa",
   "external_links": "http://purl.rkts.eu/resource/WTT4226",
   "review": false,
-  "start": null,
+  "start": "after 160 before 250",
   "name": "prat\u012btyasamutp\u0101dah\u1e5bdayavy\u0101khy\u0101na",
   "sde_dge_ref": "D3837",
   "original_language": "Sanskrit",
   "isExtant": true,
-  "subject_vocab": []
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/22/"
+  ]
 }

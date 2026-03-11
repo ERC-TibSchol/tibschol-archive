@@ -3,7 +3,7 @@
   "relations": [
     {
       "id": 2058,
-      "label": "sambandhapar\u012bk\u1e63\u0101\u1e6d\u012bk\u0101 (5568) commentary on sambandhapar\u012bk\u1e63\u0101prakara\u1e47a (3775)",
+      "label": "sambandhapar\u012bk\u1e63\u0101\u1e6d\u012bk\u0101 (5568) commentary on sambandhapar\u012bk\u1e63\u0101 (3775)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5568/",
         "label": "sambandhapar\u012bk\u1e63\u0101\u1e6d\u012bk\u0101 (5568)",
@@ -12,7 +12,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3775/",
-        "label": "sambandhapar\u012bk\u1e63\u0101prakara\u1e47a (3775)",
+        "label": "sambandhapar\u012bk\u1e63\u0101 (3775)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -58,14 +58,14 @@
       "end": null
     }
   ],
-  "start_date_to": null,
-  "start_date_from": null,
-  "start_date_sort": null,
+  "start_date_to": "0780-12-31",
+  "start_date_from": "0710-01-01",
+  "start_date_sort": "0745-07-02",
   "comments": "",
   "alternative_names": "'brel pa brtag pa'i rgya cher bshad pa",
-  "external_links": "http://purl.rkts.eu/resource/WTT3572",
+  "external_links": "http://purl.rkts.eu/resource/WTT3572\r\nhttps://east.ikga.oeaw.ac.at/data/11/29/",
   "review": true,
-  "start": null,
+  "start": "after 710 before 780",
   "name": "sambandhapar\u012bk\u1e63\u0101\u1e6d\u012bk\u0101",
   "sde_dge_ref": "D4236",
   "original_language": "Sanskrit",

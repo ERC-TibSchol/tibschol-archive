@@ -226,6 +226,34 @@
       "end": null
     },
     {
+      "id": 6717,
+      "label": "(pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 commentary) (7818) commentary on pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7818/",
+        "label": "(pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 commentary) (7818)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5594/",
+        "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5579,
       "label": "parahitabhadra (3798) translator of pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1) (5594)",
       "subj": {
@@ -310,14 +338,14 @@
       "end": null
     }
   ],
-  "start_date_to": null,
-  "start_date_from": null,
-  "start_date_sort": null,
+  "start_date_to": "0800-12-31",
+  "start_date_from": "0750-01-01",
+  "start_date_sort": "0775-07-02",
   "comments": "",
   "alternative_names": "tshad ma rnam par nges pa'i 'grel bshad 'thad ldan\r\nchos mchog chen po",
-  "external_links": "http://purl.rkts.eu/resource/WTT3564",
+  "external_links": "http://purl.rkts.eu/resource/WTT3564\r\nhttps://east.ikga.oeaw.ac.at/data/18/46/",
   "review": true,
-  "start": null,
+  "start": "after 750 before 800",
   "name": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (1)",
   "sde_dge_ref": "D4227",
   "original_language": "Sanskrit",

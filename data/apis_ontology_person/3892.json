@@ -403,7 +403,7 @@
     },
     {
       "id": 6554,
-      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) teaches pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (3772)",
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) teaches pram\u0101\u1e47av\u0101rttika (3772)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
         "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
@@ -412,7 +412,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
-        "label": "pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (3772)",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -710,6 +710,34 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6728,
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) studies v\u0101dany\u0101y\u0101nus\u0101ri\u1e47\u012b (7101)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7101/",
+        "label": "v\u0101dany\u0101y\u0101nus\u0101ri\u1e47\u012b (7101)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5FZQCNC]: 113. Studied and translated, together with Sa\u1e45gha\u015br\u012b (ID:6617), along with the commentary by \u015a\u0101ntarak\u1e63ita (ID:3732), i.e. (ID:7097).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

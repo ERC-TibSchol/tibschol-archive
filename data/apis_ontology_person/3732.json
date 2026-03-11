@@ -86,6 +86,35 @@
       "end": null
     },
     {
+      "id": 6732,
+      "label": "\u015b\u0101ntarak\u1e63ita (1) (3732) active at bsam yas dgon pa (4335)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3732/",
+        "label": "\u015b\u0101ntarak\u1e63ita (1) (3732)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4335/",
+        "label": "bsam yas dgon pa (4335)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[AAIEJBMW], \u015a\u0101ntarak\u1e63ita (725-788). First abbot.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 4908,
       "label": "\u015b\u0101ntarak\u1e63ita (1) (3732) author of v\u0101dany\u0101yav\u1e5bttivipa\u00f1cit\u0101rth\u0101 (7097)",
       "subj": {
@@ -140,6 +169,35 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 6707,
+      "label": "kamala\u015b\u012bla (3735) student of \u015b\u0101ntarak\u1e63ita (1) (3732)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3735/",
+        "label": "kamala\u015b\u012bla (3735)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3732/",
+        "label": "\u015b\u0101ntarak\u1e63ita (1) (3732)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "0790-12-31",
@@ -148,9 +206,9 @@
   "start_date_to": "0730-12-31",
   "start_date_from": "0720-01-01",
   "start_date_sort": "0725-07-01",
-  "comments": "Date: ca. 725-788.\r\nThe identification with \u015a\u0101ntarak\u1e63ita (2) (ID:6194) - the author of the  \tSatyadvayavibha\u1e45gapa\u00f1jik\u0101 (ID:6193) - is debatable.",
+  "comments": "Proposed dates: ca. 725-788; invited to Tibet in ca. 763 and ca. 775-788 (see [AAIEJBMW]).\r\nThe identification with \u015a\u0101ntarak\u1e63ita (2) (ID:6194) - the author of the Satyadvayavibha\u1e45gapa\u00f1jik\u0101 (ID:6193) - is debatable.",
   "alternative_names": "slob dpon zhi ba 'tsho\r\nmkhan chen zhi ba 'tsho\r\nzhi mtsho\r\nrgyan mkhan",
-  "external_links": "https://purl.bdrc.io/resource/P5659",
+  "external_links": "https://purl.bdrc.io/resource/P5659\r\nhttps://east.ikga.oeaw.ac.at/data/14/",
   "review": true,
   "start": "after 720 before 730",
   "end": "after 785 before 790",
