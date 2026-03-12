@@ -1,0 +1,48 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7799/",
+  "relations": [
+    {
+      "id": 6669,
+      "label": "bo dong paN chen phyogs las rnam rgyal (6058) author of lam 'bras kyi bla ma tshad ma'i lo rgyus (7799)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6058/",
+        "label": "bo dong paN chen phyogs las rnam rgyal (6058)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7799/",
+        "label": "lam 'bras kyi bla ma tshad ma'i lo rgyus (7799)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "See [E8Z2R8MK]: 183-184.",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "name": "lam 'bras kyi bla ma tshad ma'i lo rgyus",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/60/"
+  ]
+}

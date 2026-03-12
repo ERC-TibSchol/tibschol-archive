@@ -84,7 +84,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[CTAI38G9]: 923 and 927. Studies of Hetu\u00adbindu\u00ad\u1e6d\u012bk\u0101 (ID:7763).",
+      "zotero_refs": "[CTAI38G9]: 923, 925, and 927. Studies of Hetu\u00adbindu\u00ad\u1e6d\u012bk\u0101 (ID:7763).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -244,6 +244,64 @@
       ]
     },
     {
+      "id": 6827,
+      "label": "bu ston rin chen grub (5999) student of darma 'od zer (6635)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5999/",
+        "label": "bu ston rin chen grub (5999)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6635/",
+        "label": "darma 'od zer (6635)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTAI38G9]: 925 (according to Bu ston's gsan yig).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6828,
+      "label": "bu ston rin chen grub (5999) student of khro phu rin po che bsod nams seng ge (7014)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5999/",
+        "label": "bu ston rin chen grub (5999)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7014/",
+        "label": "khro phu rin po che bsod nams seng ge (7014)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTAI38G9]: 925. The entry \"rin po che ba\" in Bu ston's gsan yig is taken to refer to Khro phu bSod nams seng ge dpal bzang po, whose dates are given as (1237-?).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3081,
       "label": "bu ston rin chen grub (5999) active at nyang stod chu mig (4351)",
       "subj": {
@@ -371,18 +429,18 @@
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
+      "end_date_to": "1354-12-31",
+      "end_date_from": "1354-01-01",
+      "end_date_sort": "1354-07-02",
       "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CTAI38G9]: 924. Bu ston (ID:5999) studied epistemology with bSod nams mgon (ID:6925).",
+      "start_date_from": "1300-01-01",
+      "start_date_sort": "1300-01-01",
+      "zotero_refs": "[CTAI38G9]: 924. Bu ston (ID:5999) studied epistemology with bSod nams mgon (ID:6925).\r\n[2X2E3882]: 207. Abbot from ca. 1353 to 1354.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
+      "start": "after 1300",
+      "end": "1354",
       "subject_of_teaching_vocab": [
         9
       ]
@@ -743,18 +801,18 @@
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[2X2E3882]: 211. Appointed by Sku zhang Grags pa rgyal mtshan dpal bzang po (?-after 1333) of the Lce family.",
+      "end_date_to": "1355-12-31",
+      "end_date_from": "1355-01-01",
+      "end_date_sort": "1355-07-02",
+      "start_date_to": "1320-12-31",
+      "start_date_from": "1320-01-01",
+      "start_date_sort": "1320-07-01",
+      "zotero_refs": "[2X2E3882]: 211. Appointed by Sku zhang Grags pa rgyal mtshan dpal bzang po (?-after 1333) of the Lce family.\r\n[2X2E3882]: 207. Abbot until 1355.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": "1320",
-      "end": "1320",
+      "end": "1355",
       "subject_of_teaching_vocab": []
     },
     {

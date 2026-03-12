@@ -1,0 +1,51 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7096/",
+  "relations": [
+    {
+      "id": 4907,
+      "label": "gung ru rgyal mtshan bzang po (7096) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7096/",
+        "label": "gung ru rgyal mtshan bzang po (7096)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1450-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1450-12-31",
+      "start_date_to": null,
+      "start_date_from": "1393-01-01",
+      "start_date_sort": "1393-01-01",
+      "zotero_refs": "[BKUHJCNA]: 749 (gzhon nu nas gsang phur byon te thugs sbyong mdzad).",
+      "tei_refs": "",
+      "support_notes": "The colophon of his commentary on M\u016blamadhyamakak\u0101rik\u0101 (ID:3715) - the dBu ma rtsa ba shes rab kyi don bsdus - specifies that it was composed at gSang phu (mkhas pa'i 'dun sa dpal ldan gsang phur sbyar) (bdr:MW2DB16428_O2DB16428_PHLP6T).",
+      "confidence": "Positive",
+      "start": "after 1393",
+      "end": "before 1450",
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    }
+  ],
+  "end_date_to": "1450-12-31",
+  "end_date_from": "1450-01-01",
+  "end_date_sort": "1450-07-02",
+  "start_date_to": "1383-12-31",
+  "start_date_from": "1383-01-01",
+  "start_date_sort": "1383-07-02",
+  "comments": "[BKUHJCNA]: 750 (lhag par dbu ma la rtsal thon | ... dka' chen bzhi dbu ma rtsa 'jug la sogs pa'i po ti mang du gsungs | phar tshad kyi TIkka | spyi don | mdo sde rgyan la sogs pa'i byams chos phyi ma rnams dang 'jug pa dbu ma rig tshogs rnams kyi TIkka dang | dbu ma'i stong thun khrid yig sogs te rtsom pa'ang mang du mdzad).",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/P4340",
+  "review": false,
+  "start": "1383",
+  "end": "1450",
+  "name": "gung ru rgyal mtshan bzang po",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

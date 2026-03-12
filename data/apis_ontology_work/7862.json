@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7862/",
+  "relations": [
+    {
+      "id": 6775,
+      "label": "'dul ba me tog phreng rgyud kyi rnam 'grel tshig don rab gsal nyi 'od (7862) commentary on vinayak\u0101rik\u0101 (7858)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7862/",
+        "label": "'dul ba me tog phreng rgyud kyi rnam 'grel tshig don rab gsal nyi 'od (7862)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7858/",
+        "label": "vinayak\u0101rik\u0101 (7858)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6774,
+      "label": "rong ston shes bya kun rig (6005) author of 'dul ba me tog phreng rgyud kyi rnam 'grel tshig don rab gsal nyi 'od (7862)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7862/",
+        "label": "'dul ba me tog phreng rgyud kyi rnam 'grel tshig don rab gsal nyi 'od (7862)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1551-12-31",
+  "start_date_from": "1448-01-01",
+  "start_date_sort": "1499-12-31",
+  "comments": "Discussed in [UGZJBIWM]: 375-376.",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "after 1448 before 1551",
+  "name": "'dul ba me tog phreng rgyud kyi rnam 'grel tshig don rab gsal nyi 'od",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/8/"
+  ]
+}

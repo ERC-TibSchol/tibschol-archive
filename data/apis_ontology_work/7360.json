@@ -1,0 +1,102 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7360/",
+  "relations": [
+    {
+      "id": 5728,
+      "label": "spyod 'jug bsdus don (1) (7360) commentary on bodhicary\u0101vat\u0101ra (3727)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7360/",
+        "label": "spyod 'jug bsdus don (1) (7360)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3727/",
+        "label": "bodhicary\u0101vat\u0101ra (3727)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5727,
+      "label": "spyod 'jug bsdus don (1) (7360) has as an instance spyod 'jug bsdus don (7361)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7360/",
+        "label": "spyod 'jug bsdus don (1) (7360)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7361/",
+        "label": "spyod 'jug bsdus don (7361)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5729,
+      "label": "nyang bran pa chos kyi ye shes (3876) author of spyod 'jug bsdus don (1) (7360)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3876/",
+        "label": "nyang bran pa chos kyi ye shes (3876)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7360/",
+        "label": "spyod 'jug bsdus don (1) (7360)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[HMSTSJ7Q]: 429 (rGyal rtsel dpal 'khor chos sde dgon gyi dpe cha'i dkar chag), No. 108: spyod 'jug bsdus don; chos kyi ye shes.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1140-12-31",
+  "start_date_from": "1070-01-01",
+  "start_date_sort": "1105-07-02",
+  "comments": "In view of the number of folios of instance (ID:7361), a topical outline of the Bodhicary\u0101vat\u0101ra (ID:3727), possibly different from work (ID:3876) by Nyang bran pa Chos kyi ye shes.",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "after 1070 before 1140",
+  "name": "spyod 'jug bsdus don (1)",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": []
+}

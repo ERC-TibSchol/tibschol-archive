@@ -1,0 +1,113 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7637/",
+  "relations": [
+    {
+      "id": 6360,
+      "label": "kun dga' blo gros rgyal mtshan (7637) active at sa skya dgon pa (5733)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7637/",
+        "label": "kun dga' blo gros rgyal mtshan (7637)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
+        "label": "sa skya dgon pa (5733)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": "1312-12-31",
+      "start_date_from": "1312-01-01",
+      "start_date_sort": "1312-07-01",
+      "zotero_refs": "[JZP4CZRX], bdr:P4038\r\n[KM47ZZDJ]: 656-657. Teaching of the sa lugs of tshad ma, the Tshad ma rigs pa'i gter (ID:5564), and the Pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (ID:3772) to Dol po pa (ID:4213).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1312",
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 6562,
+      "label": "bu ston rin chen grub (5999) student of kun dga' blo gros rgyal mtshan (7637)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5999/",
+        "label": "bu ston rin chen grub (5999)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7637/",
+        "label": "kun dga' blo gros rgyal mtshan (7637)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTAI38G9]: 923 and 929. Teaching: Sa skya pa transmission of the Pram\u0101\u1e47av\u0101rttika (ID:3772) and Tshad ma rigs gter (ID:5564).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 6362,
+      "label": "dol po pa shes rab rgyal mtshan (4213) student of kun dga' blo gros rgyal mtshan (7637)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
+        "label": "dol po pa shes rab rgyal mtshan (4213)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7637/",
+        "label": "kun dga' blo gros rgyal mtshan (7637)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": "1312-12-31",
+      "start_date_from": "1312-01-01",
+      "start_date_sort": "1312-07-01",
+      "zotero_refs": "[KM47ZZDJ]: 656-657. Dol po pa studiee of the sa lugs of tshad ma, the Tshad ma rigs pa'i gter (ID:5564), and the Pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (ID:3772) with Kun dga' blo gros (ID:7637) and Nam mkha' legs pa'i rgyal mtshan dpal bzang po (ID:7638).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1312",
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    }
+  ],
+  "end_date_to": "1327-12-31",
+  "end_date_from": "1327-01-01",
+  "end_date_sort": "1327-07-02",
+  "start_date_to": "1299-12-31",
+  "start_date_from": "1299-01-01",
+  "start_date_sort": "1299-07-02",
+  "comments": "",
+  "alternative_names": "tI shrI 08\r\nti shri kun dga' blo gros rgyal mtshan dpal bzang po",
+  "external_links": "https://purl.bdrc.io/resource/P4038",
+  "review": false,
+  "start": "1299",
+  "end": "1327",
+  "name": "kun dga' blo gros rgyal mtshan",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

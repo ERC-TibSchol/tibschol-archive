@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7581/",
+  "relations": [
+    {
+      "id": 6210,
+      "label": "bden gnyis kyi 'bum (7581) has source dbu ma'i man ngag gi 'bum (4602)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7581/",
+        "label": "bden gnyis kyi 'bum (7581)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4602/",
+        "label": "dbu ma'i man ngag gi 'bum (4602)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6209,
+      "label": "dbu ma'i man ngag gi 'bum (4603) has as an instance bden gnyis kyi 'bum (7581)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4603/",
+        "label": "dbu ma'i man ngag gi 'bum (4603)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7581/",
+        "label": "bden gnyis kyi 'bum (7581)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "2006-12-31",
+  "start_date_from": "2006-01-01",
+  "start_date_sort": "2006-07-02",
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "2006",
+  "name": "bden gnyis kyi 'bum",
+  "set_num": null,
+  "volume": null,
+  "sb_text_number": "",
+  "pp_kdsb": null,
+  "num_folios": null,
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "BIP98IYF",
+  "tibschol_ref": "",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Modern typeset edition presumably based on (ID:4602). It preserves the title of the false cover page, namely \"dBu ma bden gnyis kyi 'bum\" (see (ID:4602))."
+}

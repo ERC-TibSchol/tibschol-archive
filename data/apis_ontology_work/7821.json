@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7821/",
+  "relations": [
+    {
+      "id": 6722,
+      "label": "mok\u1e63\u0101karagupta (5556) author of tarka\u00adbh\u0101\u1e63\u0101 (7821)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5556/",
+        "label": "mok\u1e63\u0101karagupta (5556)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7821/",
+        "label": "tarka\u00adbh\u0101\u1e63\u0101 (7821)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6723,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) translator of tarka\u00adbh\u0101\u1e63\u0101 (7821)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7821/",
+        "label": "tarka\u00adbh\u0101\u1e63\u0101 (7821)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1292-12-31",
+  "start_date_from": "1060-01-01",
+  "start_date_sort": "1176-07-02",
+  "comments": "",
+  "alternative_names": "rtog ge'i skad",
+  "external_links": "http://purl.rkts.eu/resource/WTT3599\r\nhttps://east.ikga.oeaw.ac.at/data/37/123/",
+  "review": false,
+  "start": "after 1060 before 1292",
+  "name": "tarka\u00adbh\u0101\u1e63\u0101",
+  "sde_dge_ref": "D4264",
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

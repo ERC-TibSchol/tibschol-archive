@@ -1,0 +1,104 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4509/",
+  "relations": [
+    {
+      "id": 1297,
+      "label": "'dul ba 'od ldan zhes bya ba'i Tik+ka tshig don rab gsal (4509) has as an instance 'dul ba 'od ldan zhes bya ba'i Tik+ka tshig don rab gsal (4508)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4509/",
+        "label": "'dul ba 'od ldan zhes bya ba'i Tik+ka tshig don rab gsal (4509)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4508/",
+        "label": "'dul ba 'od ldan zhes bya ba'i Tik+ka tshig don rab gsal (4508)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 584,
+      "label": "'dul ba 'od ldan zhes bya ba'i Tik+ka tshig don rab gsal (4509) commentary on m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101v\u1e5btti (3766)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4509/",
+        "label": "'dul ba 'od ldan zhes bya ba'i Tik+ka tshig don rab gsal (4509)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3766/",
+        "label": "m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101v\u1e5btti (3766)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex009032025-11-2817-13-21",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 583,
+      "label": "phywa pa chos kyi seng ge (3831) author of 'dul ba 'od ldan zhes bya ba'i Tik+ka tshig don rab gsal (4509)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4509/",
+        "label": "'dul ba 'od ldan zhes bya ba'i Tik+ka tshig don rab gsal (4509)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No.16172: shAakya'i dge slong chos kyi seng+ge",
+      "tei_refs": "ex009032025-11-2817-11-21",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1169-12-31",
+  "start_date_from": "1119-01-01",
+  "start_date_sort": "1144-07-01",
+  "comments": "The expression bu ta / 'bu ta is frequently used instead of sangs rgyas (pa).\r\nNumerous references to anonymous other thinkers.",
+  "alternative_names": "slob dpon phywa pa chos seng ges mdzad pa'i 'dul ba 'od ldan zhes bya ba'i Tik+ka tshig don rab gsal\r\n'dul ba \u2018od ldan zhes bya ba\u2019i tshig don rab gsal",
+  "external_links": "",
+  "review": false,
+  "start": "after 1119 before 1169",
+  "name": "'dul ba 'od ldan zhes bya ba'i Tik+ka tshig don rab gsal",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/8/"
+  ]
+}

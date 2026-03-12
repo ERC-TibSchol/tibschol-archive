@@ -1,0 +1,56 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5481/",
+  "relations": [
+    {
+      "id": 1740,
+      "label": "bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa'i bshad pa slob ma la phan pa (5482) has as an instance bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa'i bshad pa slob ma la phan pa (5481)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5482/",
+        "label": "bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa'i bshad pa slob ma la phan pa (5482)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5481/",
+        "label": "bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa'i bshad pa slob ma la phan pa (5481)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "The same manuscript appears in [5DSBYG9K] and [URVEWJWN].",
+  "alternative_names": "shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa'i bshad pa slob ma la phan pa (catalogue)",
+  "external_links": "https://purl.bdrc.io/resource/MW4PD3076_B53CD8\r\nhttps://purl.bdrc.io/resource/MW3CN3014_64863C",
+  "review": false,
+  "start": null,
+  "name": "bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa'i bshad pa slob ma la phan pa",
+  "set_num": "Set 4",
+  "volume": "113",
+  "sb_text_number": "5",
+  "pp_kdsb": "319-489",
+  "num_folios": "82(/88)",
+  "signature_letter": "tsha",
+  "signature_number": "34",
+  "drepung_number": "15762",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "URVEWJWN",
+  "tibschol_ref": "4_113_05",
+  "availability": "available",
+  "dimension": "65 x 9",
+  "item_description": "Script: dpe tshugs.\r\nNumber on the last folio: 86.\r\nMissing folios: 2, 5 (there is a 'lnga 'og ma' but not other fol. 5), 6 (there is a 'drug 'og ma' but no other fol. 6), 7-9, and 16.\r\nMany abbreviations.\r\nSome corrections in dbu can."
+}

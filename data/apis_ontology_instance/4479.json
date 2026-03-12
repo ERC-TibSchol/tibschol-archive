@@ -1,0 +1,56 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4479/",
+  "relations": [
+    {
+      "id": 1283,
+      "label": "dbu ma bden gnyis kyi don bsdus (4480) has as an instance dbu ma bden pa gnyis kyi don bsdus (4479)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4480/",
+        "label": "dbu ma bden gnyis kyi don bsdus (4480)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4479/",
+        "label": "dbu ma bden pa gnyis kyi don bsdus (4479)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "This 4-folio \"don bsdus\" follows the \"rnam bshad\" (ID: 5875) on the same manuscript with continuous folio numbering, but the signature phyi tsa 120 is repeated on fol. 34.\r\nThe <<'Bras spungs dkar chag [8H6M69W4]>> has a unique entry for both the \"don bsdus\" and the \"rnam bshad\" (No. 15724: dbu ma bden pa gnyis kyi don bsdus; phya pa chos kyi seng ge; 'bru tsha; 37f; 66.5 x 9.8cm).\r\n\r\nThe same manuscript is reproduced in [Z5AUD7GQ] and in [KNVAID52].",
+  "alternative_names": "dbu ma bden pa gnyis kyi don bsdus (colophon)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_527657\r\nhttps://purl.bdrc.io/resource/MW3CN3014_B499C8",
+  "review": true,
+  "start": null,
+  "name": "dbu ma bden pa gnyis kyi don bsdus",
+  "set_num": "Set 1",
+  "volume": "6",
+  "sb_text_number": "3",
+  "pp_kdsb": "251-257",
+  "num_folios": "4",
+  "signature_letter": "tsa",
+  "signature_number": "120",
+  "drepung_number": "15724",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "[KNVAID52]",
+  "tibschol_ref": "1_006_03",
+  "availability": "available",
+  "dimension": "66.5 x 9.8",
+  "item_description": "Script: 'bru tsha.\r\nOrthography:\r\n- Rare use of bindu for m\r\n- Palatalization of m (e.g., myi, myed)\r\n- Particle pa/ba takes the form pa after final \u2013ng and ba after final \u2013n (not systematic)\r\n- mngon gsum for mngon sum\r\n- Occasional superabundant 'a rjes 'jug (e.g., dpe')\r\n- Numeral used for number (once)\r\nVolume letter: Ga"
+}

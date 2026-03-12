@@ -1,0 +1,132 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4752/",
+  "relations": [
+    {
+      "id": 2038,
+      "label": "chos mngon pa kun las btus pa'i rnam par bshad pa gsal ba'i rgyan (4752) composed at snye thang brag sna bkra shis (5662)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4752/",
+        "label": "chos mngon pa kun las btus pa'i rnam par bshad pa gsal ba'i rgyan (4752)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5662/",
+        "label": "snye thang brag sna bkra shis (5662)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex41012024-09-1014-31-26",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1410,
+      "label": "chos mngon pa kun las btus pa'i rnam par bshad pa gsal ba'i rgyan (4752) has as an instance chos mngon pa kun las btus pa'i rnam par bshad pa gsal ba'i rgyan (4751)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4752/",
+        "label": "chos mngon pa kun las btus pa'i rnam par bshad pa gsal ba'i rgyan (4752)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4751/",
+        "label": "chos mngon pa kun las btus pa'i rnam par bshad pa gsal ba'i rgyan (4751)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 731,
+      "label": "chos mngon pa kun las btus pa'i rnam par bshad pa gsal ba'i rgyan (4752) commentary on abhidharmasamuccaya (3755)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4752/",
+        "label": "chos mngon pa kun las btus pa'i rnam par bshad pa gsal ba'i rgyan (4752)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3755/",
+        "label": "abhidharmasamuccaya (3755)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 730,
+      "label": "bzad pa ring mo dar ma tshul khrims (4011) author of chos mngon pa kun las btus pa'i rnam par bshad pa gsal ba'i rgyan (4752)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
+        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4752/",
+        "label": "chos mngon pa kun las btus pa'i rnam par bshad pa gsal ba'i rgyan (4752)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author in [8H6M69W4], No. 16109: bzad pa ring po",
+      "tei_refs": "ex41012024-09-1014-31-26",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1300-12-31",
+  "start_date_from": "1150-01-01",
+  "start_date_sort": "1225-07-01",
+  "comments": "",
+  "alternative_names": "theg pa chen po'i chos mngon pa'i rgyan\r\nchos mngon pa kun las btus pa'i rnam par bshad pa gsal ba blo'i rgyan",
+  "external_links": "",
+  "review": true,
+  "start": "after 1150 before 1300",
+  "name": "chos mngon pa kun las btus pa'i rnam par bshad pa gsal ba'i rgyan",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/17/"
+  ]
+}

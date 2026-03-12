@@ -1,0 +1,112 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4448/",
+  "relations": [
+    {
+      "id": 2612,
+      "label": "bcom ldan 'das yum brgyad stong pa'i don bsdus pa (2) (4448) has source bcom ldan 'das yum brgyad stong pa'i don bsdus pa (1) (5846)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4448/",
+        "label": "bcom ldan 'das yum brgyad stong pa'i don bsdus pa (2) (4448)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5846/",
+        "label": "bcom ldan 'das yum brgyad stong pa'i don bsdus pa (1) (5846)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1811,
+      "label": "mar pa ston pa (5827) scribe of bcom ldan 'das yum brgyad stong pa'i don bsdus pa (2) (4448)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5827/",
+        "label": "mar pa ston pa (5827)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4448/",
+        "label": "bcom ldan 'das yum brgyad stong pa'i don bsdus pa (2) (4448)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex2012023-07-1008-34-15",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1271,
+      "label": "yum brgyad stong pa'i don bsdus (4449) has as an instance bcom ldan 'das yum brgyad stong pa'i don bsdus pa (2) (4448)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4449/",
+        "label": "yum brgyad stong pa'i don bsdus (4449)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4448/",
+        "label": "bcom ldan 'das yum brgyad stong pa'i don bsdus pa (2) (4448)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "This manuscript also contains the colophon by the scribe of a previous instance (ID: 5846), after which a second scribe colophon was added.",
+  "alternative_names": "bcom ldan 'das yum brgyad stong pa'i don bsdus pa (work colophon)\r\nrgyal ba'i yum gyi bsdus don (conclusive verse)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_089074",
+  "review": true,
+  "start": null,
+  "name": "bcom ldan 'das yum brgyad stong pa'i don bsdus pa (2)",
+  "set_num": "Set 1",
+  "volume": "2",
+  "sb_text_number": "1",
+  "pp_kdsb": "13-55",
+  "num_folios": "22(/23)",
+  "signature_letter": "la",
+  "signature_number": "593",
+  "drepung_number": "19955",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "1_002_01",
+  "availability": "available",
+  "dimension": "64 x 9",
+  "item_description": "Script: 'bru tsha.\r\nFol. 1 missing. Two folios between fol. 5 and 7, numbered \"drug gong ma\" and \"drug.\"\r\nFolio number on last folio: nye gnyis bzhugs so\r\nOrthography:\r\n- Palatalization of m (e.g., dmyigs), but not systematic\r\n- Bindu for m\r\n- Numerals used for numbers\r\n- Additional 'a rjes 'jug (e.g., dpe', dgu')\r\n- the tsom for the tshom\r\n- chu.ngu (or chung_ngu?) for chung ngu\r\n- b frequently not closed on the top (looking like p) where b is expected (e.g., byang chub)\r\n- Space used with the value of shad\r\n- A few abbreviations (e.g., for thams cad, sems can)\r\n- In the interlinear notes, Na for myed\r\nInterlinear notes referring to the Tibetan translation of the base text and some glosses in cursive script (notably, indicating the absence of a corresponding commentary). A number of insertions (corrections). On fol. 15a, a few insertions in dbu can, e.g., fols. 13b, 15a."
+}

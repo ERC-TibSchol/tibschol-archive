@@ -1,0 +1,106 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7218/",
+  "relations": [
+    {
+      "id": 5409,
+      "label": "'khon gdus ba gzhon nu ye shes (7218) studies pram\u0101\u1e47av\u0101rttika (3772)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7218/",
+        "label": "'khon gdus ba gzhon nu ye shes (7218)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 550, n. 166, citing the dPyal gyi gdung rabs gang+ga'i chu rgyun (sku gzhon nu nas thar pa gling du byong nas rab tu byung ba mdzad phar tshad gnyis | 'dul ba mngon pa | rnam 'grel las sogs pa la legs par sbyangs nas mkhas par gyur ||). It is uncertain whether \"rnam 'grel\" refers here to the Pram\u0101\u1e47av\u0101rttika (ID:3772).\n[I58Z22ET]: 550, n. 166. The dPyal pa'i lo rgyus kyi yi ge only says that he learned in his youth the \"mtshan nyid kyi chos\" such as monastic discipline, abhiddharma, and epistemology.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5408,
+      "label": "'khon gdus ba gzhon nu ye shes (7218) student of nyi ma dpal (7215)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7218/",
+        "label": "'khon gdus ba gzhon nu ye shes (7218)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7215/",
+        "label": "nyi ma dpal (7215)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 550.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5410,
+      "label": "'khon gdus ba gzhon nu ye shes (7218) active at thar pa gling (7219)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7218/",
+        "label": "'khon gdus ba gzhon nu ye shes (7218)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7219/",
+        "label": "thar pa gling (7219)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 550, n. 166, citing the dPyal gyi gdung rabs gang+ga'i chu rgyun (sku gzhon nu nas thar pa gling du byong nas rab tu byung ba mdzad phar tshad gnyis | 'dul ba mngon pa | rnam 'grel las sogs pa la legs par sbyangs nas mkhas par gyur ||).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "See [I58Z22ET]: 550.",
+  "alternative_names": "mkhan chen gzhon nu ye shes",
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "'khon gdus ba gzhon nu ye shes",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

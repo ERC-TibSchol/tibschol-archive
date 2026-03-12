@@ -1,0 +1,104 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6618/",
+  "relations": [
+    {
+      "id": 6766,
+      "label": "vibh\u016bticandra (6618) other relation to d\u0101na\u015b\u012bla (6032)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6618/",
+        "label": "vibh\u016bticandra (6618)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
+        "label": "d\u0101na\u015b\u012bla (6032)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5534,
+      "label": "vibh\u016bticandra (6618) author of trisa\u1e43varaprabh\u0101m\u0101l\u0101 (7268)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6618/",
+        "label": "vibh\u016bticandra (6618)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7268/",
+        "label": "trisa\u1e43varaprabh\u0101m\u0101l\u0101 (7268)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3688,
+      "label": "\u015b\u0101kya\u015br\u012bbhadra (6418) other relation to vibh\u016bticandra (6618)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6418/",
+        "label": "\u015b\u0101kya\u015br\u012bbhadra (6418)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6618/",
+        "label": "vibh\u016bticandra (6618)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": "1235-12-31",
+  "end_date_from": "1225-01-01",
+  "end_date_sort": "1230-07-02",
+  "start_date_to": "1175-12-31",
+  "start_date_from": "1165-01-01",
+  "start_date_sort": "1170-07-02",
+  "comments": "Dates: ca. 1170-1230.",
+  "alternative_names": "rnal 'byor zla ba",
+  "external_links": "https://east.ikga.oeaw.ac.at/data/41/",
+  "review": true,
+  "start": "after 1165 before 1175",
+  "end": "after 1225 before 1235",
+  "name": "vibh\u016bticandra",
+  "gender": "male",
+  "nationality": "Indic"
+}

@@ -1,0 +1,56 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5104/",
+  "relations": [
+    {
+      "id": 1567,
+      "label": "dbu ma rtsa ba shes rab rgyan gyi me tog (5105) has as an instance dbu ma rtsa ba shes rab rgyan gyi me tog (5104)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5105/",
+        "label": "dbu ma rtsa ba shes rab rgyan gyi me tog (5105)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5104/",
+        "label": "dbu ma rtsa ba shes rab rgyan gyi me tog (5104)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "The same manuscript was reproduced in [KUYBGM7V] and [99J5ZTDZ].\r\n\r\nNo item with signature \"phyi la 386\" listed in [8H6M69W4].\r\n\r\nA post-colophon annotation deals with the identity of the translator of the base text being commented.",
+  "alternative_names": "dbu ma rtsa she rgyan gyi me tog (cover page)\r\ndbu ma rtsa ba shes rab rgyan gyi me tog (incipit, colophon)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD153536_1EA569\r\nhttps://purl.bdrc.io/resource/MW1CZ1041_C0C1D2",
+  "review": true,
+  "start": null,
+  "name": "dbu ma rtsa ba shes rab rgyan gyi me tog",
+  "set_num": "Set 3",
+  "volume": "62",
+  "sb_text_number": "1",
+  "pp_kdsb": "13-237",
+  "num_folios": "113",
+  "signature_letter": "la",
+  "signature_number": "386",
+  "drepung_number": null,
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "KWQVWBU6",
+  "tibschol_ref": "3_062_01",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Script: dpe tshugs.\r\nLines per folio: 5; 4 on fol. 1b.\r\nDouble numbering of the folios, from 1 to 113 and from 210 to 322 (200 being represented by a \"xx\" sign. 300 by \"xxx\").\r\nProofread twice (1 zhus dag; yang zhus dag).\r\nThe name \"bcom ldan ral gri\" in the colophon, as well as lemmata seem to have been written in color in the original. The latter are not very legible in the reproduction."
+}

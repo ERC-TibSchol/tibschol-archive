@@ -1,0 +1,143 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4051/",
+  "relations": [
+    {
+      "id": 287,
+      "label": "rgyang ro byang chub 'bum (4051) student of mchims nam mkha' grags (3977)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4051/",
+        "label": "rgyang ro byang chub 'bum (4051)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[6TNNKSQ3]: 33.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 308,
+      "label": "rgyang ro byang chub 'bum (4051) lineage predecessor of mchims blo bzang grags pa (4007)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4051/",
+        "label": "rgyang ro byang chub 'bum (4051)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4007/",
+        "label": "mchims blo bzang grags pa (4007)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 31, n. 33. Tsong kha pa's lineage for N\u0101g\u0101rjuna (ID:3720)'s Rigs tshogs (ID:5632) according to the gsan yig of mKhas grub rje (ID:6470): Pa tshab (ID:3868), to the four, rMa bya Byang ye (ID:6204), gTsang pa Sa sbos (ID:3871), Zhang Thang sag pa (ID:3870), Khu ston mDo sde 'bar (ID:3873), then from rMa bya Byang ye and Khu ston to rMa bya Byang brtson (ID:3842), then mTshur ston (ID:4315), rMa bya Sh\u0101kya seng ge (ID:7536), mChims Nam mkha' grags (ID:3977), sKyo ston sMon lam tshul khrims (ID:4052), rGyang ro Pa\u1e47 chen (ID:4051), mChims Blo bzang grags pa (ID:4007), sNar thang mkhan chen Kun dga' rgyal mtshan (ID:7539), Tsong kha pa (ID:5636).",
+      "tei_refs": "ex119012024-11-2216-57-43 (Abhidharma lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17,
+        13
+      ]
+    },
+    {
+      "id": 497,
+      "label": "mchims nam mkha' grags (3977) lineage predecessor of rgyang ro byang chub 'bum (4051)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4051/",
+        "label": "rgyang ro byang chub 'bum (4051)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex119012024-11-2216-57-43",
+      "support_notes": "Abhidharma lineage",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 6120,
+      "label": "skyo ston smon lam tshul khrims (4052) lineage predecessor of rgyang ro byang chub 'bum (4051)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4052/",
+        "label": "skyo ston smon lam tshul khrims (4052)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4051/",
+        "label": "rgyang ro byang chub 'bum (4051)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 31, n. 33. Tsong kha pa's lineage for N\u0101g\u0101rjuna (ID:3720)'s Rigs tshogs (ID:5632) according to the gsan yig of mKhas grub rje (ID:6470): Pa tshab (ID:3868), to the four, rMa bya Byang ye (ID:6204), gTsang pa Sa sbos (ID:3871), Zhang Thang sag pa (ID:3870), Khu ston mDo sde 'bar (ID:3873), then from rMa bya Byang ye and Khu ston to rMa bya Byang brtson (ID:3842), then mTshur ston (ID:4315), rMa bya Sh\u0101kya seng ge (ID:7536), mChims Nam mkha' grags (ID:3977), sKyo ston sMon lam tshul khrims (ID:4052), rGyang ro Pa\u1e47 chen (ID:4051), mChims Blo bzang grags pa (ID:4007), sNar thang mkhan chen Kun dga' rgyal mtshan (ID:7539), Tsong kha pa (ID:5636).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    }
+  ],
+  "end_date_to": "1355-12-31",
+  "end_date_from": "1220-01-01",
+  "end_date_sort": "1287-12-31",
+  "start_date_to": "1275-12-31",
+  "start_date_from": "1200-01-01",
+  "start_date_sort": "1237-12-31",
+  "comments": "",
+  "alternative_names": "rgyang ro paN chen",
+  "external_links": "https://purl.bdrc.io/resource/P3644",
+  "review": false,
+  "start": "after 1200 before 1275",
+  "end": "after 1220 before 1355",
+  "name": "rgyang ro byang chub 'bum",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

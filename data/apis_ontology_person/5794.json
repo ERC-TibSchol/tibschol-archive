@@ -1,0 +1,48 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5794/",
+  "relations": [
+    {
+      "id": 1817,
+      "label": "kun mkhyen (5794) scribe of chos mngon pa kun las btus kyi rnam par bshad pa rgyan gyi me tog (2) (5035)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5794/",
+        "label": "kun mkhyen (5794)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5035/",
+        "label": "chos mngon pa kun las btus kyi rnam par bshad pa rgyan gyi me tog (2) (5035)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Post-colophon note, (ID:5035), fol. 314a6: bcom ldan ral gri'i phyag dpe las kun mkhyen bdag gis bris so ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": "1200-01-01",
+  "start_date_sort": "1200-01-01",
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "after 1200",
+  "end": null,
+  "name": "kun mkhyen",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

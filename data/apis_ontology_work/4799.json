@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4799/",
+  "relations": [
+    {
+      "id": 1432,
+      "label": "mi g.yo ba dkar po'i bstod pa (4799) has as an instance mi g.yo ba dkar po'i bstod pa (4798)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4799/",
+        "label": "mi g.yo ba dkar po'i bstod pa (4799)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4798/",
+        "label": "mi g.yo ba dkar po'i bstod pa (4798)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 758,
+      "label": "mchims nam mkha' grags (3977) author of mi g.yo ba dkar po'i bstod pa (4799)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4799/",
+        "label": "mi g.yo ba dkar po'i bstod pa (4799)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1285-12-31",
+  "start_date_from": "1220-01-01",
+  "start_date_sort": "1252-12-31",
+  "comments": "Author reported for instance (ID:4798) in [8H6M69W4], 13652: mchims blo bzang grags pa.",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "after 1220 before 1285",
+  "name": "mi g.yo ba dkar po'i bstod pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/1/"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5171/",
+  "relations": [
+    {
+      "id": 1600,
+      "label": "mngon rtogs rgyan gyi 'grel bshad shes rab mchog gi rgyan (5171) has as an instance mngon rtogs rgyan gyi 'grel bshad shes rab mchog gi rgyan (5170)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5171/",
+        "label": "mngon rtogs rgyan gyi 'grel bshad shes rab mchog gi rgyan (5171)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5170/",
+        "label": "mngon rtogs rgyan gyi 'grel bshad shes rab mchog gi rgyan (5170)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 965,
+      "label": "mngon rtogs rgyan gyi 'grel bshad shes rab mchog gi rgyan (5171) commentary on abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5171/",
+        "label": "mngon rtogs rgyan gyi 'grel bshad shes rab mchog gi rgyan (5171)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3711/",
+        "label": "abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 964,
+      "label": "bo dong rin po che brtson 'grus rdo rje (4296) author of mngon rtogs rgyan gyi 'grel bshad shes rab mchog gi rgyan (5171)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4296/",
+        "label": "bo dong rin po che brtson 'grus rdo rje (4296)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5171/",
+        "label": "mngon rtogs rgyan gyi 'grel bshad shes rab mchog gi rgyan (5171)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex70032023-10-251",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1280-12-31",
+  "start_date_from": "1122-01-01",
+  "start_date_sort": "1201-07-02",
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "after 1122 before 1280",
+  "name": "mngon rtogs rgyan gyi 'grel bshad shes rab mchog gi rgyan",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}

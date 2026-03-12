@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6381/",
+  "relations": [
+    {
+      "id": 4872,
+      "label": "mnga' ris ratnadhvadza (6381) active at mnga' ris (5949)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6381/",
+        "label": "mnga' ris ratnadhvadza (6381)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5949/",
+        "label": "mnga' ris (5949)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "His name suggests he originated or was active in mNga' ris.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2991,
+      "label": "mnga' ris ratnadhvadza (6381) active at gsang phu gling stod (6172)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6381/",
+        "label": "mnga' ris ratnadhvadza (6381)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
+        "label": "gsang phu gling stod (6172)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1675-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1675-12-31",
+      "start_date_to": null,
+      "start_date_from": "1520-01-01",
+      "start_date_sort": "1520-01-01",
+      "zotero_refs": "[MPRU5QUC]: 212. Abbot of gSang phu ne'u thog monastery (41st abbot of upper college) for three years.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1520",
+      "end": "before 1675",
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1675-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1675-12-31",
+  "start_date_to": null,
+  "start_date_from": "1500-01-01",
+  "start_date_sort": "1500-01-01",
+  "comments": "Fl. late 16th to early 17th c.",
+  "alternative_names": "chos rje ratnadhvadza\r\nratnadhvaja",
+  "external_links": "",
+  "review": true,
+  "start": "after 1500",
+  "end": "before 1675",
+  "name": "mnga' ris ratnadhvadza",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

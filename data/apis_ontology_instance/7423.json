@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7423/",
+  "relations": [
+    {
+      "id": 5913,
+      "label": "tshad ma'i bstan bcos sde bdun rgyan gyi me tog (7423) has source tshad ma'i bstan bcos sde bdun rgyan gyi me tog (2) (5990)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7423/",
+        "label": "tshad ma'i bstan bcos sde bdun rgyan gyi me tog (7423)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5990/",
+        "label": "tshad ma'i bstan bcos sde bdun rgyan gyi me tog (2) (5990)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[V4DZTVU8]: 305.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5912,
+      "label": "tshad ma'i bstan bcos sde bdun rgyan gyi me tog (4944) has as an instance tshad ma'i bstan bcos sde bdun rgyan gyi me tog (7423)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4944/",
+        "label": "tshad ma'i bstan bcos sde bdun rgyan gyi me tog (4944)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7423/",
+        "label": "tshad ma'i bstan bcos sde bdun rgyan gyi me tog (7423)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1991-12-31",
+  "start_date_from": "1991-01-01",
+  "start_date_sort": "1991-07-02",
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "1991",
+  "name": "tshad ma'i bstan bcos sde bdun rgyan gyi me tog",
+  "set_num": null,
+  "volume": null,
+  "sb_text_number": "",
+  "pp_kdsb": null,
+  "num_folios": null,
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "[VEQ7EC9V]",
+  "tibschol_ref": "2_054_02_02",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Modern typeset edition in dbu can. Reviewed in [V4DZTVU8]."
+}

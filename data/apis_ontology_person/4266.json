@@ -1,0 +1,80 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4266/",
+  "relations": [
+    {
+      "id": 4720,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) quotes without name su rya thong po (4266)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4266/",
+        "label": "su rya thong po (4266)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 2775,
+      "label": "mtshur ston gzhon nu seng ge (4315) quotes without name su rya thong po (4266)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4315/",
+        "label": "mtshur ston gzhon nu seng ge (4315)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4266/",
+        "label": "su rya thong po (4266)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[DIPDNQZU]: xiii. 1 citation in (ID: 5292).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1270-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1270-12-31",
+  "start_date_to": "1190-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1190-12-31",
+  "comments": "",
+  "alternative_names": "su rgya",
+  "external_links": "",
+  "review": false,
+  "start": "before 1190",
+  "end": "before 1270",
+  "name": "su rya thong po",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

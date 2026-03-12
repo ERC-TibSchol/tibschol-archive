@@ -1,0 +1,361 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+  "relations": [
+    {
+      "id": 4008,
+      "label": "'jam dbyangs shakya gzhon nu (3894) active at sgros rnying grwa tshang (6043)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6043/",
+        "label": "sgros rnying grwa tshang (6043)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[U9BU5AFU]: 1050. Founded sGros rnying.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2527,
+      "label": "'jam dbyangs shakya gzhon nu (3894) active at gsang phu gling smad (6158)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6158/",
+        "label": "gsang phu gling smad (6158)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1352-12-31",
+      "end_date_from": "1293-01-01",
+      "end_date_sort": "1323-01-01",
+      "start_date_to": "1326-12-31",
+      "start_date_from": "1266-01-01",
+      "start_date_sort": "1296-07-01",
+      "zotero_refs": "[R894SIKE]: 400 (de rjes 'jam dbyangs shAkya gzhon nus me pho stag nas lo nyi shu rtsa bdun gdan sa mdzad). Was abbot for 27 years. Reading \"me pho stag\", this would be from 1266 to 1293, but this would not fit with the dates of the Third karmapa. Likely dates would be 1278 (sa pho stag) until 1305. \r\n[R894SIKE]: 582 (de nas gsang phu gling smad kyi gdan sa shAkya gzhon nu la dbu ma'i skor mang po dang | byams chos lnga | mngon pa gong 'og dang sa sde | tshad ma la sogs mang du gsan |). Taught the Third Karmapa Rang byung rdo rje (ID: 3897) in gSang phu gling smad.\r\n[MPRU5QUC]: 209. Abbot of gSang phu ne'u thog monastery (eighth abbot of lower college) for 27 years.\r\n[CCSBSVCA]: 190, n. 455 and 230-231, n. 630 suggests he occupied the chair from ca. 1326 to 1352, or 1266 to 1293.\r\n[R894SIKE]: 622 (de nas gsang phur byon nas bla chos ba 'jam dbyangs shAka gzhon dang | zur chos pa slob dpon blo gros mtshungs med la gtugs nas mtshan nyid kyi sde snod sa sde lnga dang | byams chos lnga dang | tshad ma rnam nges dang | sdud pa dang spyod 'jug la sogs pa mang du zhus |). Was main preacher in gSang phu when the first Zhwamar pa (ID: 6161) came to study with him, i.e., between 1308 and 1315.\r\n[U9BU5AFU]: 1050. Founded sGros rnying. Succeeded 'Jam dbyang 'Od zer mgon po (ID:3893).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1266 before 1326",
+      "end": "after 1293 before 1352",
+      "subject_of_teaching_vocab": [
+        9,
+        56,
+        13,
+        7
+      ]
+    },
+    {
+      "id": 155,
+      "label": "'jam dbyangs shakya gzhon nu (3894) student of 'jam dbyangs 'od zer mgon po (3893)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[U9BU5AFU]: 1050.\r\n[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a5 (des gsang phu gling smad kyi gdan sa lo sum cu so gnyis mdzad pa'i slob ma la | shAkya gzhon nu dang | byang chub gzhon nu gnyis byon pa las..).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5783,
+      "label": "'jam dbyangs shakya gzhon nu (3894) lineage predecessor of gsang phu ba blo gros mtshungs med (3896)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
+        "label": "gsang phu ba blo gros mtshungs med (3896)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 321, n. 153. Based on [8GL7ZT7Y]. Transmission lineage of the Ratnagotravibh\u0101ga (ID:3749).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10,
+        56
+      ]
+    },
+    {
+      "id": 2332,
+      "label": "'jam dbyangs shakya gzhon nu (3894) active at tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1314-12-31",
+      "end_date_from": "1314-01-01",
+      "end_date_sort": "1314-07-02",
+      "start_date_to": "1308-12-31",
+      "start_date_from": "1308-01-01",
+      "start_date_sort": "1308-07-01",
+      "zotero_refs": "[R894SIKE]: 415 (slob dpon shAka gzhon gyi bdag rkyen 'tshal ba smon lam pa la sogs pas mdzad nas 'tshal gung thang du bshad grwa btsugs). Founded a monastic college (bshad grwa).\r\n[CCSBSVCA]: 190 and 230-231. Invited to Tshal in 1308 from gSang phu by the dpon chen dGa' bde dpal, he established the college (bshad grwa) Chos 'khor gling at Tshal and founded there the tradition of expounding and studying philosophy (mtshan nyid).\r\n[8GL7ZT7Y]: 26, translated from [8GL7ZT7Y]: 15a6 (shAk gzhon slob dpon gyi 'gros rnying pa bzung nas gdan sa dang | tshal chos 'khor gling gi bshad grwa btsugs |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1308",
+      "end": "1314",
+      "subject_of_teaching_vocab": [
+        9,
+        7
+      ]
+    },
+    {
+      "id": 2533,
+      "label": "'jam dbyangs shakya gzhon nu (3894) other relation to gsang phu ba blo gros mtshungs med (3896)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
+        "label": "gsang phu ba blo gros mtshungs med (3896)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 622 (de nas gsang phur byon nas bla chos ba 'jam dbyangs shAkya gzhon dang | zur chos pa slob dpon blo gros mtshungs med la gtugs nas mtshan nyid kyi sde snod sa sde lnga dang | byams chos lnga dang | tshad ma rnam nges dang | sdud pa dang spyod 'jug la sogs pa mang du zhus |). They were respectively \"main preacher\" (bla chos pa) and \"assistant\" (zur chos pa) at gSang phu at the time the First Zhwa dmar pa (ID: 6161) came to study (shortly after 1305).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2334,
+      "label": "grags pa rgya mtsho bde legs 'byung gnas (4024) student of 'jam dbyangs shakya gzhon nu (3894)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4024/",
+        "label": "grags pa rgya mtsho bde legs 'byung gnas (4024)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Name of person related to Grags pa rgya mtsho given as \"'jam dbyangs 'od zer mgon po.\"",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2531,
+      "label": "zhwa dmar pa grags pa seng ge (6161) student of 'jam dbyangs shakya gzhon nu (3894)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6161/",
+        "label": "zhwa dmar pa grags pa seng ge (6161)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 622 (de nas gsang phur byon nas bla chos ba 'jam dbyangs shAkya gzhon dang | zur chos pa slob dpon blo gros mtshungs med la gtugs nas mtshan nyid kyi sde snod sa sde lnga dang | byams chos lnga dang | tshad ma rnam nges dang | sdud pa dang spyod 'jug la sogs pa mang du zhus |). Texts: Pram\u0101\u1e47avini\u015bcaya (ID:3774), Bodhicary\u0101vat\u0101ra (ID:3727), Sa\u00f1cayag\u0101th\u0101 (ID:3693), the five treatises of Maitreya (ID:6167), the five treatises on the Stages by Asa\u1e45ga (ID:3752), etc.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        48,
+        59,
+        9,
+        13,
+        7
+      ]
+    },
+    {
+      "id": 5785,
+      "label": "'jam dbyangs 'od zer mgon po (3893) lineage predecessor of 'jam dbyangs shakya gzhon nu (3894)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 321, n. 153. Based on [8GL7ZT7Y]. Transmission lineage of the Ratnagotravibh\u0101ga (ID:3749).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10,
+        56
+      ]
+    },
+    {
+      "id": 2525,
+      "label": "karma pa rang byung rdo rje (3897) student of 'jam dbyangs shakya gzhon nu (3894)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+        "label": "karma pa rang byung rdo rje (3897)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 582 (de nas gsang phu gling smad kyi gdan sa shAkya gzhon nu la dbu ma'i skor mang po dang | byams chos lnga | mngon pa gong 'og dang sa sde | tshad ma la sogs mang du gsan |).\r\n[BAQ9MH4T]: 322. Treatise: Ratnagotravibh\u0101ga (ID:3749).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10,
+        56
+      ]
+    },
+    {
+      "id": 157,
+      "label": "gsang phu ba blo gros mtshungs med (3896) student of 'jam dbyangs shakya gzhon nu (3894)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
+        "label": "gsang phu ba blo gros mtshungs med (3896)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3WFNMIGQ]: 149, n. 19.\r\n[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a6 (de'i slob ma blo gros mtshungs med ces grags pa ni...).\r\n[BAQ9MH4T]: 321, n. 153. Mentions Shakya gzhon nu's name in a signed verse in work (ID:4588).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "1352-01-01",
+  "end_date_sort": "1352-01-01",
+  "start_date_to": "1270-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1270-12-31",
+  "comments": "Eighth throne-holder of gSang phu gling smad and 16th mkhan po of the Gling smad.\r\nIt is reported that during 'Jam dbyang \u015a\u0101kya gzhon nu's time as abbot of the sGros seminary of the Lower monastery (ca. 1326), there was a split between the old (rnying) and the new (gsar). \u015a\u0101kya gzhon nu's oral teachings were taught in \"Old sGros\" ([7FZ3B926]: 118).\r\nThis, however, conflicts with the dates determined for the dates of activity of the next abbot in [CCSBSVCA]: 686, namely 1293-1301.",
+  "alternative_names": "gsang phu shAkya gzhon nu\r\ngsang phu mkhan po shAkya gzhon nu",
+  "external_links": "https://purl.bdrc.io/resource/P5500",
+  "review": false,
+  "start": "before 1270",
+  "end": "after 1352",
+  "name": "'jam dbyangs shakya gzhon nu",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

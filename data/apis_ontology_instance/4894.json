@@ -1,0 +1,140 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4894/",
+  "relations": [
+    {
+      "id": 1910,
+      "label": "bstan pa rgyas pa rgyan gyi nyi 'od (2) (4894) written at brag dkar (5697)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4894/",
+        "label": "bstan pa rgyas pa rgyan gyi nyi 'od (2) (4894)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5697/",
+        "label": "brag dkar (5697)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex61122023-09-13-102",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1783,
+      "label": "dge 'dun bzang po (5098) owner of bstan pa rgyas pa rgyan gyi nyi 'od (2) (4894)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5098/",
+        "label": "dge 'dun bzang po (5098)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4894/",
+        "label": "bstan pa rgyas pa rgyan gyi nyi 'od (2) (4894)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex61122023-09-13-102\r\nex61122023-09-1312",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 915,
+      "label": "blo gros seng ge (1) (4070) scribe of bstan pa rgyas pa rgyan gyi nyi 'od (2) (4894)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4070/",
+        "label": "blo gros seng ge (1) (4070)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4894/",
+        "label": "bstan pa rgyas pa rgyan gyi nyi 'od (2) (4894)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex61122023-09-13-102\r\nex61122023-09-1312",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1472,
+      "label": "bstan pa rgyas pa rgyan gyi nyi 'od (4895) has as an instance bstan pa rgyas pa rgyan gyi nyi 'od (2) (4894)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4895/",
+        "label": "bstan pa rgyas pa rgyan gyi nyi 'od (4895)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4894/",
+        "label": "bstan pa rgyas pa rgyan gyi nyi 'od (2) (4894)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1455-12-31",
+  "start_date_from": "1455-01-01",
+  "start_date_sort": "1455-07-02",
+  "comments": "Date of the copy: shing phag ma (the wood pig year), i.e. 1455.\r\nNo corresponding item is listed in [8H6M69W4].",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD153536_AD8FEB\r\nhttps://purl.bdrc.io/resource/MW1CZ1041_A285C1",
+  "review": true,
+  "start": "1455",
+  "name": "bstan pa rgyas pa rgyan gyi nyi 'od (2)",
+  "set_num": "Set 3",
+  "volume": "61",
+  "sb_text_number": "12",
+  "pp_kdsb": "191-266",
+  "num_folios": "77(/78)",
+  "signature_letter": "ma",
+  "signature_number": "502",
+  "drepung_number": null,
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "[KAD94G5L]",
+  "tibschol_ref": "3_061_12",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Missing folio: fol. 66.\r\nProofread."
+}

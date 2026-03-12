@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7824/",
+  "relations": [
+    {
+      "id": 6734,
+      "label": "hetubindu\u1e6d\u012bk\u0101loka (7824) commentary on hetubinduvivara\u1e47a (5932)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7824/",
+        "label": "hetubindu\u1e6d\u012bk\u0101loka (7824)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5932/",
+        "label": "hetubinduvivara\u1e47a (5932)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6733,
+      "label": "durvekami\u015bra (7817) author of hetubindu\u1e6d\u012bk\u0101loka (7824)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7817/",
+        "label": "durvekami\u015bra (7817)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7824/",
+        "label": "hetubindu\u1e6d\u012bk\u0101loka (7824)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1050-12-31",
+  "start_date_from": "0960-01-01",
+  "start_date_sort": "1005-07-02",
+  "comments": "",
+  "alternative_names": "arca\u1e6d\u0101loka",
+  "external_links": "https://east.ikga.oeaw.ac.at/data/30/142/",
+  "review": false,
+  "start": "after 960 before 1050",
+  "name": "hetubindu\u1e6d\u012bk\u0101loka",
+  "sde_dge_ref": null,
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6994/",
+  "relations": [
+    {
+      "id": 4610,
+      "label": "abhidharmako\u015ba\u015b\u0101strak\u0101rik\u0101bh\u0101\u1e63ya (6994) commentary on abhidharmako\u015babh\u0101\u1e63ya (6974)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6994/",
+        "label": "abhidharmako\u015ba\u015b\u0101strak\u0101rik\u0101bh\u0101\u1e63ya (6994)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6974/",
+        "label": "abhidharmako\u015babh\u0101\u1e63ya (6974)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4613,
+      "label": "sa\u1e45ghabhadra (6993) author of abhidharmako\u015ba\u015b\u0101strak\u0101rik\u0101bh\u0101\u1e63ya (6994)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6993/",
+        "label": "sa\u1e45ghabhadra (6993)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6994/",
+        "label": "abhidharmako\u015ba\u015b\u0101strak\u0101rik\u0101bh\u0101\u1e63ya (6994)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "chos mngon pa mdzod kyi bstan bcos kyi tshig le'ur byas pa'i rnam par bshad pa",
+  "external_links": "http://purl.rkts.eu/resource/WTT3429",
+  "review": true,
+  "start": null,
+  "name": "abhidharmako\u015ba\u015b\u0101strak\u0101rik\u0101bh\u0101\u1e63ya",
+  "sde_dge_ref": "D4091",
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/17/"
+  ]
+}

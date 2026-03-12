@@ -1,0 +1,48 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7786/",
+  "relations": [
+    {
+      "id": 6636,
+      "label": "j\u00f1\u0101na\u015br\u012bmitra (7785) author of k\u0101rya\u00adk\u0101ra\u1e47a\u00adbh\u0101va\u00adsiddhi (7786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7785/",
+        "label": "j\u00f1\u0101na\u015br\u012bmitra (7785)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7786/",
+        "label": "k\u0101rya\u00adk\u0101ra\u1e47a\u00adbh\u0101va\u00adsiddhi (7786)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1050-12-31",
+  "start_date_from": "0960-01-01",
+  "start_date_sort": "1005-07-02",
+  "comments": "",
+  "alternative_names": "rgyu dang 'bras bu'i ngo bo grub pa",
+  "external_links": "http://purl.rkts.eu/resource/WTT3593\r\nhttps://east.ikga.oeaw.ac.at/data/28/91/",
+  "review": false,
+  "start": "after 960 before 1050",
+  "name": "k\u0101rya\u00adk\u0101ra\u1e47a\u00adbh\u0101va\u00adsiddhi",
+  "sde_dge_ref": "D4258",
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

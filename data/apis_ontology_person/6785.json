@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6785/",
+  "relations": [
+    {
+      "id": 4371,
+      "label": "karma pa de bzhin gshegs pa (6785) student of nag hrig pa (6926)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6785/",
+        "label": "karma pa de bzhin gshegs pa (6785)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6926/",
+        "label": "nag hrig pa (6926)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a7 (kha rag pa'i sgros 'dzin bka' bzhi pa nag hrig par grags pa zhig la chos rje de bzhin gshesgs pas gsan |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4014,
+      "label": "karma pa de bzhin gshegs pa (6785) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6785/",
+        "label": "karma pa de bzhin gshegs pa (6785)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1415-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1415-12-31",
+      "start_date_to": null,
+      "start_date_from": "1394-01-01",
+      "start_date_sort": "1394-01-01",
+      "zotero_refs": "[3WFNMIGQ]: 141.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1394",
+      "end": "before 1415",
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1415-12-31",
+  "end_date_from": "1415-01-01",
+  "end_date_sort": "1415-07-02",
+  "start_date_to": "1384-12-31",
+  "start_date_from": "1384-01-01",
+  "start_date_sort": "1384-07-01",
+  "comments": "",
+  "alternative_names": "karma pa 05",
+  "external_links": "http://purl.bdrc.io/resource/P1410",
+  "review": false,
+  "start": "1384",
+  "end": "1415",
+  "name": "karma pa de bzhin gshegs pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

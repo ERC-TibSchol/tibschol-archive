@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5352/",
+  "relations": [
+    {
+      "id": 1681,
+      "label": "dge bshes po to ba'i rnam thar (5353) has as an instance dge bshes po to ba'i rnam thar (5352)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5353/",
+        "label": "dge bshes po to ba'i rnam thar (5353)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5352/",
+        "label": "dge bshes po to ba'i rnam thar (5352)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1788,
+      "label": "kyi ston dpal ldan rdo rje (5354) owner of dge bshes po to ba'i rnam thar (5352)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5354/",
+        "label": "kyi ston dpal ldan rdo rje (5354)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5352/",
+        "label": "dge bshes po to ba'i rnam thar (5352)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex94032023-09-09-12.28",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/MW4PD3076_DC31B5",
+  "review": false,
+  "start": null,
+  "name": "dge bshes po to ba'i rnam thar",
+  "set_num": "Set 4",
+  "volume": "94",
+  "sb_text_number": "3",
+  "pp_kdsb": "99-496",
+  "num_folios": "199",
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "4_094_03",
+  "availability": "available",
+  "dimension": null,
+  "item_description": ""
+}

@@ -1,0 +1,114 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7346/",
+  "relations": [
+    {
+      "id": 5697,
+      "label": "u rgyan pa rin chen dpal (7346) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7346/",
+        "label": "u rgyan pa rin chen dpal (7346)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[WGRMI54Z]: 115.",
+      "tei_refs": "exX0032025-04-2315-33-03",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5695,
+      "label": "u rgyan pa rin chen dpal (7346) active at bo dong e (4352)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7346/",
+        "label": "u rgyan pa rin chen dpal (7346)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4352/",
+        "label": "bo dong e (4352)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[WGRMI54Z]",
+      "tei_refs": "exX0032025-04-2315-33-03",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17,
+        9,
+        13
+      ]
+    },
+    {
+      "id": 5696,
+      "label": "u rgyan pa rin chen dpal (7346) student of bo dong rin chen rtse mo (3904)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7346/",
+        "label": "u rgyan pa rin chen dpal (7346)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
+        "label": "bo dong rin chen rtse mo (3904)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[WGRMI54Z]",
+      "tei_refs": "exX0032025-04-2315-33-03",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17,
+        9,
+        13
+      ]
+    }
+  ],
+  "end_date_to": "1309-12-31",
+  "end_date_from": "1309-01-01",
+  "end_date_sort": "1309-07-02",
+  "start_date_to": "1230-12-31",
+  "start_date_from": "1229-01-01",
+  "start_date_sort": "1229-12-31",
+  "comments": "Born in an iron-male-tiger year (i.e., 1230) according to [R894SIKE]: 817.\r\nHis life is studied in [WGRMI54Z].",
+  "alternative_names": "o rgyan pa\r\nrin chen dpal",
+  "external_links": "",
+  "review": true,
+  "start": "after 1229 before 1230",
+  "end": "1309",
+  "name": "u rgyan pa rin chen dpal",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

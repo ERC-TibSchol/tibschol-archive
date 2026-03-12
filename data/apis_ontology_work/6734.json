@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6734/",
+  "relations": [
+    {
+      "id": 3881,
+      "label": "brgyad stong pa'i 'grel pa (6734) commentary on a\u1e63\u1e6das\u0101hasrik\u0101praj\u00f1\u0101p\u0101ramit\u0101 (3692)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6734/",
+        "label": "brgyad stong pa'i 'grel pa (6734)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3692/",
+        "label": "a\u1e63\u1e6das\u0101hasrik\u0101praj\u00f1\u0101p\u0101ramit\u0101 (3692)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3882,
+      "label": "gro lung pa blo gros 'byung gnas (3806) author of brgyad stong pa'i 'grel pa (6734)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3806/",
+        "label": "gro lung pa blo gros 'byung gnas (3806)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6734/",
+        "label": "brgyad stong pa'i 'grel pa (6734)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[HCLRANG3]: 17-18 and n. 22.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1120-12-31",
+  "start_date_from": "1092-01-01",
+  "start_date_sort": "1106-07-02",
+  "comments": "Considered by Karma bde legs to be a different work from the brGyad stong 'grel chen gyi bshad pa (ID:4464). ([HCLRANG3]: 18, n. 22)",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "after 1092 before 1120",
+  "name": "brgyad stong pa'i 'grel pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}
