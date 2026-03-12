@@ -184,7 +184,7 @@
     },
     {
       "id": 3589,
-      "label": "dpang lo tsA ba blo gros brtan pa (4097) active at sa skya dong pa (5733)",
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) active at sa skya dgon pa (5733)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
         "label": "dpang lo tsA ba blo gros brtan pa (4097)",
@@ -193,7 +193,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
-        "label": "sa skya dong pa (5733)",
+        "label": "sa skya dgon pa (5733)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -321,6 +321,35 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[R894SIKE]: 921 (phyis dbus su byon nas ne'u thog gung thang | stag lung la sogs pa rnams su sde snod 'dzin pa mtha' yas pa'i blo'i mig phyes |). Taught at sTag lung.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6792,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) active at bo dong e (4352)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4352/",
+        "label": "bo dong e (4352)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

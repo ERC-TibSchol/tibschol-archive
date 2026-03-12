@@ -207,6 +207,39 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 2518,
+      "label": "rong ston shes bya kun rig (6005) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": "1384-01-01",
+      "end_date_sort": "1384-01-01",
+      "start_date_to": null,
+      "start_date_from": "1384-01-01",
+      "start_date_sort": "1384-01-01",
+      "zotero_refs": "[R894SIKE]: 413 (de'i thugs kyi sras rong ston smra ba'i seng ge chen po ni | rgyal mo rong nas gzhon nu la gsang phu ne'u thog tu phebs |). Came from rGyal mo rong to gSang phu ne'u thog in his youth.\r\n[R894SIKE]: 1258 (gzhon pa'i dus nas dbus gtsang du byon te | gsang phur rigs pa'i gnas la sbyangs bas | dgung lo nyi shu tsam bzhes pa na rnam nges la mkhas shing rigs pa smra ba la 'gran zla med par gyur |). Studied the sciences (rigs gnas) and epistemology and logic in gSang phu.\r\n[FFU2SPAQ]: 6.\r\n[RSAHY7SM]: II. Traveled to gSang phu at the age of seventeen (1384).",
+      "tei_refs": "",
+      "support_notes": "Composition of rNam nges rnam bshad rtog ge'i snang ba (ID:6004).\r\nComposition of Theg pa chen po rgyud bla ma'i bstan bcos legs par bshad pa (ID:7864).",
+      "confidence": "Positive",
+      "start": "after 1384",
+      "end": "after 1384 beore 1449",
+      "subject_of_teaching_vocab": [
+        10,
+        9,
+        56
+      ]
+    },
+    {
       "id": 5703,
       "label": "'jam dpal rgya mtsho (7061) active at gsang phu ne'u thog (4332)",
       "subj": {
@@ -233,37 +266,6 @@
       "confidence": "Positive",
       "start": "after 1366",
       "end": "before 1428",
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
-      "id": 2518,
-      "label": "rong ston shes bya kun rig (6005) active at gsang phu ne'u thog (4332)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
-        "label": "rong ston shes bya kun rig (6005)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
-        "label": "gsang phu ne'u thog (4332)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": "1384-01-01",
-      "end_date_sort": "1384-01-01",
-      "start_date_to": null,
-      "start_date_from": "1384-01-01",
-      "start_date_sort": "1384-01-01",
-      "zotero_refs": "[R894SIKE]: 413 (de'i thugs kyi sras rong ston smra ba'i seng ge chen po ni | rgyal mo rong nas gzhon nu la gsang phu ne'u thog tu phebs |). Came from rGyal mo rong to gSang phu ne'u thog in his youth.\r\n[R894SIKE]: 1258 (gzhon pa'i dus nas dbus gtsang du byon te | gsang phur rigs pa'i gnas la sbyangs bas | dgung lo nyi shu tsam bzhes pa na rnam nges la mkhas shing rigs pa smra ba la 'gran zla med par gyur |). Studied the sciences (rigs gnas) and epistemology and logic in gSang phu.\r\n[FFU2SPAQ]: 6.\r\n[RSAHY7SM]: II. Traveled to gSang phu at the age of seventeen (1384).",
-      "tei_refs": "",
-      "support_notes": "Composition of work (ID:6004).",
-      "confidence": "Positive",
-      "start": "after 1384",
-      "end": "after 1384 beore 1449",
       "subject_of_teaching_vocab": [
         9
       ]
@@ -1579,11 +1581,13 @@
       "start_date_sort": "1393-01-01",
       "zotero_refs": "[BKUHJCNA]: 749 (gzhon nu nas gsang phur byon te thugs sbyong mdzad).",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "The colophon of his commentary on M\u016blamadhyamakak\u0101rik\u0101 (ID:3715) - the dBu ma rtsa ba shes rab kyi don bsdus - specifies that it was composed at gSang phu (mkhas pa'i 'dun sa dpal ldan gsang phur sbyar) (bdr:MW2DB16428_O2DB16428_PHLP6T).",
       "confidence": "Positive",
       "start": "after 1393",
       "end": "before 1450",
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 2558,

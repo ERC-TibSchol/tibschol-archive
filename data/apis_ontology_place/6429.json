@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6429/",
   "relations": [
     {
+      "id": 6779,
+      "label": "chu mig (6429) located within nyang smad (6425)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6429/",
+        "label": "chu mig (6429)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6425/",
+        "label": "nyang smad (6425)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3083,
       "label": "chu mig (6429) located within gtsang (5915)",
       "subj": {
@@ -116,6 +144,35 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 4213,
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) active at chu mig (6429)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6429/",
+        "label": "chu mig (6429)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": "1205-01-01",
+      "end_date_sort": "1205-01-01",
+      "start_date_to": null,
+      "start_date_from": "1205-01-01",
+      "start_date_sort": "1205-01-01",
+      "zotero_refs": "[8S7FDMCJ]: 99. First studies with \u015a\u0101kya\u015br\u012bbhadra and members of his entourage at Chu mig ring mo.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1205",
+      "end": "after 1205",
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 4684,
       "label": "chu mig pa shes rab grags (3975) active at chu mig (6429)",
       "subj": {
@@ -152,7 +209,7 @@
   "longitude": null,
   "feature_code": "",
   "comments": "Near sNar thang (ID:4411). Not to be confused with Chu mig in Nyang stod (ID:4351). See [647FFPZR]: 531, n. 28.",
-  "alternative_names": "chu ming ring mo",
+  "alternative_names": "chu ming ring mo\r\nnyang smad chu mig",
   "external_links": "",
   "review": false,
   "label": "chu mig",

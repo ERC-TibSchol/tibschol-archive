@@ -325,6 +325,35 @@
       ]
     },
     {
+      "id": 6793,
+      "label": "dge bshes mu tra chen po (3811) active at bo dong e (4352)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3811/",
+        "label": "dge bshes mu tra chen po (3811)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4352/",
+        "label": "bo dong e (4352)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Founded the monastery.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 1908,
       "label": "rgyal sras thogs med bzang po (4066) active at bo dong e (4352)",
       "subj": {
@@ -380,6 +409,35 @@
       "confidence": "Positive",
       "start": "after 1108",
       "end": "after 1108",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6792,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) active at bo dong e (4352)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4352/",
+        "label": "bo dong e (4352)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     },
     {
@@ -497,16 +555,16 @@
       "subject_of_teaching_vocab": []
     }
   ],
-  "start_date_to": null,
-  "start_date_from": null,
-  "start_date_sort": null,
-  "latitude": 29.3,
-  "longitude": 88.2,
+  "start_date_to": "1049-12-31",
+  "start_date_from": "1049-01-01",
+  "start_date_sort": "1049-07-02",
+  "latitude": 29.30021516982113,
+  "longitude": 88.20003217967547,
   "feature_code": "",
   "comments": "Another name for Bo dong E dgon pa is \"dpal e\" ([GX36QNF5]: 128).",
   "alternative_names": "bo dong e dgon pa\r\ndpal e'i gtsug lag khang \r\ndpal e'i chos gra chen po \r\ndpal ldan e shod",
   "external_links": "https://purl.bdrc.io/resource/G244",
   "review": false,
   "label": "bo dong e",
-  "start": null
+  "start": "1049"
 }
