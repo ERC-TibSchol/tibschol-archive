@@ -1,0 +1,105 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7906/",
+  "relations": [
+    {
+      "id": 1021,
+      "label": "bsod nams rin chen (4) (7906) author of las kyi me long tshig le'ur byas pa'i bsdus don (5247)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7906/",
+        "label": "bsod nams rin chen (4) (7906)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5247/",
+        "label": "las kyi me long tshig le'ur byas pa'i bsdus don (5247)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex078042026-03-1315-07-13",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1017,
+      "label": "bsod nams rin chen (4) (7906) author of las kyi me long zhes bya ba'i tshig le'ur byas pa (5239)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7906/",
+        "label": "bsod nams rin chen (4) (7906)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5239/",
+        "label": "las kyi me long zhes bya ba'i tshig le'ur byas pa (5239)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "However, author according to [8H6M69W4], No. 18729: shAkya'i dge slong rin chen bzang po",
+      "tei_refs": "",
+      "support_notes": "Colophon (ID:5238), 103a1: bsod nams rin chen gyis sbyar ba || rdzogs s+ho ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6851,
+      "label": "rin chen tshul khrims (3) (7907) requests bsod nams rin chen (4) (7906)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7907/",
+        "label": "rin chen tshul khrims (3) (7907)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7906/",
+        "label": "bsod nams rin chen (4) (7906)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Work (ID:5239).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "The \"bsod nams rin chen\" who authored two works on karma is not identified. The editors of [KUYBGM7V] suggest the 13th-century gSang phu ba bSod nams rin chen mchog.",
+  "alternative_names": "shag kya'i dge slong bsod nams rin chen",
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "bsod nams rin chen (4)",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

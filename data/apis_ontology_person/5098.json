@@ -3,10 +3,10 @@
   "relations": [
     {
       "id": 1783,
-      "label": "dge 'dun bzang po (5098) owner of bstan pa rgyas pa rgyan gyi nyi 'od (2) (4894)",
+      "label": "dge 'dun bzang po (1) (5098) owner of bstan pa rgyas pa rgyan gyi nyi 'od (2) (4894)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5098/",
-        "label": "dge 'dun bzang po (5098)",
+        "label": "dge 'dun bzang po (1) (5098)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -31,10 +31,10 @@
     },
     {
       "id": 916,
-      "label": "dge 'dun bzang po (5098) owner of grub mtha' rgyan gyi me tog (2) (4921)",
+      "label": "dge 'dun bzang po (1) (5098) owner of grub mtha' rgyan gyi me tog (2) (4921)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5098/",
-        "label": "dge 'dun bzang po (5098)",
+        "label": "dge 'dun bzang po (1) (5098)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -59,18 +59,18 @@
     }
   ],
   "end_date_to": null,
-  "end_date_from": null,
-  "end_date_sort": null,
-  "start_date_to": null,
+  "end_date_from": "1455-01-01",
+  "end_date_sort": "1455-01-01",
+  "start_date_to": "1440-12-31",
   "start_date_from": null,
-  "start_date_sort": null,
-  "comments": "owner relation: check colophon to see whether he is owner of that instance, or owner of the instance brought from Nyang stod by slob dpon zhang (=instance no 3).",
+  "start_date_sort": "1440-12-31",
+  "comments": "A logician \"dge 'dun dpal bzang\" (ID:6850) is connected to work (ID:6846).",
   "alternative_names": "sa mtha'i dge slong dge 'dun bzang po",
   "external_links": "",
   "review": false,
-  "start": null,
-  "end": null,
-  "name": "dge 'dun bzang po",
+  "start": "before 1440",
+  "end": "after 1455",
+  "name": "dge 'dun bzang po (1)",
   "gender": "male",
   "nationality": "Tibetan"
 }

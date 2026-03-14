@@ -1,16 +1,74 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4408/",
-  "relations": [],
-  "start_date_to": null,
-  "start_date_from": null,
-  "start_date_sort": null,
-  "latitude": null,
-  "longitude": null,
+  "relations": [
+    {
+      "id": 6848,
+      "label": "lo dgon (4408) located within 'phan yul (5542)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4408/",
+        "label": "lo dgon (4408)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5542/",
+        "label": "'phan yul (5542)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6847,
+      "label": "spyan snga tshul khrims 'bar (3830) active at lo dgon (4408)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3830/",
+        "label": "spyan snga tshul khrims 'bar (3830)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4408/",
+        "label": "lo dgon (4408)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1103-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1103-12-31",
+      "start_date_to": "1095-12-31",
+      "start_date_from": "1095-01-01",
+      "start_date_sort": "1095-07-02",
+      "zotero_refs": "[7BUQIVZA]: 39. Founded the monastery in 1095.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1095",
+      "end": "before 1103",
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "start_date_to": "1095-12-31",
+  "start_date_from": "1095-01-01",
+  "start_date_sort": "1095-07-02",
+  "latitude": 29.9,
+  "longitude": 91.6,
   "feature_code": "",
-  "comments": null,
-  "alternative_names": null,
+  "comments": "Discussed in [7BUQIVZA]. Located in present-day Tagtse Dzong, Lhasa Prefecture. Coordinates from [CCSBSVCA]: 163, n. 411 (based on Xizang Dimingzhi); see also map 1 in this publication. \r\nOne of its primary branch temple is Bya yul dgon pa (ID:4407).",
+  "alternative_names": "",
   "external_links": "https://purl.bdrc.io/resource/G3305",
   "review": false,
   "label": "lo dgon",
-  "start": null
+  "start": "1095"
 }

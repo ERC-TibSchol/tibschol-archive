@@ -31,10 +31,10 @@
     },
     {
       "id": 1017,
-      "label": "sgam po pa bsod nams rin chen (4189) author of las kyi me long zhes bya ba'i tshig le'ur byas pa (5239)",
+      "label": "bsod nams rin chen (4) (7906) author of las kyi me long zhes bya ba'i tshig le'ur byas pa (5239)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4189/",
-        "label": "sgam po pa bsod nams rin chen (4189)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7906/",
+        "label": "bsod nams rin chen (4) (7906)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -52,7 +52,7 @@
       "start_date_sort": null,
       "zotero_refs": "However, author according to [8H6M69W4], No. 18729: shAkya'i dge slong rin chen bzang po",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "Colophon (ID:5238), 103a1: bsod nams rin chen gyis sbyar ba || rdzogs s+ho ||",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -84,16 +84,44 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 6850,
+      "label": "rin chen tshul khrims (3) (7907) prompter of las kyi me long zhes bya ba'i tshig le'ur byas pa (5239)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7907/",
+        "label": "rin chen tshul khrims (3) (7907)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5239/",
+        "label": "las kyi me long zhes bya ba'i tshig le'ur byas pa (5239)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
-  "start_date_to": "1153-12-31",
-  "start_date_from": "1089-01-01",
-  "start_date_sort": "1121-07-02",
-  "comments": "",
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "The identity of the \"bSod nams rin chen\" is not established.\r\nThe work was requested by the lay practitioner Rin chen tshul khrims.",
   "alternative_names": "mdo sde las kyi me long",
   "external_links": "",
   "review": false,
-  "start": "after 1089 before 1153",
+  "start": null,
   "name": "las kyi me long zhes bya ba'i tshig le'ur byas pa",
   "sde_dge_ref": null,
   "original_language": "Tibetan",

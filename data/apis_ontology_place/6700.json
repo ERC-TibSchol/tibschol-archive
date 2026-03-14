@@ -233,6 +233,37 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 6837,
+      "label": "rngog blo ldan shes rab (3786) active at snye thang (6700)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6700/",
+        "label": "snye thang (6700)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1109-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1109-12-31",
+      "start_date_to": null,
+      "start_date_from": "1082-01-01",
+      "start_date_sort": "1082-01-01",
+      "zotero_refs": "[Q47PVAE6]: 66. Translation of Pram\u0101\u1e47a\u00adv\u0101rttik\u0101la\u1e43k\u0101ra\u00ad\u1e6d\u012bk\u0101\u00ad supari\u015buddh\u012b (ID:7282).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1082",
+      "end": "before 1109",
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
       "id": 4437,
       "label": "snye thang brag sna bkra shis (5662) located within snye thang (6700)",
       "subj": {
