@@ -86,17 +86,19 @@
       "end": null
     }
   ],
-  "start_date_to": null,
-  "start_date_from": null,
-  "start_date_sort": null,
+  "start_date_to": "1440-12-31",
+  "start_date_from": "1325-01-01",
+  "start_date_sort": "1382-12-31",
   "comments": "",
   "alternative_names": "",
   "external_links": "",
   "review": true,
-  "start": null,
+  "start": "after 1325 before 1440",
   "name": "blo sbyong zin bris dang dmar khrid zin bris bcas",
   "sde_dge_ref": null,
   "original_language": "Tibetan",
   "isExtant": true,
-  "subject_vocab": []
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/15/"
+  ]
 }

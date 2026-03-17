@@ -1,0 +1,108 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4131/",
+  "relations": [
+    {
+      "id": 6928,
+      "label": "ye shes rdo rje dpal bzang po (4131) author of rgyud bla'i bshad pa nges don nor bu'i mdzod (7946)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4131/",
+        "label": "ye shes rdo rje dpal bzang po (4131)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7946/",
+        "label": "rgyud bla'i bshad pa nges don nor bu'i mdzod (7946)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:7947) in [8H6M69W4], No. 15868: shAkya'i dge slong ye shes rdo rje dpal bzang po.\r\n[BAQ9MH4T]: 413.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4547,
+      "label": "ye shes rdo rje dpal bzang po (4131) student of mi nyag rin chen bzang po (6363)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4131/",
+        "label": "ye shes rdo rje dpal bzang po (4131)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6363/",
+        "label": "mi nyag rin chen bzang po (6363)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[UNV7NRZ8]: 84.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 331,
+      "label": "mi nyag blo gros grags pa (4130) student of ye shes rdo rje dpal bzang po (4131)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4130/",
+        "label": "mi nyag blo gros grags pa (4130)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4131/",
+        "label": "ye shes rdo rje dpal bzang po (4131)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[UNV7NRZ8]: 84.",
+      "tei_refs": "ex8601_2023-10-044",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    }
+  ],
+  "end_date_to": "1453-12-31",
+  "end_date_from": "1327-01-01",
+  "end_date_sort": "1390-07-01",
+  "start_date_to": "1373-12-31",
+  "start_date_from": "1267-01-01",
+  "start_date_sort": "1320-07-02",
+  "comments": "This person could be identified as the 14th-century Mi nyag Bla ma ye shes rdo rje (http://purl.bdrc.io/resource/P9718). The third abbot of gSer ri dgon in Mi nyag, born in 1343 also has this name, and is reported to have taught at \"Ra this dga' ldan gling\" (which could be (ID:5960)) (see [UNV7NRZ8]). He would have been 60 at the time Blo gros grags pa (ID:4130) composed his Abhidharma commentary (ID:5281).",
+  "alternative_names": "thams cad rmad du byung ba mnga' ba ye shes rdo rje dpal bzang po",
+  "external_links": "",
+  "review": true,
+  "start": "after 1267 before 1373",
+  "end": "after 1327 before 1453",
+  "name": "ye shes rdo rje dpal bzang po",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

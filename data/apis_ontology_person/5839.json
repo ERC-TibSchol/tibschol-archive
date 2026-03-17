@@ -143,6 +143,34 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 6911,
+      "label": "'gos lo tsA ba gzhon nu dpal (5839) author of theg pa chen po'i rgyud bla ma'i bstan bcos kyi 'grel bshad de kho na nyid rab tu gsal ba'i me long (7937)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5839/",
+        "label": "'gos lo tsA ba gzhon nu dpal (5839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7937/",
+        "label": "theg pa chen po'i rgyud bla ma'i bstan bcos kyi 'grel bshad de kho na nyid rab tu gsal ba'i me long (7937)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 410.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2674,
       "label": "'gos lo tsA ba gzhon nu dpal (5839) author of dbu ma bden gnyis kyi rnam bshad (6226)",
       "subj": {
@@ -195,6 +223,34 @@
       "tei_refs": "",
       "support_notes": "Presumably a mistaken repetition of the author's name for the five preceding items (which are not accessible), also written in dpe tshugs script, and having folios of the same size.",
       "confidence": "Negative",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6913,
+      "label": "'gos lo tsA ba gzhon nu dpal (5839) author of rgyud bla'i 'grel pa nas btus pa'i zin bris (7938)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5839/",
+        "label": "'gos lo tsA ba gzhon nu dpal (5839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7938/",
+        "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7938)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 410.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
       "start": null,
       "end": null
     },

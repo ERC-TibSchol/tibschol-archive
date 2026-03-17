@@ -1,0 +1,51 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4277/",
+  "relations": [
+    {
+      "id": 509,
+      "label": "bla ma spa tshab (3838) student of skam sgom ye shes rgyal mtshan (4277)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3838/",
+        "label": "bla ma spa tshab (3838)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4277/",
+        "label": "skam sgom ye shes rgyal mtshan (4277)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 1077\u201378. While sPa tshab heard sKam sgom was skilled in practice and went to him, sKam sgom told sPa tshab that he should go to Pa dam pa sangs rgyas directly.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        21
+      ]
+    }
+  ],
+  "end_date_to": "1119-12-31",
+  "end_date_from": "1119-01-01",
+  "end_date_sort": "1119-07-02",
+  "start_date_to": null,
+  "start_date_from": "1000-01-01",
+  "start_date_sort": "1000-01-01",
+  "comments": "Disciple of pa dam pa sangs rgyas and zhi byed follower.",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "after 1000",
+  "end": "1119",
+  "name": "skam sgom ye shes rgyal mtshan",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

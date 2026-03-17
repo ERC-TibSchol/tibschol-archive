@@ -1,0 +1,106 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7084/",
+  "relations": [
+    {
+      "id": 5427,
+      "label": "smon lam dpal ba (7084) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7084/",
+        "label": "smon lam dpal ba (7084)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1491-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1491-12-31",
+      "start_date_to": null,
+      "start_date_from": "1424-01-01",
+      "start_date_sort": "1424-01-01",
+      "zotero_refs": "[E9XCQDGQ]: 130 (de nas gsang phur chos rje yon rgyam pa (ID:7226) dang | 'bras spungs su 'jam dbyangs chos rje (ID:7092) gnyis la gsung chos kyi 'brel pa re zhus nas gtsang la bteg).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1424",
+      "end": "before 1491",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5428,
+      "label": "smon lam dpal ba (7084) author of tshad ma rnam 'grel smon Tik+ka (7227)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7084/",
+        "label": "smon lam dpal ba (7084)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7227/",
+        "label": "tshad ma rnam 'grel smon Tik+ka (7227)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[E9XCQDGQ]: 130-131.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4865,
+      "label": "smon lam dpal ba (7084) active at 'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7084/",
+        "label": "smon lam dpal ba (7084)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7063/",
+        "label": "'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BKUHJCNA]: 739 (ri bo dga' ldan du mtshan nyid kyi bshad nyan mdzad).",
+      "tei_refs": "",
+      "support_notes": "Eighth dGa' ldan khri pa (1480-1490).",
+      "confidence": "Positive",
+      "start": "before 1480",
+      "end": "before 1480",
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1491-12-31",
+  "end_date_from": "1491-01-01",
+  "end_date_sort": "1491-07-02",
+  "start_date_to": "1414-12-31",
+  "start_date_from": "1414-01-01",
+  "start_date_sort": "1414-07-02",
+  "comments": "Eighth dGa' ldan khri pa from 1480 to 1490.\r\nHe asserted himself to be an emanation of \"khu,\" i.e., Khu ston brTson 'grus g.yung drung (ID:4235) ([BKUHJCNA]: 738: khu'i sprul pa yin par don gyi zhal bzhes mdzad).",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/P451",
+  "review": false,
+  "start": "1414",
+  "end": "1491",
+  "name": "smon lam dpal ba",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

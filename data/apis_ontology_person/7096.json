@@ -2,6 +2,179 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7096/",
   "relations": [
     {
+      "id": 6902,
+      "label": "gung ru rgyal mtshan bzang po (7096) student of rgyal tshab dar ma rin chen (6006)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7096/",
+        "label": "gung ru rgyal mtshan bzang po (7096)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6006/",
+        "label": "rgyal tshab dar ma rin chen (6006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P4340.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6903,
+      "label": "gung ru rgyal mtshan bzang po (7096) student of mkhas grub rje dge legs dpal bzang (6470)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7096/",
+        "label": "gung ru rgyal mtshan bzang po (7096)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6470/",
+        "label": "mkhas grub rje dge legs dpal bzang (6470)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P4340.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6899,
+      "label": "gung ru rgyal mtshan bzang po (7096) active at 'bras spungs (6751)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7096/",
+        "label": "gung ru rgyal mtshan bzang po (7096)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6751/",
+        "label": "'bras spungs (6751)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P4340. Throne holder of 'Bras spungs monastery.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6901,
+      "label": "gung ru rgyal mtshan bzang po (7096) student of tsong kha pa blo bzang grags pa (5636)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7096/",
+        "label": "gung ru rgyal mtshan bzang po (7096)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5636/",
+        "label": "tsong kha pa blo bzang grags pa (5636)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P4340.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6900,
+      "label": "gung ru rgyal mtshan bzang po (7096) active at se ra theg chen gling (7095)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7096/",
+        "label": "gung ru rgyal mtshan bzang po (7096)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7095/",
+        "label": "se ra theg chen gling (7095)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P4340. Throne holder of Se ra monastery.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6898,
+      "label": "gung ru rgyal mtshan bzang po (7096) author of theg pa chen po rgyud bla ma'i 'grel pa (7933)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7096/",
+        "label": "gung ru rgyal mtshan bzang po (7096)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7933/",
+        "label": "theg pa chen po rgyud bla ma'i 'grel pa (7933)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 410.",
+      "tei_refs": "",
+      "support_notes": "[ENNZCF55]: 67 instead equates \"phag grus rgyal mtshan bzang po\" with Phag mo gru pa rDo rje rgyal po (ID:3856).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4907,
       "label": "gung ru rgyal mtshan bzang po (7096) active at gsang phu ne'u thog (4332)",
       "subj": {
@@ -22,7 +195,7 @@
       "start_date_to": null,
       "start_date_from": "1393-01-01",
       "start_date_sort": "1393-01-01",
-      "zotero_refs": "[BKUHJCNA]: 749 (gzhon nu nas gsang phur byon te thugs sbyong mdzad).",
+      "zotero_refs": "[BKUHJCNA]: 749 (gzhon nu nas gsang phur byon te thugs sbyong mdzad).\r\n[JZP4CZRX], bdr:P4340. Throne holder of gSang phu ne'u thog.",
       "tei_refs": "",
       "support_notes": "The colophon of his commentary on M\u016blamadhyamakak\u0101rik\u0101 (ID:3715) - the dBu ma rtsa ba shes rab kyi don bsdus - specifies that it was composed at gSang phu (mkhas pa'i 'dun sa dpal ldan gsang phur sbyar) (bdr:MW2DB16428_O2DB16428_PHLP6T).",
       "confidence": "Positive",
@@ -40,7 +213,7 @@
   "start_date_from": "1383-01-01",
   "start_date_sort": "1383-07-02",
   "comments": "[BKUHJCNA]: 750 (lhag par dbu ma la rtsal thon | ... dka' chen bzhi dbu ma rtsa 'jug la sogs pa'i po ti mang du gsungs | phar tshad kyi TIkka | spyi don | mdo sde rgyan la sogs pa'i byams chos phyi ma rnams dang 'jug pa dbu ma rig tshogs rnams kyi TIkka dang | dbu ma'i stong thun khrid yig sogs te rtsom pa'ang mang du mdzad).",
-  "alternative_names": "",
+  "alternative_names": "phag gru rgyal mtshan bzang po",
   "external_links": "https://purl.bdrc.io/resource/P4340",
   "review": false,
   "start": "1383",

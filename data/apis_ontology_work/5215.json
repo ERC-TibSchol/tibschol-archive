@@ -3,10 +3,10 @@
   "relations": [
     {
       "id": 997,
-      "label": "theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed (5215) commentary on ratnagotravibh\u0101ga (3749)",
+      "label": "theg pa chen pa rgyud bla ma'i bstan bcos gsal byed (5215) commentary on ratnagotravibh\u0101ga (3749)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5215/",
-        "label": "theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed (5215)",
+        "label": "theg pa chen pa rgyud bla ma'i bstan bcos gsal byed (5215)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -31,16 +31,16 @@
     },
     {
       "id": 1619,
-      "label": "theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed (5215) has as an instance theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed (5214)",
+      "label": "theg pa chen pa rgyud bla ma'i bstan bcos gsal byed (5215) has as an instance theg pa chen po rgyud bla ma'i bstan bcos gsal byed (5214)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5215/",
-        "label": "theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed (5215)",
+        "label": "theg pa chen pa rgyud bla ma'i bstan bcos gsal byed (5215)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5214/",
-        "label": "theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed (5214)",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos gsal byed (5214)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -59,7 +59,7 @@
     },
     {
       "id": 996,
-      "label": "Anonymous (4593) author of theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed (5215)",
+      "label": "Anonymous (4593) author of theg pa chen pa rgyud bla ma'i bstan bcos gsal byed (5215)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4593/",
         "label": "Anonymous (4593)",
@@ -68,7 +68,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5215/",
-        "label": "theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed (5215)",
+        "label": "theg pa chen pa rgyud bla ma'i bstan bcos gsal byed (5215)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -94,11 +94,12 @@
   "external_links": "",
   "review": true,
   "start": null,
-  "name": "theg pa chen pa'o rgyud bla ma'i bstan bcos gsal byed",
+  "name": "theg pa chen pa rgyud bla ma'i bstan bcos gsal byed",
   "sde_dge_ref": null,
   "original_language": "Tibetan",
   "isExtant": true,
   "subject_vocab": [
-    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/10/"
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/10/",
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/56/"
   ]
 }

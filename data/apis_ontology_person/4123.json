@@ -1,0 +1,191 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4123/",
+  "relations": [
+    {
+      "id": 2229,
+      "label": "rgyud smad shes rab seng ge (4123) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4123/",
+        "label": "rgyud smad shes rab seng ge (4123)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1445-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1445-12-31",
+      "start_date_to": null,
+      "start_date_from": "1400-01-01",
+      "start_date_sort": "1400-01-01",
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1400",
+      "end": "before 1445",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 1156,
+      "label": "rgyud smad shes rab seng ge (4123) author of dbu ma 'jug pa'i 'grel pa (5465)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4123/",
+        "label": "rgyud smad shes rab seng ge (4123)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5465/",
+        "label": "dbu ma 'jug pa'i 'grel pa (5465)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:5464) in [8H6M69W4], No. 15587: snar thang shes rab seng+ge.",
+      "tei_refs": "ex112012025-02-2417-42-55. Uncertain whether \"btsun pa shes rab seng ge\" is \"rgyud smad shes rab seng ge.\"",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5472,
+      "label": "rgyud smad shes rab seng ge (4123) active at gsang phu mthong smon grwa tshang (7243)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4123/",
+        "label": "rgyud smad shes rab seng ge (4123)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7243/",
+        "label": "gsang phu mthong smon grwa tshang (7243)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1445-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1445-12-31",
+      "start_date_to": null,
+      "start_date_from": "1393-01-01",
+      "start_date_sort": "1393-01-01",
+      "zotero_refs": "[9BEDJZXI]: 67 (re zhig gsang phu mthong smon grwa tshang gi 'chad nyan pa mdzad | de nas grwa tshang de rje dge 'dun grub pa la gtad).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1393",
+      "end": "before 1445",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6771,
+      "label": "rgyud smad shes rab seng ge (4123) author of 'dul ba me tog phreng brgyud kyi sa bcad dang tshig le'ur byad pa'i de'i 'grel pa legs bshad rgya mtsho (7861)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4123/",
+        "label": "rgyud smad shes rab seng ge (4123)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7861/",
+        "label": "'dul ba me tog phreng brgyud kyi sa bcad dang tshig le'ur byad pa'i de'i 'grel pa legs bshad rgya mtsho (7861)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:WA26074.",
+      "tei_refs": "",
+      "support_notes": "Because the author is referred to in bSam gtan bzang po's commentary (ID:4735), if one adopts the date 1356 for that composition, dKa' bzhi pa Shes rab seng ge must be different from rGyud smad shes rab seng ge.",
+      "confidence": "Negative",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4913,
+      "label": "rgyud smad shes rab seng ge (4123) author of rnam 'grel gyi TIkka (7100)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4123/",
+        "label": "rgyud smad shes rab seng ge (4123)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7100/",
+        "label": "rnam 'grel gyi TIkka (7100)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BKUHJCNA]: 757. Dge 'dun grub (ID: 7060) was Shes rab seng ge's copyist when the latter was composing his rNam 'grel gyi TIkka and Dge 'dun grub composed the beginning and end verses. So, those at gSang phu would say: \"If a work is done by the copyist Dge 'dun grub, the composition of that TIkka will be pleasing to all!\" (yig mkhan dge 'dun grub kyis byas na TIkka rtsom pa sus kyang 'ong).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4914,
+      "label": "rgyud smad shes rab seng ge (4123) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4123/",
+        "label": "rgyud smad shes rab seng ge (4123)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1445-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1445-12-31",
+      "start_date_to": null,
+      "start_date_from": "1393-01-01",
+      "start_date_sort": "1393-01-01",
+      "zotero_refs": "[BKUHJCNA]: 757.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1393",
+      "end": "before 1445",
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1445-12-31",
+  "end_date_from": "1445-01-01",
+  "end_date_sort": "1445-07-02",
+  "start_date_to": "1383-12-31",
+  "start_date_from": "1383-01-01",
+  "start_date_sort": "1383-07-02",
+  "comments": "[BKUHJCNA]: 764. He goes to Ri bo dge 'phel, Rta nag ri khud, and so forth and teaches phar, tshad, dbu ma, and so forth, increasing the number of mtshan nyid pa by more than thirty.\r\n\r\nPart of the lineage of the Vinayak\u0101rik\u0101 (ID:7858) according to the Fifth Dalai lama ([UGZJBIWM]: 382).",
+  "alternative_names": "rgyud smad shes rab seng+ge\r\ndka' bzhi pa shes rab seng ge",
+  "external_links": "https://purl.bdrc.io/resource/P2093",
+  "review": false,
+  "start": "1383",
+  "end": "1445",
+  "name": "rgyud smad shes rab seng ge",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

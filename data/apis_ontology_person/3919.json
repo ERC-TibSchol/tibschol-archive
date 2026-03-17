@@ -1,0 +1,106 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3919/",
+  "relations": [
+    {
+      "id": 2601,
+      "label": "zhang 'bal tshad ma pa (3919) student of rgya dmar ba byang chub grags (3834)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3919/",
+        "label": "zhang 'bal tshad ma pa (3919)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 404 (mkhas pa chen po cog ro chos kyi rgyal mtshan | dpal phag mo gru pa | 'bal tshad ma ba | skyil mkhar lha khang ba | dus gsum mkhyen pa la sogs pa slob ma yang mkhas pa mang du byung |)\r\n[R894SIKE]: 467 (grwa sa der rje phag mo gru pa | mkhan po ka ba | 'bal tshad ma ba rnams dang dus mtshungs |). Fellow student of Cog ro chos kyi rgyal mtshan (ID: 6191), Phag mo gru pa (ID: 3856), mKhan po ka ba (ID: 6205). Here \"rgya dmar gyi grwa sa\" or to the place called \"do\" (ID:7241) mentioned in the previous sentence, and studies with rGya dmar ba (ID:3834) are not explicit in this sentence.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3776,
+      "label": "zhang 'bal tshad ma pa (3919) active at skyer sgang (6685)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3919/",
+        "label": "zhang 'bal tshad ma pa (3919)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6685/",
+        "label": "skyer sgang (6685)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MKF6XDW8]: 163, n. 3.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 668,
+      "label": "zhang 'bal tshad ma pa (3919) author of sher phyin mngon rtogs rgyan gyi 'grel ba'i brjed byang zhal rgyun gyi gdams pa (4643)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3919/",
+        "label": "zhang 'bal tshad ma pa (3919)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4643/",
+        "label": "sher phyin mngon rtogs rgyan gyi 'grel ba'i brjed byang zhal rgyun gyi gdams pa (4643)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": "1100-12-31",
+  "end_date_from": "1064-01-01",
+  "end_date_sort": "1082-07-01",
+  "start_date_to": "1184-12-31",
+  "start_date_from": "1000-01-01",
+  "start_date_sort": "1092-07-01",
+  "comments": "",
+  "alternative_names": "'bal tshad ma\r\n'bal tshad ma ba\r\n'bal thams cad mkhyen pa",
+  "external_links": "https://purl.bdrc.io/resource/P8LS15353",
+  "review": false,
+  "start": "after 1000 before 1184",
+  "end": "after 1064 before 1100",
+  "name": "zhang 'bal tshad ma pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

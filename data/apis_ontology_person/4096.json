@@ -1,0 +1,108 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4096/",
+  "relations": [
+    {
+      "id": 5687,
+      "label": "sangs rgyas yon tan dpal bzang po (4096) student of skyo ston smon lam tshul khrims (4052)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4096/",
+        "label": "sangs rgyas yon tan dpal bzang po (4096)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4052/",
+        "label": "skyo ston smon lam tshul khrims (4052)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex66022025-04-0215-55-39",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 945,
+      "label": "sangs rgyas yon tan dpal bzang po (4096) author of byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa dam pa'i dgongs pa rab tu gsal ba (5145)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4096/",
+        "label": "sangs rgyas yon tan dpal bzang po (4096)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5145/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa dam pa'i dgongs pa rab tu gsal ba (5145)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex66022025-04-0215-55-39",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 311,
+      "label": "gnas drug pa blo gros mtshungs med (4094) student of sangs rgyas yon tan dpal bzang po (4096)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4094/",
+        "label": "gnas drug pa blo gros mtshungs med (4094)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4096/",
+        "label": "sangs rgyas yon tan dpal bzang po (4096)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 323.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "1229-01-01",
+  "end_date_sort": "1229-01-01",
+  "start_date_to": "1289-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1289-12-31",
+  "comments": "The author of work (ID:5145) was a student of sKyo ston (ID:4052); he is not certain whether he is the same person as the teacher of gNas drug pa (ID:4094), active in the 14th c..",
+  "alternative_names": "sangs rgyas yon tan bzang po",
+  "external_links": "",
+  "review": false,
+  "start": "before 1289",
+  "end": "after 1229",
+  "name": "sangs rgyas yon tan dpal bzang po",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

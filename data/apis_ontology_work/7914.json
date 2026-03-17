@@ -1,0 +1,105 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7914/",
+  "relations": [
+    {
+      "id": 6862,
+      "label": "mdo sde rgyan gyi dka' 'grel gdams ngag dang sbyar nas bshad pa (7914) commentary on s\u016btr\u0101la\u1e43k\u0101rav\u1e5bttibh\u0101\u1e63ya (7002)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7914/",
+        "label": "mdo sde rgyan gyi dka' 'grel gdams ngag dang sbyar nas bshad pa (7914)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7002/",
+        "label": "s\u016btr\u0101la\u1e43k\u0101rav\u1e5bttibh\u0101\u1e63ya (7002)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6861,
+      "label": "mdo sde rgyan gyi dka' 'grel gdams ngag dang sbyar nas bshad pa (7914) has as an instance mdo sde rgyan gyi dka' 'grel gdams ngag dang sbyar nas bshad pa (7913)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7914/",
+        "label": "mdo sde rgyan gyi dka' 'grel gdams ngag dang sbyar nas bshad pa (7914)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7913/",
+        "label": "mdo sde rgyan gyi dka' 'grel gdams ngag dang sbyar nas bshad pa (7913)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6863,
+      "label": "Anonymous (19) (7915) author of mdo sde rgyan gyi dka' 'grel gdams ngag dang sbyar nas bshad pa (7914)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7915/",
+        "label": "Anonymous (19) (7915)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7914/",
+        "label": "mdo sde rgyan gyi dka' 'grel gdams ngag dang sbyar nas bshad pa (7914)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "According to [8H6M69W4], No. 15907, the author is a direct student of Blo ldan shes rab (ID:3786).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "According to [8H6M69W4], No. 15907, the author is a direct student of Blo ldan shes rab (ID:3786).",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "name": "mdo sde rgyan gyi dka' 'grel gdams ngag dang sbyar nas bshad pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/56/",
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/16/"
+  ]
+}

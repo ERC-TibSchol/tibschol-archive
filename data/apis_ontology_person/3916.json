@@ -22,7 +22,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "Author reported for instance (ID:6364) in [8H6M69W4], No. 15906: shAkya'i dge slong bsod nams rgyal mtshan.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Uncertain",
@@ -50,9 +50,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "Author reported for instance (ID:7912) in [8H6M69W4], No. 16044: btsun pa bsod nams.",
       "tei_refs": "",
-      "support_notes": "Colophon: dbus dang mtha' rnam par 'byed pa'i 'grel pa dbu ma'i snang ba zhes bya ba 'di ni mang du thos pa'i btsun pa bsod nams rgyal mtshan gyis yongs su rdzogs par brtsams pa'i yi ge'i rkyen dge ba'i bshes gnyen shes rab rdo rje zhes bya bas nye bar sbyar te sna tshogs can gyi lo khrums kyi zla ba'i dkar phyogs kyi tshes gcig la grub pa | dge legs su gyur cig",
+      "support_notes": "Colophon in (ID:7299): dbus dang mtha' rnam par 'byed pa'i 'grel pa dbu ma'i snang ba zhes bya ba 'di ni mang du thos pa'i btsun pa bsod nams rgyal mtshan gyis yongs su rdzogs par brtsams pa'i yi ge'i rkyen dge ba'i bshes gnyen shes rab rdo rje zhes bya bas nye bar sbyar te sna tshogs can gyi lo khrums kyi zla ba'i dkar phyogs kyi tshes gcig la grub pa | dge legs su gyur cig",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -194,6 +194,62 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6857,
+      "label": "bla ma dam pa bsod nams rgyal mtshan (3916) author of rgyud bla ma'i bstan bcos kyi rnam par bshad pa dgongs pa nges par gsal ba (7909)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3916/",
+        "label": "bla ma dam pa bsod nams rgyal mtshan (3916)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7909/",
+        "label": "rgyud bla ma'i bstan bcos kyi rnam par bshad pa dgongs pa nges par gsal ba (7909)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:7908), (ID:7910) and (ID:7911) in [8H6M69W4], No. 15738, 16000, and 16045: btsun pa bsod nams.",
+      "tei_refs": "",
+      "support_notes": "Based on the similarity of title with work (ID:7380), one can suppose that \"btsun pa bsod nams\" is Bla ma dam pa bsod nams rgyal mtshan (ID:3916).",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6892,
+      "label": "bla ma dam pa bsod nams rgyal mtshan (3916) author of rgyud bla Tika sa bcad dang bcas pa (7930)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3916/",
+        "label": "bla ma dam pa bsod nams rgyal mtshan (3916)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7930/",
+        "label": "rgyud bla Tika sa bcad dang bcas pa (7930)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 409.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

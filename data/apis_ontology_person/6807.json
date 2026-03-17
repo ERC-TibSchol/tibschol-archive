@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6807/",
+  "relations": [
+    {
+      "id": 4707,
+      "label": "tshul khrims dar (6807) student of lo dgon pa bsod nams lha'i dbang po (6808)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6807/",
+        "label": "tshul khrims dar (6807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6808/",
+        "label": "lo dgon pa bsod nams lha'i dbang po (6808)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 24 Tshul khrims dar was Lo dgon pa's root-guru.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4147,
+      "label": "glang lung pa brtson 'grus gzhon nu (3860) lineage predecessor of tshul khrims dar (6807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3860/",
+        "label": "glang lung pa brtson 'grus gzhon nu (3860)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6807/",
+        "label": "tshul khrims dar (6807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 24. Tshul khrims dar receives an oral tradition of Ati\u015ba from Glang lung pa.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1474-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1474-12-31",
+  "start_date_to": "1374-12-31",
+  "start_date_from": "1374-01-01",
+  "start_date_sort": "1374-07-02",
+  "comments": "",
+  "alternative_names": "spyan snga tshul khrims dar ma",
+  "external_links": "https://purl.bdrc.io/resource/P3499",
+  "review": false,
+  "start": "1374",
+  "end": "before 1474",
+  "name": "tshul khrims dar",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

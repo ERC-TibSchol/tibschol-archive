@@ -233,6 +233,34 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 6854,
+      "label": "khu mdo sde 'bar (3873) author of bstan bcos tshig gsal ba'i gzhal bya nye bar 'dog pa'i bshad pa (7805)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3873/",
+        "label": "khu mdo sde 'bar (3873)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7805/",
+        "label": "bstan bcos tshig gsal ba'i gzhal bya nye bar 'dog pa'i bshad pa (7805)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5197,
       "label": "khu mdo sde 'bar (3873) quotes with name rngog blo ldan shes rab (3786)",
       "subj": {
@@ -352,18 +380,18 @@
       ]
     }
   ],
-  "end_date_to": null,
+  "end_date_to": "1200-12-31",
   "end_date_from": "1110-01-01",
-  "end_date_sort": "1110-01-01",
+  "end_date_sort": "1155-07-02",
   "start_date_to": "1110-12-31",
-  "start_date_from": null,
-  "start_date_sort": "1110-12-31",
+  "start_date_from": "1030-01-01",
+  "start_date_sort": "1070-07-01",
   "comments": "",
   "alternative_names": "khu lo tsA ba\r\nkhu ston mdo sde 'bar",
   "external_links": "https://purl.bdrc.io/resource/P4CZ15243",
   "review": false,
-  "start": "before 1110",
-  "end": "after 1110",
+  "start": "after 1030 before 1110",
+  "end": "after 1110 before 1200",
   "name": "khu mdo sde 'bar",
   "gender": "male",
   "nationality": "Tibetan"

@@ -1,0 +1,79 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6611/",
+  "relations": [
+    {
+      "id": 3552,
+      "label": "sukha\u015br\u012bbhadra (6611) ordinator of \u015b\u0101kya\u015br\u012bbhadra (6418)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6611/",
+        "label": "sukha\u015br\u012bbhadra (6611)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6418/",
+        "label": "\u015b\u0101kya\u015br\u012bbhadra (6418)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 123. Novice vows in ca. 1150.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1150",
+      "end": "1150"
+    },
+    {
+      "id": 3551,
+      "label": "dpyal kun dga' rdo rje (6609) student of sukha\u015br\u012bbhadra (6611)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6609/",
+        "label": "dpyal kun dga' rdo rje (6609)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6611/",
+        "label": "sukha\u015br\u012bbhadra (6611)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 123.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    }
+  ],
+  "end_date_to": "1210-12-31",
+  "end_date_from": "1150-01-01",
+  "end_date_sort": "1180-07-01",
+  "start_date_to": "1130-12-31",
+  "start_date_from": "1070-01-01",
+  "start_date_sort": "1100-07-02",
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "after 1070 before 1130",
+  "end": "after 1150 before 1210",
+  "name": "sukha\u015br\u012bbhadra",
+  "gender": "male",
+  "nationality": "Indic"
+}
