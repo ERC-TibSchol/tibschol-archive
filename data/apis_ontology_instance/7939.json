@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7939/",
   "relations": [
     {
-      "id": 6915,
-      "label": "rgyud bla'i rnam bshad sngon med nyi ma (7940) has as an instance rgyud bla'i 'grel pa nas btus pa'i zin bris (7939)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7940/",
-        "label": "rgyud bla'i rnam bshad sngon med nyi ma (7940)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7939/",
-        "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7939)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 6914,
       "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7938) has as an instance rgyud bla'i 'grel pa nas btus pa'i zin bris (7939)",
       "subj": {
@@ -61,10 +33,10 @@
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "comments": "Reported in [BAQ9MH4T]: 410.",
+  "comments": "Listed in [8H6M69W4], No. 19370: 'gos lo gzhon nu dpal gyis mdzad pa'i rgyud bla'i 'grel pa nas btus pa'i zin bris brjod byang med pa.\r\nReported in [BAQ9MH4T]: 410.",
   "alternative_names": "",
   "external_links": "",
-  "review": false,
+  "review": true,
   "start": null,
   "name": "rgyud bla'i 'grel pa nas btus pa'i zin bris",
   "set_num": null,
@@ -72,13 +44,13 @@
   "sb_text_number": "",
   "pp_kdsb": null,
   "num_folios": "8",
-  "signature_letter": null,
-  "signature_number": null,
-  "drepung_number": null,
+  "signature_letter": "la",
+  "signature_number": "518",
+  "drepung_number": "19370",
   "provenance": "'bras spungs gnas bcu lha khang",
   "zotero_ref": "",
   "tibschol_ref": "",
   "availability": "non-accessible",
-  "dimension": null,
-  "item_description": ""
+  "dimension": "42.5 x 6.4",
+  "item_description": "Script: dpe tshugs."
 }

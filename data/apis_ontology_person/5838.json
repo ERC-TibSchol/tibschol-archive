@@ -187,6 +187,35 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 6950,
+      "label": "'phags pa blo gros rgyal mtshan (5838) active at liangzhou (7952)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
+        "label": "'phags pa blo gros rgyal mtshan (5838)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7952/",
+        "label": "liangzhou (7952)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3590,
       "label": "'phags pa blo gros rgyal mtshan (5838) ordinator of 'jam dbyangs rin chen rgyal mtshan (6619)",
       "subj": {
@@ -293,6 +322,34 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[BAQ9MH4T]: 408.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6937,
+      "label": "'phags pa blo gros rgyal mtshan (5838) author of chos rje pa'i rnam thar bsdus pa (7953)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
+        "label": "'phags pa blo gros rgyal mtshan (5838)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7953/",
+        "label": "chos rje pa'i rnam thar bsdus pa (7953)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -469,6 +526,34 @@
       "start": "after 1256",
       "end": "before 1258",
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6949,
+      "label": "'phags pa blo gros rgyal mtshan (5838) biographer of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
+        "label": "'phags pa blo gros rgyal mtshan (5838)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Work (ID:7953).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 5889,
