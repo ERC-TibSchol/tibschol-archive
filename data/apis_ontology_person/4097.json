@@ -34,6 +34,35 @@
       ]
     },
     {
+      "id": 6964,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) student of u rgyan pa rin chen dpal (7346)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7346/",
+        "label": "u rgyan pa rin chen dpal (7346)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[N35FPQ6L]: 14.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3595,
       "label": "dpang lo tsA ba blo gros brtan pa (4097) student of stag sde pa seng ge rgyal mtshan (4127)",
       "subj": {
@@ -54,7 +83,7 @@
       "start_date_to": null,
       "start_date_from": "1286-01-01",
       "start_date_sort": "1286-01-01",
-      "zotero_refs": "[FEHIEFEB]: 135.\r\n[N35FPQ6L]: 63-64. Studies of Abhidharma in Tsha sna until dPang Lo was 16. Studies of Perfection of Wisdom and Epistemology until he was 18. Study of K\u0101lacakra, Phal chen, Sa sde, Sems bskyed, and Madhyamaka. Study of the Pram\u0101\u1e47asamuccaya (ID:3770) for 6 years. dPang lo was 19 when sTag sde passed away.",
+      "zotero_refs": "[FEHIEFEB]: 135.\r\n[N35FPQ6L]: 14 and 63-64. Studies of Abhidharma in Tsha sna until dPang Lo was 16. Studies of Perfection of Wisdom and Epistemology until he was 18. Study of K\u0101lacakra, Phal chen, Sa sde, Sems bskyed, and Madhyamaka. Study of the Pram\u0101\u1e47asamuccaya (ID:3770) for 6 years. dPang lo was 19 when sTag sde passed away.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -87,15 +116,99 @@
       "end_date_from": null,
       "end_date_sort": "1342-12-31",
       "start_date_to": null,
-      "start_date_from": "1286-01-01",
-      "start_date_sort": "1286-01-01",
-      "zotero_refs": "[R894SIKE]: 921 (phyis dbus su byon nas ne'u thog gung thang | stag lung la sogs pa rnams su sde snod 'dzin pa mtha' yas pa'i blo'i mig phyes |). Taught at Ne'u thog.",
+      "start_date_from": "1300-01-01",
+      "start_date_sort": "1300-01-01",
+      "zotero_refs": "[R894SIKE]: 921 (phyis dbus su byon nas ne'u thog gung thang | stag lung la sogs pa rnams su sde snod 'dzin pa mtha' yas pa'i blo'i mig phyes |). Taught at Ne'u thog.\r\n[N35FPQ6L]: 69. Taught Dus 'khor, dGongs rgyan, Phar phyin, Tshad ma, dBu ma, dBu ma rgyan, sGra, sNyan ngag, Zab mo'i mdo lnga.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "after 1286",
+      "start": "after 1300",
       "end": "before 1342",
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6953,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) translator of pram\u0101\u1e47av\u0101rttikapa\u00f1jik\u0101 (7080)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7080/",
+        "label": "pram\u0101\u1e47av\u0101rttikapa\u00f1jik\u0101 (7080)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[N35FPQ6L]: 66-67. Translated the 4th chapter.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6960,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) uncle (maternal/paternal) of byang chub rtse mo (7958)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7958/",
+        "label": "byang chub rtse mo (7958)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[N35FPQ6L]: 14.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6954,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) teaches tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": "1308-12-31",
+      "start_date_from": "1308-01-01",
+      "start_date_sort": "1308-07-01",
+      "zotero_refs": "[N35FPQ6L]: 67.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1308",
+      "end": null
     },
     {
       "id": 3964,
@@ -112,13 +225,13 @@
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 126. With 'Jam dbyangs skya bo nam mkha' dpal (ID:6621), when dPang was 18 years old.",
+      "end_date_to": "1294-12-31",
+      "end_date_from": "1294-01-01",
+      "end_date_sort": "1294-07-02",
+      "start_date_to": "1294-12-31",
+      "start_date_from": "1294-01-01",
+      "start_date_sort": "1294-07-02",
+      "zotero_refs": "[FEHIEFEB]: 126. With 'Jam dbyangs skya bo nam mkha' dpal (ID:6621), when dPang was 18 years old.\r\n[N35FPQ6L]: 64. At Sa skya (ID:5733).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -197,19 +310,22 @@
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 126. Prepared a retranslation of Abhay\u0101karagupta's (ca.1065-ca.1125) Munimat\u0101la\u1e43k\u0101ra and other treatises in Sa skya.",
+      "end_date_to": "1297-12-31",
+      "end_date_from": "1297-01-01",
+      "end_date_sort": "1297-07-02",
+      "start_date_to": "1297-12-31",
+      "start_date_from": "1297-01-01",
+      "start_date_sort": "1297-07-02",
+      "zotero_refs": "[FEHIEFEB]: 126. Prepared a retranslation of Abhay\u0101karagupta's (ca.1065-ca.1125) Munimat\u0101la\u1e43k\u0101ra and other treatises in Sa skya.\r\n[N35FPQ6L]: 64. Studies of the Hevajratantra, Pram\u0101\u1e47av\u0101rttika (ID:3772), and Tshad ma rigs gter (ID:5564).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": "1297",
       "end": "1297",
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9,
+        3
+      ]
     },
     {
       "id": 2575,
@@ -269,6 +385,34 @@
       "end": null
     },
     {
+      "id": 6955,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) author of dbu ma rgyan gyi sa bcad (7957)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7957/",
+        "label": "dbu ma rgyan gyi sa bcad (7957)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[N35FPQ6L]: 68.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2238,
       "label": "dpang lo tsA ba blo gros brtan pa (4097) active at dpal 'jigs pa med pa seng ge'i gling (5735)",
       "subj": {
@@ -298,6 +442,35 @@
       "subject_of_teaching_vocab": [
         17
       ]
+    },
+    {
+      "id": 6959,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[N35FPQ6L]: 69. Taught dgongs rgyan, sGra, sNyan ngag.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 2576,
@@ -347,19 +520,19 @@
       "end_date_from": null,
       "end_date_sort": null,
       "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
+      "start_date_from": "1304-01-01",
+      "start_date_sort": "1304-01-01",
+      "zotero_refs": "[N35FPQ6L]: 67. Abbot of Bo dong e.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
+      "start": "after 1304",
       "end": null,
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3963,
-      "label": "dpang lo tsA ba blo gros brtan pa (4097) studies pram\u0101\u1e47av\u0101rttika (3772)",
+      "id": 6952,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) translator of pram\u0101\u1e47av\u0101rttika (3772)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
         "label": "dpang lo tsA ba blo gros brtan pa (4097)",
@@ -378,7 +551,35 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 126. With 'Jam dbyangs skya bo nam mkha' dpal (ID:6621), when dPang was 18 years old.",
+      "zotero_refs": "[N35FPQ6L]: 66. Revised the translation and made notes.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3963,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) studies pram\u0101\u1e47av\u0101rttika (3772)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": "1294-12-31",
+      "end_date_from": "1294-01-01",
+      "end_date_sort": "1294-07-02",
+      "start_date_to": "1294-12-31",
+      "start_date_from": "1294-01-01",
+      "start_date_sort": "1294-07-02",
+      "zotero_refs": "[FEHIEFEB]: 126. With 'Jam dbyangs skya bo nam mkha' dpal (ID:6621), when dPang was 18 years old.\r\n[N35FPQ6L]: 64. At Sa skya (ID:5733).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -437,7 +638,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[N35FPQ6L]: 67.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -465,7 +666,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 921 (bo dong e'i gdan sa yang thogs shig mdzad |). Abbot for a short time.",
+      "zotero_refs": "[R894SIKE]: 921 (bo dong e'i gdan sa yang thogs shig mdzad |). Abbot for a short time.\r\n[N35FPQ6L]: 14.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

@@ -58,8 +58,8 @@
       "end": null
     },
     {
-      "id": 3964,
-      "label": "dpang lo tsA ba blo gros brtan pa (4097) studies tshad ma rigs gter (5564)",
+      "id": 6954,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) teaches tshad ma rigs gter (5564)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
         "label": "dpang lo tsA ba blo gros brtan pa (4097)",
@@ -75,10 +75,38 @@
       "end_date_to": null,
       "end_date_from": null,
       "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 126. With 'Jam dbyangs skya bo nam mkha' dpal (ID:6621), when dPang was 18 years old.",
+      "start_date_to": "1308-12-31",
+      "start_date_from": "1308-01-01",
+      "start_date_sort": "1308-07-01",
+      "zotero_refs": "[N35FPQ6L]: 67.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1308",
+      "end": null
+    },
+    {
+      "id": 3964,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) studies tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": "1294-12-31",
+      "end_date_from": "1294-01-01",
+      "end_date_sort": "1294-07-02",
+      "start_date_to": "1294-12-31",
+      "start_date_from": "1294-01-01",
+      "start_date_sort": "1294-07-02",
+      "zotero_refs": "[FEHIEFEB]: 126. With 'Jam dbyangs skya bo nam mkha' dpal (ID:6621), when dPang was 18 years old.\r\n[N35FPQ6L]: 64. At Sa skya (ID:5733).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

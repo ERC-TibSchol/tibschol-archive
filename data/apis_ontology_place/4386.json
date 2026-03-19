@@ -114,35 +114,6 @@
       "end": null
     },
     {
-      "id": 3312,
-      "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941) active at dga' gdong dgon (4386)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3941/",
-        "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4386/",
-        "label": "dga' gdong dgon (4386)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 541-542.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1075",
-      "end": "1075",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 4994,
       "label": "rigs pa'i ral gri (4006) active at dga' gdong dgon (4386)",
       "subj": {
@@ -172,66 +143,6 @@
       "subject_of_teaching_vocab": [
         7
       ]
-    },
-    {
-      "id": 3313,
-      "label": "rgya 'dul 'dzin brtson 'grus 'bar (4193) active at dga' gdong dgon (4386)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4193/",
-        "label": "rgya 'dul 'dzin brtson 'grus 'bar (4193)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4386/",
-        "label": "dga' gdong dgon (4386)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 541.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 6834,
-      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) active at dga' gdong dgon (4386)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
-        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4386/",
-        "label": "dga' gdong dgon (4386)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CCSBSVCA]: 695, n. 4. First in the dGa' ba gdong vinaya transmission line.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        8
-      ]
     }
   ],
   "start_date_to": null,
@@ -240,7 +151,7 @@
   "latitude": 29.6875,
   "longitude": 90.95027,
   "feature_code": "",
-  "comments": "Founded by Khri srong lde'u btsan (see [647FFPZR]: 541).\r\nErected in the mid-1240s by the third sKyor mo lung abbot. Its name is derived from Pa nam dGa' gdong in gTsang.\r\n\r\nCoordinates from bdr:G1213.",
+  "comments": "Founded by Khri srong lde'u btsan (see [647FFPZR]: 541).\r\nErected in the mid-1240s by the third sKyor mo lung abbot. Its name is derived from Pa rnam dGa' gdong (ID:7961) in gTsang.\r\n\r\nCoordinates from bdr:G1213.",
   "alternative_names": "dga' ba gdong\r\ndga' ba sdong\r\ndga' ba sdong snam rdzong rtse\r\nskyid shod dga' ba gdong",
   "external_links": "https://purl.bdrc.io/resource/G1213",
   "review": false,

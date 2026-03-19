@@ -87,6 +87,35 @@
       "end": null
     },
     {
+      "id": 6962,
+      "label": "bo dong paN chen phyogs las rnam rgyal (6058) active at shel dkar (7457)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6058/",
+        "label": "bo dong paN chen phyogs las rnam rgyal (6058)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7457/",
+        "label": "shel dkar (7457)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[N35FPQ6L]: 14. Succeeded his uncle Grags pa rgyal mtshan (ID:6870) as abbot of Shel dkar chos sde.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 6625,
       "label": "bo dong paN chen phyogs las rnam rgyal (6058) author of tshad ma'i dka' gnad bye brag du bshad pa rigs pa'i snying po (7779)",
       "subj": {
@@ -388,7 +417,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P10MS19659.\r\n[5RXEUKD9]: 541, No. 118412. Presents Bo dong (ID:6058) as a nephew of both Grags pa rgyal mtshan (ID:6870) and Blo gros brtan pa (ID:4097).",
+      "zotero_refs": "[N35FPQ6L]: 14.\r\n[JZP4CZRX], bdr:P10MS19659.\r\n[5RXEUKD9]: 541, No. 118412. Presents Bo dong (ID:6058) as a nephew of both Grags pa rgyal mtshan (ID:6870) and Blo gros brtan pa (ID:4097).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -403,7 +432,7 @@
   "start_date_from": "1376-01-01",
   "start_date_sort": "1376-07-01",
   "comments": "",
-  "alternative_names": "chos kyi rgyal mtshan\r\nbo dong phyogs las rnam rgyal\r\n'jigs med grags pa",
+  "alternative_names": "chos kyi rgyal mtshan\r\nbo dong phyogs las rnam rgyal\r\n'jigs med grags pa\r\n'jigs bral",
   "external_links": "https://purl.bdrc.io/resource/P2627",
   "review": false,
   "start": "1376",

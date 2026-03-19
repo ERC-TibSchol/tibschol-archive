@@ -349,6 +349,35 @@
       ]
     },
     {
+      "id": 6972,
+      "label": "gzhon nu grags pa (6399) student of bya yul ba chen po gzhon nu 'od (3915)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6399/",
+        "label": "gzhon nu grags pa (6399)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3915/",
+        "label": "bya yul ba chen po gzhon nu 'od (3915)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 707.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 1801,
       "label": "gyi ljangs gza' lcam bu (4187) parent of bya yul ba chen po gzhon nu 'od (3915)",
       "subj": {
@@ -384,7 +413,7 @@
   "start_date_from": "1075-01-01",
   "start_date_sort": "1075-07-02",
   "comments": "",
-  "alternative_names": "bya yul ba gzhon nu 'od\r\nbya yul ba",
+  "alternative_names": "bya yul ba gzhon nu 'od\r\nbya yul pa",
   "external_links": "https://purl.bdrc.io/resource/P3475",
   "review": false,
   "start": "1075",

@@ -62,6 +62,35 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 6969,
+      "label": "gtsang pa 'bre sgur (3872) active at pa rnam dga' gdong (7961)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3872/",
+        "label": "gtsang pa 'bre sgur (3872)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7961/",
+        "label": "pa rnam dga' gdong (7961)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 107, n. 142. Transmitted teachings stemming from 'Bre Shes rab 'bar (ID:3807).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 129,
       "label": "gtsang pa 'bre sgur (3872) student of pa tshab nyi ma grags (3868)",
       "subj": {
@@ -82,7 +111,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: 20.\r\n[647FFPZR]: 544, n. 57, based on [87YHXZG3]: 116.",
+      "zotero_refs": "[NTGHCZA8]: 20.\r\n[647FFPZR]: 544, n. 57, based on [87YHXZG3]: 116.\r\n[CCSBSVCA]: 107, n. 142.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -280,7 +309,7 @@
   "start_date_from": null,
   "start_date_sort": "1140-12-31",
   "comments": "",
-  "alternative_names": "gtsang pa 'bre skur\r\nrtsang 'bre\r\ngtsang pa 'bre snur",
+  "alternative_names": "gtsang pa 'bre skur\r\ngtsang pa 'bre sku\r\n'bre sgur\r\n'bre dgur\r\n'bre rgur\r\n'bre snur\r\nrtsang 'bre",
   "external_links": "",
   "review": false,
   "start": "before 1140",
