@@ -3,10 +3,10 @@
   "relations": [
     {
       "id": 6928,
-      "label": "ye shes rdo rje dpal bzang po (4131) author of rgyud bla'i bshad pa nges don nor bu'i mdzod (7946)",
+      "label": "mi nyag ye shes rdo rje dpal bzang po (4131) author of rgyud bla'i bshad pa nges don nor bu'i mdzod (7946)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4131/",
-        "label": "ye shes rdo rje dpal bzang po (4131)",
+        "label": "mi nyag ye shes rdo rje dpal bzang po (4131)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -30,11 +30,40 @@
       "end": null
     },
     {
-      "id": 4547,
-      "label": "ye shes rdo rje dpal bzang po (4131) student of mi nyag rin chen bzang po (6363)",
+      "id": 6973,
+      "label": "mi nyag ye shes rdo rje dpal bzang po (4131) active at rA tI dga' ldan byams pa gling (5950)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4131/",
-        "label": "ye shes rdo rje dpal bzang po (4131)",
+        "label": "mi nyag ye shes rdo rje dpal bzang po (4131)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5950/",
+        "label": "rA tI dga' ldan byams pa gling (5950)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[UNV7NRZ8]",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4547,
+      "label": "mi nyag ye shes rdo rje dpal bzang po (4131) student of mi nyag rin chen bzang po (6363)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4131/",
+        "label": "mi nyag ye shes rdo rje dpal bzang po (4131)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -59,8 +88,37 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 6974,
+      "label": "mi nyag ye shes rdo rje dpal bzang po (4131) active at gser ri dgon (7962)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4131/",
+        "label": "mi nyag ye shes rdo rje dpal bzang po (4131)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7962/",
+        "label": "gser ri dgon (7962)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Third abbot.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 331,
-      "label": "mi nyag blo gros grags pa (4130) student of ye shes rdo rje dpal bzang po (4131)",
+      "label": "mi nyag blo gros grags pa (4130) student of mi nyag ye shes rdo rje dpal bzang po (4131)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4130/",
         "label": "mi nyag blo gros grags pa (4130)",
@@ -69,7 +127,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4131/",
-        "label": "ye shes rdo rje dpal bzang po (4131)",
+        "label": "mi nyag ye shes rdo rje dpal bzang po (4131)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -90,19 +148,19 @@
       ]
     }
   ],
-  "end_date_to": "1453-12-31",
-  "end_date_from": "1327-01-01",
-  "end_date_sort": "1390-07-01",
-  "start_date_to": "1373-12-31",
-  "start_date_from": "1267-01-01",
-  "start_date_sort": "1320-07-02",
-  "comments": "This person could be identified as the 14th-century Mi nyag Bla ma ye shes rdo rje (http://purl.bdrc.io/resource/P9718). The third abbot of gSer ri dgon in Mi nyag, born in 1343 also has this name, and is reported to have taught at \"Ra this dga' ldan gling\" (which could be (ID:5960)) (see [UNV7NRZ8]). He would have been 60 at the time Blo gros grags pa (ID:4130) composed his Abhidharma commentary (ID:5281).",
+  "end_date_to": "1430-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1430-12-31",
+  "start_date_to": "1343-12-31",
+  "start_date_from": "1343-01-01",
+  "start_date_sort": "1343-07-02",
+  "comments": "Third abbot of gSer ri dgon in Mi nyag, born in 1343, and reported to have taught at \"Ra this dga' ldan gling\" (ID:5950) (see [UNV7NRZ8]). He would have been 60 at the time Blo gros grags pa (ID:4130) composed his Abhidharma commentary (ID:5281).",
   "alternative_names": "thams cad rmad du byung ba mnga' ba ye shes rdo rje dpal bzang po",
-  "external_links": "",
+  "external_links": "https://purl.bdrc.io/resource/P9718",
   "review": true,
-  "start": "after 1267 before 1373",
-  "end": "after 1327 before 1453",
-  "name": "ye shes rdo rje dpal bzang po",
+  "start": "1343",
+  "end": "before 1430",
+  "name": "mi nyag ye shes rdo rje dpal bzang po",
   "gender": "male",
   "nationality": "Tibetan"
 }
