@@ -260,6 +260,37 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 3564,
+      "label": "rigs pa'i ral gri (4006) student of d\u0101na\u015b\u012bla (6032)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
+        "label": "d\u0101na\u015b\u012bla (6032)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 124. Subject: epistemology.\r\n[FZ6N88AU]: 410. When Ral gri was in his teens.\r\n[V4DZTVU8]: 305. Transmission of the Pram\u0101\u1e47avini\u015bcaya (ID:3774).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1237 before 1247",
+      "end": "after 1237 before 1247",
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
       "id": 3561,
       "label": "chos kyi dbang phyug (6441) student of d\u0101na\u015b\u012bla (6032)",
       "subj": {
@@ -282,6 +313,37 @@
       "start_date_sort": null,
       "zotero_refs": "[FEHIEFEB]: 124. Teaching:  Pram\u0101\u1e47a\u00adv\u0101rttika (ID:3772).",
       "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1204",
+      "end": "after 1204",
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 4917,
+      "label": "shAkya brtson 'grus (7102) student of d\u0101na\u015b\u012bla (6032)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7102/",
+        "label": "shAkya brtson 'grus (7102)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
+        "label": "d\u0101na\u015b\u012bla (6032)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[LLU8KJR5]: 129-130 and n. 69.",
+      "tei_refs": "ex55032025-01-3016-32-09",
       "support_notes": "",
       "confidence": "Positive",
       "start": "after 1204",
@@ -320,11 +382,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3564,
-      "label": "rigs pa'i ral gri (4006) student of d\u0101na\u015b\u012bla (6032)",
+      "id": 6666,
+      "label": "'jam gsar ba shes rab 'od zer (3884) student of d\u0101na\u015b\u012bla (6032)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
-        "label": "rigs pa'i ral gri (4006)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
+        "label": "'jam gsar ba shes rab 'od zer (3884)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -340,14 +402,14 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 124. Subject: epistemology.\r\n[FZ6N88AU]: 410. When Ral gri was in his teens.\r\n[V4DZTVU8]: 305. Transmission of the Pram\u0101\u1e47avini\u015bcaya (ID:3774).",
+      "zotero_refs": "[MX3PRVV2]: 4/16.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "after 1237 before 1247",
-      "end": "after 1237 before 1247",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": [
-        9
+        3
       ]
     },
     {
@@ -405,68 +467,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 4917,
-      "label": "shAkya brtson 'grus (7102) student of d\u0101na\u015b\u012bla (6032)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7102/",
-        "label": "shAkya brtson 'grus (7102)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
-        "label": "d\u0101na\u015b\u012bla (6032)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[LLU8KJR5]: 129-130 and n. 69.",
-      "tei_refs": "ex55032025-01-3016-32-09",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1204",
-      "end": "after 1204",
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
-      "id": 6666,
-      "label": "'jam gsar ba shes rab 'od zer (3884) student of d\u0101na\u015b\u012bla (6032)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
-        "label": "'jam gsar ba shes rab 'od zer (3884)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
-        "label": "d\u0101na\u015b\u012bla (6032)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[MX3PRVV2]: 4/16.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        3
-      ]
     }
   ],
   "end_date_to": "1250-12-31",

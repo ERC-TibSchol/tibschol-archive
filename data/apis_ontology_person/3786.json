@@ -1074,34 +1074,6 @@
       "end": null
     },
     {
-      "id": 5752,
-      "label": "rngog blo ldan shes rab (3786) author of spyod 'jug don bsdus pa (7371)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7371/",
-        "label": "spyod 'jug don bsdus pa (7371)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "Author reported for instance (ID:6113) in [HMSTSJ7Q]: 70 ('bras gnas bcu lha khang nang bzhugs phyag dpe rul skyon byung rigs kyi tho bzhugs), No. 14.1, tsa 71: shAkya'i dge slong blo ldan shes rab kyi spyod 'jug don bsdus pa",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2428,
       "label": "rngog blo ldan shes rab (3786) author of bram ze chen po'i sel ba grub pa'i stod kyi rnam bshad (6097)",
       "subj": {
@@ -1125,6 +1097,34 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5752,
+      "label": "rngog blo ldan shes rab (3786) author of spyod 'jug don bsdus pa (7371)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7371/",
+        "label": "spyod 'jug don bsdus pa (7371)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:6113) in [HMSTSJ7Q]: 70 ('bras gnas bcu lha khang nang bzhugs phyag dpe rul skyon byung rigs kyi tho bzhugs), No. 14.1, tsa 71: shAkya'i dge slong blo ldan shes rab kyi spyod 'jug don bsdus pa",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -1384,6 +1384,62 @@
       "end": null
     },
     {
+      "id": 2416,
+      "label": "rngog blo ldan shes rab (3786) author of slob dpon chos mchog gi tshad ma brtag pa chung ba'i rnam bshad (6090)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6090/",
+        "label": "slob dpon chos mchog gi tshad ma brtag pa chung ba'i rnam bshad (6090)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2449,
+      "label": "rngog blo ldan shes rab (3786) author of jo bo rje'i dbu ma'i man ngag gi bshad pa (6080)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6080/",
+        "label": "jo bo rje'i dbu ma'i man ngag gi bshad pa (6080)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5791,
       "label": "rngog blo ldan shes rab (3786) lineage predecessor of 'bre shes rab 'bar (3807)",
       "subj": {
@@ -1415,62 +1471,6 @@
         56,
         7
       ]
-    },
-    {
-      "id": 2449,
-      "label": "rngog blo ldan shes rab (3786) author of jo bo rje'i dbu ma'i man ngag gi bshad pa (6080)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6080/",
-        "label": "jo bo rje'i dbu ma'i man ngag gi bshad pa (6080)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 2416,
-      "label": "rngog blo ldan shes rab (3786) author of slob dpon chos mchog gi tshad ma brtag pa chung ba'i rnam bshad (6090)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6090/",
-        "label": "slob dpon chos mchog gi tshad ma brtag pa chung ba'i rnam bshad (6090)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 2426,
@@ -2515,6 +2515,34 @@
       "end": null
     },
     {
+      "id": 3787,
+      "label": "rngog blo ldan shes rab (3786) author of skad cig 'jig pa grub pa'i bsdus don (6095)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6095/",
+        "label": "skad cig 'jig pa grub pa'i bsdus don (6095)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 206.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5771,
       "label": "rngog blo ldan shes rab (3786) active at rwa sgreng dgon pa (4397)",
       "subj": {
@@ -2544,8 +2572,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3787,
-      "label": "rngog blo ldan shes rab (3786) author of skad cig 'jig pa grub pa'i bsdus don (6095)",
+      "id": 2358,
+      "label": "rngog blo ldan shes rab (3786) author of chos dang chos nyid rnam 'byed kyi don bsdus (6055)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
         "label": "rngog blo ldan shes rab (3786)",
@@ -2553,8 +2581,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6095/",
-        "label": "skad cig 'jig pa grub pa'i bsdus don (6095)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6055/",
+        "label": "chos dang chos nyid rnam 'byed kyi don bsdus (6055)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -2564,9 +2592,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[BAQ9MH4T]: 206.",
-      "tei_refs": "",
-      "support_notes": "",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -2596,34 +2624,6 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Uncertain",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 2358,
-      "label": "rngog blo ldan shes rab (3786) author of chos dang chos nyid rnam 'byed kyi don bsdus (6055)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6055/",
-        "label": "chos dang chos nyid rnam 'byed kyi don bsdus (6055)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
       "start": null,
       "end": null
     },
@@ -2937,34 +2937,6 @@
       "end": null
     },
     {
-      "id": 5572,
-      "label": "rngog blo ldan shes rab (3786) other relation to sumatik\u012brti (3804)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3804/",
-        "label": "sumatik\u012brti (3804)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[LNWGLM8T]: 181. Translated eight texts together.\r\n[Q47PVAE6]: 42. Collaborated on the revision of the Pram\u0101\u1e47av\u0101rttik\u0101la\u1e43k\u0101ra (ID:5588) and translation of vajray\u0101na works.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2403,
       "label": "rngog blo ldan shes rab (3786) author of rigs thigs 'grel pa dang bcas pa'i rnam bshad (6083)",
       "subj": {
@@ -2988,6 +2960,34 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5572,
+      "label": "rngog blo ldan shes rab (3786) other relation to sumatik\u012brti (3804)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3804/",
+        "label": "sumatik\u012brti (3804)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[LNWGLM8T]: 181. Translated eight texts together.\r\n[Q47PVAE6]: 42. Collaborated on the revision of the Pram\u0101\u1e47av\u0101rttik\u0101la\u1e43k\u0101ra (ID:5588) and translation of vajray\u0101na works.",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -3105,34 +3105,6 @@
       "end": null
     },
     {
-      "id": 44,
-      "label": "rngog blo ldan shes rab (3786) other relation to sthirap\u0101la (5611)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5611/",
-        "label": "sthirap\u0101la (5611)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Q47PVAE6]: 98. rNgog Lo pleased Sthirap\u0101la with worship (mchod pa) and great respect (bsnyen bkur chen po).\r\n[Q47PVAE6]: 41, 43. Their collaboration continued in Tibet. They founded a scriptural seminary together at Zhwa lu (ID:4350), specialized in the study of the Abhidharmasamuccaya (ID:3755).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1076",
-      "end": "after 1076"
-    },
-    {
       "id": 2387,
       "label": "rngog blo ldan shes rab (3786) author of byang chub sems dpa'i spyod pa la 'jug pa'i don bsdus (6072)",
       "subj": {
@@ -3159,6 +3131,34 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 44,
+      "label": "rngog blo ldan shes rab (3786) other relation to sthirap\u0101la (5611)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5611/",
+        "label": "sthirap\u0101la (5611)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q47PVAE6]: 98. rNgog Lo pleased Sthirap\u0101la with worship (mchod pa) and great respect (bsnyen bkur chen po).\r\n[Q47PVAE6]: 41, 43. Their collaboration continued in Tibet. They founded a scriptural seminary together at Zhwa lu (ID:4350), specialized in the study of the Abhidharmasamuccaya (ID:3755).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1076",
+      "end": "after 1076"
     },
     {
       "id": 2383,
@@ -4034,6 +4034,37 @@
       ]
     },
     {
+      "id": 6981,
+      "label": "smon lam 'od zer (5987) quotes without name rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5987/",
+        "label": "smon lam 'od zer (5987)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "exX0232026-03-2016-30-54\r\nexX0232026-03-2016-34-13",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
       "id": 5161,
       "label": "rin chen byang chub (5868) quotes with name rngog blo ldan shes rab (3786)",
       "subj": {
@@ -4648,6 +4679,37 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 6977,
+      "label": "smon lam 'od zer (5987) quotes with name rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5987/",
+        "label": "smon lam 'od zer (5987)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "exX0232026-03-2015-33-20",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 6643,

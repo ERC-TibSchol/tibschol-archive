@@ -760,34 +760,6 @@
       "end": null
     },
     {
-      "id": 3276,
-      "label": "phywa pa chos kyi seng ge (3831) addressee of dam pa'i zhu ba nyi shu pa (6502)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6502/",
-        "label": "dam pa'i zhu ba nyi shu pa (6502)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CJPTU9FV]: 628.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 560,
       "label": "phywa pa chos kyi seng ge (3831) author of dbu ma snang ba'i 'grel pa (4482)",
       "subj": {
@@ -811,6 +783,34 @@
       "zotero_refs": "Author reported for instance (ID:4481) in [8H6M69W4], No. 15677: phya pa.",
       "tei_refs": "",
       "support_notes": "Colophon (ID:4481), fol. 82b2:  dbu ma snang ba'i gzhung gi don rigs pa'i tshul dang myi 'gal zhing blo chung bas kyang bde blag du rtogs pa byis pa'i 'jug ngogs (ms: ngos) su sbyar ba rigs par smra ba'i dge slong chos kyi seng ges sbyar ba || rdzogs s+hO ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3276,
+      "label": "phywa pa chos kyi seng ge (3831) addressee of dam pa'i zhu ba nyi shu pa (6502)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6502/",
+        "label": "dam pa'i zhu ba nyi shu pa (6502)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CJPTU9FV]: 628.",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -2535,12 +2535,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex45042024-08-2914-13-45",
+      "tei_refs": "ex45042024-08-2914-13-45\r\nex045042026-03-2013-18-28",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 2693,
@@ -2564,7 +2566,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[4LWBNM7B]. 16 citations in work (ID:4791).",
-      "tei_refs": "ex47012025-04-2915-35-58\r\nex47012026-03-0615-58-18\r\nex47012026-03-0617-04-08\r\nex47012026-03-1611-29-13\r\nex47012026-03-1611-42-21\r\nex47012026-03-1613-03-58\r\nex47012026-03-1615-00-08\r\nex47012026-03-1816-32-43\r\nex47012026-03-1816-47-55",
+      "tei_refs": "ex47012025-04-2915-35-58\r\nex47012026-03-0615-58-18\r\nex47012026-03-0617-04-08\r\nex47012026-03-1611-29-13\r\nex47012026-03-1611-42-21\r\nex47012026-03-1613-03-58\r\nex47012026-03-1615-00-08\r\nex47012026-03-1816-32-43\r\nex47012026-03-1816-47-55\r\nex47012026-03-2011-26-15",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -2659,6 +2661,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6980,
+      "label": "smon lam 'od zer (5987) quotes without name phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5987/",
+        "label": "smon lam 'od zer (5987)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "exX0232026-03-2016-20-25\r\nexX0232026-03-2016-30-54\r\nexX0232026-03-2016-34-13\r\nexX0232026-03-2016-37-13",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 5256,
