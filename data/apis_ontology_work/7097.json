@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7097/",
+  "relations": [
+    {
+      "id": 4909,
+      "label": "v\u0101dany\u0101yav\u1e5bttivipa\u00f1cit\u0101rth\u0101 (7097) commentary on v\u0101dany\u0101ya (3777)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7097/",
+        "label": "v\u0101dany\u0101yav\u1e5bttivipa\u00f1cit\u0101rth\u0101 (7097)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3777/",
+        "label": "v\u0101dany\u0101ya (3777)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4908,
+      "label": "\u015b\u0101ntarak\u1e63ita (1) (3732) author of v\u0101dany\u0101yav\u1e5bttivipa\u00f1cit\u0101rth\u0101 (7097)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3732/",
+        "label": "\u015b\u0101ntarak\u1e63ita (1) (3732)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7097/",
+        "label": "v\u0101dany\u0101yav\u1e5bttivipa\u00f1cit\u0101rth\u0101 (7097)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "0790-12-31",
+  "start_date_from": "0730-01-01",
+  "start_date_sort": "0760-07-01",
+  "comments": "",
+  "alternative_names": "v\u0101da\u00adny\u0101ya\u00adv\u1e5btti\u00advipa\u00f1cit\u0101rth\u0101\u00adn\u0101ma\r\nv\u0101dany\u0101ya\u1e6d\u012bk\u0101 vipa\u00f1cit\u0101rth\u0101\r\nrtsod pa'i rigs pa'i 'grel pa don rnam par 'byed pa",
+  "external_links": "http://purl.rkts.eu/resource/WTT3575\r\nhttps://east.ikga.oeaw.ac.at/data/14/40/",
+  "review": true,
+  "start": "after 730 before 790",
+  "name": "v\u0101dany\u0101yav\u1e5bttivipa\u00f1cit\u0101rth\u0101",
+  "sde_dge_ref": "D4239",
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

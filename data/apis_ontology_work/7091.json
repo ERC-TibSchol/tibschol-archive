@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7091/",
+  "relations": [
+    {
+      "id": 5910,
+      "label": "tshad ma rnam 'grel gyi TIkka dka 'grel chen mo (7091) commentary on pram\u0101\u1e47av\u0101rttika (3772)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7091/",
+        "label": "tshad ma rnam 'grel gyi TIkka dka 'grel chen mo (7091)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4902,
+      "label": "sems dpa' chen po kun dga' bzang po (7089) author of tshad ma rnam 'grel gyi TIkka dka 'grel chen mo (7091)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7089/",
+        "label": "sems dpa' chen po kun dga' bzang po (7089)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7091/",
+        "label": "tshad ma rnam 'grel gyi TIkka dka 'grel chen mo (7091)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BKUHJCNA]: 742 (phyis rje'i bshad srol la brten pa la ni tshad ma rnam 'grel gyi TIkka dka' 'grel chen mo).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1444-12-31",
+  "start_date_from": "1376-01-01",
+  "start_date_sort": "1410-07-02",
+  "comments": "Mentioned in [BKUHJCNA]: 742 (phyis rje'i bshad srol la brten pa la ni tshad ma rnam 'grel gyi TIkka dka' 'grel chen mo).",
+  "alternative_names": "",
+  "external_links": "",
+  "review": false,
+  "start": "after 1376 before 1444",
+  "name": "tshad ma rnam 'grel gyi TIkka dka 'grel chen mo",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

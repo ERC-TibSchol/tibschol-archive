@@ -1,0 +1,56 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4778/",
+  "relations": [
+    {
+      "id": 1423,
+      "label": "mdor bsdus thal 'gyur phreng ba (4779) has as an instance mdor bsdus thal 'gyur 'phreng (4778)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4779/",
+        "label": "mdor bsdus thal 'gyur phreng ba (4779)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4778/",
+        "label": "mdor bsdus thal 'gyur 'phreng (4778)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "The text is followed on fol. 9a2-10a4 by the addition of a portion from a Pram\u0101\u1e47avini\u015bcaya commentary by bSam gtan bzang po of sNar thang, see work (ID:6010).\r\nThe signature associated with item No. 16469 in the <<'Bras spungs dkar chag [8H6M69W4]>> (phyi zha 45) is not visible on the images in the [ZZVAXS4X] reproduction.",
+  "alternative_names": "thal phreng mdor bsdus pa cig (cover page, catalogue)\r\nmdor bsdus thal 'gyur 'phreng (closing verses)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_50C90E",
+  "review": true,
+  "start": null,
+  "name": "mdor bsdus thal 'gyur 'phreng",
+  "set_num": "Set 2",
+  "volume": "46",
+  "sb_text_number": "1",
+  "pp_kdsb": "7-25",
+  "num_folios": "10",
+  "signature_letter": "zha",
+  "signature_number": "45",
+  "drepung_number": "16469",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "2_046_01",
+  "availability": "available",
+  "dimension": "65 x 9.2",
+  "item_description": "Script: dpe tshugs.\r\nTwo sets of folio numbers, from 1 to 10 and from 530 to 539.\r\nOrthography:\r\n- Bindu for m\r\n- Particle pa/ba takes the form ba after final \u2013n (e.g., yin ba)\r\n- Abbreviations \u2013 word written together with following particle (e.g., skabs_su, thal_lo); inverted d for final -ng \r\nA few corrections in dbu can."
+}

@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5148/",
+  "relations": [
+    {
+      "id": 1822,
+      "label": "chos skyong dpal ldan (5835) owner of byang chub sems dpa'i spyod pa la 'jug pa'i rgyan (5148)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5835/",
+        "label": "chos skyong dpal ldan (5835)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5148/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rgyan (5148)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex66042023-09-091209",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1589,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rgyan (5149) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i rgyan (5148)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5149/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rgyan (5149)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5148/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rgyan (5148)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "Blurred seal on the cover page and annotation 5(80), as well as the indication that fol. 19 is missing - all of those likely from the library that preserved the manuscript. \r\nNo signature is visible on the reproduction, but [6TNNKSQ3]: 66 reports the 'Bras spungs gnas bcu lha khang signature phyi tsa 62 and indicates that the manuscript is now preserved at the library of Zha lu monastery.",
+  "alternative_names": "byang chub sems dpa'i spyod pa la 'jug pa'i rgyan (incipit) \r\nbo d+hi sa t+wa tsar+ya a ba ta ra a lang ka ra (incipit)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD153536_1310ED",
+  "review": true,
+  "start": null,
+  "name": "byang chub sems dpa'i spyod pa la 'jug pa'i rgyan",
+  "set_num": "Set 3",
+  "volume": "66",
+  "sb_text_number": "4",
+  "pp_kdsb": "335-494",
+  "num_folios": "80(/81)",
+  "signature_letter": "tsa",
+  "signature_number": "62",
+  "drepung_number": null,
+  "provenance": "'bras spungs gnas bcu lha khang\r\nzha lu dgon pa'i dpe mdzod",
+  "zotero_ref": "",
+  "tibschol_ref": "3_066_04",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Script: Handwritten dbu can.\r\nTitle in dbu med on the cover page.\r\nVolume letter in the margin: ka\r\nMissing folio: fol. 19.\r\nNo folio number on the last folio, which follows fol. 80.\r\nLines per folio: 7.\r\nNote in dbu med on top of fol. 27a."
+}

@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4711/",
+  "relations": [
+    {
+      "id": 4233,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (3) (4711) has source byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (1) (6843)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4711/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (3) (4711)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6843/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (1) (6843)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1912,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (3) (4711)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5153/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4711/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (3) (4711)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "The colophon names \"brTson 'grus seng ge\" as the scribe. As this name is also given in the other instance of the work (ID:5152), we take it to be the scribe of the first copy of the work (ID:6843), from which this instance was directly or indirectly copied, and not the name of the copyist of the present instance.",
+  "alternative_names": "spyod 'jug 'grel ba (catalogue)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD153536_A72742",
+  "review": true,
+  "start": null,
+  "name": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (3)",
+  "set_num": "Set 3",
+  "volume": "67",
+  "sb_text_number": "2",
+  "pp_kdsb": "161-391",
+  "num_folios": "120(/122)",
+  "signature_letter": "la",
+  "signature_number": "115",
+  "drepung_number": "18165",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "3_067_02",
+  "availability": "available",
+  "dimension": "43 x 8",
+  "item_description": "Script: dpe tshugs.\r\nMissing folios: 1 and 2. The signature is written on fol. 3. The beginning of fol. 3 corresponds to fol. 2a6 in (ID:5152)."
+}

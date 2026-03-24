@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4777/",
+  "relations": [
+    {
+      "id": 1422,
+      "label": "tshad ma rnam 'grel rnam par 'byed pa (4777) has as an instance rigs pa'i gsal byed 'od zer brgya pa (4776)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4777/",
+        "label": "tshad ma rnam 'grel rnam par 'byed pa (4777)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4776/",
+        "label": "rigs pa'i gsal byed 'od zer brgya pa (4776)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4123,
+      "label": "Anonymous (7) (6802) author of tshad ma rnam 'grel rnam par 'byed pa (4777)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6802/",
+        "label": "Anonymous (7) (6802)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4777/",
+        "label": "tshad ma rnam 'grel rnam par 'byed pa (4777)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": "1219-01-01",
+  "start_date_sort": "1219-01-01",
+  "comments": "In spite of the editorial title on the cover page of instance (ID:4776) identifying it as a commentary on the Pram\u0101\u1e47a\u00adv\u0101rttika\u00ad (ID:3772), this work belongs rather to the category of summaries. \r\nIt was composed after 1219, as it refers to the Tshad ma rigs gter (ID:5564). See [J4L5X9AG]: 434.\r\nIt also addresses the views of a number of Indian commentators and anonymous opponents, including some referred to as \"Tibetans\" (bod kha cig), and refers with name to rNgog Blo ldan shes rab (ID:3786), Khyung (ID:3809), rGya dmar ba (ID:3834), Phya pa (ID:3831), as well as Klu mes (ID:7964).",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": "after 1219",
+  "name": "tshad ma rnam 'grel rnam par 'byed pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

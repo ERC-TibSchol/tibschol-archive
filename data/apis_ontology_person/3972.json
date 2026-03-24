@@ -2,6 +2,38 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3972/",
   "relations": [
     {
+      "id": 6991,
+      "label": "mus sman pa bdud rtsi char chen (3972) lineage predecessor of gro ston bdud rtsi grags (3880)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3972/",
+        "label": "mus sman pa bdud rtsi char chen (3972)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
+        "label": "gro ston bdud rtsi grags (3880)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58012026-01-2114-24-24 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        48,
+        26
+      ]
+    },
+    {
       "id": 214,
       "label": "gro ston bdud rtsi grags (3880) student of mus sman pa bdud rtsi char chen (3972)",
       "subj": {
@@ -29,6 +61,38 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6990,
+      "label": "bya yul ba chen po gzhon nu 'od (3915) lineage predecessor of mus sman pa bdud rtsi char chen (3972)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3915/",
+        "label": "bya yul ba chen po gzhon nu 'od (3915)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3972/",
+        "label": "mus sman pa bdud rtsi char chen (3972)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58012026-01-2114-24-24 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        48,
+        26
+      ]
     }
   ],
   "end_date_to": null,

@@ -1,0 +1,104 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5186/",
+  "relations": [
+    {
+      "id": 976,
+      "label": "sher phyin mngon rtogs rgyan gyi 'grel pa (5186) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5186/",
+        "label": "sher phyin mngon rtogs rgyan gyi 'grel pa (5186)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
+        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1607,
+      "label": "sher phyin mngon rtogs rgyan gyi 'grel pa (5186) has as an instance sher phyin mngon rtogs rgyan gyi 'grel pa (5185)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5186/",
+        "label": "sher phyin mngon rtogs rgyan gyi 'grel pa (5186)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5185/",
+        "label": "sher phyin mngon rtogs rgyan gyi 'grel pa (5185)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 975,
+      "label": "zhwa lu lo tsA ba chos skyong bzang po (4071) author of sher phyin mngon rtogs rgyan gyi 'grel pa (5186)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4071/",
+        "label": "zhwa lu lo tsA ba chos skyong bzang po (4071)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5186/",
+        "label": "sher phyin mngon rtogs rgyan gyi 'grel pa (5186)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 530, No. 11533.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1527-12-31",
+  "start_date_from": "1451-01-01",
+  "start_date_sort": "1489-07-01",
+  "comments": "Listed in A khu ching Shes rab rgya mtsho's Tho yig ([5RXEUKD9]: 530, No. 11533: zhwa lu lo tsA ba chos skyong bzang po'i mngon rtogs rgyan gyi Tik+ka).",
+  "alternative_names": "mngon rtogs rgyan gyi Tik+ka",
+  "external_links": "",
+  "review": true,
+  "start": "after 1451 before 1527",
+  "name": "sher phyin mngon rtogs rgyan gyi 'grel pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}
