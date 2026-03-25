@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5289/",
+  "relations": [
+    {
+      "id": 1939,
+      "label": "tshad ma rnam par nges pa'i ti ka chen po (2) (5289) has source tshad ma rnam par nges pa'i ti ka chen po (1) (5869)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5289/",
+        "label": "tshad ma rnam par nges pa'i ti ka chen po (2) (5289)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5869/",
+        "label": "tshad ma rnam par nges pa'i ti ka chen po (1) (5869)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1652,
+      "label": "tshad ma rnam par nges pa'i ti ka chen po legs bshad bstan pa'i 'od zer (5290) has as an instance tshad ma rnam par nges pa'i ti ka chen po (2) (5289)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5290/",
+        "label": "tshad ma rnam par nges pa'i ti ka chen po legs bshad bstan pa'i 'od zer (5290)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5289/",
+        "label": "tshad ma rnam par nges pa'i ti ka chen po (2) (5289)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "The item, kept at the Cultural Palace of Nationalities in Beijing (CPN), was first discussed in <<van der Kuijp 1993 [Q8FCH7LF]>>: 295-296.\r\nThis item appears to correspond to a manuscript currently located in the library of Zha lu monastery, although its catalogue reports 102 folios. [HMSTSJ7Q]: 468, No. 307 (zha lu dgon gyi dpe rnying dkar chag):  bka' gdams 5; tshad ma rnam nges kyi Tik; gtsang chu mig pa seng ge dpal; 'bru tsha zhabs ring; 69 x 9 cm.\r\n\r\nThe colophon indicating the place of writing as Yar lungs khra 'brug gi gtsug lag khang is likely that of the conjectured first instance of the work (ID:5869). \r\nImages of fols. 75b and 89a are lacking in [KUYBGM7V] but are present in the images of BDRC MW1CZ2155, which give access to 150 folios. The note on the cover page of the CPN exemplar reports 149 folios.\r\n\r\nIn view of the signature, the manuscript was part of the 'Bras spungs gnas bcu lha khang collection. [8H6M69W4] does not list any item with the signature \"phyi zha 9.\"",
+  "alternative_names": "tshad ma rnaM nges kyi ti ka (cover page)\r\nti ka chen po (colophon)\r\ntshad ma rnam nges kyi ti ka (catalogue)",
+  "external_links": "https://purl.bdrc.io/resource/MW1PD153536_4F7006\r\nhttps://purl.bdrc.io/resource/MW1CZ2155",
+  "review": true,
+  "start": null,
+  "name": "tshad ma rnam par nges pa'i ti ka chen po (2)",
+  "set_num": "Set 3",
+  "volume": "87",
+  "sb_text_number": "1",
+  "pp_kdsb": "11-307",
+  "num_folios": "150(/152)",
+  "signature_letter": "zha",
+  "signature_number": "9",
+  "drepung_number": null,
+  "provenance": "'bras spungs gnas bcu lha khang\r\nCPN 4827(4)\r\nzha lu (bka' gdams 5)",
+  "zotero_ref": "",
+  "tibschol_ref": "3_087_01",
+  "availability": "available",
+  "dimension": "69 x 9",
+  "item_description": "Last folio number: 152. \r\nMissing folios: 12 and 13.\r\nLast folio broken in two halves, which were stitched together."
+}

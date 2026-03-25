@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7376/",
+  "relations": [
+    {
+      "id": 5777,
+      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (2) (4587) has source theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (1) (7376)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4587/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (2) (4587)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7376/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (1) (7376)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BXCBT3S8]: Preface.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5776,
+      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588) has as an instance theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (1) (7376)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4588/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7376/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (1) (7376)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": null,
+  "name": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (1)",
+  "set_num": null,
+  "volume": null,
+  "sb_text_number": "",
+  "pp_kdsb": null,
+  "num_folios": null,
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "ri bo che rje drung",
+  "zotero_ref": "",
+  "tibschol_ref": "",
+  "availability": "non-accessible",
+  "dimension": null,
+  "item_description": "See (ID:4587), a manual copy of this old cursive manuscript that preserves the original orthography."
+}
