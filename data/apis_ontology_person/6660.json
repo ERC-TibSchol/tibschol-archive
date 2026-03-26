@@ -2,6 +2,180 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6660/",
   "relations": [
     {
+      "id": 6995,
+      "label": "zhang e pa (6660) student of dkar chung ba gzhon nu tshul khrims (3821)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6660/",
+        "label": "zhang e pa (6660)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3821/",
+        "label": "dkar chung ba gzhon nu tshul khrims (3821)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3HXACZSD]: 213 (based on the Red Annals).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7000,
+      "label": "zhang e pa (6660) active at mon 'dra (7970)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6660/",
+        "label": "zhang e pa (6660)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7970/",
+        "label": "mon 'dra (7970)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3HXACZSD]: 213 (based on the Red Annals). Taught at Mon 'dra.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6998,
+      "label": "zhang e pa (6660) active at 'or skyo reg (7968)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6660/",
+        "label": "zhang e pa (6660)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7968/",
+        "label": "'or skyo reg (7968)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3HXACZSD]: 213 (based on the Red Annals). Taught at 'Or skyo reg.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6997,
+      "label": "zhang e pa (6660) active at me reg (7967)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6660/",
+        "label": "zhang e pa (6660)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7967/",
+        "label": "me reg (7967)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3HXACZSD]: 213 (based on the Red Annals). Taught in Me reg.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6999,
+      "label": "zhang e pa (6660) active at rgya grong (7969)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6660/",
+        "label": "zhang e pa (6660)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7969/",
+        "label": "rgya grong (7969)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3HXACZSD]: 213 (based on the Red Annals). Taught at rGya grong.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6996,
+      "label": "zhang e pa (6660) student of khu ston shes rab brtson 'grus (3823)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6660/",
+        "label": "zhang e pa (6660)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3823/",
+        "label": "khu ston shes rab brtson 'grus (3823)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3HXACZSD]: 213 (based on the Red Annals).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3670,
       "label": "zhang e pa (6660) active at 'on cang do (6661)",
       "subj": {
@@ -51,7 +225,36 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[5632TFMN]: 312.\r\n[3HXACZSD]: 213 (based on the Red Annals).",
+      "zotero_refs": "[5632TFMN]: 312.\r\n[3HXACZSD]: 213-214 (based on the Red Annals).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7008,
+      "label": "rgyal ba so ston (6342) student of zhang e pa (6660)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6342/",
+        "label": "rgyal ba so ston (6342)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6660/",
+        "label": "zhang e pa (6660)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3HXACZSD]: 214 (based on the Red Annals).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -80,7 +283,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 1199 ('dis ni zhang e pa'i chos grar yang yun ring du bzhugs |).",
+      "zotero_refs": "[R894SIKE]: 1199 ('dis ni zhang e pa'i chos grar yang yun ring du bzhugs |).\r\n[3HXACZSD]: 214 (based on the Red Annals).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -89,18 +292,18 @@
       "subject_of_teaching_vocab": []
     }
   ],
-  "end_date_to": null,
+  "end_date_to": "1213-12-31",
   "end_date_from": "1140-01-01",
-  "end_date_sort": "1140-01-01",
-  "start_date_to": "1265-12-31",
-  "start_date_from": null,
-  "start_date_sort": "1265-12-31",
+  "end_date_sort": "1176-12-31",
+  "start_date_to": "1133-12-31",
+  "start_date_from": "1060-01-01",
+  "start_date_sort": "1096-12-30",
   "comments": "",
-  "alternative_names": "",
+  "alternative_names": "zhang g.ye ba\r\nzhang e ba",
   "external_links": "",
   "review": false,
-  "start": "before 1265",
-  "end": "after 1140",
+  "start": "after 1060 before 1133",
+  "end": "after 1140 before 1213",
   "name": "zhang e pa",
   "gender": "male",
   "nationality": "Tibetan"

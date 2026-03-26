@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7973/",
+  "relations": [
+    {
+      "id": 7011,
+      "label": "las kyi me long gi gtam rgyud rnam par bshad pa (7972) has as an instance las kyi me long gi gtam rgyud rnam par bshad pa (7973)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7972/",
+        "label": "las kyi me long gi gtam rgyud rnam par bshad pa (7972)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7973/",
+        "label": "las kyi me long gi gtam rgyud rnam par bshad pa (7973)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7012,
+      "label": "bsod nams rin chen (3) (7418) sponsor of las kyi me long gi gtam rgyud rnam par bshad pa (7973)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7418/",
+        "label": "bsod nams rin chen (3) (7418)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7973/",
+        "label": "las kyi me long gi gtam rgyud rnam par bshad pa (7973)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "las kyi me long gi btam rgyud rnaM par bshad pa zhes bya ba \u00a6 mang du thos pa shag kya\u2019i dge slong bsod nams rin chen gyis rang gi gzhung gi \u2018grel par sbyar ba \u00a6 rdzogs s+ho || shakya\u2019i dge slong bsod naMs rin chen gyis gzhan la sbyin par bya ba\u2019i chos su bzhengs pa\u2019o ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "The signature \"phyi la 588\" on the cover page suggests that the manuscript was part of the gNas bcu lha khang collection.",
+  "alternative_names": "las kyi me long gi gtam rgyud rnam par bshad pa (incipit, colophon)\r\ngtam rgyud rnam bshad (cover page)",
+  "external_links": "https://purl.bdrc.io/resource/MW1CZ1877",
+  "review": false,
+  "start": null,
+  "name": "las kyi me long gi gtam rgyud rnam par bshad pa",
+  "set_num": null,
+  "volume": null,
+  "sb_text_number": "",
+  "pp_kdsb": null,
+  "num_folios": "194",
+  "signature_letter": "la",
+  "signature_number": "588",
+  "drepung_number": null,
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Script: dbu med.\r\nProofread once (1 zhus so)"
+}
