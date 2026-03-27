@@ -196,7 +196,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[5632TFMN]: 312, n. 12. 'On cang do was the seat of Zhang E pa.\r\n[3HXACZSD]: 213 (based on the Red Annals). Taught in 'On lcang rdo.",
+      "zotero_refs": "[5632TFMN]: 312, n. 12. 'On cang do was the see of Zhang E pa.\r\n[3HXACZSD]: 213 (based on the Red Annals). Taught in 'On lcang rdo.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -232,6 +232,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7018,
+      "label": "khu ston shes rab brtson 'grus (3823) lineage predecessor of zhang e pa (6660)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3823/",
+        "label": "khu ston shes rab brtson 'grus (3823)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6660/",
+        "label": "zhang e pa (6660)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3HXACZSD]: 217 (Perfection of wisdom  lineage).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
     },
     {
       "id": 7008,
@@ -298,7 +329,7 @@
   "start_date_to": "1133-12-31",
   "start_date_from": "1060-01-01",
   "start_date_sort": "1096-12-30",
-  "comments": "",
+  "comments": "Likely the same person as Zhang ye ba smon lam tshul khrims (ID:5972).",
   "alternative_names": "zhang g.ye ba\r\nzhang e ba",
   "external_links": "",
   "review": false,

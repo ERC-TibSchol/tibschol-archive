@@ -1,18 +1,18 @@
 {
-  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7767/",
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7977/",
   "relations": [
     {
-      "id": 6588,
-      "label": "btsun pa ston gzhon (5942) student of shong ston lo tsA ba blo gros brtan pa (7767)",
+      "id": 7026,
+      "label": "rgyang ro dar ma mgon (7977) lineage predecessor of mchims brtson 'grus rgyal mtshan (4251)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5942/",
-        "label": "btsun pa ston gzhon (5942)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7977/",
+        "label": "rgyang ro dar ma mgon (7977)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7767/",
-        "label": "shong ston lo tsA ba blo gros brtan pa (7767)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4251/",
+        "label": "mchims brtson 'grus rgyal mtshan (4251)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -22,28 +22,28 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 163",
-      "tei_refs": "",
+      "zotero_refs": "",
+      "tei_refs": "exX0032026-03-1209-26-28 (Abhidharmasamuccaya lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
-        9
+        17
       ]
     },
     {
-      "id": 7020,
-      "label": "mchims brtson 'grus rgyal mtshan (4251) lineage predecessor of shong ston lo tsA ba blo gros brtan pa (7767)",
+      "id": 7025,
+      "label": "mchims brtson 'grus seng ge (4261) lineage predecessor of rgyang ro dar ma mgon (7977)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4251/",
-        "label": "mchims brtson 'grus rgyal mtshan (4251)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4261/",
+        "label": "mchims brtson 'grus seng ge (4261)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7767/",
-        "label": "shong ston lo tsA ba blo gros brtan pa (7767)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7977/",
+        "label": "rgyang ro dar ma mgon (7977)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -67,16 +67,16 @@
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,
-  "start_date_to": null,
+  "start_date_to": "1150-12-31",
   "start_date_from": null,
-  "start_date_sort": null,
+  "start_date_sort": "1150-12-31",
   "comments": "",
   "alternative_names": "",
-  "external_links": "https://purl.bdrc.io/resource/P1052",
+  "external_links": "",
   "review": false,
-  "start": null,
+  "start": "before 1150",
   "end": null,
-  "name": "shong ston lo tsA ba blo gros brtan pa",
+  "name": "rgyang ro dar ma mgon",
   "gender": "male",
   "nationality": "Tibetan"
 }
