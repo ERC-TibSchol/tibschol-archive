@@ -1,0 +1,56 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5512/",
+  "relations": [
+    {
+      "id": 1752,
+      "label": "tshad ma rnam par nges pa'i ti ka rigs pa'i rgyan gyi snying po (5513) has as an instance tshad ma rnam par nges pa'i ti ka rigs pa'i rgyan gyi snying po (5512)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5513/",
+        "label": "tshad ma rnam par nges pa'i ti ka rigs pa'i rgyan gyi snying po (5513)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5512/",
+        "label": "tshad ma rnam par nges pa'i ti ka rigs pa'i rgyan gyi snying po (5512)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "The first folio is missing. In the item bdr:MW00KG03840, a cover page with the note \"2 (180)\" and a stamp has been added. \r\n\r\nThe signature is visible in the top margin of fol. 2a.",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/MW00KG03840",
+  "review": true,
+  "start": null,
+  "name": "tshad ma rnam par nges pa'i ti ka rigs pa'i rgyan gyi snying po",
+  "set_num": null,
+  "volume": null,
+  "sb_text_number": "",
+  "pp_kdsb": null,
+  "num_folios": "180",
+  "signature_letter": "zha",
+  "signature_number": "16",
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "X_004",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Folio 1 missing.\r\nThe manuscript appears to have been correct for orthography, in particular (half-)deleting b- prefixes (e.g. in bsgrub bya).\r\nAnnotations identifying persons and texts referred to in the text. Notes by another hand on fol. 41b."
+}

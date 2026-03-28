@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6116/",
+  "relations": [
+    {
+      "id": 2452,
+      "label": "tshad ma'i de kho na nyid bsdus pa (5507) has as an instance tshad ma'i de kho na nyid bsdus pa (1) (6116)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5507/",
+        "label": "tshad ma'i de kho na nyid bsdus pa (5507)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6116/",
+        "label": "tshad ma'i de kho na nyid bsdus pa (1) (6116)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2454,
+      "label": "tshad ma'i de kho na nyid bsdus pa (3) (5506) has source tshad ma'i de kho na nyid bsdus pa (1) (6116)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5506/",
+        "label": "tshad ma'i de kho na nyid bsdus pa (3) (5506)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6116/",
+        "label": "tshad ma'i de kho na nyid bsdus pa (1) (6116)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "Manuscript in cursive script used for the edition in [2QJBN2UX] along with instance (ID: 6117), stemming from Byams 'byor monastery in the East Tibetan area of Nyag A dzi rong.\r\nSee the editorial introduction in [2QJBN2UX]: 2 (dpe phyi mo ni nyag a dzi rong gi dbus char chags pa'i dpal ldan byams 'byor dgon gyi dpe mdzod du bzhugs pa'i mkhan chen shes rab seng ge'i phyag dpe dbu med bris ma dpe rnying), [FZ6N88AU]: 389 and n. 24,  and <<Stoltz 2020 [MGPRHX73]>>: 49.",
+  "alternative_names": "",
+  "external_links": "",
+  "review": true,
+  "start": null,
+  "name": "tshad ma'i de kho na nyid bsdus pa (1)",
+  "set_num": null,
+  "volume": null,
+  "sb_text_number": "",
+  "pp_kdsb": null,
+  "num_folios": null,
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "nyag a dzi rong gi dbus char chags pa'i dpal ldan byams 'byor dgon",
+  "zotero_ref": "",
+  "tibschol_ref": "",
+  "availability": "non-accessible",
+  "dimension": null,
+  "item_description": "Script: dbu med."
+}

@@ -34,6 +34,38 @@
       ]
     },
     {
+      "id": 7064,
+      "label": "haribhadra (3712) lineage predecessor of buddha\u015br\u012bj\u00f1\u0101na (5830)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3712/",
+        "label": "haribhadra (3712)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5830/",
+        "label": "buddha\u015br\u012bj\u00f1\u0101na (5830)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex52052024-10-1815-08-34 (Perfection of Wisdom)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
+    },
+    {
       "id": 5,
       "label": "haribhadra (3712) author of abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
       "subj": {
@@ -144,6 +176,38 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 7063,
+      "label": "vairocanabhadra (8010) lineage predecessor of haribhadra (3712)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8010/",
+        "label": "vairocanabhadra (8010)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3712/",
+        "label": "haribhadra (3712)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex52052024-10-1815-08-34 (Perfection of Wisdom)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
     },
     {
       "id": 4563,
