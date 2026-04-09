@@ -1,14 +1,47 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7788/",
-  "relations": [],
+  "relations": [
+    {
+      "id": 7100,
+      "label": "candrak\u012brti (3725) lineage predecessor of vidy\u0101kokila (7788)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3725/",
+        "label": "candrak\u012brti (3725)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7788/",
+        "label": "vidy\u0101kokila (7788)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58032026-01-26-141843 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52,
+        48
+      ]
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "comments": "",
-  "alternative_names": "rig pa'i khu byug che ba\r\nrig pa'i khu byug",
+  "comments": "According to [LQZU66YX]: 9-10, two of the Indian teachers of Pa tshab Nyi ma grag (ID:3868), called Kanakavarman and Hasumati, were themselves disciples of a Rig pa'i khu byug. There are also an Elder and Young (che chung) rig pa'i khu byug mentioned in several Madhyamaka lineages, such as those recounted in Tsong kha pa (ID:5636) and mKhas grub rje (ID:6470) 's gSang yig.",
+  "alternative_names": "rig pa'i khu byug che ba\r\nrig pa'i khu byug\r\nAvadh\u016btipa",
   "external_links": "https://purl.bdrc.io/resource/P3927",
   "review": false,
   "start": null,
