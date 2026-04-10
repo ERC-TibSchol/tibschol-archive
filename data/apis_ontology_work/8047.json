@@ -1,0 +1,76 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8047/",
+  "relations": [
+    {
+      "id": 7104,
+      "label": "dbu ma la 'jug pa'i rnam bshad de kho na nyid gsal ba'i sgron ma (8047) commentary on madhyamak\u0101vat\u0101ra (3726)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8047/",
+        "label": "dbu ma la 'jug pa'i rnam bshad de kho na nyid gsal ba'i sgron ma (8047)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3726/",
+        "label": "madhyamak\u0101vat\u0101ra (3726)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7105,
+      "label": "red mda' ba gzhon nu blo gros (6756) author of dbu ma la 'jug pa'i rnam bshad de kho na nyid gsal ba'i sgron ma (8047)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
+        "label": "red mda' ba gzhon nu blo gros (6756)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8047/",
+        "label": "dbu ma la 'jug pa'i rnam bshad de kho na nyid gsal ba'i sgron ma (8047)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "comments": "An instance of that work is listed in [GP444QCS]: 588-589.",
+  "alternative_names": "'jug pa'i rnam bshad de kho na nyid gsal ba'i sgron ma",
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "name": "dbu ma la 'jug pa'i rnam bshad de kho na nyid gsal ba'i sgron ma",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}

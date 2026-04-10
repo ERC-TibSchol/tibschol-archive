@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4688/",
   "relations": [
     {
+      "id": 7101,
+      "label": "'dul ba 'od ldan gyi TIk+ka (4688) has as an instance 'dul TIk (8044)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4688/",
+        "label": "'dul ba 'od ldan gyi TIk+ka (4688)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8044/",
+        "label": "'dul TIk (8044)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1381,
       "label": "'dul ba 'od ldan gyi TIk+ka (4688) has as an instance 'dul ba 'od ldan gyi TIk+ka (4687)",
       "subj": {
