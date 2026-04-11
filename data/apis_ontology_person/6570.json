@@ -85,6 +85,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7159,
+      "label": "phywa pa chos kyi seng ge (3831) other relation to jay\u0101nanda (6570)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6570/",
+        "label": "jay\u0101nanda (6570)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8S7FDMCJ]: 69 (based on [TYITZ6UH]). Debate, in the presence of Khu lo tsa ba (ID:3873).\r\n[8GL7ZT7Y]: 234.\r\n[PSTH8RCL]: 193.\r\n[BG8579LF]: 181, n. 51.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": null,
@@ -93,7 +121,7 @@
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "comments": "",
+  "comments": "See [PSTH8RCL].",
   "alternative_names": "",
   "external_links": "https://purl.bdrc.io/resource/P4CZ15242",
   "review": true,

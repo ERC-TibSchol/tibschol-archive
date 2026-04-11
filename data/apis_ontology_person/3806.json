@@ -358,6 +358,34 @@
       ]
     },
     {
+      "id": 7122,
+      "label": "gro lung pa blo gros 'byung gnas (3806) author of rin chen phreng ba'i TIk+ka (8061)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3806/",
+        "label": "gro lung pa blo gros 'byung gnas (3806)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8061/",
+        "label": "rin chen phreng ba'i TIk+ka (8061)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Authorship reported for instance (ID:8062) in [GP444QCS]: 612 (gro lung ba blo gros 'byung gnas kyis mdzad pa'i rin chen phreng ba'i TIk+ka)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 555,
       "label": "gro lung pa blo gros 'byung gnas (3806) author of yum bar pa nyi khri'i rnam bshad (4476)",
       "subj": {
@@ -1147,13 +1175,16 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[5NY3E6YU]: 68 (mthar yang [Phya pa] gro lung pa'i drung du byon nas kyang spros pa bcad |).\r\n[R894SIKE]: 404 (bdag nyid chen po de'i sku tshe'i mthar gtugs pa na | slob dpon phywa pas 'bad pas gsan nas 'grel chung gi TI ka che ba zhig mdzad de |)\r\n[VKBZTBWN]: 4b5 (phyis gro lung pa la pha rol du phyin pa'i mdo dang | rgyan sogs gsung rab yongs su rdzogs par gsan). After having studied with rGya dmar ba (ID:3834).\r\n[8GL7ZT7Y]: 12b5-6 (gro lung pa blo gros 'byung gnas ni bdag nyid chen po de'i gsung rab mtha' dag gi srol 'dzin yin la | de dang rgya dmar ba gnyis ka la phya pa chos kyi seng ges gsan).\r\n[EG6VZ8JK]: 21.\r\n[VKBZTBWN]: 5a6-7 (smad kyi slob ma'i mchog ni phya pa'o)\r\n[MPRU5QUC]: 205. According to an account quoted in [6LKU9RWH]. \"after 18 year he (=Phya pa) moved to Gro lung pa\u2019s place and studied under the master for 4 years. He then went back to gSang phu and occupied the abbatial seat for 17 years again.\"",
+      "zotero_refs": "[5NY3E6YU]: 68 (mthar yang [Phya pa] gro lung pa'i drung du byon nas kyang spros pa bcad |).\r\n[R894SIKE]: 404 (bdag nyid chen po de'i sku tshe'i mthar gtugs pa na | slob dpon phywa pas 'bad pas gsan nas 'grel chung gi TI ka che ba zhig mdzad de |)\r\n[VKBZTBWN]: 4b5 (phyis gro lung pa la pha rol du phyin pa'i mdo dang | rgyan sogs gsung rab yongs su rdzogs par gsan). After having studied with rGya dmar ba (ID:3834).\r\n[VKBZTBWN]: 5a6-7 (smad kyi slob ma'i mchog ni phya pa'o).\r\n[8GL7ZT7Y]: 12b5-6 (gro lung pa blo gros 'byung gnas ni bdag nyid chen po de'i gsung rab mtha' dag gi srol 'dzin yin la | de dang rgya dmar ba gnyis ka la phya pa chos kyi seng ges gsan).\r\n[8GL7ZT7Y]: 15b7 (phya pa'i phar tshad kyi bshad srol ni | gtso bor gro lung pa las byung pa ste).\r\n[EG6VZ8JK]: 21.\r\n[MPRU5QUC]: 205. According to an account quoted in [6LKU9RWH]. \"after 18 year he (=Phya pa) moved to Gro lung pa\u2019s place and studied under the master for 4 years. He then went back to gSang phu and occupied the abbatial seat for 17 years again.\"\r\n[EZ5JXHJY]: 356 adds that Phya pa's studies with Gro lung pa took place at the monastery of gSang phu sNe'u thog, but Tibetan sources do no specify the location.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9,
+        7
+      ]
     },
     {
       "id": 91,

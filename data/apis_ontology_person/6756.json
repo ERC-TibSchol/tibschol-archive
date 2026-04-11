@@ -22,7 +22,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[Z5FZQCNC]: 145. Lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772) according to Kong sprul Blo gros mtha' yas: Sa paN (ID:3892), Zhang mDo sde dpal (ID:6624), mKhas pa Nor bzang (ID:6604), Nya dpon Kun dga' dpal (ID:6741), Red mda' ba (ID:6756), Tsong kha pa (ID: 5636).",
+      "zotero_refs": "[Z5FZQCNC]: 145. Lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772) according to Kong sprul Blo gros mtha' yas: Sa paN (ID:3892), Zhang mDo sde dpal (ID:6624), mKhas pa Nor bzang (ID:6604), Nya dbon Kun dga' dpal (ID:6741), Red mda' ba (ID:6756), Tsong kha pa (ID: 5636).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -31,6 +31,35 @@
       "subject_of_teaching_vocab": [
         9
       ]
+    },
+    {
+      "id": 7150,
+      "label": "red mda' ba gzhon nu blo gros (6756) student of nya dbon kun dga' dpal (6741)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
+        "label": "red mda' ba gzhon nu blo gros (6756)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
+        "label": "nya dbon kun dga' dpal (6741)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P2010.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 4359,
@@ -322,10 +351,10 @@
     },
     {
       "id": 6468,
-      "label": "nya dpon kun dga' dpal (6741) lineage predecessor of red mda' ba gzhon nu blo gros (6756)",
+      "label": "nya dbon kun dga' dpal (6741) lineage predecessor of red mda' ba gzhon nu blo gros (6756)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
-        "label": "nya dpon kun dga' dpal (6741)",
+        "label": "nya dbon kun dga' dpal (6741)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -341,7 +370,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[Z5FZQCNC]: 142-143. Lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772) according to\u202fmKhas grub rje (ID:6470): from Kha che PaN chen (ID:6418) to Chos rje Sa paN (ID:3892). Then to 'U yug pa Rigs pa'i seng ge (ID:3846), lTe ra ba Chos grags (ID:6828), Byang chub dpal (ID:6829), mKhan po dBang phyug dpal (ID:4320), Nya dpon Kun dga' dpal (ID:6741), rJe btsun Red mda' ba (ID:6756), etc. \r\n \r\n\r\n[Z5FZQCNC]: 145. Lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772) according to Kong sprul Blo gros mtha' yas: Sa paN (ID:3892), Zhang mDo sde dpal (ID:6624), mKhas pa Nor bzang (ID:6604), Nya dpon Kun dga' dpal (ID:6741), Red mda' ba (ID:6756), Tsong kha pa (ID: 5636).",
+      "zotero_refs": "[Z5FZQCNC]: 142-143. Lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772) according to\u202fmKhas grub rje (ID:6470): from Kha che PaN chen (ID:6418) to Chos rje Sa paN (ID:3892). Then to 'U yug pa Rigs pa'i seng ge (ID:3846), lTe ra ba Chos grags (ID:6828), Byang chub dpal (ID:6829), mKhan po dBang phyug dpal (ID:4320), Nya dbon Kun dga' dpal (ID:6741), rJe btsun Red mda' ba (ID:6756), etc. \r\n \r\n\r\n[Z5FZQCNC]: 145. Lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772) according to Kong sprul Blo gros mtha' yas: Sa paN (ID:3892), Zhang mDo sde dpal (ID:6624), mKhas pa Nor bzang (ID:6604), Nya dbon Kun dga' dpal (ID:6741), Red mda' ba (ID:6756), Tsong kha pa (ID: 5636).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

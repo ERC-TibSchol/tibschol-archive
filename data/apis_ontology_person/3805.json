@@ -288,37 +288,6 @@
       "end": null
     },
     {
-      "id": 96,
-      "label": "phywa pa chos kyi seng ge (3831) student of zhang tshe spong chos kyi bla ma (3805)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3805/",
-        "label": "zhang tshe spong chos kyi bla ma (3805)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5NY3E6YU]: 68 (bla ma de gsum [zhang tshe spong, gnyal pa ri lu, rnam par ba] gyi slob ma cha pa chos kyi seng ge |).\r\n[RMD3GYTC]: 255, n. 21. Phya pa received the teaching of the Ratnagotravibh\u0101ga from Chos kyi bla ma.",
-      "tei_refs": "ex705-1104-2023-06-28",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        10
-      ]
-    },
-    {
       "id": 2603,
       "label": "nyang bran pa chos kyi ye shes (3876) student of zhang tshe spong chos kyi bla ma (3805)",
       "subj": {
@@ -406,6 +375,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 96,
+      "label": "phywa pa chos kyi seng ge (3831) student of zhang tshe spong chos kyi bla ma (3805)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3805/",
+        "label": "zhang tshe spong chos kyi bla ma (3805)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5NY3E6YU]: 68 (bla ma de gsum [zhang tshe spong, gnyal pa ri lu, rnam par ba] gyi slob ma cha pa chos kyi seng ge |).\r\n[RMD3GYTC]: 255, n. 21. Phya pa received the teaching of the Ratnagotravibh\u0101ga from Chos kyi bla ma.\r\n[EZ5JXHJY]: 356 says that Phya pa's studies with Zhang tshes spong took place at the monastery of gSang phu sNe'u thog, but Tibetan sources do no specify the location.",
+      "tei_refs": "ex705-1104-2023-06-28",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10
+      ]
     },
     {
       "id": 5742,

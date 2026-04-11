@@ -831,35 +831,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 408,
-      "label": "rtag pa kha che (4206) student of khyung rin chen grags (3809)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4206/",
-        "label": "rtag pa kha che (4206)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
-        "label": "khyung rin chen grags (3809)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[4LDAV8UH]: 96, n. 14, based on [Q3KCZX7B]: 72-73 (\"Many learned masters also resided [at Glang pa], such as Stod lung Rgya dmar ba and Rtag pa Kha che, [Khyung Rin chen grags'] disciples who gave profound teachings and studied in depth there.\")\r\n[647FFPZR]: 543.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2931,
       "label": "lce ston rgya nag (6344) student of khyung rin chen grags (3809)",
       "subj": {
@@ -980,6 +951,35 @@
       "subject_of_teaching_vocab": [
         9
       ]
+    },
+    {
+      "id": 408,
+      "label": "rtag pa kha che (4206) student of khyung rin chen grags (3809)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4206/",
+        "label": "rtag pa kha che (4206)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 96, n. 14, based on [Q3KCZX7B]: 72-73 (\"Many learned masters also resided [at Glang pa], such as Stod lung Rgya dmar ba and Rtag pa Kha che, [Khyung Rin chen grags'] disciples who gave profound teachings and studied in depth there.\")\r\n[647FFPZR]: 543.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 2743,

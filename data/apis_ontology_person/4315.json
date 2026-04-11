@@ -60,35 +60,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 4027,
-      "label": "mtshur ston gzhon nu seng ge (4315) student of phywa pa chos kyi seng ge (3831)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4315/",
-        "label": "mtshur ston gzhon nu seng ge (4315)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[VKBZTBWN]: 5a3 (p. 451). Sh\u0101kya mchog ldan has \"rKyang dur ba gzhon nu seng ge\" in place of dMyal pa Yon tan seng ge (ID:6679) as the last of the eight lions of Phywa pa. But this is probably a mistake. [5NY3E6YU] - which is earlier than Sh\u0101kya mchog ldan - lists dMyal pa, as does [MQB8JGAX].",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Negative",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 4024,
       "label": "mtshur ston gzhon nu seng ge (4315) student of gtsang nag pa brtson 'grus seng ge (3839)",
       "subj": {
@@ -113,6 +84,35 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4027,
+      "label": "mtshur ston gzhon nu seng ge (4315) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4315/",
+        "label": "mtshur ston gzhon nu seng ge (4315)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VKBZTBWN]: 5a3 (p. 451). Sh\u0101kya mchog ldan has \"rKyang dur ba gzhon nu seng ge\" in place of dMyal pa Yon tan seng ge (ID:6679) as the last of the eight lions of Phywa pa. But this is probably a mistake. [5NY3E6YU] - which is earlier than Sh\u0101kya mchog ldan - lists dMyal pa, as does [MQB8JGAX].",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []

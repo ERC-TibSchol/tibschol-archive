@@ -2,8 +2,36 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7065/",
   "relations": [
     {
+      "id": 7127,
+      "label": "tshad ma'i brjed byang chen mo (7065) records the teaching of tsong kha pa blo bzang grags pa (5636)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7065/",
+        "label": "tshad ma'i brjed byang chen mo (7065)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5636/",
+        "label": "tsong kha pa blo bzang grags pa (5636)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4823,
-      "label": "rgyal tshab dar ma rin chen (6006) author of rgyal tshab chos rjes rje'i drung du gsan pa'i tshad ma'i brjed byang chen mo (7065)",
+      "label": "rgyal tshab dar ma rin chen (6006) author of tshad ma'i brjed byang chen mo (7065)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6006/",
         "label": "rgyal tshab dar ma rin chen (6006)",
@@ -12,7 +40,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7065/",
-        "label": "rgyal tshab chos rjes rje'i drung du gsan pa'i tshad ma'i brjed byang chen mo (7065)",
+        "label": "tshad ma'i brjed byang chen mo (7065)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -34,11 +62,11 @@
   "start_date_from": "1374-01-01",
   "start_date_sort": "1403-07-03",
   "comments": "According to its colophon, a memorandum based on oral teachings given by Tsong kha pa (ID: 5636) ([83QKLSCM]: 663).",
-  "alternative_names": "tshad ma'i brjed byang chen mo",
+  "alternative_names": "rgyal tshab chos rjes rje'i drung du gsan pa'i tshad ma'i brjed byang chen mo",
   "external_links": "https://purl.bdrc.io/resource/WA0XLF4889633F2F0",
   "review": false,
   "start": "after 1374 before 1432",
-  "name": "rgyal tshab chos rjes rje'i drung du gsan pa'i tshad ma'i brjed byang chen mo",
+  "name": "tshad ma'i brjed byang chen mo",
   "sde_dge_ref": null,
   "original_language": "Tibetan",
   "isExtant": true,

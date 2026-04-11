@@ -34,37 +34,6 @@
       ]
     },
     {
-      "id": 96,
-      "label": "phywa pa chos kyi seng ge (3831) student of zhang tshe spong chos kyi bla ma (3805)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3805/",
-        "label": "zhang tshe spong chos kyi bla ma (3805)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5NY3E6YU]: 68 (bla ma de gsum [zhang tshe spong, gnyal pa ri lu, rnam par ba] gyi slob ma cha pa chos kyi seng ge |).\r\n[RMD3GYTC]: 255, n. 21. Phya pa received the teaching of the Ratnagotravibh\u0101ga from Chos kyi bla ma.",
-      "tei_refs": "ex705-1104-2023-06-28",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        10
-      ]
-    },
-    {
       "id": 3764,
       "label": "phywa pa chos kyi seng ge (3831) student of blo gros rgyal mtshan (1) (4002)",
       "subj": {
@@ -88,35 +57,6 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "BDRC",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 82,
-      "label": "phywa pa chos kyi seng ge (3831) student of gro lung pa blo gros 'byung gnas (3806)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3806/",
-        "label": "gro lung pa blo gros 'byung gnas (3806)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5NY3E6YU]: 68 (mthar yang [Phya pa] gro lung pa'i drung du byon nas kyang spros pa bcad |).\r\n[R894SIKE]: 404 (bdag nyid chen po de'i sku tshe'i mthar gtugs pa na | slob dpon phywa pas 'bad pas gsan nas 'grel chung gi TI ka che ba zhig mdzad de |)\r\n[VKBZTBWN]: 4b5 (phyis gro lung pa la pha rol du phyin pa'i mdo dang | rgyan sogs gsung rab yongs su rdzogs par gsan). After having studied with rGya dmar ba (ID:3834).\r\n[8GL7ZT7Y]: 12b5-6 (gro lung pa blo gros 'byung gnas ni bdag nyid chen po de'i gsung rab mtha' dag gi srol 'dzin yin la | de dang rgya dmar ba gnyis ka la phya pa chos kyi seng ges gsan).\r\n[EG6VZ8JK]: 21.\r\n[VKBZTBWN]: 5a6-7 (smad kyi slob ma'i mchog ni phya pa'o)\r\n[MPRU5QUC]: 205. According to an account quoted in [6LKU9RWH]. \"after 18 year he (=Phya pa) moved to Gro lung pa\u2019s place and studied under the master for 4 years. He then went back to gSang phu and occupied the abbatial seat for 17 years again.\"",
-      "tei_refs": "",
-      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -152,6 +92,69 @@
       "subject_of_teaching_vocab": [
         9,
         13
+      ]
+    },
+    {
+      "id": 82,
+      "label": "phywa pa chos kyi seng ge (3831) student of gro lung pa blo gros 'byung gnas (3806)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3806/",
+        "label": "gro lung pa blo gros 'byung gnas (3806)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5NY3E6YU]: 68 (mthar yang [Phya pa] gro lung pa'i drung du byon nas kyang spros pa bcad |).\r\n[R894SIKE]: 404 (bdag nyid chen po de'i sku tshe'i mthar gtugs pa na | slob dpon phywa pas 'bad pas gsan nas 'grel chung gi TI ka che ba zhig mdzad de |)\r\n[VKBZTBWN]: 4b5 (phyis gro lung pa la pha rol du phyin pa'i mdo dang | rgyan sogs gsung rab yongs su rdzogs par gsan). After having studied with rGya dmar ba (ID:3834).\r\n[VKBZTBWN]: 5a6-7 (smad kyi slob ma'i mchog ni phya pa'o).\r\n[8GL7ZT7Y]: 12b5-6 (gro lung pa blo gros 'byung gnas ni bdag nyid chen po de'i gsung rab mtha' dag gi srol 'dzin yin la | de dang rgya dmar ba gnyis ka la phya pa chos kyi seng ges gsan).\r\n[8GL7ZT7Y]: 15b7 (phya pa'i phar tshad kyi bshad srol ni | gtso bor gro lung pa las byung pa ste).\r\n[EG6VZ8JK]: 21.\r\n[MPRU5QUC]: 205. According to an account quoted in [6LKU9RWH]. \"after 18 year he (=Phya pa) moved to Gro lung pa\u2019s place and studied under the master for 4 years. He then went back to gSang phu and occupied the abbatial seat for 17 years again.\"\r\n[EZ5JXHJY]: 356 adds that Phya pa's studies with Gro lung pa took place at the monastery of gSang phu sNe'u thog, but Tibetan sources do no specify the location.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        7
+      ]
+    },
+    {
+      "id": 96,
+      "label": "phywa pa chos kyi seng ge (3831) student of zhang tshe spong chos kyi bla ma (3805)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3805/",
+        "label": "zhang tshe spong chos kyi bla ma (3805)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5NY3E6YU]: 68 (bla ma de gsum [zhang tshe spong, gnyal pa ri lu, rnam par ba] gyi slob ma cha pa chos kyi seng ge |).\r\n[RMD3GYTC]: 255, n. 21. Phya pa received the teaching of the Ratnagotravibh\u0101ga from Chos kyi bla ma.\r\n[EZ5JXHJY]: 356 says that Phya pa's studies with Zhang tshes spong took place at the monastery of gSang phu sNe'u thog, but Tibetan sources do no specify the location.",
+      "tei_refs": "ex705-1104-2023-06-28",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10
       ]
     },
     {
@@ -531,6 +534,34 @@
       "end": null
     },
     {
+      "id": 7160,
+      "label": "phywa pa chos kyi seng ge (3831) other relation to khu mdo sde 'bar (3873)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3873/",
+        "label": "khu mdo sde 'bar (3873)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8S7FDMCJ]: 69 (based on [TYITZ6UH]). Present at the debate with Jay\u0101nanda (ID:6570). \r\n[8GL7ZT7Y]: 234. \r\n[PSTH8RCL]: 193.\r\n[BG8579LF]: 181, n. 51.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 581,
       "label": "phywa pa chos kyi seng ge (3831) author of so thar mdo'i 'grel ba (4507)",
       "subj": {
@@ -583,6 +614,34 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7159,
+      "label": "phywa pa chos kyi seng ge (3831) other relation to jay\u0101nanda (6570)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6570/",
+        "label": "jay\u0101nanda (6570)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8S7FDMCJ]: 69 (based on [TYITZ6UH]). Debate, in the presence of Khu lo tsa ba (ID:3873).\r\n[8GL7ZT7Y]: 234.\r\n[PSTH8RCL]: 193.\r\n[BG8579LF]: 181, n. 51.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
       "start": null,
       "end": null
     },
@@ -836,7 +895,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[ZK9D2SKJ]: 261.3\u20134 ([spyil bu ba] dge bshes cha pa'i drung du rab tu byung | lo lon nas mkhan po de nyid las bsnyen par rdzogs mtshan chos kyi rgyal mtshan zhes btags |). Phya pa was \"mkhan po\" (Skt. up\u0101dhy\u0101ya) in both his novice and final ordination.",
+      "zotero_refs": "[ZK9D2SKJ]: 261.3\u20134 ([spyil bu ba] dge bshes cha pa'i drung du rab tu byung | lo lon nas mkhan po de nyid las bsnyen par rdzogs mtshan chos kyi rgyal mtshan zhes btags |). Phya pa was \"mkhan po\" (Skt. up\u0101dhy\u0101ya) in both his novice and final ordination.\r\n[82NZNSIS]: 260.\r\n[Q922IUFM]: 133.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -1647,35 +1706,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 109,
-      "label": "gnyos jo sras dpal le (3850) student of phywa pa chos kyi seng ge (3831)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3850/",
-        "label": "gnyos jo sras dpal le (3850)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5NY3E6YU]: 68 ('khon jo sras rtse mo | rngog jo sras ra mo | khu jo sras ne tsho | gnyos jo sras dpal chen bzhi la jo sras bzhi zer |).\r\n[FDEWZ2NZ]: 290.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "",
-      "end": "",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 110,
       "label": "gar dbang grub (3851) student of phywa pa chos kyi seng ge (3831)",
       "subj": {
@@ -1731,6 +1761,35 @@
       "confidence": "Positive",
       "start": "",
       "end": "",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 109,
+      "label": "gnyos jo sras dpal le (3850) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3850/",
+        "label": "gnyos jo sras dpal le (3850)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5NY3E6YU]: 68 ('khon jo sras rtse mo | rngog jo sras ra mo | khu jo sras ne tsho | gnyos jo sras dpal chen bzhi la jo sras bzhi zer |).\r\n[FDEWZ2NZ]: 290 (based on bSod nams dpal's Bla ma rngog pa yab sras rim par byon pa'i rnam thar rin po che'i rgyan gyi phreng ba).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     },
     {
@@ -1885,35 +1944,6 @@
       ]
     },
     {
-      "id": 4027,
-      "label": "mtshur ston gzhon nu seng ge (4315) student of phywa pa chos kyi seng ge (3831)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4315/",
-        "label": "mtshur ston gzhon nu seng ge (4315)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[VKBZTBWN]: 5a3 (p. 451). Sh\u0101kya mchog ldan has \"rKyang dur ba gzhon nu seng ge\" in place of dMyal pa Yon tan seng ge (ID:6679) as the last of the eight lions of Phywa pa. But this is probably a mistake. [5NY3E6YU] - which is earlier than Sh\u0101kya mchog ldan - lists dMyal pa, as does [MQB8JGAX].",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Negative",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3937,
       "label": "gnyal pa dad pa bzang po (6243) student of phywa pa chos kyi seng ge (3831)",
       "subj": {
@@ -1938,35 +1968,6 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "after 1130",
-      "end": "after 1130",
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3934,
-      "label": "gtsang pa 'jam dpal seng ge (6336) student of phywa pa chos kyi seng ge (3831)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6336/",
-        "label": "gtsang pa 'jam dpal seng ge (6336)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[KHFQ2XU4]: 744 (kha cig gtsang pa 'jam dpal seng ge yang 'dren). Included by some scholars in the list of the \"seng chen brgyad.\"",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Uncertain",
       "start": "after 1130",
       "end": "after 1130",
       "subject_of_teaching_vocab": []
@@ -2079,12 +2080,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[5NY3E6YU]: 68 ('khon jo sras rtse mo | rngog jo sras ra mo | khu jo sras ne tsho | gnyos jo sras dpal chen bzhi la jo sras bzhi zer |).\r\n[FDEWZ2NZ]: 289 (based on rNgog Byang chub dpal, rJe mar pa nas brgyud pa'i rngog bzhung pa yab sras kyi bla ma'i rnam thar nor bu'i phreng ba 31.5\u20138). \"He learned perfectly the teaching cycles on characteristics in gSang phu with master Phya pa.\" \r\n[FC5YRREC]: 43 (mtshan nyid kyi chos skor rnams gsang phur slob dpon phyA pa'i drung du rdzogs par gsan |). The expression \"mtshan nyid kyi chos skor\" refers to scholastic studies.\r\n[FDEWZ2NZ]: 290 (based on bSod nams dpal, Bla ma rngog pa yab sras rim par byon pa'i rnam thar rin po che'i rgyan gyi phreng ba 21.3\u20134). rNgog rgyal tsha was one of the \"jo sras mi bzhi\" in Ne'u thog. \r\n[JJLTP8SW]: 29 (ne'u thog tu phya pa'i spyan sngar jo sras bzhi tshogs pa la | 'khon bsod nams rtse mo | rngog rgyal tsha | khu ne tso | smyos dpal le dang bzhi'i nang nas thugs rab che ba'i thog chod | phar tshad dang bgro gleng la sogs mkhas par slabs nas mkhyen te | 'on kyang yig cha chen po ma mdzad par)",
+      "zotero_refs": "[5NY3E6YU]: 68 ('khon jo sras rtse mo | rngog jo sras ra mo | khu jo sras ne tsho | gnyos jo sras dpal chen bzhi la jo sras bzhi zer |).\r\n[FDEWZ2NZ]: 289 (based on rNgog Byang chub dpal, rJe mar pa nas brgyud pa'i rngog bzhung pa yab sras kyi bla ma'i rnam thar nor bu'i phreng ba 31.5\u20138). \"He learned perfectly the teaching cycles on characteristics in gSang phu with master Phya pa.\" \"Characteristics\" translates here mtshan nyid, indicating scholastic studies.\r\n[FC5YRREC]: 43 (mtshan nyid kyi chos skor rnams gsang phur slob dpon phyA pa'i drung du rdzogs par gsan |). The expression \"mtshan nyid kyi chos skor\" refers to scholastic studies.\r\n[FDEWZ2NZ]: 290 (based on bSod nams dpal, Bla ma rngog pa yab sras rim par byon pa'i rnam thar rin po che'i rgyan gyi phreng ba 21.3\u20134). rNgog rgyal tsha was one of the \"jo sras mi bzhi\" in Ne'u thog. \r\n[JJLTP8SW]: 29 (ne'u thog tu phya pa'i spyan sngar jo sras bzhi tshogs pa la | 'khon bsod nams rtse mo | rngog rgyal tsha | khu ne tso | smyos dpal le dang bzhi'i nang nas thugs rab che ba'i thog chod | phar tshad dang bgro gleng la sogs mkhas par slabs nas mkhyen te | 'on kyang yig cha chen po ma mdzad par)",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "",
-      "end": "",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": [
         9,
         7
@@ -2120,39 +2121,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 114,
-      "label": "dus gsum mkhyen pa (3855) student of phywa pa chos kyi seng ge (3831)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3855/",
-        "label": "dus gsum mkhyen pa (3855)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "According to the gSer gling by rGang lo, edited in [Y6NGTTC6]: 100 (de nas dgung lo bcu dgu la yul dbus su byon pas nyi shu la stod lungs yul thang du slebs \u00a6 dge bshes rgya dmar dang phya pa la shar gsum dang byams chos gsan). In sTod lungs yul thang.\r\n[R894SIKE]: 401 (gzhan yang 'jad pa ston skyabs dang | rdo rje 'od zer la sogs dang | dus gsum mkhyen pa dang | zhang 'tshal ba la sogs pa mang du byon no ||)\r\n[R894SIKE]: 565 (nyi shu pa la stod lungs se thang du phebs | stod lungs rgya dmar pa dang | de'i slob ma bod skad rigs gcig pa la mkhas pa slob dpon phywa ba gnyis la byams chos dang dbu ma sher gsum gsan zhing mkhas par bslabs |). When Dus gsum mkhen pa was 20, in sTod lungs se thang. Subject: Treatises of Maitreya, Madhyamaka\r\n[VKBZTBWN]: 4a7 (dang po ni [=grub thob mi gsum] rje dus gsum mkhyen pa | phag mo gru pa | gsal sto sho sgom rnams so || la la zhang 'tshal pa yin zhes zer |)\r\n[Y6NGTTC6]: 304.\r\n[Y6NGTTC6]: 51 and n. 166. The gSer gling relates that Phya pa was Dus gsum mkhyen's teacher also in a former life, and is reborn as a pa\u1e47\u1e0dita in the Kashmiri city of Drib bstan.\r\n[I58Z22ET]: 408-409, n. 42, citing Dus gsum mkhyen pa'i rnam thar in Si tu Chos kyi 'byung gnas's Karma kam tshang gser 'phreng. Studied the dbu ma, rgyud shar gsum, tshad ma and byams chos with Phya pa (ID:3831) and with rGya dmar ba (ID:3834). The episode takes place when he was 20 years old, at the grwa sa of rGya dmar ba in sTod lung se thang (ID:6233).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1130",
-      "end": "after 1130",
-      "subject_of_teaching_vocab": [
-        9,
-        13,
-        7
-      ]
-    },
-    {
       "id": 119,
       "label": "'dul 'dzin dkar mo (3820) student of phywa pa chos kyi seng ge (3831)",
       "subj": {
@@ -2174,35 +2142,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[4LWBNM7B]: 120.\r\n[MGPRHX73]: 59.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "",
-      "end": "",
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 108,
-      "label": "khu jo sras ne tso (3849) student of phywa pa chos kyi seng ge (3831)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3849/",
-        "label": "khu jo sras ne tso (3849)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5NY3E6YU]: 68 ('khon jo sras rtse mo | rngog jo sras ra mo | khu jo sras ne tsho | gnyos jo sras dpal chen bzhi la jo sras bzhi zer |).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -2238,39 +2177,6 @@
       "start": "after 1135",
       "end": "after 1135",
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 107,
-      "label": "bsod nams rtse mo (3848) student of phywa pa chos kyi seng ge (3831)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3848/",
-        "label": "bsod nams rtse mo (3848)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": "1169-12-31",
-      "end_date_from": "1169-01-01",
-      "end_date_sort": "1169-07-02",
-      "start_date_to": "1158-12-31",
-      "start_date_from": "1158-01-01",
-      "start_date_sort": "1158-07-02",
-      "zotero_refs": "[5NY3E6YU]: 68 ('khon jo sras rtse mo | rngog jo sras ra mo | khu jo sras ne tsho | gnyos jo sras dpal chen bzhi la jo sras bzhi zer |).\r\n[R894SIKE]: 463 ('khon jo sras rtse mo | rngog jo sras ra mo | khu jo sras ne tso | gnyos jo sras dpal le dang bzhi la jo sras bzhi zer |).\r\n[VKBZTBWN]: 453.\r\n[S77K59TZ]: 9a.\r\n[RKJB7KGK]: 200/3.\r\n[RA3FK3BK]: 157. Subject: epistemology and Bodhicary\u0101vat\u0101ra.\r\n[8S7FDMCJ]: 97-98. bSod nams rtse mo studied with Phywa pa in gSang phu (ID:4332) since he was 16 until Phywa pa's passing.\r\n[EZ5JXHJY]: 357.\r\n[YHLJKFU5]: 100-101.\r\n[MPRU5QUC]: 205.",
-      "tei_refs": "",
-      "support_notes": "bSod nams rtse mo composed an eulogy to his teacher Phya pa, see work (ID:6915).",
-      "confidence": "Positive",
-      "start": "1158",
-      "end": "1169",
-      "subject_of_teaching_vocab": [
-        48,
-        9,
-        13
-      ]
     },
     {
       "id": 102,
@@ -2357,6 +2263,159 @@
       "zotero_refs": "[VKBZTBWN]: 4a7 (dang po ni [=grub thob mi gsum] rje dus gsum mkhyen pa | phag mo gru pa | gsal sto sho sgom rnams so || la la zhang 'tshal pa yin zhes zer |).\r\n[EZ5JXHJY]: 356.",
       "tei_refs": "",
       "support_notes": "If Tshul khrims snying po (ID:6157) is the same person as gSal sto sho sgom (ID:3857).",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 108,
+      "label": "khu jo sras ne tso (3849) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3849/",
+        "label": "khu jo sras ne tso (3849)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5NY3E6YU]: 68 ('khon jo sras rtse mo | rngog jo sras ra mo | khu jo sras ne tsho | gnyos jo sras dpal chen bzhi la jo sras bzhi zer |).\r\n[FDEWZ2NZ]: 290 (based on bSod nams dpal's Bla ma rngog pa yab sras rim par byon pa'i rnam thar rin po che'i rgyan gyi phreng ba).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 114,
+      "label": "dus gsum mkhyen pa (3855) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3855/",
+        "label": "dus gsum mkhyen pa (3855)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": "1130-01-01",
+      "end_date_sort": "1130-01-01",
+      "start_date_to": null,
+      "start_date_from": "1130-01-01",
+      "start_date_sort": "1130-01-01",
+      "zotero_refs": "According to the gSer gling by rGang lo, edited in [Y6NGTTC6]: 100 (de nas dgung lo bcu dgu la yul dbus su byon pas nyi shu la stod lungs yul thang du slebs \u00a6 dge bshes rgya dmar dang phya pa la shar gsum dang byams chos gsan). In sTod lungs yul thang.\r\n[R894SIKE]: 401 (gzhan yang 'jad pa ston skyabs dang | rdo rje 'od zer la sogs dang | dus gsum mkhyen pa dang | zhang 'tshal ba la sogs pa mang du byon no ||)\r\n[R894SIKE]: 565 (nyi shu pa la stod lungs se thang du phebs | stod lungs rgya dmar pa dang | de'i slob ma bod skad rigs gcig pa la mkhas pa slob dpon phywa ba gnyis la byams chos dang dbu ma sher gsum gsan zhing mkhas par bslabs |). When Dus gsum mkhen pa was 20, in sTod lungs se thang (ID:6233). Subject: Treatises of Maitreya, Madhyamaka. See [8S7FDMCJ]: 60.\r\n[VKBZTBWN]: 4a7 (dang po ni [=grub thob mi gsum] rje dus gsum mkhyen pa | phag mo gru pa | gsal sto sho sgom rnams so || la la zhang 'tshal pa yin zhes zer |)\r\n[Y6NGTTC6]: 304.\r\n[Y6NGTTC6]: 51 and n. 166. The gSer gling relates that Phya pa was Dus gsum mkhyen's teacher also in a former life, and is reborn as a pa\u1e47\u1e0dita in the Kashmiri city of Drib bstan.\r\n[I58Z22ET]: 408-409, n. 42, citing Dus gsum mkhyen pa'i rnam thar in Si tu Chos kyi 'byung gnas's Karma kam tshang gser 'phreng. Studied the dbu ma, rgyud shar gsum, tshad ma and byams chos with Phya pa (ID:3831) and with rGya dmar ba (ID:3834). The episode takes place when he was 20 years old, at the grwa sa of rGya dmar ba in sTod lung se thang (ID:6233).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1130",
+      "end": "after 1130",
+      "subject_of_teaching_vocab": [
+        9,
+        13,
+        7
+      ]
+    },
+    {
+      "id": 107,
+      "label": "bsod nams rtse mo (3848) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3848/",
+        "label": "bsod nams rtse mo (3848)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1169-12-31",
+      "end_date_from": "1169-01-01",
+      "end_date_sort": "1169-07-02",
+      "start_date_to": "1158-12-31",
+      "start_date_from": "1158-01-01",
+      "start_date_sort": "1158-07-02",
+      "zotero_refs": "[5NY3E6YU]: 68 ('khon jo sras rtse mo | rngog jo sras ra mo | khu jo sras ne tsho | gnyos jo sras dpal chen bzhi la jo sras bzhi zer |).\r\n[R894SIKE]: 463 ('khon jo sras rtse mo | rngog jo sras ra mo | khu jo sras ne tso | gnyos jo sras dpal le dang bzhi la jo sras bzhi zer |).\r\n[FDEWZ2NZ]: 290 (based on bSod nams dpal's Bla ma rngog pa yab sras rim par byon pa'i rnam thar rin po che'i rgyan gyi phreng ba).\r\n[VKBZTBWN]: 453.\r\n[S77K59TZ]: 9a.\r\n[RKJB7KGK]: 200/3.\r\n[RA3FK3BK]: 157. Subject: epistemology and Bodhicary\u0101vat\u0101ra.\r\n[8S7FDMCJ]: 97-98. bSod nams rtse mo studied with Phywa pa in gSang phu (ID:4332) since he was 16 until Phywa pa's passing. (The location of the studies is inferred from the fact that bSod nams rtse mo studied with Phywa pa and that bSod nams rtse mo studied in gSang phu, but the sources do not mention where the studies with Phywa pa took place).\r\n[MPRU5QUC]: 205.",
+      "tei_refs": "",
+      "support_notes": "bSod nams rtse mo composed an eulogy to his teacher Phya pa, see work (ID:6915).",
+      "confidence": "Positive",
+      "start": "1158",
+      "end": "1169",
+      "subject_of_teaching_vocab": [
+        48,
+        9,
+        13
+      ]
+    },
+    {
+      "id": 3934,
+      "label": "gtsang pa 'jam dpal seng ge (6336) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6336/",
+        "label": "gtsang pa 'jam dpal seng ge (6336)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": "1130-01-01",
+      "end_date_sort": "1130-01-01",
+      "start_date_to": null,
+      "start_date_from": "1130-01-01",
+      "start_date_sort": "1130-01-01",
+      "zotero_refs": "[KHFQ2XU4]: 744 (kha cig gtsang pa 'jam dpal seng ge yang 'dren). Included by some scholars in the list of the \"seng chen brgyad.\"\r\n[R894SIKE]: 405.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": "after 1130",
+      "end": "after 1130",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4027,
+      "label": "mtshur ston gzhon nu seng ge (4315) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4315/",
+        "label": "mtshur ston gzhon nu seng ge (4315)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VKBZTBWN]: 5a3 (p. 451). Sh\u0101kya mchog ldan has \"rKyang dur ba gzhon nu seng ge\" in place of dMyal pa Yon tan seng ge (ID:6679) as the last of the eight lions of Phywa pa. But this is probably a mistake. [5NY3E6YU] - which is earlier than Sh\u0101kya mchog ldan - lists dMyal pa, as does [MQB8JGAX].",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Uncertain",
       "start": null,
       "end": null,
@@ -3131,7 +3190,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[MGPRHX73]: 56, n. 21. Teaching: Bodhicary\u0101vat\u0101ra (ID:3727), with the sequence rGya dmar ba (ID:3834), Phya pa (ID:3831), gTsang nag pa (ID:3839), mKhas pa mtshur (ID:4315) (see excerpt).\r\n[4LWBNM7B]: 216, n. 2. Lineages of epistemology and for the Gang blo ma, that have the sequence: rGya dmar ba (ID:3834), Cha pa (ID:3831), gTsang nag pa (ID:3839), Dan 'bag pa (ID:3840).\r\n[ABYM2GP5]: 22.  According to \u015a\u0101kya mchog ldan, rNgog Lo (ID:3786)'s Madhyamaka lineage went from rNgog Blo ldan shes rab to Gro lung pa (ID:3806) and rGya dmar ba (ID:3834), and from these two to Phya pa (ID:3831). According to Sangs rgyas phun tshogs's Ngor chos 'byung, rNgog Lo (ID:3786)'s Madhyamaka lineage went from rNgog Blo ldan shes rab to Gangs pa she'u (ID:3810) and Khyung rin chen grags (ID:3809), from these two to sTod lung rGya dmar ba Byang chub grags (ID:3834), and from him to Phya pa (ID:3831).\r\n[Z5FZQCNC]: 143-144. Lineage of the reading transmission (lung) of the Pram\u0101\u1e47av\u0101rttika (ID:3772) as received by Bu ston (ID:5999): from rNgog lo tsA ba (ID:3786) to Khyung Rin chen grags (ID:3809), rGya dmar Byang chub grags (ID:3834), Phywa ba (ID:3831), gTsang nag pa (ID:3839), Dar ma bkra shis (ID:6217), gNyal pa (i.e., gNyal zhig \u2018Jam pa\u2019i rdo rje (ID:3887)), Bo dong pa (probably (ID:3904)), lDong pa Grags pa dpal (ID:7761), Lho pa Grub seng (ID:7651), Tshad ma'i skyes bu (ID:6925), Bu ston (ID:5999).\r\nSee also [CTAI38G9]: 928.",
-      "tei_refs": "x67022026-01-1608-36-33",
+      "tei_refs": "ex67022026-01-1608-36-33",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -3299,7 +3358,7 @@
   "start_date_to": "1109-12-31",
   "start_date_from": "1109-01-01",
   "start_date_sort": "1109-07-02",
-  "comments": "On his birth in 1109, the year of rNgog Blo ldan shes rab (ID:3786)'s passing, see [TM8DW8WA]: 32-33, [VKBZTBWN]: 4b4-5, and [8GL7ZT7Y]: 15b2-3.\r\nOn the date of his passing in a \"sa mo glang\" year, see [R894SIKE]: 400, [VKBZTBWN]: 4b4-5 and 6a5. On the 23rd of the third month, see [95UZA9Y5]: 40/3/5.\r\nThe majority of the information available on Phya pa has been provided in [EZ5JXHJY] and [8S7FDMCJ]. Summaries of the same are also found in [LQZU66YX]: 37-40, [F4UK2S8P]: 2-3, and [BW9UR427]: 35-36 (in French).\r\nA list of his students is provided in [EZ5JXHJY]: 356, based on [MQB8JGAX]: 297/4, [KL9XTQWI]: I, 454, [4YEPFBIB]: 340-341, [8GL7ZT7Y], fol. 15b3, [VKBZTBWN], fol. 4b7-5a4.\r\n[FDEWZ2NZ]: 290 also mentions the list of the four \"jo sras\" from bSod nams dpal's Bla ma rngog pa yab sras rim par byon pa\u2019i rnam thar rin po che\u2019i rgyan gyi phreng ba.",
+  "comments": "The majority of the information available on Phya pa has been provided in [EZ5JXHJY] and [8S7FDMCJ]. Summaries of the same are also found in [LQZU66YX]: 37-40, [F4UK2S8P]: 2-3, and [BW9UR427]: 35-36 (in French).\r\n\r\n\r\nOn his birth in 1109, the year of rNgog Blo ldan shes rab (ID:3786)'s passing, see [TM8DW8WA]: 32-33, [VKBZTBWN]: 4b4-5, and [8GL7ZT7Y]: 15b2-3.\r\nOn the date of his passing in a \"sa mo glang\" year, see [R894SIKE]: 400, [VKBZTBWN]: 4b4-5 and 6a5. \r\n[95UZA9Y5]: 40/3/5 (reported in [7FZ3B926]: 111 and [MPRU5QUC]: 206) specifies the day \"sa mo glang gi lo'i nag pa zla ba nag po'i phyogs kyi tshes brgyad,\" i.e., on the 23rd of the third month.\r\n\r\nA list of his students is provided in [EZ5JXHJY]: 356, based on [MQB8JGAX]: 297/4, [KL9XTQWI]: I, 454, [4YEPFBIB]: 340-341, [8GL7ZT7Y], fol. 15b3, [VKBZTBWN], fol. 4b7-5a4.\r\n[FDEWZ2NZ]: 290 also mentions the list of the four \"jo sras\" from bSod nams dpal's Bla ma rngog pa yab sras rim par byon pa\u2019i rnam thar rin po che\u2019i rgyan gyi phreng ba.\r\n\r\n\r\nFour groups of students are mentioned in Tibetan sources (which do not imply that the members of the respective groups were studying with Phya pa at the same time), with occasional variations:\r\n\r\n1) The \"Eight Great Lions\" (seng chen brgyad). Eight scholars whose names contains the expression \"seng ge,\" likely connoting their expertise in epistemology. The standard list includes gTsang nag pa (ID:3839), Dan 'bag (ID:3840), 'Bru sha (ID:3841), rMa bya (ID:3842), rTsags/rTsegs (ID:4289), Myang/Nyang bran (ID:3844), and gNyal pa/dMyal ma (ID:6679). The eighth one is instead sometimes said to be gTsang pa 'Jam dpal (ID:6336), 'U yug pa (ID:3846), or mTshur ston (DI:4315).\r\n\r\n2) The \"four sons of noble families\" (jo sras mi bzhi) or the \"three sons of noble families\" (jo sras gsum). They are young noble men of the rNgog (ID:3847), 'Khon (ID:3848), Khu (ID:3849), and gNyos/sMyos (ID:3850). The four are listed in [VKBZTBWN]: 4a7 and [8GL7ZT7Y]: 15b3, whereas on 16a1 the author speaks of \"jo sras gsum.\" The four are also listed by bSod nams dpal, see [FDEWZ2NZ]: 290.\r\n\r\n3) The \"three wise ones\" (shes rab can mi gsum) or \"four wise ones\" (shes rab can mi bzhi). The threefold-list in [VKBZTBWN]: 5a1 has rKong po (ID:3852), lHo pa sgom gzan (ID:3853), Par bu ba/sPar phu ba (ID:3854). 'Gar dbang grub (ID:3851) is added in the fourfold list, e.g. in [R894SIKE]: 406.\r\n\r\n4) The \"three accomplished ones\" (grub thob mi gsum). These are students who later became famous masters: Dus gsum mkhyen pa (ID:3855), Phag mo gru pa (ID:3856), gSal sto (ID:3857). The third is sometimes replaced by Zhang tshal (ID:6409), or is suggested to be the latter's direct student.",
   "alternative_names": "phya pa\r\nphya\r\ncha pa\r\nchos kyi seng+ge\r\nphya pa chos seng ge ba \r\ndge' slong chos kyi seng ge\r\ndge bshes cha pa\r\ndge bshes chen po phya pa chos kyi seng ge \r\nslob dpon phya pa chos kyi seng ge \r\nslob dpon cha pa chos kyi seng ge\r\nslob dpon cha pa\r\ndpal phya pa\r\nrigs pa'i dbang phyug phya pa\r\nrigs pa'i dbang phyug chos kyi seng ge\r\nmkhas pa chen po cha pa",
   "external_links": "https://purl.bdrc.io/resource/P1404",
   "review": false,
