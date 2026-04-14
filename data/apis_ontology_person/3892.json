@@ -715,6 +715,38 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 7170,
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) lineage predecessor of 'phags pa blo gros rgyal mtshan (5838)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
+        "label": "'phags pa blo gros rgyal mtshan (5838)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58032026-01-26-141843 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52,
+        48
+      ]
+    },
+    {
       "id": 6941,
       "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) biographed in chos kyi rje sa skya pa\u1e47\u1e0dita kun dga' rgyal mtshan dpal bzang po'i rnam par thar pa 'bring po (7954)",
       "subj": {
@@ -1453,6 +1485,38 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 7169,
+      "label": "rje btsun grags pa rgyal mtshan (6128) lineage predecessor of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6128/",
+        "label": "rje btsun grags pa rgyal mtshan (6128)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58032026-01-26-141843 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52,
+        48
+      ]
     },
     {
       "id": 6421,

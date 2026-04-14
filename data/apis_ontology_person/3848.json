@@ -209,6 +209,38 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 7168,
+      "label": "bsod nams rtse mo (3848) lineage predecessor of rje btsun grags pa rgyal mtshan (6128)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3848/",
+        "label": "bsod nams rtse mo (3848)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6128/",
+        "label": "rje btsun grags pa rgyal mtshan (6128)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58032026-01-26-141843 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52,
+        48
+      ]
+    },
+    {
       "id": 4344,
       "label": "bsod nams rtse mo (3848) author of slob dpon phya pa'i bstod pa (6915)",
       "subj": {
@@ -378,6 +410,38 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 7167,
+      "label": "sa chen kun dga' snying po (4205) lineage predecessor of bsod nams rtse mo (3848)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4205/",
+        "label": "sa chen kun dga' snying po (4205)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3848/",
+        "label": "bsod nams rtse mo (3848)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58032026-01-26-141843 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52,
+        48
+      ]
     }
   ],
   "end_date_to": "1182-12-31",

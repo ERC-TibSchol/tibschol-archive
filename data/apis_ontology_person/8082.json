@@ -1,18 +1,18 @@
 {
-  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8060/",
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8082/",
   "relations": [
     {
-      "id": 7164,
-      "label": "mah\u0101vajr\u0101sana (8060) lineage predecessor of vajr\u0101sana (8075)",
+      "id": 7173,
+      "label": "'jam dbyangs mkhon ston (8082) lineage predecessor of byang chub sems dpa' chen po rin chen mgon (8083)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8060/",
-        "label": "mah\u0101vajr\u0101sana (8060)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8082/",
+        "label": "'jam dbyangs mkhon ston (8082)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8075/",
-        "label": "vajr\u0101sana (8075)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8083/",
+        "label": "byang chub sems dpa' chen po rin chen mgon (8083)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -34,17 +34,17 @@
       ]
     },
     {
-      "id": 7163,
-      "label": "jit\u0101ri (5555) lineage predecessor of mah\u0101vajr\u0101sana (8060)",
+      "id": 7172,
+      "label": "shar pa ye shes rin chen (8011) lineage predecessor of 'jam dbyangs mkhon ston (8082)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5555/",
-        "label": "jit\u0101ri (5555)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8011/",
+        "label": "shar pa ye shes rin chen (8011)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8060/",
-        "label": "mah\u0101vajr\u0101sana (8060)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8082/",
+        "label": "'jam dbyangs mkhon ston (8082)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -67,18 +67,18 @@
     }
   ],
   "end_date_to": null,
-  "end_date_from": "0980-01-01",
-  "end_date_sort": "0980-01-01",
-  "start_date_to": "0900-12-31",
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
   "start_date_from": null,
-  "start_date_sort": "0900-12-31",
-  "comments": "",
-  "alternative_names": "rdo rje gdan pa chen po\r\nabhij\u00f1a vajr\u0101sana guru",
-  "external_links": "https://purl.bdrc.io/resource/P43\r\nhttps://treasuryoflives.org/biographies/view/Mahavajrasana/6723",
+  "start_date_sort": null,
+  "comments": "Mentioned in [C2IPP7BQ]: 135, as a member of the Sa skya pa bodhisattva vows lineage, although without a date. He may be the same 'Jam dbyangs mKhon ston mentioned in the BDRC link below.",
+  "alternative_names": "",
+  "external_links": "https://purl.bdrc.io/resource/P0RK378",
   "review": false,
-  "start": "before 900",
-  "end": "after 980",
-  "name": "mah\u0101vajr\u0101sana",
+  "start": null,
+  "end": null,
+  "name": "'jam dbyangs mkhon ston",
   "gender": "male",
-  "nationality": "Indic"
+  "nationality": "Tibetan"
 }

@@ -2,6 +2,38 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5555/",
   "relations": [
     {
+      "id": 7163,
+      "label": "jit\u0101ri (5555) lineage predecessor of mah\u0101vajr\u0101sana (8060)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5555/",
+        "label": "jit\u0101ri (5555)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8060/",
+        "label": "mah\u0101vajr\u0101sana (8060)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58032026-01-26-141843 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52,
+        48
+      ]
+    },
+    {
       "id": 4131,
       "label": "rong pa 'gar dge ba gsal (6803) student of jit\u0101ri (5555)",
       "subj": {

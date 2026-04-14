@@ -329,6 +329,38 @@
       "end": null
     },
     {
+      "id": 7171,
+      "label": "'phags pa blo gros rgyal mtshan (5838) lineage predecessor of shar pa ye shes rin chen (8011)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
+        "label": "'phags pa blo gros rgyal mtshan (5838)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8011/",
+        "label": "shar pa ye shes rin chen (8011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58032026-01-26-141843 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52,
+        48
+      ]
+    },
+    {
       "id": 6937,
       "label": "'phags pa blo gros rgyal mtshan (5838) author of chos rje pa'i rnam thar bsdus pa (7953)",
       "subj": {
@@ -845,6 +877,38 @@
       "confidence": "Positive",
       "start": "1244",
       "end": "1244"
+    },
+    {
+      "id": 7170,
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) lineage predecessor of 'phags pa blo gros rgyal mtshan (5838)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
+        "label": "'phags pa blo gros rgyal mtshan (5838)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58032026-01-26-141843 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52,
+        48
+      ]
     },
     {
       "id": 3035,
