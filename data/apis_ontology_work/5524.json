@@ -3,7 +3,7 @@
   "relations": [
     {
       "id": 1757,
-      "label": "dge tshul gyi tshig le'ur byas pa sum brgya pa'i tshig don rab tu 'byed pa (5524) has as an instance dge tshul gyi tshig le'ur byas pa sum brgya pa'i tshig don rab tu 'byed pa (5523)",
+      "label": "dge tshul gyi tshig le'ur byas pa sum brgya pa'i tshig don rab tu 'byed pa (5524) has as an instance dge tshul gyi tshig le'ur byas pa sum rgya pa'i tshig don rab tu 'byed pa (5523)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5524/",
         "label": "dge tshul gyi tshig le'ur byas pa sum brgya pa'i tshig don rab tu 'byed pa (5524)",
@@ -12,7 +12,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5523/",
-        "label": "dge tshul gyi tshig le'ur byas pa sum brgya pa'i tshig don rab tu 'byed pa (5523)",
+        "label": "dge tshul gyi tshig le'ur byas pa sum rgya pa'i tshig don rab tu 'byed pa (5523)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -78,9 +78,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "exX0092026-04-1408-55-34\r\nexX0092026-04-1409-57-37",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -106,9 +106,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "exX0092026-04-1408-55-33",
+      "support_notes": "The cover page title of (ID:5523) identifies the \"dharma simha\" of the colophon as Cha pa Chos kyi seng ge (ID:3831).",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -117,8 +117,8 @@
   "start_date_to": "1169-12-31",
   "start_date_from": "1119-01-01",
   "start_date_sort": "1144-07-01",
-  "comments": "",
-  "alternative_names": "",
+  "comments": "The same scholar, identified in the colophon as \"dharma singha\" (=Tib. chos kyi seng ge) composed this commentary on the M\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101 (ID:3764) and on the M\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101v\u1e5btti (ID:3766), see (ID:4509).\r\nHe is likely the same person who composed a So thar mdo'i 'grel ba (ID:4507), whose colophon likewise names the author \"dharma singha.\"\r\n\r\nWhether the author is Phya pa Chos kyi seng ge (ID:3831) remains to be confirmed, notably upon systematic comparison with another commentary on the \u00b0k\u0101rik\u0101 titled dGe tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (ID:4511), the colophon of which names the author \"chos kyi seng ge\" and indicates he was a disciple of Bya 'dul (ID:3818).\r\nThe present work has parallels to (ID:4511), but is more detailed has more frequent mention and refutation of alternative views. However, (ID:4511) refers more systematically to the base text.\r\nParallels with the anonymous (ID:5253) should also be explored further.\r\n\r\nOther candidates for the authorship, see (ID:6566), and Phya pa's students (ID:3844) and (ID:3853).",
+  "alternative_names": "dge tshul gyi tshig le'ur byas pa'i tshig don gsal bar byed pa\r\ntshig le'ur byas pa sum brgya pa'i tshig don rab tu 'byed pa\r\n'dul ba suM rgya pa'i Tik chen cha pa chos kyi seng ges mdzad pa",
   "external_links": "",
   "review": true,
   "start": "after 1119 before 1169",

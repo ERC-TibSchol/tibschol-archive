@@ -52,8 +52,8 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex8001_2024-11-1408-36-05",
-      "support_notes": "Abhidharmasamuccaya lineage",
+      "tei_refs": "ex8001_2024-11-1408-36-05 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -82,13 +82,46 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 7189,
+      "label": "cog ro klu'i rgyal mtshan (4226) lineage predecessor of sna nam btsun pa ye shes sde (4227)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4226/",
+        "label": "cog ro klu'i rgyal mtshan (4226)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4227/",
+        "label": "sna nam btsun pa ye shes sde (4227)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
     }
   ],
   "end_date_to": "0900-12-31",
@@ -98,7 +131,7 @@
   "start_date_from": "0700-01-01",
   "start_date_sort": "0700-01-01",
   "comments": "",
-  "alternative_names": "zhang sna nam ye shes sde",
+  "alternative_names": "zhang sna nam ye shes sde\r\nzhang",
   "external_links": "https://purl.bdrc.io/resource/P8205",
   "review": true,
   "start": "after 700",
