@@ -3,7 +3,7 @@
   "relations": [
     {
       "id": 1379,
-      "label": "'dul TIka 'thad ldan (4682) has as an instance 'dul TIka 'thad ldan gyi gzhi smad (4683)",
+      "label": "'dul TIka 'thad ldan (4682) has as an instance 'dul TIka 'thad ldan (4683)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
         "label": "'dul TIka 'thad ldan (4682)",
@@ -12,7 +12,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4683/",
-        "label": "'dul TIka 'thad ldan gyi gzhi smad (4683)",
+        "label": "'dul TIka 'thad ldan (4683)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -33,17 +33,18 @@
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "comments": "Incomplete manuscript containing the last portion of the work.\r\nManuscript from sPo mi spyan drug provided by bKra shis dbang rgyal ([S635TW6P]: 106 \"spo mi spyan drug lung bkra shis dbang rgyal nas ma dpe mkh 'don gnang pa 'dul Tik 'thad ldan zhes bya ba'i gzhi smad la ldeb 44\").",
+  "tibetan_transliteration": "\u0f60\u0f51\u0f74\u0f63\u0f0b\u0f4a\u0f71\u0f72\u0f40\u0f0b\u0f60\u0f50\u0f51\u0f0b\u0f63\u0fa1\u0f53",
+  "comments": "Incomplete manuscript containing the last portion of the work (starting at the passage located on 135b1 in (ID:4681)).\r\nManuscript from sPo mi spyan drug provided by bKra shis dbang rgyal ([S635TW6P]: 106 \"spo mi spyan drug lung bkra shis dbang rgyal nas ma dpe mkh 'don gnang pa 'dul Tik 'thad ldan zhes bya ba'i gzhi smad la ldeb 44\").",
   "alternative_names": "bya 'dul 'dzin brtson 'grus 'bar gyis mdzad pa'i 'dul TIka 'thad ldan gyi gzhi smad",
   "external_links": "https://purl.bdrc.io/resource/MW1PD89051_963795",
   "review": false,
   "start": null,
-  "name": "'dul TIka 'thad ldan gyi gzhi smad",
+  "name": "'dul TIka 'thad ldan",
   "set_num": "Set 1",
   "volume": "30",
   "sb_text_number": "2",
   "pp_kdsb": "387-473",
-  "num_folios": "44",
+  "num_folios": "44(/?)",
   "signature_letter": null,
   "signature_number": null,
   "drepung_number": null,
@@ -52,5 +53,5 @@
   "tibschol_ref": "1_030_02",
   "availability": "available",
   "dimension": null,
-  "item_description": ""
+  "item_description": "The folio numbers are not visible on the images."
 }

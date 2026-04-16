@@ -86,8 +86,64 @@
       "end": null
     },
     {
+      "id": 7194,
+      "label": "'dul TIka 'thad ldan (4682) commentary on vinayas\u016btra (6821)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
+        "label": "'dul TIka 'thad ldan (4682)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6821/",
+        "label": "vinayas\u016btra (6821)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7195,
+      "label": "'dul TIka 'thad ldan (4682) has as an instance mdo' rtsa ba'i rnam bshad (8092)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
+        "label": "'dul TIka 'thad ldan (4682)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8092/",
+        "label": "mdo' rtsa ba'i rnam bshad (8092)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1379,
-      "label": "'dul TIka 'thad ldan (4682) has as an instance 'dul TIka 'thad ldan gyi gzhi smad (4683)",
+      "label": "'dul TIka 'thad ldan (4682) has as an instance 'dul TIka 'thad ldan (4683)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
         "label": "'dul TIka 'thad ldan (4682)",
@@ -96,7 +152,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4683/",
-        "label": "'dul TIka 'thad ldan gyi gzhi smad (4683)",
+        "label": "'dul TIka 'thad ldan (4683)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -135,7 +191,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex030102026-04-1512-19-04\r\nex0302026-04-1512-30-58",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -173,6 +229,7 @@
   "start_date_to": "1174-12-31",
   "start_date_from": null,
   "start_date_sort": "1174-12-31",
+  "tibetan_transliteration": "\u0f60\u0f51\u0f74\u0f63\u0f0b\u0f4a\u0f71\u0f72\u0f40\u0f0b\u0f60\u0f50\u0f51\u0f0b\u0f63\u0fa1\u0f53",
   "comments": "Could be the work listed as \"'dul Tik\" by A khu ching shes rab rgya mtsho in his Tho yig ([5RXEUKD9]: 536, No. 11708: bya 'dul 'dzin brtson 'grus 'bar gyi 'dul Tik dang 'dul ba'i spyi don).",
   "alternative_names": "bya 'dul 'dzin brtson 'grus 'bar gyis mdzad pa'i 'dul TIka 'thad ldan\r\nbya 'dul ba 'dzin pa chen pos mdzad pa'i 'dul Tik 'thad ldan zhes bya ba",
   "external_links": "",

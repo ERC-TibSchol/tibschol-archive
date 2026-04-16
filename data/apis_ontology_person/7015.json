@@ -3,10 +3,10 @@
   "relations": [
     {
       "id": 4651,
-      "label": "bu ston seng ge 'od (3) (7015) ordinator of brag kha ba grags pa seng ge (3907)",
+      "label": "bu ston seng ge 'od (2) (7015) ordinator of brag kha ba grags pa seng ge (3907)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7015/",
-        "label": "bu ston seng ge 'od (3) (7015)",
+        "label": "bu ston seng ge 'od (2) (7015)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -31,7 +31,7 @@
     },
     {
       "id": 4653,
-      "label": "khro phu rin po che bsod nams seng ge (7014) other relation to bu ston seng ge 'od (3) (7015)",
+      "label": "khro phu rin po che bsod nams seng ge (7014) other relation to bu ston seng ge 'od (2) (7015)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7014/",
         "label": "khro phu rin po che bsod nams seng ge (7014)",
@@ -40,7 +40,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7015/",
-        "label": "bu ston seng ge 'od (3) (7015)",
+        "label": "bu ston seng ge 'od (2) (7015)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -64,13 +64,14 @@
   "start_date_to": "1225-12-31",
   "start_date_from": null,
   "start_date_sort": "1225-12-31",
+  "tibetan_transliteration": "\u0f56\u0f74\u0f0b\u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f66\u0f7a\u0f44\u0f0b\u0f42\u0f7a\u0f0b\u0f60\u0f7c\u0f51 \u0f3c\u0f22\u0f3d",
   "comments": "",
   "alternative_names": "",
   "external_links": "",
   "review": false,
   "start": "before 1225",
   "end": "after 1270",
-  "name": "bu ston seng ge 'od (3)",
+  "name": "bu ston seng ge 'od (2)",
   "gender": "male",
   "nationality": "Tibetan"
 }
