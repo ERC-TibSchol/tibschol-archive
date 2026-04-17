@@ -207,6 +207,39 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 2518,
+      "label": "rong ston shes bya kun rig (6005) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": "1384-01-01",
+      "end_date_sort": "1384-01-01",
+      "start_date_to": null,
+      "start_date_from": "1384-01-01",
+      "start_date_sort": "1384-01-01",
+      "zotero_refs": "[R894SIKE]: 413 (de'i thugs kyi sras rong ston smra ba'i seng ge chen po ni | rgyal mo rong nas gzhon nu la gsang phu ne'u thog tu phebs |). Came from rGyal mo rong to gSang phu ne'u thog in his youth.\r\n[R894SIKE]: 1258 (gzhon pa'i dus nas dbus gtsang du byon te | gsang phur rigs pa'i gnas la sbyangs bas | dgung lo nyi shu tsam bzhes pa na rnam nges la mkhas shing rigs pa smra ba la 'gran zla med par gyur |). Studied the sciences (rigs gnas) and epistemology and logic in gSang phu.\r\n[FFU2SPAQ]: 6.\r\n[VTFXMPC9]: i-ii. Traveled to gSang phu at the age of seventeen (1384) for scholastic studies. Studied Abhisamay\u0101la\u1e43k\u0101ra (ID:3706) at gSang phu under rKong ston Blo gros dbang phyug.",
+      "tei_refs": "",
+      "support_notes": "Composition of rNam nges rnam bshad rtog ge'i snang ba (ID:6004).\r\nComposition of Theg pa chen po rgyud bla ma'i bstan bcos legs par bshad pa (ID:7864).\r\nComposition of Rong ston phar phyin (ID:6875).",
+      "confidence": "Positive",
+      "start": "after 1384",
+      "end": "after 1384 beore 1449",
+      "subject_of_teaching_vocab": [
+        10,
+        9,
+        56
+      ]
+    },
+    {
       "id": 5703,
       "label": "'jam dpal rgya mtsho (7061) active at gsang phu ne'u thog (4332)",
       "subj": {
@@ -235,39 +268,6 @@
       "end": "before 1428",
       "subject_of_teaching_vocab": [
         9
-      ]
-    },
-    {
-      "id": 2518,
-      "label": "rong ston shes bya kun rig (6005) active at gsang phu ne'u thog (4332)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
-        "label": "rong ston shes bya kun rig (6005)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
-        "label": "gsang phu ne'u thog (4332)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": "1384-01-01",
-      "end_date_sort": "1384-01-01",
-      "start_date_to": null,
-      "start_date_from": "1384-01-01",
-      "start_date_sort": "1384-01-01",
-      "zotero_refs": "[R894SIKE]: 413 (de'i thugs kyi sras rong ston smra ba'i seng ge chen po ni | rgyal mo rong nas gzhon nu la gsang phu ne'u thog tu phebs |). Came from rGyal mo rong to gSang phu ne'u thog in his youth.\r\n[R894SIKE]: 1258 (gzhon pa'i dus nas dbus gtsang du byon te | gsang phur rigs pa'i gnas la sbyangs bas | dgung lo nyi shu tsam bzhes pa na rnam nges la mkhas shing rigs pa smra ba la 'gran zla med par gyur |). Studied the sciences (rigs gnas) and epistemology and logic in gSang phu.\r\n[FFU2SPAQ]: 6.\r\n[RSAHY7SM]: II. Traveled to gSang phu at the age of seventeen (1384).",
-      "tei_refs": "",
-      "support_notes": "Composition of rNam nges rnam bshad rtog ge'i snang ba (ID:6004).\r\nComposition of Theg pa chen po rgyud bla ma'i bstan bcos legs par bshad pa (ID:7864).",
-      "confidence": "Positive",
-      "start": "after 1384",
-      "end": "after 1384 beore 1449",
-      "subject_of_teaching_vocab": [
-        10,
-        9,
-        56
       ]
     },
     {
@@ -386,6 +386,34 @@
       "start": "after 1300",
       "end": "after 1300",
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7215,
+      "label": "rong ston phar phyin (6875) composed at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6875/",
+        "label": "rong ston phar phyin (6875)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VTFXMPC9]: vi.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 1919,
@@ -882,6 +910,35 @@
       "end": null
     },
     {
+      "id": 7206,
+      "label": "rkong ston blo gros dbang phyug (8100) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8100/",
+        "label": "rkong ston blo gros dbang phyug (8100)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 2570,
       "label": "byams pa seng ge (6178) active at gsang phu ne'u thog (4332)",
       "subj": {
@@ -1320,6 +1377,34 @@
       "start": "after 1443",
       "end": "before 1513",
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7224,
+      "label": "tshad ma kun las btus pa zhes bya ba'i rab tu byed pa'i rgyan (8103) composed at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8103/",
+        "label": "tshad ma kun las btus pa zhes bya ba'i rab tu byed pa'i rgyan (8103)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Colophon: chos grwa chen po'i dpal gsang phu ne'u thog du sbyar ba rdzogs s+ho ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 3909,

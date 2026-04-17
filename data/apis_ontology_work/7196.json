@@ -3,7 +3,7 @@
   "relations": [
     {
       "id": 5347,
-      "label": "bstan rim chen mo (7196) records the teaching of rong pa phyag sor ba (3943)",
+      "label": "bstan rim chen mo (7196) records the teaching of rong pa lag sor ba (3943)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7196/",
         "label": "bstan rim chen mo (7196)",
@@ -12,9 +12,37 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3943/",
-        "label": "rong pa phyag sor ba (3943)",
+        "label": "rong pa lag sor ba (3943)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[AXC5KZK3]: 239-240.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7198,
+      "label": "bstan rim chen mo (7196) has as an instance bstan rim chen mo (8095)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7196/",
+        "label": "bstan rim chen mo (7196)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8095/",
+        "label": "bstan rim chen mo (8095)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -62,7 +90,7 @@
   "start_date_from": "1101-01-01",
   "start_date_sort": "1137-12-31",
   "tibetan_transliteration": "\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f62\u0f72\u0f58\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f58\u0f7c",
-  "comments": "Work reporting the teaching of Rong pa Lag sor ba (ID:7197).\r\nThe author is also reported to have composed a bstan rim on the basis of sermons by Rong pa Phyag sor pa (ID:3943) ([AXC5KZK3]: 239-240).",
+  "comments": "Composed as a memorandum (brjed byang), presumably on the basis of sermons by Rong pa Phyag sor pa (ID:3943) (see [AXC5KZK3]: 239-240).",
   "alternative_names": "",
   "external_links": "",
   "review": false,

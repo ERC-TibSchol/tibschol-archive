@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6771/",
   "relations": [
     {
+      "id": 7220,
+      "label": "rig pa'i dbang phyug dge ba rgyal mtshan (8102) active at nAlendra (6771)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8102/",
+        "label": "rig pa'i dbang phyug dge ba rgyal mtshan (8102)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6771/",
+        "label": "nAlendra (6771)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1462-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1462-12-31",
+      "start_date_to": null,
+      "start_date_from": "1436-01-01",
+      "start_date_sort": "1436-01-01",
+      "zotero_refs": "[JZP4CZRX], bdr:P2610. Abbot of the monastery.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1436",
+      "end": "before 1462",
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3980,
       "label": "rong ston shes bya kun rig (6005) active at nAlendra (6771)",
       "subj": {
@@ -22,7 +51,7 @@
       "start_date_to": "1436-12-31",
       "start_date_from": "1436-01-01",
       "start_date_sort": "1436-07-01",
-      "zotero_refs": "[FFU2SPAQ]\r\n[RSAHY7SM]",
+      "zotero_refs": "[FFU2SPAQ]\r\n[VTFXMPC9]",
       "tei_refs": "",
       "support_notes": "Founded the monastery.",
       "confidence": "Positive",

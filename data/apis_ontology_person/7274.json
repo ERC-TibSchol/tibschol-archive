@@ -1,6 +1,36 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7274/",
-  "relations": [],
+  "relations": [
+    {
+      "id": 7237,
+      "label": "brtson 'grus seng ge (3) (8112) student of spyan snga grags pa 'byung gnas (7274)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8112/",
+        "label": "brtson 'grus seng ge (3) (8112)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7274/",
+        "label": "spyan snga grags pa 'byung gnas (7274)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P3762.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
   "end_date_to": "1255-12-31",
   "end_date_from": "1255-01-01",
   "end_date_sort": "1255-07-02",

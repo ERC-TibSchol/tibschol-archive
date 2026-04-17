@@ -374,7 +374,7 @@
     },
     {
       "id": 182,
-      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) student of rong pa phyag sor ba (3943)",
+      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) student of rong pa lag sor ba (3943)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
         "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
@@ -383,7 +383,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3943/",
-        "label": "rong pa phyag sor ba (3943)",
+        "label": "rong pa lag sor ba (3943)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -406,34 +406,6 @@
       ]
     },
     {
-      "id": 3426,
-      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) author of 'dul ba'i spyi don (6545)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
-        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6545/",
-        "label": "'dul ba'i spyi don (6545)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5RXEUKD9]: 536, No. 11708.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 696,
       "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) author of 'dul ba 'od ldan gyi TIk+ka (4688)",
       "subj": {
@@ -454,9 +426,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex031022026-04-1608-43-48",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -831,6 +803,34 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 7196,
+      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) author of 'dul ba rin po che'i sgron ma (8093)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8093/",
+        "label": "'dul ba rin po che'i sgron ma (8093)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Colophon, fol. 10b1: \u2018dul ba ma lus pa'i snying po bsdu te bstan pa phrag dog med cing blo dang ldan pa rnams dga\u2019 bas rgyas par byed pa\u2019i rin po che\u2019i sgron ma zhes bya ba'i gtan | shag kya\u2019i dge' slong brtson 'grus \u2018bar gyis nye bar sbyar ba'o ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 6834,
       "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) active at pa rnam dga' gdong (7961)",
       "subj": {
@@ -860,34 +860,6 @@
       "subject_of_teaching_vocab": [
         8
       ]
-    },
-    {
-      "id": 5339,
-      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) author of bstan rim (7198)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
-        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7198/",
-        "label": "bstan rim (7198)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 3821,

@@ -1,0 +1,77 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8093/",
+  "relations": [
+    {
+      "id": 7197,
+      "label": "'dul ba rin po che'i sgron ma (8093) has as an instance 'dul ba rin po che'i sgron ma (8094)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8093/",
+        "label": "'dul ba rin po che'i sgron ma (8093)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8094/",
+        "label": "'dul ba rin po che'i sgron ma (8094)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7196,
+      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) author of 'dul ba rin po che'i sgron ma (8093)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8093/",
+        "label": "'dul ba rin po che'i sgron ma (8093)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Colophon, fol. 10b1: \u2018dul ba ma lus pa'i snying po bsdu te bstan pa phrag dog med cing blo dang ldan pa rnams dga\u2019 bas rgyas par byed pa\u2019i rin po che\u2019i sgron ma zhes bya ba'i gtan | shag kya\u2019i dge' slong brtson 'grus \u2018bar gyis nye bar sbyar ba'o ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1174-12-31",
+  "start_date_from": "1101-01-01",
+  "start_date_sort": "1137-12-31",
+  "tibetan_transliteration": "\u0f60\u0f51\u0f74\u0f63\u0f0b\u0f56\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f54\u0f7c\u0f0b\u0f46\u0f7a\u0f60\u0f72\u0f0b\u0f66\u0f92\u0fb2\u0f7c\u0f53\u0f0b\u0f58",
+  "comments": "Maybe identical with the \"'dul ba'i spyi don\" listed by A khu ching shes rab rgya mtsho in his Tho yig along with a \"'dul Tik.\" See [5RXEUKD9]: 536, No. 11708: bya 'dul 'dzin brtson 'grus 'bar gyi 'dul Tik dang 'dul ba'i spyi don.",
+  "alternative_names": "'dul ba ma lus rgya mtsho'i spyi'i rnam par bzhag pa\r\n'dul ba rgya mtsho\r\n'dul ba'i spyi don",
+  "external_links": "",
+  "review": false,
+  "start": "after 1101 before 1174",
+  "name": "'dul ba rin po che'i sgron ma",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/8/"
+  ]
+}

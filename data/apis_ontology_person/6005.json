@@ -31,8 +31,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 2516,
-      "label": "rong ston shes bya kun rig (6005) student of g.yag ston sangs rgyas dpal (6153)",
+      "id": 7205,
+      "label": "rong ston shes bya kun rig (6005) student of rkong ston blo gros dbang phyug (8100)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
         "label": "rong ston shes bya kun rig (6005)",
@@ -40,8 +40,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
-        "label": "g.yag ston sangs rgyas dpal (6153)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8100/",
+        "label": "rkong ston blo gros dbang phyug (8100)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -51,13 +51,17 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "[VTFXMPC9]: ii. Subjects: Pram\u0101\u1e47avini\u015bcaya (ID:3774), Ny\u0101yabindu (ID:5589), Abhisamay\u0101la\u1e43k\u0101ra (ID:3706) with commentary, exegetical traditions of Sv\u0101tantrika Madhyamaka.",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9,
+        13,
+        7
+      ]
     },
     {
       "id": 3962,
@@ -109,13 +113,104 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[EG6VZ8JK]: 23, translated from [8GL7ZT7Y].",
+      "zotero_refs": "[EG6VZ8JK]: 23, translated from [8GL7ZT7Y].\r\n[VTFXMPC9]: iii.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        8
+      ]
+    },
+    {
+      "id": 2516,
+      "label": "rong ston shes bya kun rig (6005) student of g.yag ston sangs rgyas dpal (6153)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
+        "label": "g.yag ston sangs rgyas dpal (6153)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": "1390-01-01",
+      "start_date_sort": "1390-01-01",
+      "zotero_refs": "[VTFXMPC9]: ii. Studied Abhisamay\u0101la\u1e43k\u0101ra (ID:3706) in the 1390s.\r\n[VTFXMPC9]: iii. Studies of perfection of wisdom and epistemology.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1390",
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        56,
+        7
+      ]
+    },
+    {
+      "id": 7210,
+      "label": "rong ston shes bya kun rig (6005) studies pram\u0101\u1e47av\u0101rttika (3772)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VTFXMPC9]: iii. With g.Yag phrug Sangs rgyas dpal (ID:6153).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7207,
+      "label": "rong ston shes bya kun rig (6005) studies ny\u0101yabindu (5589)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5589/",
+        "label": "ny\u0101yabindu (5589)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VTFXMPC9]: ii. Studies with rKong ston Blo gros dbang phyug (ID:8100) at gSang ph (ID:4332).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 2518,
@@ -138,9 +233,9 @@
       "start_date_to": null,
       "start_date_from": "1384-01-01",
       "start_date_sort": "1384-01-01",
-      "zotero_refs": "[R894SIKE]: 413 (de'i thugs kyi sras rong ston smra ba'i seng ge chen po ni | rgyal mo rong nas gzhon nu la gsang phu ne'u thog tu phebs |). Came from rGyal mo rong to gSang phu ne'u thog in his youth.\r\n[R894SIKE]: 1258 (gzhon pa'i dus nas dbus gtsang du byon te | gsang phur rigs pa'i gnas la sbyangs bas | dgung lo nyi shu tsam bzhes pa na rnam nges la mkhas shing rigs pa smra ba la 'gran zla med par gyur |). Studied the sciences (rigs gnas) and epistemology and logic in gSang phu.\r\n[FFU2SPAQ]: 6.\r\n[RSAHY7SM]: II. Traveled to gSang phu at the age of seventeen (1384).",
+      "zotero_refs": "[R894SIKE]: 413 (de'i thugs kyi sras rong ston smra ba'i seng ge chen po ni | rgyal mo rong nas gzhon nu la gsang phu ne'u thog tu phebs |). Came from rGyal mo rong to gSang phu ne'u thog in his youth.\r\n[R894SIKE]: 1258 (gzhon pa'i dus nas dbus gtsang du byon te | gsang phur rigs pa'i gnas la sbyangs bas | dgung lo nyi shu tsam bzhes pa na rnam nges la mkhas shing rigs pa smra ba la 'gran zla med par gyur |). Studied the sciences (rigs gnas) and epistemology and logic in gSang phu.\r\n[FFU2SPAQ]: 6.\r\n[VTFXMPC9]: i-ii. Traveled to gSang phu at the age of seventeen (1384) for scholastic studies. Studied Abhisamay\u0101la\u1e43k\u0101ra (ID:3706) at gSang phu under rKong ston Blo gros dbang phyug.",
       "tei_refs": "",
-      "support_notes": "Composition of rNam nges rnam bshad rtog ge'i snang ba (ID:6004).\r\nComposition of Theg pa chen po rgyud bla ma'i bstan bcos legs par bshad pa (ID:7864).",
+      "support_notes": "Composition of rNam nges rnam bshad rtog ge'i snang ba (ID:6004).\r\nComposition of Theg pa chen po rgyud bla ma'i bstan bcos legs par bshad pa (ID:7864).\r\nComposition of Rong ston phar phyin (ID:6875).",
       "confidence": "Positive",
       "start": "after 1384",
       "end": "after 1384 beore 1449",
@@ -151,8 +246,36 @@
       ]
     },
     {
+      "id": 7214,
+      "label": "rong ston shes bya kun rig (6005) teaches madhyamak\u0101loka (3734)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3734/",
+        "label": "madhyamak\u0101loka (3734)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VTFXMPC9]: v.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4306,
-      "label": "rong ston shes bya kun rig (6005) author of phar phyin Tik+ka (6875)",
+      "label": "rong ston shes bya kun rig (6005) author of rong ston phar phyin (6875)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
         "label": "rong ston shes bya kun rig (6005)",
@@ -161,7 +284,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6875/",
-        "label": "phar phyin Tik+ka (6875)",
+        "label": "rong ston phar phyin (6875)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -172,6 +295,62 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[5RXEUKD9]: 528, No. 11475.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7211,
+      "label": "rong ston shes bya kun rig (6005) studies hetubindu (5831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5831/",
+        "label": "hetubindu (5831)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VTFXMPC9]: iii. With g.Yag phrug Sangs rgyas dpal (ID:6153).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7213,
+      "label": "rong ston shes bya kun rig (6005) studies tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VTFXMPC9]: iii. With g.Yag phrug Sangs rgyas dpal (ID:6153).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -255,13 +434,41 @@
       "start_date_to": "1436-12-31",
       "start_date_from": "1436-01-01",
       "start_date_sort": "1436-07-01",
-      "zotero_refs": "[FFU2SPAQ]\r\n[RSAHY7SM]",
+      "zotero_refs": "[FFU2SPAQ]\r\n[VTFXMPC9]",
       "tei_refs": "",
       "support_notes": "Founded the monastery.",
       "confidence": "Positive",
       "start": "1436",
       "end": "1436",
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7209,
+      "label": "rong ston shes bya kun rig (6005) studies pram\u0101\u1e47asamuccaya (3770)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3770/",
+        "label": "pram\u0101\u1e47asamuccaya (3770)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VTFXMPC9]: iii. With g.Yag phrug Sangs rgyas dpal (ID:6153).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 2571,
@@ -278,15 +485,15 @@
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "end_date_to": "1387-12-31",
+      "end_date_from": "1387-01-01",
+      "end_date_sort": "1387-07-02",
+      "start_date_to": "1387-12-31",
+      "start_date_from": "1387-01-01",
+      "start_date_sort": "1387-07-02",
+      "zotero_refs": "[VTFXMPC9]: ii. With rKong ston Blo gros dbang phyug (ID:8100) at gSang phu (ID:4332).",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": "1387",
       "end": "1387"
@@ -418,13 +625,13 @@
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[RSAHY7SM]: II. Wrote a commentary on the Pram\u0101\u1e47avini\u015bcaya (ID:3774) at the age of 21.",
+      "end_date_to": "1388-12-31",
+      "end_date_from": "1388-01-01",
+      "end_date_sort": "1388-07-01",
+      "start_date_to": "1388-12-31",
+      "start_date_from": "1388-01-01",
+      "start_date_sort": "1388-07-01",
+      "zotero_refs": "[VTFXMPC9]: ii. Wrote a commentary on the Pram\u0101\u1e47avini\u015bcaya (ID:3774) at the age of 21.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -547,6 +754,34 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 7212,
+      "label": "rong ston shes bya kun rig (6005) studies v\u0101dany\u0101ya (3777)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3777/",
+        "label": "v\u0101dany\u0101ya (3777)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VTFXMPC9]: iii. With g.Yag phrug Sangs rgyas dpal (ID:6153).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 6787,
       "label": "rong ston shes bya kun rig (6005) author of theg pa chen po rgyud bla ma'i bstan bcos legs par bshad pa (7864)",
       "subj": {
@@ -595,7 +830,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[RSAHY7SM]: VII (based on Rong ston\u2019s biography by \u015a\u0101kya mchog ldan): \"Students from the very last period [of Rong ston's life]: the 'four famous ones': From Gsang-phu: Gra-ston-pa Yon-tan-rgya-mtsho...\"",
+      "zotero_refs": "[VTFXMPC9]: vii (based on Rong ston\u2019s biography by \u015a\u0101kya mchog ldan): \"Students from the very last period [of Rong ston's life]: the 'four famous ones': From Gsang-phu: Gra-ston-pa Yon-tan-rgya-mtsho...\"",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -714,7 +949,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[RSAHY7SM]: VII.",
+      "zotero_refs": "[VTFXMPC9]: vii.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -742,7 +977,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[RSAHY7SM]: VII.",
+      "zotero_refs": "[VTFXMPC9]: vii.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -770,7 +1005,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[RSAHY7SM]: VII.",
+      "zotero_refs": "[VTFXMPC9]: vii.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -824,12 +1059,12 @@
         "content_type_name": "person"
       },
       "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
+      "end_date_from": "1384-01-01",
+      "end_date_sort": "1384-01-01",
       "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[RSAHY7SM]:II. Received the vows of Bodhisattva as in the Bodhisattvabh\u016bmi.",
+      "start_date_from": "1384-01-01",
+      "start_date_sort": "1384-01-01",
+      "zotero_refs": "[VTFXMPC9]: ii. Rong ston received the vows of Bodhisattva as in the Bodhisattvabh\u016bmi.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -844,7 +1079,7 @@
   "start_date_from": "1367-01-01",
   "start_date_sort": "1367-07-02",
   "tibetan_transliteration": "\u0f62\u0f7c\u0f44\u0f0b\u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f64\u0f7a\u0f66\u0f0b\u0f56\u0fb1\u0f0b\u0f40\u0f74\u0f53\u0f0b\u0f62\u0f72\u0f42",
-  "comments": "[KM47ZZDJ] mentions a handwritten dbu med manuscript in 203 folios containing his gSung 'bum thor bu['i dkar chag dpag bsam ljon pa] as being part of the holdings of the Cultural Palace of Nationalities in Beijing, catalogue No. 3891.\r\n\r\nOn his life and the history of 'Phan po Nalendra, see [RSAHY7SM] and [FFU2SPAQ].\r\n\r\nOn the various names by which he is known see [UGZJBIWM]: 371.",
+  "comments": "On his life and the history of 'Phan po Nalendra, see [VTFXMPC9] and [FFU2SPAQ].\r\n\r\nOn the various names by which he is known see [UGZJBIWM]: 371.\r\n\r\nOn his writings, see [VTFXMPC9]: xiv.\r\n[KM47ZZDJ] mentions a handwritten dbu med manuscript in 203 folios containing his gSung 'bum thor bu['i dkar chag dpag bsam ljon pa] as being part of the holdings of the Cultural Palace of Nationalities in Beijing, catalogue No. 3891.",
   "alternative_names": "rong ston smra ba'i seng ge chen mo\r\nrong ston shAkya rgyal mtshan dpal bzang po\r\nrong ston chen po\r\nrong ston smra ba'i seng ge dka' bcu pa\r\nsmra ba'i seng ge rong ston chen po\r\nshes rab 'od zer\r\nshes bya kun rig\r\nsmra ba'i seng ge",
   "external_links": "https://purl.bdrc.io/resource/P431",
   "review": false,

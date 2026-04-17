@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4320/",
   "relations": [
     {
+      "id": 7228,
+      "label": "sa skya mkhan po dbang phyug dpal (4320) author of rtsod pa'i rgyan (8108)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4320/",
+        "label": "sa skya mkhan po dbang phyug dpal (4320)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8108/",
+        "label": "rtsod pa'i rgyan (8108)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "(ID:8109), fol. 10a4: dbang phyug dpal gyis brtsod pa'i rgyan 'di bshad ||. It is uncertain whether \"dbang phyug dpal\" is \"sa skya mkhan po dbang phyug dpal.\"",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 6467,
       "label": "sa skya mkhan po dbang phyug dpal (4320) lineage predecessor of nya dbon kun dga' dpal (6741)",
       "subj": {

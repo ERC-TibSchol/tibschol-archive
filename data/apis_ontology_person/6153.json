@@ -116,6 +116,35 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 7203,
+      "label": "g.yag ston sangs rgyas dpal (6153) student of sgra tshad pa rin chen rnam rgyal (7772)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
+        "label": "g.yag ston sangs rgyas dpal (6153)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7772/",
+        "label": "sgra tshad pa rin chen rnam rgyal (7772)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VTFXMPC9]: ii.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 4299,
       "label": "g.yag ston sangs rgyas dpal (6153) author of phar phyin dka' 'grel (6867)",
       "subj": {
@@ -219,15 +248,19 @@
       "end_date_from": null,
       "end_date_sort": null,
       "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "start_date_from": "1390-01-01",
+      "start_date_sort": "1390-01-01",
+      "zotero_refs": "[VTFXMPC9]: ii. Studied Abhisamay\u0101la\u1e43k\u0101ra (ID:3706) in the 1390s.\r\n[VTFXMPC9]: iii. Studies of perfection of wisdom and epistemology.",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
-      "start": null,
+      "start": "after 1390",
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9,
+        56,
+        7
+      ]
     },
     {
       "id": 6103,
