@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5657/",
   "relations": [
     {
+      "id": 7249,
+      "label": "gtsang dge'i 'byung gnas pa tshab dgon pa (5657) located within gtsang (5915)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5657/",
+        "label": "gtsang dge'i 'byung gnas pa tshab dgon pa (5657)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
+        "label": "gtsang (5915)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2036,
       "label": "mngon rtogs rgyan 'grel ba (4639) composed at gtsang dge'i 'byung gnas pa tshab dgon pa (5657)",
       "subj": {
@@ -37,9 +65,9 @@
   "longitude": null,
   "feature_code": "",
   "tibetan_transliteration": "\u0f42\u0f59\u0f44\u0f0b\u0f51\u0f42\u0f7a\u0f60\u0f72\u0f0b\u0f60\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f42\u0f53\u0f66\u0f0b\u0f54\u0f0b\u0f5a\u0f56\u0f0b\u0f51\u0f42\u0f7c\u0f53\u0f0b\u0f54",
-  "comments": null,
-  "alternative_names": null,
-  "external_links": null,
+  "comments": "Same as rgyal lha khang (ID:4343)?",
+  "alternative_names": "",
+  "external_links": "",
   "review": false,
   "label": "gtsang dge'i 'byung gnas pa tshab dgon pa",
   "start": null
