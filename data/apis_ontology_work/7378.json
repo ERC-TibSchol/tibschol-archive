@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7378/",
   "relations": [
     {
+      "id": 7266,
+      "label": "dbus mtha' rnam 'byed kyi 'grel pa dbu ma'i rgyan (7378) has as an instance dbus mtha'i 'grel pa dbu ma'i rgyan (8127)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7378/",
+        "label": "dbus mtha' rnam 'byed kyi 'grel pa dbu ma'i rgyan (7378)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8127/",
+        "label": "dbus mtha'i 'grel pa dbu ma'i rgyan (8127)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5793,
       "label": "dbus mtha' rnam 'byed kyi 'grel pa dbu ma'i rgyan (7378) commentary on madhy\u0101ntavibh\u0101ga (3748)",
       "subj": {

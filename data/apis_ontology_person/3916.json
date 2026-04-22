@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3916/",
   "relations": [
     {
+      "id": 7269,
+      "label": "bla ma dam pa bsod nams rgyal mtshan (3916) author of theg pa chen po rgyud bla ma'i bsdus don (8130)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3916/",
+        "label": "bla ma dam pa bsod nams rgyal mtshan (3916)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8130/",
+        "label": "theg pa chen po rgyud bla ma'i bsdus don (8130)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 664,
       "label": "bla ma dam pa bsod nams rgyal mtshan (3916) author of theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4635)",
       "subj": {
@@ -224,7 +252,7 @@
       "zotero_refs": "Author reported for instance (ID:7908), (ID:7910) and (ID:7911) in [8H6M69W4], No. 15738, 16000, and 16045: btsun pa bsod nams.",
       "tei_refs": "",
       "support_notes": "Based on the similarity of title with work (ID:7380), one can suppose that \"btsun pa bsod nams\" is Bla ma dam pa bsod nams rgyal mtshan (ID:3916).",
-      "confidence": "Uncertain",
+      "confidence": "Positive",
       "start": null,
       "end": null
     },
