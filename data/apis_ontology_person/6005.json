@@ -233,7 +233,7 @@
       "start_date_to": null,
       "start_date_from": "1384-01-01",
       "start_date_sort": "1384-01-01",
-      "zotero_refs": "[R894SIKE]: 413 (de'i thugs kyi sras rong ston smra ba'i seng ge chen po ni | rgyal mo rong nas gzhon nu la gsang phu ne'u thog tu phebs |). Came from rGyal mo rong to gSang phu ne'u thog in his youth.\r\n[R894SIKE]: 1258 (gzhon pa'i dus nas dbus gtsang du byon te | gsang phur rigs pa'i gnas la sbyangs bas | dgung lo nyi shu tsam bzhes pa na rnam nges la mkhas shing rigs pa smra ba la 'gran zla med par gyur |). Studied the sciences (rigs gnas) and epistemology and logic in gSang phu.\r\n[FFU2SPAQ]: 6.\r\n[VTFXMPC9]: i-ii. Traveled to gSang phu at the age of seventeen (1384) for scholastic studies. Studied Abhisamay\u0101la\u1e43k\u0101ra (ID:3706) at gSang phu under rKong ston Blo gros dbang phyug.",
+      "zotero_refs": "[R894SIKE]: 413 (de'i thugs kyi sras rong ston smra ba'i seng ge chen po ni | rgyal mo rong nas gzhon nu la gsang phu ne'u thog tu phebs |). Came from rGyal mo rong to gSang phu ne'u thog in his youth.\r\n[R894SIKE]: 1258 (gzhon pa'i dus nas dbus gtsang du byon te | gsang phur rigs pa'i gnas la sbyangs bas | dgung lo nyi shu tsam bzhes pa na rnam nges la mkhas shing rigs pa smra ba la 'gran zla med par gyur |). Studied the sciences (rigs gnas) and epistemology and logic in gSang phu.\r\n[FFU2SPAQ]: 6.\r\n[VTFXMPC9]: i-ii. Traveled to gSang phu at the age of seventeen (1384) for scholastic studies. Studied Abhisamay\u0101la\u1e43k\u0101ra (ID:3706) at gSang phu under rKong ston Blo gros dbang phyug.\r\n[Q922IUFM]: 1: 45-46.",
       "tei_refs": "",
       "support_notes": "Composition of rNam nges rnam bshad rtog ge'i snang ba (ID:6004).\r\nComposition of Theg pa chen po rgyud bla ma'i bstan bcos legs par bshad pa (ID:7864).\r\nComposition of Rong ston phar phyin (ID:6875).",
       "confidence": "Positive",
@@ -434,9 +434,9 @@
       "start_date_to": "1436-12-31",
       "start_date_from": "1436-01-01",
       "start_date_sort": "1436-07-01",
-      "zotero_refs": "[FFU2SPAQ]\r\n[VTFXMPC9]",
+      "zotero_refs": "[FFU2SPAQ]\r\n[VTFXMPC9]\r\n[Q922IUFM]: 1: 47-48.",
       "tei_refs": "",
-      "support_notes": "Founded the monastery.",
+      "support_notes": "Founded the monastery in 1435/1436.",
       "confidence": "Positive",
       "start": "1436",
       "end": "1436",
@@ -631,7 +631,7 @@
       "start_date_to": "1388-12-31",
       "start_date_from": "1388-01-01",
       "start_date_sort": "1388-07-01",
-      "zotero_refs": "[VTFXMPC9]: ii. Wrote a commentary on the Pram\u0101\u1e47avini\u015bcaya (ID:3774) at the age of 21.",
+      "zotero_refs": "[VTFXMPC9]: ii. Wrote a commentary on the Pram\u0101\u1e47avini\u015bcaya (ID:3774) at the age of 21.\r\n[Q922IUFM]: 1: 46. At the age of 27.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -929,6 +929,38 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 7296,
+      "label": "dge 'dun grub pa (7060) student of rong ston shes bya kun rig (6005)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
+        "label": "dge 'dun grub pa (7060)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 1: 44.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13,
+        7
+      ]
+    },
+    {
       "id": 3949,
       "label": "gung ru rin chen byang chub (6366) other relation to rong ston shes bya kun rig (6005)",
       "subj": {
@@ -1080,7 +1112,7 @@
   "start_date_sort": "1367-07-02",
   "tibetan_transliteration": "\u0f62\u0f7c\u0f44\u0f0b\u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f64\u0f7a\u0f66\u0f0b\u0f56\u0fb1\u0f0b\u0f40\u0f74\u0f53\u0f0b\u0f62\u0f72\u0f42",
   "comments": "On his life and the history of 'Phan po Nalendra, see [VTFXMPC9] and [FFU2SPAQ].\r\n\r\nOn the various names by which he is known see [UGZJBIWM]: 371.\r\n\r\nOn his writings, see [VTFXMPC9]: xiv.\r\n[KM47ZZDJ] mentions a handwritten dbu med manuscript in 203 folios containing his gSung 'bum thor bu['i dkar chag dpag bsam ljon pa] as being part of the holdings of the Cultural Palace of Nationalities in Beijing, catalogue No. 3891.",
-  "alternative_names": "rong ston smra ba'i seng ge chen mo\r\nrong ston shAkya rgyal mtshan dpal bzang po\r\nrong ston chen po\r\nrong ston smra ba'i seng ge dka' bcu pa\r\nsmra ba'i seng ge rong ston chen po\r\nshes rab 'od zer\r\nshes bya kun rig\r\nsmra ba'i seng ge",
+  "alternative_names": "rong ston smra ba'i seng ge chen mo\r\nrong ston shAkya rgyal mtshan\r\nrong ston shAkya rgyal mtshan dpal bzang po\r\nrong ston chen po\r\nrong ston smra ba'i seng ge dka' bcu pa\r\nsmra ba'i seng ge rong ston chen po\r\nshes rab 'od zer\r\nshes bya kun rig\r\nsmra ba'i seng ge",
   "external_links": "https://purl.bdrc.io/resource/P431",
   "review": false,
   "start": "1367",

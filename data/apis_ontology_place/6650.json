@@ -157,13 +157,13 @@
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 392 (chos mang du mkhyen nas khu ston la sogs pa dang 'grogs te | 'brom ston bzhud pa'i phyi de lo bya'i lo la dbus su phebs |).",
+      "end_date_to": "1045-12-31",
+      "end_date_from": "1045-01-01",
+      "end_date_sort": "1045-07-02",
+      "start_date_to": "1045-12-31",
+      "start_date_from": "1045-01-01",
+      "start_date_sort": "1045-07-02",
+      "zotero_refs": "[R894SIKE]: 392 (chos mang du mkhyen nas khu ston la sogs pa dang 'grogs te | 'brom ston bzhud pa'i phyi de lo bya'i lo la dbus su phebs |).\r\n[MPRU5QUC]: 204.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -480,35 +480,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 3954,
-      "label": "rngog legs pa'i shes rab (3788) active at dbus (6650)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3788/",
-        "label": "rngog legs pa'i shes rab (3788)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6650/",
-        "label": "dbus (6650)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[MPRU5QUC]: 204.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1045",
-      "end": "1045",
-      "subject_of_teaching_vocab": []
     }
   ],
   "start_date_to": null,

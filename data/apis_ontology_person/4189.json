@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4189/",
   "relations": [
     {
-      "id": 391,
-      "label": "sgam po pa bsod nams rin chen (4189) student of bya yul ba chen po gzhon nu 'od (3915)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4189/",
-        "label": "sgam po pa bsod nams rin chen (4189)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3915/",
-        "label": "bya yul ba chen po gzhon nu 'od (3915)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[64YBVNDG]: 626.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 392,
       "label": "sgam po pa bsod nams rin chen (4189) student of snyug rum pa brtson 'grus rgyal mtshan (4190)",
       "subj": {
@@ -52,6 +23,35 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[64YBVNDG]: 626.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 391,
+      "label": "sgam po pa bsod nams rin chen (4189) student of bya yul ba chen po gzhon nu 'od (3915)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4189/",
+        "label": "sgam po pa bsod nams rin chen (4189)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3915/",
+        "label": "bya yul ba chen po gzhon nu 'od (3915)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 1: 37.\r\n[64YBVNDG]: 626.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

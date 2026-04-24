@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
   "relations": [
     {
+      "id": 7297,
+      "label": "dge 'dun grub pa (7060) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
+        "label": "dge 'dun grub pa (7060)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 1: 44. In 'On, with Tsong kha pa (ID:5636).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4946,
       "label": "dge 'dun grub pa (7060) author of rnam 'grel gyi TIka chung (7108)",
       "subj": {
@@ -50,7 +78,7 @@
       "start_date_to": null,
       "start_date_from": "1400-01-01",
       "start_date_sort": "1400-01-01",
-      "zotero_refs": "[BKUHJCNA]: 757. He went to Gsang phu as attendant to Rgyud smad shes rab seng ge (ID: 4123) and studied phar, tshad, and dbu ma...also, he was Shes rab seng ge's copyist when the latter was composing his Rnam 'grel gyi TIkka (ID: 7100) and Dge 'dun grub composed the beginning and end verses. So, those at Gsang phu would say: \"If a work is done by the copyist Dge 'dun grub, the composition of that TIkka will be pleasing to all!\" (yig mkhan dge 'dun grub kyis byas na TIkka rtsom pa sus kyang 'ong).",
+      "zotero_refs": "[BKUHJCNA]: 757. He went to Gsang phu as attendant to Rgyud smad shes rab seng ge (ID: 4123) and studied phar, tshad, and dbu ma...also, he was Shes rab seng ge's copyist when the latter was composing his Rnam 'grel gyi TIkka (ID: 7100) and Dge 'dun grub composed the beginning and end verses. So, those at Gsang phu would say: \"If a work is done by the copyist Dge 'dun grub, the composition of that TIkka will be pleasing to all!\" (yig mkhan dge 'dun grub kyis byas na TIkka rtsom pa sus kyang 'ong).\r\n[Q922IUFM]: 1: 44. Taught at gSang phu in 1425.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -79,13 +107,48 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[Q922IUFM]: 1: 44. Studies at 'On.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9,
+        13
+      ]
+    },
+    {
+      "id": 7296,
+      "label": "dge 'dun grub pa (7060) student of rong ston shes bya kun rig (6005)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
+        "label": "dge 'dun grub pa (7060)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 1: 44.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13,
+        7
+      ]
     },
     {
       "id": 4948,
@@ -105,14 +168,14 @@
       "end_date_to": null,
       "end_date_from": null,
       "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
+      "start_date_to": "1447-12-31",
+      "start_date_from": "1447-01-01",
+      "start_date_sort": "1447-07-02",
       "zotero_refs": "[BKUHJCNA]: 784 (dgon pa btab pa'i phyi de lo tshad ma rnam 'grel rgya 'grel rnams dang sbyar).",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "Established the monastery.",
       "confidence": "Positive",
-      "start": null,
+      "start": "1447",
       "end": null,
       "subject_of_teaching_vocab": []
     },

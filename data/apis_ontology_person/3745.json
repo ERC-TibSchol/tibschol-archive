@@ -373,6 +373,35 @@
       "end": null
     },
     {
+      "id": 7306,
+      "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745) active at yer pa (8150)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/8150/",
+        "label": "yer pa (8150)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 1: 89.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3756,
       "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745) author of ratnakara\u1e47\u1e0dodgh\u0101\u1e6damadhyamakopade\u015ba (6684)",
       "subj": {
@@ -422,7 +451,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[Q922IUFM]: 24. 'Brom received an oral tradition, which he passed on to sPyan snga ba (ID:3830).",
-      "tei_refs": "ex58012026-01-2114-24-24 (Bodhisattva vows lineage)",
+      "tei_refs": "ex58012026-01-2114-24-24 (Bodhisattva vows lineage)\r\nex21042026-16-45-31 (Bodhisattva vows lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -720,35 +749,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 2917,
-      "label": "nag tsho tshul khrims rgyal ba (6340) student of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
-        "label": "nag tsho tshul khrims rgyal ba (6340)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
-        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "BDRC",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2925,
       "label": "rgya lo tsA ba brtson 'grus seng ge (6343) student of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
       "subj": {
@@ -769,9 +769,38 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[Q922IUFM]: 1: 94.",
       "tei_refs": "",
-      "support_notes": "BDRC",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2917,
+      "label": "nag tsho tshul khrims rgyal ba (6340) student of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
+        "label": "nag tsho tshul khrims rgyal ba (6340)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 1: 94.",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -1004,6 +1033,64 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[64YBVNDG]: 639.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7307,
+      "label": "rin chen bzang po (1) (3784) student of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3784/",
+        "label": "rin chen bzang po (1) (3784)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 1: 94.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7308,
+      "label": "rma dge ba'i blo gros (6189) student of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6189/",
+        "label": "rma dge ba'i blo gros (6189)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 1: 94.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -1563,7 +1650,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex58012026-01-2114-24-24 (Bodhisattva vows lineage)\r\nex071012025-12-0115-13-47 (Perfection of wisdom lineage)",
+      "tei_refs": "ex58012026-01-2114-24-24 (Bodhisattva vows lineage)\r\nex21042026-16-45-31 (Bodhisattva vows lineage)\r\nex071012025-12-0115-13-47 (Perfection of wisdom lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
