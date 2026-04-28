@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/1389/",
   "xml_id": "ex002032025-11-0715-07-20",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex002032025-11-0715-07-20\" status=\"reviewed\">da ni gzhi shes pa'i dbang du byas nas ston pa ni | <quote>shes pas srid la mi gnas</quote><note type=\"editorial\">Only the vowels are legible on the reproduction.</note> ces <pb n=\"62a\"/><lb n=\"62a1\"/> pa la sogs pa ste | de la <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3827\">'brom</rs> ltar na <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3712\">seng ge bzang po</rs>'i lugs kyis le'u 'dis gnyen po'i de shes pa gtso bor bstan pa yin la | <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:5830\">sangs rgyas ye shes</rs> ltar na mi mthun pa'i de shes pa gtsor bor bstan no || </seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex002032025-11-0715-07-20\" status=\"finalized\">da ni gzhi shes pa'i dbang du byas nas ston pa ni | <quote>shes pas srid la mi gnas</quote><note type=\"editorial\">Only the vowels are legible on the reproduction.</note> ces <pb edRef=\"inst:4454\" n=\"62a\"/><lb edRef=\"inst:4454\" n=\"62a1\"/> pa la sogs pa ste | de la <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3827\">'brom</rs> ltar na <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3712\">seng ge bzang po</rs>'i lugs kyis le'u 'dis gnyen po'i de shes pa gtso bor bstan pa yin la | <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:5830\">sangs rgyas ye shes</rs> ltar na mi mthun pa'i de shes pa gtsor bor bstan no || </seg></TEI>",
   "source": "1_002_03_Ar_mngon rtogs rgyan grel rnam byed_etext.xml",
   "tibschol_refs": "1_002_03\n1_002_03b",
   "zotero_refs": "",
-  "status": "reviewed",
-  "location": "Ar chos skor p. 369 - 62a1"
+  "status": "finalized",
+  "location": "inst:4454: 61b8 - 62a1"
 }
