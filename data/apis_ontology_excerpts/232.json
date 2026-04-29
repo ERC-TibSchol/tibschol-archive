@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/232/",
   "xml_id": "ex4022024-09-1315-30-44",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex4022024-09-1315-30-44\" status=\"unreviewed\"><rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:4468\">bde bar gshegs pa'i bstan pa rin po che la 'jug pa'i rin chen phreng ba zhes bya ba'i rnam par [118a2] bshad pa</rs> || byang phyogs kyi rgyud kha ba can gyi ljongs su byung ba || <rs type=\"person\" ana=\"corpusmd:unnamed_reference\">bla ma rje btsun dam pa rnams</rs> kyi zhabs kyi pad+ma'i ze 'bru spyi bos len pa<anchor xml:id=\"a69\"/> || lung dang rigs pa'i gtsug lag dam pa rnams la yongs su sbyangs pa'i ngal ba mi dman zhing mi zhan la mi nyung byas pa || <lb n=\"118a3\"/> rigs pa dang grol ba'i spobs pa dge ba can || <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3806\">shAkya'i dge slong blo gros 'byung gnas</rs> zhes bya ba thub pa'i brtul zhugs la legs par gnas pas rang gi dran pa goms pa spel ba'i brjed byang tsam du nye bar sbyar ba rdzogs ||</seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex4022024-09-1315-30-44\" status=\"finalized\" ana=\"corpusmd:colophon\"><milestone unit=\"section\" n=\"Colophon (II, 118a1\u2013118a3; P547a2-547a4)\"/>\n         <rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:4468\">bde bar <abbr>gshegs</abbr> pa'i bstan pa rin po che la 'jug pa'i rin chen phreng ba zhes bya ba'i rnam par <lb edRef=\"inst:4470\" n=\"118a2\"/> bshad pa</rs> || byang phyogs kyi rgyud <rs type=\"place\" ana=\"corpusmd:named_reference\" ref=\"db:5559\">kha ba can gyi ljongs</rs> su byung ba || <rs type=\"person\" ana=\"corpusmd:unnamed_reference\" ref=\"db:4593\">bla ma rje btsun dam pa rnams</rs> kyi zhabs kyi pad+ma'i ze 'bru spyi bos len <choice><sic>pas</sic><corr>pa</corr></choice> || lung dang rigs pa'i gtsug lag dam pa rnams la yongs su sbyangs pa'i ngal ba mi dman zhing mi zhan la mi nyung byas pa || <lb edRef=\"inst:4470\" n=\"118a3\"/> rigs pa dang grol ba'i spobs pa dge ba can || <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3806\">shAkya'i dge slong blo gros 'byung gnas</rs> zhes bya ba thub pa'i brtul zhugs la legs par gnas pas rang gi dran pa goms pa spel ba'i brjed byang tsam du nye bar sbyar ba rdzogs ||</seg></TEI>",
   "source": "1_004_02_1_005_01_F_NO_Gro_bstan rim chen mo_etext.xml",
   "tibschol_refs": "1_004_02\n1_005_01",
   "zotero_refs": "",
-  "status": "unreviewed",
-  "location": "118a3"
+  "status": "finalized",
+  "location": "inst:4470: 118a1 - 118a3"
 }
