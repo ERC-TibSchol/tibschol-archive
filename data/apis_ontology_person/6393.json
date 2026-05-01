@@ -1,0 +1,214 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6393/",
+  "relations": [
+    {
+      "id": 6316,
+      "label": "ba ri lo tsA ba rin chen grags (6393) lineage predecessor of sa chen kun dga' snying po (4205)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6393/",
+        "label": "ba ri lo tsA ba rin chen grags (6393)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4205/",
+        "label": "sa chen kun dga' snying po (4205)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RA3FK3BK]: 245, n. 177. Tantric transmissions, lineages of Guhyasam\u0101ja, Yam\u0101ntaka, Kye rdor rgyud gsum, bDe mchog rgyud gsum, etc.",
+      "tei_refs": "ex58032026-01-26-141843 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52,
+        48,
+        3
+      ]
+    },
+    {
+      "id": 3040,
+      "label": "ba ri lo tsA ba rin chen grags (6393) active at sgrol ma lha khang (6404)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6393/",
+        "label": "ba ri lo tsA ba rin chen grags (6393)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6404/",
+        "label": "sgrol ma lha khang (6404)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RA3FK3BK]: 244, n. 170. Sgrol ma lha khang was built by Ba ri lo tsA ba.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3009,
+      "label": "ba ri lo tsA ba rin chen grags (6393) active at sa skya dgon pa (5733)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6393/",
+        "label": "ba ri lo tsA ba rin chen grags (6393)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
+        "label": "sa skya dgon pa (5733)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 263",
+      "tei_refs": "",
+      "support_notes": "Second abbot.",
+      "confidence": "Positive",
+      "start": "1103",
+      "end": "1103",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7166,
+      "label": "pu\u1e47ya\u015br\u012b (8080) lineage predecessor of ba ri lo tsA ba rin chen grags (6393)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8080/",
+        "label": "pu\u1e47ya\u015br\u012b (8080)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6393/",
+        "label": "ba ri lo tsA ba rin chen grags (6393)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58032026-01-26-141843 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52,
+        48
+      ]
+    },
+    {
+      "id": 3014,
+      "label": "sa chen kun dga' snying po (4205) student of ba ri lo tsA ba rin chen grags (6393)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4205/",
+        "label": "sa chen kun dga' snying po (4205)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6393/",
+        "label": "ba ri lo tsA ba rin chen grags (6393)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1112-12-31",
+      "end_date_from": "1105-01-01",
+      "end_date_sort": "1108-12-31",
+      "start_date_to": "1112-12-31",
+      "start_date_from": "1105-01-01",
+      "start_date_sort": "1108-12-31",
+      "zotero_refs": "[RA3FK3BK]: 137.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1105 before 1112",
+      "end": "after 1105 before 1112",
+      "subject_of_teaching_vocab": [
+        3
+      ]
+    },
+    {
+      "id": 4543,
+      "label": "mchims brtson 'grus seng ge (4261) student of ba ri lo tsA ba rin chen grags (6393)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4261/",
+        "label": "mchims brtson 'grus seng ge (4261)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6393/",
+        "label": "ba ri lo tsA ba rin chen grags (6393)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BUDA",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1112-12-31",
+  "end_date_from": "1112-01-01",
+  "end_date_sort": "1112-07-01",
+  "start_date_to": "1040-12-31",
+  "start_date_from": "1040-01-01",
+  "start_date_sort": "1040-07-01",
+  "tibetan_transliteration": "\u0f56\u0f0b\u0f62\u0f72\u0f0b\u0f63\u0f7c\u0f0b\u0f59\u0f71\u0f0b\u0f56\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f42\u0fb2\u0f42\u0f66",
+  "comments": "",
+  "alternative_names_legacy": "ba ri chos grags\r\nsa skya khri 'dzin",
+  "alternative_names": [
+    {
+      "label": "ba ri chos grags",
+      "language": "bo"
+    },
+    {
+      "label": "sa skya khri 'dzin",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P3731",
+  "review": false,
+  "start": "1040",
+  "end": "1112",
+  "name": "ba ri lo tsA ba rin chen grags",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

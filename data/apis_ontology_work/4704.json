@@ -1,0 +1,83 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4704/",
+  "relations": [
+    {
+      "id": 1389,
+      "label": "dge tshul rnams kyi tshig le'ur byas pa'i rnam bshad (4704) has as an instance dge tshul rnams kyi tshig le'ur byas pa'i rnam bshad (4703)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4704/",
+        "label": "dge tshul rnams kyi tshig le'ur byas pa'i rnam bshad (4704)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4703/",
+        "label": "dge tshul rnams kyi tshig le'ur byas pa'i rnam bshad (4703)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 706,
+      "label": "rog chos kyi dbang phyug (3969) author of dge tshul rnams kyi tshig le'ur byas pa'i rnam bshad (4704)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3969/",
+        "label": "rog chos kyi dbang phyug (3969)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4704/",
+        "label": "dge tshul rnams kyi tshig le'ur byas pa'i rnam bshad (4704)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1220-12-31",
+  "start_date_from": "1140-01-01",
+  "start_date_sort": "1180-07-01",
+  "tibetan_transliteration": "\u0f51\u0f42\u0f7a\u0f0b\u0f5a\u0f74\u0f63\u0f0b\u0f62\u0fa3\u0f58\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f5a\u0f72\u0f42\u0f0b\u0f63\u0f7a\u0f60\u0f74\u0f62\u0f0b\u0f56\u0fb1\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f56\u0f64\u0f51",
+  "comments": "",
+  "alternative_names_legacy": "gzhi thams cad yod par smra ba'i dge tshul rnams kyi tshig le'ur byas pa'i rnam par bshad pa",
+  "alternative_names": [
+    {
+      "label": "gzhi thams cad yod par smra ba'i dge tshul rnams kyi tshig le'ur byas pa'i rnam par bshad pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": "after 1140  before 1220",
+  "name": "dge tshul rnams kyi tshig le'ur byas pa'i rnam bshad",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/8/"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4458/",
+  "relations": [
+    {
+      "id": 1829,
+      "label": "blo ldan shes rab kyi rnam thar (2) (4458) has source blo ldan shes rab kyi rnam thar (1) (5837)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4458/",
+        "label": "blo ldan shes rab kyi rnam thar (2) (4458)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5837/",
+        "label": "blo ldan shes rab kyi rnam thar (1) (5837)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex3032023-07-1009-32-56",
+      "support_notes": "Instance (ID:4458) repeats the owner colophon by 'Phags pa (ID:5838), but it appears in the same script as the main text.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1275,
+      "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459) has as an instance blo ldan shes rab kyi rnam thar (2) (4458)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4459/",
+        "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4458/",
+        "label": "blo ldan shes rab kyi rnam thar (2) (4458)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1762,
+      "label": "gnyal gyi bri las (4460) owner of blo ldan shes rab kyi rnam thar (2) (4458)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4460/",
+        "label": "gnyal gyi bri las (4460)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4458/",
+        "label": "blo ldan shes rab kyi rnam thar (2) (4458)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex3032023-09-09-09-45\r\nex3032023-07-1009-37-17",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f56\u0fb3\u0f7c\u0f0b\u0f63\u0fa1\u0f53\u0f0b\u0f64\u0f7a\u0f66\u0f0b\u0f62\u0f56\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f50\u0f62 \u0f3c\u0f22\u0f3d",
+  "comments": "The recto of the first folio in [Z5AUD7GQ] is not that of the original manuscript but that of a text by bTsun pa dbu ma pa (No. 19622 in [8H6M69W4]). [I8IS9PPH] has the correct cover page.\r\n\r\nThe instance preserves 'Phag pa's owner colophon, followed by the new owner colophon.",
+  "alternative_names_legacy": "rngog lo tsA ba chen po'i rnam thar (catalogue)",
+  "alternative_names": [
+    {
+      "label": "rngog lo tsA ba chen po'i rnam thar (catalogue)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_A78062\r\nhttps://purl.bdrc.io/resource/WA0XLF775D904442E",
+  "review": true,
+  "start": null,
+  "name": "blo ldan shes rab kyi rnam thar (2)",
+  "set_num": "Set 1",
+  "volume": "3",
+  "sb_text_number": "3",
+  "pp_kdsb": "285-333",
+  "num_folios": "25",
+  "signature_letter": "ra",
+  "signature_number": "185",
+  "drepung_number": "17649",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "[I8IS9PPH]",
+  "tibschol_ref": "1_003_03",
+  "availability": "available",
+  "dimension": "34 x 7",
+  "item_description": "Script: dpe tshugs.\r\nLines per folio: 8.\r\nNumbering in letters (dbu can) on the recto of the folios\r\nFolio number on last folio: (nyer) lnga'o\r\nOrthography:\r\n- A few abbreviations (e.g. for slob dpon, la sogs pa, thams cad, sangs rgyas)\r\n- Use of numerals for numbers"
+}

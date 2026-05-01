@@ -1,0 +1,142 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5744/",
+  "relations": [
+    {
+      "id": 3906,
+      "label": "tshal yang dgon (5744) located within tshal (6748)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5744/",
+        "label": "tshal yang dgon (5744)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6748/",
+        "label": "tshal (6748)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3904,
+      "label": "'gro mgon gtsang pa rgya ras ye shes rdo rje (6747) active at tshal yang dgon (5744)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6747/",
+        "label": "'gro mgon gtsang pa rgya ras ye shes rdo rje (6747)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5744/",
+        "label": "tshal yang dgon (5744)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 94. Founds the Yang dgon monastery of Tshal.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1175",
+      "end": "1175",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2016,
+      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi rnam par bshad pa nges don rab gsal snang ba (1) (4660) written at tshal yang dgon (5744)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4660/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi rnam par bshad pa nges don rab gsal snang ba (1) (4660)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5744/",
+        "label": "tshal yang dgon (5744)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex2702_2024-09-1114-42-583",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3907,
+      "label": "tsong kha pa blo bzang grags pa (5636) active at tshal yang dgon (5744)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5636/",
+        "label": "tsong kha pa blo bzang grags pa (5636)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5744/",
+        "label": "tshal yang dgon (5744)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 114. Studied gso ba rig pa with the sman pa dKon mchog skyabs.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "start_date_to": "1175-12-31",
+  "start_date_from": "1175-01-01",
+  "start_date_sort": "1175-07-02",
+  "latitude": null,
+  "longitude": null,
+  "feature_code": "",
+  "tibetan_transliteration": "\u0f5a\u0f63\u0f0b\u0f61\u0f44\u0f0b\u0f51\u0f42\u0f7c\u0f53",
+  "comments": "See [CCSBSVCA]: 94.",
+  "alternative_names_legacy": "dpal ldan yang dgon\r\nyang dgon",
+  "alternative_names": [
+    {
+      "label": "dpal ldan yang dgon",
+      "language": "bo"
+    },
+    {
+      "label": "yang dgon",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "label": "tshal yang dgon",
+  "start": "1175"
+}

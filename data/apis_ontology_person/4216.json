@@ -1,0 +1,117 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4216/",
+  "relations": [
+    {
+      "id": 419,
+      "label": "lcang ra ba ldum ston (4216) lineage predecessor of blo gros grags (4092)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4216/",
+        "label": "lcang ra ba ldum ston (4216)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4092/",
+        "label": "blo gros grags (4092)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 417,
+      "label": "mar pa do ba chos kyi dbang phyug (4215) lineage predecessor of lcang ra ba ldum ston (4216)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
+        "label": "mar pa do ba chos kyi dbang phyug (4215)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4216/",
+        "label": "lcang ra ba ldum ston (4216)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 418,
+      "label": "la yag pa byang chub dngos grub (4217) student of lcang ra ba ldum ston (4216)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4217/",
+        "label": "la yag pa byang chub dngos grub (4217)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4216/",
+        "label": "lcang ra ba ldum ston (4216)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 560 ([la yag pa] bcu bdun lon pa'i tshe gtsang du byon nas dge bshes lcang ra ba ldum ston dang | mdar skyogs me la sogs pa'i sar byams chos dang spyod phyogs tshar re mjal |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        48,
+        56
+      ]
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": "1100-12-31",
+  "start_date_from": "1100-01-01",
+  "start_date_sort": "1100-07-02",
+  "tibetan_transliteration": "\u0f63\u0f95\u0f44\u0f0b\u0f62\u0f0b\u0f56\u0f0b\u0f63\u0fa1\u0f74\u0f58\u0f0b\u0f66\u0f9f\u0f7c\u0f53",
+  "comments": "",
+  "alternative_names_legacy": "lcang ra ldum ston",
+  "alternative_names": [
+    {
+      "label": "lcang ra ldum ston",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "1100",
+  "end": null,
+  "name": "lcang ra ba ldum ston",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

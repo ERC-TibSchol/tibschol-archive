@@ -1,0 +1,197 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7220/",
+  "relations": [
+    {
+      "id": 5411,
+      "label": "rong pa shes rab seng ge (7220) student of thar pa lo tsA ba nyi ma rgyal mtshan (4015)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7220/",
+        "label": "rong pa shes rab seng ge (7220)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4015/",
+        "label": "thar pa lo tsA ba nyi ma rgyal mtshan (4015)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 556-558.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5414,
+      "label": "rong pa shes rab seng ge (7220) active at thar pa gling (7219)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7220/",
+        "label": "rong pa shes rab seng ge (7220)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7219/",
+        "label": "thar pa gling (7219)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 556-557, n. 181.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5412,
+      "label": "rong pa shes rab seng ge (7220) student of stag sde pa seng ge rgyal mtshan (4127)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7220/",
+        "label": "rong pa shes rab seng ge (7220)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4127/",
+        "label": "stag sde pa seng ge rgyal mtshan (4127)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1276-12-31",
+      "end_date_from": "1276-01-01",
+      "end_date_sort": "1276-07-01",
+      "start_date_to": "1272-12-31",
+      "start_date_from": "1272-01-01",
+      "start_date_sort": "1272-07-01",
+      "zotero_refs": "[I58Z22ET]: 556, n. 181, citing Bu ston, rGyud sde'i zab don sgo 'byed rin chen gces pa'i sde mig ([shes rab seng ge] nyi shu rtsa gnyis pa la stag sde seng ge rgyal gyi drung du byon te lo lnga'i bar du phar tshad la sbyang | khyad par du tshad ma la mkhas par gyur te gtsang du grwa skor yang mdzad do |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1272",
+      "end": "1276",
+      "subject_of_teaching_vocab": [
+        9,
+        7
+      ]
+    },
+    {
+      "id": 5413,
+      "label": "rong pa shes rab seng ge (7220) active at gtsang (5915)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7220/",
+        "label": "rong pa shes rab seng ge (7220)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
+        "label": "gtsang (5915)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 556, n. 181, citing Bu ston, rGyud sde'i zab don sgo 'byed rin chen gces pa'i sde mig ([shes rab seng ge] nyi shu rtsa gnyis pa la stag sde seng ge rgyal gyi drung du byon te lo lnga'i bar du phar tshad la sbyang | khyad par du tshad ma la mkhas par gyur te gtsang du grwa skor yang mdzad do |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7142,
+      "label": "mchims nam mkha' grags (3977) ordinator of rong pa shes rab seng ge (7220)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7220/",
+        "label": "rong pa shes rab seng ge (7220)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 561, n. 88. Vows of rab tu byung and bsnyen par rdzogs, by Bla ma chos rgyal 'Phags pa and mkhan po mChims (maybe mchims nam mkha' grags (ID:3977)).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7141,
+      "label": "'phags pa blo gros rgyal mtshan (5838) ordinator of rong pa shes rab seng ge (7220)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
+        "label": "'phags pa blo gros rgyal mtshan (5838)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7220/",
+        "label": "rong pa shes rab seng ge (7220)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1280-12-31",
+      "end_date_from": "1280-01-01",
+      "end_date_sort": "1280-07-01",
+      "start_date_to": "1280-12-31",
+      "start_date_from": "1280-01-01",
+      "start_date_sort": "1280-07-01",
+      "zotero_refs": "[647FFPZR]: 561, n. 88. Vows of rab tu byung and bsnyen par rdzogs, by Bla ma chos rgyal 'Phags pa and mkhan po mChims (maybe mchims nam mkha' grags (ID:3977)).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1280",
+      "end": "1280"
+    }
+  ],
+  "end_date_to": "1315-12-31",
+  "end_date_from": "1313-01-01",
+  "end_date_sort": "1314-07-02",
+  "start_date_to": "1251-12-31",
+  "start_date_from": "1251-01-01",
+  "start_date_sort": "1251-07-02",
+  "tibetan_transliteration": "\u0f62\u0f7c\u0f44\u0f0b\u0f54\u0f0b\u0f64\u0f7a\u0f66\u0f0b\u0f62\u0f56\u0f0b\u0f66\u0f7a\u0f44\u0f0b\u0f42\u0f7a",
+  "comments": "See [I58Z22ET]: 556-559 and n. 181.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "1251",
+  "end": "after 1313 before 1315",
+  "name": "rong pa shes rab seng ge",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

@@ -1,0 +1,301 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+  "relations": [
+    {
+      "id": 3995,
+      "label": "karma pa rang byung rdo rje (3897) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+        "label": "karma pa rang byung rdo rje (3897)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1339-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1339-12-31",
+      "start_date_to": null,
+      "start_date_from": "1294-01-01",
+      "start_date_sort": "1294-01-01",
+      "zotero_refs": "[3WFNMIGQ]: 141.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1294",
+      "end": "before 1339",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 158,
+      "label": "karma pa rang byung rdo rje (3897) student of gsang phu ba blo gros mtshungs med (3896)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+        "label": "karma pa rang byung rdo rje (3897)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
+        "label": "gsang phu ba blo gros mtshungs med (3896)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3WFNMIGQ]: 149, n. 19.\r\n[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a7 (de la rje rang byung rdo rjes mang du gsan dang | des kyang de nyid la mang du gsan |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6886,
+      "label": "karma pa rang byung rdo rje (3897) author of theg pa chen po rgyud bla ma'i bsdus don gyi 'grel pa (7926)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+        "label": "karma pa rang byung rdo rje (3897)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7926/",
+        "label": "theg pa chen po rgyud bla ma'i bsdus don gyi 'grel pa (7926)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[GJR33LJY]: 213.\r\n[BAQ9MH4T]: 408.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2525,
+      "label": "karma pa rang byung rdo rje (3897) student of 'jam dbyangs shakya gzhon nu (3894)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+        "label": "karma pa rang byung rdo rje (3897)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 582 (de nas gsang phu gling smad kyi gdan sa shAkya gzhon nu la dbu ma'i skor mang po dang | byams chos lnga | mngon pa gong 'og dang sa sde | tshad ma la sogs mang du gsan |).\r\n[GJR33LJY]: 213.\r\n[BAQ9MH4T]: 322. Treatise: Ratnagotravibh\u0101ga (ID:3749).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10,
+        56
+      ]
+    },
+    {
+      "id": 4629,
+      "label": "karma pa rang byung rdo rje (3897) author of dam pa'i chos mngon pa'i don rnam par bsdu ba (7004)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+        "label": "karma pa rang byung rdo rje (3897)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7004/",
+        "label": "dam pa'i chos mngon pa'i don rnam par bsdu ba (7004)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5795,
+      "label": "dol po pa shes rab rgyal mtshan (4213) student of karma pa rang byung rdo rje (3897)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
+        "label": "dol po pa shes rab rgyal mtshan (4213)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+        "label": "karma pa rang byung rdo rje (3897)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 322. Treatise: Ratnagotravibh\u0101ga (ID:3749).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10,
+        56
+      ]
+    },
+    {
+      "id": 7139,
+      "label": "u rgyan pa rin chen dpal (7346) lineage predecessor of karma pa rang byung rdo rje (3897)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7346/",
+        "label": "u rgyan pa rin chen dpal (7346)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+        "label": "karma pa rang byung rdo rje (3897)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RCJ46BHM]: 329 (lineage of Madhyamaka by Mi bskyod rdo rje (ID:6895)).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 5784,
+      "label": "gsang phu ba blo gros mtshungs med (3896) lineage predecessor of karma pa rang byung rdo rje (3897)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
+        "label": "gsang phu ba blo gros mtshungs med (3896)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+        "label": "karma pa rang byung rdo rje (3897)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 321, n. 153. Based on [8GL7ZT7Y]. Transmission lineage of the Ratnagotravibh\u0101ga (ID:3749).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10,
+        56
+      ]
+    },
+    {
+      "id": 4370,
+      "label": "gsang phu ba blo gros mtshungs med (3896) student of karma pa rang byung rdo rje (3897)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
+        "label": "gsang phu ba blo gros mtshungs med (3896)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+        "label": "karma pa rang byung rdo rje (3897)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a7 (de la rje rang byung rdo rjes mang du gsan dang | des kyang de nyid la mang du gsan |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1339-12-31",
+  "end_date_from": "1339-01-01",
+  "end_date_sort": "1339-07-02",
+  "start_date_to": "1284-12-31",
+  "start_date_from": "1284-01-01",
+  "start_date_sort": "1284-07-01",
+  "tibetan_transliteration": "\u0f40\u0f62\u0fa8\u0f0b\u0f54\u0f0b\u0f62\u0f44\u0f0b\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f62\u0fa1\u0f7c\u0f0b\u0f62\u0f97\u0f7a",
+  "comments": "Third Karmapa.",
+  "alternative_names_legacy": "karma pa 03 rang byung rdo rje\r\nrdo rje kar ma pa",
+  "alternative_names": [
+    {
+      "label": "karma pa 03 rang byung rdo rje",
+      "language": "bo"
+    },
+    {
+      "label": "rdo rje kar ma pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P66",
+  "review": false,
+  "start": "1284",
+  "end": "1339",
+  "name": "karma pa rang byung rdo rje",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

@@ -1,0 +1,97 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7791/",
+  "relations": [
+    {
+      "id": 7318,
+      "label": "bla ma thang pa (7791) lineage predecessor of byang chub sems dpa' zla ba rgyal mtshan (6468)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7791/",
+        "label": "bla ma thang pa (7791)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6468/",
+        "label": "byang chub sems dpa' zla ba rgyal mtshan (6468)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex6405_2026-01-2621-55-26 (Madhyamaka lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 7317,
+      "label": "ku su lu chung pa (7790) lineage predecessor of bla ma thang pa (7791)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7790/",
+        "label": "ku su lu chung pa (7790)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7791/",
+        "label": "bla ma thang pa (7791)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex6405_2026-01-2621-55-26 (Madhyamaka lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "",
+  "comments": "",
+  "alternative_names_legacy": "jo bo thang pa dza\r\nthang pa dza ya a+ka ra\r\ndz+nya na ma ka ra",
+  "alternative_names": [
+    {
+      "label": "jo bo thang pa dza",
+      "language": "bo"
+    },
+    {
+      "label": "thang pa dza ya a+ka ra",
+      "language": "bo"
+    },
+    {
+      "label": "dz+nya na ma ka ra",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P2JM4",
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "bla ma thang pa",
+  "gender": "male",
+  "nationality": null
+}

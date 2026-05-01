@@ -1,0 +1,105 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6460/",
+  "relations": [
+    {
+      "id": 3921,
+      "label": "brag nag (6460) located within skyid smad (6717)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6460/",
+        "label": "brag nag (6460)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6717/",
+        "label": "skyid smad (6717)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3988,
+      "label": "gser mdog paN chen shAkya mchog ldan (6276) active at brag nag (6460)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6276/",
+        "label": "gser mdog paN chen shAkya mchog ldan (6276)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6460/",
+        "label": "brag nag (6460)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W42HFLNR]: 99.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1449",
+      "end": "after 1449",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3168,
+      "label": "rngog legs pa'i shes rab (3788) active at brag nag (6460)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3788/",
+        "label": "rngog legs pa'i shes rab (3788)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6460/",
+        "label": "brag nag (6460)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 392 (dang por brag nag gi rtsar dgon pa zhig mdzad pa las phyis jo bos lung bstan pa bzhin chu mo glang gi lo la ne'u thog gi gtsug lag khang chen mo btab |) . Founded a monastery at Brag nag gi rtsa prior to the foundation of gSang phu ne'u thog.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "start_date_to": "1073-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1073-12-31",
+  "latitude": null,
+  "longitude": null,
+  "feature_code": "",
+  "tibetan_transliteration": "\u0f56\u0fb2\u0f42\u0f0b\u0f53\u0f42",
+  "comments": "Discussed in [CCSBSVCA]: 271, n. 794. This may be Brag nag in the vicinity of gSang phu (ID:4332), but there is also a Brag nag in Yar 'brog (perhaps present-day Brag steng of sTag lung), rNgog Legs pa'i shes rab's home region.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "label": "brag nag",
+  "start": "before 1073"
+}

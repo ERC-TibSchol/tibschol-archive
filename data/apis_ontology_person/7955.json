@@ -1,0 +1,147 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7955/",
+  "relations": [
+    {
+      "id": 6945,
+      "label": "yar klungs pa (7955) author of bla ma chos kyi rje dpal ldan sa skya pa\u1e47\u1e0dita chen po'i rnam par thar pa mdor bsdus pa (7956)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7955/",
+        "label": "yar klungs pa (7955)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7956/",
+        "label": "bla ma chos kyi rje dpal ldan sa skya pa\u1e47\u1e0dita chen po'i rnam par thar pa mdor bsdus pa (7956)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6947,
+      "label": "yar klungs pa (7955) biographer of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7955/",
+        "label": "yar klungs pa (7955)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5FZQCNC]: 17.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6951,
+      "label": "yar klungs pa (7955) active at yar lung (5595)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7955/",
+        "label": "yar klungs pa (7955)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5595/",
+        "label": "yar lung (5595)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "His name suggests he originated from or was active in Yar lung.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6943,
+      "label": "yar klungs pa (7955) active at byang ngos (7952)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7955/",
+        "label": "yar klungs pa (7955)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7952/",
+        "label": "byang ngos (7952)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5FZQCNC]: 17. Composition of work (ID:7956).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        19
+      ]
+    }
+  ],
+  "end_date_to": "1300-12-31",
+  "end_date_from": "1251-01-01",
+  "end_date_sort": "1275-12-31",
+  "start_date_to": "1220-12-31",
+  "start_date_from": "1171-01-01",
+  "start_date_sort": "1196-01-01",
+  "tibetan_transliteration": "\u0f61\u0f62\u0f0b\u0f40\u0fb3\u0f74\u0f44\u0f66\u0f0b\u0f54",
+  "comments": "Biographer of Sa skya pa\u1e47\u1e0dita (ID:3892). Maybe Yar klungs pa Byang chub rgyal mtshan. See [Z5FZQCNC]: 17.",
+  "alternative_names_legacy": "rigs par smra ba yar klungs pa\r\nyar klungs pa byang chub rgyal mtshan",
+  "alternative_names": [
+    {
+      "label": "rigs par smra ba yar klungs pa",
+      "language": "bo"
+    },
+    {
+      "label": "yar klungs pa byang chub rgyal mtshan",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1171 before 1220",
+  "end": "after 1251 before 1300",
+  "name": "yar klungs pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

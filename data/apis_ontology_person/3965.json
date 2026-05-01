@@ -1,0 +1,178 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3965/",
+  "relations": [
+    {
+      "id": 209,
+      "label": "dbon dpal chen rdo rje gzhon nu (3965) student of 'dul 'dzin thag ma ba (3966)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3965/",
+        "label": "dbon dpal chen rdo rje gzhon nu (3965)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3966/",
+        "label": "'dul 'dzin thag ma ba (3966)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 108 (de'i slob ma ka ba dar seng | de'i slob ma thag ma rdor gzhon | de'i slob ma rnal 'byor byang seng dang | sbal ti jo sras dang | gzhu pa ston yes |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 705,
+      "label": "dbon dpal chen rdo rje gzhon nu (3965) author of 'dul ba'i bsdus don nor bu'i 'phreng ba (4702)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3965/",
+        "label": "dbon dpal chen rdo rje gzhon nu (3965)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4702/",
+        "label": "'dul ba'i bsdus don nor bu'i 'phreng ba (4702)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No. 16286: thag ma ba rdo rje gzhon nu",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 211,
+      "label": "sbal ti jo sras brtson 'grus dbang phyug (3967) student of dbon dpal chen rdo rje gzhon nu (3965)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3967/",
+        "label": "sbal ti jo sras brtson 'grus dbang phyug (3967)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3965/",
+        "label": "dbon dpal chen rdo rje gzhon nu (3965)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 108 (de'i slob ma ka ba dar seng | de'i slob ma thag ma rdor gzhon | de'i slob ma rnal 'byor byang seng dang | sbal ti jo sras dang | gzhu pa ston yes |).\r\n[Z5WBK2VV]: 50.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8,
+        18
+      ]
+    },
+    {
+      "id": 4375,
+      "label": "rnal 'byor byang chub seng ge (6929) student of dbon dpal chen rdo rje gzhon nu (3965)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6929/",
+        "label": "rnal 'byor byang chub seng ge (6929)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3965/",
+        "label": "dbon dpal chen rdo rje gzhon nu (3965)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 108 (de'i slob ma ka ba dar seng | de'i slob ma thag ma rdor gzhon | de'i slob ma rnal 'byor byang seng dang | sbal ti jo sras dang | gzhu pa ston yes |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 212,
+      "label": "gzhu ba ston yes (3968) student of dbon dpal chen rdo rje gzhon nu (3965)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3968/",
+        "label": "gzhu ba ston yes (3968)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3965/",
+        "label": "dbon dpal chen rdo rje gzhon nu (3965)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 108 (de'i slob ma ka ba dar seng | de'i slob ma thag ma rdor gzhon | de'i slob ma rnal 'byor byang seng dang | sbal ti jo sras dang | gzhu pa ston yes |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1199-12-31",
+  "end_date_from": "1139-01-01",
+  "end_date_sort": "1169-07-01",
+  "start_date_to": null,
+  "start_date_from": "1100-01-01",
+  "start_date_sort": "1100-01-01",
+  "tibetan_transliteration": "\u0f51\u0f56\u0f7c\u0f53\u0f0b\u0f51\u0f54\u0f63\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f62\u0fa1\u0f7c\u0f0b\u0f62\u0f97\u0f7a\u0f0b\u0f42\u0f5e\u0f7c\u0f53\u0f0b\u0f53\u0f74",
+  "comments": "",
+  "alternative_names_legacy": "thag ma pa rdo rje gzhon nu\r\nthag ma rdor gzhon",
+  "alternative_names": [
+    {
+      "label": "thag ma pa rdo rje gzhon nu",
+      "language": "bo"
+    },
+    {
+      "label": "thag ma rdor gzhon",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P1319",
+  "review": false,
+  "start": "after 1100",
+  "end": "after 1139 before 1199",
+  "name": "dbon dpal chen rdo rje gzhon nu",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

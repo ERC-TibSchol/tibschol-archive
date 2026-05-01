@@ -1,0 +1,71 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4481/",
+  "relations": [
+    {
+      "id": 1284,
+      "label": "dbu ma snang ba'i 'grel pa (4482) has as an instance dbu ma snang ba'i 'grel pa (4481)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4482/",
+        "label": "dbu ma snang ba'i 'grel pa (4482)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4481/",
+        "label": "dbu ma snang ba'i 'grel pa (4481)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f51\u0f56\u0f74\u0f0b\u0f58\u0f0b\u0f66\u0fa3\u0f44\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f54",
+  "comments": "Title reported in [8H6M69W4]: No. 15677: dbu ma'i yig cha phya pas byas pa.\r\nThe 82-folio manuscript with the signature \"tsa 107\" reported in [HMSTSJ7Q]: 71, with the colophon corresponding to that of the dBu ma snang ba'i 'grel pa (ID:4882) might correspond to this instance, or to instance (ID:7281), the title of which is also reported as \"dbu ma'i yig cha\" in [8H6M69W4]: No. 15668.",
+  "alternative_names_legacy": "dbu ma snang ba'i gzhung gi don rigs pa'i tshul dang myi 'gal zhing blo chung bas kyang bde blag du rtogs pa byis pa'i 'jug ngos (sic) su sbyar ba (colophon)\r\ndbu ma'i yig cha phya pas byas pa'o (cover page)\r\nphywa pa chos seng ges mdzad pa'i dbu ma snang ba'i 'grel pa",
+  "alternative_names": [
+    {
+      "label": "dbu ma snang ba'i gzhung gi don rigs pa'i tshul dang myi 'gal zhing blo chung bas kyang bde blag du rtogs pa byis pa'i 'jug ngos (sic) su sbyar ba (colophon)",
+      "language": "bo"
+    },
+    {
+      "label": "dbu ma'i yig cha phya pas byas pa'o (cover page)",
+      "language": "bo"
+    },
+    {
+      "label": "phywa pa chos seng ges mdzad pa'i dbu ma snang ba'i 'grel pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_394330",
+  "review": true,
+  "start": null,
+  "name": "dbu ma snang ba'i 'grel pa",
+  "set_num": "Set 1",
+  "volume": "6",
+  "sb_text_number": "4",
+  "pp_kdsb": "265-428",
+  "num_folios": "82",
+  "signature_letter": "tsa",
+  "signature_number": "107",
+  "drepung_number": "15677",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "1_006_04",
+  "availability": "available",
+  "dimension": "66 x 11",
+  "item_description": "Script: 'bru tsha.\r\nLines per folio: 8; 2 on fol. 82b.\r\nFolio numbering in letters on the recto from fol. 2.\r\nNumber of the last folio: gya gnyis bzhugs so.\r\nOrthography: \r\nPalatalization of m (e.g., myi, myed) with few exceptions\r\n- Use of inversed i\r\n- Particle pa/ba sometimes takes the form ba after final -n, and after final -r\r\n- Particle kyi is found after final -l, -n, -r and -s\r\n- Particle tu/du takes the form du after final -g and tu after final -n\r\n- Superabundant 'a rjes 'jug is not used except on a few occasions that have been corrected (e.g., fol. 1a)\r\n- Enclitic particles such as 'ang appear as separate syllable (with some exceptions)\r\n- Alternative spelling (the tsom for the tshom)\r\n- Tsheg always present before shad\r\n- Abbreviation \u1e47a for med\r\nOften leaves a large space before shad.\r\nOn fol. 2a, l. 8 seems to have written by a different hand up to \u201cnas bslang ba lus kyis,\u201d idem on fol. 2b1, up to \u201cde las chos kyis\u201d and on 3a8 up to \u201cde lta na.\u201d \r\nBlurring on top left of fol. 1b and fol. 4b, left extremity of fol. 2a, etc.\r\nA few marginal annotations and interlinear annotations, more numerous around fols. 29-32."
+}

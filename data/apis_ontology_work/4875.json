@@ -1,0 +1,141 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4875/",
+  "relations": [
+    {
+      "id": 2442,
+      "label": "chos nyid kyi khrid (4875) commentary on dharmadharmat\u0101vibha\u1e45ga (5634)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4875/",
+        "label": "chos nyid kyi khrid (4875)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5634/",
+        "label": "dharmadharmat\u0101vibha\u1e45ga (5634)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1463,
+      "label": "chos nyid kyi khrid (4875) has as an instance chos nyid kyi khrid (2) (4874)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4875/",
+        "label": "chos nyid kyi khrid (4875)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4874/",
+        "label": "chos nyid kyi khrid (2) (4874)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1863,
+      "label": "chos nyid kyi khrid (4875) has as an instance chos nyid kyi khrid (1) (5851)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4875/",
+        "label": "chos nyid kyi khrid (4875)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5851/",
+        "label": "chos nyid kyi khrid (1) (5851)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 798,
+      "label": "skyo ston smon lam tshul khrims (4052) author of chos nyid kyi khrid (4875)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4052/",
+        "label": "skyo ston smon lam tshul khrims (4052)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4875/",
+        "label": "chos nyid kyi khrid (4875)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:4874) in [8H6M69W4], No. 19635: skyo ston smon lam tshul khrims.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1299-12-31",
+  "start_date_from": "1229-01-01",
+  "start_date_sort": "1264-07-01",
+  "tibetan_transliteration": "\u0f46\u0f7c\u0f66\u0f0b\u0f49\u0f72\u0f51\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f41\u0fb2\u0f72\u0f51",
+  "comments": "Teaching originating from Maitreya taught by sKyo ston (ID:4052) to Chos kyi rgyal mtshan (ID:6458).",
+  "alternative_names_legacy": "lam gyi man ngag don bsdus\r\nchos nyid lam khrid rin chen",
+  "alternative_names": [
+    {
+      "label": "lam gyi man ngag don bsdus",
+      "language": "bo"
+    },
+    {
+      "label": "chos nyid lam khrid rin chen",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": "after 1229 before 1299",
+  "name": "chos nyid kyi khrid",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": []
+}

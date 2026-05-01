@@ -1,0 +1,67 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4644/",
+  "relations": [
+    {
+      "id": 1361,
+      "label": "dri ma med pa'i 'od (4645) has as an instance dri ma med pa'i 'od (4644)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4645/",
+        "label": "dri ma med pa'i 'od (4645)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4644/",
+        "label": "dri ma med pa'i 'od (4644)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f51\u0fb2\u0f72\u0f0b\u0f58\u0f0b\u0f58\u0f7a\u0f51\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f60\u0f7c\u0f51",
+  "comments": "[8H6M69W4] reports 267 folios (267 is the number on the last folio).",
+  "alternative_names_legacy": "dri ma med pa'i 'od (cover page, colophon)\r\ndri ma med pa'i 'od ces bya ba bden gnyis kyi rnam bshad rje lung pa'i gsung bzhin (cover page)",
+  "alternative_names": [
+    {
+      "label": "dri ma med pa'i 'od (cover page, colophon)",
+      "language": "bo"
+    },
+    {
+      "label": "dri ma med pa'i 'od ces bya ba bden gnyis kyi rnam bshad rje lung pa'i gsung bzhin (cover page)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_95877A",
+  "review": true,
+  "start": null,
+  "name": "dri ma med pa'i 'od",
+  "set_num": "Set 1",
+  "volume": "24",
+  "sb_text_number": "1",
+  "pp_kdsb": "9-525",
+  "num_folios": "259(/267)",
+  "signature_letter": "la",
+  "signature_number": "546",
+  "drepung_number": "19565",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "1_024_01",
+  "availability": "available",
+  "dimension": "23 x 7.5",
+  "item_description": "Script: dpe tshugs.\r\nTwo miniatures on fol. 1b.\r\nMissing folios: 17-24"
+}

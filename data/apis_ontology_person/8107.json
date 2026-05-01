@@ -1,0 +1,91 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8107/",
+  "relations": [
+    {
+      "id": 6984,
+      "label": "skyes mchog mchog gi sde (8107) lineage predecessor of mkhas mchog dul ba'i sde (7905)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8107/",
+        "label": "skyes mchog mchog gi sde (8107)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7905/",
+        "label": "mkhas mchog dul ba'i sde (7905)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58012026-01-2114-24-24 (Bodhisattva vows lineage)\r\nex21042026-16-45-31 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        48,
+        26
+      ]
+    },
+    {
+      "id": 7293,
+      "label": "bhadantavimuktisena (5548) lineage predecessor of skyes mchog mchog gi sde (8107)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5548/",
+        "label": "bhadantavimuktisena (5548)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8107/",
+        "label": "skyes mchog mchog gi sde (8107)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex21042026-16-45-31 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        48,
+        26
+      ]
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "",
+  "comments": "",
+  "alternative_names_legacy": "mchog gi sde",
+  "alternative_names": [
+    {
+      "label": "mchog gi sde",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P0RK973",
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "skyes mchog mchog gi sde",
+  "gender": "male",
+  "nationality": "Indic"
+}

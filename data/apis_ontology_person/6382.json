@@ -1,0 +1,117 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6382/",
+  "relations": [
+    {
+      "id": 2992,
+      "label": "byang 'chad khyung (6382) other relation to ngur smrig pa dar ma snying po (4291)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6382/",
+        "label": "byang 'chad khyung (6382)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
+        "label": "ngur smrig pa dar ma snying po (4291)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a1-2) (de nas nyang stod byang 'chad ces bya ba'i gtsug lag khang du brang ti'i zur chos pa dge ba'i bshes gnyen khyung zhes bya ba'i drung du nye bar bsnyen te rgyas pa'i bstan bcos byang chub sems dpa'i sa'i sdom gnyis phra mo dang bcas pa gsan te | khong du chud par mdzad |).\r\n[RA3FK3BK]: 137 (based on dMar ston's Zhib mo rdo rje). Assistant teacher (zur chos) of Brang ti.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5516,
+      "label": "byang 'chad khyung (6382) active at byang 'chad (4416)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6382/",
+        "label": "byang 'chad khyung (6382)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4416/",
+        "label": "byang 'chad (4416)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a1-2) (de nas nyang stod byang 'chad ces bya ba'i gtsug lag khang du brang ti'i zur chos pa dge ba'i bshes gnyen khyung zhes bya ba'i drung du nye bar bsnyen te rgyas pa'i bstan bcos byang chub sems dpa'i sa'i sdom gnyis phra mo dang bcas pa gsan te | khong du chud par mdzad |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52
+      ]
+    },
+    {
+      "id": 2993,
+      "label": "sa chen kun dga' snying po (4205) student of byang 'chad khyung (6382)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4205/",
+        "label": "sa chen kun dga' snying po (4205)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6382/",
+        "label": "byang 'chad khyung (6382)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a1-2) (de nas nyang stod byang 'chad ces bya ba'i gtsug lag khang du brang ti'i zur chos pa dge ba'i bshes gnyen khyung zhes bya ba'i drung du nye bar bsnyen te rgyas pa'i bstan bcos byang chub sems dpa'i sa'i sdom gnyis phra mo dang bcas pa gsan te | khong du chud par mdzad |).\r\n[RA3FK3BK]: 135-136 (based on dMar ston's Zhib mo rdo rje). Study of Abhidharma after Brang ti's passing.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    }
+  ],
+  "end_date_to": "1185-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1185-12-31",
+  "start_date_to": "1085-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1085-12-31",
+  "tibetan_transliteration": "\u0f56\u0fb1\u0f44\u0f0b\u0f60\u0f46\u0f51\u0f0b\u0f41\u0fb1\u0f74\u0f44",
+  "comments": "Appears as a figure different from Khyung rin chen grags (ID:3809) in [CJ75QQKN]: 339 (fol. 8a/170a1-3) and in dMar ston's Zhib mo rdo rje ([RA3FK3BK]: 134 and 137), whereas the [NA9AMDH6] supports the identification of the two figures in that Khyung rin chen grags is said to have held Byang 'chad (ID:4416) and to have taught Sa chen there.",
+  "alternative_names_legacy": "dge bshes khyung",
+  "alternative_names": [
+    {
+      "label": "dge bshes khyung",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "before 1085",
+  "end": "before 1185",
+  "name": "byang 'chad khyung",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

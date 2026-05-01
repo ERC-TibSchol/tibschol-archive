@@ -1,0 +1,143 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5203/",
+  "relations": [
+    {
+      "id": 1613,
+      "label": "sdom pa nyi shu pa'i 'grel pa (5203) has as an instance sdom pa nyi shu pa'i 'grel pa (5202)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5203/",
+        "label": "sdom pa nyi shu pa'i 'grel pa (5203)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5202/",
+        "label": "sdom pa nyi shu pa'i 'grel pa (5202)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 987,
+      "label": "sdom pa nyi shu pa'i 'grel pa (5203) commentary on bodhisattvasa\u1e43varavi\u1e43\u015baka (3759)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5203/",
+        "label": "sdom pa nyi shu pa'i 'grel pa (5203)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3759/",
+        "label": "bodhisattvasa\u1e43varavi\u1e43\u015baka (3759)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2178,
+      "label": "sdom pa nyi shu pa'i 'grel pa (5203) composed at chabs gser gyi lha khang (5756)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5203/",
+        "label": "sdom pa nyi shu pa'i 'grel pa (5203)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5756/",
+        "label": "chabs gser gyi lha khang (5756)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex75032023-09-282",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 986,
+      "label": "gnas drug pa (4079) author of sdom pa nyi shu pa'i 'grel pa (5203)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4079/",
+        "label": "gnas drug pa (4079)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5203/",
+        "label": "sdom pa nyi shu pa'i 'grel pa (5203)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex75032023-09-282",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f66\u0fa1\u0f7c\u0f58\u0f0b\u0f54\u0f0b\u0f49\u0f72\u0f0b\u0f64\u0f74\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f54",
+  "comments": "",
+  "alternative_names_legacy": "sdom pa nyi shu'i 'grel pa gnas drug pas mdzad pa\r\nsdom pa nyi shu pa'i 'grel pa gnas drug pas mdzad pa",
+  "alternative_names": [
+    {
+      "label": "sdom pa nyi shu'i 'grel pa gnas drug pas mdzad pa",
+      "language": "bo"
+    },
+    {
+      "label": "sdom pa nyi shu pa'i 'grel pa gnas drug pas mdzad pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "name": "sdom pa nyi shu pa'i 'grel pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/26/"
+  ]
+}

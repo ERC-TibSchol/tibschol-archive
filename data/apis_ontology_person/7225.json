@@ -1,0 +1,113 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7225/",
+  "relations": [
+    {
+      "id": 5429,
+      "label": "don mo ri pa rdo rje mdzes 'od (7225) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7225/",
+        "label": "don mo ri pa rdo rje mdzes 'od (7225)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[6BBLUKRN]: 184-185 and n. 246, citing Don mo ri pa, Dus gsum mkhyen pa'i rnam thar (tshad ma rnam nges la stsogs pa | rtog ge rig pa'i tshogs rnams ... bslabs pa yin). Studies with Chos sdings pa (ID:7224).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5425,
+      "label": "don mo ri pa rdo rje mdzes 'od (7225) student of khro phu lo tsA ba byams pa dpal (3878)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7225/",
+        "label": "don mo ri pa rdo rje mdzes 'od (7225)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3878/",
+        "label": "khro phu lo tsA ba byams pa dpal (3878)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[6BBLUKRN]: 184-185.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1232",
+      "end": "after 1232",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5424,
+      "label": "don mo ri pa rdo rje mdzes 'od (7225) student of 'gar dam pa chos sdings pa (7224)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7225/",
+        "label": "don mo ri pa rdo rje mdzes 'od (7225)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7224/",
+        "label": "'gar dam pa chos sdings pa (7224)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[6BBLUKRN]: 184-185 and n. 246, citing Don mo ri pa, Dus gsum mkhyen pa'i rnam thar. Maybe in 'Bri gung. The texts studied include logical works such as the Pram\u0101\u1e47avini\u015bcaya (ID:3774), some of the treatises of Maitreya (ID:6167) and Madhyamaka teachings (dbu'i ma [sic] chos rnams).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1221",
+      "end": "1221",
+      "subject_of_teaching_vocab": [
+        9,
+        56,
+        13,
+        3
+      ]
+    }
+  ],
+  "end_date_to": "1288-12-31",
+  "end_date_from": "1288-01-01",
+  "end_date_sort": "1288-07-01",
+  "start_date_to": "1203-12-31",
+  "start_date_from": "1203-01-01",
+  "start_date_sort": "1203-07-02",
+  "tibetan_transliteration": "\u0f51\u0f7c\u0f53\u0f0b\u0f58\u0f7c\u0f0b\u0f62\u0f72\u0f0b\u0f54\u0f0b\u0f62\u0fa1\u0f7c\u0f0b\u0f62\u0f97\u0f7a\u0f0b\u0f58\u0f5b\u0f7a\u0f66\u0f0b\u0f60\u0f7c\u0f51",
+  "comments": "The dates 1203-1288 are give in [6BBLUKRN]: 183.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "https://purl.bdrc.io/resource/P8838",
+  "review": false,
+  "start": "1203",
+  "end": "1288",
+  "name": "don mo ri pa rdo rje mdzes 'od",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

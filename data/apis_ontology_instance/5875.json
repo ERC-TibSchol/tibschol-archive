@@ -1,0 +1,63 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5875/",
+  "relations": [
+    {
+      "id": 1964,
+      "label": "dbu ma bden gnyis kyi rnam bshad (5874) has as an instance dbu ma bden pa gnyis rnam par bshad pa yi ge nyung ngus gzhung gsal bar byed pa (5875)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5874/",
+        "label": "dbu ma bden gnyis kyi rnam bshad (5874)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5875/",
+        "label": "dbu ma bden pa gnyis rnam par bshad pa yi ge nyung ngus gzhung gsal bar byed pa (5875)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f51\u0f56\u0f74\u0f0b\u0f58\u0f0b\u0f56\u0f51\u0f7a\u0f53\u0f0b\u0f54\u0f0b\u0f42\u0f49\u0f72\u0f66\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f54\u0f62\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f54\u0f0b\u0f61\u0f72\u0f0b\u0f42\u0f7a\u0f0b\u0f49\u0f74\u0f44\u0f0b\u0f44\u0f74\u0f66\u0f0b\u0f42\u0f5e\u0f74\u0f44\u0f0b\u0f42\u0f66\u0f63\u0f0b\u0f56\u0f62\u0f0b\u0f56\u0fb1\u0f7a\u0f51\u0f0b\u0f54",
+  "comments": "This 33-folio \"rnam bshad\" is followed by a \"bsdus don\" (ID: 4479) with continuous folio numbering, but the signature phyi tsa 120 is repeated on fol. 34 (where the 'bsdus don' begins). \r\nThe <<'Bras spungs dkar chag [8H6M69W4]>> has a single entry for both the \"rnam bshad\" and the \"bsdus don\" (No. 15724: dbu ma bden pa gnyis kyi don bsdus; phya pa chos kyi seng ge; 'bru tsha; 37f; 66.5 x 9.8cm).\r\n\r\nThe same manuscript is reproduced in [Z5AUD7GQ] and in [KNVAID52].",
+  "alternative_names_legacy": "dbu ma bden pa gnyis rnam par bshad pa yi ge nyung ngus gzhung gsal bar byed pa (colophon)",
+  "alternative_names": [
+    {
+      "label": "dbu ma bden pa gnyis rnam par bshad pa yi ge nyung ngus gzhung gsal bar byed pa (colophon)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_527657\r\nhttps://purl.bdrc.io/resource/MW3CN3014_B499C8",
+  "review": true,
+  "start": null,
+  "name": "dbu ma bden pa gnyis rnam par bshad pa yi ge nyung ngus gzhung gsal bar byed pa",
+  "set_num": "Set 1",
+  "volume": "6",
+  "sb_text_number": "2",
+  "pp_kdsb": "185-250",
+  "num_folios": "33",
+  "signature_letter": "tsa",
+  "signature_number": "120",
+  "drepung_number": "15724",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "[KNVAID52]",
+  "tibschol_ref": "1_006_02",
+  "availability": "available",
+  "dimension": "66.5 x 9.8",
+  "item_description": "Script: 'bru tsha.\r\nNo title on the cover page.\r\nVolume letter: Ga (the manuscript was part of a collected volume containing also (ID:4483) - kha - and presumably (ID:7280))\r\nOrthography:\r\n- Rare use of bindu for m\r\n- Palatalization of m (e.g., myi)\r\n- Particle pa/ba takes the form pa after final \u2013ng and final -r\r\n- Alternative prefix r- for l- (e.g., rkog du gyur)\r\n- lasogs pa for la sogs pa\r\n- Enclitic particles 'ang, 'am sometimes written as separate syllables"
+}

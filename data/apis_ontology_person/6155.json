@@ -1,0 +1,93 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6155/",
+  "relations": [
+    {
+      "id": 2521,
+      "label": "zhig po bdud rtsi (6155) active at rgya ra gad logs kyi dgon po (6156)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6155/",
+        "label": "zhig po bdud rtsi (6155)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6156/",
+        "label": "rgya ra gad logs kyi dgon po (6156)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 180 (de yang gsang phu'i rgya ra gad logs kyi dgon par sku gshegs nas...)\r\n[CCSBSVCA]: 479, n. 134. Passed away in rgya ra gang/gad logs monastery.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3922,
+      "label": "zhig po bdud rtsi (6155) student of zhang g.yu brag brtson 'grus grags pa (6409)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6155/",
+        "label": "zhig po bdud rtsi (6155)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6409/",
+        "label": "zhang g.yu brag brtson 'grus grags pa (6409)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 479, n. 134.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1199-12-31",
+  "end_date_from": "1199-01-01",
+  "end_date_sort": "1199-07-02",
+  "start_date_to": "1149-12-31",
+  "start_date_from": "1149-01-01",
+  "start_date_sort": "1149-07-02",
+  "tibetan_transliteration": "\u0f5e\u0f72\u0f42\u0f0b\u0f54\u0f7c\u0f0b\u0f56\u0f51\u0f74\u0f51\u0f0b\u0f62\u0fa9\u0f72",
+  "comments": "rNying ma scholar. Some activity ascribed to him are credited to lHa rje dGe ba 'bum (ID:6752), as he is reported to have manifested himself as dGe ba 'bum. See [CCSBSVCA]: 479-480 and n. 134.",
+  "alternative_names_legacy": "bdud rtsi zhig po\r\nsprul sku zhig po\r\nmtshur zhig po bdud rtsi",
+  "alternative_names": [
+    {
+      "label": "bdud rtsi zhig po",
+      "language": "bo"
+    },
+    {
+      "label": "sprul sku zhig po",
+      "language": "bo"
+    },
+    {
+      "label": "mtshur zhig po bdud rtsi",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P632",
+  "review": false,
+  "start": "1149",
+  "end": "1199",
+  "name": "zhig po bdud rtsi",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

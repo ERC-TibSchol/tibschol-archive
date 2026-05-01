@@ -1,0 +1,67 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4600/",
+  "relations": [
+    {
+      "id": 1340,
+      "label": "dbu ma'i man ngag gi bshad pa (4601) has as an instance dbu ma'i man ngag gi bshad pa (4600)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4601/",
+        "label": "dbu ma'i man ngag gi bshad pa (4601)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4600/",
+        "label": "dbu ma'i man ngag gi bshad pa (4600)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f51\u0f56\u0f74\u0f0b\u0f58\u0f60\u0f72\u0f0b\u0f58\u0f53\u0f0b\u0f44\u0f42\u0f0b\u0f42\u0f72\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f54",
+  "comments": "[S635TW6P] reports the signature 74, whereas it reads \"94,\" as reported in [8H6M69W4], No. 15617.",
+  "alternative_names_legacy": "dbu ma'i man ngag gi bshad pa (colophon, catalogue)\r\ndbu ma'i man ngag gi bshad pa pu to yab sras kyi lugs",
+  "alternative_names": [
+    {
+      "label": "dbu ma'i man ngag gi bshad pa (colophon, catalogue)",
+      "language": "bo"
+    },
+    {
+      "label": "dbu ma'i man ngag gi bshad pa pu to yab sras kyi lugs",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_4503E7",
+  "review": true,
+  "start": null,
+  "name": "dbu ma'i man ngag gi bshad pa",
+  "set_num": "Set 1",
+  "volume": "19",
+  "sb_text_number": "4",
+  "pp_kdsb": "317-334",
+  "num_folios": "9",
+  "signature_letter": "tsa",
+  "signature_number": "94",
+  "drepung_number": "15617",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "1_019_04",
+  "availability": "available",
+  "dimension": "84 x 8",
+  "item_description": "Script: dpe tshugs.\r\nInterlinear annotations."
+}

@@ -1,0 +1,119 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4498/",
+  "relations": [
+    {
+      "id": 4709,
+      "label": "Anonymous (8) (6943) has other relation with tshad ma rnam par nges pa'i bsdus don (4498)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6943/",
+        "label": "Anonymous (8) (6943)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4498/",
+        "label": "tshad ma rnam par nges pa'i bsdus don (4498)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Annotator of instance (ID:4498).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1292,
+      "label": "tshad ma rnam par nges pa'i bsdus don (4499) has as an instance tshad ma rnam par nges pa'i bsdus don (4498)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4499/",
+        "label": "tshad ma rnam par nges pa'i bsdus don (4499)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4498/",
+        "label": "tshad ma rnam par nges pa'i bsdus don (4498)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2314,
+      "label": "rdo rje dbang grags (2) (6034) sponsor of tshad ma rnam par nges pa'i bsdus don (4498)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6034/",
+        "label": "rdo rje dbang grags (2) (6034)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4498/",
+        "label": "tshad ma rnam par nges pa'i bsdus don (4498)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex8012023-01-2015-16-15",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f5a\u0f51\u0f0b\u0f58\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f54\u0f62\u0f0b\u0f44\u0f7a\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f56\u0f66\u0fa1\u0f74\u0f66\u0f0b\u0f51\u0f7c\u0f53",
+  "comments": "The anonymous annotator supplies the interpretation of \"lo tsa ba\" - rNgog Blo ldan shes rab (ID:3786) - three times.",
+  "alternative_names_legacy": "tshad ma rnam par nges pa'i bsdus don (colophon)",
+  "alternative_names": [
+    {
+      "label": "tshad ma rnam par nges pa'i bsdus don (colophon)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_4FEB71",
+  "review": true,
+  "start": null,
+  "name": "tshad ma rnam par nges pa'i bsdus don",
+  "set_num": "Set 1",
+  "volume": "8",
+  "sb_text_number": "1",
+  "pp_kdsb": "3-28",
+  "num_folios": "13",
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "rgyal rtse",
+  "zotero_ref": "",
+  "tibschol_ref": "1_008_01",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Script: 'bru tsha.\r\nFolio number on last folio (13a): bcu gsum bzhugs so.\r\nLines per folio: 8; 4 on fol. 13b.\r\nOrthography:\r\n- A few inverted i-s\r\n- Some cases of palatalization\r\n- Occasional alternation of prefixes (e.g., rngos for dngos, \u2019thun for mthun)\r\nInterlinear insertions (lemmas of PVin). Abundant marginal and interlinear notes (glosses, additional or alternative subdivisions).\r\nProofread."
+}

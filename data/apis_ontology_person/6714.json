@@ -1,0 +1,199 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6714/",
+  "relations": [
+    {
+      "id": 3871,
+      "label": "byang chub rin chen dpal bzang po (6714) active at rdzing kha (6731)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6714/",
+        "label": "byang chub rin chen dpal bzang po (6714)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6731/",
+        "label": "rdzing kha (6731)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 41. Born in rDzing kha.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3835,
+      "label": "byang chub rin chen dpal bzang po (6714) biographed in zul phu mkhan byang chub rin chen dpal bzang po'i rnam par thar pa (6715)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6714/",
+        "label": "byang chub rin chen dpal bzang po (6714)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6715/",
+        "label": "zul phu mkhan byang chub rin chen dpal bzang po'i rnam par thar pa (6715)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 38.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4160,
+      "label": "byang chub rin chen dpal bzang po (6714) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6714/",
+        "label": "byang chub rin chen dpal bzang po (6714)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1390-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1390-12-31",
+      "start_date_to": null,
+      "start_date_from": "1326-01-01",
+      "start_date_sort": "1326-01-01",
+      "zotero_refs": "[W4T5ZMUP]: 173 (16a6).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1326",
+      "end": "before 1390",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3831,
+      "label": "byang chub rin chen dpal bzang po (6714) active at zul phu (6492)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6714/",
+        "label": "byang chub rin chen dpal bzang po (6714)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6492/",
+        "label": "zul phu (6492)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 38 and 41. Seventh abbot of Zul phu.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1337",
+      "end": "1337",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4664,
+      "label": "nor bu dpal kyi ye shes (6716) biographer of byang chub rin chen dpal bzang po (6714)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6716/",
+        "label": "nor bu dpal kyi ye shes (6716)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6714/",
+        "label": "byang chub rin chen dpal bzang po (6714)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Work (ID:6715).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3832,
+      "label": "nor bu dpal kyi ye shes (6716) student of byang chub rin chen dpal bzang po (6714)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6716/",
+        "label": "nor bu dpal kyi ye shes (6716)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6714/",
+        "label": "byang chub rin chen dpal bzang po (6714)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 38.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1390-12-31",
+  "end_date_from": "1370-01-01",
+  "end_date_sort": "1380-07-01",
+  "start_date_to": "1316-12-31",
+  "start_date_from": "1316-01-01",
+  "start_date_sort": "1316-07-01",
+  "tibetan_transliteration": "\u0f56\u0fb1\u0f44\u0f0b\u0f46\u0f74\u0f56\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f51\u0f54\u0f63\u0f0b\u0f56\u0f5f\u0f44\u0f0b\u0f54\u0f7c",
+  "comments": "Seventh throne holder of Zul phu (ID:6492). Considered a rebirth of the fifth sKyor mo lung throne-holder brTson 'grus 'byung gnas (1248-1278). Ordained at 20. See [W4T5ZMUP]: 41.",
+  "alternative_names_legacy": "zul phu mkhan byang chub rin chen dpal bzang po'i rnam par thar pa",
+  "alternative_names": [
+    {
+      "label": "zul phu mkhan byang chub rin chen dpal bzang po'i rnam par thar pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://sakyaresearch.org/persons/1509",
+  "review": false,
+  "start": "1316",
+  "end": "after 1370 before 1390",
+  "name": "byang chub rin chen dpal bzang po",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

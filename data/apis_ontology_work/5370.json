@@ -1,0 +1,83 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5370/",
+  "relations": [
+    {
+      "id": 1689,
+      "label": "lam rim ka pa (5370) has as an instance lam rim ka pa (5369)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5370/",
+        "label": "lam rim ka pa (5370)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5369/",
+        "label": "lam rim ka pa (5369)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4291,
+      "label": "sangs rgyas dbon ston gzhon nu 'byung gnas (6400) author of lam rim ka pa (5370)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6400/",
+        "label": "sangs rgyas dbon ston gzhon nu 'byung gnas (6400)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5370/",
+        "label": "lam rim ka pa (5370)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1210-12-31",
+  "start_date_from": "1148-01-01",
+  "start_date_sort": "1179-07-02",
+  "tibetan_transliteration": "\u0f63\u0f58\u0f0b\u0f62\u0f72\u0f58\u0f0b\u0f40\u0f0b\u0f54",
+  "comments": "",
+  "alternative_names_legacy": "yar snon gyi bla ma sangs rgyas kyis mdzad pa'i lam rim ka pa",
+  "alternative_names": [
+    {
+      "label": "yar snon gyi bla ma sangs rgyas kyis mdzad pa'i lam rim ka pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": "after 1148 before 1210",
+  "name": "lam rim ka pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/12/"
+  ]
+}
