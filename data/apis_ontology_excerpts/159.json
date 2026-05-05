@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/159/",
   "xml_id": "ex3032023-07-1009-37-17",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" status=\"finalized\" xml:id=\"ex3032023-07-1009-37-17\">\n            <milestone unit=\"section\" n=\"Addition (25a5\u201325a8)\"/>\n            <milestone unit=\"section\" n=\"[4]\"/>\n            <lb n=\"25a8\"/> <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:4460\">gnyal gyi bri ldas</rs><anchor xml:id=\"a74\"/> kyi'o || dge'o ||</seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" status=\"finalized\" xml:id=\"ex3032023-07-1009-37-17\">\n            <milestone unit=\"section\" n=\"Addition (25a5\u201325a8)\"/>\n            <milestone unit=\"section\" n=\"[4]\"/>\n            <lb edRef=\"inst:4458\" n=\"25a8\"/> <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:4460\">gnyal gyi bri ldas</rs><anchor xml:id=\"a74\"/> kyi'o || dge'o ||</seg></TEI>",
   "source": "1_003_03_Gro_rngog lo rnam thar.xml",
   "tibschol_refs": "1_003_03",
   "zotero_refs": "",
   "status": "finalized",
-  "location": "25a8"
+  "location": "inst:4458: 25a8"
 }

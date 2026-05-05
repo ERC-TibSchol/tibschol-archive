@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/154/",
   "xml_id": "ex3032023-07-1009-21-34",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" status=\"reviewed\" xml:id=\"ex3032023-07-1009-21-34\"><lb n=\"1a4\"/><rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:4459\"><note type=\"gloss\"><rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3786\">rngog</rs></note> <rs type=\"person\" ana=\"corpusmd:unnamed_reference\" ref=\"db:3786\">lo tsha ba chen po</rs>'i rnam thar <abbr>bzhugs so</abbr></rs><note type=\"editorial\">Title in dbu can</note> ||</seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" status=\"reviewed\" xml:id=\"ex3032023-07-1009-21-34\"><lb edRef=\"inst:4458\" n=\"1a4\"/><rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:4459\"><note type=\"gloss\"><rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3786\">rngog</rs></note> <rs type=\"person\" ana=\"corpusmd:unnamed_reference\" ref=\"db:3786\">lo tsha ba chen po</rs>'i rnam thar <abbr>bzhugs so</abbr></rs><note type=\"editorial\">Title in dbu can</note> ||</seg></TEI>",
   "source": "1_003_03_Gro_rngog lo rnam thar.xml",
   "tibschol_refs": "1_003_03",
   "zotero_refs": "",
   "status": "reviewed",
-  "location": "1a4"
+  "location": "inst:4458: 1a4"
 }
