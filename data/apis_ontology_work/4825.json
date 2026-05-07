@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4825/",
   "relations": [
     {
-      "id": 5483,
-      "label": "skyes rab rgyud kyi dka' 'grel (4825) has as an instance skyes rab rgyud kyi dka' 'grel (2) (7253)",
+      "id": 772,
+      "label": "skyes rab rgyud kyi dka' 'grel (4825) commentary on j\u0101takam\u0101la (3768)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4825/",
         "label": "skyes rab rgyud kyi dka' 'grel (4825)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7253/",
-        "label": "skyes rab rgyud kyi dka' 'grel (2) (7253)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3768/",
+        "label": "j\u0101takam\u0101la (3768)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,9 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -58,8 +58,8 @@
       "end": null
     },
     {
-      "id": 772,
-      "label": "skyes rab rgyud kyi dka' 'grel (4825) commentary on j\u0101takam\u0101la (3768)",
+      "id": 5483,
+      "label": "skyes rab rgyud kyi dka' 'grel (4825) has as an instance skyes rab rgyud kyi dka' 'grel (2) (7253)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4825/",
         "label": "skyes rab rgyud kyi dka' 'grel (4825)",
@@ -67,10 +67,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3768/",
-        "label": "j\u0101takam\u0101la (3768)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7253/",
+        "label": "skyes rab rgyud kyi dka' 'grel (2) (7253)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -78,9 +78,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

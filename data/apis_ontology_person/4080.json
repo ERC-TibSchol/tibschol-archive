@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4080/",
   "relations": [
     {
-      "id": 6905,
-      "label": "skyabs mchog dpal bzang po (4080) author of rgyud bla'i rnam bshad (7934)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4080/",
-        "label": "skyabs mchog dpal bzang po (4080)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7934/",
-        "label": "rgyud bla'i rnam bshad (7934)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[ENNZCF55]: 68 and [BAQ9MH4T]: 348, n. 15.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 991,
       "label": "skyabs mchog dpal bzang po (4080) author of dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5209)",
       "subj": {
@@ -79,6 +51,34 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6905,
+      "label": "skyabs mchog dpal bzang po (4080) author of rgyud bla'i rnam bshad (7934)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4080/",
+        "label": "skyabs mchog dpal bzang po (4080)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7934/",
+        "label": "rgyud bla'i rnam bshad (7934)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ENNZCF55]: 68 and [BAQ9MH4T]: 348, n. 15.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

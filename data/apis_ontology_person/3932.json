@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3932/",
   "relations": [
     {
-      "id": 3793,
-      "label": "lha lung gi dbang phyug (3932) author of mchad kha pa'i grub mtha' gces bsdus kyi Tika chen (6693)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3932/",
-        "label": "lha lung gi dbang phyug (3932)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6693/",
-        "label": "mchad kha pa'i grub mtha' gces bsdus kyi Tika chen (6693)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5RXEUKD9]: 544, No. 11918.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 175,
       "label": "lha lung gi dbang phyug (3932) student of spyil phu pa chos kyi rgyal mtshan (3859)",
       "subj": {
@@ -57,6 +29,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3793,
+      "label": "lha lung gi dbang phyug (3932) author of mchad kha pa'i grub mtha' gces bsdus kyi Tika chen (6693)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3932/",
+        "label": "lha lung gi dbang phyug (3932)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6693/",
+        "label": "mchad kha pa'i grub mtha' gces bsdus kyi Tika chen (6693)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 544, No. 11918.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 5956,

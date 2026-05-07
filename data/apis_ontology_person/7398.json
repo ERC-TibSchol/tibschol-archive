@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7398/",
   "relations": [
     {
-      "id": 5853,
-      "label": "sangs rgyas gnyan ston chos kyi shes rab (7398) studies pram\u0101\u1e47avini\u015bcaya (3774)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7398/",
-        "label": "sangs rgyas gnyan ston chos kyi shes rab (7398)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 867 (slob dpon g.ye la tshad ma rnam nges la sogs | dbu ma | bslab btus | spyod 'jug sogs gsan |). Study with Slob dpon g.Ye (ID:7399).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 5851,
       "label": "sangs rgyas gnyan ston chos kyi shes rab (7398) student of slob dpon g.ye (7399)",
       "subj": {
@@ -60,6 +32,34 @@
         9,
         13
       ]
+    },
+    {
+      "id": 5853,
+      "label": "sangs rgyas gnyan ston chos kyi shes rab (7398) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7398/",
+        "label": "sangs rgyas gnyan ston chos kyi shes rab (7398)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 867 (slob dpon g.ye la tshad ma rnam nges la sogs | dbu ma | bslab btus | spyod 'jug sogs gsan |). Study with Slob dpon g.Ye (ID:7399).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 5857,

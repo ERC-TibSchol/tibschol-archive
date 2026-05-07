@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5887/",
   "relations": [
     {
+      "id": 2595,
+      "label": "khyung po chos kyi brtson 'grus (5887) other relation to rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5887/",
+        "label": "khyung po chos kyi brtson 'grus (5887)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 399 (des [=rNgog Lo] lo bco brgyad song ba mnga' bdag rtse lde'i me pho 'brug gi chos 'khor la | dwags po dbang rgyal | rwa lo | gnyan lo | khyung po chos brtson | mar thung dad pa shes rab | mang 'or byang chub shes rab | btsan kha ba che rnams kyis lhan cig tu sleb). Participated together in rTse lde's religious council in Tho ling in 1076.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3295,
       "label": "khyung po chos kyi brtson 'grus (5887) active at tho ling (6216)",
       "subj": {
@@ -29,34 +57,6 @@
       "start": "1076",
       "end": "1076",
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 2595,
-      "label": "khyung po chos kyi brtson 'grus (5887) other relation to rngog blo ldan shes rab (3786)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5887/",
-        "label": "khyung po chos kyi brtson 'grus (5887)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 399 (des [=rNgog Lo] lo bco brgyad song ba mnga' bdag rtse lde'i me pho 'brug gi chos 'khor la | dwags po dbang rgyal | rwa lo | gnyan lo | khyung po chos brtson | mar thung dad pa shes rab | mang 'or byang chub shes rab | btsan kha ba che rnams kyis lhan cig tu sleb). Participated together in rTse lde's religious council in Tho ling in 1076.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 5368,

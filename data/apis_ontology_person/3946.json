@@ -31,35 +31,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 7175,
-      "label": "rtsis pa mkhan po gzhon nu seng ge (3946) student of rje btsun grags pa rgyal mtshan (6128)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3946/",
-        "label": "rtsis pa mkhan po gzhon nu seng ge (3946)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6128/",
-        "label": "rje btsun grags pa rgyal mtshan (6128)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P2272.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 699,
       "label": "rtsis pa mkhan po gzhon nu seng ge (3946) author of las kyi lde mig (4692)",
       "subj": {
@@ -128,6 +99,35 @@
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
         "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P2272.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7175,
+      "label": "rtsis pa mkhan po gzhon nu seng ge (3946) student of rje btsun grags pa rgyal mtshan (6128)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3946/",
+        "label": "rtsis pa mkhan po gzhon nu seng ge (3946)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6128/",
+        "label": "rje btsun grags pa rgyal mtshan (6128)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },

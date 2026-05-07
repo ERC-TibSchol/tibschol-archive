@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3925/",
   "relations": [
     {
-      "id": 5769,
-      "label": "gtum ston blo gros grags (3925) active at snar thang (4411)",
+      "id": 342,
+      "label": "gtum ston blo gros grags (3925) student of zhang sha ra ba yon tan grags (3869)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3925/",
         "label": "gtum ston blo gros grags (3925)",
@@ -11,23 +11,23 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
-        "label": "snar thang (4411)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3869/",
+        "label": "zhang sha ra ba yon tan grags (3869)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
-      "end_date_to": "1166-12-31",
-      "end_date_from": "1166-01-01",
-      "end_date_sort": "1166-07-02",
-      "start_date_to": "1153-12-31",
-      "start_date_from": "1153-01-01",
-      "start_date_sort": "1153-07-02",
-      "zotero_refs": "[Q922IUFM]: 1: 35. Foundation of the monastery in 1153.",
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 344 (shar ba'i pa slob ma gtum ston Blo gros grags la |...).\r\n[NTGHCZA8]: 29.",
       "tei_refs": "",
-      "support_notes": "First abbot of the monastery.",
+      "support_notes": "",
       "confidence": "Positive",
-      "start": "1153",
-      "end": "1166",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     },
     {
@@ -62,8 +62,8 @@
       ]
     },
     {
-      "id": 342,
-      "label": "gtum ston blo gros grags (3925) student of zhang sha ra ba yon tan grags (3869)",
+      "id": 5769,
+      "label": "gtum ston blo gros grags (3925) active at snar thang (4411)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3925/",
         "label": "gtum ston blo gros grags (3925)",
@@ -71,23 +71,23 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3869/",
-        "label": "zhang sha ra ba yon tan grags (3869)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 344 (shar ba'i pa slob ma gtum ston Blo gros grags la |...).\r\n[NTGHCZA8]: 29.",
+      "end_date_to": "1166-12-31",
+      "end_date_from": "1166-01-01",
+      "end_date_sort": "1166-07-02",
+      "start_date_to": "1153-12-31",
+      "start_date_from": "1153-01-01",
+      "start_date_sort": "1153-07-02",
+      "zotero_refs": "[Q922IUFM]: 1: 35. Foundation of the monastery in 1153.",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "First abbot of the monastery.",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
+      "start": "1153",
+      "end": "1166",
       "subject_of_teaching_vocab": []
     },
     {

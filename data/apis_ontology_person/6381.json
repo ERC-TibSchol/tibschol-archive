@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6381/",
   "relations": [
     {
-      "id": 4872,
-      "label": "mnga' ris ratnadhvadza (6381) active at mnga' ris (5949)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6381/",
-        "label": "mnga' ris ratnadhvadza (6381)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5949/",
-        "label": "mnga' ris (5949)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "His name suggests he originated or was active in mNga' ris.",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2991,
       "label": "mnga' ris ratnadhvadza (6381) active at gsang phu gling stod (6172)",
       "subj": {
@@ -57,6 +28,35 @@
       "confidence": "Positive",
       "start": "after 1520",
       "end": "before 1675",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4872,
+      "label": "mnga' ris ratnadhvadza (6381) active at mnga' ris (5949)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6381/",
+        "label": "mnga' ris ratnadhvadza (6381)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5949/",
+        "label": "mnga' ris (5949)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "His name suggests he originated or was active in mNga' ris.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     }
   ],

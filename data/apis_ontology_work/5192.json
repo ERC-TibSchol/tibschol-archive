@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5192/",
   "relations": [
     {
-      "id": 7242,
-      "label": "mngon rtogs rgyan gyi 'grel pa lung gi dpag bsam rgyan 'gyur gyi tshal (5192) has as an instance shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi dka' 'grel lung gi dpag bsam rgyas 'gyur (8116)",
+      "id": 982,
+      "label": "mngon rtogs rgyan gyi 'grel pa lung gi dpag bsam rgyan 'gyur gyi tshal (5192) commentary on abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5192/",
         "label": "mngon rtogs rgyan gyi 'grel pa lung gi dpag bsam rgyan 'gyur gyi tshal (5192)",
@@ -11,48 +11,20 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8116/",
-        "label": "shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi dka' 'grel lung gi dpag bsam rgyas 'gyur (8116)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 2174,
-      "label": "mngon rtogs rgyan gyi 'grel pa lung gi dpag bsam rgyan 'gyur gyi tshal (5192) composed at sa skya dgon pa (5733)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5192/",
-        "label": "mngon rtogs rgyan gyi 'grel pa lung gi dpag bsam rgyan 'gyur gyi tshal (5192)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3711/",
+        "label": "abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
-        "label": "sa skya dgon pa (5733)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
       "end_date_to": null,
       "end_date_from": null,
       "end_date_sort": null,
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex73022023-09-261",
-      "support_notes": "Composed in the vicinity of Sa skya.",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -86,8 +58,8 @@
       "end": null
     },
     {
-      "id": 982,
-      "label": "mngon rtogs rgyan gyi 'grel pa lung gi dpag bsam rgyan 'gyur gyi tshal (5192) commentary on abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
+      "id": 2174,
+      "label": "mngon rtogs rgyan gyi 'grel pa lung gi dpag bsam rgyan 'gyur gyi tshal (5192) composed at sa skya dgon pa (5733)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5192/",
         "label": "mngon rtogs rgyan gyi 'grel pa lung gi dpag bsam rgyan 'gyur gyi tshal (5192)",
@@ -95,10 +67,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3711/",
-        "label": "abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
+        "label": "sa skya dgon pa (5733)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -106,9 +78,37 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex73022023-09-261",
+      "support_notes": "Composed in the vicinity of Sa skya.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7242,
+      "label": "mngon rtogs rgyan gyi 'grel pa lung gi dpag bsam rgyan 'gyur gyi tshal (5192) has as an instance shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi dka' 'grel lung gi dpag bsam rgyas 'gyur (8116)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5192/",
+        "label": "mngon rtogs rgyan gyi 'grel pa lung gi dpag bsam rgyan 'gyur gyi tshal (5192)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8116/",
+        "label": "shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi dka' 'grel lung gi dpag bsam rgyas 'gyur (8116)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

@@ -60,34 +60,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3868,
-      "label": "chos grags dpal (6726) uncle (maternal/paternal) of chos kyi dpal (6730)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6726/",
-        "label": "chos grags dpal (6726)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6730/",
-        "label": "chos kyi dpal (6730)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[W4T5ZMUP]: 41.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 3864,
       "label": "chos grags dpal (6726) ordinator of rngog rin chen bzang po (6729)",
       "subj": {
@@ -142,6 +114,34 @@
       "confidence": "Uncertain",
       "start": "after 1248 before 1260",
       "end": "after 1248 before 1260"
+    },
+    {
+      "id": 3868,
+      "label": "chos grags dpal (6726) uncle (maternal/paternal) of chos kyi dpal (6730)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6726/",
+        "label": "chos grags dpal (6726)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6730/",
+        "label": "chos kyi dpal (6730)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 41.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 3862,

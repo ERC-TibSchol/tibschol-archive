@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5910/",
   "relations": [
     {
+      "id": 743,
+      "label": "sangs rgyas rgyal mtshan (1) (5910) author of tshad ma'i mtshan nyid bsdus pa rigs pa'i sgo 'byed pa (4773)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5910/",
+        "label": "sangs rgyas rgyal mtshan (1) (5910)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4773/",
+        "label": "tshad ma'i mtshan nyid bsdus pa rigs pa'i sgo 'byed pa (4773)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No. 16315: gsang phu'i gdan rabs sum cu pa sangs rgyas rgyal mtshan",
+      "tei_refs": "ex45022023-09-19",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2323,
       "label": "sangs rgyas rgyal mtshan (1) (5910) active at brag dkar (5697)",
       "subj": {
@@ -62,34 +90,6 @@
       "subject_of_teaching_vocab": [
         9
       ]
-    },
-    {
-      "id": 743,
-      "label": "sangs rgyas rgyal mtshan (1) (5910) author of tshad ma'i mtshan nyid bsdus pa rigs pa'i sgo 'byed pa (4773)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5910/",
-        "label": "sangs rgyas rgyal mtshan (1) (5910)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4773/",
-        "label": "tshad ma'i mtshan nyid bsdus pa rigs pa'i sgo 'byed pa (4773)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "Author according to [8H6M69W4], No. 16315: gsang phu'i gdan rabs sum cu pa sangs rgyas rgyal mtshan",
-      "tei_refs": "ex45022023-09-19",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 2324,

@@ -1,21 +1,50 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6525/",
-  "relations": [],
+  "relations": [
+    {
+      "id": 7359,
+      "label": "rdo rje grags (6525) annotator of rgyan 'grel 'thad ldan gsal byed rin po che'i snang ba (4652)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6525/",
+        "label": "rdo rje grags (6525)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4652/",
+        "label": "rgyan 'grel 'thad ldan gsal byed rin po che'i snang ba (4652)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "tibetan_transliteration": "\u0f62\u0fa1\u0f7c\u0f0b\u0f62\u0f97\u0f7a\u0f0b\u0f51\u0f56\u0f44\u0f0b\u0f42\u0fb2\u0f42\u0f66 \u0f3c\u0f23\u0f3d",
-  "comments": "Annotator of instance 1_026_01 (ID:4652).",
+  "tibetan_transliteration": "\u0f62\u0fa1\u0f7c\u0f0b\u0f62\u0f97\u0f7a\u0f0b\u0f42\u0fb2\u0f42\u0f66",
+  "comments": "Annotator of instance (ID:4652).",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [],
   "external_links": "",
   "review": false,
   "start": null,
   "end": null,
-  "name": "rdo rje dbang grags (3)",
+  "name": "rdo rje grags",
   "gender": "male",
   "nationality": "Tibetan"
 }

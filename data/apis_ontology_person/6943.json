@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6943/",
   "relations": [
     {
-      "id": 4709,
-      "label": "Anonymous (8) (6943) has other relation with tshad ma rnam par nges pa'i bsdus don (4498)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6943/",
-        "label": "Anonymous (8) (6943)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4498/",
-        "label": "tshad ma rnam par nges pa'i bsdus don (4498)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "Annotator of instance (ID:4498).",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 4411,
       "label": "Anonymous (8) (6943) quotes with name rngog blo ldan shes rab (3786)",
       "subj": {
@@ -57,6 +29,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7358,
+      "label": "Anonymous (8) (6943) annotator of tshad ma rnam par nges pa'i bsdus don (4498)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6943/",
+        "label": "Anonymous (8) (6943)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4498/",
+        "label": "tshad ma rnam par nges pa'i bsdus don (4498)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": null,
@@ -68,7 +68,7 @@
   "tibetan_transliteration": "\u0f68\u0f71\u0f53\u0f7c\u0f49\u0f58\u0f7c\u0f68\u0f74\u0f66 \u0f3c\u0f28\u0f3d",
   "comments": "Annotator of instance (ID:4498).",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [],
   "external_links": "",
   "review": true,
   "start": "after 1100",

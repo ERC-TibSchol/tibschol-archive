@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4457/",
   "relations": [
     {
-      "id": 1998,
-      "label": "shes rab pha rol phyin pa sdud pa tshigs su bcad pa'i rnam par bshad pa (4457) has as an instance shes rab pha rol phyin pa sdud pa tshigs su bcad pa\u2019i rnam par bshad pa (1) (5892)",
+      "id": 546,
+      "label": "shes rab pha rol phyin pa sdud pa tshigs su bcad pa'i rnam par bshad pa (4457) commentary on sa\u00f1cayag\u0101th\u0101 (3693)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4457/",
         "label": "shes rab pha rol phyin pa sdud pa tshigs su bcad pa'i rnam par bshad pa (4457)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5892/",
-        "label": "shes rab pha rol phyin pa sdud pa tshigs su bcad pa\u2019i rnam par bshad pa (1) (5892)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3693/",
+        "label": "sa\u00f1cayag\u0101th\u0101 (3693)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -58,8 +58,8 @@
       "end": null
     },
     {
-      "id": 546,
-      "label": "shes rab pha rol phyin pa sdud pa tshigs su bcad pa'i rnam par bshad pa (4457) commentary on sa\u00f1cayag\u0101th\u0101 (3693)",
+      "id": 1998,
+      "label": "shes rab pha rol phyin pa sdud pa tshigs su bcad pa'i rnam par bshad pa (4457) has as an instance shes rab pha rol phyin pa sdud pa tshigs su bcad pa\u2019i rnam par bshad pa (1) (5892)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4457/",
         "label": "shes rab pha rol phyin pa sdud pa tshigs su bcad pa'i rnam par bshad pa (4457)",
@@ -67,10 +67,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3693/",
-        "label": "sa\u00f1cayag\u0101th\u0101 (3693)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5892/",
+        "label": "shes rab pha rol phyin pa sdud pa tshigs su bcad pa\u2019i rnam par bshad pa (1) (5892)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

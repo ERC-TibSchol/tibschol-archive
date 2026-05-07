@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6859/",
   "relations": [
     {
+      "id": 4279,
+      "label": "blo gsal don grub bkra shis (6859) prompter of 'dul ba'i sdom tshig bsdus don gsal byed me long (4612)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6859/",
+        "label": "blo gsal don grub bkra shis (6859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4612/",
+        "label": "'dul ba'i sdom tshig bsdus don gsal byed me long (4612)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex19092024-09-2415-23-12",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4281,
       "label": "blo gsal don grub bkra shis (6859) requests brag ram pa shes rab 'bum (4608)",
       "subj": {
@@ -31,34 +59,6 @@
       "subject_of_teaching_vocab": [
         8
       ]
-    },
-    {
-      "id": 4279,
-      "label": "blo gsal don grub bkra shis (6859) prompter of 'dul ba'i sdom tshig bsdus don gsal byed me long (4612)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6859/",
-        "label": "blo gsal don grub bkra shis (6859)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4612/",
-        "label": "'dul ba'i sdom tshig bsdus don gsal byed me long (4612)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex19092024-09-2415-23-12",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     }
   ],
   "end_date_to": null,

@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
   "relations": [
     {
-      "id": 4008,
-      "label": "'jam dbyangs shakya gzhon nu (3894) active at sgros rnying grwa tshang (6043)",
+      "id": 155,
+      "label": "'jam dbyangs shakya gzhon nu (3894) student of 'jam dbyangs 'od zer mgon po (3893)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
         "label": "'jam dbyangs shakya gzhon nu (3894)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6043/",
-        "label": "sgros rnying grwa tshang (6043)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,13 +22,45 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[U9BU5AFU]: 1050. Founded sGros rnying.",
+      "zotero_refs": "[U9BU5AFU]: 1050.\r\n[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a5 (des gsang phu gling smad kyi gdan sa lo sum cu so gnyis mdzad pa'i slob ma la | shAkya gzhon nu dang | byang chub gzhon nu gnyis byon pa las..).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2332,
+      "label": "'jam dbyangs shakya gzhon nu (3894) active at tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1314-12-31",
+      "end_date_from": "1314-01-01",
+      "end_date_sort": "1314-07-02",
+      "start_date_to": "1308-12-31",
+      "start_date_from": "1308-01-01",
+      "start_date_sort": "1308-07-01",
+      "zotero_refs": "[R894SIKE]: 415 (slob dpon shAka gzhon gyi bdag rkyen 'tshal ba smon lam pa la sogs pas mdzad nas 'tshal gung thang du bshad grwa btsugs). Founded a monastic college (bshad grwa).\r\n[CCSBSVCA]: 190 and 230-231. Invited to Tshal in 1308 from gSang phu by the dpon chen dGa' bde dpal, he established the college (bshad grwa) Chos 'khor gling at Tshal and founded there the tradition of expounding and studying philosophy (mtshan nyid).\r\n[8GL7ZT7Y]: 26, translated from [8GL7ZT7Y]: 15a6 (shAk gzhon slob dpon gyi 'gros rnying pa bzung nas gdan sa dang | tshal chos 'khor gling gi bshad grwa btsugs |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1308",
+      "end": "1314",
+      "subject_of_teaching_vocab": [
+        9,
+        7
+      ]
     },
     {
       "id": 2527,
@@ -65,8 +97,8 @@
       ]
     },
     {
-      "id": 155,
-      "label": "'jam dbyangs shakya gzhon nu (3894) student of 'jam dbyangs 'od zer mgon po (3893)",
+      "id": 2533,
+      "label": "'jam dbyangs shakya gzhon nu (3894) other relation to gsang phu ba blo gros mtshungs med (3896)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
         "label": "'jam dbyangs shakya gzhon nu (3894)",
@@ -74,8 +106,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
-        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
+        "label": "gsang phu ba blo gros mtshungs med (3896)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -85,7 +117,35 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[U9BU5AFU]: 1050.\r\n[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a5 (des gsang phu gling smad kyi gdan sa lo sum cu so gnyis mdzad pa'i slob ma la | shAkya gzhon nu dang | byang chub gzhon nu gnyis byon pa las..).",
+      "zotero_refs": "[R894SIKE]: 622 (de nas gsang phur byon nas bla chos ba 'jam dbyangs shAkya gzhon dang | zur chos pa slob dpon blo gros mtshungs med la gtugs nas mtshan nyid kyi sde snod sa sde lnga dang | byams chos lnga dang | tshad ma rnam nges dang | sdud pa dang spyod 'jug la sogs pa mang du zhus |). They were respectively \"main preacher\" (bla chos pa) and \"assistant\" (zur chos pa) at gSang phu at the time the First Zhwa dmar pa (ID: 6161) came to study (shortly after 1305).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4008,
+      "label": "'jam dbyangs shakya gzhon nu (3894) active at sgros rnying grwa tshang (6043)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6043/",
+        "label": "sgros rnying grwa tshang (6043)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[U9BU5AFU]: 1050. Founded sGros rnying.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -124,66 +184,6 @@
         10,
         56
       ]
-    },
-    {
-      "id": 2332,
-      "label": "'jam dbyangs shakya gzhon nu (3894) active at tshal gung thang (5658)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
-        "label": "'jam dbyangs shakya gzhon nu (3894)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
-        "label": "tshal gung thang (5658)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": "1314-12-31",
-      "end_date_from": "1314-01-01",
-      "end_date_sort": "1314-07-02",
-      "start_date_to": "1308-12-31",
-      "start_date_from": "1308-01-01",
-      "start_date_sort": "1308-07-01",
-      "zotero_refs": "[R894SIKE]: 415 (slob dpon shAka gzhon gyi bdag rkyen 'tshal ba smon lam pa la sogs pas mdzad nas 'tshal gung thang du bshad grwa btsugs). Founded a monastic college (bshad grwa).\r\n[CCSBSVCA]: 190 and 230-231. Invited to Tshal in 1308 from gSang phu by the dpon chen dGa' bde dpal, he established the college (bshad grwa) Chos 'khor gling at Tshal and founded there the tradition of expounding and studying philosophy (mtshan nyid).\r\n[8GL7ZT7Y]: 26, translated from [8GL7ZT7Y]: 15a6 (shAk gzhon slob dpon gyi 'gros rnying pa bzung nas gdan sa dang | tshal chos 'khor gling gi bshad grwa btsugs |).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1308",
-      "end": "1314",
-      "subject_of_teaching_vocab": [
-        9,
-        7
-      ]
-    },
-    {
-      "id": 2533,
-      "label": "'jam dbyangs shakya gzhon nu (3894) other relation to gsang phu ba blo gros mtshungs med (3896)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
-        "label": "'jam dbyangs shakya gzhon nu (3894)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
-        "label": "gsang phu ba blo gros mtshungs med (3896)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 622 (de nas gsang phur byon nas bla chos ba 'jam dbyangs shAkya gzhon dang | zur chos pa slob dpon blo gros mtshungs med la gtugs nas mtshan nyid kyi sde snod sa sde lnga dang | byams chos lnga dang | tshad ma rnam nges dang | sdud pa dang spyod 'jug la sogs pa mang du zhus |). They were respectively \"main preacher\" (bla chos pa) and \"assistant\" (zur chos pa) at gSang phu at the time the First Zhwa dmar pa (ID: 6161) came to study (shortly after 1305).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 2334,

@@ -2,37 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5256/",
   "relations": [
     {
-      "id": 5089,
-      "label": "sangs rgyas bzang po (1) (5256) quotes with name phywa pa chos kyi seng ge (3831)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5256/",
-        "label": "sangs rgyas bzang po (1) (5256)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex046022025-05-2811-35-36",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
       "id": 748,
       "label": "sangs rgyas bzang po (1) (5256) author of legs par bshad pa'i gter mdzod blo gsal yid la dga' ba gter ba (4781)",
       "subj": {
@@ -84,6 +53,37 @@
       "zotero_refs": "",
       "tei_refs": "ex46022023-09-19-102726",
       "support_notes": "Composition of work (ID:4781).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 5089,
+      "label": "sangs rgyas bzang po (1) (5256) quotes with name phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5256/",
+        "label": "sangs rgyas bzang po (1) (5256)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex046022025-05-2811-35-36",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,

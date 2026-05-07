@@ -151,35 +151,6 @@
       ]
     },
     {
-      "id": 2889,
-      "label": "Anonymous (5) (6320) quotes with name tsha (6321)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6320/",
-        "label": "Anonymous (5) (6320)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6321/",
-        "label": "tsha (6321)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2895,
       "label": "Anonymous (5) (6320) quotes with name rgya dmar ba byang chub grags (3834)",
       "subj": {
@@ -238,6 +209,34 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 7357,
+      "label": "Anonymous (5) (6320) annotator of dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba (4570)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6320/",
+        "label": "Anonymous (5) (6320)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4570/",
+        "label": "dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba (4570)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2892,
       "label": "Anonymous (5) (6320) quotes with name lce (6322)",
       "subj": {
@@ -274,9 +273,9 @@
   "start_date_from": "1085-01-01",
   "start_date_sort": "1085-01-01",
   "tibetan_transliteration": "\u0f68\u0f71\u0f53\u0f7c\u0f49\u0f58\u0f7c\u0f68\u0f74\u0f66 \u0f3c\u0f25\u0f3d",
-  "comments": "Annotator of the manuscript (ID:4570) of dBu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba.",
+  "comments": "Annotator of a manuscript (ID:4570) of dBu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba.\r\nIn addition to identifying figures whose views are being referred to in the text, the annotator quotes additional views in his annotations, which also identify the person holding the view.",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [],
   "external_links": "",
   "review": false,
   "start": "after 1085",

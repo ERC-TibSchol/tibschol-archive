@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4851/",
   "relations": [
     {
-      "id": 1868,
-      "label": "dbu ma'i man ngag (4851) has as an instance dbu ma'i man ngag (1) (5853)",
+      "id": 1455,
+      "label": "dbu ma'i man ngag (4851) has as an instance dbu ma'i man ngag (2) (4850)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4851/",
         "label": "dbu ma'i man ngag (4851)",
@@ -11,8 +11,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5853/",
-        "label": "dbu ma'i man ngag (1) (5853)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4850/",
+        "label": "dbu ma'i man ngag (2) (4850)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1455,
-      "label": "dbu ma'i man ngag (4851) has as an instance dbu ma'i man ngag (2) (4850)",
+      "id": 1868,
+      "label": "dbu ma'i man ngag (4851) has as an instance dbu ma'i man ngag (1) (5853)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4851/",
         "label": "dbu ma'i man ngag (4851)",
@@ -39,8 +39,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4850/",
-        "label": "dbu ma'i man ngag (2) (4850)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5853/",
+        "label": "dbu ma'i man ngag (1) (5853)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },

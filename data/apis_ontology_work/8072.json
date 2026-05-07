@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8072/",
   "relations": [
     {
-      "id": 7137,
-      "label": "rigs sgo'i 'grel ba (8072) has as an instance rigs sgo'i 'grel ba (8073)",
+      "id": 7136,
+      "label": "rigs sgo'i 'grel ba (8072) commentary on ny\u0101yaprave\u015ba (5609)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8072/",
         "label": "rigs sgo'i 'grel ba (8072)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8073/",
-        "label": "rigs sgo'i 'grel ba (8073)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5609/",
+        "label": "ny\u0101yaprave\u015ba (5609)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 7136,
-      "label": "rigs sgo'i 'grel ba (8072) commentary on ny\u0101yaprave\u015ba (5609)",
+      "id": 7137,
+      "label": "rigs sgo'i 'grel ba (8072) has as an instance rigs sgo'i 'grel ba (8073)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8072/",
         "label": "rigs sgo'i 'grel ba (8072)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5609/",
-        "label": "ny\u0101yaprave\u015ba (5609)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8073/",
+        "label": "rigs sgo'i 'grel ba (8073)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
   "relations": [
     {
-      "id": 6239,
-      "label": "lho pa kun mkhyen rin chen dpal (5463) author of 'khon dkon mchog rgyal po sogs sa skya'i bla rabs kyi rnam thar (7589)",
+      "id": 1154,
+      "label": "lho pa kun mkhyen rin chen dpal (5463) author of byang chub sems pa'i spyod pa la 'jug pa'i zin bris 'jam dpal zhal lung (5462)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
         "label": "lho pa kun mkhyen rin chen dpal (5463)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7589/",
-        "label": "'khon dkon mchog rgyal po sogs sa skya'i bla rabs kyi rnam thar (7589)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5462/",
+        "label": "byang chub sems pa'i spyod pa la 'jug pa'i zin bris 'jam dpal zhal lung (5462)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -22,16 +22,16 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[8H6M69W4], No. 17494: 'khon dkon mchog rgyal po sogs sa skya'i bla rabs kyi rnam thar; btsun pa rin chen dpal gyis",
-      "tei_refs": "",
+      "zotero_refs": "",
+      "tei_refs": "ex111052026-01-1609-10-53\r\nex111052026-01-1609-10-52",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
     },
     {
-      "id": 6100,
-      "label": "lho pa kun mkhyen rin chen dpal (5463) student of phywa pa chos kyi seng ge (3831)",
+      "id": 3063,
+      "label": "lho pa kun mkhyen rin chen dpal (5463) student of khro phu lo tsA ba byams pa dpal (3878)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
         "label": "lho pa kun mkhyen rin chen dpal (5463)",
@@ -39,8 +39,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3878/",
+        "label": "khro phu lo tsA ba byams pa dpal (3878)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -50,10 +50,10 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[ABYM2GP5]: 24, based on [8GL7ZT7Y]: 15b4, which gives \"lho pa thams cad mkhyen pa\" as an alternative name of sGom gzan (ID:3853).",
+      "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Uncertain",
+      "support_notes": "BDRC",
+      "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
@@ -81,62 +81,6 @@
       "start_date_sort": null,
       "zotero_refs": "[MKQ6FJV7]: 54.",
       "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 6635,
-      "label": "lho pa kun mkhyen rin chen dpal (5463) biographer of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
-        "label": "lho pa kun mkhyen rin chen dpal (5463)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
-        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 1154,
-      "label": "lho pa kun mkhyen rin chen dpal (5463) author of byang chub sems pa'i spyod pa la 'jug pa'i zin bris 'jam dpal zhal lung (5462)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
-        "label": "lho pa kun mkhyen rin chen dpal (5463)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5462/",
-        "label": "byang chub sems pa'i spyod pa la 'jug pa'i zin bris 'jam dpal zhal lung (5462)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex111052026-01-1609-10-53\r\nex111052026-01-1609-10-52",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -172,8 +116,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3063,
-      "label": "lho pa kun mkhyen rin chen dpal (5463) student of khro phu lo tsA ba byams pa dpal (3878)",
+      "id": 6100,
+      "label": "lho pa kun mkhyen rin chen dpal (5463) student of phywa pa chos kyi seng ge (3831)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
         "label": "lho pa kun mkhyen rin chen dpal (5463)",
@@ -181,8 +125,65 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3878/",
-        "label": "khro phu lo tsA ba byams pa dpal (3878)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 24, based on [8GL7ZT7Y]: 15b4, which gives \"lho pa thams cad mkhyen pa\" as an alternative name of sGom gzan (ID:3853).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6239,
+      "label": "lho pa kun mkhyen rin chen dpal (5463) author of 'khon dkon mchog rgyal po sogs sa skya'i bla rabs kyi rnam thar (7589)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
+        "label": "lho pa kun mkhyen rin chen dpal (5463)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7589/",
+        "label": "'khon dkon mchog rgyal po sogs sa skya'i bla rabs kyi rnam thar (7589)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8H6M69W4], No. 17494: 'khon dkon mchog rgyal po sogs sa skya'i bla rabs kyi rnam thar; btsun pa rin chen dpal gyis",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6635,
+      "label": "lho pa kun mkhyen rin chen dpal (5463) biographer of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
+        "label": "lho pa kun mkhyen rin chen dpal (5463)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -194,11 +195,10 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "BDRC",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 6428,

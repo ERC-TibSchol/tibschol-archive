@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5524/",
   "relations": [
     {
+      "id": 1199,
+      "label": "dge tshul gyi tshig le'ur byas pa sum brgya pa'i tshig don rab tu 'byed pa (5524) commentary on m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101 (3764)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5524/",
+        "label": "dge tshul gyi tshig le'ur byas pa sum brgya pa'i tshig don rab tu 'byed pa (5524)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3764/",
+        "label": "m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101 (3764)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "exX0092026-04-1408-55-34\r\nexX0092026-04-1409-57-37",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1757,
       "label": "dge tshul gyi tshig le'ur byas pa sum brgya pa'i tshig don rab tu 'byed pa (5524) has as an instance dge tshul gyi tshig le'ur byas pa sum rgya pa'i tshig don rab tu 'byed pa (5523)",
       "subj": {
@@ -53,34 +81,6 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 1199,
-      "label": "dge tshul gyi tshig le'ur byas pa sum brgya pa'i tshig don rab tu 'byed pa (5524) commentary on m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101 (3764)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5524/",
-        "label": "dge tshul gyi tshig le'ur byas pa sum brgya pa'i tshig don rab tu 'byed pa (5524)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3764/",
-        "label": "m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101 (3764)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "exX0092026-04-1408-55-34\r\nexX0092026-04-1409-57-37",
-      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

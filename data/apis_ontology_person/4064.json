@@ -2,37 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4064/",
   "relations": [
     {
-      "id": 5623,
-      "label": "skyi ston grags 'bum (4064) student of skyel nag grags pa seng ge (4020)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4064/",
-        "label": "skyi ston grags 'bum (4064)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4020/",
-        "label": "skyel nag grags pa seng ge (4020)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[V4DZTVU8]: 305. According to Yar lung Jo ba ShAkya rin chen's Yar lung jo bo'i chos 'byung (1376).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
       "id": 302,
       "label": "skyi ston grags 'bum (4064) lineage predecessor of rigs pa'i ral gri (4006)",
       "subj": {
@@ -89,6 +58,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5623,
+      "label": "skyi ston grags 'bum (4064) student of skyel nag grags pa seng ge (4020)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4064/",
+        "label": "skyi ston grags 'bum (4064)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4020/",
+        "label": "skyel nag grags pa seng ge (4020)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[V4DZTVU8]: 305. According to Yar lung Jo ba ShAkya rin chen's Yar lung jo bo'i chos 'byung (1376).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 474,

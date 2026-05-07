@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4887/",
   "relations": [
     {
-      "id": 1956,
-      "label": "shes rab kyi pha rol phyin pa'i man ngag (3) (4887) written at snar thang (4411)",
+      "id": 1883,
+      "label": "shes rab kyi pha rol phyin pa'i man ngag (3) (4887) has source shes rab kyi pha rol phyin pa'i man ngag (2) (5859)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4887/",
         "label": "shes rab kyi pha rol phyin pa'i man ngag (3) (4887)",
@@ -11,10 +11,10 @@
         "content_type_name": "instance"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
-        "label": "snar thang (4411)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5859/",
+        "label": "shes rab kyi pha rol phyin pa'i man ngag (2) (5859)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1883,
-      "label": "shes rab kyi pha rol phyin pa'i man ngag (3) (4887) has source shes rab kyi pha rol phyin pa'i man ngag (2) (5859)",
+      "id": 1956,
+      "label": "shes rab kyi pha rol phyin pa'i man ngag (3) (4887) written at snar thang (4411)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4887/",
         "label": "shes rab kyi pha rol phyin pa'i man ngag (3) (4887)",
@@ -39,10 +39,10 @@
         "content_type_name": "instance"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5859/",
-        "label": "shes rab kyi pha rol phyin pa'i man ngag (2) (5859)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,

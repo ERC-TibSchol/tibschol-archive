@@ -31,35 +31,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 7015,
-      "label": "gtsang pa jo nam (4201) student of 'gral sher rgyal (7975)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4201/",
-        "label": "gtsang pa jo nam (4201)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7975/",
-        "label": "'gral sher rgyal (7975)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[3HXACZSD]: 216 (based on the Red Annals). Took the see of 'Gral after becoming 'Gral's student.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2846,
       "label": "gtsang pa jo nam (4201) active at gsang phu gling smad (6158)",
       "subj": {
@@ -86,6 +57,35 @@
       "confidence": "Positive",
       "start": "after 1200",
       "end": "before 1300",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7015,
+      "label": "gtsang pa jo nam (4201) student of 'gral sher rgyal (7975)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4201/",
+        "label": "gtsang pa jo nam (4201)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7975/",
+        "label": "'gral sher rgyal (7975)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3HXACZSD]: 216 (based on the Red Annals). Took the see of 'Gral after becoming 'Gral's student.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     },
     {

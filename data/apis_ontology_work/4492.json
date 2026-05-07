@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4492/",
   "relations": [
     {
-      "id": 5686,
-      "label": "theg pa chen po rgyud bla ma'i bstan bcos tshig dang don gyi cha rgya cher bsnyad pa phra ba'i don gsal ba (4492) has as an instance rgyud bla ma'i Tik (7333)",
+      "id": 570,
+      "label": "theg pa chen po rgyud bla ma'i bstan bcos tshig dang don gyi cha rgya cher bsnyad pa phra ba'i don gsal ba (4492) commentary on ratnagotravibh\u0101ga (3749)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4492/",
         "label": "theg pa chen po rgyud bla ma'i bstan bcos tshig dang don gyi cha rgya cher bsnyad pa phra ba'i don gsal ba (4492)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7333/",
-        "label": "rgyud bla ma'i Tik (7333)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
+        "label": "ratnagotravibh\u0101ga (3749)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -23,8 +23,8 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "[HMSTSJ7Q]: 73, No. 25 (phywa pa'i rgyud bla ma'i Tik).",
+      "tei_refs": "ex007052025-05-2010-09-14",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -58,8 +58,8 @@
       "end": null
     },
     {
-      "id": 570,
-      "label": "theg pa chen po rgyud bla ma'i bstan bcos tshig dang don gyi cha rgya cher bsnyad pa phra ba'i don gsal ba (4492) commentary on ratnagotravibh\u0101ga (3749)",
+      "id": 5686,
+      "label": "theg pa chen po rgyud bla ma'i bstan bcos tshig dang don gyi cha rgya cher bsnyad pa phra ba'i don gsal ba (4492) has as an instance rgyud bla ma'i Tik (7333)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4492/",
         "label": "theg pa chen po rgyud bla ma'i bstan bcos tshig dang don gyi cha rgya cher bsnyad pa phra ba'i don gsal ba (4492)",
@@ -67,10 +67,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
-        "label": "ratnagotravibh\u0101ga (3749)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7333/",
+        "label": "rgyud bla ma'i Tik (7333)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -79,8 +79,8 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex007052025-05-2010-09-14",
-      "support_notes": "",
+      "tei_refs": "",
+      "support_notes": "[HMSTSJ7Q]: 73, No. 25 (phywa pa'i rgyud bla ma'i Tik).",
       "confidence": "Positive",
       "start": null,
       "end": null

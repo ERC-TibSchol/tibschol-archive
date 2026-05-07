@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3708/",
   "relations": [
     {
-      "id": 7292,
-      "label": "\u0101ryavimuktisena (3708) lineage predecessor of bhadantavimuktisena (5548)",
+      "id": 4,
+      "label": "\u0101ryavimuktisena (3708) author of abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3707)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3708/",
         "label": "\u0101ryavimuktisena (3708)",
@@ -11,40 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5548/",
-        "label": "bhadantavimuktisena (5548)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex21042026-16-45-31 (Bodhisattva vows lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        48,
-        26
-      ]
-    },
-    {
-      "id": 2104,
-      "label": "\u0101ryavimuktisena (3708) author of abhisamay\u0101la\u1e43k\u0101rak\u0101rik\u0101v\u0101rttik\u0101 (5935)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3708/",
-        "label": "\u0101ryavimuktisena (3708)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5935/",
-        "label": "abhisamay\u0101la\u1e43k\u0101rak\u0101rik\u0101v\u0101rttik\u0101 (5935)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3707/",
+        "label": "abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3707)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -62,8 +30,8 @@
       "end": null
     },
     {
-      "id": 4,
-      "label": "\u0101ryavimuktisena (3708) author of abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3707)",
+      "id": 2104,
+      "label": "\u0101ryavimuktisena (3708) author of abhisamay\u0101la\u1e43k\u0101rak\u0101rik\u0101v\u0101rttik\u0101 (5935)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3708/",
         "label": "\u0101ryavimuktisena (3708)",
@@ -71,8 +39,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3707/",
-        "label": "abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3707)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5935/",
+        "label": "abhisamay\u0101la\u1e43k\u0101rak\u0101rik\u0101v\u0101rttik\u0101 (5935)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -119,6 +87,38 @@
       "subject_of_teaching_vocab": [
         56,
         7
+      ]
+    },
+    {
+      "id": 7292,
+      "label": "\u0101ryavimuktisena (3708) lineage predecessor of bhadantavimuktisena (5548)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3708/",
+        "label": "\u0101ryavimuktisena (3708)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5548/",
+        "label": "bhadantavimuktisena (5548)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex21042026-16-45-31 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        48,
+        26
       ]
     },
     {

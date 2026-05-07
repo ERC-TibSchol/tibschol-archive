@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3901/",
   "relations": [
     {
-      "id": 5531,
-      "label": "zhwa dmar pa mkha' spyod dbang po (3901) studies pram\u0101\u1e47avini\u015bcaya (3774)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3901/",
-        "label": "zhwa dmar pa mkha' spyod dbang po (3901)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 639 ([mkha' spyod dbang po] bde ba can pa slob dpon 'jam rin la byams chos lnga dang | tshad ma rnam nges | 'dul ba mdo rtsa rnams gsan |).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 161,
       "label": "zhwa dmar pa mkha' spyod dbang po (3901) student of 'jam dbyangs rin chen grags pa (3900)",
       "subj": {
@@ -61,6 +33,34 @@
         56,
         8
       ]
+    },
+    {
+      "id": 5531,
+      "label": "zhwa dmar pa mkha' spyod dbang po (3901) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3901/",
+        "label": "zhwa dmar pa mkha' spyod dbang po (3901)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 639 ([mkha' spyod dbang po] bde ba can pa slob dpon 'jam rin la byams chos lnga dang | tshad ma rnam nges | 'dul ba mdo rtsa rnams gsan |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": "1405-12-31",

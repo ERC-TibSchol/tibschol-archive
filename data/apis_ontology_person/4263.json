@@ -31,35 +31,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 7239,
-      "label": "rog shes rab 'od (4263) student of lang ston jo pad (8113)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4263/",
-        "label": "rog shes rab 'od (4263)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8113/",
-        "label": "lang ston jo pad (8113)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "https://treasuryoflives.org/biographies/view/Rogben-Sherab-O/6726",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 4020,
       "label": "rog shes rab 'od (4263) author of chos 'byung grub mtha' chen mo (6786)",
       "subj": {
@@ -86,6 +57,35 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 4021,
+      "label": "rog shes rab 'od (4263) student of gtsang nag pa brtson 'grus seng ge (3839)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4263/",
+        "label": "rog shes rab 'od (4263)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1244-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1244-12-31",
+      "start_date_to": "1186-12-31",
+      "start_date_from": "1186-01-01",
+      "start_date_sort": "1186-07-02",
+      "zotero_refs": "[9IWQNWZ8]",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1186",
+      "end": "before 1244",
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 7235,
@@ -117,8 +117,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 4021,
-      "label": "rog shes rab 'od (4263) student of gtsang nag pa brtson 'grus seng ge (3839)",
+      "id": 7239,
+      "label": "rog shes rab 'od (4263) student of lang ston jo pad (8113)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4263/",
         "label": "rog shes rab 'od (4263)",
@@ -126,23 +126,23 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
-        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8113/",
+        "label": "lang ston jo pad (8113)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
-      "end_date_to": "1244-12-31",
+      "end_date_to": null,
       "end_date_from": null,
-      "end_date_sort": "1244-12-31",
-      "start_date_to": "1186-12-31",
-      "start_date_from": "1186-01-01",
-      "start_date_sort": "1186-07-02",
-      "zotero_refs": "[9IWQNWZ8]",
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "https://treasuryoflives.org/biographies/view/Rogben-Sherab-O/6726",
       "confidence": "Positive",
-      "start": "1186",
-      "end": "before 1244",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     },
     {

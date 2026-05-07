@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5119/",
   "relations": [
     {
-      "id": 6212,
-      "label": "bden gnyis spyi bshad dang bden gnyis 'jog tshul (5119) has as an instance bden gnyis spyi bshad dang bden gnyis 'jog tshul (7582)",
+      "id": 1574,
+      "label": "bden gnyis spyi bshad dang bden gnyis 'jog tshul (5119) has as an instance bden gnyis spyi bshad dang bden gnyis 'jog tshul (5118)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5119/",
         "label": "bden gnyis spyi bshad dang bden gnyis 'jog tshul (5119)",
@@ -11,8 +11,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7582/",
-        "label": "bden gnyis spyi bshad dang bden gnyis 'jog tshul (7582)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5118/",
+        "label": "bden gnyis spyi bshad dang bden gnyis 'jog tshul (5118)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -22,9 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -58,8 +58,8 @@
       "end": null
     },
     {
-      "id": 1574,
-      "label": "bden gnyis spyi bshad dang bden gnyis 'jog tshul (5119) has as an instance bden gnyis spyi bshad dang bden gnyis 'jog tshul (5118)",
+      "id": 6212,
+      "label": "bden gnyis spyi bshad dang bden gnyis 'jog tshul (5119) has as an instance bden gnyis spyi bshad dang bden gnyis 'jog tshul (7582)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5119/",
         "label": "bden gnyis spyi bshad dang bden gnyis 'jog tshul (5119)",
@@ -67,8 +67,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5118/",
-        "label": "bden gnyis spyi bshad dang bden gnyis 'jog tshul (5118)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7582/",
+        "label": "bden gnyis spyi bshad dang bden gnyis 'jog tshul (7582)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -78,9 +78,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

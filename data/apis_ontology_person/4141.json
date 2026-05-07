@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4141/",
   "relations": [
     {
-      "id": 339,
-      "label": "btsan kha bo che (4141) other relation to gzu dga' ba'i rdo rje (4143)",
+      "id": 336,
+      "label": "btsan kha bo che (4141) other relation to rngog blo ldan shes rab (3786)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4141/",
         "label": "btsan kha bo che (4141)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4143/",
-        "label": "gzu dga' ba'i rdo rje (4143)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -22,35 +22,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[FUFWUVQQ]: 304 mentions that bTsan kha bo che received the Five treatises of Maitreya from Sajjana (ID:3800) with gZu dGa' ba'i rdo rje acting as the translator.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 5817,
-      "label": "btsan kha bo che (4141) author of bstan kha bo cha'i zin tho (7387)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4141/",
-        "label": "btsan kha bo che (4141)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7387/",
-        "label": "bstan kha bo cha'i zin tho (7387)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[R894SIKE]: 399 (des [=rNgog Lo] lo bco brgyad song ba mnga' bdag rtse lde'i me pho 'brug gi chos 'khor la | dwags po dbang rgyal | rwa lo | gnyan lo | khyung po chos brtson | mar thung dad pa shes rab | mang 'or byang chub shes rab | btsan kha ba che rnams kyis lhan cig tu sleb). Participated together at rTse lde's religious council in 1076.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -87,34 +59,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 336,
-      "label": "btsan kha bo che (4141) other relation to rngog blo ldan shes rab (3786)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4141/",
-        "label": "btsan kha bo che (4141)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 399 (des [=rNgog Lo] lo bco brgyad song ba mnga' bdag rtse lde'i me pho 'brug gi chos 'khor la | dwags po dbang rgyal | rwa lo | gnyan lo | khyung po chos brtson | mar thung dad pa shes rab | mang 'or byang chub shes rab | btsan kha ba che rnams kyis lhan cig tu sleb). Participated together at rTse lde's religious council in 1076.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 338,
       "label": "btsan kha bo che (4141) student of sajjana (3800)",
       "subj": {
@@ -146,6 +90,34 @@
       ]
     },
     {
+      "id": 339,
+      "label": "btsan kha bo che (4141) other relation to gzu dga' ba'i rdo rje (4143)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4141/",
+        "label": "btsan kha bo che (4141)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4143/",
+        "label": "gzu dga' ba'i rdo rje (4143)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FUFWUVQQ]: 304 mentions that bTsan kha bo che received the Five treatises of Maitreya from Sajjana (ID:3800) with gZu dGa' ba'i rdo rje acting as the translator.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3298,
       "label": "btsan kha bo che (4141) active at tho ling (6216)",
       "subj": {
@@ -173,6 +145,34 @@
       "start": "1076",
       "end": "1076",
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5817,
+      "label": "btsan kha bo che (4141) author of bstan kha bo cha'i zin tho (7387)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4141/",
+        "label": "btsan kha bo che (4141)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7387/",
+        "label": "bstan kha bo cha'i zin tho (7387)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 4409,

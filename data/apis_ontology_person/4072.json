@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4072/",
   "relations": [
     {
+      "id": 962,
+      "label": "grags pa tshul khrims (4072) author of shes rab kyi pha rol du phyin pa sdud pa tshigs su bcad pa'i ti ka snying po gsal byed (5169)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4072/",
+        "label": "grags pa tshul khrims (4072)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5169/",
+        "label": "shes rab kyi pha rol du phyin pa sdud pa tshigs su bcad pa'i ti ka snying po gsal byed (5169)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex70022023-09-261",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2168,
       "label": "grags pa tshul khrims (4072) active at dpal gyi 'byung gnas zhang gad rin  po che (5702)",
       "subj": {
@@ -54,34 +82,6 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "Ru phyog po was donor for the composition of (ID:5169) by Grags pa tshul khrims.",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 962,
-      "label": "grags pa tshul khrims (4072) author of shes rab kyi pha rol du phyin pa sdud pa tshigs su bcad pa'i ti ka snying po gsal byed (5169)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4072/",
-        "label": "grags pa tshul khrims (4072)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5169/",
-        "label": "shes rab kyi pha rol du phyin pa sdud pa tshigs su bcad pa'i ti ka snying po gsal byed (5169)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex70022023-09-261",
-      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

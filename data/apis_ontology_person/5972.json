@@ -31,63 +31,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 2251,
-      "label": "zhang ye ba smon lam tshul khrims (5972) author of rnam nges Tik+ka (1) (5973)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5972/",
-        "label": "zhang ye ba smon lam tshul khrims (5972)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5973/",
-        "label": "rnam nges Tik+ka (1) (5973)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 403 ('grel ba don gsal dang rnam nges la sogs pa'i bstan bcos la TI ka chen po'ang brtsams shing |)\r\n[5RXEUKD9]: 673, No. 11808: zhang ye ba smon lam tshul khrims kyi rnam nges Tik+ka.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 5627,
-      "label": "zhang ye ba smon lam tshul khrims (5972) active at snye thang (6700)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5972/",
-        "label": "zhang ye ba smon lam tshul khrims (5972)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6700/",
-        "label": "snye thang (6700)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 402-403 (khu dang skar chung ba gnyis kyi slob ma zhang g.ye ba smon lam tshul khrims kyis kyang snye thang la sogs pa'i chos gzhi mang du gzung |).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 406,
       "label": "zhang ye ba smon lam tshul khrims (5972) student of dkar chung ba gzhon nu tshul khrims (3821)",
       "subj": {
@@ -117,8 +60,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 4363,
-      "label": "zhang ye ba smon lam tshul khrims (5972) student of 'dul 'dzin dkar mo (3820)",
+      "id": 2251,
+      "label": "zhang ye ba smon lam tshul khrims (5972) author of rnam nges Tik+ka (1) (5973)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5972/",
         "label": "zhang ye ba smon lam tshul khrims (5972)",
@@ -126,10 +69,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3820/",
-        "label": "'dul 'dzin dkar mo (3820)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5973/",
+        "label": "rnam nges Tik+ka (1) (5973)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -137,13 +80,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[EG6VZ8JK]: 25, translated from [8GL7ZT7Y]: 15a2 (des byang chub 'bum la | des gnyal zhig 'jam pa'i rdo rje la bshad cing |). We understand \"byang chub 'bum\" who is a student of 'Dul 'dzin gzhon nu tshul khrims and a teacher of gNyal zhig to be gZhon nu tshul khrims.",
+      "zotero_refs": "[R894SIKE]: 403 ('grel ba don gsal dang rnam nges la sogs pa'i bstan bcos la TI ka chen po'ang brtsams shing |)\r\n[5RXEUKD9]: 673, No. 11808: zhang ye ba smon lam tshul khrims kyi rnam nges Tik+ka.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 2688,
@@ -201,6 +143,64 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 4363,
+      "label": "zhang ye ba smon lam tshul khrims (5972) student of 'dul 'dzin dkar mo (3820)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5972/",
+        "label": "zhang ye ba smon lam tshul khrims (5972)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3820/",
+        "label": "'dul 'dzin dkar mo (3820)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[EG6VZ8JK]: 25, translated from [8GL7ZT7Y]: 15a2 (des byang chub 'bum la | des gnyal zhig 'jam pa'i rdo rje la bshad cing |). We understand \"byang chub 'bum\" who is a student of 'Dul 'dzin gzhon nu tshul khrims and a teacher of gNyal zhig to be gZhon nu tshul khrims.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5627,
+      "label": "zhang ye ba smon lam tshul khrims (5972) active at snye thang (6700)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5972/",
+        "label": "zhang ye ba smon lam tshul khrims (5972)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6700/",
+        "label": "snye thang (6700)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 402-403 (khu dang skar chung ba gnyis kyi slob ma zhang g.ye ba smon lam tshul khrims kyis kyang snye thang la sogs pa'i chos gzhi mang du gzung |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 5267,

@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3829/",
   "relations": [
     {
+      "id": 322,
+      "label": "po to ba rin chen gsal (3829) student of 'brom ston rgyal ba'i 'byung gnas (3827)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3829/",
+        "label": "po to ba rin chen gsal (3829)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3827/",
+        "label": "'brom ston rgyal ba'i 'byung gnas (3827)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 322 (dge ba'i bshes gnyen po to ba ni...rang lo nyi shu rtsa brgyad pa sa pho khyi'i lo la rwa sgreng du byon | der 'brom la dad pa thob nas de kho nar bzhugs |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 1079,
       "label": "po to ba rin chen gsal (3829) author of bcom ldan 'das ma shes rab kyi pha rol tu phyin pa'i snying po'i don gyi cha shas bshad pa (5337)",
       "subj": {
@@ -58,8 +87,8 @@
       "end": null
     },
     {
-      "id": 322,
-      "label": "po to ba rin chen gsal (3829) student of 'brom ston rgyal ba'i 'byung gnas (3827)",
+      "id": 2441,
+      "label": "po to ba rin chen gsal (3829) biographed in dge bshes po to ba'i rnam thar (5353)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3829/",
         "label": "po to ba rin chen gsal (3829)",
@@ -67,10 +96,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3827/",
-        "label": "'brom ston rgyal ba'i 'byung gnas (3827)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5353/",
+        "label": "dge bshes po to ba'i rnam thar (5353)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -78,13 +107,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 322 (dge ba'i bshes gnyen po to ba ni...rang lo nyi shu rtsa brgyad pa sa pho khyi'i lo la rwa sgreng du byon | der 'brom la dad pa thob nas de kho nar bzhugs |).",
-      "tei_refs": "",
-      "support_notes": "",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 2915,
@@ -139,34 +167,6 @@
       "zotero_refs": "[R894SIKE]: 332 ([sha rab ba] po to ba'i spyan sngar byon nas rab tu byung zhing gdams pa gsan |).",
       "tei_refs": "",
       "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 2441,
-      "label": "po to ba rin chen gsal (3829) biographed in dge bshes po to ba'i rnam thar (5353)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3829/",
-        "label": "po to ba rin chen gsal (3829)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5353/",
-        "label": "dge bshes po to ba'i rnam thar (5353)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

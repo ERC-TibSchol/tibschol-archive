@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4136/",
   "relations": [
     {
-      "id": 4252,
-      "label": "chag nyi ma dpal (4136) teaches chos mngon pa mdzod kyi 'grel bshad (6105)",
+      "id": 4249,
+      "label": "chag nyi ma dpal (4136) teaches spring yig bdud rtsi'i thig pa (4447)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4136/",
         "label": "chag nyi ma dpal (4136)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6105/",
-        "label": "chos mngon pa mdzod kyi 'grel bshad (6105)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4447/",
+        "label": "spring yig bdud rtsi'i thig pa (4447)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 4249,
-      "label": "chag nyi ma dpal (4136) teaches spring yig bdud rtsi'i thig pa (4447)",
+      "id": 4252,
+      "label": "chag nyi ma dpal (4136) teaches chos mngon pa mdzod kyi 'grel bshad (6105)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4136/",
         "label": "chag nyi ma dpal (4136)",
@@ -39,8 +39,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4447/",
-        "label": "spring yig bdud rtsi'i thig pa (4447)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6105/",
+        "label": "chos mngon pa mdzod kyi 'grel bshad (6105)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },

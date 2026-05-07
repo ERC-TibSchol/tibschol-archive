@@ -30,6 +30,34 @@
       "end": null
     },
     {
+      "id": 6691,
+      "label": "spyod 'jug bsdus don (2) (7801) has as an instance spyod 'jug bsdus don (1) (7802)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7801/",
+        "label": "spyod 'jug bsdus don (2) (7801)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7802/",
+        "label": "spyod 'jug bsdus don (1) (7802)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 6702,
       "label": "spyod 'jug bsdus don (2) (7801) has as an instance spyod 'jug bsdus don (2) (7809)",
       "subj": {
@@ -69,34 +97,6 @@
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7810/",
         "label": "spyod 'jug bsdus don (3) (7810)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 6691,
-      "label": "spyod 'jug bsdus don (2) (7801) has as an instance spyod 'jug bsdus don (1) (7802)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7801/",
-        "label": "spyod 'jug bsdus don (2) (7801)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7802/",
-        "label": "spyod 'jug bsdus don (1) (7802)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },

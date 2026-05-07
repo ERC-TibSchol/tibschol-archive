@@ -2,99 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4237/",
   "relations": [
     {
-      "id": 3700,
-      "label": "ra khri bzang 'bar (4237) lineage predecessor of ko ye shes 'byung gnas (4241)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4237/",
-        "label": "ra khri bzang 'bar (4237)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
-        "label": "ko ye shes 'byung gnas (4241)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[K9NNDTDS]: 1397. Transmission of the Abhidharmasamuccaya (ID:3755). Successor of Rwa together with Ngur smrig pa Dar ma snying po (ID:4291).",
-      "tei_refs": "ex8001_2024-11-1408-36-05 (Abhidharmasamuccaya lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
-      "id": 6688,
-      "label": "ra khri bzang 'bar (4237) lineage predecessor of rgya tshul li (4238)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4237/",
-        "label": "ra khri bzang 'bar (4237)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4238/",
-        "label": "rgya tshul li (4238)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[TZC3JQWE]: 357. Abhidharmasamuccaya lineage according to the Fifth Dalai Lama (ca. 1670).",
-      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
-      "id": 3699,
-      "label": "ra khri bzang 'bar (4237) lineage predecessor of ngur smrig pa dar ma snying po (4291)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4237/",
-        "label": "ra khri bzang 'bar (4237)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
-        "label": "ngur smrig pa dar ma snying po (4291)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[K9NNDTDS]: 1397. Transmission of the Abhidharmasamuccaya (ID:3755). \"rwa khri bzang 'bar\" precedes \"ngur smrig pa dar ma syning po\" and \"ko bo ye shes 'byung gnas\".",
-      "tei_refs": "ex8001_2024-11-1408-36-05 (Abhidharmasamuccaya lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
       "id": 446,
       "label": "ra khri bzang 'bar (4237) other relation to rgya tshul li (4238)",
       "subj": {
@@ -151,6 +58,99 @@
       "end": null
     },
     {
+      "id": 448,
+      "label": "ra khri bzang 'bar (4237) lineage predecessor of ngur smrig pa dar ma snying po (4291)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4237/",
+        "label": "ra khri bzang 'bar (4237)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
+        "label": "ngur smrig pa dar ma snying po (4291)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 3699,
+      "label": "ra khri bzang 'bar (4237) lineage predecessor of ngur smrig pa dar ma snying po (4291)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4237/",
+        "label": "ra khri bzang 'bar (4237)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
+        "label": "ngur smrig pa dar ma snying po (4291)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1397. Transmission of the Abhidharmasamuccaya (ID:3755). \"rwa khri bzang 'bar\" precedes \"ngur smrig pa dar ma syning po\" and \"ko bo ye shes 'byung gnas\".",
+      "tei_refs": "ex8001_2024-11-1408-36-05 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 3700,
+      "label": "ra khri bzang 'bar (4237) lineage predecessor of ko ye shes 'byung gnas (4241)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4237/",
+        "label": "ra khri bzang 'bar (4237)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
+        "label": "ko ye shes 'byung gnas (4241)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1397. Transmission of the Abhidharmasamuccaya (ID:3755). Successor of Rwa together with Ngur smrig pa Dar ma snying po (ID:4291).",
+      "tei_refs": "ex8001_2024-11-1408-36-05 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
       "id": 4553,
       "label": "ra khri bzang 'bar (4237) student of khu ston brtson 'grus g.yung drung (4235)",
       "subj": {
@@ -180,8 +180,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 448,
-      "label": "ra khri bzang 'bar (4237) lineage predecessor of ngur smrig pa dar ma snying po (4291)",
+      "id": 6688,
+      "label": "ra khri bzang 'bar (4237) lineage predecessor of rgya tshul li (4238)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4237/",
         "label": "ra khri bzang 'bar (4237)",
@@ -189,8 +189,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
-        "label": "ngur smrig pa dar ma snying po (4291)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4238/",
+        "label": "rgya tshul li (4238)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -200,8 +200,8 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
+      "zotero_refs": "[TZC3JQWE]: 357. Abhidharmasamuccaya lineage according to the Fifth Dalai Lama (ca. 1670).",
+      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

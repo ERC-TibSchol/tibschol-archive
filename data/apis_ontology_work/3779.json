@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3779/",
   "relations": [
     {
-      "id": 5523,
-      "label": "ny\u0101yabindu\u1e6d\u012bk\u0101 (3779) taught at g.yu rtse 'byid phu (6656)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3779/",
-        "label": "ny\u0101yabindu\u1e6d\u012bk\u0101 (3779)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6656/",
-        "label": "g.yu rtse 'byid phu (6656)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a3) (de nas yang grom pa g.yu rtse 'byid phur dge bshes me'i lhang tsher zhes bya ba las tshad ma rnam par nges pa dang | rig thigs kyi rgya cher 'grel pa bam po bco lnga pa dang | dbu ma rang rgyud shar gsum du grags pa dang bcas pa gsan cing khong du chud par mdzad pa yin no ||).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2097,
       "label": "ny\u0101yabindu\u1e6d\u012bk\u0101 (3779) commentary on ny\u0101yabindu (5589)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5523,
+      "label": "ny\u0101yabindu\u1e6d\u012bk\u0101 (3779) taught at g.yu rtse 'byid phu (6656)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3779/",
+        "label": "ny\u0101yabindu\u1e6d\u012bk\u0101 (3779)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6656/",
+        "label": "g.yu rtse 'byid phu (6656)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a3) (de nas yang grom pa g.yu rtse 'byid phur dge bshes me'i lhang tsher zhes bya ba las tshad ma rnam par nges pa dang | rig thigs kyi rgya cher 'grel pa bam po bco lnga pa dang | dbu ma rang rgyud shar gsum du grags pa dang bcas pa gsan cing khong du chud par mdzad pa yin no ||).",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

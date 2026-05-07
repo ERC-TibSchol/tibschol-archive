@@ -34,8 +34,8 @@
       ]
     },
     {
-      "id": 6105,
-      "label": "rtsegs dbang phyug seng ge (4289) lineage predecessor of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+      "id": 2781,
+      "label": "rtsegs dbang phyug seng ge (4289) active at gsang phu ne'u thog gi gtsug lag khang (6173)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
         "label": "rtsegs dbang phyug seng ge (4289)",
@@ -43,26 +43,24 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
-        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6173/",
+        "label": "gsang phu ne'u thog gi gtsug lag khang (6173)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[ABYM2GP5]: 25. According to \u015a\u0101kya mchog ldan, rNgog Lo (ID:3786)'s sv\u0101tantrika Madhyamaka lineage went from Phya pa (ID:3831) to brTsegs (ID:4289), then to Sa skya Pa\u1e47\u1e0dita (ID:3892), 'U yug pa (ID:3846), Zhang mDo sde dpal (ID:6624), Bla ma dam pa (ID:3916), and g.Yag ston (ID:6153).",
+      "end_date_to": "1174-12-31",
+      "end_date_from": "1174-01-01",
+      "end_date_sort": "1174-07-02",
+      "start_date_to": "1169-12-31",
+      "start_date_from": "1169-01-01",
+      "start_date_sort": "1169-07-02",
+      "zotero_refs": "[7FZ3B926]: 111. Abbot of gSang phu ne'u thog's monastery for five years until 1174. \r\n[MPRU5QUC]: 209. Seventh abbot of gSang phu ne'u thog's monastery for five years.\r\n[ABYM2GP5]: 24.",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "Follows Phya pa (ID:3831) and precedes Dad pa bzang po (ID:6243) as abbot.",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        13
-      ]
+      "start": "1169",
+      "end": "1174",
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 3678,
@@ -123,8 +121,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 2781,
-      "label": "rtsegs dbang phyug seng ge (4289) active at gsang phu ne'u thog gi gtsug lag khang (6173)",
+      "id": 6105,
+      "label": "rtsegs dbang phyug seng ge (4289) lineage predecessor of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
         "label": "rtsegs dbang phyug seng ge (4289)",
@@ -132,24 +130,26 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6173/",
-        "label": "gsang phu ne'u thog gi gtsug lag khang (6173)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
-      "end_date_to": "1174-12-31",
-      "end_date_from": "1174-01-01",
-      "end_date_sort": "1174-07-02",
-      "start_date_to": "1169-12-31",
-      "start_date_from": "1169-01-01",
-      "start_date_sort": "1169-07-02",
-      "zotero_refs": "[7FZ3B926]: 111. Abbot of gSang phu ne'u thog's monastery for five years until 1174. \r\n[MPRU5QUC]: 209. Seventh abbot of gSang phu ne'u thog's monastery for five years.\r\n[ABYM2GP5]: 24.",
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 25. According to \u015a\u0101kya mchog ldan, rNgog Lo (ID:3786)'s sv\u0101tantrika Madhyamaka lineage went from Phya pa (ID:3831) to brTsegs (ID:4289), then to Sa skya Pa\u1e47\u1e0dita (ID:3892), 'U yug pa (ID:3846), Zhang mDo sde dpal (ID:6624), Bla ma dam pa (ID:3916), and g.Yag ston (ID:6153).",
       "tei_refs": "",
-      "support_notes": "Follows Phya pa (ID:3831) and precedes Dad pa bzang po (ID:6243) as abbot.",
+      "support_notes": "",
       "confidence": "Positive",
-      "start": "1169",
-      "end": "1174",
-      "subject_of_teaching_vocab": []
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 5123,

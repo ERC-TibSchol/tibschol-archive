@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
   "relations": [
     {
-      "id": 6880,
-      "label": "mar pa do ba chos kyi dbang phyug (4215) student of rong zom chos kyi bzang po (6198)",
+      "id": 417,
+      "label": "mar pa do ba chos kyi dbang phyug (4215) lineage predecessor of lcang ra ba ldum ston (4216)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
         "label": "mar pa do ba chos kyi dbang phyug (4215)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6198/",
-        "label": "rong zom chos kyi bzang po (6198)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4216/",
+        "label": "lcang ra ba ldum ston (4216)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -22,9 +22,66 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[BAQ9MH4T]: 171.",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4042,
+      "label": "mar pa do ba chos kyi dbang phyug (4215) translator of ratnagotravibh\u0101ga (3749)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
+        "label": "mar pa do ba chos kyi dbang phyug (4215)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
+        "label": "ratnagotravibh\u0101ga (3749)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 171-172. This translation is not extant.",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4068,
+      "label": "mar pa do ba chos kyi dbang phyug (4215) student of bodhibhadra (5921)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
+        "label": "mar pa do ba chos kyi dbang phyug (4215)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5921/",
+        "label": "bodhibhadra (5921)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BUDA",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -60,8 +117,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 6882,
-      "label": "mar pa do ba chos kyi dbang phyug (4215) other relation to mar pa lo tsA ba chos kyi blo gros (6968)",
+      "id": 6880,
+      "label": "mar pa do ba chos kyi dbang phyug (4215) student of rong zom chos kyi bzang po (6198)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
         "label": "mar pa do ba chos kyi dbang phyug (4215)",
@@ -69,8 +126,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6968/",
-        "label": "mar pa lo tsA ba chos kyi blo gros (6968)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6198/",
+        "label": "rong zom chos kyi bzang po (6198)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -80,40 +137,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[BAQ9MH4T]: 171. They met in Nepal.",
+      "zotero_refs": "[BAQ9MH4T]: 171.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
-    },
-    {
-      "id": 4042,
-      "label": "mar pa do ba chos kyi dbang phyug (4215) translator of ratnagotravibh\u0101ga (3749)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
-        "label": "mar pa do ba chos kyi dbang phyug (4215)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
-        "label": "ratnagotravibh\u0101ga (3749)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[BAQ9MH4T]: 171-172. This translation is not extant.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 6881,
@@ -145,8 +175,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 4068,
-      "label": "mar pa do ba chos kyi dbang phyug (4215) student of bodhibhadra (5921)",
+      "id": 6882,
+      "label": "mar pa do ba chos kyi dbang phyug (4215) other relation to mar pa lo tsA ba chos kyi blo gros (6968)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
         "label": "mar pa do ba chos kyi dbang phyug (4215)",
@@ -154,8 +184,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5921/",
-        "label": "bodhibhadra (5921)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6968/",
+        "label": "mar pa lo tsA ba chos kyi blo gros (6968)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -165,42 +195,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[BAQ9MH4T]: 171. They met in Nepal.",
       "tei_refs": "",
-      "support_notes": "BUDA",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 417,
-      "label": "mar pa do ba chos kyi dbang phyug (4215) lineage predecessor of lcang ra ba ldum ston (4216)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
-        "label": "mar pa do ba chos kyi dbang phyug (4215)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4216/",
-        "label": "lcang ra ba ldum ston (4216)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 6874,

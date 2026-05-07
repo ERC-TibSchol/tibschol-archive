@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6667/",
   "relations": [
     {
-      "id": 6711,
-      "label": "jinamitra (6667) author of ny\u0101ya\u00adbindu\u00adpi\u1e47\u1e0d\u0101rtha (7815)",
+      "id": 4564,
+      "label": "jinamitra (6667) lineage predecessor of ska ba dpal brtsegs (4222)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6667/",
         "label": "jinamitra (6667)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7815/",
-        "label": "ny\u0101ya\u00adbindu\u00adpi\u1e47\u1e0d\u0101rtha (7815)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4222/",
+        "label": "ska ba dpal brtsegs (4222)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,12 +22,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
+      "zotero_refs": "[TZC3JQWE]: 356. Abhidharmasamuccaya lineage according to the Fifth Dalai Lama (ca. 1670).",
+      "tei_refs": "ex8001_2024-11-1408-36-05 (Abhidharmasamuccaya lineage)\r\nex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
     },
     {
       "id": 4565,
@@ -61,8 +64,8 @@
       ]
     },
     {
-      "id": 4564,
-      "label": "jinamitra (6667) lineage predecessor of ska ba dpal brtsegs (4222)",
+      "id": 6711,
+      "label": "jinamitra (6667) author of ny\u0101ya\u00adbindu\u00adpi\u1e47\u1e0d\u0101rtha (7815)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6667/",
         "label": "jinamitra (6667)",
@@ -70,10 +73,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4222/",
-        "label": "ska ba dpal brtsegs (4222)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7815/",
+        "label": "ny\u0101ya\u00adbindu\u00adpi\u1e47\u1e0d\u0101rtha (7815)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -81,15 +84,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[TZC3JQWE]: 356. Abhidharmasamuccaya lineage according to the Fifth Dalai Lama (ca. 1670).",
-      "tei_refs": "ex8001_2024-11-1408-36-05 (Abhidharmasamuccaya lineage)\r\nex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
+      "zotero_refs": "",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
+      "end": null
     },
     {
       "id": 4560,

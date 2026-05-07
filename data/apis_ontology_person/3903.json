@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3903/",
   "relations": [
     {
-      "id": 4652,
-      "label": "dbu ma pa shes rab 'bum (3903) ordinator of brag kha ba grags pa seng ge (3907)",
+      "id": 162,
+      "label": "dbu ma pa shes rab 'bum (3903) student of bo dong rin chen rtse mo (3904)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3903/",
         "label": "dbu ma pa shes rab 'bum (3903)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3907/",
-        "label": "brag kha ba grags pa seng ge (3907)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
+        "label": "bo dong rin chen rtse mo (3904)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -22,12 +22,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 906 (phyis mkhan po de nyid dang dbu ma pa sher 'bum gyis slob dpon | bu ston seng ge 'od kyis gsang ston mdzad de [Brag kha ba] bsnyen par rdzogs |). Final ordination of Brag kha ba (ID:3907), carried out by dBu ma pa sher 'bum (ID:3903) together with and Bu ston seng ge 'od (ID:7015) and Khro phu rin po che (ID:7014).",
+      "zotero_refs": "[R894SIKE]: 408 (bo dong rin rtses brag ram du bshad grwa btsugs | slob dpon der 'ong | dbu ma pa sher 'bum | bu ston grags seng la sogs pa'i mkhas pa mang du thon no |).\r\n[4TBERVZD]: 11.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 163,
@@ -59,8 +60,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 162,
-      "label": "dbu ma pa shes rab 'bum (3903) student of bo dong rin chen rtse mo (3904)",
+      "id": 4652,
+      "label": "dbu ma pa shes rab 'bum (3903) ordinator of brag kha ba grags pa seng ge (3907)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3903/",
         "label": "dbu ma pa shes rab 'bum (3903)",
@@ -68,8 +69,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3904/",
-        "label": "bo dong rin chen rtse mo (3904)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3907/",
+        "label": "brag kha ba grags pa seng ge (3907)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -79,13 +80,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 408 (bo dong rin rtses brag ram du bshad grwa btsugs | slob dpon der 'ong | dbu ma pa sher 'bum | bu ston grags seng la sogs pa'i mkhas pa mang du thon no |).\r\n[4TBERVZD]: 11.",
+      "zotero_refs": "[R894SIKE]: 906 (phyis mkhan po de nyid dang dbu ma pa sher 'bum gyis slob dpon | bu ston seng ge 'od kyis gsang ston mdzad de [Brag kha ba] bsnyen par rdzogs |). Final ordination of Brag kha ba (ID:3907), carried out by dBu ma pa sher 'bum (ID:3903) together with and Bu ston seng ge 'od (ID:7015) and Khro phu rin po che (ID:7014).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 4655,

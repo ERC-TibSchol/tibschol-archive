@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6319/",
   "relations": [
     {
-      "id": 4869,
-      "label": "gsang mda' ba bsam 'grub dpal bzang (6319) active at gsang mda' grong (4340)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6319/",
-        "label": "gsang mda' ba bsam 'grub dpal bzang (6319)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4340/",
-        "label": "gsang mda' grong (4340)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": "1625-12-31",
-      "end_date_from": null,
-      "end_date_sort": "1625-12-31",
-      "start_date_to": null,
-      "start_date_from": "1475-01-01",
-      "start_date_sort": "1475-01-01",
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "His name suggests he originated or was active at gSang mda'.",
-      "confidence": "Positive",
-      "start": "after 1475",
-      "end": "before 1625",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2887,
       "label": "gsang mda' ba bsam 'grub dpal bzang (6319) active at gsang phu gling smad (6158)",
       "subj": {
@@ -54,6 +25,35 @@
       "zotero_refs": "[MPRU5QUC]: 210. Abbot of gSang phu ne'u thog monastery (38th abbot of lower college).",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1475",
+      "end": "before 1625",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4869,
+      "label": "gsang mda' ba bsam 'grub dpal bzang (6319) active at gsang mda' grong (4340)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6319/",
+        "label": "gsang mda' ba bsam 'grub dpal bzang (6319)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4340/",
+        "label": "gsang mda' grong (4340)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1625-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1625-12-31",
+      "start_date_to": null,
+      "start_date_from": "1475-01-01",
+      "start_date_sort": "1475-01-01",
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "His name suggests he originated or was active at gSang mda'.",
       "confidence": "Positive",
       "start": "after 1475",
       "end": "before 1625",

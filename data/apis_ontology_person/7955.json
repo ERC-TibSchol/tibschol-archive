@@ -2,6 +2,37 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7955/",
   "relations": [
     {
+      "id": 6943,
+      "label": "yar klungs pa (7955) active at byang ngos (7952)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7955/",
+        "label": "yar klungs pa (7955)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7952/",
+        "label": "byang ngos (7952)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5FZQCNC]: 17. Composition of work (ID:7956).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        19
+      ]
+    },
+    {
       "id": 6945,
       "label": "yar klungs pa (7955) author of bla ma chos kyi rje dpal ldan sa skya pa\u1e47\u1e0dita chen po'i rnam par thar pa mdor bsdus pa (7956)",
       "subj": {
@@ -85,37 +116,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 6943,
-      "label": "yar klungs pa (7955) active at byang ngos (7952)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7955/",
-        "label": "yar klungs pa (7955)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7952/",
-        "label": "byang ngos (7952)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Z5FZQCNC]: 17. Composition of work (ID:7956).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        19
-      ]
     }
   ],
   "end_date_to": "1300-12-31",

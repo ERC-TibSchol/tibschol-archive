@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3871/",
   "relations": [
     {
+      "id": 128,
+      "label": "gtsang pa sar spos (3871) student of pa tshab nyi ma grags (3868)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3871/",
+        "label": "gtsang pa sar spos (3871)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
+        "label": "pa tshab nyi ma grags (3868)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: 20.\r\n[EG6VZ8JK]: 23, translated from [8GL7ZT7Y].\r\n[XJHQU4GM]: 136. Sar sbos is one of the \"four sons\" of Pa tshab.\r\n[647FFPZR]: 544. lCang ra ba is listed as one of the four disciples of Pa tshab. In other sources, Gangs pa (ID:3810) is listed instead.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 4355,
       "label": "gtsang pa sar spos (3871) active at nyang (6430)",
       "subj": {
@@ -62,35 +91,6 @@
       "subject_of_teaching_vocab": [
         13
       ]
-    },
-    {
-      "id": 128,
-      "label": "gtsang pa sar spos (3871) student of pa tshab nyi ma grags (3868)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3871/",
-        "label": "gtsang pa sar spos (3871)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
-        "label": "pa tshab nyi ma grags (3868)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: 20.\r\n[EG6VZ8JK]: 23, translated from [8GL7ZT7Y].\r\n[XJHQU4GM]: 136. Sar sbos is one of the \"four sons\" of Pa tshab.\r\n[647FFPZR]: 544. lCang ra ba is listed as one of the four disciples of Pa tshab. In other sources, Gangs pa (ID:3810) is listed instead.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     },
     {
       "id": 2630,

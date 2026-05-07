@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4663/",
   "relations": [
     {
-      "id": 1370,
-      "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663) has as an instance mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4662)",
+      "id": 683,
+      "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4663/",
         "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4662/",
-        "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4662)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
+        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 683,
-      "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
+      "id": 1370,
+      "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663) has as an instance mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4662)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4663/",
         "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
-        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4662/",
+        "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4662)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

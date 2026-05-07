@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6714/",
   "relations": [
     {
-      "id": 3871,
-      "label": "byang chub rin chen dpal bzang po (6714) active at rdzing kha (6731)",
+      "id": 3831,
+      "label": "byang chub rin chen dpal bzang po (6714) active at zul phu (6492)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6714/",
         "label": "byang chub rin chen dpal bzang po (6714)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6731/",
-        "label": "rdzing kha (6731)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6492/",
+        "label": "zul phu (6492)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -22,12 +22,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[W4T5ZMUP]: 41. Born in rDzing kha.",
+      "zotero_refs": "[W4T5ZMUP]: 38 and 41. Seventh abbot of Zul phu.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
+      "start": "1337",
+      "end": "1337",
       "subject_of_teaching_vocab": []
     },
     {
@@ -59,6 +59,35 @@
       "end": null
     },
     {
+      "id": 3871,
+      "label": "byang chub rin chen dpal bzang po (6714) active at rdzing kha (6731)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6714/",
+        "label": "byang chub rin chen dpal bzang po (6714)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6731/",
+        "label": "rdzing kha (6731)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 41. Born in rDzing kha.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 4160,
       "label": "byang chub rin chen dpal bzang po (6714) active at gsang phu ne'u thog (4332)",
       "subj": {
@@ -85,35 +114,6 @@
       "confidence": "Positive",
       "start": "after 1326",
       "end": "before 1390",
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3831,
-      "label": "byang chub rin chen dpal bzang po (6714) active at zul phu (6492)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6714/",
-        "label": "byang chub rin chen dpal bzang po (6714)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6492/",
-        "label": "zul phu (6492)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[W4T5ZMUP]: 38 and 41. Seventh abbot of Zul phu.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1337",
-      "end": "1337",
       "subject_of_teaching_vocab": []
     },
     {

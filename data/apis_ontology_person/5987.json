@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5987/",
   "relations": [
     {
-      "id": 6981,
-      "label": "smon lam 'od zer (5987) quotes without name rngog blo ldan shes rab (3786)",
+      "id": 2272,
+      "label": "smon lam 'od zer (5987) author of rnam par nges pa'i ti ka bshad pa sbyar ba rigs pa gsal ldan (5988)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5987/",
         "label": "smon lam 'od zer (5987)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5988/",
+        "label": "rnam par nges pa'i ti ka bshad pa sbyar ba rigs pa gsal ldan (5988)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,46 +22,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "exX0232026-03-2016-30-54\r\nexX0232026-03-2016-34-13",
-      "support_notes": "",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
-      "id": 6980,
-      "label": "smon lam 'od zer (5987) quotes without name phywa pa chos kyi seng ge (3831)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5987/",
-        "label": "smon lam 'od zer (5987)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "exX0232026-03-2016-20-25\r\nexX0232026-03-2016-30-54\r\nexX0232026-03-2016-34-13\r\nexX0232026-03-2016-37-13",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
+      "end": null
     },
     {
       "id": 6977,
@@ -86,6 +52,37 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "exX0232026-03-2015-33-20",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 6978,
+      "label": "smon lam 'od zer (5987) quotes without name khyung rin chen grags (3809)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5987/",
+        "label": "smon lam 'od zer (5987)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "exX0232026-03-2015-33-21",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -126,8 +123,8 @@
       ]
     },
     {
-      "id": 2272,
-      "label": "smon lam 'od zer (5987) author of rnam par nges pa'i ti ka bshad pa sbyar ba rigs pa gsal ldan (5988)",
+      "id": 6980,
+      "label": "smon lam 'od zer (5987) quotes without name phywa pa chos kyi seng ge (3831)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5987/",
         "label": "smon lam 'od zer (5987)",
@@ -135,36 +132,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5988/",
-        "label": "rnam par nges pa'i ti ka bshad pa sbyar ba rigs pa gsal ldan (5988)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 6978,
-      "label": "smon lam 'od zer (5987) quotes without name khyung rin chen grags (3809)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5987/",
-        "label": "smon lam 'od zer (5987)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
-        "label": "khyung rin chen grags (3809)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -175,7 +144,38 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "exX0232026-03-2015-33-21",
+      "tei_refs": "exX0232026-03-2016-20-25\r\nexX0232026-03-2016-30-54\r\nexX0232026-03-2016-34-13\r\nexX0232026-03-2016-37-13",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 6981,
+      "label": "smon lam 'od zer (5987) quotes without name rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5987/",
+        "label": "smon lam 'od zer (5987)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "exX0232026-03-2016-30-54\r\nexX0232026-03-2016-34-13",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

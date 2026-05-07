@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7805/",
   "relations": [
     {
-      "id": 6696,
-      "label": "bstan bcos tshig gsal ba'i gzhal bya nye bar 'god pa'i bshad pa (7805) commentary on prasannapad\u0101 (3724)",
+      "id": 6695,
+      "label": "bstan bcos tshig gsal ba'i gzhal bya nye bar 'god pa'i bshad pa (7805) has as an instance bstan bcos tshig gsal ba'i gzhal bya nye bar 'god pa'i bshad pa (7806)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7805/",
         "label": "bstan bcos tshig gsal ba'i gzhal bya nye bar 'god pa'i bshad pa (7805)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3724/",
-        "label": "prasannapad\u0101 (3724)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7806/",
+        "label": "bstan bcos tshig gsal ba'i gzhal bya nye bar 'god pa'i bshad pa (7806)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 6695,
-      "label": "bstan bcos tshig gsal ba'i gzhal bya nye bar 'god pa'i bshad pa (7805) has as an instance bstan bcos tshig gsal ba'i gzhal bya nye bar 'god pa'i bshad pa (7806)",
+      "id": 6696,
+      "label": "bstan bcos tshig gsal ba'i gzhal bya nye bar 'god pa'i bshad pa (7805) commentary on prasannapad\u0101 (3724)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7805/",
         "label": "bstan bcos tshig gsal ba'i gzhal bya nye bar 'god pa'i bshad pa (7805)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7806/",
-        "label": "bstan bcos tshig gsal ba'i gzhal bya nye bar 'god pa'i bshad pa (7806)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3724/",
+        "label": "prasannapad\u0101 (3724)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,

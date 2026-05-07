@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6363/",
   "relations": [
     {
-      "id": 3636,
-      "label": "mi nyag rin chen bzang po (6363) active at rA tI dga' ldan byams pa gling (5950)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6363/",
-        "label": "mi nyag rin chen bzang po (6363)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5950/",
-        "label": "rA tI dga' ldan byams pa gling (5950)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 141. Founded the monastery of rAtI byams pa gling.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1364",
-      "end": "1364",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2971,
       "label": "mi nyag rin chen bzang po (6363) active at gsang phu gling stod (6172)",
       "subj": {
@@ -57,6 +28,35 @@
       "confidence": "Positive",
       "start": "after 1337",
       "end": "before 1383",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3636,
+      "label": "mi nyag rin chen bzang po (6363) active at rA tI dga' ldan byams pa gling (5950)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6363/",
+        "label": "mi nyag rin chen bzang po (6363)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5950/",
+        "label": "rA tI dga' ldan byams pa gling (5950)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 141. Founded the monastery of rAtI byams pa gling.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1364",
+      "end": "1364",
       "subject_of_teaching_vocab": []
     },
     {

@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6259/",
   "relations": [
     {
-      "id": 2806,
-      "label": "mdo sde rgyan gyi don bsdus las btus pa (6259) commentary on mdo sde rgyan gyi don bsdus (4437)",
+      "id": 2804,
+      "label": "mdo sde rgyan gyi don bsdus las btus pa (6259) has as an instance mdo sde rgyan gyi don bsdus las btus pa (6260)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6259/",
         "label": "mdo sde rgyan gyi don bsdus las btus pa (6259)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4437/",
-        "label": "mdo sde rgyan gyi don bsdus (4437)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6260/",
+        "label": "mdo sde rgyan gyi don bsdus las btus pa (6260)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 2804,
-      "label": "mdo sde rgyan gyi don bsdus las btus pa (6259) has as an instance mdo sde rgyan gyi don bsdus las btus pa (6260)",
+      "id": 2806,
+      "label": "mdo sde rgyan gyi don bsdus las btus pa (6259) commentary on mdo sde rgyan gyi don bsdus (4437)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6259/",
         "label": "mdo sde rgyan gyi don bsdus las btus pa (6259)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6260/",
-        "label": "mdo sde rgyan gyi don bsdus las btus pa (6260)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4437/",
+        "label": "mdo sde rgyan gyi don bsdus (4437)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,

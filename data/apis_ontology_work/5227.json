@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5227/",
   "relations": [
     {
-      "id": 1625,
-      "label": "'grel pa don gsal gyi bsdus don (5227) has as an instance 'grel pa don gsal gyi bsdus don (5226)",
+      "id": 1008,
+      "label": "'grel pa don gsal gyi bsdus don (5227) commentary on abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5227/",
         "label": "'grel pa don gsal gyi bsdus don (5227)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5226/",
-        "label": "'grel pa don gsal gyi bsdus don (5226)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3711/",
+        "label": "abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1008,
-      "label": "'grel pa don gsal gyi bsdus don (5227) commentary on abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
+      "id": 1625,
+      "label": "'grel pa don gsal gyi bsdus don (5227) has as an instance 'grel pa don gsal gyi bsdus don (5226)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5227/",
         "label": "'grel pa don gsal gyi bsdus don (5227)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3711/",
-        "label": "abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5226/",
+        "label": "'grel pa don gsal gyi bsdus don (5226)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

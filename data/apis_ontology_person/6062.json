@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6062/",
   "relations": [
     {
+      "id": 2370,
+      "label": "klong chen rab 'byams pa (6062) author of tshad ma'i de kho na nyid bsdus pa (5507)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6062/",
+        "label": "klong chen rab 'byams pa (6062)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5507/",
+        "label": "tshad ma'i de kho na nyid bsdus pa (5507)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "The colophon of the text that attributes authorship to Klong chen rab 'byams. This is contested in <<van der Kuijp 2003 [FZ6N88AU]>> and <<Stoltz 2020 [MGPRHX73]>>.",
+      "confidence": "Negative",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2500,
       "label": "klong chen rab 'byams pa (6062) active at gsang phu ne'u thog (4332)",
       "subj": {
@@ -31,6 +59,38 @@
       "subject_of_teaching_vocab": [
         9,
         56,
+        7
+      ]
+    },
+    {
+      "id": 2501,
+      "label": "klong chen rab 'byams pa (6062) student of btsan dgon pa (6145)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6062/",
+        "label": "klong chen rab 'byams pa (6062)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6145/",
+        "label": "btsan dgon pa (6145)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 249. In gSang phu (ID: 4332).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "",
+      "end": "",
+      "subject_of_teaching_vocab": [
+        9,
         7
       ]
     },
@@ -120,66 +180,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 2501,
-      "label": "klong chen rab 'byams pa (6062) student of btsan dgon pa (6145)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6062/",
-        "label": "klong chen rab 'byams pa (6062)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6145/",
-        "label": "btsan dgon pa (6145)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 249. In gSang phu (ID: 4332).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "",
-      "end": "",
-      "subject_of_teaching_vocab": [
-        9,
-        7
-      ]
-    },
-    {
-      "id": 2370,
-      "label": "klong chen rab 'byams pa (6062) author of tshad ma'i de kho na nyid bsdus pa (5507)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6062/",
-        "label": "klong chen rab 'byams pa (6062)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5507/",
-        "label": "tshad ma'i de kho na nyid bsdus pa (5507)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "The colophon of the text that attributes authorship to Klong chen rab 'byams. This is contested in <<van der Kuijp 2003 [FZ6N88AU]>> and <<Stoltz 2020 [MGPRHX73]>>.",
-      "confidence": "Negative",
-      "start": null,
-      "end": null
     }
   ],
   "end_date_to": "1364-12-31",

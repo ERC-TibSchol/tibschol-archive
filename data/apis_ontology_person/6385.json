@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6385/",
   "relations": [
     {
-      "id": 4881,
-      "label": "zha lu ba bstan pa rab rgyas (6385) active at zhwa lu (4350)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6385/",
-        "label": "zha lu ba bstan pa rab rgyas (6385)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4350/",
-        "label": "zhwa lu (4350)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "His name suggests he originated or was active at Zhwa lu.",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2998,
       "label": "zha lu ba bstan pa rab rgyas (6385) active at gsang phu gling stod (6172)",
       "subj": {
@@ -57,6 +28,35 @@
       "confidence": "Positive",
       "start": "after 1600",
       "end": "before 1700",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4881,
+      "label": "zha lu ba bstan pa rab rgyas (6385) active at zhwa lu (4350)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6385/",
+        "label": "zha lu ba bstan pa rab rgyas (6385)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4350/",
+        "label": "zhwa lu (4350)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "His name suggests he originated or was active at Zhwa lu.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     }
   ],

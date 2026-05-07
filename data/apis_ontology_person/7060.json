@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
   "relations": [
     {
-      "id": 7297,
-      "label": "dge 'dun grub pa (7060) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "id": 4847,
+      "label": "dge 'dun grub pa (7060) student of tsong kha pa blo bzang grags pa (5636)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
         "label": "dge 'dun grub pa (7060)",
@@ -11,8 +11,69 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5636/",
+        "label": "tsong kha pa blo bzang grags pa (5636)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 1: 44. Studies at 'On.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        13
+      ]
+    },
+    {
+      "id": 4912,
+      "label": "dge 'dun grub pa (7060) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
+        "label": "dge 'dun grub pa (7060)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1474-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1474-12-31",
+      "start_date_to": null,
+      "start_date_from": "1400-01-01",
+      "start_date_sort": "1400-01-01",
+      "zotero_refs": "[BKUHJCNA]: 757. He went to Gsang phu as attendant to Rgyud smad shes rab seng ge (ID: 4123) and studied phar, tshad, and dbu ma...also, he was Shes rab seng ge's copyist when the latter was composing his Rnam 'grel gyi TIkka (ID: 7100) and Dge 'dun grub composed the beginning and end verses. So, those at Gsang phu would say: \"If a work is done by the copyist Dge 'dun grub, the composition of that TIkka will be pleasing to all!\" (yig mkhan dge 'dun grub kyis byas na TIkka rtsom pa sus kyang 'ong).\r\n[Q922IUFM]: 1: 44. Taught at gSang phu in 1425.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1400",
+      "end": "before 1474",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4941,
+      "label": "dge 'dun grub pa (7060) author of tshad ma'i bstan bcod rigs pa'i rgyan (7106)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
+        "label": "dge 'dun grub pa (7060)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7106/",
+        "label": "tshad ma'i bstan bcod rigs pa'i rgyan (7106)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -22,7 +83,35 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[Q922IUFM]: 1: 44. In 'On, with Tsong kha pa (ID:5636).",
+      "zotero_refs": "[BKUHJCNA]: 769 (rig pa'i rgyan zhes bya ba'i tshad ma'i dka' 'grel chen mo de brtsams | chos rje'i zhal nas 'di dag phal cher rje nyid kyi zin bris sor bzhag pa yin | chos rje rgyal tshab pa dang | sems dpa' chen po'i bzhed pas kyang kha bskangs | chos rje sher seng ba'i gsung yang co le yod de nga rang gis rtog bzo ma byas zhes gsungs).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4945,
+      "label": "dge 'dun grub pa (7060) author of tshad ma'i TIkka nyid 'phros dang 'bru snon shin tu gsal ba'i zin bris (7107)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
+        "label": "dge 'dun grub pa (7060)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7107/",
+        "label": "tshad ma'i TIkka nyid 'phros dang 'bru snon shin tu gsal ba'i zin bris (7107)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BKUHJCNA]: 778.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -56,99 +145,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 4912,
-      "label": "dge 'dun grub pa (7060) active at gsang phu ne'u thog (4332)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
-        "label": "dge 'dun grub pa (7060)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
-        "label": "gsang phu ne'u thog (4332)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": "1474-12-31",
-      "end_date_from": null,
-      "end_date_sort": "1474-12-31",
-      "start_date_to": null,
-      "start_date_from": "1400-01-01",
-      "start_date_sort": "1400-01-01",
-      "zotero_refs": "[BKUHJCNA]: 757. He went to Gsang phu as attendant to Rgyud smad shes rab seng ge (ID: 4123) and studied phar, tshad, and dbu ma...also, he was Shes rab seng ge's copyist when the latter was composing his Rnam 'grel gyi TIkka (ID: 7100) and Dge 'dun grub composed the beginning and end verses. So, those at Gsang phu would say: \"If a work is done by the copyist Dge 'dun grub, the composition of that TIkka will be pleasing to all!\" (yig mkhan dge 'dun grub kyis byas na TIkka rtsom pa sus kyang 'ong).\r\n[Q922IUFM]: 1: 44. Taught at gSang phu in 1425.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1400",
-      "end": "before 1474",
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 4847,
-      "label": "dge 'dun grub pa (7060) student of tsong kha pa blo bzang grags pa (5636)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
-        "label": "dge 'dun grub pa (7060)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5636/",
-        "label": "tsong kha pa blo bzang grags pa (5636)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Q922IUFM]: 1: 44. Studies at 'On.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9,
-        13
-      ]
-    },
-    {
-      "id": 7296,
-      "label": "dge 'dun grub pa (7060) student of rong ston shes bya kun rig (6005)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
-        "label": "dge 'dun grub pa (7060)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
-        "label": "rong ston shes bya kun rig (6005)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Q922IUFM]: 1: 44.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        13,
-        7
-      ]
     },
     {
       "id": 4948,
@@ -209,8 +205,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 4945,
-      "label": "dge 'dun grub pa (7060) author of tshad ma'i TIkka nyid 'phros dang 'bru snon shin tu gsal ba'i zin bris (7107)",
+      "id": 7296,
+      "label": "dge 'dun grub pa (7060) student of rong ston shes bya kun rig (6005)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
         "label": "dge 'dun grub pa (7060)",
@@ -218,10 +214,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7107/",
-        "label": "tshad ma'i TIkka nyid 'phros dang 'bru snon shin tu gsal ba'i zin bris (7107)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -229,16 +225,20 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[BKUHJCNA]: 778.",
+      "zotero_refs": "[Q922IUFM]: 1: 44.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13,
+        7
+      ]
     },
     {
-      "id": 4941,
-      "label": "dge 'dun grub pa (7060) author of tshad ma'i bstan bcod rigs pa'i rgyan (7106)",
+      "id": 7297,
+      "label": "dge 'dun grub pa (7060) studies pram\u0101\u1e47avini\u015bcaya (3774)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
         "label": "dge 'dun grub pa (7060)",
@@ -246,8 +246,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7106/",
-        "label": "tshad ma'i bstan bcod rigs pa'i rgyan (7106)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -257,7 +257,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[BKUHJCNA]: 769 (rig pa'i rgyan zhes bya ba'i tshad ma'i dka' 'grel chen mo de brtsams | chos rje'i zhal nas 'di dag phal cher rje nyid kyi zin bris sor bzhag pa yin | chos rje rgyal tshab pa dang | sems dpa' chen po'i bzhed pas kyang kha bskangs | chos rje sher seng ba'i gsung yang co le yod de nga rang gis rtog bzo ma byas zhes gsungs).",
+      "zotero_refs": "[Q922IUFM]: 1: 44. In 'On, with Tsong kha pa (ID:5636).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

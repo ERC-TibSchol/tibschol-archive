@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8051/",
   "relations": [
     {
-      "id": 7112,
-      "label": "'grel chen rnam bshad (8051) has as an instance 'grel chen rnam bshad (8052)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8051/",
-        "label": "'grel chen rnam bshad (8051)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8052/",
-        "label": "'grel chen rnam bshad (8052)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 7111,
       "label": "'grel chen rnam bshad (8051) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
       "subj": {
@@ -51,6 +23,34 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[GP444QCS]: 601 (gro lung ba chen pos mdzad pa'i 'grel chen rnam bshad). The item is listed the \"phar phyin skor\", among other commentaries on the Abhisamay\u0101la\u1e43k\u0101ra (ID:3706).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7112,
+      "label": "'grel chen rnam bshad (8051) has as an instance 'grel chen rnam bshad (8052)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8051/",
+        "label": "'grel chen rnam bshad (8051)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8052/",
+        "label": "'grel chen rnam bshad (8052)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

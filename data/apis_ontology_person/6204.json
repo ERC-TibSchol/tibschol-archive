@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6204/",
   "relations": [
     {
+      "id": 6082,
+      "label": "rma bya byang chub ye shes (6204) student of pa tshab nyi ma grags (3868)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6204/",
+        "label": "rma bya byang chub ye shes (6204)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
+        "label": "pa tshab nyi ma grags (3868)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CMTPPRKW]: 6, citing [R894SIKE].",
+      "tei_refs": "",
+      "support_notes": "However, \u015a\u0101kya mchog ldan lists instead rMa bya Byang chub brtson 'grus (ID:3842) as student of Pa tshab.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 6107,
       "label": "rma bya byang chub ye shes (6204) lineage predecessor of rma bya byang chub brtson 'grus (3842)",
       "subj": {
@@ -31,35 +60,6 @@
       "subject_of_teaching_vocab": [
         13
       ]
-    },
-    {
-      "id": 6082,
-      "label": "rma bya byang chub ye shes (6204) student of pa tshab nyi ma grags (3868)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6204/",
-        "label": "rma bya byang chub ye shes (6204)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
-        "label": "pa tshab nyi ma grags (3868)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CMTPPRKW]: 6, citing [R894SIKE].",
-      "tei_refs": "",
-      "support_notes": "However, \u015a\u0101kya mchog ldan lists instead rMa bya Byang chub brtson 'grus (ID:3842) as student of Pa tshab.",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     },
     {
       "id": 6106,

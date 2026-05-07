@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5322/",
   "relations": [
     {
-      "id": 5341,
-      "label": "brda'i bstan bcos rtags 'jug gi 'grel pa (5322) has as an instance rtags kyi 'jug pa'i 'grel pa (7199)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5322/",
-        "label": "brda'i bstan bcos rtags 'jug gi 'grel pa (5322)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7199/",
-        "label": "rtags kyi 'jug pa'i 'grel pa (7199)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1072,
       "label": "brda'i bstan bcos rtags 'jug gi 'grel pa (5322) commentary on lung du ston pa rtags kyi 'jug pa (3783)",
       "subj": {
@@ -81,6 +53,34 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5341,
+      "label": "brda'i bstan bcos rtags 'jug gi 'grel pa (5322) has as an instance rtags kyi 'jug pa'i 'grel pa (7199)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5322/",
+        "label": "brda'i bstan bcos rtags 'jug gi 'grel pa (5322)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7199/",
+        "label": "rtags kyi 'jug pa'i 'grel pa (7199)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

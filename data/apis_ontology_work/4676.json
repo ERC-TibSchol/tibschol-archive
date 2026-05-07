@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4676/",
   "relations": [
     {
-      "id": 1375,
-      "label": "bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4676) has as an instance bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4675)",
+      "id": 691,
+      "label": "bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4676) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4676/",
         "label": "bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4676)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4675/",
-        "label": "bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4675)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
+        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 691,
-      "label": "bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4676) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
+      "id": 1375,
+      "label": "bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4676) has as an instance bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4675)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4676/",
         "label": "bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4676)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
-        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4675/",
+        "label": "bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4675)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

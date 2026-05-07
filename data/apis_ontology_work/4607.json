@@ -30,34 +30,6 @@
       "end": null
     },
     {
-      "id": 2028,
-      "label": "dbu ma rtsa ba'i bshad pa 'thad pa rnam par nges pa (4607) composed at brag ram (5572)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4607/",
-        "label": "dbu ma rtsa ba'i bshad pa 'thad pa rnam par nges pa (4607)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5572/",
-        "label": "brag ram (5572)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex1972023-09-06_1041",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1343,
       "label": "dbu ma rtsa ba'i bshad pa 'thad pa rnam par nges pa (4607) has as an instance 'thad pa rnam par nges pa (4606)",
       "subj": {
@@ -81,6 +53,34 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2028,
+      "label": "dbu ma rtsa ba'i bshad pa 'thad pa rnam par nges pa (4607) composed at brag ram (5572)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4607/",
+        "label": "dbu ma rtsa ba'i bshad pa 'thad pa rnam par nges pa (4607)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5572/",
+        "label": "brag ram (5572)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex1972023-09-06_1041",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

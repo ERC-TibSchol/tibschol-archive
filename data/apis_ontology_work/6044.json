@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6044/",
   "relations": [
     {
-      "id": 6046,
-      "label": "thub pa'i bstan pa rgyan gyi me tog (6044) has as an instance bstan pa rgyan gyi me tog (7499)",
+      "id": 2338,
+      "label": "thub pa'i bstan pa rgyan gyi me tog (6044) has as an instance thub pa'i bstan pa rgyan gyi me tog (1) (6045)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6044/",
         "label": "thub pa'i bstan pa rgyan gyi me tog (6044)",
@@ -11,36 +11,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7499/",
-        "label": "bstan pa rgyan gyi me tog (7499)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 2339,
-      "label": "thub pa'i bstan pa rgyan gyi me tog (6044) has as an instance thub pa'i bstan pa rgyan gyi me tog (2) (6046)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6044/",
-        "label": "thub pa'i bstan pa rgyan gyi me tog (6044)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6046/",
-        "label": "thub pa'i bstan pa rgyan gyi me tog (2) (6046)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6045/",
+        "label": "thub pa'i bstan pa rgyan gyi me tog (1) (6045)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -58,8 +30,8 @@
       "end": null
     },
     {
-      "id": 2338,
-      "label": "thub pa'i bstan pa rgyan gyi me tog (6044) has as an instance thub pa'i bstan pa rgyan gyi me tog (1) (6045)",
+      "id": 2339,
+      "label": "thub pa'i bstan pa rgyan gyi me tog (6044) has as an instance thub pa'i bstan pa rgyan gyi me tog (2) (6046)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6044/",
         "label": "thub pa'i bstan pa rgyan gyi me tog (6044)",
@@ -67,8 +39,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6045/",
-        "label": "thub pa'i bstan pa rgyan gyi me tog (1) (6045)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6046/",
+        "label": "thub pa'i bstan pa rgyan gyi me tog (2) (6046)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -109,6 +81,34 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6046,
+      "label": "thub pa'i bstan pa rgyan gyi me tog (6044) has as an instance bstan pa rgyan gyi me tog (7499)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6044/",
+        "label": "thub pa'i bstan pa rgyan gyi me tog (6044)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7499/",
+        "label": "bstan pa rgyan gyi me tog (7499)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

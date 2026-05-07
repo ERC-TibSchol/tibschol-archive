@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5507/",
   "relations": [
     {
+      "id": 1750,
+      "label": "tshad ma'i de kho na nyid bsdus pa (5507) has as an instance tshad ma'i de kho na nyid bsdus pa (3) (5506)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5507/",
+        "label": "tshad ma'i de kho na nyid bsdus pa (5507)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5506/",
+        "label": "tshad ma'i de kho na nyid bsdus pa (3) (5506)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2452,
       "label": "tshad ma'i de kho na nyid bsdus pa (5507) has as an instance tshad ma'i de kho na nyid bsdus pa (1) (6116)",
       "subj": {
@@ -69,34 +97,6 @@
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6118/",
         "label": "tshad ma'i de kho na nyid bsdus pa (4) (6118)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 1750,
-      "label": "tshad ma'i de kho na nyid bsdus pa (5507) has as an instance tshad ma'i de kho na nyid bsdus pa (3) (5506)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5507/",
-        "label": "tshad ma'i de kho na nyid bsdus pa (5507)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5506/",
-        "label": "tshad ma'i de kho na nyid bsdus pa (3) (5506)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },

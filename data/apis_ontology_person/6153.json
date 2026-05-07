@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
   "relations": [
     {
-      "id": 7244,
-      "label": "g.yag ston sangs rgyas dpal (6153) author of shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan dang de'i 'grel pa don gsal ba dang bcas pa legs par bshad pa rin po che'i phreng ba blo gsal mgul rgyan (8118)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
-        "label": "g.yag ston sangs rgyas dpal (6153)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8118/",
-        "label": "shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan dang de'i 'grel pa don gsal ba dang bcas pa legs par bshad pa rin po che'i phreng ba blo gsal mgul rgyan (8118)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2515,
       "label": "g.yag ston sangs rgyas dpal (6153) active at gsang phu ne'u thog (4332)",
       "subj": {
@@ -57,62 +29,6 @@
       "start": "after 1360",
       "end": "after 1360 before 1414",
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 4298,
-      "label": "g.yag ston sangs rgyas dpal (6153) author of phar phyin rin chen bang mdzod dgos 'dod stsol pa (6866)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
-        "label": "g.yag ston sangs rgyas dpal (6153)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6866/",
-        "label": "phar phyin rin chen bang mdzod dgos 'dod stsol pa (6866)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5RXEUKD9]: 529, No. 11518.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 4300,
-      "label": "g.yag ston sangs rgyas dpal (6153) author of phar phyin bsdus don (6868)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
-        "label": "g.yag ston sangs rgyas dpal (6153)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6868/",
-        "label": "phar phyin bsdus don (6868)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5RXEUKD9]: 529, No. 11520.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 3076,
@@ -144,8 +60,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 7203,
-      "label": "g.yag ston sangs rgyas dpal (6153) student of sgra tshad pa rin chen rnam rgyal (7772)",
+      "id": 4298,
+      "label": "g.yag ston sangs rgyas dpal (6153) author of phar phyin rin chen bang mdzod dgos 'dod stsol pa (6866)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
         "label": "g.yag ston sangs rgyas dpal (6153)",
@@ -153,10 +69,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7772/",
-        "label": "sgra tshad pa rin chen rnam rgyal (7772)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6866/",
+        "label": "phar phyin rin chen bang mdzod dgos 'dod stsol pa (6866)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -164,13 +80,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[VTFXMPC9]: ii.",
+      "zotero_refs": "[5RXEUKD9]: 529, No. 11518.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 4299,
@@ -194,6 +109,34 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[5RXEUKD9]: 529, No. 11519.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4300,
+      "label": "g.yag ston sangs rgyas dpal (6153) author of phar phyin bsdus don (6868)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
+        "label": "g.yag ston sangs rgyas dpal (6153)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6868/",
+        "label": "phar phyin bsdus don (6868)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 529, No. 11520.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -256,6 +199,63 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7203,
+      "label": "g.yag ston sangs rgyas dpal (6153) student of sgra tshad pa rin chen rnam rgyal (7772)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
+        "label": "g.yag ston sangs rgyas dpal (6153)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7772/",
+        "label": "sgra tshad pa rin chen rnam rgyal (7772)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VTFXMPC9]: ii.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7244,
+      "label": "g.yag ston sangs rgyas dpal (6153) author of shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan dang de'i 'grel pa don gsal ba dang bcas pa legs par bshad pa rin po che'i phreng ba blo gsal mgul rgyan (8118)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
+        "label": "g.yag ston sangs rgyas dpal (6153)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8118/",
+        "label": "shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan dang de'i 'grel pa don gsal ba dang bcas pa legs par bshad pa rin po che'i phreng ba blo gsal mgul rgyan (8118)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 2516,

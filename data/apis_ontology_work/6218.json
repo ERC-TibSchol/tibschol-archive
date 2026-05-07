@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6218/",
   "relations": [
     {
-      "id": 2672,
-      "label": "bden pa gnyis rnam par 'byed pa'i bshad pa (6218) has as an instance bden pa gnyis rnam par 'byed pa'i bshad pa (6225)",
+      "id": 2664,
+      "label": "bden pa gnyis rnam par 'byed pa'i bshad pa (6218) commentary on satyadvayavibha\u1e45gav\u1e5btti (3729)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6218/",
         "label": "bden pa gnyis rnam par 'byed pa'i bshad pa (6218)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6225/",
-        "label": "bden pa gnyis rnam par 'byed pa'i bshad pa (6225)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3729/",
+        "label": "satyadvayavibha\u1e45gav\u1e5btti (3729)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 2664,
-      "label": "bden pa gnyis rnam par 'byed pa'i bshad pa (6218) commentary on satyadvayavibha\u1e45gav\u1e5btti (3729)",
+      "id": 2672,
+      "label": "bden pa gnyis rnam par 'byed pa'i bshad pa (6218) has as an instance bden pa gnyis rnam par 'byed pa'i bshad pa (6225)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6218/",
         "label": "bden pa gnyis rnam par 'byed pa'i bshad pa (6218)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3729/",
-        "label": "satyadvayavibha\u1e45gav\u1e5btti (3729)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6225/",
+        "label": "bden pa gnyis rnam par 'byed pa'i bshad pa (6225)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

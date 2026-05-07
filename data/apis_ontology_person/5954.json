@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5954/",
   "relations": [
     {
-      "id": 3795,
-      "label": "rin chen tshul khrims (1) (5954) author of tshad ma rnam par nges pa'i legs par bshad pa nyi ma'i 'od zer gyi snang ba las le'u gsum pa'i bsdus don (6018)",
+      "id": 1032,
+      "label": "rin chen tshul khrims (1) (5954) author of tshad ma rnam nges kyi legs par bshad pa 'grel bshad kun las btus pa'i snying po nyi ma'i 'od zer gyi snang ba (5271)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5954/",
         "label": "rin chen tshul khrims (1) (5954)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6018/",
-        "label": "tshad ma rnam par nges pa'i legs par bshad pa nyi ma'i 'od zer gyi snang ba las le'u gsum pa'i bsdus don (6018)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5271/",
+        "label": "tshad ma rnam nges kyi legs par bshad pa 'grel bshad kun las btus pa'i snying po nyi ma'i 'od zer gyi snang ba (5271)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -22,10 +22,10 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "Tentative authorship in view of the works (ID:6018) and (ID:5271) having the same title.",
-      "confidence": "Uncertain",
+      "zotero_refs": "Author reported for instance (ID:5270) in [8H6M69W4], No. 16068: gzhung brgya smra ba rin chen tshul khrims.\r\n[4TBERVZD]: 13. Colophon of instance (ID:6002), fol. 117b: 'grel bshad kun las btus pa'i snying po nyi ma'i 'od zer gyi snang ba zhes bya ba 'di | rigs par smra ba rin chen tshul khrims kyis mkhas grub du ma'i 'byung gnas ne'u thog chos gra chen por sbyar ba'o ||",
+      "tei_refs": "ex81022023-09-28-159",
+      "support_notes": "",
+      "confidence": "Positive",
       "start": null,
       "end": null
     },
@@ -61,8 +61,8 @@
       ]
     },
     {
-      "id": 1032,
-      "label": "rin chen tshul khrims (1) (5954) author of tshad ma rnam nges kyi legs par bshad pa 'grel bshad kun las btus pa'i snying po nyi ma'i 'od zer gyi snang ba (5271)",
+      "id": 3795,
+      "label": "rin chen tshul khrims (1) (5954) author of tshad ma rnam par nges pa'i legs par bshad pa nyi ma'i 'od zer gyi snang ba las le'u gsum pa'i bsdus don (6018)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5954/",
         "label": "rin chen tshul khrims (1) (5954)",
@@ -70,8 +70,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5271/",
-        "label": "tshad ma rnam nges kyi legs par bshad pa 'grel bshad kun las btus pa'i snying po nyi ma'i 'od zer gyi snang ba (5271)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6018/",
+        "label": "tshad ma rnam par nges pa'i legs par bshad pa nyi ma'i 'od zer gyi snang ba las le'u gsum pa'i bsdus don (6018)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -81,10 +81,10 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "Author reported for instance (ID:5270) in [8H6M69W4], No. 16068: gzhung brgya smra ba rin chen tshul khrims.\r\n[4TBERVZD]: 13. Colophon of instance (ID:6002), fol. 117b: 'grel bshad kun las btus pa'i snying po nyi ma'i 'od zer gyi snang ba zhes bya ba 'di | rigs par smra ba rin chen tshul khrims kyis mkhas grub du ma'i 'byung gnas ne'u thog chos gra chen por sbyar ba'o ||",
-      "tei_refs": "ex81022023-09-28-159",
-      "support_notes": "",
-      "confidence": "Positive",
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Tentative authorship in view of the works (ID:6018) and (ID:5271) having the same title.",
+      "confidence": "Uncertain",
       "start": null,
       "end": null
     },

@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4261/",
   "relations": [
     {
-      "id": 7025,
-      "label": "mchims brtson 'grus seng ge (4261) lineage predecessor of rgyang ro dar ma mgon (7977)",
+      "id": 495,
+      "label": "mchims brtson 'grus seng ge (4261) lineage predecessor of mchims don grub rgyal mtshan (4262)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4261/",
         "label": "mchims brtson 'grus seng ge (4261)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7977/",
-        "label": "rgyang ro dar ma mgon (7977)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4262/",
+        "label": "mchims don grub rgyal mtshan (4262)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -23,8 +23,8 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "exX0032026-03-1209-26-28 (Abhidharmasamuccaya lineage)",
-      "support_notes": "",
+      "tei_refs": "ex119012024-11-2216-57-43",
+      "support_notes": "Abhidharma lineage",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -62,8 +62,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 495,
-      "label": "mchims brtson 'grus seng ge (4261) lineage predecessor of mchims don grub rgyal mtshan (4262)",
+      "id": 7025,
+      "label": "mchims brtson 'grus seng ge (4261) lineage predecessor of rgyang ro dar ma mgon (7977)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4261/",
         "label": "mchims brtson 'grus seng ge (4261)",
@@ -71,8 +71,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4262/",
-        "label": "mchims don grub rgyal mtshan (4262)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7977/",
+        "label": "rgyang ro dar ma mgon (7977)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -83,8 +83,8 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex119012024-11-2216-57-43",
-      "support_notes": "Abhidharma lineage",
+      "tei_refs": "exX0032026-03-1209-26-28 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,

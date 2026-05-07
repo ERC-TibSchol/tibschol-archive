@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3837/",
   "relations": [
     {
-      "id": 5894,
-      "label": "g.yor gnyan (3837) active at stod lung (4358)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3837/",
-        "label": "g.yor gnyan (3837)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4358/",
-        "label": "stod lung (4358)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 655 (dgung lo bcu dgu bzhes pa la [phag mo gru pa] dbus su phebs | stod lungs rgya dmar gyi sar rta sga phog dbu tshad nyan pa'i zhar chos pa dge bshes g.yor nyan la zhus |). g.Yor gnyan was assistant teacher at the time Phag mo gru pa (ID:3856) came to study with rGya dmar ba.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3545,
       "label": "g.yor gnyan (3837) active at chos pa myu sna (6608)",
       "subj": {
@@ -60,6 +31,35 @@
       "subject_of_teaching_vocab": [
         9
       ]
+    },
+    {
+      "id": 5894,
+      "label": "g.yor gnyan (3837) active at stod lung (4358)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3837/",
+        "label": "g.yor gnyan (3837)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4358/",
+        "label": "stod lung (4358)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 655 (dgung lo bcu dgu bzhes pa la [phag mo gru pa] dbus su phebs | stod lungs rgya dmar gyi sar rta sga phog dbu tshad nyan pa'i zhar chos pa dge bshes g.yor nyan la zhus |). g.Yor gnyan was assistant teacher at the time Phag mo gru pa (ID:3856) came to study with rGya dmar ba.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 93,

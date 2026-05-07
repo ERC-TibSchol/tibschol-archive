@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6938/",
   "relations": [
     {
-      "id": 4398,
-      "label": "zem rin po che grags pa seng ge (6938) other relation to sangs rgyas sgom pa rdo rje gzhon nu (3985)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6938/",
-        "label": "zem rin po che grags pa seng ge (6938)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3985/",
-        "label": "sangs rgyas sgom pa rdo rje gzhon nu (3985)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 365-366 (lo bcu drug pa la sangs rgyas sgom pa ba tshur byon pa dang mjal | rab tu dbyung bar zhus pas | gro sar gyis gsung nas | mkhan po rnal 'byor byang seng las rab tu byung | mtshan grags pa seng ger btags |). Zem rin po che met Sangs rgyas sgom pa and requested ordination.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1216",
-      "end": "1216"
-    },
-    {
       "id": 4396,
       "label": "zem rin po che grags pa seng ge (6938) active at bya yul dgon pa (4407)",
       "subj": {
@@ -57,6 +29,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4398,
+      "label": "zem rin po che grags pa seng ge (6938) other relation to sangs rgyas sgom pa rdo rje gzhon nu (3985)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6938/",
+        "label": "zem rin po che grags pa seng ge (6938)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3985/",
+        "label": "sangs rgyas sgom pa rdo rje gzhon nu (3985)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 365-366 (lo bcu drug pa la sangs rgyas sgom pa ba tshur byon pa dang mjal | rab tu dbyung bar zhus pas | gro sar gyis gsung nas | mkhan po rnal 'byor byang seng las rab tu byung | mtshan grags pa seng ger btags |). Zem rin po che met Sangs rgyas sgom pa and requested ordination.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1216",
+      "end": "1216"
     },
     {
       "id": 4397,

@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6940/",
   "relations": [
     {
-      "id": 4405,
-      "label": "snyag phu ba bsod nams dbang phyug (6940) studies pram\u0101\u1e47avini\u015bcaya (3774)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6940/",
-        "label": "snyag phu ba bsod nams dbang phyug (6940)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 1183 (mus chen pa'i drung du byams chos lnga la sbyangs | slob dpon byang seng la rnam nges | slob dpon shes rab ral gri la rnam 'grel dang sa sde zhus nas grwa skor kyang mdzad |). Studies with Byang seng (ID:6941).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 4404,
       "label": "snyag phu ba bsod nams dbang phyug (6940) student of slob dpon byang seng (6941)",
       "subj": {
@@ -59,6 +31,34 @@
       "subject_of_teaching_vocab": [
         9
       ]
+    },
+    {
+      "id": 4405,
+      "label": "snyag phu ba bsod nams dbang phyug (6940) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6940/",
+        "label": "snyag phu ba bsod nams dbang phyug (6940)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 1183 (mus chen pa'i drung du byams chos lnga la sbyangs | slob dpon byang seng la rnam nges | slob dpon shes rab ral gri la rnam 'grel dang sa sde zhus nas grwa skor kyang mdzad |). Studies with Byang seng (ID:6941).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": null,

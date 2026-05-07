@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7651/",
   "relations": [
     {
+      "id": 6384,
+      "label": "lho pa grub seng (7651) student of bzad pa ring mo dar ma tshul khrims (4011)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7651/",
+        "label": "lho pa grub seng (7651)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
+        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTAI38G9]: 924-925. \r\n[RA7ID7QP], P2846.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 6418,
       "label": "lho pa grub seng (7651) student of spyil bu pa shes rab 'od zer (7684)",
       "subj": {
@@ -31,8 +60,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 6384,
-      "label": "lho pa grub seng (7651) student of bzad pa ring mo dar ma tshul khrims (4011)",
+      "id": 6481,
+      "label": "lho pa grub seng (7651) lineage predecessor of tshad ma'i skyes bu bsod nams mgon (6925)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7651/",
         "label": "lho pa grub seng (7651)",
@@ -40,8 +69,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
-        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
+        "label": "tshad ma'i skyes bu bsod nams mgon (6925)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -51,13 +80,16 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[CTAI38G9]: 924-925. \r\n[RA7ID7QP], P2846.",
+      "zotero_refs": "[Z5FZQCNC]: 143-144. Lineage of the reading transmission (lung) of the Pram\u0101\u1e47av\u0101rttika (ID:3772) as received by Bu ston (ID:5999): from rNgog lo tsA ba (ID:3786) to Khyung Rin chen grags (ID:3809), rGya dmar Byang chub grags (ID:3834), Phywa ba (ID:3831), gTsang nag pa (ID:3839), Dar ma bkra shis (ID:6217), gNyal pa (i.e., gNyal zhig \u2018Jam pa\u2019i rdo rje (ID:3887)), Bo dong pa (probably (ID:3904)), lDong pa Grags pa dpal (ID:7761), lHo pa Grub seng (ID:7651), Tshad ma'i skyes bu (ID:6925), Bu ston (ID:5999).\r\nSee also [CTAI38G9]: 928.\r\n\r\n[CTAI38G9]: 939.  Lineage of the Pram\u0101\u1e47avini\u015bcaya (ID:3774) according to Bu ston (ID:5999)\u2019s student sGra tshad pa (ID:7772) or one of his students. After several other Indian figures it begins with gZhan phan bzang po (Parahitabhadra (ID:3798)), followed by rNgog lo tsA ba (ID:3786), Khyung Rin chen grags (ID:3809), rGya dmar (ID:3834), Cha pa (ID:3831), gTsang nag pa (ID:3839), Dan 'bag pa (ID:3840), gNyal zhig (ID:3887), Bo dong Rin chen (ID:3904), lDong[s] Grags pa dpal (ID:7761), <Lho pa> Grub pa seng ge (ID:7651), Tshad ma'i skyes bu (ID:6925), Bu ston (ID:5999), Thugs sras lo tsA ba (ID:7772).\r\n\r\n[UGZJBIWM]: 379. Lineage of the Vinayak\u0101rik\u0101 (ID:7858) according to Bu ston (ID:5999): \u015a\u0101kya\u015br\u012bbhadra (ID:6418), Byams pa'i dpal (ID:3878), Seng ge zil gnon (ID:7863), Grub pa seng ge (ID:7651), Tshad ma bSod nams mgon (ID:6925).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9,
+        8
+      ]
     },
     {
       "id": 6567,
@@ -116,38 +148,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 6481,
-      "label": "lho pa grub seng (7651) lineage predecessor of tshad ma'i skyes bu bsod nams mgon (6925)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7651/",
-        "label": "lho pa grub seng (7651)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
-        "label": "tshad ma'i skyes bu bsod nams mgon (6925)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Z5FZQCNC]: 143-144. Lineage of the reading transmission (lung) of the Pram\u0101\u1e47av\u0101rttika (ID:3772) as received by Bu ston (ID:5999): from rNgog lo tsA ba (ID:3786) to Khyung Rin chen grags (ID:3809), rGya dmar Byang chub grags (ID:3834), Phywa ba (ID:3831), gTsang nag pa (ID:3839), Dar ma bkra shis (ID:6217), gNyal pa (i.e., gNyal zhig \u2018Jam pa\u2019i rdo rje (ID:3887)), Bo dong pa (probably (ID:3904)), lDong pa Grags pa dpal (ID:7761), lHo pa Grub seng (ID:7651), Tshad ma'i skyes bu (ID:6925), Bu ston (ID:5999).\r\nSee also [CTAI38G9]: 928.\r\n\r\n[CTAI38G9]: 939.  Lineage of the Pram\u0101\u1e47avini\u015bcaya (ID:3774) according to Bu ston (ID:5999)\u2019s student sGra tshad pa (ID:7772) or one of his students. After several other Indian figures it begins with gZhan phan bzang po (Parahitabhadra (ID:3798)), followed by rNgog lo tsA ba (ID:3786), Khyung Rin chen grags (ID:3809), rGya dmar (ID:3834), Cha pa (ID:3831), gTsang nag pa (ID:3839), Dan 'bag pa (ID:3840), gNyal zhig (ID:3887), Bo dong Rin chen (ID:3904), lDong[s] Grags pa dpal (ID:7761), <Lho pa> Grub pa seng ge (ID:7651), Tshad ma'i skyes bu (ID:6925), Bu ston (ID:5999), Thugs sras lo tsA ba (ID:7772).\r\n\r\n[UGZJBIWM]: 379. Lineage of the Vinayak\u0101rik\u0101 (ID:7858) according to Bu ston (ID:5999): \u015a\u0101kya\u015br\u012bbhadra (ID:6418), Byams pa'i dpal (ID:3878), Seng ge zil gnon (ID:7863), Grub pa seng ge (ID:7651), Tshad ma bSod nams mgon (ID:6925).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9,
-        8
-      ]
     },
     {
       "id": 6383,

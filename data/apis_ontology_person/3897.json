@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
   "relations": [
     {
-      "id": 3995,
-      "label": "karma pa rang byung rdo rje (3897) active at gsang phu ne'u thog (4332)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
-        "label": "karma pa rang byung rdo rje (3897)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
-        "label": "gsang phu ne'u thog (4332)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": "1339-12-31",
-      "end_date_from": null,
-      "end_date_sort": "1339-12-31",
-      "start_date_to": null,
-      "start_date_from": "1294-01-01",
-      "start_date_sort": "1294-01-01",
-      "zotero_refs": "[3WFNMIGQ]: 141.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1294",
-      "end": "before 1339",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 158,
       "label": "karma pa rang byung rdo rje (3897) student of gsang phu ba blo gros mtshungs med (3896)",
       "subj": {
@@ -58,34 +29,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 6886,
-      "label": "karma pa rang byung rdo rje (3897) author of theg pa chen po rgyud bla ma'i bsdus don gyi 'grel pa (7926)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
-        "label": "karma pa rang byung rdo rje (3897)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7926/",
-        "label": "theg pa chen po rgyud bla ma'i bsdus don gyi 'grel pa (7926)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[GJR33LJY]: 213.\r\n[BAQ9MH4T]: 408.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 2525,
@@ -120,6 +63,35 @@
       ]
     },
     {
+      "id": 3995,
+      "label": "karma pa rang byung rdo rje (3897) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+        "label": "karma pa rang byung rdo rje (3897)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1339-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1339-12-31",
+      "start_date_to": null,
+      "start_date_from": "1294-01-01",
+      "start_date_sort": "1294-01-01",
+      "zotero_refs": "[3WFNMIGQ]: 141.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1294",
+      "end": "before 1339",
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 4629,
       "label": "karma pa rang byung rdo rje (3897) author of dam pa'i chos mngon pa'i don rnam par bsdu ba (7004)",
       "subj": {
@@ -141,6 +113,34 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6886,
+      "label": "karma pa rang byung rdo rje (3897) author of theg pa chen po rgyud bla ma'i bsdus don gyi 'grel pa (7926)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+        "label": "karma pa rang byung rdo rje (3897)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7926/",
+        "label": "theg pa chen po rgyud bla ma'i bsdus don gyi 'grel pa (7926)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[GJR33LJY]: 213.\r\n[BAQ9MH4T]: 408.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

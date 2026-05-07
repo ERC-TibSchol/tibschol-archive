@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6429/",
   "relations": [
     {
-      "id": 6779,
-      "label": "chu mig (6429) located within nyang smad (6425)",
+      "id": 3083,
+      "label": "chu mig (6429) located within gtsang (5915)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6429/",
         "label": "chu mig (6429)",
@@ -11,8 +11,8 @@
         "content_type_name": "place"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6425/",
-        "label": "nyang smad (6425)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
+        "label": "gtsang (5915)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 3083,
-      "label": "chu mig (6429) located within gtsang (5915)",
+      "id": 6779,
+      "label": "chu mig (6429) located within nyang smad (6425)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6429/",
         "label": "chu mig (6429)",
@@ -39,8 +39,8 @@
         "content_type_name": "place"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
-        "label": "gtsang (5915)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6425/",
+        "label": "nyang smad (6425)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },

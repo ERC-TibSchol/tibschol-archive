@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7958/",
   "relations": [
     {
+      "id": 6961,
+      "label": "byang chub rtse mo (7958) uncle (maternal/paternal) of bo dong grags pa rgyal mtshan (6870)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7958/",
+        "label": "byang chub rtse mo (7958)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6870/",
+        "label": "bo dong grags pa rgyal mtshan (6870)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[N35FPQ6L]: 14.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 7022,
       "label": "byang chub rtse mo (7958) lineage predecessor of nya dbon kun dga' dpal (6741)",
       "subj": {
@@ -31,34 +59,6 @@
       "subject_of_teaching_vocab": [
         17
       ]
-    },
-    {
-      "id": 6961,
-      "label": "byang chub rtse mo (7958) uncle (maternal/paternal) of bo dong grags pa rgyal mtshan (6870)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7958/",
-        "label": "byang chub rtse mo (7958)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6870/",
-        "label": "bo dong grags pa rgyal mtshan (6870)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[N35FPQ6L]: 14.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 6960,

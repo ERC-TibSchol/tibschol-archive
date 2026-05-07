@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6719/",
   "relations": [
     {
-      "id": 3854,
-      "label": "chos kyi byang chub (6719) ordinator of bde ba dpal (6724)",
+      "id": 3846,
+      "label": "chos kyi byang chub (6719) active at zul phu (6492)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6719/",
         "label": "chos kyi byang chub (6719)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6724/",
-        "label": "bde ba dpal (6724)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6492/",
+        "label": "zul phu (6492)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,12 +22,42 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[W4T5ZMUP]: 41.",
+      "zotero_refs": "[W4T5ZMUP]: 39 and 40. Third abbot of Zul phu. Abbot from ca. 1220/1225 after his uncle Rog Chos kyi dbang phyug (ID:3969).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1220",
+      "end": "after 1220",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3848,
+      "label": "chos kyi byang chub (6719) active at rong (6720)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6719/",
+        "label": "chos kyi byang chub (6719)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6720/",
+        "label": "rong (6720)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 40. Born in Rong.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 3852,
@@ -86,8 +116,8 @@
       "end": null
     },
     {
-      "id": 3846,
-      "label": "chos kyi byang chub (6719) active at zul phu (6492)",
+      "id": 3854,
+      "label": "chos kyi byang chub (6719) ordinator of bde ba dpal (6724)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6719/",
         "label": "chos kyi byang chub (6719)",
@@ -95,37 +125,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6492/",
-        "label": "zul phu (6492)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[W4T5ZMUP]: 39 and 40. Third abbot of Zul phu. Abbot from ca. 1220/1225 after his uncle Rog Chos kyi dbang phyug (ID:3969).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1220",
-      "end": "after 1220",
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 4665,
-      "label": "chos kyi byang chub (6719) ordinator of 'phags pa blo gros rgyal mtshan (5838)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6719/",
-        "label": "chos kyi byang chub (6719)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
-        "label": "'phags pa blo gros rgyal mtshan (5838)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6724/",
+        "label": "bde ba dpal (6724)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -135,12 +136,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[W4T5ZMUP]: 40. 'Phags pa (ID:5838) took his dge tshul ordination in the presence of Chos kyi dbang phyug (ID:6719) on his way to China.",
+      "zotero_refs": "[W4T5ZMUP]: 41.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "1244",
-      "end": "1244"
+      "start": null,
+      "end": null
     },
     {
       "id": 3855,
@@ -171,8 +172,8 @@
       "end": null
     },
     {
-      "id": 3848,
-      "label": "chos kyi byang chub (6719) active at rong (6720)",
+      "id": 4665,
+      "label": "chos kyi byang chub (6719) ordinator of 'phags pa blo gros rgyal mtshan (5838)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6719/",
         "label": "chos kyi byang chub (6719)",
@@ -180,10 +181,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6720/",
-        "label": "rong (6720)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
+        "label": "'phags pa blo gros rgyal mtshan (5838)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -191,13 +192,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[W4T5ZMUP]: 40. Born in Rong.",
+      "zotero_refs": "[W4T5ZMUP]: 40. 'Phags pa (ID:5838) took his dge tshul ordination in the presence of Chos kyi dbang phyug (ID:6719) on his way to China.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "start": "1244",
+      "end": "1244"
     },
     {
       "id": 3845,

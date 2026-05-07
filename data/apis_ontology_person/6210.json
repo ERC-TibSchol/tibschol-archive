@@ -2,6 +2,97 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
   "relations": [
     {
+      "id": 2644,
+      "label": "khyung tshang pa (6210) student of ras chung pa rdo rje grags pa (6209)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
+        "label": "khyung tshang pa (6210)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6209/",
+        "label": "ras chung pa rdo rje grags pa (6209)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 529.\r\n[R894SIKE]: 525 (de la spyir slob ma mang yang thugs kyi sras bcu gsum byon nas | lo byi mgo ba | gtsang pa sum pa | byar bo par sher snang | lo ro glan byi mgo ba bla ma sgom chos | lo ro mi sna ba sum ston chos dar | bur sgom nag po | la stod pa zangs ri ras pa | g.ye chen mo ba 'bri sgom don grub | gra phyi ba gnyal rdo rje 'od | gnyal smad pa cung ston rgyan ni | gnyal smad pa cung ston rgyas pa | g.ye chung ba dge bshes khyung po dang bcu gnyis kyis dbang yang rdzogs la |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2645,
+      "label": "khyung tshang pa (6210) student of pa tshab nyi ma grags (3868)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
+        "label": "khyung tshang pa (6210)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
+        "label": "pa tshab nyi ma grags (3868)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 528 (spa tshab lo tsA la dbu ma gsan pas bsten long ma byung bar dar yon tan grags la rigs tshogs gsan |). Subject: Madhyamaka.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 2647,
+      "label": "khyung tshang pa (6210) student of dar yon tan grags (6211)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
+        "label": "khyung tshang pa (6210)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6211/",
+        "label": "dar yon tan grags (6211)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 528 (spa tshab lo tsA la dbu ma gsan pas bsten long ma byung bar dar yon tan grags la rigs tshogs gsan |). Teaching: (ID: 5632).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
       "id": 2650,
       "label": "khyung tshang pa (6210) studies rigs tshogs (5632)",
       "subj": {
@@ -89,97 +180,6 @@
       "start": "1115",
       "end": "1115",
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 2645,
-      "label": "khyung tshang pa (6210) student of pa tshab nyi ma grags (3868)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
-        "label": "khyung tshang pa (6210)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
-        "label": "pa tshab nyi ma grags (3868)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 528 (spa tshab lo tsA la dbu ma gsan pas bsten long ma byung bar dar yon tan grags la rigs tshogs gsan |). Subject: Madhyamaka.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        13
-      ]
-    },
-    {
-      "id": 2644,
-      "label": "khyung tshang pa (6210) student of ras chung pa rdo rje grags pa (6209)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
-        "label": "khyung tshang pa (6210)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6209/",
-        "label": "ras chung pa rdo rje grags pa (6209)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 529.\r\n[R894SIKE]: 525 (de la spyir slob ma mang yang thugs kyi sras bcu gsum byon nas | lo byi mgo ba | gtsang pa sum pa | byar bo par sher snang | lo ro glan byi mgo ba bla ma sgom chos | lo ro mi sna ba sum ston chos dar | bur sgom nag po | la stod pa zangs ri ras pa | g.ye chen mo ba 'bri sgom don grub | gra phyi ba gnyal rdo rje 'od | gnyal smad pa cung ston rgyan ni | gnyal smad pa cung ston rgyas pa | g.ye chung ba dge bshes khyung po dang bcu gnyis kyis dbang yang rdzogs la |)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 2647,
-      "label": "khyung tshang pa (6210) student of dar yon tan grags (6211)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
-        "label": "khyung tshang pa (6210)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6211/",
-        "label": "dar yon tan grags (6211)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 528 (spa tshab lo tsA la dbu ma gsan pas bsten long ma byung bar dar yon tan grags la rigs tshogs gsan |). Teaching: (ID: 5632).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        13
-      ]
     },
     {
       "id": 3340,

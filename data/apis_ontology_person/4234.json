@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4234/",
   "relations": [
     {
-      "id": 3714,
-      "label": "'gar mi yon tan g.yung drung (4234) student of se btsun dbang phyug gzhon nu (4232)",
+      "id": 442,
+      "label": "'gar mi yon tan g.yung drung (4234) lineage predecessor of khu ston brtson 'grus g.yung drung (4235)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4234/",
         "label": "'gar mi yon tan g.yung drung (4234)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4232/",
-        "label": "se btsun dbang phyug gzhon nu (4232)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
+        "label": "khu ston brtson 'grus g.yung drung (4235)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -22,8 +22,8 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[K9NNDTDS]: 1401 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012).",
-      "tei_refs": "",
+      "zotero_refs": "[K9NNDTDS]: 1397. \"Khu chen po Lha sdings pa\" follows \"Gar mi Yon tan g.yung drung\" in the transmission of the Abhidharmasamuccaya (ID:3755).",
+      "tei_refs": "ex8001_2024-11-1408-36-05 (Abhidharmasamuccaya lineage)\r\nex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -64,8 +64,8 @@
       ]
     },
     {
-      "id": 442,
-      "label": "'gar mi yon tan g.yung drung (4234) lineage predecessor of khu ston brtson 'grus g.yung drung (4235)",
+      "id": 3714,
+      "label": "'gar mi yon tan g.yung drung (4234) student of se btsun dbang phyug gzhon nu (4232)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4234/",
         "label": "'gar mi yon tan g.yung drung (4234)",
@@ -73,8 +73,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
-        "label": "khu ston brtson 'grus g.yung drung (4235)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4232/",
+        "label": "se btsun dbang phyug gzhon nu (4232)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -84,8 +84,8 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[K9NNDTDS]: 1397. \"Khu chen po Lha sdings pa\" follows \"Gar mi Yon tan g.yung drung\" in the transmission of the Abhidharmasamuccaya (ID:3755).",
-      "tei_refs": "ex8001_2024-11-1408-36-05 (Abhidharmasamuccaya lineage)\r\nex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
+      "zotero_refs": "[K9NNDTDS]: 1401 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012).",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

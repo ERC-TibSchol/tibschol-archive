@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4020/",
   "relations": [
     {
-      "id": 2311,
-      "label": "skyel nag grags pa seng ge (4020) student of d\u0101na\u015b\u012bla (6032)",
+      "id": 401,
+      "label": "skyel nag grags pa seng ge (4020) student of gnyal zhig po 'jam pa'i rdo rje (3887)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4020/",
         "label": "skyel nag grags pa seng ge (4020)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
-        "label": "d\u0101na\u015b\u012bla (6032)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
+        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -22,13 +22,44 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[Q8FCH7LF]: 296",
+      "zotero_refs": "[R894SIKE]: 407 (gnyal zhig gi bu dgu zhes pa byung ste | bzang rings| phu thang dar dkon | gtsang pa gru gu gsum snga tshar | 'u yug pa bsod nams seng ge | bo dong rin rtse | gtsang pa jo nam gsum bar tshar | rgya 'ching ru ba| 'jam gsar | skyel nag grags seng gsum phyi tshar ro ||).\r\n[Q8FCH7LF]: 296.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "after 1204",
-      "end": "after 1204",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2309,
+      "label": "skyel nag grags pa seng ge (4020) student of mchims nam mkha' grags (3977)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4020/",
+        "label": "skyel nag grags pa seng ge (4020)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTQMVBPR]: 5.\r\n[6TNNKSQ3]: 33.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 2310,
@@ -62,8 +93,8 @@
       ]
     },
     {
-      "id": 4925,
-      "label": "skyel nag grags pa seng ge (4020) teaches pram\u0101\u1e47av\u0101rttika (3772)",
+      "id": 2311,
+      "label": "skyel nag grags pa seng ge (4020) student of d\u0101na\u015b\u012bla (6032)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4020/",
         "label": "skyel nag grags pa seng ge (4020)",
@@ -71,36 +102,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
-        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 401,
-      "label": "skyel nag grags pa seng ge (4020) student of gnyal zhig po 'jam pa'i rdo rje (3887)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4020/",
-        "label": "skyel nag grags pa seng ge (4020)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
-        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
+        "label": "d\u0101na\u015b\u012bla (6032)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -110,44 +113,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 407 (gnyal zhig gi bu dgu zhes pa byung ste | bzang rings| phu thang dar dkon | gtsang pa gru gu gsum snga tshar | 'u yug pa bsod nams seng ge | bo dong rin rtse | gtsang pa jo nam gsum bar tshar | rgya 'ching ru ba| 'jam gsar | skyel nag grags seng gsum phyi tshar ro ||).\r\n[Q8FCH7LF]: 296.",
+      "zotero_refs": "[Q8FCH7LF]: 296",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
+      "start": "after 1204",
+      "end": "after 1204",
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 6314,
-      "label": "skyel nag grags pa seng ge (4020) lineage predecessor of skyi ston grags 'bum (4064)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4020/",
-        "label": "skyel nag grags pa seng ge (4020)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4064/",
-        "label": "skyi ston grags 'bum (4064)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CTQMVBPR]: Appendix A. Lineage of the Pram\u0101\u1e47avini\u015bcaya (ID:3774).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
     },
     {
       "id": 4923,
@@ -206,8 +178,8 @@
       "end": null
     },
     {
-      "id": 2309,
-      "label": "skyel nag grags pa seng ge (4020) student of mchims nam mkha' grags (3977)",
+      "id": 4925,
+      "label": "skyel nag grags pa seng ge (4020) teaches pram\u0101\u1e47av\u0101rttika (3772)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4020/",
         "label": "skyel nag grags pa seng ge (4020)",
@@ -215,8 +187,36 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
-        "label": "mchims nam mkha' grags (3977)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6314,
+      "label": "skyel nag grags pa seng ge (4020) lineage predecessor of skyi ston grags 'bum (4064)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4020/",
+        "label": "skyel nag grags pa seng ge (4020)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4064/",
+        "label": "skyi ston grags 'bum (4064)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -226,7 +226,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[CTQMVBPR]: 5.\r\n[6TNNKSQ3]: 33.",
+      "zotero_refs": "[CTQMVBPR]: Appendix A. Lineage of the Pram\u0101\u1e47avini\u015bcaya (ID:3774).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

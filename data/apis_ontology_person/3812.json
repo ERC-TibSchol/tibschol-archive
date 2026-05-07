@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3812/",
   "relations": [
     {
-      "id": 3201,
-      "label": "yol chos kyi dbang phyug (3812) active at rtsis gnas gsar (6464)",
+      "id": 62,
+      "label": "yol chos kyi dbang phyug (3812) ordinator of 'bre shes rab 'bar (3807)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3812/",
         "label": "yol chos kyi dbang phyug (3812)",
@@ -11,8 +11,36 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6464/",
-        "label": "rtsis gnas gsar (6464)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 537, n. 42, based on [Y2ZN5C6X]: 13a2-6 (\"As for the greatness of \u2019Bre Shes rab \u2019bar\u2019s abbotship, \u2019Bre chen\u2019s native place was gTsang po Nang pa. In his youth, he went to see Yol ston Chos kyi dbang phyug and was ordained by him.\").",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3097,
+      "label": "yol chos kyi dbang phyug (3812) active at gnas rnying (4341)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3812/",
+        "label": "yol chos kyi dbang phyug (3812)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4341/",
+        "label": "gnas rnying (4341)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -22,12 +50,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 530.",
+      "zotero_refs": "[Y2ZN5C6X]: 89-90. Was abbot after Jo sras Phur pa 'phel.\r\n[4LDAV8UH]: 105. Establishes gNas rnying as a bKa' gdams pa monastery in 1045.\r\n[647FFPZR]: 531. gNas rnying is donated to him around 1046.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
+      "start": "1045",
+      "end": "1045",
       "subject_of_teaching_vocab": []
     },
     {
@@ -60,8 +88,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3097,
-      "label": "yol chos kyi dbang phyug (3812) active at gnas rnying (4341)",
+      "id": 3201,
+      "label": "yol chos kyi dbang phyug (3812) active at rtsis gnas gsar (6464)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3812/",
         "label": "yol chos kyi dbang phyug (3812)",
@@ -69,8 +97,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4341/",
-        "label": "gnas rnying (4341)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6464/",
+        "label": "rtsis gnas gsar (6464)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -80,69 +108,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[Y2ZN5C6X]: 89-90. Was abbot after Jo sras Phur pa 'phel.\r\n[4LDAV8UH]: 105. Establishes gNas rnying as a bKa' gdams pa monastery in 1045.\r\n[647FFPZR]: 531. gNas rnying is donated to him around 1046.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1045",
-      "end": "1045",
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 62,
-      "label": "yol chos kyi dbang phyug (3812) ordinator of 'bre shes rab 'bar (3807)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3812/",
-        "label": "yol chos kyi dbang phyug (3812)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
-        "label": "'bre shes rab 'bar (3807)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 537, n. 42, based on [Y2ZN5C6X]: 13a2-6 (\"As for the greatness of \u2019Bre Shes rab \u2019bar\u2019s abbotship, \u2019Bre chen\u2019s native place was gTsang po Nang pa. In his youth, he went to see Yol ston Chos kyi dbang phyug and was ordained by him.\").",
+      "zotero_refs": "[647FFPZR]: 530.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
-    },
-    {
-      "id": 4107,
-      "label": "yol chos kyi dbang phyug (3812) active at stag rtse (6476)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3812/",
-        "label": "yol chos kyi dbang phyug (3812)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6476/",
-        "label": "stag rtse (6476)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 531. He met Ati\u015ba (ID:3745) at sTag rtse (ID:6476) when he was 16 years old.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1046",
-      "end": "1046",
+      "end": null,
       "subject_of_teaching_vocab": []
     },
     {
@@ -172,6 +143,35 @@
       "confidence": "Positive",
       "start": null,
       "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4107,
+      "label": "yol chos kyi dbang phyug (3812) active at stag rtse (6476)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3812/",
+        "label": "yol chos kyi dbang phyug (3812)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6476/",
+        "label": "stag rtse (6476)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 531. He met Ati\u015ba (ID:3745) at sTag rtse (ID:6476) when he was 16 years old.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1046",
+      "end": "1046",
       "subject_of_teaching_vocab": []
     },
     {

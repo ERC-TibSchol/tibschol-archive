@@ -2,6 +2,39 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4269/",
   "relations": [
     {
+      "id": 502,
+      "label": "mon ston 'byung gnas shes rab (4269) student of sna chung ston pa (4268)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4269/",
+        "label": "mon ston 'byung gnas shes rab (4269)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4268/",
+        "label": "sna chung ston pa (4268)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 287 (zhang sna chung ston pa la mdo sde rgyan | rgyud bla | 'byed rnam gnyis | sa sde lnga | sdom rnam gnyis rnams gsan |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7,
+        26
+      ]
+    },
+    {
       "id": 4580,
       "label": "mon ston 'byung gnas shes rab (4269) student of rngog legs pa'i shes rab (3788)",
       "subj": {
@@ -62,8 +95,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 4586,
-      "label": "mon ston 'byung gnas shes rab (4269) student of skyi rings yon tan seng ge (6980)",
+      "id": 4583,
+      "label": "mon ston 'byung gnas shes rab (4269) student of sa phug pa (6481)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4269/",
         "label": "mon ston 'byung gnas shes rab (4269)",
@@ -71,8 +104,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6980/",
-        "label": "skyi rings yon tan seng ge (6980)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6481/",
+        "label": "sa phug pa (6481)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -91,8 +124,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 502,
-      "label": "mon ston 'byung gnas shes rab (4269) student of sna chung ston pa (4268)",
+      "id": 4586,
+      "label": "mon ston 'byung gnas shes rab (4269) student of skyi rings yon tan seng ge (6980)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4269/",
         "label": "mon ston 'byung gnas shes rab (4269)",
@@ -100,41 +133,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4268/",
-        "label": "sna chung ston pa (4268)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 287 (zhang sna chung ston pa la mdo sde rgyan | rgyud bla | 'byed rnam gnyis | sa sde lnga | sdom rnam gnyis rnams gsan |)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        56,
-        7,
-        26
-      ]
-    },
-    {
-      "id": 4583,
-      "label": "mon ston 'byung gnas shes rab (4269) student of sa phug pa (6481)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4269/",
-        "label": "mon ston 'byung gnas shes rab (4269)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6481/",
-        "label": "sa phug pa (6481)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6980/",
+        "label": "skyi rings yon tan seng ge (6980)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },

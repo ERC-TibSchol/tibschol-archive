@@ -2,68 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
   "relations": [
     {
-      "id": 468,
-      "label": "rog chos kyi brtson 'grus (4242) lineage predecessor of dol rgya bsod nams byang chub (4013)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
-        "label": "rog chos kyi brtson 'grus (4242)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4013/",
-        "label": "dol rgya bsod nams byang chub (4013)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[K9NNDTDS]: 1402 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012)). Rog taught to \"rGya\" or \"Zhang\" (ID:4014).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
-      "id": 6315,
-      "label": "rog chos kyi brtson 'grus (4242) lineage predecessor of skyi ston grags 'bum (4064)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
-        "label": "rog chos kyi brtson 'grus (4242)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4064/",
-        "label": "skyi ston grags 'bum (4064)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CTQMVBPR]: Appendix A. Lineage of the Abhidharmasamuccaya (ID:3755).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
       "id": 467,
       "label": "rog chos kyi brtson 'grus (4242) lineage predecessor of he lung se 'bar (4245)",
       "subj": {
@@ -95,6 +33,37 @@
       ]
     },
     {
+      "id": 468,
+      "label": "rog chos kyi brtson 'grus (4242) lineage predecessor of dol rgya bsod nams byang chub (4013)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
+        "label": "rog chos kyi brtson 'grus (4242)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4013/",
+        "label": "dol rgya bsod nams byang chub (4013)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1402 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012)). Rog taught to \"rGya\" or \"Zhang\" (ID:4014).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
       "id": 469,
       "label": "rog chos kyi brtson 'grus (4242) lineage predecessor of zhang bye ma lha khang pa bsod nams ye shes (4014)",
       "subj": {
@@ -116,6 +85,37 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[K9NNDTDS]: 1402 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012)). Rog taught to \"rGya\" (ID:4013) or \"Zhang\".",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 6315,
+      "label": "rog chos kyi brtson 'grus (4242) lineage predecessor of skyi ston grags 'bum (4064)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
+        "label": "rog chos kyi brtson 'grus (4242)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4064/",
+        "label": "skyi ston grags 'bum (4064)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTQMVBPR]: Appendix A. Lineage of the Abhidharmasamuccaya (ID:3755).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

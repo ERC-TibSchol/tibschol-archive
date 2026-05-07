@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4424/",
   "relations": [
     {
-      "id": 2658,
-      "label": "rab tu gnas par byed pa don gsal ba (4424) has as an instance rab tu gnas par byed pa don gsal (2) (6214)",
+      "id": 1249,
+      "label": "rab tu gnas par byed pa don gsal ba (4424) has as an instance gtor chen gyi cho ga bya tshul (4428)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4424/",
         "label": "rab tu gnas par byed pa don gsal ba (4424)",
@@ -11,8 +11,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6214/",
-        "label": "rab tu gnas par byed pa don gsal (2) (6214)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4428/",
+        "label": "gtor chen gyi cho ga bya tshul (4428)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -25,6 +25,34 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1260,
+      "label": "rab tu gnas par byed pa don gsal ba (4424) has as an instance rab tu gnas par byed pa don gsal (1) (4423)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4424/",
+        "label": "rab tu gnas par byed pa don gsal ba (4424)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4423/",
+        "label": "rab tu gnas par byed pa don gsal (1) (4423)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "xml:id=\"ex1022023-03-271212\"",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -58,8 +86,8 @@
       "end": null
     },
     {
-      "id": 1260,
-      "label": "rab tu gnas par byed pa don gsal ba (4424) has as an instance rab tu gnas par byed pa don gsal (1) (4423)",
+      "id": 2658,
+      "label": "rab tu gnas par byed pa don gsal ba (4424) has as an instance rab tu gnas par byed pa don gsal (2) (6214)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4424/",
         "label": "rab tu gnas par byed pa don gsal ba (4424)",
@@ -67,36 +95,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4423/",
-        "label": "rab tu gnas par byed pa don gsal (1) (4423)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "xml:id=\"ex1022023-03-271212\"",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 1249,
-      "label": "rab tu gnas par byed pa don gsal ba (4424) has as an instance gtor chen gyi cho ga bya tshul (4428)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4424/",
-        "label": "rab tu gnas par byed pa don gsal ba (4424)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4428/",
-        "label": "gtor chen gyi cho ga bya tshul (4428)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6214/",
+        "label": "rab tu gnas par byed pa don gsal (2) (6214)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },

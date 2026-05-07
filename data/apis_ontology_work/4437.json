@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4437/",
   "relations": [
     {
-      "id": 2800,
-      "label": "mdo sde rgyan gyi don bsdus (4437) has as an instance mdo sde rgyan gyi don bsdus (3) (6257)",
+      "id": 531,
+      "label": "mdo sde rgyan gyi don bsdus (4437) commentary on mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4437/",
         "label": "mdo sde rgyan gyi don bsdus (4437)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6257/",
-        "label": "mdo sde rgyan gyi don bsdus (3) (6257)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3746/",
+        "label": "mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -23,35 +23,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 7262,
-      "label": "mdo sde rgyan gyi don bsdus (4437) has as an instance mdo sde rgyan gyi don bsdus (5) (8124)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4437/",
-        "label": "mdo sde rgyan gyi don bsdus (4437)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8124/",
-        "label": "mdo sde rgyan gyi don bsdus (5) (8124)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex1092023-02-1414-36-11",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -86,6 +58,62 @@
       "end": null
     },
     {
+      "id": 2799,
+      "label": "mdo sde rgyan gyi don bsdus (4437) has as an instance mdo sde rgyan gyi don bsdus (2) (6256)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4437/",
+        "label": "mdo sde rgyan gyi don bsdus (4437)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6256/",
+        "label": "mdo sde rgyan gyi don bsdus (2) (6256)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2800,
+      "label": "mdo sde rgyan gyi don bsdus (4437) has as an instance mdo sde rgyan gyi don bsdus (3) (6257)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4437/",
+        "label": "mdo sde rgyan gyi don bsdus (4437)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6257/",
+        "label": "mdo sde rgyan gyi don bsdus (3) (6257)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2805,
       "label": "mdo sde rgyan gyi don bsdus (4437) has as an instance mdo sde rgyan gyi don bsdus (4) (6258)",
       "subj": {
@@ -114,8 +142,8 @@
       "end": null
     },
     {
-      "id": 531,
-      "label": "mdo sde rgyan gyi don bsdus (4437) commentary on mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
+      "id": 7262,
+      "label": "mdo sde rgyan gyi don bsdus (4437) has as an instance mdo sde rgyan gyi don bsdus (5) (8124)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4437/",
         "label": "mdo sde rgyan gyi don bsdus (4437)",
@@ -123,36 +151,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3746/",
-        "label": "mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex1092023-02-1414-36-11",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 2799,
-      "label": "mdo sde rgyan gyi don bsdus (4437) has as an instance mdo sde rgyan gyi don bsdus (2) (6256)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4437/",
-        "label": "mdo sde rgyan gyi don bsdus (4437)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6256/",
-        "label": "mdo sde rgyan gyi don bsdus (2) (6256)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8124/",
+        "label": "mdo sde rgyan gyi don bsdus (5) (8124)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },

@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3840/",
   "relations": [
     {
-      "id": 3495,
-      "label": "dan bag pa smra ba'i seng ge (3840) author of rgyud bla ma'i Tik+ka (6582)",
+      "id": 99,
+      "label": "dan bag pa smra ba'i seng ge (3840) student of phywa pa chos kyi seng ge (3831)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3840/",
         "label": "dan bag pa smra ba'i seng ge (3840)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6582/",
-        "label": "rgyud bla ma'i Tik+ka (6582)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,12 +22,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[5RXEUKD9]: 523, No. 11335.",
+      "zotero_refs": "[R894SIKE]: 405 (khong [=phywa pa] la de dus kyi sde snod 'dzin pa phal mo che slob mar 'dus pa las | gtsang nag pa brtson 'grus seng ge | dan bag pa smra ba'i seng ge | bru sha bsod nams seng ge | rma bya rtsod pa'i seng ge | rtsags dbang phyug seng ge | myang bran chos kyi seng ge | ldan ma dkon mchog seng ge | gnyal pa yon tan seng ge ste seng chen brgyad |).\r\n[VKBZTBWN], fol. 5a2-3. Dan 'bag pa is listed as the sixth of the \"seng chen brgyad.\"",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 2255,
@@ -58,35 +59,6 @@
       "end": null
     },
     {
-      "id": 99,
-      "label": "dan bag pa smra ba'i seng ge (3840) student of phywa pa chos kyi seng ge (3831)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3840/",
-        "label": "dan bag pa smra ba'i seng ge (3840)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 405 (khong [=phywa pa] la de dus kyi sde snod 'dzin pa phal mo che slob mar 'dus pa las | gtsang nag pa brtson 'grus seng ge | dan bag pa smra ba'i seng ge | bru sha bsod nams seng ge | rma bya rtsod pa'i seng ge | rtsags dbang phyug seng ge | myang bran chos kyi seng ge | ldan ma dkon mchog seng ge | gnyal pa yon tan seng ge ste seng chen brgyad |).\r\n[VKBZTBWN], fol. 5a2-3. Dan 'bag pa is listed as the sixth of the \"seng chen brgyad.\"",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2684,
       "label": "dan bag pa smra ba'i seng ge (3840) active at dan bag (6228)",
       "subj": {
@@ -114,6 +86,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3495,
+      "label": "dan bag pa smra ba'i seng ge (3840) author of rgyud bla ma'i Tik+ka (6582)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3840/",
+        "label": "dan bag pa smra ba'i seng ge (3840)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6582/",
+        "label": "rgyud bla ma'i Tik+ka (6582)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 523, No. 11335.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 6610,

@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4351/",
   "relations": [
     {
-      "id": 3084,
-      "label": "nyang stod chu mig (4351) located within gtsang (5915)",
+      "id": 3078,
+      "label": "nyang stod chu mig (4351) located within nyang stod (5541)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4351/",
         "label": "nyang stod chu mig (4351)",
@@ -11,8 +11,8 @@
         "content_type_name": "place"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
-        "label": "gtsang (5915)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5541/",
+        "label": "nyang stod (5541)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 3078,
-      "label": "nyang stod chu mig (4351) located within nyang stod (5541)",
+      "id": 3084,
+      "label": "nyang stod chu mig (4351) located within gtsang (5915)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4351/",
         "label": "nyang stod chu mig (4351)",
@@ -39,8 +39,8 @@
         "content_type_name": "place"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5541/",
-        "label": "nyang stod (5541)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
+        "label": "gtsang (5915)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },

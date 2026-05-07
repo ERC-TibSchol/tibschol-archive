@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
   "relations": [
     {
-      "id": 3905,
-      "label": "tshal gung thang (5658) located within tshal (6748)",
+      "id": 3878,
+      "label": "tshal gung thang (5658) located within dbus (6650)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
         "label": "tshal gung thang (5658)",
@@ -11,8 +11,8 @@
         "content_type_name": "place"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6748/",
-        "label": "tshal (6748)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6650/",
+        "label": "dbus (6650)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 3878,
-      "label": "tshal gung thang (5658) located within dbus (6650)",
+      "id": 3905,
+      "label": "tshal gung thang (5658) located within tshal (6748)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
         "label": "tshal gung thang (5658)",
@@ -39,8 +39,8 @@
         "content_type_name": "place"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6650/",
-        "label": "dbus (6650)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6748/",
+        "label": "tshal (6748)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
