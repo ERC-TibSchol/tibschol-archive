@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/1539/",
   "xml_id": "ex019072025-12-0312-29-53",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex019072025-12-0312-29-53\" status=\"unreviewed\">'ga' zhig dag daM bca' med par bshad pa ni yongs gcod sgrub pa'i daM bca' med par bshad pa yin 'dir ni rnam <lb n=\"14b4\"/> gcad dgag pa'i daM bca' yin zhes pa dang <rs type=\"person\" ana=\"corpusmd:unnamed_reference\" ref=\"db:3868\">'ga' zhig</rs> <note><rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3868\">pa tshab</rs></note> med +par bshad pa ni | de kho na nyid du yin la 'dir kun rdzob du daM bcas pa yin zhes pa ni | kun rdzob tsaM du yang pyhogs gzhan khas blangs pa med ces gsungs shing | daM bca' de dag la sgrub byed med na ni rgol ba'i gsog yin la |...<!--input incomplete--></seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex019072025-12-0312-29-53\" status=\"finalized\"><rs type=\"person\" ana=\"corpusmd:unnamed_reference\" ref=\"db:4593\">'ga' zhig</rs> dag daM bca' med par bshad pa ni yongs gcod sgrub pa'i daM bca' med par bshad pa yin 'dir ni rnam <lb n=\"14b4\"/> gcad dgag pa'i daM bca' yin zhes pa dang <rs type=\"person\" ana=\"corpusmd:unnamed_reference\" ref=\"db:3868\">'ga' zhig</rs> <note type=\"gloss\"><rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3868\">pa tshab</rs></note> med <choice><orig>\u2039par\u203a</orig>\n<reg>par</reg></choice> bshad pa ni | de kho na nyid du yin la 'dir <abbr>kun rdzob</abbr> du daM bcas pa yin zhes pa ni \u00d7 | <abbr>kun rdzob</abbr> tsaM du yang phyogs gzhan khas blangs pa med ces gsungs shing | daM bca' de dag la sgrub byed med na ni rgol ba'i gsog yin la |<!--input incomplete--></seg></TEI>",
   "source": "1_019_07_Shes rab 'bum_dbu ma rtsa ba'i bshad pa 'thad pa rnam par nges pa.xml",
   "tibschol_refs": "1_019_07",
   "zotero_refs": "",
-  "status": "unreviewed",
+  "status": "finalized",
   "location": "14b3 - 14b4"
 }
