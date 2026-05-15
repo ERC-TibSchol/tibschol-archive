@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/1099/",
   "xml_id": "ex31042025-03-0515-40-05",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex31042025-03-0515-40-05\" ana=\"corpusmd:colophon\" status=\"unreviewed\"><rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:3763\">las brgya rtsa 1 gi bsdus don</rs>\u00a0\u00a6 lnga rig gi brgyud pa 'dzin pa\u00a0\u00a6 <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3946\">rtsi 'dul ba 'dzin pa</rs>s <lb n=\"18b6\"/> sbyar ba <rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:4692\">las kyi lde mig</rs> ces bya ba\u00a0\u00a6 rdzogs s+hyo ||</seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex31042025-03-0515-40-05\" ana=\"corpusmd:colophon\" status=\"finalized\">\n        <milestone unit=\"section\" n=\"Colophon (18b5\u201318b6)\"/>\n        <rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:3763\">las brgya rtsa 1 gi bsdus don</rs> \u00a6 lnga rig gi brgyud pa 'dzin pa \u00a6 <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3946\">rtsi 'dul ba 'dzin pa</rs>s <lb n=\"18b6\"/> sbyar ba <rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:4692\">las kyi lde mig</rs> ces bya ba \u00a6 rdzogs s+hyo ||</seg></TEI>",
   "source": "2_031_04_rtsis dul dzin__etext.xml",
   "tibschol_refs": "2_031_04",
   "zotero_refs": "",
-  "status": "unreviewed",
+  "status": "finalized",
   "location": "18b5 - 18b6"
 }
