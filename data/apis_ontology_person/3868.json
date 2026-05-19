@@ -31,35 +31,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3286,
-      "label": "pa tshab nyi ma grags (3868) student of s\u016bk\u1e63majana (6505)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
-        "label": "pa tshab nyi ma grags (3868)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6505/",
-        "label": "s\u016bk\u1e63majana (6505)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[BAQ9MH4T]: 140, n. 25.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3287,
       "label": "pa tshab nyi ma grags (3868) student of mah\u0101jana (6504)",
       "subj": {
@@ -86,6 +57,35 @@
       "confidence": "Positive",
       "start": null,
       "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3286,
+      "label": "pa tshab nyi ma grags (3868) student of s\u016bk\u1e63majana (6505)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
+        "label": "pa tshab nyi ma grags (3868)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6505/",
+        "label": "s\u016bk\u1e63majana (6505)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1100-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1100-12-31",
+      "start_date_to": null,
+      "start_date_from": "1076-01-01",
+      "start_date_sort": "1076-01-01",
+      "zotero_refs": "[BAQ9MH4T]: 140, n. 25.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1076",
+      "end": "before 1100",
       "subject_of_teaching_vocab": []
     },
     {
@@ -872,37 +872,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3212,
-      "label": "dus gsum mkhyen pa (3855) student of pa tshab nyi ma grags (3868)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3855/",
-        "label": "dus gsum mkhyen pa (3855)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
-        "label": "pa tshab nyi ma grags (3868)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Y6NGTTC6]: 33 and 304. \r\ngSer gling by rGang lo, edited in [Y6NGTTC6]: 100 (de nas 'phan yul du dge bshes pa tshab lo tsA la rigs tshogs gsan). In 'Phan yul (ID:5542).\r\n[I58Z22ET]: 409, n. 42, based on Dus gsum mkhyen pa'i rnam thar in Si tu Chos kyi 'byung gnas's Karma kam tshang gser 'phreng. Studied the dBu ma rigs tshogs. The place of this information in the narrative suggests that it was after Dus gsum mkhyen's studies with rGya dmar ba and Phywa pa, and after or during his stay at gSang phu, but before he studied in 'Phan yul.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        13
-      ]
-    },
-    {
       "id": 127,
       "label": "zhang thang sag pa ye shes 'byung gnas (3870) student of pa tshab nyi ma grags (3868)",
       "subj": {
@@ -988,6 +957,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3212,
+      "label": "dus gsum mkhyen pa (3855) student of pa tshab nyi ma grags (3868)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3855/",
+        "label": "dus gsum mkhyen pa (3855)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
+        "label": "pa tshab nyi ma grags (3868)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Y6NGTTC6]: 33 and 304. \r\ngSer gling by rGang lo, edited in [Y6NGTTC6]: 100 (de nas 'phan yul du dge bshes pa tshab lo tsA la rigs tshogs gsan). In 'Phan yul (ID:5542).\r\n[I58Z22ET]: 409, n. 42, based on Dus gsum mkhyen pa'i rnam thar in Si tu Chos kyi 'byung gnas's Karma kam tshang gser 'phreng. Studied the dBu ma rigs tshogs. The place of this information in the narrative suggests that it was after Dus gsum mkhyen's studies with rGya dmar ba and Phywa pa, and after or during his stay at gSang phu, but before he studied in 'Phan yul.\r\n[WR6YC64Y]: 280 and n. 8. The sources disagree on where Dus gsum mkhyen learned Madhyamaka.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 6213,

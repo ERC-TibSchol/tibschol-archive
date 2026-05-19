@@ -60,6 +60,35 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 7405,
+      "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745) active at tho ling (6216)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6216/",
+        "label": "tho ling (6216)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1045-12-31",
+      "end_date_from": "1045-01-01",
+      "end_date_sort": "1045-07-02",
+      "start_date_to": "1042-12-31",
+      "start_date_from": "1042-01-01",
+      "start_date_sort": "1042-07-02",
+      "zotero_refs": "[5VEXCHQ3]: 27-28.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1042",
+      "end": "1045",
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3293,
       "label": "rwa lo tsA ba rdo rje grags (3790) active at tho ling (6216)",
       "subj": {
@@ -103,18 +132,18 @@
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
-      "end_date_to": null,
+      "end_date_to": "1055-12-31",
       "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
+      "end_date_sort": "1055-12-31",
+      "start_date_to": "0996-12-31",
+      "start_date_from": "0996-01-01",
+      "start_date_sort": "0996-07-01",
+      "zotero_refs": "[5VEXCHQ3]: 50. Abbot of Tho ling (lineage in the Bai ser).",
       "tei_refs": "ex1052023-04-241330",
-      "support_notes": "Composition of work (ID:4431), assuming that \"tho mthing gi gtsug lag khang\" corresponds to \"tho ling.\"\r\nBUDA: founded mtho lding dgon pa.",
+      "support_notes": "Composition of work (ID:4431), assuming that \"tho mthing gi gtsug lag khang\" corresponds to \"tho ling.\"",
       "confidence": "Positive",
       "start": "996",
-      "end": "996",
+      "end": "before 1055",
       "subject_of_teaching_vocab": [
         4
       ]
@@ -265,6 +294,34 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 7406,
+      "label": "tho ling gser khang (5615) located within tho ling (6216)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5615/",
+        "label": "tho ling gser khang (5615)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6216/",
+        "label": "tho ling (6216)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3518,
       "label": "bde ba can gyi smon lam (4431) composed at tho ling (6216)",
       "subj": {
@@ -300,8 +357,8 @@
   "longitude": 79.79735820745925,
   "feature_code": "",
   "tibetan_transliteration": "\u0f50\u0f7c\u0f0b\u0f63\u0f72\u0f44",
-  "comments": "Founded in 996 ([5VEXCHQ3]: 14). Location of the great religious council of 1076 (tho ling chos 'khor) organized by rTse lde (r. 1057-1088).\r\nConverted to dGe lugs in 1450 (BDRC).\r\nEntities linked to \"thon mthing gi gtsug lag khang\" are listed in the relations, as Dan Martin suggests that \"thon mthing\" could be an alternative spelling of \"mtho lding,\" namely Tho ling (https://tibeto-logic.blogspot.com/2022/03/consecration-rite-of-great-translator.html, accessed 20.3.2024).",
-  "alternative_names_legacy": "thon mthing gi gtsug lag khang\r\nmtho lding\r\ntho gling\r\nmtho lding gser gyi lha khang\r\nmtho lding rdo rje gdan\r\nmtho lding dgon pa",
+  "comments": "The temple was founded by Ye shes 'od in 996 and completed subsequently in 1028 ([5VEXCHQ3]: 14, [5VEXCHQ3]: 21 and 30). \r\nLocation of the great religious council of 1076 (tho ling chos 'khor) organized by rTse lde (r. 1057-1088).\r\nConverted to dGe lugs in 1450 ([JZP4CZRX], bdr:G2194, accessed 18.05.2026).\r\nFor details of the development of the place, see [5VEXCHQ3].\r\n\r\nEntities linked to \"thon mthing gi gtsug lag khang\" are listed in the relations, as Dan Martin suggests that \"thon mthing\" could be an alternative spelling of \"mtho lding,\" namely Tho ling (https://tibeto-logic.blogspot.com/2022/03/consecration-rite-of-great-translator.html, accessed 20.3.2024).",
+  "alternative_names_legacy": "thon mthing gi gtsug lag khang\r\nmtho lding\r\ntho gling\r\nmtho lding gser gyi lha khang\r\nmtho lding rdo rje gdan\r\nmtho lding dgon pa\r\ndpal dpe med lhun gyis grub pa",
   "alternative_names": [
     {
       "label": "thon mthing gi gtsug lag khang",
@@ -325,6 +382,10 @@
     },
     {
       "label": "mtho lding dgon pa",
+      "language": "bo"
+    },
+    {
+      "label": "dpal dpe med lhun gyis grub pa",
       "language": "bo"
     }
   ],
