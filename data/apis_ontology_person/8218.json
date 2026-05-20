@@ -1,6 +1,71 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8218/",
-  "relations": [],
+  "relations": [
+    {
+      "id": 7408,
+      "label": "gu\u1e47amitra (8218) lineage predecessor of rin chen bzang po (1) (3784)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8218/",
+        "label": "gu\u1e47amitra (8218)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3784/",
+        "label": "rin chen bzang po (1) (3784)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52,
+        48
+      ]
+    },
+    {
+      "id": 7407,
+      "label": "buddha\u015br\u012bj\u00f1\u0101na (5830) lineage predecessor of gu\u1e47amitra (8218)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5830/",
+        "label": "buddha\u015br\u012bj\u00f1\u0101na (5830)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8218/",
+        "label": "gu\u1e47amitra (8218)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52,
+        48
+      ]
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,
