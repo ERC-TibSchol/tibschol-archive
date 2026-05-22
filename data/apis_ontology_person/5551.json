@@ -1,0 +1,204 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5551/",
+  "relations": [
+    {
+      "id": 1241,
+      "label": "j\u00f1\u0101na\u015br\u012bbhadra (5551) author of pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (2) (5597)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5551/",
+        "label": "j\u00f1\u0101na\u015br\u012bbhadra (5551)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5597/",
+        "label": "pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (2) (5597)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3088,
+      "label": "j\u00f1\u0101na\u015br\u012bbhadra (5551) active at nyang (6430)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5551/",
+        "label": "j\u00f1\u0101na\u015br\u012bbhadra (5551)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6430/",
+        "label": "nyang (6430)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 536, based on [Q3KCZX7B] 129,14-17. rNgog Blo ldan shes rab listened to  J\u00f1\u0101na\u015br\u012bbhadra's teachings at an unspecified locality of Nyang (Vitali suggests it may have been in the surroundings of Pa snam rdzong, before the religious council of 1076 in Tho ling).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1050",
+      "end": "after 1050",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4105,
+      "label": "rab zhi bshes gnyen (6799) student of j\u00f1\u0101na\u015br\u012bbhadra (5551)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6799/",
+        "label": "rab zhi bshes gnyen (6799)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5551/",
+        "label": "j\u00f1\u0101na\u015br\u012bbhadra (5551)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P4CZ15186",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3085,
+      "label": "rngog blo ldan shes rab (3786) student of j\u00f1\u0101na\u015br\u012bbhadra (5551)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5551/",
+        "label": "j\u00f1\u0101na\u015br\u012bbhadra (5551)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 536, based on [Q3KCZX7B] 129,14-17. rNgog Blo ldan shes rab listened to his teachings at an unspecified locality of Nyang (Vitali suggests it may have been in the surroundings of Pa snam rdzong, before the religious council of 1076 in Tho ling).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "",
+      "end": "",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4104,
+      "label": "shAkya bshes gnyen (6798) student of j\u00f1\u0101na\u015br\u012bbhadra (5551)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6798/",
+        "label": "shAkya bshes gnyen (6798)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5551/",
+        "label": "j\u00f1\u0101na\u015br\u012bbhadra (5551)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P4CZ15186",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3050,
+      "label": "zangs dkar lo tsA ba 'phags pa shes rab (3944) student of j\u00f1\u0101na\u015br\u012bbhadra (5551)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3944/",
+        "label": "zangs dkar lo tsA ba 'phags pa shes rab (3944)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5551/",
+        "label": "j\u00f1\u0101na\u015br\u012bbhadra (5551)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P4CZ15186",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1100-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1100-12-31",
+  "start_date_to": null,
+  "start_date_from": "1000-01-01",
+  "start_date_sort": "1000-01-01",
+  "tibetan_transliteration": "",
+  "comments": "Approximate life dates: 11th century (see [AAIEJBMW]).",
+  "alternative_names_legacy": "ye shes dpal bzang po\r\nkha che dz+nya na shrI",
+  "alternative_names": [
+    {
+      "label": "ye shes dpal bzang po",
+      "language": "bo"
+    },
+    {
+      "label": "kha che dz+nya na shrI",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P4CZ15186\r\nhttps://east.ikga.oeaw.ac.at/data/35/",
+  "review": true,
+  "start": "after 1000",
+  "end": "before 1100",
+  "name": "j\u00f1\u0101na\u015br\u012bbhadra",
+  "gender": "male",
+  "nationality": "Indic"
+}

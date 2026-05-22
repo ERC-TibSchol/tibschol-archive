@@ -1,0 +1,79 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6822/",
+  "relations": [
+    {
+      "id": 4183,
+      "label": "dbon rab (6822) author of 'dul ba'i bslab pa spyir bstan rnam bshad (4708)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6822/",
+        "label": "dbon rab (6822)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4708/",
+        "label": "'dul ba'i bslab pa spyir bstan rnam bshad (4708)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No. 16196: byang 'dul 'dzin gyi slob ma dbon rab (we take \"byang\" to be a typo for \"bya\")",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4184,
+      "label": "dbon rab (6822) student of bya 'dul 'dzin brtson 'grus 'bar (3818)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6822/",
+        "label": "dbon rab (6822)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8H6M69W4], No. 16196: byang 'dul 'dzin gyi slob ma dbon rab (we take \"byang\" to be a typo for \"bya\")",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "1101-01-01",
+  "end_date_sort": "1101-01-01",
+  "start_date_to": "1164-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1164-12-31",
+  "tibetan_transliteration": "\u0f51\u0f56\u0f7c\u0f53\u0f0b\u0f62\u0f56",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": true,
+  "start": "before 1164",
+  "end": "after 1101",
+  "name": "dbon rab",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

@@ -1,0 +1,81 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3885/",
+  "relations": [
+    {
+      "id": 145,
+      "label": "sangs rgyas lam pa (3885) ordinator of 'jam gsar ba shes rab 'od zer (3884)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3885/",
+        "label": "sangs rgyas lam pa (3885)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
+        "label": "'jam gsar ba shes rab 'od zer (3884)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[S635TW6P]: 77\u201378.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4019,
+      "label": "'jam gsar ba shes rab 'od zer (3884) student of sangs rgyas lam pa (3885)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
+        "label": "'jam gsar ba shes rab 'od zer (3884)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3885/",
+        "label": "sangs rgyas lam pa (3885)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[S635TW6P]: 78 (['jam gsar ba] bde mchog dang phyag chen sogs chos mang po gsan | ).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        41
+      ]
+    }
+  ],
+  "end_date_to": "1260-12-31",
+  "end_date_from": "1110-01-01",
+  "end_date_sort": "1185-07-02",
+  "start_date_to": "1179-12-31",
+  "start_date_from": "1030-01-01",
+  "start_date_sort": "1104-12-31",
+  "tibetan_transliteration": "\u0f66\u0f44\u0f66\u0f0b\u0f62\u0f92\u0fb1\u0f66\u0f0b\u0f63\u0f58\u0f0b\u0f54",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "after 1030 before 1179",
+  "end": "after 1110 before 1260",
+  "name": "sangs rgyas lam pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

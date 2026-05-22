@@ -1,0 +1,63 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5187/",
+  "relations": [
+    {
+      "id": 1608,
+      "label": "phar phyin gyi thal phreng bsdus pa (5188) has as an instance phar phyin gyi thal phreng bsdus pa (5187)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5188/",
+        "label": "phar phyin gyi thal phreng bsdus pa (5188)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5187/",
+        "label": "phar phyin gyi thal phreng bsdus pa (5187)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f55\u0f62\u0f0b\u0f55\u0fb1\u0f72\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f50\u0f63\u0f0b\u0f55\u0fb2\u0f7a\u0f44\u0f0b\u0f56\u0f66\u0fa1\u0f74\u0f66\u0f0b\u0f54",
+  "comments": "No signature is visible in [KUYBGM7V], but the instance appears to correspond to No. 15873 in [8H6M69W4].",
+  "alternative_names_legacy": "phar phyin gyi thal phreng bsdus pa (catalogue)",
+  "alternative_names": [
+    {
+      "label": "phar phyin gyi thal phreng bsdus pa (catalogue)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD153536_A50702",
+  "review": false,
+  "start": null,
+  "name": "phar phyin gyi thal phreng bsdus pa",
+  "set_num": "Set 3",
+  "volume": "72",
+  "sb_text_number": "4",
+  "pp_kdsb": "599-620",
+  "num_folios": "11",
+  "signature_letter": "tsha",
+  "signature_number": "73",
+  "drepung_number": "15873",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "3_072_04",
+  "availability": "available",
+  "dimension": "45.5 x 9.5",
+  "item_description": "Script: dpe tshugs."
+}

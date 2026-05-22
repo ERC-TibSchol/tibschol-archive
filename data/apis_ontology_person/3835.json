@@ -1,0 +1,204 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3835/",
+  "relations": [
+    {
+      "id": 2616,
+      "label": "zla ba'i 'od zer (3835) student of gangs pa she'u blo gros byang chub (3810)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3835/",
+        "label": "zla ba'i 'od zer (3835)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3810/",
+        "label": "gangs pa she'u blo gros byang chub (3810)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 283 (bcu drug lon pa'i tshe 'u yug gi zhang rgya ma ba | gangs pa she'u | rong zom chos kyi bzang po la sogs pa yab kyi bzhin du gsan pa rgya cher mdzad |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1139",
+      "end": "after 1139",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2617,
+      "label": "zla ba'i 'od zer (3835) student of rong zom chos kyi bzang po (6198)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3835/",
+        "label": "zla ba'i 'od zer (3835)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6198/",
+        "label": "rong zom chos kyi bzang po (6198)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 283 (bcu drug lon pa'i tshe 'u yug gi zhang rgya ma ba | gangs pa she'u | rong zom chos kyi bzang po la sogs pa yab kyi bzhin du gsan pa rgya cher mdzad |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1139",
+      "end": "after 1139",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2618,
+      "label": "zla ba'i 'od zer (3835) student of zhang rgya ma ba (6199)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3835/",
+        "label": "zla ba'i 'od zer (3835)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6199/",
+        "label": "zhang rgya ma ba (6199)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 283 (bcu drug lon pa'i tshe 'u yug gi zhang rgya ma ba | gangs pa she'u | rong zom chos kyi bzang po la sogs pa yab kyi bzhin du gsan pa rgya cher mdzad |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1139",
+      "end": "after 1139",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 1793,
+      "label": "'khon phu ba chos kyi rgyal po (3836) parent of zla ba'i 'od zer (3835)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3836/",
+        "label": "'khon phu ba chos kyi rgyal po (3836)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3835/",
+        "label": "zla ba'i 'od zer (3835)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 404 (rgya dmar bas ni 'khon phu ba'i sras zla ba'i 'od zer la yang man ngag mang po zhus snang |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 89,
+      "label": "rgya dmar ba byang chub grags (3834) student of zla ba'i 'od zer (3835)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3835/",
+        "label": "zla ba'i 'od zer (3835)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 283 (mkhas pa'i snyan pas stod lungs rgya dmar ba la sogs pas kyang zhabs la gtugs |)\r\n[R894SIKE]: 404 (rgya dmar bas ni 'khon phu ba'i sras zla ba'i 'od zer la yang man ngag mang po zhus snang |). Subject: Instructions.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3762,
+      "label": "blo gros rgyal mtshan (1) (4002) student of zla ba'i 'od zer (3835)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4002/",
+        "label": "blo gros rgyal mtshan (1) (4002)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3835/",
+        "label": "zla ba'i 'od zer (3835)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BDRC",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1182-12-31",
+  "end_date_from": "1182-01-01",
+  "end_date_sort": "1182-07-02",
+  "start_date_to": "1123-12-31",
+  "start_date_from": "1123-01-01",
+  "start_date_sort": "1123-07-02",
+  "tibetan_transliteration": "\u0f5f\u0fb3\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f60\u0f7c\u0f51\u0f0b\u0f5f\u0f7a\u0f62",
+  "comments": "Presumably identical to lha ba'i 'od zer (ID: 6186).",
+  "alternative_names_legacy": "lha ba'i 'od zer\r\nlha rje zla ba'i 'od zer",
+  "alternative_names": [
+    {
+      "label": "lha ba'i 'od zer",
+      "language": "bo"
+    },
+    {
+      "label": "lha rje zla ba'i 'od zer",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P3778",
+  "review": false,
+  "start": "1123",
+  "end": "1182",
+  "name": "zla ba'i 'od zer",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

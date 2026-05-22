@@ -1,0 +1,56 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3845/",
+  "relations": [
+    {
+      "id": 104,
+      "label": "'dam pa dkon mchog seng ge (3845) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3845/",
+        "label": "'dam pa dkon mchog seng ge (3845)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 405 (khong [=phywa pa] la de dus kyi sde snod 'dzin pa phal mo che slob mar 'dus pa las | gtsang nag pa brtson 'grus seng ge | dan bag pa smra ba'i seng ge | bru sha bsod nams seng ge | rma bya rtsod pa'i seng ge | rtsags dbang phyug seng ge | myang bran chos kyi seng ge | ldan ma dkon mchog seng ge | gnyal pa yon tan seng ge ste seng chen brgyad |).\r\n[VKBZTBWN], fol. 5a2-3. 'Dam pa dkon mchog seng ge is listed as the 7th of the \"seng chen brgyad.\"",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": "1159-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1159-12-31",
+  "tibetan_transliteration": "\u0f60\u0f51\u0f58\u0f0b\u0f54\u0f0b\u0f51\u0f40\u0f7c\u0f53\u0f0b\u0f58\u0f46\u0f7c\u0f42\u0f0b\u0f66\u0f7a\u0f44\u0f0b\u0f42\u0f7a",
+  "comments": "",
+  "alternative_names_legacy": "ldan ma dkon mchog seng ge",
+  "alternative_names": [
+    {
+      "label": "ldan ma dkon mchog seng ge",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "before 1159",
+  "end": null,
+  "name": "'dam pa dkon mchog seng ge",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

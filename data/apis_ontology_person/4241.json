@@ -1,0 +1,375 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
+  "relations": [
+    {
+      "id": 459,
+      "label": "ko ye shes 'byung gnas (4241) other relation to ngur smrig pa dar ma snying po (4291)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
+        "label": "ko ye shes 'byung gnas (4241)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
+        "label": "ngur smrig pa dar ma snying po (4291)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1397. Both \"Ngur smrig pa dar ma snying po\" and \"ko bo ye shes 'byung gnas\" are listed together as successors of Rwa khri bzang 'bar in the transmission of the Abhidharmasamuccaya (ID:3755).\r\n[K9NNDTDS]: 1401 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012)). Both \"'brang\" and \"rko bo\" are listed as students of Khu brtson 'grus g.yung drung.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 461,
+      "label": "ko ye shes 'byung gnas (4241) lineage predecessor of rog chos kyi brtson 'grus (4242)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
+        "label": "ko ye shes 'byung gnas (4241)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
+        "label": "rog chos kyi brtson 'grus (4242)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTQMVBPR]: Appendix A. Lineage of the Abhidharmasamuccaya (ID:3755).\r\n[TZC3JQWE]: 353. Abhidharmasamuccaya lineage according to Bu ston.",
+      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 462,
+      "label": "ko ye shes 'byung gnas (4241) lineage predecessor of 'ban dkon mchog rdo rje (4243)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
+        "label": "ko ye shes 'byung gnas (4241)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4243/",
+        "label": "'ban dkon mchog rdo rje (4243)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1397.  \"'ban dkon mchog rdo rje\" follows both Ngur smrig pa Dar ma snying po and Ko bo Ye shes 'byung gnas in the transmission of the Abhidharmasamuccaya.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 3734,
+      "label": "ko ye shes 'byung gnas (4241) lineage predecessor of 'ban dkon mchog rdo rje (4243)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
+        "label": "ko ye shes 'byung gnas (4241)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4243/",
+        "label": "'ban dkon mchog rdo rje (4243)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1402 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012)).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 7097,
+      "label": "ko ye shes 'byung gnas (4241) lineage predecessor of 'ban dkon mchog rdo rje (4243)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
+        "label": "ko ye shes 'byung gnas (4241)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4243/",
+        "label": "'ban dkon mchog rdo rje (4243)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "exX0032026-04-0814-58-31 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 3700,
+      "label": "ra khri bzang 'bar (4237) lineage predecessor of ko ye shes 'byung gnas (4241)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4237/",
+        "label": "ra khri bzang 'bar (4237)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
+        "label": "ko ye shes 'byung gnas (4241)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1397. Transmission of the Abhidharmasamuccaya (ID:3755). Successor of Rwa together with Ngur smrig pa Dar ma snying po (ID:4291).",
+      "tei_refs": "ex8001_2024-11-1408-36-05 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 6685,
+      "label": "ngur smrig pa dar ma snying po (4291) lineage predecessor of ko ye shes 'byung gnas (4241)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
+        "label": "ngur smrig pa dar ma snying po (4291)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
+        "label": "ko ye shes 'byung gnas (4241)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[TZC3JQWE]: 352.",
+      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 457,
+      "label": "li ston chos grags (4239) lineage predecessor of ko ye shes 'byung gnas (4241)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4239/",
+        "label": "li ston chos grags (4239)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
+        "label": "ko ye shes 'byung gnas (4241)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 460,
+      "label": "ngur smrig pa dar ma snying po (4291) lineage predecessor of ko ye shes 'byung gnas (4241)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
+        "label": "ngur smrig pa dar ma snying po (4291)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
+        "label": "ko ye shes 'byung gnas (4241)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTQMVBPR]: Appendix A. Lineage of the Abhidharmasamuccaya (ID:3755).\r\n[TZC3JQWE]: 357. Abhidharmasamuccaya lineage according to the Fifth Dalai Lama (ca. 1670).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 3735,
+      "label": "khu ston brtson 'grus g.yung drung (4235) lineage predecessor of ko ye shes 'byung gnas (4241)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
+        "label": "khu ston brtson 'grus g.yung drung (4235)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
+        "label": "ko ye shes 'byung gnas (4241)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1402 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012)). \"rKho\" and \"'Brang\" are part of the \"later group\" of Khu's students.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 453,
+      "label": "rgya tshul li (4238) lineage predecessor of ko ye shes 'byung gnas (4241)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4238/",
+        "label": "rgya tshul li (4238)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
+        "label": "ko ye shes 'byung gnas (4241)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex8001_2024-11-1408-36-05 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f40\u0f7c\u0f0b\u0f61\u0f7a\u0f0b\u0f64\u0f7a\u0f66\u0f0b\u0f60\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f42\u0f53\u0f66",
+  "comments": "",
+  "alternative_names_legacy": "ko bo ye shes 'byung gnas\r\nrko bo ye shes 'byung gnas\r\nkho'o ye 'byung\r\nga'u ye shes 'byung gnas",
+  "alternative_names": [
+    {
+      "label": "ko bo ye shes 'byung gnas",
+      "language": "bo"
+    },
+    {
+      "label": "rko bo ye shes 'byung gnas",
+      "language": "bo"
+    },
+    {
+      "label": "kho'o ye 'byung",
+      "language": "bo"
+    },
+    {
+      "label": "ga'u ye shes 'byung gnas",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P10012",
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "ko ye shes 'byung gnas",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

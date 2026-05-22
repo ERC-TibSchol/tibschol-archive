@@ -1,0 +1,213 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4234/",
+  "relations": [
+    {
+      "id": 442,
+      "label": "'gar mi yon tan g.yung drung (4234) lineage predecessor of khu ston brtson 'grus g.yung drung (4235)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4234/",
+        "label": "'gar mi yon tan g.yung drung (4234)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
+        "label": "khu ston brtson 'grus g.yung drung (4235)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1397. \"Khu chen po Lha sdings pa\" follows \"Gar mi Yon tan g.yung drung\" in the transmission of the Abhidharmasamuccaya (ID:3755).",
+      "tei_refs": "ex8001_2024-11-1408-36-05 (Abhidharmasamuccaya lineage)\r\nex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 3682,
+      "label": "'gar mi yon tan g.yung drung (4234) active at 'ol kha rdzing phyi (6665)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4234/",
+        "label": "'gar mi yon tan g.yung drung (4234)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6665/",
+        "label": "'ol kha rdzing phyi (6665)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1389. Founded the seminary.\r\n[TZC3JQWE]: 343. Founded the monastery, which included an Abhidharma Teaching College (bshad grwa).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 3714,
+      "label": "'gar mi yon tan g.yung drung (4234) student of se btsun dbang phyug gzhon nu (4232)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4234/",
+        "label": "'gar mi yon tan g.yung drung (4234)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4232/",
+        "label": "se btsun dbang phyug gzhon nu (4232)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1401 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 3715,
+      "label": "khu ston brtson 'grus g.yung drung (4235) student of 'gar mi yon tan g.yung drung (4234)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
+        "label": "khu ston brtson 'grus g.yung drung (4235)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4234/",
+        "label": "'gar mi yon tan g.yung drung (4234)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1401 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012)).\r\n[TZC3JQWE]: 341-342 and n. 19.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 7191,
+      "label": "se btsun dbang phyug gzhon nu (4232) lineage predecessor of 'gar mi yon tan g.yung drung (4234)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4232/",
+        "label": "se btsun dbang phyug gzhon nu (4232)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4234/",
+        "label": "'gar mi yon tan g.yung drung (4234)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 441,
+      "label": "se btsun dbang phyug gzhon nu (4232) lineage predecessor of 'gar mi yon tan g.yung drung (4234)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4232/",
+        "label": "se btsun dbang phyug gzhon nu (4232)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4234/",
+        "label": "'gar mi yon tan g.yung drung (4234)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1397. Transmission of the Abhidharmasamuccaya (ID:3755).",
+      "tei_refs": "ex8001_2024-11-1408-36-05 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    }
+  ],
+  "end_date_to": "1100-12-31",
+  "end_date_from": "1021-01-01",
+  "end_date_sort": "1060-12-31",
+  "start_date_to": "1065-12-31",
+  "start_date_from": "1000-01-01",
+  "start_date_sort": "1032-12-31",
+  "tibetan_transliteration": "\u0f60\u0f42\u0f62\u0f0b\u0f58\u0f72\u0f0b\u0f61\u0f7c\u0f53\u0f0b\u0f4f\u0f53\u0f0b\u0f42\u0f61\u0f74\u0f44\u0f0b\u0f51\u0fb2\u0f74\u0f44",
+  "comments": "Major exponent of the Abhidharmasamuccaya (ID:3755) ([K9NNDTDS]: 1389).",
+  "alternative_names_legacy": "gar mi yon tan g.yung drung",
+  "alternative_names": [
+    {
+      "label": "gar mi yon tan g.yung drung",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P10005",
+  "review": false,
+  "start": "after 1000 before 1065",
+  "end": "after 1021 before 1100",
+  "name": "'gar mi yon tan g.yung drung",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

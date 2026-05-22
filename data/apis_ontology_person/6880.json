@@ -1,0 +1,86 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6880/",
+  "relations": [
+    {
+      "id": 4311,
+      "label": "smar khams pa grags pa bzang po (6880) author of phar phyin yum don nor bu'i dgongs rgyan (6881)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6880/",
+        "label": "smar khams pa grags pa bzang po (6880)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6881/",
+        "label": "phar phyin yum don nor bu'i dgongs rgyan (6881)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 539, No. 11555.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5619,
+      "label": "stag tshang lo tsA ba shes rab rin chen (6883) student of smar khams pa grags pa bzang po (6880)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6883/",
+        "label": "stag tshang lo tsA ba shes rab rin chen (6883)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6880/",
+        "label": "smar khams pa grags pa bzang po (6880)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5IPSARNF]: lxxv. sTag tshang also acted as a scribe for his teacher.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    }
+  ],
+  "end_date_to": "1500-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1500-12-31",
+  "start_date_to": null,
+  "start_date_from": "1400-01-01",
+  "start_date_sort": "1400-01-01",
+  "tibetan_transliteration": "\u0f66\u0fa8\u0f62\u0f0b\u0f41\u0f58\u0f66\u0f0b\u0f54\u0f0b\u0f42\u0fb2\u0f42\u0f66\u0f0b\u0f54\u0f0b\u0f56\u0f5f\u0f44\u0f0b\u0f54\u0f7c",
+  "comments": "Probably the author of a large and small commentary on Pram\u0101\u1e47asamuccaya (ID:3770) and a Tshad ma spyi don chen mo, which his student sTag tshag (ID:6883) wrote out ([5IPSARNF]: lxxv).",
+  "alternative_names_legacy": "chos rje mkhyen rab dbang phyug grags pa bzang po",
+  "alternative_names": [
+    {
+      "label": "chos rje mkhyen rab dbang phyug grags pa bzang po",
+      "language": "bo"
+    }
+  ],
+  "external_links": "http://purl.bdrc.io/resource/P4754",
+  "review": false,
+  "start": "after 1400",
+  "end": "before 1500",
+  "name": "smar khams pa grags pa bzang po",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

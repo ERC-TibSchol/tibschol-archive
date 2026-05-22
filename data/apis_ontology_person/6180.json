@@ -1,0 +1,113 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6180/",
+  "relations": [
+    {
+      "id": 2579,
+      "label": "pa tshab nyi ma grags (3868) student of mah\u0101sumati (6180)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
+        "label": "pa tshab nyi ma grags (3868)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6180/",
+        "label": "mah\u0101sumati (6180)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[XJHQU4GM]: 133",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2578,
+      "label": "dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4520) records the teaching of mah\u0101sumati (6180)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4520/",
+        "label": "dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4520)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6180/",
+        "label": "mah\u0101sumati (6180)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FFQQBB4J]: 391-392.",
+      "tei_refs": "",
+      "support_notes": "Colophon in (ID:4519), fol. 52b, column II, l. 11: dbu' ma rtsa ba'i shes rab kyi ti ka | bstan bcos sgron ma gsal bar byed pa zhes bya ba | pan D\u00ef ta ha su mati'i bshad lugs bris pa rdzogs s+ho ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5109,
+      "label": "'jad pa gzhon nu byang chub (3863) quotes with name mah\u0101sumati (6180)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3863/",
+        "label": "'jad pa gzhon nu byang chub (3863)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6180/",
+        "label": "mah\u0101sumati (6180)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": "1050-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1050-12-31",
+  "tibetan_transliteration": "",
+  "comments": "",
+  "alternative_names_legacy": "hasumati",
+  "alternative_names": [
+    {
+      "label": "hasumati",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": "before 1050",
+  "end": null,
+  "name": "mah\u0101sumati",
+  "gender": "male",
+  "nationality": "Indic"
+}

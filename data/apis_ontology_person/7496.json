@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7496/",
+  "relations": [
+    {
+      "id": 6041,
+      "label": "rgyal thang pa bden chen rdo rje (7496) biographer of phag mo gru pa rdo rje rgyal po (3856)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7496/",
+        "label": "rgyal thang pa bden chen rdo rje (7496)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3856/",
+        "label": "phag mo gru pa rdo rje rgyal po (3856)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6042,
+      "label": "rgyal thang pa bden chen rdo rje (7496) author of dkar brgyud gser 'phreng rnam thar 'brug ra lung gdan rabs yan (7494)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7496/",
+        "label": "rgyal thang pa bden chen rdo rje (7496)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7494/",
+        "label": "dkar brgyud gser 'phreng rnam thar 'brug ra lung gdan rabs yan (7494)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": "1350-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1350-12-31",
+  "start_date_to": null,
+  "start_date_from": "1200-01-01",
+  "start_date_sort": "1200-01-01",
+  "tibetan_transliteration": "\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f50\u0f44\u0f0b\u0f54\u0f0b\u0f56\u0f51\u0f7a\u0f53\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f62\u0fa1\u0f7c\u0f0b\u0f62\u0f97\u0f7a",
+  "comments": "Thirteenth-century master of the Dwags po bka' brgyud tradition.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "https://purl.bdrc.io/resource/P5964",
+  "review": false,
+  "start": "after 1200",
+  "end": "before 1350",
+  "name": "rgyal thang pa bden chen rdo rje",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

@@ -1,0 +1,60 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7765/",
+  "relations": [
+    {
+      "id": 6585,
+      "label": "la yag pa byang chub dngos grub (7765) student of sgam po pa bsod nams rin chen (4189)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7765/",
+        "label": "la yag pa byang chub dngos grub (7765)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4189/",
+        "label": "sgam po pa bsod nams rin chen (4189)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P7589.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "1089-01-01",
+  "end_date_sort": "1089-01-01",
+  "start_date_to": "1143-12-31",
+  "start_date_from": "1100-01-01",
+  "start_date_sort": "1121-12-31",
+  "tibetan_transliteration": "\u0f63\u0f0b\u0f61\u0f42\u0f0b\u0f54\u0f0b\u0f56\u0fb1\u0f44\u0f0b\u0f46\u0f74\u0f56\u0f0b\u0f51\u0f44\u0f7c\u0f66\u0f0b\u0f42\u0fb2\u0f74\u0f56",
+  "comments": "Master associated with the Dwags po bka' brgyud.\r\nBefore becoming a disciple of sGam po pa (ID:4189), he met two disciples of Phya pa (ID:3831) who had come to the latter's funeral and studied Perfection of Wisdom with them [N7PGQIN6].",
+  "alternative_names_legacy": "lho la yag pa\r\nla yag jo sras",
+  "alternative_names": [
+    {
+      "label": "lho la yag pa",
+      "language": "bo"
+    },
+    {
+      "label": "la yag jo sras",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P7589",
+  "review": false,
+  "start": "after 1100 before 1143",
+  "end": "after 1089",
+  "name": "la yag pa byang chub dngos grub",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

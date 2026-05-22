@@ -1,0 +1,50 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3929/",
+  "relations": [
+    {
+      "id": 682,
+      "label": "dge ba'i bshes gnyen kun dga' rgyal mtshan (3929) author of mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3929/",
+        "label": "dge ba'i bshes gnyen kun dga' rgyal mtshan (3929)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4663/",
+        "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex074012025-11-2510-59-48",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": "1199-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1199-12-31",
+  "start_date_to": null,
+  "start_date_from": "1100-01-01",
+  "start_date_sort": "1100-01-01",
+  "tibetan_transliteration": "\u0f51\u0f42\u0f7a\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f56\u0f64\u0f7a\u0f66\u0f0b\u0f42\u0f49\u0f7a\u0f53\u0f0b\u0f40\u0f74\u0f53\u0f0b\u0f51\u0f42\u0f60\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f58\u0f5a\u0f53",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "https://purl.bdrc.io/resource/P8LS15357",
+  "review": false,
+  "start": "after 1100",
+  "end": "before 1199",
+  "name": "dge ba'i bshes gnyen kun dga' rgyal mtshan",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

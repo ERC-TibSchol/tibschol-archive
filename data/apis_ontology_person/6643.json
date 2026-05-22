@@ -1,0 +1,230 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6643/",
+  "relations": [
+    {
+      "id": 3632,
+      "label": "byang sems rgyal ba ye shes (6643) active at jo nang dgon pa (6628)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6643/",
+        "label": "byang sems rgyal ba ye shes (6643)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6628/",
+        "label": "jo nang dgon pa (6628)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BDRC. Abbot from 1317 to 1319.",
+      "confidence": "Positive",
+      "start": "1313",
+      "end": "1313",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3633,
+      "label": "byang sems rgyal ba ye shes (6643) biographer of 'jam dbyangs rin chen rgyal mtshan (6619)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6643/",
+        "label": "byang sems rgyal ba ye shes (6643)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6619/",
+        "label": "'jam dbyangs rin chen rgyal mtshan (6619)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[E8Z2R8MK]: 188-189.\r\n[FEHIEFEB]: 126.",
+      "tei_refs": "",
+      "support_notes": "Work (ID:7797).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3634,
+      "label": "byang sems rgyal ba ye shes (6643) active at sa skya dgon pa (5733)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6643/",
+        "label": "byang sems rgyal ba ye shes (6643)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
+        "label": "sa skya dgon pa (5733)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 137. Studied epistemology with Rin chen rgyal mtshan (ID:6619).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3635,
+      "label": "byang sems rgyal ba ye shes (6643) student of 'jam dbyangs rin chen rgyal mtshan (6619)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6643/",
+        "label": "byang sems rgyal ba ye shes (6643)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6619/",
+        "label": "'jam dbyangs rin chen rgyal mtshan (6619)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 137. At Sa skya monastery. Subject: epistemology.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 6663,
+      "label": "byang sems rgyal ba ye shes (6643) author of chos rje 'jam dbyangs chen po'i rnam thar yon tan rgya mtsho (7797)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6643/",
+        "label": "byang sems rgyal ba ye shes (6643)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7797/",
+        "label": "chos rje 'jam dbyangs chen po'i rnam thar yon tan rgya mtsho (7797)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[E8Z2R8MK]: 188-189.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6664,
+      "label": "byang sems rgyal ba ye shes (6643) student of 'jam gsar ba shes rab 'od zer (3884)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6643/",
+        "label": "byang sems rgyal ba ye shes (6643)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
+        "label": "'jam gsar ba shes rab 'od zer (3884)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MX3PRVV2]: 3/16.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4660,
+      "label": "skyi ston grags pa rgyal mtshan (4221) student of byang sems rgyal ba ye shes (6643)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4221/",
+        "label": "skyi ston grags pa rgyal mtshan (4221)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6643/",
+        "label": "byang sems rgyal ba ye shes (6643)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BUDA",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1320-12-31",
+  "end_date_from": "1320-01-01",
+  "end_date_sort": "1320-07-01",
+  "start_date_to": "1257-12-31",
+  "start_date_from": "1247-01-01",
+  "start_date_sort": "1252-07-01",
+  "tibetan_transliteration": "\u0f56\u0fb1\u0f44\u0f0b\u0f66\u0f7a\u0f58\u0f66\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f56\u0f0b\u0f61\u0f7a\u0f0b\u0f64\u0f7a\u0f66",
+  "comments": "",
+  "alternative_names_legacy": "jo nang gdan rabs 2",
+  "alternative_names": [
+    {
+      "label": "jo nang gdan rabs 2",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P1511",
+  "review": true,
+  "start": "after 1247 before 1257",
+  "end": "1320",
+  "name": "byang sems rgyal ba ye shes",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

@@ -1,0 +1,142 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4000/",
+  "relations": [
+    {
+      "id": 3992,
+      "label": "'bri gung skyob pa 'jig rten gsum mgon (4000) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4000/",
+        "label": "'bri gung skyob pa 'jig rten gsum mgon (4000)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1217-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1217-12-31",
+      "start_date_to": null,
+      "start_date_from": "1163-01-01",
+      "start_date_sort": "1163-01-01",
+      "zotero_refs": "[3WFNMIGQ]: 141, n. 13.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1163",
+      "end": "before 1217",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4402,
+      "label": "'bri gung skyob pa 'jig rten gsum mgon (4000) other relation to rnal 'byor byang chub seng ge (6929)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4000/",
+        "label": "'bri gung skyob pa 'jig rten gsum mgon (4000)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6929/",
+        "label": "rnal 'byor byang chub seng ge (6929)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 673 (gro sa'i rnal 'byor byang seng gis | khos bla ma'i gdan sa bshig zer ba'i skur pa yang btab |). rNal 'byor byang chub seng ge criticized 'Jig rten gsum mgon for moving the books of Phag mo gru pa rDo rje rgyal po's to his own monastery of sGam po.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3993,
+      "label": "rtsegs dbang phyug seng ge (4289) student of 'bri gung skyob pa 'jig rten gsum mgon (4000)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
+        "label": "rtsegs dbang phyug seng ge (4289)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4000/",
+        "label": "'bri gung skyob pa 'jig rten gsum mgon (4000)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3WFNMIGQ]: 141, n. 13.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3994,
+      "label": "gtsang pa 'jam dpal seng ge (6336) student of 'bri gung skyob pa 'jig rten gsum mgon (4000)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6336/",
+        "label": "gtsang pa 'jam dpal seng ge (6336)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4000/",
+        "label": "'bri gung skyob pa 'jig rten gsum mgon (4000)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3WFNMIGQ]: 141, n. 13.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1217-12-31",
+  "end_date_from": "1217-01-01",
+  "end_date_sort": "1217-07-02",
+  "start_date_to": "1143-12-31",
+  "start_date_from": "1143-01-01",
+  "start_date_sort": "1143-07-02",
+  "tibetan_transliteration": "\u0f60\u0f56\u0fb2\u0f72\u0f0b\u0f42\u0f74\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f56\u0f0b\u0f54\u0f0b\u0f60\u0f47\u0f72\u0f42\u0f0b\u0f62\u0f9f\u0f7a\u0f53\u0f0b\u0f42\u0f66\u0f74\u0f58\u0f0b\u0f58\u0f42\u0f7c\u0f53",
+  "comments": "Founder of the 'Bri gung bKa' brgyud.",
+  "alternative_names_legacy": "'jig rten mgon po",
+  "alternative_names": [
+    {
+      "label": "'jig rten mgon po",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P16",
+  "review": false,
+  "start": "1143",
+  "end": "1217",
+  "name": "'bri gung skyob pa 'jig rten gsum mgon",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

@@ -1,0 +1,56 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3852/",
+  "relations": [
+    {
+      "id": 111,
+      "label": "khong po 'jag chung (3852) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3852/",
+        "label": "khong po 'jag chung (3852)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 406 ('gar dbang gru | kong po 'jag chung | lho ba sgog zan | bar phu ba dang bzhi la shes rab can bzhi zer |).\r\n[VKBZTBWN]: 5a1. Listed as one of the \"shes rab can mi gsum\" together with lHo pa sgom gzan and Par bu ba blo gros seng ge.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "",
+      "end": "",
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "1119-01-01",
+  "end_date_sort": "1119-01-01",
+  "start_date_to": "1159-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1159-12-31",
+  "tibetan_transliteration": "\u0f41\u0f7c\u0f44\u0f0b\u0f54\u0f7c\u0f0b\u0f60\u0f47\u0f42\u0f0b\u0f46\u0f74\u0f44",
+  "comments": "Listed in the group of Phya pa (ID:3831)'s students called \"the four wise ones\" (shes rab can mi bzhi), comprising 'Gar dBang grub (ID:3851), Khong po 'Jag chung (ID:3852), lHo pa sGog zan (ID:3853), and sPar phu ba (ID:3854), and among \"the three wise ones\" (shes rab can mi gsum), comprising Khong po 'Jag chung (ID:3852), lHo pa sGog zan (ID:3853), and sPar phu ba (ID:3854).",
+  "alternative_names_legacy": "rkong po 'jag chung",
+  "alternative_names": [
+    {
+      "label": "rkong po 'jag chung",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "before 1159",
+  "end": "after 1119",
+  "name": "khong po 'jag chung",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

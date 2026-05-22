@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6352/",
+  "relations": [
+    {
+      "id": 2960,
+      "label": "lha ston zhig po bsod nams rgyal mtshan (6352) active at gsang phu gling stod (6172)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6352/",
+        "label": "lha ston zhig po bsod nams rgyal mtshan (6352)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
+        "label": "gsang phu gling stod (6172)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1400-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1400-12-31",
+      "start_date_to": null,
+      "start_date_from": "1300-01-01",
+      "start_date_sort": "1300-01-01",
+      "zotero_refs": "[MPRU5QUC]: 211. Abbot of gSang phu ne'u thog monastery (13th abbot of upper college) for 17 years.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1300",
+      "end": "before 1400",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5667,
+      "label": "lha ston zhig po bsod nams rgyal mtshan (6352) author of theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4635)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6352/",
+        "label": "lha ston zhig po bsod nams rgyal mtshan (6352)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4635/",
+        "label": "theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4635)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": "1400-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1400-12-31",
+  "start_date_to": null,
+  "start_date_from": "1200-01-01",
+  "start_date_sort": "1200-01-01",
+  "tibetan_transliteration": "\u0f63\u0fb7\u0f0b\u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f5e\u0f72\u0f42\u0f0b\u0f54\u0f7c\u0f0b\u0f56\u0f66\u0f7c\u0f51\u0f0b\u0f53\u0f58\u0f66\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f58\u0f5a\u0f53",
+  "comments": "Fl. early 14th c.",
+  "alternative_names_legacy": "lha sa ba ru mtshams pa shes rab rgyal mtshan",
+  "alternative_names": [
+    {
+      "label": "lha sa ba ru mtshams pa shes rab rgyal mtshan",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1200",
+  "end": "before 1400",
+  "name": "lha ston zhig po bsod nams rgyal mtshan",
+  "gender": "male",
+  "nationality": "Tibetan"
+}
