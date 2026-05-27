@@ -997,6 +997,37 @@
       "end": null
     },
     {
+      "id": 7463,
+      "label": "mchims nam mkha' grags (3977) lineage predecessor of ze'u grags pa brtson 'grus (6519)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
+        "label": "ze'u grags pa brtson 'grus (6519)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex107012023-10-06-110731 (Stages of the Path Lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
+    },
+    {
       "id": 800,
       "label": "mchims nam mkha' grags (3977) author of chu mig pa chen po'i rnam thar (4880)",
       "subj": {
@@ -2250,13 +2281,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex58012026-01-2114-24-24 (Bodhisattva vows lineage)",
+      "tei_refs": "ex58012026-01-2114-24-24 (Bodhisattva vows lineage)\r\nex107012023-10-06-110731 (Stages of the Path Lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
         48,
+        12,
         26
       ]
     },

@@ -123,6 +123,37 @@
       ]
     },
     {
+      "id": 7456,
+      "label": "'brom ston rgyal ba'i 'byung gnas (3827) lineage predecessor of po to ba rin chen gsal (3829)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3827/",
+        "label": "'brom ston rgyal ba'i 'byung gnas (3827)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3829/",
+        "label": "po to ba rin chen gsal (3829)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex107012023-10-06-110731 (Stages of the Path Lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
+    },
+    {
       "id": 322,
       "label": "po to ba rin chen gsal (3829) student of 'brom ston rgyal ba'i 'byung gnas (3827)",
       "subj": {
@@ -527,7 +558,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[Q922IUFM]: 24. 'Brom received an oral tradition, which he passed on to sPyan snga ba (ID:3830).",
-      "tei_refs": "ex58012026-01-2114-24-24 (Bodhisattva vows lineage)\r\nex21042026-16-45-31 (Bodhisattva vows lineage)",
+      "tei_refs": "ex58012026-01-2114-24-24 (Bodhisattva vows lineage)\r\nex21042026-16-45-31 (Bodhisattva vows lineage)\r\nex107012023-10-06-110731 (Stages of the Path Lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -535,6 +566,7 @@
       "subject_of_teaching_vocab": [
         52,
         48,
+        12,
         26
       ]
     },
