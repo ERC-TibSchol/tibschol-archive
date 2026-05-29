@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/271/",
   "xml_id": "ex45012023-03-0115-56-43",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" xml:id=\"ex45012023-03-0115-56-43\" type=\"excerpt\" status=\"unreviewed\">\n            dang po ni <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3839\">brtson 'grus seng ge</rs> na re rtags chos can gyi phyogs 1 la grub kyang phyogs 1 la ma grub pa ni sgra la <lb edRef=\"inst:4770\" n=\"46b4\"/> rtsol byung khyab byed du yod pas mi rtag pa khyab byed du yod par bsgrub pa lta bu'am | sgra la rtsol byung rten rtsam du yod pas mi rtag pa khyab byed du yod par bsgrub pa lta bu'o || zhes zer ro ||</seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" xml:id=\"ex45012023-03-0115-56-43\" type=\"excerpt\" status=\"finalized\">\n            <app><lem> dang po ni</lem><rdg wit=\"inst:4770\"> dang po ni \u00a6</rdg><rdg wit=\"inst:5593\">dang po ni</rdg></app> <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3839\">brtson 'grus seng ge</rs> na re rtags <abbr>chos can</abbr> gyi phyogs 1 la grub kyang phyogs 1 la ma grub pa ni sgra la <lb edRef=\"inst:4770\" n=\"46b4\"/> rtsol byung khyab byed du yod pas mi rtag pa khyab byed du yod par <app><lem>bsrgub</lem><rdg wit=\"inst:4770\">bsgrub</rdg><rdg wit=\"inst:5593\">sgrub</rdg></app> pa lta <app><lem>bu'am</lem><rdg wit=\"inst:4770\">bu'am</rdg><rdg wit=\"inst:5593\">bu 'am</rdg></app> | sgra la rtsol byung rten <app><lem>tsam</lem><rdg wit=\"inst:4770\">rtsam</rdg><rdg wit=\"inst:5593\">tsam</rdg></app> du yod pas mi rtag pa khyab byed du yod par <app><lem>bsrgub</lem><rdg wit=\"inst:4770\">bsgrub</rdg><rdg wit=\"inst:5593\">sgrub</rdg></app> pa lta <app><lem>bu'o ||</lem><rdg wit=\"inst:4770\">bu'o ||</rdg><rdg wit=\"inst:5593\">bu'o</rdg></app> zhes zer ro ||</seg></TEI>",
   "source": "2_045_01_3_087_02_Chu mig pa_rnam rgyal.xml",
   "tibschol_refs": "3_087_02\n2_045_01",
   "zotero_refs": "",
-  "status": "unreviewed",
-  "location": "inst:4770: 46b3 - 46b4"
+  "status": "finalized",
+  "location": "inst:5593: 41a8, inst:4770: 46b4"
 }

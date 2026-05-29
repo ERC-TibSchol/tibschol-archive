@@ -3,10 +3,10 @@
   "relations": [
     {
       "id": 4003,
-      "label": "ra ba smad grwa tshang (6781) located within gsang phu gling smad (6158)",
+      "label": "rwa ba smad (6781) located within gsang phu gling smad (6158)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6781/",
-        "label": "ra ba smad grwa tshang (6781)",
+        "label": "rwa ba smad (6781)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -30,8 +30,37 @@
       "end": null
     },
     {
+      "id": 4866,
+      "label": "gling smad pa shes rab dpal ldan (6305) active at rwa ba smad (6781)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6305/",
+        "label": "gling smad pa shes rab dpal ldan (6305)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6781/",
+        "label": "rwa ba smad (6781)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 688, n. 11. Founded the monastery.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 6030,
-      "label": "ba so chos kyi rgyal mtshan (7082) active at ra ba smad grwa tshang (6781)",
+      "label": "ba so chos kyi rgyal mtshan (7082) active at rwa ba smad (6781)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7082/",
         "label": "ba so chos kyi rgyal mtshan (7082)",
@@ -40,7 +69,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6781/",
-        "label": "ra ba smad grwa tshang (6781)",
+        "label": "rwa ba smad (6781)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -60,7 +89,7 @@
     },
     {
       "id": 4012,
-      "label": "sde bdun pa bstan pa rab gsal (6784) active at ra ba smad grwa tshang (6781)",
+      "label": "sde bdun pa bstan pa rab gsal (6784) active at rwa ba smad (6781)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6784/",
         "label": "sde bdun pa bstan pa rab gsal (6784)",
@@ -69,7 +98,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6781/",
-        "label": "ra ba smad grwa tshang (6781)",
+        "label": "rwa ba smad (6781)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -79,7 +108,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[U9BU5AFU]: 1050-1051. Founded Ra ba smad college.",
+      "zotero_refs": "[U9BU5AFU]: 1050-1051. Founded Ra ba smad college (grwa tshang).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -91,12 +120,12 @@
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "latitude": null,
-  "longitude": null,
+  "latitude": 29.284722,
+  "longitude": 90.996944,
   "feature_code": "",
-  "tibetan_transliteration": "\u0f62\u0f0b\u0f56\u0f0b\u0f66\u0fa8\u0f51\u0f0b\u0f42\u0fb2\u0fad\u0f0b\u0f5a\u0f44",
-  "comments": "Sa skya college.",
-  "alternative_names_legacy": "ra ba smad pa\r\ngsang phu ra ba smad",
+  "tibetan_transliteration": "\u0f62\u0fad\u0f0b\u0f56\u0f0b\u0f66\u0fa8\u0f51",
+  "comments": "Sa skya college.\r\nCoordinates from [JZP4CZRX], bdr:G3510.",
+  "alternative_names_legacy": "ra ba smad pa\r\nrwa smad dgon\r\ngsang phu ra ba smad\r\nrwa ba smad grwa tshang",
   "alternative_names": [
     {
       "label": "ra ba smad pa",
@@ -105,10 +134,14 @@
     {
       "label": "gsang phu ra ba smad",
       "language": "bo"
+    },
+    {
+      "label": "rwa ba smad grwa tshang",
+      "language": "bo"
     }
   ],
-  "external_links": "",
+  "external_links": "https://purl.bdrc.io/resource/G3510",
   "review": false,
-  "label": "ra ba smad grwa tshang",
+  "label": "rwa ba smad",
   "start": null
 }
