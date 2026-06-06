@@ -1,0 +1,81 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5571/",
+  "relations": [
+    {
+      "id": 1253,
+      "label": "s\u016btr\u0101la\u1e43k\u0101rabh\u0101\u1e63ya (5571) commentary on mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5571/",
+        "label": "s\u016btr\u0101la\u1e43k\u0101rabh\u0101\u1e63ya (5571)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3746/",
+        "label": "mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1227,
+      "label": "vasubandhu (3758) author of s\u016btr\u0101la\u1e43k\u0101rabh\u0101\u1e63ya (5571)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3758/",
+        "label": "vasubandhu (3758)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5571/",
+        "label": "s\u016btr\u0101la\u1e43k\u0101rabh\u0101\u1e63ya (5571)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "",
+  "comments": "",
+  "alternative_names_legacy": "mdo sde'i rgyan gyi bshad pa",
+  "alternative_names": [
+    {
+      "label": "mdo sde'i rgyan gyi bshad pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "http://purl.rkts.eu/resource/WTT3365",
+  "review": false,
+  "start": null,
+  "name": "s\u016btr\u0101la\u1e43k\u0101rabh\u0101\u1e63ya",
+  "sde_dge_ref": "D4026",
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": []
+}

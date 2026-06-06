@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/363/",
   "xml_id": "ex52052024-10-1815-08-44",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex52052024-10-1815-08-44\" status=\"unreviewed\" ana=\"corpusmd:colophon\"><rs type=\"work\" ana=\"corpusmd:named_reference\">rgyal ba'i yum gyi 'grel bshad mngon par rtogs pa rgyan gyi me tog ming gzhan shes bya'i rgya mtsho</rs> zhes bya ba | <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:4006\">mang du thos pa rgya mtsho'i dbus \nna gnas pa | rigs pa dang dang grol bar smra ba'i spobs pa can rdzogs pa'i byang chub la shes nas dad pa thob pa | yul dbus kyi btsun pa rigs pa'i ral gri</rs>s <rs type=\"place\" ana=\"corpusmd:named_reference\" ref=\"db:4411\">dpal ldan snar thang gi dgon pa</rs>r sbyar ba 'di legs par rdzogs so ||</seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex52052024-10-1815-08-44\" status=\"finalized\" ana=\"corpusmd:colophon\"><milestone n=\"colophon\" unit=\"section\"/>\n<rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:4915\"><rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:3711\">rgyal ba'i yum</rs> gyi 'grel bshad mngon par rtogs pa rgyan gyi me tog ming gzhan shes bya'i rgya mtsho</rs> zhes bya ba | <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:4006\">mang <lb n=\"189a8\"/> du thos pa rgya mtsho'i dbus na gnas pa \u00a6 rigs pa dang grol bar smra ba'i spobs pa can | rdzogs pa'i byang chub la shes nas dad pa thob pa | <rs type=\"place\" ana=\"corpusmd:named_reference\" ref=\"db:6650\">yul dbus</rs> kyi btsun pa rigs pa'i ral gri</rs>s <rs type=\"place\" ana=\"corpusmd:named_reference\" ref=\"db:4411\">dpal snar thang gi dgon pa</rs>r sbyar ba 'di legs par rdzogs s+ho ||</seg></TEI>",
   "source": "2_052_05_ral gri mngon rtogs rgyan me tog.xml",
   "tibschol_refs": "2_052_05",
   "zotero_refs": "",
-  "status": "unreviewed",
-  "location": ""
+  "status": "finalized",
+  "location": "189a7 - 189a8"
 }
