@@ -117,6 +117,37 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 7615,
+      "label": "sne'u zur pa ye shes 'bar (3825) lineage predecessor of rgyang ro dar brtson (8396)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3825/",
+        "label": "sne'u zur pa ye shes 'bar (3825)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8396/",
+        "label": "rgyang ro dar brtson (8396)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex107012023-10-06-110731 (Stages of the path lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
+    },
+    {
       "id": 75,
       "label": "gun pa lha rje (3824) student of sne'u zur pa ye shes 'bar (3825)",
       "subj": {
@@ -318,6 +349,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7614,
+      "label": "dgon pa ba dbang phyug rgyal mtshan (6689) lineage predecessor of sne'u zur pa ye shes 'bar (3825)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6689/",
+        "label": "dgon pa ba dbang phyug rgyal mtshan (6689)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3825/",
+        "label": "sne'u zur pa ye shes 'bar (3825)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex107012023-10-06-110731 (Stages of the path lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
     },
     {
       "id": 4433,

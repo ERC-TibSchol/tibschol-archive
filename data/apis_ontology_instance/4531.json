@@ -3,16 +3,16 @@
   "relations": [
     {
       "id": 1308,
-      "label": "rom pa'i bshad pa'i gdams ngag (4532) has as an instance rom pa'i bshad pa'i gdams ngag (4531)",
+      "label": "rom po'i bshad pa'i gdam ngag (4532) has as an instance rom po'i bshad pa'i gdam ngag (4531)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4532/",
-        "label": "rom pa'i bshad pa'i gdams ngag (4532)",
+        "label": "rom po'i bshad pa'i gdam ngag (4532)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4531/",
-        "label": "rom pa'i bshad pa'i gdams ngag (4531)",
+        "label": "rom po'i bshad pa'i gdam ngag (4531)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -33,19 +33,19 @@
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "tibetan_transliteration": "\u0f62\u0f7c\u0f58\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f42\u0f51\u0f58\u0f66\u0f0b\u0f44\u0f42",
+  "tibetan_transliteration": "\u0f62\u0f7c\u0f58\u0f0b\u0f54\u0f7c\u0f60\u0f72\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f42\u0f51\u0f58\u0f0b\u0f44\u0f42",
   "comments": "",
-  "alternative_names_legacy": "ram po'i bshad pos bshad pa'i gdams ngag (cover page, catalogue)",
+  "alternative_names_legacy": "rom po'i bshad pa'i gdam ngag (cover page)\r\nram po'i bshad pos bshad pa'i gdams ngag (sic, catalogue)",
   "alternative_names": [
     {
-      "label": "ram po'i bshad pos bshad pa'i gdams ngag (cover page, catalogue)",
+      "label": "rom po'i bshad pa'i gdam ngag (cover page)",
       "language": "bo"
     }
   ],
   "external_links": "https://purl.bdrc.io/resource/MW1PD89051_DF4453",
   "review": true,
   "start": null,
-  "name": "rom pa'i bshad pa'i gdams ngag",
+  "name": "rom po'i bshad pa'i gdam ngag",
   "set_num": "Set 1",
   "volume": "11",
   "sb_text_number": "7",
@@ -59,5 +59,5 @@
   "tibschol_ref": "1_011_07",
   "availability": "available",
   "dimension": "66 x 11",
-  "item_description": "Script: 'bru tsha.\r\nUse of bindu for m.\r\nAbbreviation Na for med."
+  "item_description": "Script: 'bru tsha.\r\nUse of bindu for m.\r\nAbbreviation Na for med.\r\nLines per folio: 10.\r\nA few corrections and annotations."
 }

@@ -1,6 +1,69 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8355/",
-  "relations": [],
+  "relations": [
+    {
+      "id": 7621,
+      "label": "bla ma bsod nams lhun grub (8355) lineage predecessor of slob dpon grags pa rgya mtsho (5960)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8355/",
+        "label": "bla ma bsod nams lhun grub (8355)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5960/",
+        "label": "slob dpon grags pa rgya mtsho (5960)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex107012023-10-06-110731 (Stages of the path lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
+    },
+    {
+      "id": 7620,
+      "label": "mchims blo bzang grags pa (4007) lineage predecessor of bla ma bsod nams lhun grub (8355)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4007/",
+        "label": "mchims blo bzang grags pa (4007)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8355/",
+        "label": "bla ma bsod nams lhun grub (8355)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex107012023-10-06-110731 (Stages of the path lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,
