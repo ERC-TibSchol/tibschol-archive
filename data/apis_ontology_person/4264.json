@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4264/",
   "relations": [
     {
-      "id": 2774,
-      "label": "mtshur ston gzhon nu seng ge (4315) quotes without name gnyags ye shes 'bar (4264)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4315/",
-        "label": "mtshur ston gzhon nu seng ge (4315)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4264/",
-        "label": "gnyags ye shes 'bar (4264)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[DIPDNQZU]: xiii. 1 reference in (ID: 5292).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 4719,
       "label": "gtsang drug pa rdo rje 'od zer (4025) quotes without name gnyags ye shes 'bar (4264)",
       "subj": {
@@ -53,6 +24,37 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "ex47012026-04-0419-41-56\r\nex47012026-04-0419-46-24",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 2774,
+      "label": "mtshur ston gzhon nu seng ge (4315) quotes without name gnyags ye shes 'bar (4264)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4315/",
+        "label": "mtshur ston gzhon nu seng ge (4315)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4264/",
+        "label": "gnyags ye shes 'bar (4264)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[DIPDNQZU]: xiii. Citations in (ID: 5292).",
+      "tei_refs": "ex87032023-03-1610-18-48\r\nex87032023-03-0313-59-01",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
