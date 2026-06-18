@@ -1,7 +1,7 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/1700/",
   "xml_id": "ex014022026-02-2411-57-21",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex014022026-02-2411-57-21\" status=\"finalized\"> de la <rs type=\"person\" ana=\"corpusmd:unnamed_reference\" ref=\"db:6795\">kha <abbr>cig</abbr></rs> <note type=\"gloss\"><rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:6795\">rgya <abbr>yon tan</abbr> seng ge</rs></note> snang pa nyid dgag bya yin te nyes pa <abbr>thams cad</abbr> 'di las byung pas so zhes zer ro ||</seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex014022026-02-2411-57-21\" status=\"finalized\"> de la <rs type=\"person\" ana=\"corpusmd:unnamed_reference\" ref=\"db:6795\">kha <expan>cig</expan></rs> <note type=\"gloss\"><rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:6795\">rgya <expan>yon tan</expan> seng ge</rs></note> snang pa nyid dgag bya yin te nyes pa <expan>thams cad</expan> 'di las byung pas so zhes zer ro ||</seg></TEI>",
   "source": "1_014_02 Jam gsar_mngon rtogs rgyan gyi 'grel.xml",
   "tibschol_refs": "1_014_02",
   "zotero_refs": "",

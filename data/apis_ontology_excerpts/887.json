@@ -1,7 +1,7 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/887/",
   "xml_id": "ex1082023-02-0312-07-47",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" xml:id=\"ex1082023-02-0312-07-47\" type=\"excerpt\" status=\"reviewed\">\n            'di ni <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3712\"><abbr>slob dpon</abbr> seng ge bzang po</rs>'i bshad pa ste | <rs type=\"work\" ana=\"corpusmd:unnamed_reference\" ref=\"db:3706\">mdo</rs> dang<abbr>rjes su</abbr> <lb edRef=\"inst:4434\" n=\"13a9\"/> 'thun pas legs par bshad par <rs type=\"person\" ana=\"corpusmd:unnamed_reference\" ref=\"db:3786\">kho bo</rs>s <abbr>rtogs so</abbr> |\n         </seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" xml:id=\"ex1082023-02-0312-07-47\" type=\"excerpt\" status=\"reviewed\">\n            'di ni <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3712\"><expan>slob dpon</expan> seng ge bzang po</rs>'i bshad pa ste | <rs type=\"work\" ana=\"corpusmd:unnamed_reference\" ref=\"db:3706\">mdo</rs> dang<expan>rjes su</expan> <lb edRef=\"inst:4434\" n=\"13a9\"/> 'thun pas legs par bshad par <rs type=\"person\" ana=\"corpusmd:unnamed_reference\" ref=\"db:3786\">kho bo</rs>s <expan>rtogs so</expan> |\n         </seg></TEI>",
   "source": "1_001_08_rNgog_mngon rtogs rgyan don bsdus.xml",
   "tibschol_refs": "1_001_08a\n1_001_08b",
   "zotero_refs": "",

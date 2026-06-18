@@ -122,6 +122,37 @@
       ]
     },
     {
+      "id": 7657,
+      "label": "gtum ston blo gros grags (3925) lineage predecessor of chu mig pa shes rab grags (3975)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3925/",
+        "label": "gtum ston blo gros grags (3925)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3975/",
+        "label": "chu mig pa shes rab grags (3975)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex115012026-03-0918-49-19 (Mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56
+      ]
+    },
+    {
       "id": 172,
       "label": "rdo ston shes rab grags (3924) student of gtum ston blo gros grags (3925)",
       "subj": {
@@ -149,6 +180,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7656,
+      "label": "lcang ra ba ldum ston (4216) lineage predecessor of gtum ston blo gros grags (3925)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4216/",
+        "label": "lcang ra ba ldum ston (4216)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3925/",
+        "label": "gtum ston blo gros grags (3925)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex115012026-03-0918-49-19 (Mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56
+      ]
     }
   ],
   "end_date_to": "1166-12-31",

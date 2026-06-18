@@ -268,6 +268,37 @@
       ]
     },
     {
+      "id": 7658,
+      "label": "skyi ston grags pa rgyal mtshan (4221) lineage predecessor of sa bzang ma ti paN chen blo gros rgyal mtshan (4128)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4221/",
+        "label": "skyi ston grags pa rgyal mtshan (4221)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4128/",
+        "label": "sa bzang ma ti paN chen blo gros rgyal mtshan (4128)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex115012026-03-0918-49-19 (Mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56
+      ]
+    },
+    {
       "id": 2277,
       "label": "dol po pa shes rab rgyal mtshan (4213) student of skyi ston grags pa rgyal mtshan (4221)",
       "subj": {
@@ -350,13 +381,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex115012026-03-0918-49-19 (Mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra lineage)",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        56
+      ]
     }
   ],
   "end_date_to": "1299-12-31",

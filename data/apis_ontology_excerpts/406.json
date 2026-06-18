@@ -1,7 +1,7 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/406/",
   "xml_id": "ex1052023-04-241330",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex1052023-04-241330\" status=\"finalized\" ana=\"corpusmd:colophon\">\n         <milestone unit=\"section\" n=\"Colophon (2b8)\"/>\n         <lb n=\"2b8\"/> <rs type=\"person\" ref=\"db:3784\" ana=\"corpusmd:named_reference\">lo ts+tsha ba <abbr>rin chen</abbr> bzang po</rs>s <rs type=\"place\" ana=\"corpusmd:named_reference\" ref=\"db:6216\">thon mthing gi gtsug lag khang</rs> du sbyar ba dge'o ||</seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex1052023-04-241330\" status=\"finalized\" ana=\"corpusmd:colophon\">\n         <milestone unit=\"section\" n=\"Colophon (2b8)\"/>\n         <lb n=\"2b8\"/> <rs type=\"person\" ref=\"db:3784\" ana=\"corpusmd:named_reference\">lo ts+tsha ba <expan>rin chen</expan> bzang po</rs>s <rs type=\"place\" ana=\"corpusmd:named_reference\" ref=\"db:6216\">thon mthing gi gtsug lag khang</rs> du sbyar ba dge'o ||</seg></TEI>",
   "source": "1_001_05_D_Rinchen_bde can smon lam.xml",
   "tibschol_refs": "1_001_05",
   "zotero_refs": "",
