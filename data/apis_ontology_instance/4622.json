@@ -35,7 +35,7 @@
   "start_date_sort": null,
   "tibetan_transliteration": "\u0f58\u0f44\u0f7c\u0f53\u0f0b\u0f54\u0f62\u0f0b\u0f62\u0f9f\u0f7c\u0f42\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f62\u0f92\u0fb1\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f56\u0f0b\u0f56\u0f45\u0f74\u0f51\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f50\u0f72\u0f42\u0f0b\u0f63\u0f7a",
   "comments": "",
-  "alternative_names_legacy": "man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa bcud kyi thig le (colophon)\r\nmngon rtogs rgyan gyi 'grel ba bcud kyi thig le (catalogue)",
+  "alternative_names_legacy": "man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa bcud kyi thig le (colophon)\r\nmngon rtogs rgyan gyi 'grel ba bcud kyi thig le (catalogue)\r\nmngon par rtogs pa'i rgyan gyi 'grel pa bcud kyi thig le (cover page)\r\nmngon bar rtogs pa'i rgyan gyi 'grel pa | bcud kyi thig le (incipit)",
   "alternative_names": [
     {
       "label": "man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa bcud kyi thig le (colophon)",
@@ -44,16 +44,24 @@
     {
       "label": "mngon rtogs rgyan gyi 'grel ba bcud kyi thig le (catalogue)",
       "language": "bo"
+    },
+    {
+      "label": "mngon par rtogs pa'i rgyan gyi 'grel pa bcud kyi thig le (cover page)",
+      "language": "bo"
+    },
+    {
+      "label": "mngon bar rtogs pa'i rgyan gyi 'grel pa | bcud kyi thig le (incipit)",
+      "language": "bo"
     }
   ],
   "external_links": "https://purl.bdrc.io/resource/MW1PD89051_F0485B",
-  "review": false,
+  "review": true,
   "start": null,
   "name": "mngon par rtogs pa'i rgyan gyi 'grel ba bcud kyi thig le",
   "set_num": "Set 1",
   "volume": "21",
   "sb_text_number": "1",
-  "pp_kdsb": "15-303",
+  "pp_kdsb": "15-304",
   "num_folios": "149",
   "signature_letter": "tsha",
   "signature_number": "116",
@@ -63,5 +71,5 @@
   "tibschol_ref": "1_021_01",
   "availability": "available",
   "dimension": "68 x 10",
-  "item_description": "Script: bris ma dbu can.\r\nMissing folios: 22-24."
+  "item_description": "Script: bris ma dbu can.\r\nMissing folios: 22-24.\r\nProofread (dag zhus)\r\nOn the verso of the last folio, four lines in handwritten dbu can, partially blurred, and ending abruptly with \"zhar la 'bras bu gnas pa dngos gzung ba\", do not appear to be relevant to the text."
 }

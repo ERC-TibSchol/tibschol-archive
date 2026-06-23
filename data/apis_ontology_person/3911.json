@@ -197,12 +197,15 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex2101-2024-10-02-17-1933",
+      "tei_refs": "ex2101-2024-10-02-17-1933\r\nex21012026-06-2204-15-35\r\nex2101-2024-10-02-16-24\r\nex21012025-03-3113-44-56",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
     },
     {
       "id": 5228,
@@ -226,12 +229,15 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex2101-2024-10-02-17-40",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
     },
     {
       "id": 5224,
@@ -255,12 +261,15 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex2101-2024-10-02-17-19",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
     },
     {
       "id": 2959,
@@ -740,7 +749,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "Author reported for instance (ID:4622) in [8H6M69W4], No. 15986: mang du thos pa'i dge slong gzhon nu rin chen.",
-      "tei_refs": "ex21012023-09-181",
+      "tei_refs": "ex021012026-06-2203-44-11\r\nex21012023-09-181",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -777,11 +786,11 @@
     }
   ],
   "end_date_to": "1375-12-31",
-  "end_date_from": null,
-  "end_date_sort": "1375-12-31",
-  "start_date_to": null,
+  "end_date_from": "1265-01-01",
+  "end_date_sort": "1320-07-02",
+  "start_date_to": "1354-12-31",
   "start_date_from": "1175-01-01",
-  "start_date_sort": "1175-01-01",
+  "start_date_sort": "1264-12-30",
   "tibetan_transliteration": "\u0f42\u0f5e\u0f7c\u0f53\u0f0b\u0f53\u0f74\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f46\u0f7a\u0f53",
   "comments": "Fl. late 13th to early 14th c. We assume that the gZhon nu rin chen who was abbot of gSang phu is the same person as the author of the two works by gZhon nu rin chen.\r\nThe latter is characterized in [8H6M69W4], No. 15506, as the \"student of Nyang\" (nyang gi slob ma), which, in view of the colophon of (ID:4625), is Nyang bran pa Chos kyi ye shes (ID:3876) rather than Nyang bran pa Chos kyi seng ge (ID:3844).",
   "alternative_names_legacy": "chos grags gnyis pa gzhon nu rin chen\r\nchos grwa gsar ma gzhon nu rin chen",
@@ -797,8 +806,8 @@
   ],
   "external_links": "https://purl.bdrc.io/resource/P4860",
   "review": false,
-  "start": "after 1175",
-  "end": "before 1375",
+  "start": "after 1175 before 1354",
+  "end": "after 1265 before 1375",
   "name": "gzhon nu rin chen",
   "gender": "male",
   "nationality": "Tibetan"
