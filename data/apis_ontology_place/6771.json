@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6771/",
   "relations": [
     {
+      "id": 7673,
+      "label": "nAlendra (6771) located within 'phan yul (5542)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6771/",
+        "label": "nAlendra (6771)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5542/",
+        "label": "'phan yul (5542)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 7220,
       "label": "rig pa'i dbang phyug dge ba rgyal mtshan (8102) active at nAlendra (6771)",
       "subj": {

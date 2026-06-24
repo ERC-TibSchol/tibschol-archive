@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7277/",
   "relations": [
     {
+      "id": 7667,
+      "label": "bya ru kha shor (4330) located within bal po (7277)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4330/",
+        "label": "bya ru kha shor (4330)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7277/",
+        "label": "bal po (7277)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5553,
       "label": "varendraruci (7276) active at bal po (7277)",
       "subj": {

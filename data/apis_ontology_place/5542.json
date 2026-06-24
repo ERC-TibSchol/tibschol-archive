@@ -144,6 +144,62 @@
       "end": null
     },
     {
+      "id": 7672,
+      "label": "gtsang dge'i 'byung gnas pa tshab dgon pa (5657) located within 'phan yul (5542)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5657/",
+        "label": "gtsang dge'i 'byung gnas pa tshab dgon pa (5657)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5542/",
+        "label": "'phan yul (5542)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7674,
+      "label": "stag lung (6179) located within 'phan yul (5542)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6179/",
+        "label": "stag lung (6179)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5542/",
+        "label": "'phan yul (5542)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5367,
       "label": "dus gsum mkhyen pa (3855) active at 'phan yul (5542)",
       "subj": {
@@ -197,6 +253,34 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7682,
+      "label": "mkhas grub rim par byon pa'i gnas mchog tro sa'i chos gra (5759) located within 'phan yul (5542)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5759/",
+        "label": "mkhas grub rim par byon pa'i gnas mchog tro sa'i chos gra (5759)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5542/",
+        "label": "'phan yul (5542)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
       "start": null,
       "end": null
     },
@@ -256,6 +340,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7673,
+      "label": "nAlendra (6771) located within 'phan yul (5542)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6771/",
+        "label": "nAlendra (6771)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5542/",
+        "label": "'phan yul (5542)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 3778,
@@ -374,14 +486,19 @@
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "latitude": null,
-  "longitude": null,
+  "latitude": 29.8947,
+  "longitude": 91.2619,
   "feature_code": "",
   "tibetan_transliteration": "\u0f60\u0f55\u0f53\u0f0b\u0f61\u0f74\u0f63",
-  "comments": null,
-  "alternative_names_legacy": null,
-  "alternative_names": null,
-  "external_links": null,
+  "comments": "Important historical region north of Lha sa (ID:4334). It corresponds roughly to modern Lhun grub rdzong in the Lhasa area.",
+  "alternative_names_legacy": "",
+  "alternative_names": [
+    {
+      "label": "'phan po",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/G1116",
   "review": false,
   "label": "'phan yul",
   "start": null

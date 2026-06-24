@@ -93,6 +93,34 @@
       ]
     },
     {
+      "id": 7663,
+      "label": "sa chen kun dga' snying po (4205) biographer of ba ri lo tsA ba rin chen grags (6393)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4205/",
+        "label": "sa chen kun dga' snying po (4205)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6393/",
+        "label": "ba ri lo tsA ba rin chen grags (6393)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[HHDJTDYA]",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 7166,
       "label": "pu\u1e47ya\u015br\u012b (8080) lineage predecessor of ba ri lo tsA ba rin chen grags (6393)",
       "subj": {
@@ -178,21 +206,21 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "BUDA",
+      "support_notes": "[JZP4CZRX], bdr:6393",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
     }
   ],
-  "end_date_to": "1112-12-31",
-  "end_date_from": "1112-01-01",
-  "end_date_sort": "1112-07-01",
+  "end_date_to": "1111-12-31",
+  "end_date_from": "1111-01-01",
+  "end_date_sort": "1111-07-02",
   "start_date_to": "1040-12-31",
   "start_date_from": "1040-01-01",
   "start_date_sort": "1040-07-01",
   "tibetan_transliteration": "\u0f56\u0f0b\u0f62\u0f72\u0f0b\u0f63\u0f7c\u0f0b\u0f59\u0f71\u0f0b\u0f56\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f42\u0fb2\u0f42\u0f66",
-  "comments": "",
+  "comments": "Born in g.Yar mo thang pa in Amdo int he Ba ri clan (one of the four great lineages of Mdo smad) ([HHDJTDYA]).",
   "alternative_names_legacy": "ba ri chos grags\r\nsa skya khri 'dzin",
   "alternative_names": [
     {
@@ -205,9 +233,9 @@
     }
   ],
   "external_links": "https://purl.bdrc.io/resource/P3731",
-  "review": false,
+  "review": true,
   "start": "1040",
-  "end": "1112",
+  "end": "1111",
   "name": "ba ri lo tsA ba rin chen grags",
   "gender": "male",
   "nationality": "Tibetan"

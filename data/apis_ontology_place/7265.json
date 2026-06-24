@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7265/",
   "relations": [
     {
+      "id": 7677,
+      "label": "g.yas ru dben sa kha (7265) located within g.yas ru (8425)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7265/",
+        "label": "g.yas ru dben sa kha (7265)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/8425/",
+        "label": "g.yas ru (8425)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5524,
       "label": "'a zha blo gros rgyal mtshan (6787) active at g.yas ru dben sa kha (7265)",
       "subj": {

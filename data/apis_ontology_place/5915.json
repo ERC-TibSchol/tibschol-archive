@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
   "relations": [
     {
+      "id": 7680,
+      "label": "mchims (6805) located within gtsang (5915)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6805/",
+        "label": "mchims (6805)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
+        "label": "gtsang (5915)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3612,
       "label": "shab (6636) located within gtsang (5915)",
       "subj": {
@@ -506,6 +534,34 @@
       "end": null
     },
     {
+      "id": 7679,
+      "label": "'khyog dgon pa (5707) located within gtsang (5915)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5707/",
+        "label": "'khyog dgon pa (5707)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
+        "label": "gtsang (5915)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3646,
       "label": "sreg shing (6649) located within gtsang (5915)",
       "subj": {
@@ -679,6 +735,34 @@
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6648/",
         "label": "stag thog (6648)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
+        "label": "gtsang (5915)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7676,
+      "label": "g.yas ru (8425) located within gtsang (5915)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/8425/",
+        "label": "g.yas ru (8425)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },

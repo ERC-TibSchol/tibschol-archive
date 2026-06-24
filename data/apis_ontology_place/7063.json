@@ -318,20 +318,28 @@
   "start_date_to": "1409-12-31",
   "start_date_from": "1409-01-01",
   "start_date_sort": "1409-07-02",
-  "latitude": null,
-  "longitude": null,
+  "latitude": 29.765,
+  "longitude": 91.489722,
   "feature_code": "",
   "tibetan_transliteration": "\u0f60\u0f56\u0fb2\u0f7c\u0f42\u0f0b\u0f62\u0f72\u0f0b\u0f56\u0f7c\u0f0b\u0f46\u0f7a\u0f0b\u0f51\u0f42\u0f60\u0f0b\u0f63\u0fa1\u0f53\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f54\u0f62\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f42\u0fb3\u0f72\u0f44",
-  "comments": "",
-  "alternative_names_legacy": "dge ldan, dga' ldan dgon pa, dga' ldan rnam rgyal gling",
+  "comments": "Coordinates following [JZP4CZRX], bdr:G337 (accessed 23.06.2026).",
+  "alternative_names_legacy": "dge ldan\r\ndga' ldan dgon pa\r\ndga' ldan rnam rgyal gling",
   "alternative_names": [
     {
-      "label": "dge ldan, dga' ldan dgon pa, dga' ldan rnam rgyal gling",
+      "label": "dge ldan,",
+      "language": "bo"
+    },
+    {
+      "label": "dga' ldan dgon pa",
+      "language": "bo"
+    },
+    {
+      "label": "dga' ldan rnam rgyal gling",
       "language": "bo"
     }
   ],
-  "external_links": "",
-  "review": false,
+  "external_links": "https://purl.bdrc.io/resource/G337",
+  "review": true,
   "label": "'brog ri bo che dga' ldan rnam par rgyal ba'i gling",
   "start": "1409"
 }
