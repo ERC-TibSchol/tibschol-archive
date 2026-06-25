@@ -202,15 +202,15 @@
       "subject_of_teaching_vocab": []
     }
   ],
-  "start_date_to": null,
-  "start_date_from": null,
-  "start_date_sort": null,
-  "latitude": null,
-  "longitude": null,
+  "start_date_to": "1050-12-31",
+  "start_date_from": "1050-01-01",
+  "start_date_sort": "1050-07-02",
+  "latitude": 29.13333,
+  "longitude": 88.71667,
   "feature_code": "",
   "tibetan_transliteration": "\u0f46\u0f74\u0f0b\u0f58\u0f72\u0f42",
-  "comments": "Near sNar thang (ID:4411). Not to be confused with Chu mig in Nyang stod (ID:4351). See [647FFPZR]: 531, n. 28.",
-  "alternative_names_legacy": "chu ming ring mo\r\nnyang smad chu mig",
+  "comments": "Near sNar thang (ID:4411). Not to be confused with Chu mig in Nyang stod (ID:4351). See [647FFPZR]: 531, n. 28.\r\nCoordinates following [JZP4CZRX], bdr:G1KR1511 (accessed 24.06.2026).",
+  "alternative_names_legacy": "chu ming ring mo\r\nnyang smad chu mig\r\nchu mig dgon",
   "alternative_names": [
     {
       "label": "chu ming ring mo",
@@ -219,10 +219,14 @@
     {
       "label": "nyang smad chu mig",
       "language": "bo"
+    },
+    {
+      "label": "chu mig dgon",
+      "language": "bo"
     }
   ],
-  "external_links": "",
+  "external_links": "https://purl.bdrc.io/resource/G1KR1511",
   "review": false,
   "label": "chu mig",
-  "start": null
+  "start": "1050"
 }
