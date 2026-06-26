@@ -142,38 +142,6 @@
       "end": null
     },
     {
-      "id": 7100,
-      "label": "candrak\u012brti (3725) lineage predecessor of vidy\u0101kokila (7788)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3725/",
-        "label": "candrak\u012brti (3725)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7788/",
-        "label": "vidy\u0101kokila (7788)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex58032026-01-26-141843 (Bodhisattva vows lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        52,
-        48
-      ]
-    },
-    {
       "id": 7314,
       "label": "candrak\u012brti (3725) lineage predecessor of vidy\u0101kokila (7788)",
       "subj": {
@@ -194,8 +162,72 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex6405_2026-01-2621-55-26 (Madhyamaka lineage)",
+      "zotero_refs": "[RCJ46BHM]: 337 records the lineage of Madhyamaka from Jo bo D\u012bpa\u1e43kara (ID:3745) according to Mi bskyod rdo rje (ID:6895): N\u0101ga (ID:3720), \u0100ryadeva (ID:3702), Candrak\u012brti (ID:3725), Rig pa'i khu byug che (*Vidy\u0101kokila) (ID:7788), (Rig pa'i khu byug) chung (i.e. a wa d+hu ti) (ID:7963), Jo bo Atisha (ID:3745), sTon pa chen po (i.e., 'Brom ston rGyal ba'i 'byung gnas) (ID:3827), sPyan snga ba (Tshul khrims 'bar) (ID:3830), Bya yul pa (ID:3915). Then from many unspecified bKa\u2019 gdams pa masters to Lord sGam po pa (ID:4189). \r\n\r\nAlternatively, from Bo to ba (i.e. Po to ba) (ID:3829), Sha ra ba (ID:3869), to Dus gsum mkhyen pa (ID:3855), and from him it is then the same as the first lineage of N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895) (see [RCJ46BHM]: 329).",
+      "tei_refs": "ex58032026-01-26-141843 (Bodhisattva vows lineage)\r\nex022012026-02-2516-09 (Madhyamaka lineage)\r\nex6405_2026-01-2621-55-26 (Madhyamaka lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52,
+        48,
+        13
+      ]
+    },
+    {
+      "id": 7740,
+      "label": "candrak\u012brti (3725) lineage predecessor of m\u0101ta\u1e45gi (8412)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3725/",
+        "label": "candrak\u012brti (3725)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8412/",
+        "label": "m\u0101ta\u1e45gi (8412)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RCJ46BHM]: 329 records lineage of Madhyamaka from N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895): N\u0101g\u0101rjuna (ID:3720), \u0100ryadeva (ID:3702), Candrak\u012brti (ID:3725), M\u0101ta\u1e45gi (ID:8412), Tailo (ID:5641), N\u0101ro (ID:5639), Mar pa (ID:6968), Mi  la (ID:8405), Dwags po (ID:4189), Dus gsum mkhyen pa (ID:3855), 'Gro mgon Ras chen (ID:8421), sPom brag pa (ID:8427) Karma pa Pak\u1e63i (ID:8417), Au\u1e0dy\u0101yana pa (ID:7346), Rang byung rdo rje (ID:3897), g.Yung ston rdo rje dpal (ID:8418), Rol pa'i rdo rje (ID:7397), mKha' spyod dbang po (ID:3901), De bzhin gshegs pa (ID:6785), Ratnabhadra (ID:6927), mThong ba don ldan (ID:6159), 'Jam dpal bzang po (ID:8428) and/or dPal 'byor don grub (ID:8420), Chos grags rgya mtsho (ID:8419), sNye bo/'og Go shri (ID:8430), rJe btsun Ras pa chen po (ID:8429), Mi bskyod rdo rje (ID:6895).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 7752,
+      "label": "candrak\u012brti (3725) lineage predecessor of ma\u00f1ju\u015br\u012bk\u012brti (8424)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3725/",
+        "label": "candrak\u012brti (3725)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8424/",
+        "label": "ma\u00f1ju\u015br\u012bk\u012brti (8424)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RCJ46BHM]: 338 records the lineage of Madhyamaka from Pa tshab lo ts\u0101 ba (ID:3868) according to Mi bskyod rdo rje (ID:6895): Candrak\u012brti (ID:3725), Ma\u00f1ju\u015br\u012bk\u012brti (ID:8424), Devacandra (ID:8431), Brahman Ratnavajra (ID:7726), Parahita (ID:3798), Hasumati (ID:6180), Pa tshab Lo ts\u0101 ba (ID:3868), Dus gsum mkhyen pa (ID:3855), and from him it is then the same as the  lineage of Madhyamaka from N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895) (see [RCJ46BHM]: 329).",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -226,7 +258,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex6405_2026-01-2621-55-26 (Madhyamaka lineage)",
+      "tei_refs": "ex6405_2026-01-2621-55-26 (Madhyamaka lineage)\r\nex022012026-02-2516-09 (Madhyamaka lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -256,7 +288,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[RCJ46BHM]: 329 records lineage of Madhyamaka from N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895): N\u0101g\u0101rjuna (ID:3720), \u0100ryadeva (ID:3702), Candrak\u012brti (ID:3725), M\u0101ta\u1e45gi (ID:8412), Tailo (ID:5641), N\u0101ro (ID:5639), Mar pa (ID:6968), Mi  la (ID:8405), Dwags po (ID:4189), Dus gsum mkhyen pa (ID:3855), 'Gro mgon Ras chen (ID:8421), sPom brag pa (ID:8427), Karma pa Pak\u1e63i (ID:8417), Au\u1e0dy\u0101yana pa (ID:7346), Rang byung rdo rje (ID:3897), g.Yung ston rdo rje dpal (ID:8418), Rol pa'i rdo rje (ID:7397), mKha' spyod dbang po (ID:3901), De bzhin gshegs pa (ID:6785), Ratnabhadra (ID:6927), mThong ba don ldan (ID:6159), 'Jam dpal bzang po (ID:8428) and/or dPal 'byor don grub (ID:8420), Chos grags rgya mtsho (ID:8419), sNye bo/'og Go shri (ID:8430), rJe btsun Ras pa chen po (ID:8429), Mi bskyod rdo rje (ID:6895). \r\n\r\n[RCJ46BHM]: 337 also records the lineage of Madhyamaka from Jo bo D\u012bpa\u1e43kara (ID:3745) according to Mi bskyod rdo rje (ID:6895): N\u0101ga (ID:3720), \u0100ryadeva (ID:3702), Candrak\u012brti (ID:3725), Rig pa'i khu byug che (*Vidy\u0101kokila) (ID:7788), (Rig pa'i khu byug) chung (i.e. a wa d+hu ti) (ID:7963), Jo bo Atisha (ID:3745), sTon pa chen po (i.e., 'Brom ston rGyal ba'i 'byung gnas) (ID:3827), sPyan snga ba (Tshul khrims 'bar) (ID:3830), Bya yul pa (ID:3915). Then from many unspecified bKa\u2019 gdams pa masters to Lord sGam po pa (ID:4189). \r\n\r\nAlternatively, from Bo to ba (i.e. Po to ba) (ID:3829), Sha ra ba (ID:3869), to Dus gsum mkhyen pa (ID:3855), and from him it is then the same as the first lineage of N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895) (see [RCJ46BHM]: 329).",
       "tei_refs": "ex58032026-01-26-141843 (Bodhisattva vows lineage)",
       "support_notes": "",
       "confidence": "Positive",
@@ -264,7 +296,8 @@
       "end": null,
       "subject_of_teaching_vocab": [
         52,
-        48
+        48,
+        13
       ]
     }
   ],

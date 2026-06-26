@@ -116,7 +116,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[RCJ46BHM]: 329 (lineage of Madhyamaka by Mi bskyod rdo rje (ID:6895)).",
+      "zotero_refs": "[RCJ46BHM]: 329 records lineage of Madhyamaka from N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895): N\u0101g\u0101rjuna (ID:3720), \u0100ryadeva (ID:3702), Candrak\u012brti (ID:3725), M\u0101ta\u1e45gi (ID:8412), Tailo (ID:5641), N\u0101ro (ID:5639), Mar pa (ID:6968), Mi  la (ID:8405), Dwags po (ID:4189), Dus gsum mkhyen pa (ID:3855), 'Gro mgon Ras chen (ID:8421), sPom brag pa (ID:8427) Karma pa Pak\u1e63i (ID:8417), Au\u1e0dy\u0101yana pa (ID:7346), Rang byung rdo rje (ID:3897), g.Yung ston rdo rje dpal (ID:8418), Rol pa'i rdo rje (ID:7397), mKha' spyod dbang po (ID:3901), De bzhin gshegs pa (ID:6785), Ratnabhadra (ID:6927), mThong ba don ldan (ID:6159), 'Jam dpal bzang po (ID:8428) and/or dPal 'byor don grub (ID:8420), Chos grags rgya mtsho (ID:8419), sNye bo/'og Go shri (ID:8430), rJe btsun Ras pa chen po (ID:8429), Mi bskyod rdo rje (ID:6895).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -154,6 +154,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7717,
+      "label": "karma pak+Shi (8417) lineage predecessor of u rgyan pa rin chen dpal (7346)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8417/",
+        "label": "karma pak+Shi (8417)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7346/",
+        "label": "u rgyan pa rin chen dpal (7346)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RCJ46BHM]: 329 records lineage of Madhyamaka from N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895): N\u0101g\u0101rjuna (ID:3720), \u0100ryadeva (ID:3702), Candrak\u012brti (ID:3725), M\u0101ta\u1e45gi (ID:8412), Tailo (ID:5641), N\u0101ro (ID:5639), Mar pa (ID:6968), Mi  la (ID:8405), Dwags po (ID:4189), Dus gsum mkhyen pa (ID:3855), 'Gro mgon Ras chen (ID:8421), sPom brag pa (ID:8427) Karma pa Pak\u1e63i (ID:8417), Au\u1e0dy\u0101yana pa (ID:7346), Rang byung rdo rje (ID:3897), g.Yung ston rdo rje dpal (ID:8418), Rol pa'i rdo rje (ID:7397), mKha' spyod dbang po (ID:3901), De bzhin gshegs pa (ID:6785), Ratnabhadra (ID:6927), mThong ba don ldan (ID:6159), 'Jam dpal bzang po (ID:8428) and/or dPal 'byor don grub (ID:8420), Chos grags rgya mtsho (ID:8419), sNye bo/'og Go shri (ID:8430), rJe btsun Ras pa chen po (ID:8429), Mi bskyod rdo rje (ID:6895). \r\n\r\n[RCJ46BHM]: 330-336 records the lineage of Madhyamaka from Maitr\u012bp\u0101da (ID:6109) according to Mi bskyod rdo rje (ID:6895): Maitr\u012bp\u0101da (ID:6109), Mar pa (ID:6968), Mi la (ID:8405), Dwags po (ID:4189), Dus gsum mkhyen pa (ID:3855), after which it is the same lineage as the Madhyamaka from N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895) (see [RCJ46BHM]: 329).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     }
   ],
   "end_date_to": "1309-12-31",
@@ -180,7 +211,7 @@
     },
     {
       "label": "au\u1e0dy\u0101yana pa",
-      "language": "bo"
+      "language": "sk"
     }
   ],
   "external_links": "",

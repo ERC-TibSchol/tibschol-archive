@@ -200,6 +200,38 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7754,
+      "label": "dol po pa shes rab rgyal mtshan (4213) lineage predecessor of gha rung pa lha'i rgyal mtshan (4125)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
+        "label": "dol po pa shes rab rgyal mtshan (4213)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4125/",
+        "label": "gha rung pa lha'i rgyal mtshan (4125)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex113022026-01-2622-34-04",
+      "support_notes": "Unclear whether the lineage goes directly from Dol po pa to lHa, or via \"phyogs las rnam rgyal\".",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
     }
   ],
   "end_date_to": "1401-12-31",

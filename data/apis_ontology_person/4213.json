@@ -336,6 +336,38 @@
       "end": null
     },
     {
+      "id": 7753,
+      "label": "dol po pa shes rab rgyal mtshan (4213) lineage predecessor of sa bzang ma ti paN chen blo gros rgyal mtshan (4128)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
+        "label": "dol po pa shes rab rgyal mtshan (4213)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4128/",
+        "label": "sa bzang ma ti paN chen blo gros rgyal mtshan (4128)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex2702_2024-09-1114-42-583",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
+    },
+    {
       "id": 6366,
       "label": "dol po pa shes rab rgyal mtshan (4213) active at skyi stengs (7633)",
       "subj": {
@@ -366,6 +398,38 @@
         17,
         9,
         13,
+        7
+      ]
+    },
+    {
+      "id": 7754,
+      "label": "dol po pa shes rab rgyal mtshan (4213) lineage predecessor of gha rung pa lha'i rgyal mtshan (4125)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
+        "label": "dol po pa shes rab rgyal mtshan (4213)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4125/",
+        "label": "gha rung pa lha'i rgyal mtshan (4125)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex113022026-01-2622-34-04",
+      "support_notes": "Unclear whether the lineage goes directly from Dol po pa to lHa, or via \"phyogs las rnam rgyal\".",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
         7
       ]
     },
@@ -679,7 +743,7 @@
       "start_date_from": "1312-01-01",
       "start_date_sort": "1312-07-01",
       "zotero_refs": "",
-      "tei_refs": "ex2702_2024-09-1114-42-583  (Ratnagotravibh\u0101ga lineage)",
+      "tei_refs": "ex2702_2024-09-1114-42-583  (Ratnagotravibh\u0101ga lineage)\r\nex113022026-01-2622-34-04 (Ratnagotravibh\u0101ga lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": "1312",

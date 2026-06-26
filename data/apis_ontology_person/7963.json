@@ -1,6 +1,69 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7963/",
-  "relations": [],
+  "relations": [
+    {
+      "id": 7734,
+      "label": "avadhuti (7963) lineage predecessor of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7963/",
+        "label": "avadhuti (7963)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RCJ46BHM]: 337 also records the lineage of Madhyamaka from Jo bo D\u012bpa\u1e43kara (ID:3745) according to Mi bskyod rdo rje (ID:6895): N\u0101ga (ID:3720), \u0100ryadeva (ID:3702), Candrak\u012brti (ID:3725), Rig pa'i khu byug che (*Vidy\u0101kokila) (ID:7788), (Rig pa'i khu byug) chung (i.e. a wa d+hu ti) (ID:7963), Jo bo Atisha (ID:3745), sTon pa chen po (i.e., 'Brom ston rGyal ba'i 'byung gnas) (ID:3827), sPyan snga ba (Tshul khrims 'bar) (ID:3830), Bya yul pa (ID:3915). Then from many unspecified bKa\u2019 gdams pa masters to Lord sGam po pa (ID:4189). \r\n\r\nAlternatively, from Bo to ba (i.e. Po to ba) (ID:3829), Sha ra ba (ID:3869), to Dus gsum mkhyen pa (ID:3855), and from him it is then the same as the first lineage of N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895) (see [RCJ46BHM]: 329).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 7733,
+      "label": "vidy\u0101kokila (7788) lineage predecessor of avadhuti (7963)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7788/",
+        "label": "vidy\u0101kokila (7788)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7963/",
+        "label": "avadhuti (7963)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RCJ46BHM]: 337 also records the lineage of Madhyamaka from Jo bo D\u012bpa\u1e43kara (ID:3745) according to Mi bskyod rdo rje (ID:6895): N\u0101ga (ID:3720), \u0100ryadeva (ID:3702), Candrak\u012brti (ID:3725), Rig pa'i khu byug che (*Vidy\u0101kokila) (ID:7788), (Rig pa'i khu byug) chung (i.e. a wa d+hu ti) (ID:7963), Jo bo Atisha (ID:3745), sTon pa chen po (i.e., 'Brom ston rGyal ba'i 'byung gnas) (ID:3827), sPyan snga ba (Tshul khrims 'bar) (ID:3830), Bya yul pa (ID:3915). Then from many unspecified bKa\u2019 gdams pa masters to Lord sGam po pa (ID:4189). \r\n\r\nAlternatively, from Bo to ba (i.e. Po to ba) (ID:3829), Sha ra ba (ID:3869), to Dus gsum mkhyen pa (ID:3855), and from him it is then the same as the first lineage of N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895) (see [RCJ46BHM]: 329).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    }
+  ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,
@@ -8,7 +71,7 @@
   "start_date_from": null,
   "start_date_sort": null,
   "tibetan_transliteration": "",
-  "comments": "",
+  "comments": "For Rig pa'i khu byug che, see (ID:7788).",
   "alternative_names_legacy": "rig pa'i khu byug chung\r\na wa d+hu ti",
   "alternative_names": [
     {
@@ -17,7 +80,7 @@
     },
     {
       "label": "a wa d+hu ti",
-      "language": "bo"
+      "language": "sk"
     }
   ],
   "external_links": "https://purl.bdrc.io/resource/P0RK297",

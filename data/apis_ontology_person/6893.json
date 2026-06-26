@@ -28,6 +28,64 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 7704,
+      "label": "rgya ston kun dga' brtson 'grus (6893) student of karma pa rang byung rdo rje (3897)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6893/",
+        "label": "rgya ston kun dga' brtson 'grus (6893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+        "label": "karma pa rang byung rdo rje (3897)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P0RK1101 (accessed 25.06.2026)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7705,
+      "label": "rgya ston kun dga' brtson 'grus (6893) student of dgon pa ba dbang phyug rgyal mtshan (6689)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6893/",
+        "label": "rgya ston kun dga' brtson 'grus (6893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6689/",
+        "label": "dgon pa ba dbang phyug rgyal mtshan (6689)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P0RK1101 (accessed 25.06.2026)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1450-12-31",
@@ -39,8 +97,8 @@
   "tibetan_transliteration": "\u0f62\u0f92\u0fb1\u0f0b\u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f40\u0f74\u0f53\u0f0b\u0f51\u0f42\u0f60\u0f0b\u0f56\u0f62\u0fa9\u0f7c\u0f53\u0f0b\u0f60\u0f42\u0fb2\u0f74\u0f66",
   "comments": "",
   "alternative_names_legacy": "",
-  "alternative_names": null,
-  "external_links": "http://purl.bdrc.io/resource/P0RK1101",
+  "alternative_names": [],
+  "external_links": "https://purl.bdrc.io/resource/P0RK1101",
   "review": false,
   "start": "after 1250",
   "end": "before 1450",
