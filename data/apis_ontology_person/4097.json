@@ -763,13 +763,13 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 4272,
-      "label": "dam pa'i chos la zhus dag bya ba'i tshul (6854) records the teaching of dpang lo tsA ba blo gros brtan pa (4097)",
+      "id": 312,
+      "label": "gnas drug pa blo gros mtshungs med (4094) student of dpang lo tsA ba blo gros brtan pa (4097)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6854/",
-        "label": "dam pa'i chos la zhus dag bya ba'i tshul (6854)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4094/",
+        "label": "gnas drug pa blo gros mtshungs med (4094)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
@@ -783,12 +783,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex114022024-11-2212-06-00",
+      "zotero_refs": "[BAQ9MH4T]: 323.",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 326,
@@ -822,64 +823,6 @@
       ]
     },
     {
-      "id": 312,
-      "label": "gnas drug pa blo gros mtshungs med (4094) student of dpang lo tsA ba blo gros brtan pa (4097)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4094/",
-        "label": "gnas drug pa blo gros mtshungs med (4094)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
-        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[BAQ9MH4T]: 323.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 7608,
-      "label": "g.yag sde paN chen brtson 'grus dar rgyas (3899) student of dpang lo tsA ba blo gros brtan pa (4097)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3899/",
-        "label": "g.yag sde paN chen brtson 'grus dar rgyas (3899)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
-        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P4312 (accessed 09.06.2026)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 4044,
       "label": "jo nang lo tsA ba blo gros dpal bzang (4068) student of dpang lo tsA ba blo gros brtan pa (4097)",
       "subj": {
@@ -909,6 +852,34 @@
       "subject_of_teaching_vocab": [
         5
       ]
+    },
+    {
+      "id": 4272,
+      "label": "dam pa'i chos la zhus dag bya ba'i tshul (6854) records the teaching of dpang lo tsA ba blo gros brtan pa (4097)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6854/",
+        "label": "dam pa'i chos la zhus dag bya ba'i tshul (6854)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex114022024-11-2212-06-00",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 5165,
@@ -969,6 +940,35 @@
       "subject_of_teaching_vocab": [
         9
       ]
+    },
+    {
+      "id": 7608,
+      "label": "g.yag sde paN chen brtson 'grus dar rgyas (3899) student of dpang lo tsA ba blo gros brtan pa (4097)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3899/",
+        "label": "g.yag sde paN chen brtson 'grus dar rgyas (3899)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P4312 (accessed 09.06.2026)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1342-12-31",

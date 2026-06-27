@@ -237,11 +237,11 @@
       ]
     },
     {
-      "id": 6600,
-      "label": "rigs pa'i ral gri (4006) quotes without name skyel nag grags pa seng ge (4020)",
+      "id": 256,
+      "label": "chu mig pa seng ge dpal (4018) student of skyel nag grags pa seng ge (4020)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
-        "label": "rigs pa'i ral gri (4006)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4018/",
+        "label": "chu mig pa seng ge dpal (4018)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -257,46 +257,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex54022026-02-1912-53-39",
+      "zotero_refs": "[Q8FCH7LF]: 296",
+      "tei_refs": "ex87012023-03-0911-03-47",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
-      "id": 6311,
-      "label": "mchims nam mkha' grags (3977) lineage predecessor of skyel nag grags pa seng ge (4020)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
-        "label": "mchims nam mkha' grags (3977)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4020/",
-        "label": "skyel nag grags pa seng ge (4020)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CTQMVBPR]: Appendix A. Lineage of the Pram\u0101\u1e47avini\u015bcaya (ID:3774).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 4922,
@@ -361,11 +328,11 @@
       ]
     },
     {
-      "id": 256,
-      "label": "chu mig pa seng ge dpal (4018) student of skyel nag grags pa seng ge (4020)",
+      "id": 6311,
+      "label": "mchims nam mkha' grags (3977) lineage predecessor of skyel nag grags pa seng ge (4020)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4018/",
-        "label": "chu mig pa seng ge dpal (4018)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -381,13 +348,46 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[Q8FCH7LF]: 296",
-      "tei_refs": "ex87012023-03-0911-03-47",
+      "zotero_refs": "[CTQMVBPR]: Appendix A. Lineage of the Pram\u0101\u1e47avini\u015bcaya (ID:3774).",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 6600,
+      "label": "rigs pa'i ral gri (4006) quotes without name skyel nag grags pa seng ge (4020)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4020/",
+        "label": "skyel nag grags pa seng ge (4020)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex54022026-02-1912-53-39",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
     }
   ],
   "end_date_to": "1340-12-31",

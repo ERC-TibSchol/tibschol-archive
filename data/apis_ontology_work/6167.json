@@ -30,11 +30,11 @@
       "end": null
     },
     {
-      "id": 2551,
-      "label": "zhwa dmar pa grags pa seng ge (6161) studies byams chos lnga (6167)",
+      "id": 2538,
+      "label": "asa\u1e45ga (3756) author of byams chos lnga (6167)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6161/",
-        "label": "zhwa dmar pa grags pa seng ge (6161)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3756/",
+        "label": "asa\u1e45ga (3756)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -50,9 +50,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 622 (de nas gsang phur byon nas bla chos ba 'jam dbyangs shAka gzhon dang | zur chos pa slob dpon blo gros mtshungs med la gtugs nas mtshan nyid kyi sde snod sa sde lnga dang | byams chos lnga dang | tshad ma rnam nges dang | sdud pa dang spyod 'jug la sogs pa mang du zhus |)",
-      "tei_refs": "",
-      "support_notes": "",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -86,34 +86,6 @@
       "end": null
     },
     {
-      "id": 2538,
-      "label": "asa\u1e45ga (3756) author of byams chos lnga (6167)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3756/",
-        "label": "asa\u1e45ga (3756)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6167/",
-        "label": "byams chos lnga (6167)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2547,
       "label": "gsang phu ba blo gros mtshungs med (3896) teaches byams chos lnga (6167)",
       "subj": {
@@ -135,6 +107,34 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[R894SIKE]: 630 (gsang phu ba blo gros mtshungs med la rnam nges dang | byams chos lnga | spyod 'jug tshad ma bsdus pa | snyan ngag dpag bsam 'khri shing rnams zhus). Taught to g.Yag sde paN chen brtson 'grus dar rgyas (ID:3899) and Zhwa dmar pa Grags pa seng ge (ID:6161).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2551,
+      "label": "zhwa dmar pa grags pa seng ge (6161) studies byams chos lnga (6167)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6161/",
+        "label": "zhwa dmar pa grags pa seng ge (6161)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6167/",
+        "label": "byams chos lnga (6167)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 622 (de nas gsang phur byon nas bla chos ba 'jam dbyangs shAka gzhon dang | zur chos pa slob dpon blo gros mtshungs med la gtugs nas mtshan nyid kyi sde snod sa sde lnga dang | byams chos lnga dang | tshad ma rnam nges dang | sdud pa dang spyod 'jug la sogs pa mang du zhus |)",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

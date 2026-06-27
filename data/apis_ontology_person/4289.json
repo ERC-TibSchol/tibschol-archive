@@ -180,68 +180,6 @@
       "end": null
     },
     {
-      "id": 5123,
-      "label": "dar ma dkon mchog (5510) quotes without name rtsegs dbang phyug seng ge (4289)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5510/",
-        "label": "dar ma dkon mchog (5510)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
-        "label": "rtsegs dbang phyug seng ge (4289)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
-      "id": 6104,
-      "label": "mtshur ston gzhon nu seng ge (4315) lineage predecessor of rtsegs dbang phyug seng ge (4289)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4315/",
-        "label": "mtshur ston gzhon nu seng ge (4315)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
-        "label": "rtsegs dbang phyug seng ge (4289)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[ABYM2GP5]: 25. According to Go rams pa; in particular, the lineage of the Pram\u0101\u1e47avini\u015bcaya (ID:3774).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
       "id": 3679,
       "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) student of rtsegs dbang phyug seng ge (4289)",
       "subj": {
@@ -272,6 +210,66 @@
         9,
         56,
         13
+      ]
+    },
+    {
+      "id": 3936,
+      "label": "gnyal pa dad pa bzang po (6243) student of rtsegs dbang phyug seng ge (4289)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6243/",
+        "label": "gnyal pa dad pa bzang po (6243)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
+        "label": "rtsegs dbang phyug seng ge (4289)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[KHFQ2XU4]: 744 (phya pa'i gdan sar rtsags dbang phyug seng ges lo lnga | de gnyis kyi slob ma gnyal pa dad pa bzang pos lo bdun |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5123,
+      "label": "dar ma dkon mchog (5510) quotes without name rtsegs dbang phyug seng ge (4289)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5510/",
+        "label": "dar ma dkon mchog (5510)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
+        "label": "rtsegs dbang phyug seng ge (4289)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
       ]
     },
     {
@@ -306,11 +304,11 @@
       ]
     },
     {
-      "id": 3936,
-      "label": "gnyal pa dad pa bzang po (6243) student of rtsegs dbang phyug seng ge (4289)",
+      "id": 6104,
+      "label": "mtshur ston gzhon nu seng ge (4315) lineage predecessor of rtsegs dbang phyug seng ge (4289)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6243/",
-        "label": "gnyal pa dad pa bzang po (6243)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4315/",
+        "label": "mtshur ston gzhon nu seng ge (4315)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -326,13 +324,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[KHFQ2XU4]: 744 (phya pa'i gdan sar rtsags dbang phyug seng ges lo lnga | de gnyis kyi slob ma gnyal pa dad pa bzang pos lo bdun |)",
+      "zotero_refs": "[ABYM2GP5]: 25. According to Go rams pa; in particular, the lineage of the Pram\u0101\u1e47avini\u015bcaya (ID:3774).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9
+      ]
     }
   ],
   "end_date_to": "1229-12-31",

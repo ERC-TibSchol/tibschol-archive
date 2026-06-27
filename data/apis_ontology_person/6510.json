@@ -88,35 +88,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5560,
-      "label": "rgyal tsha (7278) student of rngog mdo sde (6510)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7278/",
-        "label": "rgyal tsha (7278)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6510/",
-        "label": "rngog mdo sde (6510)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 826 (dbus su dgung lo bcu dgu la byon | g.yor po lugs smad du pu hrangs lo tsA ba'i dngos slob dmar chos kyi rgyal po | mes ston kun snying | rngog mdo sde | lo tsA ba chos kyi bzang po'i slob ma bla ma gshen chen po dgung lo gya gsum bzhes pa dang mjal |).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1136",
-      "end": "after 1136",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 4706,
       "label": "bran ston mtha' bral (6508) student of rngog mdo sde (6510)",
       "subj": {
@@ -143,6 +114,35 @@
       "confidence": "Positive",
       "start": null,
       "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5560,
+      "label": "rgyal tsha (7278) student of rngog mdo sde (6510)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7278/",
+        "label": "rgyal tsha (7278)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6510/",
+        "label": "rngog mdo sde (6510)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 826 (dbus su dgung lo bcu dgu la byon | g.yor po lugs smad du pu hrangs lo tsA ba'i dngos slob dmar chos kyi rgyal po | mes ston kun snying | rngog mdo sde | lo tsA ba chos kyi bzang po'i slob ma bla ma gshen chen po dgung lo gya gsum bzhes pa dang mjal |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1136",
+      "end": "after 1136",
       "subject_of_teaching_vocab": []
     }
   ],

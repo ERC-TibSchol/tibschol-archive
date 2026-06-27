@@ -92,6 +92,35 @@
       ]
     },
     {
+      "id": 3175,
+      "label": "'jam dbyangs 'od zer mgon po (3893) student of jo bo nam mkha' dpal (6461)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6461/",
+        "label": "jo bo nam mkha' dpal (6461)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3WFNMIGQ]: 149, n. 19.\r\n[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a4-5 (yang gnyal zhig gi slob ma jo bo nam mkha' dpal zhes pas nyang stod du bshad nyan mdzad pa'i slob ma mkhas pa 'od zer mgon po byung |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 5787,
       "label": "gnyal zhig po 'jam pa'i rdo rje (3887) lineage predecessor of jo bo nam mkha' dpal (6461)",
       "subj": {
@@ -122,35 +151,6 @@
         10,
         56
       ]
-    },
-    {
-      "id": 3175,
-      "label": "'jam dbyangs 'od zer mgon po (3893) student of jo bo nam mkha' dpal (6461)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
-        "label": "'jam dbyangs 'od zer mgon po (3893)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6461/",
-        "label": "jo bo nam mkha' dpal (6461)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[3WFNMIGQ]: 149, n. 19.\r\n[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a4-5 (yang gnyal zhig gi slob ma jo bo nam mkha' dpal zhes pas nyang stod du bshad nyan mdzad pa'i slob ma mkhas pa 'od zer mgon po byung |).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": null,

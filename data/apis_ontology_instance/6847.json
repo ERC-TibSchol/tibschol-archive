@@ -2,13 +2,13 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6847/",
   "relations": [
     {
-      "id": 4241,
-      "label": "seng ge rgyal mtshan (2) (6844) scribe of dbu ma la 'jug pa'i rgya cher bshad pa gsung rab rgya mtsho'i de kho na nyid rab tu gsal ba (1) (6847)",
+      "id": 4239,
+      "label": "dbu ma la 'jug pa'i rgya cher bshad pa gsung rab rgya mtsho'i de kho na nyid rab tu gsal ba (6845) has as an instance dbu ma la 'jug pa'i rgya cher bshad pa gsung rab rgya mtsho'i de kho na nyid rab tu gsal ba (1) (6847)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6844/",
-        "label": "seng ge rgyal mtshan (2) (6844)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6845/",
+        "label": "dbu ma la 'jug pa'i rgya cher bshad pa gsung rab rgya mtsho'i de kho na nyid rab tu gsal ba (6845)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6847/",
@@ -22,7 +22,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[UUCA9YLQ]: 531 (yi ge pa ni lung dang rigs par smra ba seng ge rgyal mtshan gyis bgyis so ||)",
+      "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -58,13 +58,13 @@
       "end": null
     },
     {
-      "id": 4239,
-      "label": "dbu ma la 'jug pa'i rgya cher bshad pa gsung rab rgya mtsho'i de kho na nyid rab tu gsal ba (6845) has as an instance dbu ma la 'jug pa'i rgya cher bshad pa gsung rab rgya mtsho'i de kho na nyid rab tu gsal ba (1) (6847)",
+      "id": 4241,
+      "label": "seng ge rgyal mtshan (2) (6844) scribe of dbu ma la 'jug pa'i rgya cher bshad pa gsung rab rgya mtsho'i de kho na nyid rab tu gsal ba (1) (6847)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6845/",
-        "label": "dbu ma la 'jug pa'i rgya cher bshad pa gsung rab rgya mtsho'i de kho na nyid rab tu gsal ba (6845)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6844/",
+        "label": "seng ge rgyal mtshan (2) (6844)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6847/",
@@ -78,7 +78,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[UUCA9YLQ]: 531 (yi ge pa ni lung dang rigs par smra ba seng ge rgyal mtshan gyis bgyis so ||)",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

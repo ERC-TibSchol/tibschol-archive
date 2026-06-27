@@ -179,6 +179,67 @@
       ]
     },
     {
+      "id": 4370,
+      "label": "gsang phu ba blo gros mtshungs med (3896) student of karma pa rang byung rdo rje (3897)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
+        "label": "gsang phu ba blo gros mtshungs med (3896)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+        "label": "karma pa rang byung rdo rje (3897)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a7 (de la rje rang byung rdo rjes mang du gsan dang | des kyang de nyid la mang du gsan |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5784,
+      "label": "gsang phu ba blo gros mtshungs med (3896) lineage predecessor of karma pa rang byung rdo rje (3897)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
+        "label": "gsang phu ba blo gros mtshungs med (3896)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+        "label": "karma pa rang byung rdo rje (3897)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 321, n. 153. Based on [8GL7ZT7Y]. Transmission lineage of the Ratnagotravibh\u0101ga (ID:3749).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10,
+        56
+      ]
+    },
+    {
       "id": 5795,
       "label": "dol po pa shes rab rgyal mtshan (4213) student of karma pa rang byung rdo rje (3897)",
       "subj": {
@@ -242,11 +303,11 @@
       ]
     },
     {
-      "id": 5784,
-      "label": "gsang phu ba blo gros mtshungs med (3896) lineage predecessor of karma pa rang byung rdo rje (3897)",
+      "id": 7694,
+      "label": "g.yung ston rdo rje dpal ba (8418) student of karma pa rang byung rdo rje (3897)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
-        "label": "gsang phu ba blo gros mtshungs med (3896)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8418/",
+        "label": "g.yung ston rdo rje dpal ba (8418)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -262,16 +323,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[BAQ9MH4T]: 321, n. 153. Based on [8GL7ZT7Y]. Transmission lineage of the Ratnagotravibh\u0101ga (ID:3749).",
+      "zotero_refs": "[JZP4CZRX], bdr:P1454 (accessed 25.06.2026)",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": [
-        10,
-        56
-      ]
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 7704,
@@ -295,64 +353,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[JZP4CZRX], bdr:P0RK1101 (accessed 25.06.2026)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 4370,
-      "label": "gsang phu ba blo gros mtshungs med (3896) student of karma pa rang byung rdo rje (3897)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
-        "label": "gsang phu ba blo gros mtshungs med (3896)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
-        "label": "karma pa rang byung rdo rje (3897)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a7 (de la rje rang byung rdo rjes mang du gsan dang | des kyang de nyid la mang du gsan |).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 7694,
-      "label": "g.yung ston rdo rje dpal ba (8418) student of karma pa rang byung rdo rje (3897)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8418/",
-        "label": "g.yung ston rdo rje dpal ba (8418)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
-        "label": "karma pa rang byung rdo rje (3897)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P1454 (accessed 25.06.2026)",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

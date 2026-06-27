@@ -33,34 +33,6 @@
       ]
     },
     {
-      "id": 3687,
-      "label": "\u015b\u0101kya\u015br\u012bbhadra (6418) other relation to sugata\u015br\u012b (6616)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6418/",
-        "label": "\u015b\u0101kya\u015br\u012bbhadra (6418)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6616/",
-        "label": "sugata\u015br\u012b (6616)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 3558,
       "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) student of sugata\u015br\u012b (6616)",
       "subj": {
@@ -88,6 +60,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3687,
+      "label": "\u015b\u0101kya\u015br\u012bbhadra (6418) other relation to sugata\u015br\u012b (6616)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6418/",
+        "label": "\u015b\u0101kya\u015br\u012bbhadra (6418)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6616/",
+        "label": "sugata\u015br\u012b (6616)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": "1270-12-31",

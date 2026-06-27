@@ -89,35 +89,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 6572,
-      "label": "tshad ma'i skyes bu bsod nams mgon (6925) student of spyil bu pa shes rab 'od zer (7684)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
-        "label": "tshad ma'i skyes bu bsod nams mgon (6925)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7684/",
-        "label": "spyil bu pa shes rab 'od zer (7684)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CTAI38G9]: 925. According Bu ston's gsan yig.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 6561,
       "label": "bu ston rin chen grub (5999) student of spyil bu pa shes rab 'od zer (7684)",
       "subj": {
@@ -147,6 +118,35 @@
       "subject_of_teaching_vocab": [
         9
       ]
+    },
+    {
+      "id": 6572,
+      "label": "tshad ma'i skyes bu bsod nams mgon (6925) student of spyil bu pa shes rab 'od zer (7684)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
+        "label": "tshad ma'i skyes bu bsod nams mgon (6925)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7684/",
+        "label": "spyil bu pa shes rab 'od zer (7684)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTAI38G9]: 925. According Bu ston's gsan yig.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1299-12-31",

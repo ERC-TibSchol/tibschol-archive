@@ -319,13 +319,13 @@
       "end": null
     },
     {
-      "id": 5648,
-      "label": "dam tshig mdor bsdus pa (5335) records the teaching of rin chen bzang po (1) (3784)",
+      "id": 2593,
+      "label": "rma dge ba'i blo gros (6189) student of rin chen bzang po (1) (3784)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5335/",
-        "label": "dam tshig mdor bsdus pa (5335)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6189/",
+        "label": "rma dge ba'i blo gros (6189)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3784/",
@@ -339,12 +339,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "Author reported for (ID:5334) in [8H6M69W4], No. 12613: lo tsA ba rin chen bzang po",
-      "tei_refs": "",
-      "support_notes": "(ID:5334), fol. 7b7: gong mas gsungs pa'i dam tshig mdor bsdus || rdzogs s+hO ||\r\n(ID:5334), fol. 7b8: slob dpon rin chen bzang pos gsungs pa'i dam tshig mdor bsdus pa bstan pa'o ||",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 2922,
@@ -376,13 +377,13 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 2593,
-      "label": "rma dge ba'i blo gros (6189) student of rin chen bzang po (1) (3784)",
+      "id": 5648,
+      "label": "dam tshig mdor bsdus pa (5335) records the teaching of rin chen bzang po (1) (3784)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6189/",
-        "label": "rma dge ba'i blo gros (6189)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5335/",
+        "label": "dam tshig mdor bsdus pa (5335)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3784/",
@@ -396,13 +397,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "Author reported for (ID:5334) in [8H6M69W4], No. 12613: lo tsA ba rin chen bzang po",
+      "tei_refs": "",
+      "support_notes": "(ID:5334), fol. 7b7: gong mas gsungs pa'i dam tshig mdor bsdus || rdzogs s+hO ||\r\n(ID:5334), fol. 7b8: slob dpon rin chen bzang pos gsungs pa'i dam tshig mdor bsdus pa bstan pa'o ||",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 7408,

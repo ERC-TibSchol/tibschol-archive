@@ -118,63 +118,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3830,
-      "label": "zhu lhan pa (6713) student of rong pa lag sor ba (3943)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6713/",
-        "label": "zhu lhan pa (6713)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3943/",
-        "label": "rong pa lag sor ba (3943)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 389 (rong pa'i bu bzhir grags pa byung ste | bya 'dul ba 'dzin pa | rog 'chims phu ba | rnam par ba | dge bshes zhus lan pa dang bzhi'o |). \r\n[W4T5ZMUP]: 40. Zhu lhan pa was one of the four disciples (bu bzhi) of Rong pa along with Rog 'Ching phu ba, Bya 'dul and rNam 'bar ba.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 5347,
-      "label": "bstan rim chen mo (7196) records the teaching of rong pa lag sor ba (3943)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7196/",
-        "label": "bstan rim chen mo (7196)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3943/",
-        "label": "rong pa lag sor ba (3943)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[AXC5KZK3]: 239-240.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 182,
       "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) student of rong pa lag sor ba (3943)",
       "subj": {
@@ -264,6 +207,63 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3830,
+      "label": "zhu lhan pa (6713) student of rong pa lag sor ba (3943)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6713/",
+        "label": "zhu lhan pa (6713)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3943/",
+        "label": "rong pa lag sor ba (3943)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 389 (rong pa'i bu bzhir grags pa byung ste | bya 'dul ba 'dzin pa | rog 'chims phu ba | rnam par ba | dge bshes zhus lan pa dang bzhi'o |). \r\n[W4T5ZMUP]: 40. Zhu lhan pa was one of the four disciples (bu bzhi) of Rong pa along with Rog 'Ching phu ba, Bya 'dul and rNam 'bar ba.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5347,
+      "label": "bstan rim chen mo (7196) records the teaching of rong pa lag sor ba (3943)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7196/",
+        "label": "bstan rim chen mo (7196)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3943/",
+        "label": "rong pa lag sor ba (3943)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[AXC5KZK3]: 239-240.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": "1100-12-31",

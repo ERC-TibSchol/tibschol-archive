@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/506/",
   "xml_id": "ex56252023-09-2",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex56252023-09-2\" status=\"finalized\" ana=\"corpusmd:colophon\"><rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:4006\">chos kyi rgyal po bcoM ldan ral gri</rs>'i phyag dpe la zhus te <expan>dag go</expan> || <note type=\"editorial\">This is line is written without any tshegs between syllables</note> </seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex56252023-09-2\" status=\"finalized\" ana=\"corpusmd:colophon\">\n            <note type=\"editorial\">This is line is written without any tshegs between syllables</note><rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:4006\">chos kyi rgyal po bcoM ldan ral gri</rs>'i phyag dpe la<note type=\"editorial\">for \"las\"</note> zhus te <expan>dag go</expan> || </seg></TEI>",
   "source": "2_056_25 ral gri_tshogs kyi 'khor lo cho ga rgyan me tog.xml",
   "tibschol_refs": "2_056_25",
   "zotero_refs": "",
   "status": "finalized",
-  "location": "4b2"
+  "location": "inst:5023: 4b2"
 }

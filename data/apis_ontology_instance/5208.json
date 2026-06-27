@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5208/",
   "relations": [
     {
-      "id": 4235,
-      "label": "seng ge rgyal mtshan (2) (6844) scribe of dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5208)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6844/",
-        "label": "seng ge rgyal mtshan (2) (6844)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5208/",
-        "label": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5208)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex76012024-09-1612-39-18",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1616,
       "label": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5209) has as an instance dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5208)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4235,
+      "label": "seng ge rgyal mtshan (2) (6844) scribe of dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5208)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6844/",
+        "label": "seng ge rgyal mtshan (2) (6844)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5208/",
+        "label": "dbu ma rtsa ba shes rab kyi 'grel pa tshig don rab gsal (5208)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex76012024-09-1612-39-18",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

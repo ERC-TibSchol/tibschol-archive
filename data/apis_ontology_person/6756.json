@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
   "relations": [
     {
-      "id": 4301,
-      "label": "red mda' ba gzhon nu blo gros (6756) author of phar phyin gyi Tik+ka nyi ma'i 'od zer (6869)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
-        "label": "red mda' ba gzhon nu blo gros (6756)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6869/",
-        "label": "phar phyin gyi Tik+ka nyi ma'i 'od zer (6869)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5RXEUKD9]: 530, No. 11521.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 4359,
       "label": "red mda' ba gzhon nu blo gros (6756) student of mdog ldog pa chen po (6923)",
       "subj": {
@@ -61,34 +33,6 @@
       ]
     },
     {
-      "id": 4637,
-      "label": "red mda' ba gzhon nu blo gros (6756) author of dam pa'i chos mngon pa kun las btus pa'i rgya cher 'grel pa legs par bshad pa'i rgya mtsho (7007)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
-        "label": "red mda' ba gzhon nu blo gros (6756)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7007/",
-        "label": "dam pa'i chos mngon pa kun las btus pa'i rgya cher 'grel pa legs par bshad pa'i rgya mtsho (7007)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 5079,
       "label": "red mda' ba gzhon nu blo gros (6756) student of skyabs mchog dpal bzang po (4080)",
       "subj": {
@@ -110,6 +54,35 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[BAQ9MH4T]: 348, n. 15.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7150,
+      "label": "red mda' ba gzhon nu blo gros (6756) student of nya dbon kun dga' dpal (6741)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
+        "label": "red mda' ba gzhon nu blo gros (6756)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
+        "label": "nya dbon kun dga' dpal (6741)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P2010.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -149,6 +122,34 @@
       ]
     },
     {
+      "id": 4301,
+      "label": "red mda' ba gzhon nu blo gros (6756) author of phar phyin gyi Tik+ka nyi ma'i 'od zer (6869)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
+        "label": "red mda' ba gzhon nu blo gros (6756)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6869/",
+        "label": "phar phyin gyi Tik+ka nyi ma'i 'od zer (6869)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 530, No. 11521.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 6894,
       "label": "red mda' ba gzhon nu blo gros (6756) author of rgyud bla'i don bsdus sam bde gshegs snying po'i don gsal (7931)",
       "subj": {
@@ -177,8 +178,8 @@
       "end": null
     },
     {
-      "id": 7105,
-      "label": "red mda' ba gzhon nu blo gros (6756) author of dbu ma la 'jug pa'i rnam bshad de kho na nyid gsal ba'i sgron ma (8047)",
+      "id": 7231,
+      "label": "red mda' ba gzhon nu blo gros (6756) author of tshad ma rnam 'grel gyi rnam bshad rigs pa'i 'dod 'jo (8110)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
         "label": "red mda' ba gzhon nu blo gros (6756)",
@@ -186,8 +187,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8047/",
-        "label": "dbu ma la 'jug pa'i rnam bshad de kho na nyid gsal ba'i sgron ma (8047)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8110/",
+        "label": "tshad ma rnam 'grel gyi rnam bshad rigs pa'i 'dod 'jo (8110)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -233,8 +234,8 @@
       "end": null
     },
     {
-      "id": 7150,
-      "label": "red mda' ba gzhon nu blo gros (6756) student of nya dbon kun dga' dpal (6741)",
+      "id": 4637,
+      "label": "red mda' ba gzhon nu blo gros (6756) author of dam pa'i chos mngon pa kun las btus pa'i rgya cher 'grel pa legs par bshad pa'i rgya mtsho (7007)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
         "label": "red mda' ba gzhon nu blo gros (6756)",
@@ -242,10 +243,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
-        "label": "nya dbon kun dga' dpal (6741)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7007/",
+        "label": "dam pa'i chos mngon pa kun las btus pa'i rgya cher 'grel pa legs par bshad pa'i rgya mtsho (7007)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -253,17 +254,16 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P2010.",
+      "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
-      "id": 7231,
-      "label": "red mda' ba gzhon nu blo gros (6756) author of tshad ma rnam 'grel gyi rnam bshad rigs pa'i 'dod 'jo (8110)",
+      "id": 7105,
+      "label": "red mda' ba gzhon nu blo gros (6756) author of dbu ma la 'jug pa'i rnam bshad de kho na nyid gsal ba'i sgron ma (8047)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
         "label": "red mda' ba gzhon nu blo gros (6756)",
@@ -271,8 +271,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8110/",
-        "label": "tshad ma rnam 'grel gyi rnam bshad rigs pa'i 'dod 'jo (8110)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8047/",
+        "label": "dbu ma la 'jug pa'i rnam bshad de kho na nyid gsal ba'i sgron ma (8047)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -378,6 +378,35 @@
       ]
     },
     {
+      "id": 4842,
+      "label": "rgyal tshab dar ma rin chen (6006) student of red mda' ba gzhon nu blo gros (6756)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6006/",
+        "label": "rgyal tshab dar ma rin chen (6006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
+        "label": "red mda' ba gzhon nu blo gros (6756)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BKUHJCNA]: 722.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 6468,
       "label": "nya dbon kun dga' dpal (6741) lineage predecessor of red mda' ba gzhon nu blo gros (6756)",
       "subj": {
@@ -407,35 +436,6 @@
       "subject_of_teaching_vocab": [
         9
       ]
-    },
-    {
-      "id": 4842,
-      "label": "rgyal tshab dar ma rin chen (6006) student of red mda' ba gzhon nu blo gros (6756)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6006/",
-        "label": "rgyal tshab dar ma rin chen (6006)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
-        "label": "red mda' ba gzhon nu blo gros (6756)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[BKUHJCNA]: 722.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1412-12-31",

@@ -30,35 +30,6 @@
       "end": null
     },
     {
-      "id": 4022,
-      "label": "pa tshab nyi ma grags (3868) active at rgyal lha khang (4343)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
-        "label": "pa tshab nyi ma grags (3868)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4343/",
-        "label": "rgyal lha khang (4343)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": "1131-12-31",
-      "start_date_from": "1131-01-01",
-      "start_date_sort": "1131-07-02",
-      "zotero_refs": "[NTGHCZA8]: 15, 18. Pa tshab returned from Kashmir around 1100 and relocated to rGyal lha khang. He became the abbot of the monastery in ca. 1131.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1131",
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3070,
       "label": "ar byang chub ye shes (3816) active at rgyal lha khang (4343)",
       "subj": {
@@ -88,11 +59,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5379,
-      "label": "a seng (6494) active at rgyal lha khang (4343)",
+      "id": 3302,
+      "label": "'bre shes rab 'bar (3807) active at rgyal lha khang (4343)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6494/",
-        "label": "a seng (6494)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -108,11 +79,69 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[I58Z22ET]: 409, n. 42, based on Dus gsum mkhyen pa'i rnam thar in Si tu Chos kyi 'byung gnas's Karma kam tshang gser 'phreng (de'i tshe 'phan yul rgyal lha khang du dpal rga lo dang | khams pa a seng bzhugs pa la dus 'khor sbyor drug dang | mgon po bya rog ma la sogs pa'i bskyed rdzogs kyi gdams pa mang du gsan |).",
+      "zotero_refs": "[647FFPZR]: 536-537. Based on the Blue annals.\r\n[R894SIKE]: 402 ('dis gnam rtse ldang la sogs par sku shin tu bgres par gyur tshun chad du bshad pa mdzad cing | skabs shed du ni rgyal lha khang gi gdan sa yang mdzad |).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3344,
+      "label": "skyo ston rin po che byang chub rin chen (6513) active at rgyal lha khang (4343)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6513/",
+        "label": "skyo ston rin po che byang chub rin chen (6513)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4343/",
+        "label": "rgyal lha khang (4343)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 371 (rang lo zhe drug bzhes pa lcags mo yos la kam kam gyi gdan sar byon | tshogs pa btsun pa shas che ba'i grwa pa lnga brgya tsam du 'phel | rgyal lha khang gi gdan sa dang sbrags nas mdzad |) . Became abbot in 1171 at the same time he became abbot of Kam kam.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1171",
+      "end": "1171",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4022,
+      "label": "pa tshab nyi ma grags (3868) active at rgyal lha khang (4343)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
+        "label": "pa tshab nyi ma grags (3868)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4343/",
+        "label": "rgyal lha khang (4343)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": "1131-12-31",
+      "start_date_from": "1131-01-01",
+      "start_date_sort": "1131-07-02",
+      "zotero_refs": "[NTGHCZA8]: 15, 18. Pa tshab returned from Kashmir around 1100 and relocated to rGyal lha khang. He became the abbot of the monastery in ca. 1131.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1131",
       "end": null,
       "subject_of_teaching_vocab": []
     },
@@ -146,40 +175,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3344,
-      "label": "skyo ston rin po che byang chub rin chen (6513) active at rgyal lha khang (4343)",
+      "id": 5379,
+      "label": "a seng (6494) active at rgyal lha khang (4343)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6513/",
-        "label": "skyo ston rin po che byang chub rin chen (6513)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4343/",
-        "label": "rgyal lha khang (4343)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 371 (rang lo zhe drug bzhes pa lcags mo yos la kam kam gyi gdan sar byon | tshogs pa btsun pa shas che ba'i grwa pa lnga brgya tsam du 'phel | rgyal lha khang gi gdan sa dang sbrags nas mdzad |) . Became abbot in 1171 at the same time he became abbot of Kam kam.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1171",
-      "end": "1171",
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 5380,
-      "label": "rgwa lo tsa ba gzhon nu dpal (6486) active at rgyal lha khang (4343)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6486/",
-        "label": "rgwa lo tsa ba gzhon nu dpal (6486)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6494/",
+        "label": "a seng (6494)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -204,11 +204,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3302,
-      "label": "'bre shes rab 'bar (3807) active at rgyal lha khang (4343)",
+      "id": 5380,
+      "label": "rgwa lo tsa ba gzhon nu dpal (6486) active at rgyal lha khang (4343)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
-        "label": "'bre shes rab 'bar (3807)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6486/",
+        "label": "rgwa lo tsa ba gzhon nu dpal (6486)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -224,7 +224,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 536-537. Based on the Blue annals.\r\n[R894SIKE]: 402 ('dis gnam rtse ldang la sogs par sku shin tu bgres par gyur tshun chad du bshad pa mdzad cing | skabs shed du ni rgyal lha khang gi gdan sa yang mdzad |).",
+      "zotero_refs": "[I58Z22ET]: 409, n. 42, based on Dus gsum mkhyen pa'i rnam thar in Si tu Chos kyi 'byung gnas's Karma kam tshang gser 'phreng (de'i tshe 'phan yul rgyal lha khang du dpal rga lo dang | khams pa a seng bzhugs pa la dus 'khor sbyor drug dang | mgon po bya rog ma la sogs pa'i bskyed rdzogs kyi gdams pa mang du gsan |).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

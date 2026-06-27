@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/954/",
   "xml_id": "ex50042023-10-13-094027",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex50042023-10-13-094027\" status=\"unreviewed\"><lb n=\"1a4\"/> <rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:4841\"><rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:3742\">bslab btus</rs> kyi khrid <expan>gzhugs</expan></rs> so || <rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:3727\">spyod 'jug</rs> gi khrid bzhugs so ||</seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex50042023-10-13-094027\" status=\"unreviewed\"><lb edRef=\"inst:4840\" n=\"1a4\"/> <rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:4841\"><rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:3742\">bslab btus</rs> kyi khrid <expan>gzhugs</expan></rs> so || <rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:3727\">spyod 'jug</rs> gi khrid bzhugs so ||</seg></TEI>",
   "source": "2_050_04 blab btus dang spyod 'jug gi khrid.xml",
   "tibschol_refs": "2_050_04",
   "zotero_refs": "",
   "status": "unreviewed",
-  "location": "1a4"
+  "location": "inst:4840: 1a4"
 }

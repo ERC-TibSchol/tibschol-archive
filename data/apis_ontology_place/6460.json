@@ -30,6 +30,35 @@
       "end": null
     },
     {
+      "id": 3168,
+      "label": "rngog legs pa'i shes rab (3788) active at brag nag (6460)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3788/",
+        "label": "rngog legs pa'i shes rab (3788)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6460/",
+        "label": "brag nag (6460)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1073-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1073-12-31",
+      "start_date_to": "1073-12-31",
+      "start_date_from": null,
+      "start_date_sort": "1073-12-31",
+      "zotero_refs": "[R894SIKE]: 392 (dang por brag nag gi rtsar dgon pa zhig mdzad pa las phyis jo bos lung bstan pa bzhin chu mo glang gi lo la ne'u thog gi gtsug lag khang chen mo btab |) . Founded a monastery at Brag nag gi rtsa prior to the foundation of gSang phu ne'u thog.\r\n[7FZ3B926]: 107.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "before 1073",
+      "end": "before 1073",
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3988,
       "label": "gser mdog paN chen shAkya mchog ldan (6276) active at brag nag (6460)",
       "subj": {
@@ -85,35 +114,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3168,
-      "label": "rngog legs pa'i shes rab (3788) active at brag nag (6460)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3788/",
-        "label": "rngog legs pa'i shes rab (3788)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6460/",
-        "label": "brag nag (6460)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": "1073-12-31",
-      "end_date_from": null,
-      "end_date_sort": "1073-12-31",
-      "start_date_to": "1073-12-31",
-      "start_date_from": null,
-      "start_date_sort": "1073-12-31",
-      "zotero_refs": "[R894SIKE]: 392 (dang por brag nag gi rtsar dgon pa zhig mdzad pa las phyis jo bos lung bstan pa bzhin chu mo glang gi lo la ne'u thog gi gtsug lag khang chen mo btab |) . Founded a monastery at Brag nag gi rtsa prior to the foundation of gSang phu ne'u thog.\r\n[7FZ3B926]: 107.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "before 1073",
-      "end": "before 1073",
       "subject_of_teaching_vocab": []
     }
   ],

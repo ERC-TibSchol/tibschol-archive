@@ -30,35 +30,6 @@
       "end": null
     },
     {
-      "id": 3946,
-      "label": "sangs rgyas yar byon (6761) active at stag lung (6179)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6761/",
-        "label": "sangs rgyas yar byon (6761)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6179/",
-        "label": "stag lung (6179)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": "1272-12-31",
-      "end_date_from": "1272-01-01",
-      "end_date_sort": "1272-07-01",
-      "start_date_to": "1236-12-31",
-      "start_date_from": "1236-01-01",
-      "start_date_sort": "1236-07-01",
-      "zotero_refs": "[JZP4CZRX], bdr:P1818 (accessed 23.06.2026).",
-      "tei_refs": "",
-      "support_notes": "Third abbot of sTag lung dgon chen.",
-      "confidence": "Positive",
-      "start": "1236",
-      "end": "1272",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2576,
       "label": "dpang lo tsA ba blo gros brtan pa (4097) active at stag lung (6179)",
       "subj": {
@@ -85,6 +56,35 @@
       "confidence": "Positive",
       "start": null,
       "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3946,
+      "label": "sangs rgyas yar byon (6761) active at stag lung (6179)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6761/",
+        "label": "sangs rgyas yar byon (6761)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6179/",
+        "label": "stag lung (6179)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1272-12-31",
+      "end_date_from": "1272-01-01",
+      "end_date_sort": "1272-07-01",
+      "start_date_to": "1236-12-31",
+      "start_date_from": "1236-01-01",
+      "start_date_sort": "1236-07-01",
+      "zotero_refs": "[JZP4CZRX], bdr:P1818 (accessed 23.06.2026).",
+      "tei_refs": "",
+      "support_notes": "Third abbot of sTag lung dgon chen.",
+      "confidence": "Positive",
+      "start": "1236",
+      "end": "1272",
       "subject_of_teaching_vocab": []
     }
   ],

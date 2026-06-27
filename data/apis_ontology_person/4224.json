@@ -33,35 +33,6 @@
       ]
     },
     {
-      "id": 428,
-      "label": "sna nam btsun pa ye shes sde (4227) lineage predecessor of lha lung dpal gyi rdo rje (4224)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4227/",
-        "label": "sna nam btsun pa ye shes sde (4227)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4224/",
-        "label": "lha lung dpal gyi rdo rje (4224)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 424,
       "label": "ska ba dpal brtsegs (4222) lineage predecessor of lha lung dpal gyi rdo rje (4224)",
       "subj": {
@@ -122,11 +93,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 6686,
-      "label": "sna nam zla ba'i rdo rje (4223) lineage predecessor of lha lung dpal gyi rdo rje (4224)",
+      "id": 428,
+      "label": "sna nam btsun pa ye shes sde (4227) lineage predecessor of lha lung dpal gyi rdo rje (4224)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4223/",
-        "label": "sna nam zla ba'i rdo rje (4223)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4227/",
+        "label": "sna nam btsun pa ye shes sde (4227)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -142,15 +113,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[TZC3JQWE]: 356. Abhidharmasamuccaya lineage according to the Fifth Dalai Lama (ca. 1670).",
-      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
-      "support_notes": "",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 429,
@@ -180,6 +149,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6686,
+      "label": "sna nam zla ba'i rdo rje (4223) lineage predecessor of lha lung dpal gyi rdo rje (4224)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4223/",
+        "label": "sna nam zla ba'i rdo rje (4223)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4224/",
+        "label": "lha lung dpal gyi rdo rje (4224)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[TZC3JQWE]: 356. Abhidharmasamuccaya lineage according to the Fifth Dalai Lama (ca. 1670).",
+      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
     }
   ],
   "end_date_to": null,

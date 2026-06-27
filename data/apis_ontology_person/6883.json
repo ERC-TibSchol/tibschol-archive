@@ -177,34 +177,6 @@
       "end": null
     },
     {
-      "id": 5618,
-      "label": "vanaratna (6176) other relation to stag tshang lo tsA ba shes rab rin chen (6883)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6176/",
-        "label": "vanaratna (6176)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6883/",
-        "label": "stag tshang lo tsA ba shes rab rin chen (6883)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5IPSARNF]: lxxvi. Met in Central Tibet.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1437",
-      "end": "after 1437"
-    },
-    {
       "id": 4596,
       "label": "zhwa lu lo tsA ba chos skyong bzang po (4071) student of stag tshang lo tsA ba shes rab rin chen (6883)",
       "subj": {
@@ -232,6 +204,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5618,
+      "label": "vanaratna (6176) other relation to stag tshang lo tsA ba shes rab rin chen (6883)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6176/",
+        "label": "vanaratna (6176)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6883/",
+        "label": "stag tshang lo tsA ba shes rab rin chen (6883)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5IPSARNF]: lxxvi. Met in Central Tibet.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1437",
+      "end": "after 1437"
     }
   ],
   "end_date_to": "1477-12-31",

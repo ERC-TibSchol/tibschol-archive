@@ -176,11 +176,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5377,
-      "label": "dus gsum mkhyen pa (3855) student of a seng (6494)",
+      "id": 2637,
+      "label": "cog ro chos kyi rgyal mtshan (6191) student of a seng (6494)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3855/",
-        "label": "dus gsum mkhyen pa (3855)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6191/",
+        "label": "cog ro chos kyi rgyal mtshan (6191)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -196,12 +196,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[I58Z22ET]: 409, n. 42, based on Dus gsum mkhyen pa'i rnam thar in Si tu Chos kyi 'byung gnas's Karma kam tshang gser 'phreng (de'i tshe 'phan yul rgyal lha khang du dpal rga lo dang | khams pa a seng bzhugs pa la dus 'khor sbyor drug dang | mgon po bya rog ma la sogs pa'i bskyed rdzogs kyi gdams pa mang du gsan |).",
+      "zotero_refs": "[R894SIKE]: 467 (ar dang khams pa e seng la gsan pa mang po mdzad |). \"khams pa e seng\" is likely the same person as \"khams pa a seng.\"",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "after 1130",
-      "end": "after 1130",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     },
     {
@@ -234,35 +234,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 2637,
-      "label": "cog ro chos kyi rgyal mtshan (6191) student of a seng (6494)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6191/",
-        "label": "cog ro chos kyi rgyal mtshan (6191)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6494/",
-        "label": "a seng (6494)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 467 (ar dang khams pa e seng la gsan pa mang po mdzad |). \"khams pa e seng\" is likely the same person as \"khams pa a seng.\"",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 5022,
       "label": "rmog cog pa rin chen brtson 'grus (7139) student of a seng (6494)",
       "subj": {
@@ -289,6 +260,35 @@
       "confidence": "Positive",
       "start": null,
       "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5377,
+      "label": "dus gsum mkhyen pa (3855) student of a seng (6494)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3855/",
+        "label": "dus gsum mkhyen pa (3855)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6494/",
+        "label": "a seng (6494)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 409, n. 42, based on Dus gsum mkhyen pa'i rnam thar in Si tu Chos kyi 'byung gnas's Karma kam tshang gser 'phreng (de'i tshe 'phan yul rgyal lha khang du dpal rga lo dang | khams pa a seng bzhugs pa la dus 'khor sbyor drug dang | mgon po bya rog ma la sogs pa'i bskyed rdzogs kyi gdams pa mang du gsan |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1130",
+      "end": "after 1130",
       "subject_of_teaching_vocab": []
     }
   ],

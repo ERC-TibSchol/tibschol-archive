@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6409/",
   "relations": [
     {
+      "id": 3052,
+      "label": "zhang g.yu brag brtson 'grus grags pa (6409) active at tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6409/",
+        "label": "zhang g.yu brag brtson 'grus grags pa (6409)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[2X2E3882]: 219. Founded the monastery.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1175",
+      "end": "1175",
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3228,
       "label": "zhang g.yu brag brtson 'grus grags pa (6409) student of rgwa lo tsa ba gzhon nu dpal (6486)",
       "subj": {
@@ -62,6 +91,63 @@
       ]
     },
     {
+      "id": 3902,
+      "label": "zhang g.yu brag brtson 'grus grags pa (6409) ordinator of 'gro mgon gtsang pa rgya ras ye shes rdo rje (6747)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6409/",
+        "label": "zhang g.yu brag brtson 'grus grags pa (6409)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6747/",
+        "label": "'gro mgon gtsang pa rgya ras ye shes rdo rje (6747)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 92, n. 78. Ordained at Tshal (ID:5658).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1193",
+      "end": "1193"
+    },
+    {
+      "id": 5303,
+      "label": "zhang g.yu brag brtson 'grus grags pa (6409) active at skyid shod (7181)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6409/",
+        "label": "zhang g.yu brag brtson 'grus grags pa (6409)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7181/",
+        "label": "skyid shod (7181)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CJPTU9FV]: 37, n. 23.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 5758,
       "label": "zhang g.yu brag brtson 'grus grags pa (6409) student of phywa pa chos kyi seng ge (3831)",
       "subj": {
@@ -86,35 +172,6 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Uncertain",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 5760,
-      "label": "zhang g.yu brag brtson 'grus grags pa (6409) student of tshul khrims snying po (6157)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6409/",
-        "label": "zhang g.yu brag brtson 'grus grags pa (6409)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6157/",
-        "label": "tshul khrims snying po (6157)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[M4S8FBFG]: 90.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
@@ -149,8 +206,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5303,
-      "label": "zhang g.yu brag brtson 'grus grags pa (6409) active at skyid shod (7181)",
+      "id": 5760,
+      "label": "zhang g.yu brag brtson 'grus grags pa (6409) student of tshul khrims snying po (6157)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6409/",
         "label": "zhang g.yu brag brtson 'grus grags pa (6409)",
@@ -158,10 +215,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7181/",
-        "label": "skyid shod (7181)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6157/",
+        "label": "tshul khrims snying po (6157)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -169,41 +226,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[CJPTU9FV]: 37, n. 23.",
+      "zotero_refs": "[M4S8FBFG]: 90.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3902,
-      "label": "zhang g.yu brag brtson 'grus grags pa (6409) ordinator of 'gro mgon gtsang pa rgya ras ye shes rdo rje (6747)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6409/",
-        "label": "zhang g.yu brag brtson 'grus grags pa (6409)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6747/",
-        "label": "'gro mgon gtsang pa rgya ras ye shes rdo rje (6747)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CCSBSVCA]: 92, n. 78. Ordained at Tshal (ID:5658).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1193",
-      "end": "1193"
     },
     {
       "id": 6616,
@@ -234,35 +263,6 @@
       "end": null
     },
     {
-      "id": 3052,
-      "label": "zhang g.yu brag brtson 'grus grags pa (6409) active at tshal gung thang (5658)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6409/",
-        "label": "zhang g.yu brag brtson 'grus grags pa (6409)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
-        "label": "tshal gung thang (5658)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[2X2E3882]: 219. Founded the monastery.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1175",
-      "end": "1175",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3922,
       "label": "zhig po bdud rtsi (6155) student of zhang g.yu brag brtson 'grus grags pa (6409)",
       "subj": {
@@ -287,6 +287,35 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7158,
+      "label": "gsal sto sho sgom (3857) student of zhang g.yu brag brtson 'grus grags pa (6409)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3857/",
+        "label": "gsal sto sho sgom (3857)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6409/",
+        "label": "zhang g.yu brag brtson 'grus grags pa (6409)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8GL7ZT7Y]: 16a2 (grub thob mi gsum du grags pa la | zhang tshal pa dngos slob yin min gyi bshad pa gnyis byung zhig |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
@@ -321,11 +350,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 7158,
-      "label": "gsal sto sho sgom (3857) student of zhang g.yu brag brtson 'grus grags pa (6409)",
+      "id": 7762,
+      "label": "dge ba'i bshes gnyen kun dga' rgyal mtshan (3929) student of zhang g.yu brag brtson 'grus grags pa (6409)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3857/",
-        "label": "gsal sto sho sgom (3857)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3929/",
+        "label": "dge ba'i bshes gnyen kun dga' rgyal mtshan (3929)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -341,10 +370,10 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[8GL7ZT7Y]: 16a2 (grub thob mi gsum du grags pa la | zhang tshal pa dngos slob yin min gyi bshad pa gnyis byung zhig |).",
-      "tei_refs": "",
+      "zotero_refs": "",
+      "tei_refs": "ex074012025-11-2510-59-48",
       "support_notes": "",
-      "confidence": "Uncertain",
+      "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []

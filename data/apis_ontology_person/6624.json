@@ -157,11 +157,11 @@
       ]
     },
     {
-      "id": 7145,
-      "label": "nya dbon kun dga' dpal (6741) student of zhang btsun mdo sde dpal (6624)",
+      "id": 3578,
+      "label": "'jam dbyangs skya bo nam mkha' dpal (6621) student of zhang btsun mdo sde dpal (6624)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
-        "label": "nya dbon kun dga' dpal (6741)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6621/",
+        "label": "'jam dbyangs skya bo nam mkha' dpal (6621)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -177,13 +177,44 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P2010.",
+      "zotero_refs": "[FEHIEFEB]: 125.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3580,
+      "label": "btsun pa ston gzhon (5942) student of zhang btsun mdo sde dpal (6624)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5942/",
+        "label": "btsun pa ston gzhon (5942)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6624/",
+        "label": "zhang btsun mdo sde dpal (6624)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 125, 162.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 3653,
@@ -249,11 +280,11 @@
       ]
     },
     {
-      "id": 3578,
-      "label": "'jam dbyangs skya bo nam mkha' dpal (6621) student of zhang btsun mdo sde dpal (6624)",
+      "id": 7145,
+      "label": "nya dbon kun dga' dpal (6741) student of zhang btsun mdo sde dpal (6624)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6621/",
-        "label": "'jam dbyangs skya bo nam mkha' dpal (6621)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
+        "label": "nya dbon kun dga' dpal (6741)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -269,44 +300,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 125.",
+      "zotero_refs": "[JZP4CZRX], bdr:P2010.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3580,
-      "label": "btsun pa ston gzhon (5942) student of zhang btsun mdo sde dpal (6624)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5942/",
-        "label": "btsun pa ston gzhon (5942)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6624/",
-        "label": "zhang btsun mdo sde dpal (6624)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 125, 162.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
     }
   ],
   "end_date_to": "1290-12-31",

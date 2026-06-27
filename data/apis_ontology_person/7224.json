@@ -59,34 +59,6 @@
       "end": null
     },
     {
-      "id": 5426,
-      "label": "khro phu lo tsA ba byams pa dpal (3878) other relation to 'gar dam pa chos sdings pa (7224)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3878/",
-        "label": "khro phu lo tsA ba byams pa dpal (3878)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7224/",
-        "label": "'gar dam pa chos sdings pa (7224)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[6BBLUKRN]: 184, n. 245. Chos sdings pa claims that he defeated Khro phu lo tsA ba in debate.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 5424,
       "label": "don mo ri pa rdo rje mdzes 'od (7225) student of 'gar dam pa chos sdings pa (7224)",
       "subj": {
@@ -119,6 +91,34 @@
         13,
         3
       ]
+    },
+    {
+      "id": 5426,
+      "label": "khro phu lo tsA ba byams pa dpal (3878) other relation to 'gar dam pa chos sdings pa (7224)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3878/",
+        "label": "khro phu lo tsA ba byams pa dpal (3878)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7224/",
+        "label": "'gar dam pa chos sdings pa (7224)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[6BBLUKRN]: 184, n. 245. Chos sdings pa claims that he defeated Khro phu lo tsA ba in debate.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": "1240-12-31",

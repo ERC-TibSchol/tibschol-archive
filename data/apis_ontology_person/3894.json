@@ -186,6 +186,35 @@
       ]
     },
     {
+      "id": 157,
+      "label": "gsang phu ba blo gros mtshungs med (3896) student of 'jam dbyangs shakya gzhon nu (3894)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
+        "label": "gsang phu ba blo gros mtshungs med (3896)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3WFNMIGQ]: 149, n. 19.\r\n[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a6 (de'i slob ma blo gros mtshungs med ces grags pa ni...).\r\n[BAQ9MH4T]: 321, n. 153. Mentions Shakya gzhon nu's name in a signed verse in work (ID:4588).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 2334,
       "label": "grags pa rgya mtsho bde legs 'byung gnas (4024) student of 'jam dbyangs shakya gzhon nu (3894)",
       "subj": {
@@ -213,6 +242,38 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2525,
+      "label": "karma pa rang byung rdo rje (3897) student of 'jam dbyangs shakya gzhon nu (3894)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
+        "label": "karma pa rang byung rdo rje (3897)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 582 (de nas gsang phu gling smad kyi gdan sa shAkya gzhon nu la dbu ma'i skor mang po dang | byams chos lnga | mngon pa gong 'og dang sa sde | tshad ma la sogs mang du gsan |).\r\n[GJR33LJY]: 213.\r\n[BAQ9MH4T]: 322. Treatise: Ratnagotravibh\u0101ga (ID:3749).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10,
+        56
+      ]
     },
     {
       "id": 2531,
@@ -280,67 +341,6 @@
         10,
         56
       ]
-    },
-    {
-      "id": 2525,
-      "label": "karma pa rang byung rdo rje (3897) student of 'jam dbyangs shakya gzhon nu (3894)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3897/",
-        "label": "karma pa rang byung rdo rje (3897)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
-        "label": "'jam dbyangs shakya gzhon nu (3894)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 582 (de nas gsang phu gling smad kyi gdan sa shAkya gzhon nu la dbu ma'i skor mang po dang | byams chos lnga | mngon pa gong 'og dang sa sde | tshad ma la sogs mang du gsan |).\r\n[GJR33LJY]: 213.\r\n[BAQ9MH4T]: 322. Treatise: Ratnagotravibh\u0101ga (ID:3749).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        10,
-        56
-      ]
-    },
-    {
-      "id": 157,
-      "label": "gsang phu ba blo gros mtshungs med (3896) student of 'jam dbyangs shakya gzhon nu (3894)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
-        "label": "gsang phu ba blo gros mtshungs med (3896)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
-        "label": "'jam dbyangs shakya gzhon nu (3894)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[3WFNMIGQ]: 149, n. 19.\r\n[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a6 (de'i slob ma blo gros mtshungs med ces grags pa ni...).\r\n[BAQ9MH4T]: 321, n. 153. Mentions Shakya gzhon nu's name in a signed verse in work (ID:4588).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": null,

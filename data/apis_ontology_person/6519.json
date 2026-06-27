@@ -266,6 +266,34 @@
       ]
     },
     {
+      "id": 3382,
+      "label": "mchims nam mkha' grags (3977) ordinator of ze'u grags pa brtson 'grus (6519)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
+        "label": "ze'u grags pa brtson 'grus (6519)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: Appendix 3, 236. mChims was \"mkhan po\" in the novice ordination and full ordination (in 1272) of Ze'u 'Dul 'dzin grags  at sNar thang (ID:4411).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1272",
+      "end": "1272"
+    },
+    {
       "id": 3383,
       "label": "'dul ba 'dzin pa brtson 'grus dpal (6523) ordinator of ze'u grags pa brtson 'grus (6519)",
       "subj": {
@@ -292,6 +320,34 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 3386,
+      "label": "ze'u grags pa rgyal mtshan (6133) ordinator of ze'u grags pa brtson 'grus (6519)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6133/",
+        "label": "ze'u grags pa rgyal mtshan (6133)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
+        "label": "ze'u grags pa brtson 'grus (6519)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: 145, n. 301 and Appendix 3, 236. Ze'u Grags pa rgyal mtshan was \"las kyi slob dpon\" in the full ordination of Ze'u 'Dul 'dzin grags at sNar thang (ID:4411) in 1272.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1272",
+      "end": "1272"
     },
     {
       "id": 3387,
@@ -351,37 +407,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 7463,
-      "label": "mchims nam mkha' grags (3977) lineage predecessor of ze'u grags pa brtson 'grus (6519)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
-        "label": "mchims nam mkha' grags (3977)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
-        "label": "ze'u grags pa brtson 'grus (6519)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex107012023-10-06-110731 (Stages of the Path Lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        12
-      ]
-    },
-    {
       "id": 4571,
       "label": "ze'u grags pa shes rab (4065) student of ze'u grags pa brtson 'grus (6519)",
       "subj": {
@@ -409,34 +434,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3382,
-      "label": "mchims nam mkha' grags (3977) ordinator of ze'u grags pa brtson 'grus (6519)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
-        "label": "mchims nam mkha' grags (3977)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
-        "label": "ze'u grags pa brtson 'grus (6519)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: Appendix 3, 236. mChims was \"mkhan po\" in the novice ordination and full ordination (in 1272) of Ze'u 'Dul 'dzin grags  at sNar thang (ID:4411).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1272",
-      "end": "1272"
     },
     {
       "id": 4677,
@@ -467,11 +464,11 @@
       "end": null
     },
     {
-      "id": 3386,
-      "label": "ze'u grags pa rgyal mtshan (6133) ordinator of ze'u grags pa brtson 'grus (6519)",
+      "id": 7463,
+      "label": "mchims nam mkha' grags (3977) lineage predecessor of ze'u grags pa brtson 'grus (6519)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6133/",
-        "label": "ze'u grags pa rgyal mtshan (6133)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -487,12 +484,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: 145, n. 301 and Appendix 3, 236. Ze'u Grags pa rgyal mtshan was \"las kyi slob dpon\" in the full ordination of Ze'u 'Dul 'dzin grags at sNar thang (ID:4411) in 1272.",
-      "tei_refs": "",
+      "zotero_refs": "",
+      "tei_refs": "ex107012023-10-06-110731 (Stages of the Path Lineage)",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "1272",
-      "end": "1272"
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
     }
   ],
   "end_date_to": "1315-12-31",

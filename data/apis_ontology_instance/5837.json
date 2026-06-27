@@ -2,13 +2,13 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5837/",
   "relations": [
     {
-      "id": 1829,
-      "label": "blo ldan shes rab kyi rnam thar (2) (4458) has source blo ldan shes rab kyi rnam thar (1) (5837)",
+      "id": 1827,
+      "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459) has as an instance blo ldan shes rab kyi rnam thar (1) (5837)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4458/",
-        "label": "blo ldan shes rab kyi rnam thar (2) (4458)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4459/",
+        "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5837/",
@@ -22,9 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex3032023-07-1009-32-56",
-      "support_notes": "Instance (ID:4458) repeats the owner colophon by 'Phags pa (ID:5838), but it appears in the same script as the main text.",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -58,13 +58,13 @@
       "end": null
     },
     {
-      "id": 1827,
-      "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459) has as an instance blo ldan shes rab kyi rnam thar (1) (5837)",
+      "id": 1829,
+      "label": "blo ldan shes rab kyi rnam thar (2) (4458) has source blo ldan shes rab kyi rnam thar (1) (5837)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4459/",
-        "label": "'jig rten mig gcig blo ldan shes rab kyi rnam thar (4459)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4458/",
+        "label": "blo ldan shes rab kyi rnam thar (2) (4458)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5837/",
@@ -78,9 +78,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex3032023-07-1009-32-56",
+      "support_notes": "Instance (ID:4458) repeats the owner colophon by 'Phags pa (ID:5838), but it appears in the same script as the main text.",
       "confidence": "Positive",
       "start": null,
       "end": null

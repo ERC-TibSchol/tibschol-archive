@@ -62,34 +62,6 @@
       ]
     },
     {
-      "id": 521,
-      "label": "khyung po grags se (4294) other relation to dwags po dbang rgyal (3792)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4294/",
-        "label": "khyung po grags se (4294)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3792/",
-        "label": "dwags po dbang rgyal (3792)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 36,
       "label": "rngog blo ldan shes rab (3786) other relation to dwags po dbang rgyal (3792)",
       "subj": {
@@ -116,6 +88,34 @@
       "confidence": "Positive",
       "start": "1076",
       "end": "1076"
+    },
+    {
+      "id": 521,
+      "label": "khyung po grags se (4294) other relation to dwags po dbang rgyal (3792)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4294/",
+        "label": "khyung po grags se (4294)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3792/",
+        "label": "dwags po dbang rgyal (3792)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": null,

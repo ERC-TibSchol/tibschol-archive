@@ -30,35 +30,6 @@
       "end": null
     },
     {
-      "id": 3307,
-      "label": "la stod pa dkon mchog mkhar (3819) active at gog mo (6506)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3819/",
-        "label": "la stod pa dkon mchog mkhar (3819)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6506/",
-        "label": "gog mo (6506)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 538. La stod is credited with the foundation of Gog mo, but other sources attribute it to 'Bre (ID:3807).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3306,
       "label": "'bre shes rab 'bar (3807) active at gog mo (6506)",
       "subj": {
@@ -83,6 +54,35 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3307,
+      "label": "la stod pa dkon mchog mkhar (3819) active at gog mo (6506)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3819/",
+        "label": "la stod pa dkon mchog mkhar (3819)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6506/",
+        "label": "gog mo (6506)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 538. La stod is credited with the foundation of Gog mo, but other sources attribute it to 'Bre (ID:3807).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []

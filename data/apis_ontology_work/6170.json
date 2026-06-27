@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6170/",
   "relations": [
     {
-      "id": 2549,
-      "label": "gsang phu ba blo gros mtshungs med (3896) teaches (unidentified) tshad ma bsdus pa (6170)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
-        "label": "gsang phu ba blo gros mtshungs med (3896)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6170/",
-        "label": "(unidentified) tshad ma bsdus pa (6170)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 630 (gsang phu ba blo gros mtshungs med la rnam nges dang | byams chos lnga | spyod 'jug tshad ma bsdus pa | snyan ngag dpag bsam 'khri shing rnams zhus). Taught to g.Yag sde paN chen brtson 'grus dar rgyas (ID:3899) and Zhwa dmar pa Grags pa seng ge (ID:6161).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2544,
       "label": "Anonymous (4593) author of (unidentified) tshad ma bsdus pa (6170)",
       "subj": {
@@ -79,6 +51,34 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[R894SIKE]: 630 (gsang phu ba blo gros mtshungs med la rnam nges dang | byams chos lnga | spyod 'jug tshad ma bsdus pa | snyan ngag dpag bsam 'khri shing rnams zhus). With gSang phu ba Blo gros mtshungs med (ID: 3896).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2549,
+      "label": "gsang phu ba blo gros mtshungs med (3896) teaches (unidentified) tshad ma bsdus pa (6170)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
+        "label": "gsang phu ba blo gros mtshungs med (3896)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6170/",
+        "label": "(unidentified) tshad ma bsdus pa (6170)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 630 (gsang phu ba blo gros mtshungs med la rnam nges dang | byams chos lnga | spyod 'jug tshad ma bsdus pa | snyan ngag dpag bsam 'khri shing rnams zhus). Taught to g.Yag sde paN chen brtson 'grus dar rgyas (ID:3899) and Zhwa dmar pa Grags pa seng ge (ID:6161).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

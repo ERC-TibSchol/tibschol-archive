@@ -87,6 +87,35 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 4867,
+      "label": "gsang mda' ba sangs rgyas chos skyong (6304) active at gsang mda' grong (4340)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6304/",
+        "label": "gsang mda' ba sangs rgyas chos skyong (6304)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4340/",
+        "label": "gsang mda' grong (4340)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "His name suggests he originates or was active at gSang mda'.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 4868,
       "label": "gsang mda' ba chos kyi rgyal mtshan (3937) active at gsang mda' grong (4340)",
       "subj": {
@@ -142,35 +171,6 @@
       "confidence": "Positive",
       "start": "after 1475",
       "end": "before 1625",
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 4867,
-      "label": "gsang mda' ba sangs rgyas chos skyong (6304) active at gsang mda' grong (4340)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6304/",
-        "label": "gsang mda' ba sangs rgyas chos skyong (6304)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4340/",
-        "label": "gsang mda' grong (4340)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "His name suggests he originates or was active at gSang mda'.",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
       "subject_of_teaching_vocab": []
     }
   ],

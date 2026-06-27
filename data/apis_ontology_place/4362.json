@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4362/",
   "relations": [
     {
+      "id": 7761,
+      "label": "bri'u las (4362) located within gnyal (6238)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4362/",
+        "label": "bri'u las (4362)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6238/",
+        "label": "gnyal (6238)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1251,
       "label": "tshad ma yid kyi mun sel (1) (4502) written at bri'u las (4362)",
       "subj": {
@@ -24,7 +52,7 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "ex8032023-07-1011-35-30",
-      "support_notes": "",
+      "support_notes": "It is also possible that this colophon is that of the first written version, which was then copied onto later versions.",
       "confidence": "Positive",
       "start": null,
       "end": null

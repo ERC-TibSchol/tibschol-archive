@@ -58,34 +58,6 @@
       "end": null
     },
     {
-      "id": 682,
-      "label": "dge ba'i bshes gnyen kun dga' rgyal mtshan (3929) author of mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3929/",
-        "label": "dge ba'i bshes gnyen kun dga' rgyal mtshan (3929)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4663/",
-        "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex074012025-11-2510-59-48",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2249,
       "label": "rgyal ba bzang po (4075) author of mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663)",
       "subj": {
@@ -107,8 +79,36 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[JZP4CZRX], bdr:P3963",
-      "tei_refs": "",
-      "support_notes": "However, the name rGyal ba bzang po appears in the colophon, but is not that of the author.",
+      "tei_refs": "ex074012025-11-2510-59-48",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7763,
+      "label": "dge ba'i bshes gnyen kun dga' rgyal mtshan (3929) author of mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3929/",
+        "label": "dge ba'i bshes gnyen kun dga' rgyal mtshan (3929)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4663/",
+        "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex074012025-11-2510-59-48",
+      "support_notes": "BDRC says he is the author of mNgon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (ID:4663), but we understand the colophon to say he was the one who requested the text, the author is rGyal ba bzang po (ID:4075). See the excerpt for our translation of the colophon.",
       "confidence": "Negative",
       "start": null,
       "end": null

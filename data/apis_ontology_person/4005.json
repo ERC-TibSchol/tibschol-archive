@@ -230,37 +230,6 @@
       "end": null
     },
     {
-      "id": 4980,
-      "label": "bsod nams rgyal mtshan (2) (7128) requests snar thang bsam gtan bzang po (4005)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7128/",
-        "label": "bsod nams rgyal mtshan (2) (7128)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4005/",
-        "label": "snar thang bsam gtan bzang po (4005)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FZ6N88AU]: 407. Request composition of work (ID:7016).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        19
-      ]
-    },
-    {
       "id": 249,
       "label": "mchims blo bzang grags pa (4007) lineage predecessor of snar thang bsam gtan bzang po (4005)",
       "subj": {
@@ -289,6 +258,37 @@
       "end": null,
       "subject_of_teaching_vocab": [
         17
+      ]
+    },
+    {
+      "id": 4980,
+      "label": "bsod nams rgyal mtshan (2) (7128) requests snar thang bsam gtan bzang po (4005)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7128/",
+        "label": "bsod nams rgyal mtshan (2) (7128)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4005/",
+        "label": "snar thang bsam gtan bzang po (4005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FZ6N88AU]: 407. Request composition of work (ID:7016).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        19
       ]
     }
   ],
