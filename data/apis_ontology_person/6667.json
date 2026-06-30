@@ -92,6 +92,62 @@
       "end": null
     },
     {
+      "id": 7779,
+      "label": "jinamitra (6667) translator of abhidharmako\u015bak\u0101rik\u0101 (3761)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6667/",
+        "label": "jinamitra (6667)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3761/",
+        "label": "abhidharmako\u015bak\u0101rik\u0101 (3761)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3YG8BVSZ]: 42-43.",
+      "tei_refs": "",
+      "support_notes": "With ska ba dpal brtsegs (ID:4222).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7780,
+      "label": "jinamitra (6667) translator of abhidharmako\u015babh\u0101\u1e63ya (6974)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6667/",
+        "label": "jinamitra (6667)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6974/",
+        "label": "abhidharmako\u015babh\u0101\u1e63ya (6974)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3YG8BVSZ]: 42-43.",
+      "tei_refs": "",
+      "support_notes": "With ska ba dpal brtsegs (ID:4222).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4560,
       "label": "p\u016br\u1e47avardhana (6975) lineage predecessor of jinamitra (6667)",
       "subj": {
@@ -114,6 +170,37 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "ex8001_2024-11-1408-36-05 (Abhidharmasamuccaya lineage)\r\nex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)\r\nex114012026-03-1113-33-19 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 7776,
+      "label": "d\u0101na\u015b\u012bla (1) (8434) lineage predecessor of jinamitra (6667)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8434/",
+        "label": "d\u0101na\u015b\u012bla (1) (8434)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6667/",
+        "label": "jinamitra (6667)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3YG8BVSZ]: 45 and Appendix 2 (based on the Fifth Dalai Lama's thob yig). Lineage of the Abhidharmako\u015ba (ID:3761).",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

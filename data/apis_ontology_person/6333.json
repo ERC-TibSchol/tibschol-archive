@@ -1,0 +1,80 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6333/",
+  "relations": [
+    {
+      "id": 2907,
+      "label": "lha sa ba phun tshogs chos ldan (6333) active at gsang phu gling smad (6158)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6333/",
+        "label": "lha sa ba phun tshogs chos ldan (6333)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6158/",
+        "label": "gsang phu gling smad (6158)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1725-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1725-12-31",
+      "start_date_to": null,
+      "start_date_from": "1600-01-01",
+      "start_date_sort": "1600-01-01",
+      "zotero_refs": "[MPRU5QUC]: 211. Abbot of gSang phu ne'u thog monastery (48th abbot of lower college).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1600",
+      "end": "before 1725",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4880,
+      "label": "lha sa ba phun tshogs chos ldan (6333) active at lha sa (4334)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6333/",
+        "label": "lha sa ba phun tshogs chos ldan (6333)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4334/",
+        "label": "lha sa (4334)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "His name suggests he originated from or was active at lHa sa.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1725-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1725-12-31",
+  "start_date_to": null,
+  "start_date_from": "1580-01-01",
+  "start_date_sort": "1580-01-01",
+  "tibetan_transliteration": "\u0f63\u0fb7\u0f0b\u0f66\u0f0b\u0f56\u0f0b\u0f55\u0f74\u0f53\u0f0b\u0f5a\u0f7c\u0f42\u0f66\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f63\u0fa1\u0f53",
+  "comments": "Fl. mid 17th c.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": true,
+  "start": "after 1580",
+  "end": "before 1725",
+  "name": "lha sa ba phun tshogs chos ldan",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

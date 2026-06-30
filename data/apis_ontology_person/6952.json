@@ -1,0 +1,213 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6952/",
+  "relations": [
+    {
+      "id": 4430,
+      "label": "rnal 'byor pa byang chub rin chen (6952) active at rwa sgreng dgon pa (4397)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6952/",
+        "label": "rnal 'byor pa byang chub rin chen (6952)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4397/",
+        "label": "rwa sgreng dgon pa (4397)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1078-12-31",
+      "end_date_from": "1077-01-01",
+      "end_date_sort": "1077-12-31",
+      "start_date_to": "1015-12-31",
+      "start_date_from": "1015-01-01",
+      "start_date_sort": "1015-07-02",
+      "zotero_refs": "[D6HTUYUR]: 269. Abbot of Reting before dGon pa ba (ID:6689).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1015",
+      "end": "after 1077 before 1078",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4752,
+      "label": "rnal 'byor pa byang chub rin chen (6952) student of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6952/",
+        "label": "rnal 'byor pa byang chub rin chen (6952)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[64YBVNDG]: 639.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4431,
+      "label": "dgon pa ba dbang phyug rgyal mtshan (6689) student of rnal 'byor pa byang chub rin chen (6952)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6689/",
+        "label": "dgon pa ba dbang phyug rgyal mtshan (6689)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6952/",
+        "label": "rnal 'byor pa byang chub rin chen (6952)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[D6HTUYUR]: 269-270. As direct successor of rNal 'byor pa as abbot of Reting, dGon pa ba could have received the oral transmission of Madhyamaka instructions.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 4753,
+      "label": "Anonymous (11) (7028) quotes with name rnal 'byor pa byang chub rin chen (6952)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7028/",
+        "label": "Anonymous (11) (7028)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6952/",
+        "label": "rnal 'byor pa byang chub rin chen (6952)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[64YBVNDG]: 639.",
+      "tei_refs": "",
+      "support_notes": "In work (ID:5119).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 5243,
+      "label": "Anonymous (17) (7173) quotes with name rnal 'byor pa byang chub rin chen (6952)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7173/",
+        "label": "Anonymous (17) (7173)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6952/",
+        "label": "rnal 'byor pa byang chub rin chen (6952)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex190522024-11-19-14-48",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5344,
+      "label": "spyan snga tshul khrims 'bar (3830) student of rnal 'byor pa byang chub rin chen (6952)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3830/",
+        "label": "spyan snga tshul khrims 'bar (3830)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6952/",
+        "label": "rnal 'byor pa byang chub rin chen (6952)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 347 (de [='brom ston] rjes [spyan snga] rnal 'byor pa | dgon pa ba | rnal 'byor pa shes rab rdo rje rnams la bsten |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1078-12-31",
+  "end_date_from": "1077-01-01",
+  "end_date_sort": "1077-12-31",
+  "start_date_to": "1015-12-31",
+  "start_date_from": "1015-01-01",
+  "start_date_sort": "1015-07-02",
+  "tibetan_transliteration": "\u0f62\u0fa3\u0f63\u0f0b\u0f60\u0f56\u0fb1\u0f7c\u0f62\u0f0b\u0f54\u0f0b\u0f56\u0fb1\u0f44\u0f0b\u0f46\u0f74\u0f56\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f46\u0f7a\u0f53",
+  "comments": "Ati\u015ba's attendent. See [Q922IUFM]: 1:102.",
+  "alternative_names_legacy": "a mes byang chub rin chen\r\nrnal 'byor pa chen po byang chub rin chen\r\nrnal 'byor pa",
+  "alternative_names": [
+    {
+      "label": "a mes byang chub rin chen",
+      "language": "bo"
+    },
+    {
+      "label": "rnal 'byor pa chen po byang chub rin chen",
+      "language": "bo"
+    },
+    {
+      "label": "rnal 'byor pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P3461",
+  "review": false,
+  "start": "1015",
+  "end": "after 1077 before 1078",
+  "name": "rnal 'byor pa byang chub rin chen",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

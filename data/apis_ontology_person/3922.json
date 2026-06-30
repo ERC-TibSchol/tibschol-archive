@@ -1,0 +1,113 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3922/",
+  "relations": [
+    {
+      "id": 169,
+      "label": "mus srad pa chen po (3922) student of bu ri ba byang chub skyabs (3858)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3922/",
+        "label": "mus srad pa chen po (3922)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3858/",
+        "label": "bu ri ba byang chub skyabs (3858)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2737,
+      "label": "mus srad pa chen po (3922) student of 'jad pa byang chub skyabs (3864)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3922/",
+        "label": "mus srad pa chen po (3922)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3864/",
+        "label": "'jad pa byang chub skyabs (3864)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MGPRHX73]: 55, 56, n. 21.",
+      "tei_refs": "",
+      "support_notes": "Teaching: Bodhicary\u0101vat\u0101ra.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        48
+      ]
+    },
+    {
+      "id": 2741,
+      "label": "phywa pa chos kyi seng ge (3831) lineage predecessor of mus srad pa chen po (3922)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3922/",
+        "label": "mus srad pa chen po (3922)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MGPRHX73]: 56, n. 21. Teaching: Bodhicary\u0101vat\u0101ra (ID:3727).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f58\u0f74\u0f66\u0f0b\u0f66\u0fb2\u0f51\u0f0b\u0f54\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f54\u0f7c",
+  "comments": null,
+  "alternative_names_legacy": null,
+  "alternative_names": null,
+  "external_links": null,
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "mus srad pa chen po",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

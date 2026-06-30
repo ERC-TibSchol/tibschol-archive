@@ -1,0 +1,152 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3942/",
+  "relations": [
+    {
+      "id": 3820,
+      "label": "rma tsho byang chub rdo rje (3942) active at 'o ljang mdo (6710)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3942/",
+        "label": "rma tsho byang chub rdo rje (3942)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6710/",
+        "label": "'o ljang mdo (6710)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 40.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4362,
+      "label": "rma tsho byang chub rdo rje (3942) student of rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3942/",
+        "label": "rma tsho byang chub rdo rje (3942)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3941/",
+        "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[EG6VZ8JK]: 25, translated from [8GL7ZT7Y]: 14b6 (rgya'i slob ma rma gtso byang chub rdo rje las chos 'dul ba shin tu mkhas par bslabs).\r\n[R894SIKE]: 108.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7603,
+      "label": "rma tsho byang chub rdo rje (3942) author of 'dul ba 'od ldan gyi stod smad kyi ti ka (8392)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3942/",
+        "label": "rma tsho byang chub rdo rje (3942)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8392/",
+        "label": "'dul ba 'od ldan gyi stod smad kyi ti ka (8392)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex031022026-04-1608-43-48",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 181,
+      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) student of rma tsho byang chub rdo rje (3942)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3942/",
+        "label": "rma tsho byang chub rdo rje (3942)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 109 (bya 'dul 'dzin .... rgya dang rma tsho bla zur du byas pa la 'dul ba mkhas par bslabs |). Subject: Monastic rules.\r\n[W4T5ZMUP]: 40. Studies in 'O ljang mdo (ID:6710).\r\n[VKBZTBWN], fol. 3b6 (rma tsho'i slob ma bya 'dul 'dzin yin la |)\r\n[EG6VZ8JK]: 25, translated from [8GL7ZT7Y]: 14b6 (yo ga rnal \u2018byor gyi rgyud kyang mang po rgya'i slob ma rma gtso byang chub rdo rje las chos 'dul ba shin tu mkhas par bslabs).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
+    }
+  ],
+  "end_date_to": "1201-12-31",
+  "end_date_from": "1101-01-01",
+  "end_date_sort": "1151-07-02",
+  "start_date_to": "1121-12-31",
+  "start_date_from": "1020-01-01",
+  "start_date_sort": "1070-12-31",
+  "tibetan_transliteration": "\u0f62\u0fa8\u0f0b\u0f5a\u0f7c\u0f0b\u0f56\u0fb1\u0f44\u0f0b\u0f46\u0f74\u0f56\u0f0b\u0f62\u0fa1\u0f7c\u0f0b\u0f62\u0f97\u0f7a",
+  "comments": "One of the \"four pillars\" (ka ba bzhi) of rGya 'dul 'dzin (ID:3941).",
+  "alternative_names_legacy": "rma gtso byang chub rdo rje\r\nrma chos kyi byang chub\r\nrma chos byang chub rdo rje",
+  "alternative_names": [
+    {
+      "label": "rma gtso byang chub rdo rje",
+      "language": "bo"
+    },
+    {
+      "label": "rma chos kyi byang chub",
+      "language": "bo"
+    },
+    {
+      "label": "rma chos byang chub rdo rje",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P3064",
+  "review": false,
+  "start": "after 1020 before 1121",
+  "end": "after 1101 before 1201",
+  "name": "rma tsho byang chub rdo rje",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

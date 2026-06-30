@@ -1,0 +1,51 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4023/",
+  "relations": [
+    {
+      "id": 259,
+      "label": "chu mig pa seng ge dpal (4018) student of rgya shes rab dbang phyug (4023)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4018/",
+        "label": "chu mig pa seng ge dpal (4018)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4023/",
+        "label": "rgya shes rab dbang phyug (4023)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q8FCH7LF]: 296.",
+      "tei_refs": "ex87012023-03-0911-03-47",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "1220-01-01",
+  "end_date_sort": "1220-01-01",
+  "start_date_to": "1260-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1260-12-31",
+  "tibetan_transliteration": "\u0f62\u0f92\u0fb1\u0f0b\u0f64\u0f7a\u0f66\u0f0b\u0f62\u0f56\u0f0b\u0f51\u0f56\u0f44\u0f0b\u0f55\u0fb1\u0f74\u0f42",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "before 1260",
+  "end": "after 1220",
+  "name": "rgya shes rab dbang phyug",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

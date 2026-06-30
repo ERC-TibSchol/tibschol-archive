@@ -1,0 +1,115 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4008/",
+  "relations": [
+    {
+      "id": 330,
+      "label": "rin chen sangs rgyas mgon (4008) lineage predecessor of zhwa lu pa rin chen bsod nams 'phel ba (4129)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4008/",
+        "label": "rin chen sangs rgyas mgon (4008)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4129/",
+        "label": "zhwa lu pa rin chen bsod nams 'phel ba (4129)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex119012024-11-2216-57-43 (Abhidharmako\u015ba lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 250,
+      "label": "snar thang bsam gtan bzang po (4005) lineage predecessor of rin chen sangs rgyas mgon (4008)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4005/",
+        "label": "snar thang bsam gtan bzang po (4005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4008/",
+        "label": "rin chen sangs rgyas mgon (4008)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex119012024-11-2216-57-43 (Abhidharmako\u015ba lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 4592,
+      "label": "zhwa lu pa rin chen bsod nams 'phel ba (4129) student of rin chen sangs rgyas mgon (4008)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4129/",
+        "label": "zhwa lu pa rin chen bsod nams 'phel ba (4129)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4008/",
+        "label": "rin chen sangs rgyas mgon (4008)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex119012024-11-2216-48-49",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "1438-01-01",
+  "end_date_sort": "1438-01-01",
+  "start_date_to": "1350-12-31",
+  "start_date_from": "1300-01-01",
+  "start_date_sort": "1325-07-02",
+  "tibetan_transliteration": "\u0f62\u0f72\u0f53\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f66\u0f44\u0f66\u0f0b\u0f62\u0f92\u0fb1\u0f66\u0f0b\u0f58\u0f42\u0f7c\u0f53",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": true,
+  "start": "after 1300 before 1350",
+  "end": "after 1438",
+  "name": "rin chen sangs rgyas mgon",
+  "gender": "male",
+  "nationality": "Tibetan"
+}
