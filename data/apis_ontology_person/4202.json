@@ -1,0 +1,147 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4202/",
+  "relations": [
+    {
+      "id": 400,
+      "label": "rgya mching ru ba shes rab dbang phyug (4202) student of gnyal zhig po 'jam pa'i rdo rje (3887)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4202/",
+        "label": "rgya mching ru ba shes rab dbang phyug (4202)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
+        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE] 403: (zhang g.ye ba'i slob ma gnyal pa zhig po | de'i slob ma rgya 'ching ru ba |).\r\n[R894SIKE]: 407 (gnyal zhig gi bu dgu zhes pa byung ste | bzang rings| phu thang dar dkon | gtsang pa gru gu gsum snga tshar | 'u yug pa bsod nams seng ge | bo dong rin rtse | gtsang pa jo nam gsum bar tshar | rgya 'ching ru ba| 'jam gsar | skyel nag grags seng gsum phyi tshar ro ||).\r\n \t[R894SIKE]: 414 (gnyal zhig gi slob ma rgya 'ching ru bas bde ba can btab |).\r\n[EG6VZ8JK]: 25, translated from [8GL7ZT7Y]: 15a2-3. rGya ston was one of the 18 disciples of gNyal zhig who composed commentaries on epistemology and the perfection of wisdom.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2926,
+      "label": "rgya mching ru ba shes rab dbang phyug (4202) active at gsang phu gling stod (6172)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4202/",
+        "label": "rgya mching ru ba shes rab dbang phyug (4202)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
+        "label": "gsang phu gling stod (6172)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1300-12-31",
+      "end_date_from": "1223-01-01",
+      "end_date_sort": "1261-12-31",
+      "start_date_to": null,
+      "start_date_from": "1205-01-01",
+      "start_date_sort": "1205-01-01",
+      "zotero_refs": "[7FZ3B926]: 113. Abbot of gSang phu ne'u thog's monastery (upper college). Since he founded bDe ba can monastery in 1205 and was called from his position as the abbot there, he must have taken the see of gSang phu after 1205.\r\n[MPRU5QUC]: 211. Abbot of gSang phu ne'u thog monastery (fourth abbot of upper college) for 18 years.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1205",
+      "end": "after 1223 before 1300",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3910,
+      "label": "rgya mching ru ba shes rab dbang phyug (4202) active at rwa stod bde ba can (5652)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4202/",
+        "label": "rgya mching ru ba shes rab dbang phyug (4202)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5652/",
+        "label": "rwa stod bde ba can (5652)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 414 (gnyal zhig gi slob ma rgya 'ching ru bas bde ba can btab |).\r\n[8GL7ZT7Y]: 25, translated from [8GL7ZT7Y]: 15a3 (rgya ston phyin ru pas snye thang bde ba can du bshad grwa btugs |). Established a monastic university.\r\n[CCSBSVCA]: 169, n. 421.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1205",
+      "end": "1205",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 255,
+      "label": "chu mig pa seng ge dpal (4018) student of rgya mching ru ba shes rab dbang phyug (4202)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4018/",
+        "label": "chu mig pa seng ge dpal (4018)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4202/",
+        "label": "rgya mching ru ba shes rab dbang phyug (4202)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q8FCH7LF]: 296, n. 42. \"Dpa' bo Gtsug lag phreng ba (1504-1566) relates that although Chu mig pa was a scholar at Snar thang, he had come to Rgya M/'ching ru ba [in the Gling stod college of Gsang phu ne'u thog] to debate with him. Unable to defeat him, he became his disciple.\"",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1300-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1300-12-31",
+  "start_date_to": null,
+  "start_date_from": "1100-01-01",
+  "start_date_sort": "1100-01-01",
+  "tibetan_transliteration": "\u0f62\u0f92\u0fb1\u0f0b\u0f58\u0f46\u0f72\u0f44\u0f0b\u0f62\u0f74\u0f0b\u0f56\u0f0b\u0f64\u0f7a\u0f66\u0f0b\u0f62\u0f56\u0f0b\u0f51\u0f56\u0f44\u0f0b\u0f55\u0fb1\u0f74\u0f42",
+  "comments": "Fl. late 12th to early 13th c. Fourth abbot of gSang phu gling stod (ID:6172).",
+  "alternative_names_legacy": "rgya 'ching ru ba\r\nrgya ston phying ru pa",
+  "alternative_names": [
+    {
+      "label": "rgya 'ching ru ba",
+      "language": "bo"
+    },
+    {
+      "label": "rgya ston phying ru pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P6472",
+  "review": false,
+  "start": "after 1100",
+  "end": "before 1300",
+  "name": "rgya mching ru ba shes rab dbang phyug",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

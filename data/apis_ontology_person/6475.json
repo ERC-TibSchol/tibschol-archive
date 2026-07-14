@@ -1,0 +1,80 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6475/",
+  "relations": [
+    {
+      "id": 3199,
+      "label": "zhu ston gzhon nu brtson 'grus (6475) student of lo ston rdo rje dbang phyug (6474)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6475/",
+        "label": "zhu ston gzhon nu brtson 'grus (6475)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6474/",
+        "label": "lo ston rdo rje dbang phyug (6474)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 531.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3200,
+      "label": "zhu ston gzhon nu brtson 'grus (6475) active at chu mig (6429)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6475/",
+        "label": "zhu ston gzhon nu brtson 'grus (6475)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6429/",
+        "label": "chu mig (6429)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 531. was assigned the control of Chu mig ring mo by Lo ston (ID:6474)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f5e\u0f74\u0f0b\u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f42\u0f5e\u0f7c\u0f53\u0f0b\u0f53\u0f74\u0f0b\u0f56\u0f62\u0fa9\u0f7c\u0f53\u0f0b\u0f60\u0f42\u0fb2\u0f74\u0f66",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "zhu ston gzhon nu brtson 'grus",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

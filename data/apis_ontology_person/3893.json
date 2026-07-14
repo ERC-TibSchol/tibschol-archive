@@ -1,0 +1,454 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+  "relations": [
+    {
+      "id": 3175,
+      "label": "'jam dbyangs 'od zer mgon po (3893) student of jo bo nam mkha' dpal (6461)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6461/",
+        "label": "jo bo nam mkha' dpal (6461)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3WFNMIGQ]: 149, n. 19.\r\n[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a4-5 (yang gnyal zhig gi slob ma jo bo nam mkha' dpal zhes pas nyang stod du bshad nyan mdzad pa'i slob ma mkhas pa 'od zer mgon po byung |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2848,
+      "label": "'jam dbyangs 'od zer mgon po (3893) active at gsang phu gling smad (6158)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6158/",
+        "label": "gsang phu gling smad (6158)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1350-12-31",
+      "end_date_from": "1232-01-01",
+      "end_date_sort": "1291-07-01",
+      "start_date_to": "1232-12-31",
+      "start_date_from": null,
+      "start_date_sort": "1232-12-31",
+      "zotero_refs": "[MPRU5QUC]: 209. Abbot of gSang phu ne'u thog monastery (7th abbot of lower college) for 35 years.\r\n[3WFNMIGQ]: 149, n. 19. Abbot of gSang phu Gling smad for 32 years.\r\n[8GL7ZT7Y]: 26, translated from [8GL7ZT7Y]: 15a5 (des gsang phu gling smad kyi gdan sa lo sum cu so gnyis mdzad pa'i...).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "before 1232",
+      "end": "after 1232 before 1350",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4013,
+      "label": "'jam dbyangs 'od zer mgon po (3893) active at sgros rnying grwa tshang (6043)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6043/",
+        "label": "sgros rnying grwa tshang (6043)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3WFNMIGQ]: 149, n. 19. Founded sGros rnying.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 627,
+      "label": "'jam dbyangs 'od zer mgon po (3893) author of mngon par rtogs pa'i rgyan gyi rnam par 'byed pa'i 'grel ba (4580)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4580/",
+        "label": "mngon par rtogs pa'i rgyan gyi rnam par 'byed pa'i 'grel ba (4580)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:4579) in [8H6M69W4], No. 15479: 'od zer mgon po.",
+      "tei_refs": "ex15012023-09-15-113344",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5785,
+      "label": "'jam dbyangs 'od zer mgon po (3893) lineage predecessor of 'jam dbyangs shakya gzhon nu (3894)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 321, n. 153. Based on [8GL7ZT7Y]. Transmission lineage of the Ratnagotravibh\u0101ga (ID:3749).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10,
+        56
+      ]
+    },
+    {
+      "id": 4369,
+      "label": "'jam dbyangs 'od zer mgon po (3893) active at nyang stod (5541)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5541/",
+        "label": "nyang stod (5541)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8GL7ZT7Y]: 26, translated from [8GL7ZT7Y]: 15a4 (yang gnyal zhig gi slob ma jo bo nam mkha' dpal zhes pas nyang stod du bshad nyan mdzad pa'i slob ma mkhas pa 'od zer mgon po byung |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4696,
+      "label": "'jam dbyangs 'od zer mgon po (3893) quotes with name ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex15012024-11-08-12-26",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
+      "id": 4697,
+      "label": "'jam dbyangs 'od zer mgon po (3893) quotes with name jo bo a du la (6949)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6949/",
+        "label": "jo bo a du la (6949)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex15012024-11-08-12-06\r\nex15012024-11-08-12-062",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
+      "id": 4698,
+      "label": "'jam dbyangs 'od zer mgon po (3893) quotes with name rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex15012024-11-08-12-20\r\nex15012024-11-08-12-201\r\nex15012024-11-08-12-202",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
+      "id": 4699,
+      "label": "'jam dbyangs 'od zer mgon po (3893) quotes with name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex15012024-11-08-11-29\r\nex15012024-11-08-11-292\r\nex15012024-11-08-11-293\r\nex15012024-11-08-11-294\r\nex15012024-11-08-11-295",
+      "support_notes": "The references are all to \"'bre chen po,\" who is understood to be 'Bre Shes rab 'bar (ID:3807), known for his composition in the domain of the Perfection of Wisdom literature.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
+      "id": 155,
+      "label": "'jam dbyangs shakya gzhon nu (3894) student of 'jam dbyangs 'od zer mgon po (3893)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[U9BU5AFU]: 1050.\r\n[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a5 (des gsang phu gling smad kyi gdan sa lo sum cu so gnyis mdzad pa'i slob ma la | shAkya gzhon nu dang | byang chub gzhon nu gnyis byon pa las..).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 156,
+      "label": "kha rag pa byang chub gzhon nu (3895) student of 'jam dbyangs 'od zer mgon po (3893)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3895/",
+        "label": "kha rag pa byang chub gzhon nu (3895)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[U9BU5AFU]: 1050.\r\n[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a5 (des gsang phu gling smad kyi gdan sa lo sum cu so gnyis mdzad pa'i slob ma la | shAkya gzhon nu dang | byang chub gzhon nu gnyis byon pa las..).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2329,
+      "label": "grags pa rgya mtsho bde legs 'byung gnas (4024) student of 'jam dbyangs 'od zer mgon po (3893)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4024/",
+        "label": "grags pa rgya mtsho bde legs 'byung gnas (4024)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Name of person related to Grags pa rgya mtsho given as \"'jam dbyangs 'od zer mgon po.\"",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5786,
+      "label": "jo bo nam mkha' dpal (6461) lineage predecessor of 'jam dbyangs 'od zer mgon po (3893)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6461/",
+        "label": "jo bo nam mkha' dpal (6461)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 321, n. 153. Based on [8GL7ZT7Y]. Transmission lineage of the Ratnagotravibh\u0101ga (ID:3749).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10,
+        56
+      ]
+    }
+  ],
+  "end_date_to": "1350-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1350-12-31",
+  "start_date_to": null,
+  "start_date_from": "1200-01-01",
+  "start_date_sort": "1200-01-01",
+  "tibetan_transliteration": "\u0f60\u0f47\u0f58\u0f0b\u0f51\u0f56\u0fb1\u0f44\u0f66\u0f0b\u0f60\u0f7c\u0f51\u0f0b\u0f5f\u0f7a\u0f62\u0f0b\u0f58\u0f42\u0f7c\u0f53\u0f0b\u0f54\u0f7c",
+  "comments": "Seventh abbot of gSang phu lower monastery. [D5VJHLSN]: 19 mentions two 'Od zer mgon po of gSang phu, the abbot, fl. mid-to-late 1200s, and the author of a work on the Perfection of wisdom, fl. late 13th-early 14th c.?.",
+  "alternative_names_legacy": "sgros snying pa 'od zer mgon po\r\nsgros rnying pa 'od zer mgon po\r\nmkhas pa 'od zer mgon po",
+  "alternative_names": [
+    {
+      "label": "sgros snying pa 'od zer mgon po",
+      "language": "bo"
+    },
+    {
+      "label": "sgros rnying pa 'od zer mgon po",
+      "language": "bo"
+    },
+    {
+      "label": "mkhas pa 'od zer mgon po",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P8LS14991",
+  "review": false,
+  "start": "after 1200",
+  "end": "before 1350",
+  "name": "'jam dbyangs 'od zer mgon po",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

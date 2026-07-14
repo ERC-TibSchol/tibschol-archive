@@ -1,0 +1,398 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
+  "relations": [
+    {
+      "id": 251,
+      "label": "bzad pa ring mo dar ma tshul khrims (4011) student of gnyal zhig po 'jam pa'i rdo rje (3887)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
+        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
+        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 407 (gnyal zhig gi bu dgu zhes pa byung ste | bzang rings| phu thang dar dkon | gtsang pa gru gu gsum snga tshar | 'u yug pa bsod nams seng ge | bo dong rin rtse | gtsang pa jo nam gsum bar tshar | rgya 'ching ru ba | 'jam gsar | skyel nag grags seng gsum phyi tshar ro ||).\r\n[2V6H2FBU]: 28.\r\n[EG6VZ8JK]: 25, translated from [8GL7ZT7Y]: 15a2-3. Zang rings grags pa dar ma tshul khrims was one of the 18 disciples of gNyal zhig who composed commentaries on epistemology and the perfection of wisdom.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 730,
+      "label": "bzad pa ring mo dar ma tshul khrims (4011) author of chos mngon pa kun las btus pa'i rnam par bshad pa gsal ba'i rgyan (4752)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
+        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4752/",
+        "label": "chos mngon pa kun las btus pa'i rnam par bshad pa gsal ba'i rgyan (4752)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author in [8H6M69W4], No. 16109: bzad pa ring po",
+      "tei_refs": "ex41012024-09-1014-31-26",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2039,
+      "label": "bzad pa ring mo dar ma tshul khrims (4011) active at snye thang brag sna bkra shis (5662)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
+        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5662/",
+        "label": "snye thang brag sna bkra shis (5662)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex41012024-09-1014-31-26",
+      "support_notes": "Composition of work (ID:4752).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 4205,
+      "label": "bzad pa ring mo dar ma tshul khrims (4011) quotes with name rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
+        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex41012024-09-1014-28-24\r\nex41012025-05-0612-52-43",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4366,
+      "label": "bzad pa ring mo dar ma tshul khrims (4011) active at khro phu (6924)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
+        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6924/",
+        "label": "khro phu (6924)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 407 (bzang rings kyis khro phur bshad pa mdzad pas lho pa grub seng la sogs pa'i mkhas pa mang du tshar te |)\r\n[8GL7ZT7Y]: 25, translated from [8GL7ZT7Y]: 15a3 (zang rings grags pa dar ma tshul khrims kyis khro phur  bshad grwa btsugs |)\r\n \t[CTAI38G9]: 924. Founded a seminary at Khro phu monastery. Taught to sTag ston (ID:7684) and 'Ga' ba (/mgas pa/gab pa).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5212,
+      "label": "bzad pa ring mo dar ma tshul khrims (4011) quotes with name ngur smrig pa dar ma snying po (4291)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
+        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
+        "label": "ngur smrig pa dar ma snying po (4291)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex41012025-05-0612-57-09",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5213,
+      "label": "bzad pa ring mo dar ma tshul khrims (4011) quotes with name rog chos kyi brtson 'grus (4242)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
+        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
+        "label": "rog chos kyi brtson 'grus (4242)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex41012025-05-0612-55-06",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7415,
+      "label": "bzad pa ring mo dar ma tshul khrims (4011) lineage predecessor of bo dong rin po che brtson 'grus rdo rje (4296)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
+        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4296/",
+        "label": "bo dong rin po che brtson 'grus rdo rje (4296)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Rong ston pa (ID:6005)\u2019s main lineage of Abhisamay\u0101la\u1e43k\u0101ra (ID:3706) according to [VTFXMPC9]: xxi-xxii is: Thub pa chen po (ID:7966), Byams pa (ID:3747), Thogs med (ID:3756), dByig gnyen (ID:3758), 'Phags pa Grol sde (ID:3708), bTsun pa Grol sde (ID:5548), mChog gi sde (ID:8107), Dul ba'i sde (ID:7905), rNam snang bzang po (ID:8010), Seng ge bzang po (ID:3712), Sangs rgyas ye shes (ID:5830), Gu\u1e47amitra (ID: 8218), Ratnabhadra (Rin chen bzang po (ID:3784)), Shar phyogs pa Zla bzang (ID:8185), 'Bum phrag gsum pa (ID:5611), rNgog lo tsa ba Blo ldan shes rab (ID:3786), 'Bre Shes rab 'bar (ID:3807), Ar Byang chub ye shes (ID:3816), 'Dul 'dzin dKar mo gZhon nu tshul khrims (ID:3820), dKar chung ring mo Shes rab 'bum (ID:3821), Zhang g.ye pa Byang chub 'bum (ID:7146), 'Jam pa'i rdo rje (ID:3887), gZad rings Dar ma tshul khrims (ID:4011), brTson 'grus rdo rje (ID:4296), Rin po che [Khro phu ba?] (ID:7014), Lho pa Grub pa'i seng ge (ID:7651), Tshad ma'i skyes bu bSod nams mgon (ID:6925), Bu ston Rin chen grub (ID:5999), sGra tshad pa Rin chen rnam rgyal (ID:7772), g.Yag ston Sangs rgyas dpal (ID:6153), Rong ston (ID:6005). \r\n\r\n[VTFXMPC9]: xxi-xxii notes that Bu ston (ID:5999) records an \"Old Phar phyin lineage\" (phar phyin rnying ma) the 'Brom lugs, which is an alternative lineage between Haribhadra (ID:3712) and 'Bre Shes rab 'bar (ID:3807): Seng ge bzang po (ID:3712), Ku sa li che ba (ID: 7789), Ku sa li chung ba (ID:7790), gSer gling pa Chos kyi grags pa (ID:6840), Jo bo Ati\u015ba (ID:3745), 'Brom ston rGyal ba'i 'byung gnas (ID:3827), \u2018Brom sTong btsan Nam mgo bla ma (ID:8402), \u2018Bre chen po Shes rab \u2018bar (ID:3807).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
+    },
+    {
+      "id": 6384,
+      "label": "lho pa grub seng (7651) student of bzad pa ring mo dar ma tshul khrims (4011)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7651/",
+        "label": "lho pa grub seng (7651)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
+        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTAI38G9]: 924-925. \r\n[RA7ID7QP], P2846.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6385,
+      "label": "bo dong rin po che brtson 'grus rdo rje (4296) student of bzad pa ring mo dar ma tshul khrims (4011)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4296/",
+        "label": "bo dong rin po che brtson 'grus rdo rje (4296)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
+        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P10041.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6564,
+      "label": "spyil bu pa shes rab 'od zer (7684) student of bzad pa ring mo dar ma tshul khrims (4011)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7684/",
+        "label": "spyil bu pa shes rab 'od zer (7684)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
+        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTAI38G9]: 924. At Khro phu (ID:6924).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7414,
+      "label": "gnyal zhig po 'jam pa'i rdo rje (3887) lineage predecessor of bzad pa ring mo dar ma tshul khrims (4011)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
+        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
+        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Rong ston pa (ID:6005)\u2019s main lineage of Abhisamay\u0101la\u1e43k\u0101ra (ID:3706) according to [VTFXMPC9]: xxi-xxii is: Thub pa chen po (ID:7966), Byams pa (ID:3747), Thogs med (ID:3756), dByig gnyen (ID:3758), 'Phags pa Grol sde (ID:3708), bTsun pa Grol sde (ID:5548), mChog gi sde (ID:8107), Dul ba'i sde (ID:7905), rNam snang bzang po (ID:8010), Seng ge bzang po (ID:3712), Sangs rgyas ye shes (ID:5830), Gu\u1e47amitra (ID: 8218), Ratnabhadra (Rin chen bzang po (ID:3784)), Shar phyogs pa Zla bzang (ID:8185), 'Bum phrag gsum pa (ID:5611), rNgog lo tsa ba Blo ldan shes rab (ID:3786), 'Bre Shes rab 'bar (ID:3807), Ar Byang chub ye shes (ID:3816), 'Dul 'dzin dKar mo gZhon nu tshul khrims (ID:3820), dKar chung ring mo Shes rab 'bum (ID:3821), Zhang g.ye pa Byang chub 'bum (ID:7146), 'Jam pa'i rdo rje (ID:3887), gZad rings Dar ma tshul khrims (ID:4011), brTson 'grus rdo rje (ID:4296), Rin po che [Khro phu ba?] (ID:7014), Lho pa Grub pa'i seng ge (ID:7651), Tshad ma'i skyes bu bSod nams mgon (ID:6925), Bu ston Rin chen grub (ID:5999), sGra tshad pa Rin chen rnam rgyal (ID:7772), g.Yag ston Sangs rgyas dpal (ID:6153), Rong ston (ID:6005). \r\n\r\n[VTFXMPC9]: xxi-xxii notes that Bu ston (ID:5999) records an \"Old Phar phyin lineage\" (phar phyin rnying ma) the 'Brom lugs, which is an alternative lineage between Haribhadra (ID:3712) and 'Bre Shes rab 'bar (ID:3807): Seng ge bzang po (ID:3712), Ku sa li che ba (ID: 7789), Ku sa li chung ba (ID:7790), gSer gling pa Chos kyi grags pa (ID:6840), Jo bo Ati\u015ba (ID:3745), 'Brom ston rGyal ba'i 'byung gnas (ID:3827), \u2018Brom sTong btsan Nam mgo bla ma (ID:8402), \u2018Bre chen po Shes rab \u2018bar (ID:3807).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
+    }
+  ],
+  "end_date_to": "1300-12-31",
+  "end_date_from": "1200-01-01",
+  "end_date_sort": "1250-07-01",
+  "start_date_to": "1265-12-31",
+  "start_date_from": "1150-01-01",
+  "start_date_sort": "1208-01-01",
+  "tibetan_transliteration": "\u0f56\u0f5f\u0f51\u0f0b\u0f54\u0f0b\u0f62\u0f72\u0f44\u0f0b\u0f58\u0f7c\u0f0b\u0f51\u0f62\u0f0b\u0f58\u0f0b\u0f5a\u0f74\u0f63\u0f0b\u0f41\u0fb2\u0f72\u0f58\u0f66",
+  "comments": "One of the \"nine sons\" of gNyal zhig (ID:3887).",
+  "alternative_names_legacy": "bzad rings\r\ndar ma tshul khrims\r\ngzad ring dar ma tshul khrims\r\ngzad rings dar ma tshul khrims\r\nbzang rings\r\nzang rings grags pa dar ma tshul khrims",
+  "alternative_names": [
+    {
+      "label": "bzad rings",
+      "language": "bo"
+    },
+    {
+      "label": "dar ma tshul khrims",
+      "language": "bo"
+    },
+    {
+      "label": "gzad ring dar ma tshul khrims",
+      "language": "bo"
+    },
+    {
+      "label": "bzang rings",
+      "language": "bo"
+    },
+    {
+      "label": "zang rings grags pa dar ma tshul khrims",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P10041\r\nhttps://purl.bdrc.io/resource/P3JT13454\r\nhttps://sakyaresearch.org/persons/2846",
+  "review": false,
+  "start": "after 1150 before 1265",
+  "end": "after 1200 before 1300",
+  "name": "bzad pa ring mo dar ma tshul khrims",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

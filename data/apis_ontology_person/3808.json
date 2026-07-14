@@ -1,0 +1,138 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3808/",
+  "relations": [
+    {
+      "id": 55,
+      "label": "gtsang pa rin chen nam mkha' rdo rje (3808) student of rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3808/",
+        "label": "gtsang pa rin chen nam mkha' rdo rje (3808)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 357 (de nas [the subject is gtsang pa] sngags mtshan nyid kyi thos pa la 'di ma mdzad bya ba med | bla ma la | lo tsA ba rang yang rngog lo | gnyan lo | ba ri lo tsA | rwa lo | btsan kha po che ste lnga tsam la gtugs |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3367,
+      "label": "gtsang pa rin chen nam mkha' rdo rje (3808) active at bya yul dgon pa (4407)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3808/",
+        "label": "gtsang pa rin chen nam mkha' rdo rje (3808)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4407/",
+        "label": "bya yul dgon pa (4407)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 360-361. Took over Lo ang Bya yul after the passing of Bya yul pa (ID:3915).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4139,
+      "label": "gtsang pa rin chen nam mkha' rdo rje (3808) lineage predecessor of glang lung pa brtson 'grus gzhon nu (3860)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3808/",
+        "label": "gtsang pa rin chen nam mkha' rdo rje (3808)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3860/",
+        "label": "glang lung pa brtson 'grus gzhon nu (3860)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 24. gTsang pa received an oral tradition of Ati\u015ba from Bya yul (ID:3915), which he passed on to Glang lung pa (ID:3860).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4138,
+      "label": "bya yul ba chen po gzhon nu 'od (3915) lineage predecessor of gtsang pa rin chen nam mkha' rdo rje (3808)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3915/",
+        "label": "bya yul ba chen po gzhon nu 'od (3915)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3808/",
+        "label": "gtsang pa rin chen nam mkha' rdo rje (3808)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 24. gTsang pa received an oral tradition of Ati\u015ba from Bya yul (ID:3915), which he passed on to Glang lung pa (ID:3860).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1161-12-31",
+  "end_date_from": "1160-01-01",
+  "end_date_sort": "1160-12-31",
+  "start_date_to": "1077-12-31",
+  "start_date_from": "1076-01-01",
+  "start_date_sort": "1076-12-31",
+  "tibetan_transliteration": "\u0f42\u0f59\u0f44\u0f0b\u0f54\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f53\u0f58\u0f0b\u0f58\u0f41\u0f60\u0f0b\u0f62\u0fa1\u0f7c\u0f0b\u0f62\u0f97\u0f7a",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "https://purl.bdrc.io/resource/P4633",
+  "review": false,
+  "start": "after 1076 before 1077",
+  "end": "after 1160 before 1161",
+  "name": "gtsang pa rin chen nam mkha' rdo rje",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

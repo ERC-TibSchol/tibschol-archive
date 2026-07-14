@@ -1,0 +1,123 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5629/",
+  "relations": [
+    {
+      "id": 6730,
+      "label": "\u015b\u0101ntabhadra (5629) author of (ny\u0101yabindu commentary) (7823)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5629/",
+        "label": "\u015b\u0101ntabhadra (5629)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7823/",
+        "label": "(ny\u0101yabindu commentary) (7823)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4109,
+      "label": "rngog blo ldan shes rab (3786) quotes with name \u015b\u0101ntabhadra (5629)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5629/",
+        "label": "\u015b\u0101ntabhadra (5629)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex11320240828_1",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6653,
+      "label": "dar ma dkon mchog (5510) quotes without name \u015b\u0101ntabhadra (5629)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5510/",
+        "label": "dar ma dkon mchog (5510)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5629/",
+        "label": "\u015b\u0101ntabhadra (5629)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "exX0042026-03-0315-27-47",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    }
+  ],
+  "end_date_to": "0775-12-31",
+  "end_date_from": "0765-01-01",
+  "end_date_sort": "0770-07-02",
+  "start_date_to": "0715-12-31",
+  "start_date_from": "0705-01-01",
+  "start_date_sort": "0710-07-02",
+  "tibetan_transliteration": "",
+  "comments": "Proposed dates: ca. 710-770 (see [AAIEJBMW]).",
+  "alternative_names_legacy": "rab tu zhi ba bzang po\r\nrab du zhi bzang\r\nzhi bzang",
+  "alternative_names": [
+    {
+      "label": "rab tu zhi ba bzang po",
+      "language": "bo"
+    },
+    {
+      "label": "rab du zhi bzang",
+      "language": "bo"
+    },
+    {
+      "label": "zhi bzang",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://east.ikga.oeaw.ac.at/data/12/",
+  "review": true,
+  "start": "after 705 before 715",
+  "end": "after 765 before 775",
+  "name": "\u015b\u0101ntabhadra",
+  "gender": "male",
+  "nationality": "Indic"
+}

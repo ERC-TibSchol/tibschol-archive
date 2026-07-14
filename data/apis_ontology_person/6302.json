@@ -1,0 +1,79 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6302/",
+  "relations": [
+    {
+      "id": 2865,
+      "label": "brtson 'grus seng ge (2) (6302) active at gsang phu gling smad (6158)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6302/",
+        "label": "brtson 'grus seng ge (2) (6302)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6158/",
+        "label": "gsang phu gling smad (6158)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MPRU5QUC]: 210. Abbot of gSang phu ne'u thog monastery (25th abbot of lower college) for six years.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1320",
+      "end": "after 1320",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3950,
+      "label": "brtson 'grus seng ge (2) (6302) other relation to rong ston shes bya kun rig (6005)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6302/",
+        "label": "brtson 'grus seng ge (2) (6302)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VTFXMPC9]: vii.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": "1500-12-31",
+  "end_date_from": "1490-01-01",
+  "end_date_sort": "1495-07-02",
+  "start_date_to": null,
+  "start_date_from": "1300-01-01",
+  "start_date_sort": "1300-01-01",
+  "tibetan_transliteration": "\u0f56\u0f62\u0fa9\u0f7c\u0f53\u0f0b\u0f60\u0f42\u0fb2\u0f74\u0f66\u0f0b\u0f66\u0f7a\u0f44\u0f0b\u0f42\u0f7a \u0f3c\u0f22\u0f3d",
+  "comments": "Fl. early 15th century",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "after 1300",
+  "end": "after 1490 before 1500",
+  "name": "brtson 'grus seng ge (2)",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

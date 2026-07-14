@@ -1,0 +1,109 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6336/",
+  "relations": [
+    {
+      "id": 2911,
+      "label": "gtsang pa 'jam dpal seng ge (6336) active at gsang phu gling stod (6172)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6336/",
+        "label": "gtsang pa 'jam dpal seng ge (6336)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
+        "label": "gsang phu gling stod (6172)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1270-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1270-12-31",
+      "start_date_to": null,
+      "start_date_from": "1095-01-01",
+      "start_date_sort": "1095-01-01",
+      "zotero_refs": "[7FZ3B926]: 111. Abbot of gSang phu ne'u thog's monastery (first abbot of upper college).\r\n[MPRU5QUC]: 209. Eighth abbot of gSang phu ne'u thog monastery for 13 years after rTsegs dBang phyug seng ge (ID: 4289).",
+      "tei_refs": "",
+      "support_notes": "His being abbot of gSang phu ne'u thog monastery for 13 years is only supported by three sources. Another three sources do not record him as an abbot. Yet another source records him as an abbot for three years, not 13 years. The main reason for the confusion here is probably that he did not actually serve as the abbot of the whole monastery but only as the abbot for the upper college. Tibetan historiographers might have problems with where to place him.",
+      "confidence": "Positive",
+      "start": "after 1095",
+      "end": "before 1270",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3934,
+      "label": "gtsang pa 'jam dpal seng ge (6336) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6336/",
+        "label": "gtsang pa 'jam dpal seng ge (6336)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": "1130-01-01",
+      "end_date_sort": "1130-01-01",
+      "start_date_to": null,
+      "start_date_from": "1130-01-01",
+      "start_date_sort": "1130-01-01",
+      "zotero_refs": "[KHFQ2XU4]: 744 (kha cig gtsang pa 'jam dpal seng ge yang 'dren). Included by some scholars in the list of the \"seng chen brgyad.\"\r\n[R894SIKE]: 405.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": "after 1130",
+      "end": "after 1130",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3994,
+      "label": "gtsang pa 'jam dpal seng ge (6336) student of 'bri gung skyob pa 'jig rten gsum mgon (4000)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6336/",
+        "label": "gtsang pa 'jam dpal seng ge (6336)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4000/",
+        "label": "'bri gung skyob pa 'jig rten gsum mgon (4000)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3WFNMIGQ]: 141, n. 13.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1250-12-31",
+  "end_date_from": "1189-01-01",
+  "end_date_sort": "1220-01-01",
+  "start_date_to": "1120-12-31",
+  "start_date_from": "1075-01-01",
+  "start_date_sort": "1097-12-31",
+  "tibetan_transliteration": "\u0f42\u0f59\u0f44\u0f0b\u0f54\u0f0b\u0f60\u0f47\u0f58\u0f0b\u0f51\u0f54\u0f63\u0f0b\u0f66\u0f7a\u0f44\u0f0b\u0f42\u0f7a",
+  "comments": "Fl. late 12th c.\r\nLikely died in 1189 ([7FZ3B926]: 114).",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "after 1075 before 1120",
+  "end": "after 1189 before 1250",
+  "name": "gtsang pa 'jam dpal seng ge",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

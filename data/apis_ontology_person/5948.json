@@ -1,0 +1,115 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5948/",
+  "relations": [
+    {
+      "id": 2129,
+      "label": "mgon ldan 'od (5948) active at mnga' ris (5949)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5948/",
+        "label": "mgon ldan 'od (5948)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5949/",
+        "label": "mnga' ris (5949)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2130,
+      "label": "mgon ldan 'od (5948) prompter of mchod pa'i cho ga rgyan gyi me tog (5005)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5948/",
+        "label": "mgon ldan 'od (5948)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5005/",
+        "label": "mchod pa'i cho ga rgyan gyi me tog (5005)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex56152023-09-251",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2131,
+      "label": "mgon ldan 'od (5948) requests rigs pa'i ral gri (4006)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5948/",
+        "label": "mgon ldan 'od (5948)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex56152023-09-251",
+      "support_notes": "Request of work (ID:5005).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        18
+      ]
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "1305-01-01",
+  "end_date_sort": "1305-01-01",
+  "start_date_to": "1305-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1305-12-31",
+  "tibetan_transliteration": "\u0f58\u0f42\u0f7c\u0f53\u0f0b\u0f63\u0fa1\u0f53\u0f0b\u0f60\u0f7c\u0f51",
+  "comments": "",
+  "alternative_names_legacy": "stod mnga' ris kyi 'dul ba 'dzin pa dge slongs mgon ldan 'od",
+  "alternative_names": [
+    {
+      "label": "stod mnga' ris kyi 'dul ba 'dzin pa dge slongs mgon ldan 'od",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": "before 1305",
+  "end": "after 1305",
+  "name": "mgon ldan 'od",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

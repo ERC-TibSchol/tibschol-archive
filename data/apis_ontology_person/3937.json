@@ -1,0 +1,108 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3937/",
+  "relations": [
+    {
+      "id": 692,
+      "label": "gsang mda' ba chos kyi rgyal mtshan (3937) author of phyag rgya chen po la 'khrul ba sel ba'i bstan bcos (4680)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3937/",
+        "label": "gsang mda' ba chos kyi rgyal mtshan (3937)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4680/",
+        "label": "phyag rgya chen po la 'khrul ba sel ba'i bstan bcos (4680)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:4679) in [8H6M69W4], No. 6746: krig pa smra ba chos kyi rgyal mtshan dpal bzang po.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2897,
+      "label": "gsang mda' ba chos kyi rgyal mtshan (3937) active at gsang phu gling smad (6158)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3937/",
+        "label": "gsang mda' ba chos kyi rgyal mtshan (3937)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6158/",
+        "label": "gsang phu gling smad (6158)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1550-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1550-12-31",
+      "start_date_to": null,
+      "start_date_from": "1439-01-01",
+      "start_date_sort": "1439-01-01",
+      "zotero_refs": "[MPRU5QUC]: 210. Abbot of gSang phu ne'u thog monastery (32nd abbot of lower college) for one year.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1439",
+      "end": "before 1550",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4868,
+      "label": "gsang mda' ba chos kyi rgyal mtshan (3937) active at gsang mda' grong (4340)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3937/",
+        "label": "gsang mda' ba chos kyi rgyal mtshan (3937)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4340/",
+        "label": "gsang mda' grong (4340)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "His name suggests he originates or was active at gSang mda'.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1550-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1550-12-31",
+  "start_date_to": null,
+  "start_date_from": "1350-01-01",
+  "start_date_sort": "1350-01-01",
+  "tibetan_transliteration": "\u0f42\u0f66\u0f44\u0f0b\u0f58\u0f51\u0f60\u0f0b\u0f56\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f58\u0f5a\u0f53",
+  "comments": "Fl. late 15th c.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "https://purl.bdrc.io/resource/P8LS15363",
+  "review": true,
+  "start": "after 1350",
+  "end": "before 1550",
+  "name": "gsang mda' ba chos kyi rgyal mtshan",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

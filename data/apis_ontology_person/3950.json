@@ -1,0 +1,113 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3950/",
+  "relations": [
+    {
+      "id": 190,
+      "label": "jo btsun chos mchog (3950) student of bya 'dul 'dzin brtson 'grus 'bar (3818)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3950/",
+        "label": "jo btsun chos mchog (3950)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 168.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3354,
+      "label": "jo btsun chos mchog (3950) ordinator of glang lung pa brtson 'grus gzhon nu (3860)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3950/",
+        "label": "jo btsun chos mchog (3950)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3860/",
+        "label": "glang lung pa brtson 'grus gzhon nu (3860)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 362. sTon pa chos mchog was \"gsang\" in Glang lung pa's full ordination in his 25th year.\r\n[82NZNSIS]: 294 (nyer bdun pa la snon gyi gyad par | bya 'dul 'dzin | phya pa chos seng | btsun pa chos mchog gsum la bsnyen par rdzogs |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1147",
+      "end": "1147"
+    },
+    {
+      "id": 3358,
+      "label": "jo btsun chos mchog (3950) active at mar snon gyi gyang ba (6517)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3950/",
+        "label": "jo btsun chos mchog (3950)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6517/",
+        "label": "mar snon gyi gyang ba (6517)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[82NZNSIS]: 294 (nyer bdun pa la snon gyi gyad par | bya 'dul 'dzin | phya pa chos seng | btsun pa chos mchog gsum la bsnyen par rdzogs |). Place of Glang lung pa (ID:3860)'s full ordination.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1207-12-31",
+  "end_date_from": "1147-01-01",
+  "end_date_sort": "1177-07-01",
+  "start_date_to": "1127-12-31",
+  "start_date_from": "1067-01-01",
+  "start_date_sort": "1097-07-01",
+  "tibetan_transliteration": "\u0f47\u0f7c\u0f0b\u0f56\u0f59\u0f74\u0f53\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f58\u0f46\u0f7c\u0f42",
+  "comments": "",
+  "alternative_names_legacy": "ston pa chos mchog",
+  "alternative_names": [
+    {
+      "label": "ston pa chos mchog",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1067 before 1127",
+  "end": "after 1147 before 1207",
+  "name": "jo btsun chos mchog",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

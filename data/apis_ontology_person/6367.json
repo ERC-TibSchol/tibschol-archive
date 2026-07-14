@@ -1,0 +1,113 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6367/",
+  "relations": [
+    {
+      "id": 2975,
+      "label": "rtses thang pa nam mkha' brtan pa (6367) active at gsang phu gling stod (6172)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6367/",
+        "label": "rtses thang pa nam mkha' brtan pa (6367)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
+        "label": "gsang phu gling stod (6172)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1550-12-31",
+      "end_date_from": "1370-01-01",
+      "end_date_sort": "1460-07-01",
+      "start_date_to": null,
+      "start_date_from": "1370-01-01",
+      "start_date_sort": "1370-01-01",
+      "zotero_refs": "[MPRU5QUC]: 212. Abbot of gSang phu ne'u thog monastery (28th abbot of upper college).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1370",
+      "end": "after 1370 before 1550",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3948,
+      "label": "rtses thang pa nam mkha' brtan pa (6367) other relation to rong ston shes bya kun rig (6005)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6367/",
+        "label": "rtses thang pa nam mkha' brtan pa (6367)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VTFXMPC9]: vii.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5502,
+      "label": "rong ston shes bya kun rig (6005) student of rtses thang pa nam mkha' brtan pa (6367)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6367/",
+        "label": "rtses thang pa nam mkha' brtan pa (6367)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MPRU5QUC]: 212, n. 28.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1384",
+      "end": "1384",
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1520-12-31",
+  "end_date_from": "1377-01-01",
+  "end_date_sort": "1448-12-31",
+  "start_date_to": "1439-12-31",
+  "start_date_from": "1297-01-01",
+  "start_date_sort": "1368-07-01",
+  "tibetan_transliteration": "\u0f62\u0fa9\u0f7a\u0f66\u0f0b\u0f50\u0f44\u0f0b\u0f54\u0f0b\u0f53\u0f58\u0f0b\u0f58\u0f41\u0f60\u0f0b\u0f56\u0f62\u0f9f\u0f53\u0f0b\u0f54",
+  "comments": "Fl. late 15th c.",
+  "alternative_names_legacy": "mi nyag nam mkha' brtan pa",
+  "alternative_names": [
+    {
+      "label": "mi nyag nam mkha' brtan pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1297 before 1439",
+  "end": "after 1377 before 1520",
+  "name": "rtses thang pa nam mkha' brtan pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}
