@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/1046/",
   "xml_id": "ex57012024-10-1813-37-35",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex57012024-10-1813-37-35\" status=\"unreviewed\" ana=\"corpusmd:colophon\"><rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:5036\"><rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:3755\">chos mngon pa kun las btus</rs> kyi rnam par bshad pa rgyan gyi me tog</rs> ces bya ba <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:4006\">mang du thos pa shAkya'i dge slong bcom ldan ral gri</rs>s sbyar ba 'di legs par rdzogs so | dge'o | \nphu thang rdor gzhon gyis dag par bris pa'o |</seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex57012024-10-1813-37-35\" status=\"finalized\" ana=\"corpusmd:colophon\"><rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:5036\"><rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:3755\">chos mngon pa kun las btus</rs> kyi rnaM par bshad pa rgyan gyi me tog</rs> ces bya ba <rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:4006\">mang du thos pa shAkya'i dge slong bcom ldan ral gri</rs>s sbyar ba 'di legs par rdzogs s+ho || || <lb edRef=\"inst:7685\" n=\"353a6\"/> dge'o || phu thang rdor gzhon gyis dag par bris pa'o ||</seg></TEI>",
   "source": "2_057_01 ral gri mngon pa kun btus rgyan me tog.xml",
   "tibschol_refs": "2_057_01\n2_057_01_02",
   "zotero_refs": "",
-  "status": "unreviewed",
-  "location": ""
+  "status": "finalized",
+  "location": "inst:7685: 353a5 - 353a6"
 }
