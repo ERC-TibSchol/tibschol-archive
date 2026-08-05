@@ -1,0 +1,119 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4494/",
+  "relations": [
+    {
+      "id": 572,
+      "label": "mdo sde rgyan gyi bshad pa (4494) commentary on mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4494/",
+        "label": "mdo sde rgyan gyi bshad pa (4494)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3746/",
+        "label": "mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1290,
+      "label": "mdo sde rgyan gyi bshad pa (4494) has as an instance mdo sde rgyan gyi bshad pa (4493)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4494/",
+        "label": "mdo sde rgyan gyi bshad pa (4494)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4493/",
+        "label": "mdo sde rgyan gyi bshad pa (4493)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex7062023-10-11103259",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 571,
+      "label": "phywa pa chos kyi seng ge (3831) author of mdo sde rgyan gyi bshad pa (4494)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4494/",
+        "label": "mdo sde rgyan gyi bshad pa (4494)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No. 15904: phya pa chos kyi seng ge.",
+      "tei_refs": "ex7062023-09-11-143 Uncertain whether \"dharma seng ge\" is Phya pa Chos kyi seng ge.",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1169-12-31",
+  "start_date_from": "1119-01-01",
+  "start_date_sort": "1144-07-01",
+  "tibetan_transliteration": "\u0f58\u0f51\u0f7c\u0f0b\u0f66\u0fa1\u0f7a\u0f0b\u0f62\u0f92\u0fb1\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f54",
+  "comments": "The author systematically juxtaposes the interpretations of the base text by Sajjana (ID:3800) and Parahitabhadra (ID:3798) and mentions also rNgog Blo ldan shes rab (ID:3786), his own bla ma, and once bTsan (ID:4141) and an unidentified \"kha\" (maybe the same person).\r\nA post-colophon note in instance (ID:4493) describes the text as a record (zin bris) of the explanations on Vasubandu\u2019s Mah\u0101y\u0101nas\u016btr\u0101la\u1e45k\u0101rabh\u0101\u1e63ya, Asvabh\u0101va\u2019s Mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra\u1e6d\u012bk\u0101, J\u00f1\u0101na\u015br\u012b\u2019s\r\nSutr\u0101la\u1e45k\u0101rapi\u1e47\u1e0d\u0101rtha, Parahitabhadra, Sajjana, btsan (ID:4141), tsang nag and ar (ID:3816).\r\n\r\nThis work - or (ID:4497) - might correspond to one of the commentaries listed in A khu ching Shes rab rgya mtsho's Tho yig ([5RXEUKD9]: 528, No. 11474: [phya pa chos seng gi] byams chos phyi ma bzhi'i 'grel ba).",
+  "alternative_names_legacy": "dge slong phywa pa chos kyi seng ges mdzad pa'i theg chen mdo sde rgyan gyi legs bshad yang rgyan nyi 'od gsal ba\r\ntheg chen mdo sde rgyan gyi legs bshad yang rgyan nyi 'od gsal ba\r\nmdo sde rgyan gyi bshad pa",
+  "alternative_names": [
+    {
+      "label": "dge slong phywa pa chos kyi seng ges mdzad pa'i theg chen mdo sde rgyan gyi legs bshad yang rgyan nyi 'od gsal ba",
+      "language": "bo"
+    },
+    {
+      "label": "theg chen mdo sde rgyan gyi legs bshad yang rgyan nyi 'od gsal ba",
+      "language": "bo"
+    },
+    {
+      "label": "mdo sde rgyan gyi bshad pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": "after 1119 before 1169",
+  "name": "mdo sde rgyan gyi bshad pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}

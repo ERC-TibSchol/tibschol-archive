@@ -1,0 +1,104 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5051/",
+  "relations": [
+    {
+      "id": 1543,
+      "label": "rten 'brel snying po'i khrid yig (5051) has as an instance rten 'brel snying po'i khrid yig (5050)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5051/",
+        "label": "rten 'brel snying po'i khrid yig (5051)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5050/",
+        "label": "rten 'brel snying po'i khrid yig (5050)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2147,
+      "label": "rten 'brel snying po'i khrid yig (5051) composed at dngul chu'i chos rdzong (5692)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5051/",
+        "label": "rten 'brel snying po'i khrid yig (5051)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5692/",
+        "label": "dngul chu'i chos rdzong (5692)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 890,
+      "label": "rgyal sras thogs med bzang po (4066) author of rten 'brel snying po'i khrid yig (5051)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4066/",
+        "label": "rgyal sras thogs med bzang po (4066)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5051/",
+        "label": "rten 'brel snying po'i khrid yig (5051)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1369-12-31",
+  "start_date_from": "1305-01-01",
+  "start_date_sort": "1337-07-02",
+  "tibetan_transliteration": "\u0f62\u0f9f\u0f7a\u0f53\u0f0b\u0f60\u0f56\u0fb2\u0f7a\u0f63\u0f0b\u0f66\u0f99\u0f72\u0f44\u0f0b\u0f54\u0f7c\u0f60\u0f72\u0f0b\u0f41\u0fb2\u0f72\u0f51\u0f0b\u0f61\u0f72\u0f42",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": true,
+  "start": "after 1305 before 1369",
+  "name": "rten 'brel snying po'i khrid yig",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": []
+}

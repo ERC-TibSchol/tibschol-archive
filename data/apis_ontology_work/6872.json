@@ -1,0 +1,83 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6872/",
+  "relations": [
+    {
+      "id": 5734,
+      "label": "phar phyin gyi sbyor ba'i TI ka mkhas pa'i yid 'phrog (6872) has as an instance phar phyin gyi sbyor ba'i TI ka mkhas pa'i yid 'phrog (7365)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6872/",
+        "label": "phar phyin gyi sbyor ba'i TI ka mkhas pa'i yid 'phrog (6872)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7365/",
+        "label": "phar phyin gyi sbyor ba'i TI ka mkhas pa'i yid 'phrog (7365)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[HMSTSJ7Q]: 314 (gDan sa chen po se ra theg chen gling gi tshogs chen yang thog gzims chung du bzhugs su gsol ba'i dpe rnying dkar chag), No. 1213: ka 593; phar phyin gyi sbyor ba'i TI ka mkhas pa'i yid 'phrog; zha lu pa rin chen bsod nams 'phel.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4303,
+      "label": "zhwa lu pa rin chen bsod nams 'phel ba (4129) author of phar phyin gyi sbyor ba'i TI ka mkhas pa'i yid 'phrog (6872)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4129/",
+        "label": "zhwa lu pa rin chen bsod nams 'phel ba (4129)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6872/",
+        "label": "phar phyin gyi sbyor ba'i TI ka mkhas pa'i yid 'phrog (6872)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:7365) in [HMSTSJ7Q]: 314 (gDan sa chen po se ra theg chen gling gi tshogs chen yang thog gzims chung du bzhugs su gsol ba'i dpe rnying dkar chag), No. 1213: ka 593; phar phyin gyi sbyor ba'i TI ka mkhas pa'i yid 'phrog; zha lu pa rin chen bsod nams 'phel.\r\n[5RXEUKD9]: 530, No. 11534.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1438-12-31",
+  "start_date_from": "1371-01-01",
+  "start_date_sort": "1404-12-31",
+  "tibetan_transliteration": "\u0f55\u0f62\u0f0b\u0f55\u0fb1\u0f72\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f66\u0fa6\u0fb1\u0f7c\u0f62\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f4a\u0f71\u0f72\u0f0b\u0f40\u0f0b\u0f58\u0f41\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f61\u0f72\u0f51\u0f0b\u0f60\u0f55\u0fb2\u0f7c\u0f42",
+  "comments": "This is possibly the same work as the \"phar phyin sbyor Tik mkhas pa dga' byed\" listed in A khu ching Shes rab rgya mtsho's Tho yig ([5RXEUKD9]: 530, no. 11534: zhwa lu pa rin chen bsod nams 'phel gyi phar phyin sbyor Tik mkhas pa dga' byed).\r\n\r\nMaybe the same work as (ID:5188).",
+  "alternative_names_legacy": "phar phyin sbyor Tik mkhas pa dga' byed",
+  "alternative_names": [
+    {
+      "label": "phar phyin sbyor Tik mkhas pa dga' byed",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": "after 1371 before 1438",
+  "name": "phar phyin gyi sbyor ba'i TI ka mkhas pa'i yid 'phrog",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}

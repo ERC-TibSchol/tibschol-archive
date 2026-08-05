@@ -1,0 +1,59 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6101/",
+  "relations": [
+    {
+      "id": 2434,
+      "label": "rngog blo ldan shes rab (3786) author of khri bkra shis dbang phyug nam mkha' bstan la spring pa kha che gser slong (6101)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6101/",
+        "label": "khri bkra shis dbang phyug nam mkha' bstan la spring pa kha che gser slong (6101)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1109-12-31",
+  "start_date_from": "1080-01-01",
+  "start_date_sort": "1094-12-31",
+  "tibetan_transliteration": "\u0f41\u0fb2\u0f72\u0f0b\u0f56\u0f40\u0fb2\u0f0b\u0f64\u0f72\u0f66\u0f0b\u0f51\u0f56\u0f44\u0f0b\u0f55\u0fb1\u0f74\u0f42\u0f0b\u0f53\u0f58\u0f0b\u0f58\u0f41\u0f60\u0f0b\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f63\u0f0b\u0f66\u0fa4\u0fb2\u0f72\u0f44\u0f0b\u0f54\u0f0b\u0f41\u0f0b\u0f46\u0f7a\u0f0b\u0f42\u0f66\u0f7a\u0f62\u0f0b\u0f66\u0fb3\u0f7c\u0f44",
+  "comments": "Listed as part of rNgog Blo ldan shes rab's compositions by bCom ldan ral gri and Bu ston (see <<Kano 2016 [BAQ9MH4T]>>: 207).",
+  "alternative_names_legacy": "mnga\u2019 ris kyi btsad po la gser slong ba\u2019i bsring yig\r\nmnga\u2019 ris kyi btsad po la gser slong ba\u2019i spring yig",
+  "alternative_names": [
+    {
+      "label": "mnga\u2019 ris kyi btsad po la gser slong ba\u2019i bsring yig",
+      "language": "bo"
+    },
+    {
+      "label": "mnga\u2019 ris kyi btsad po la gser slong ba\u2019i spring yig",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1080 before 1109",
+  "name": "khri bkra shis dbang phyug nam mkha' bstan la spring pa kha che gser slong",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/11/"
+  ]
+}

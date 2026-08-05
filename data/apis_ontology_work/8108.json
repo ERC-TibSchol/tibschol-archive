@@ -1,0 +1,111 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8108/",
+  "relations": [
+    {
+      "id": 7229,
+      "label": "rtsod pa'i rgyan (8108) has as an instance rtsod pa'i rgyan (8109)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8108/",
+        "label": "rtsod pa'i rgyan (8108)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8109/",
+        "label": "rtsod pa'i rgyan (8109)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7230,
+      "label": "rtsod pa'i rgyan (8108) commentary on tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8108/",
+        "label": "rtsod pa'i rgyan (8108)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Commentary on the points of defeat discussed in the 11th chapter.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7228,
+      "label": "sa skya mkhan po dbang phyug dpal (4320) author of rtsod pa'i rgyan (8108)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4320/",
+        "label": "sa skya mkhan po dbang phyug dpal (4320)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8108/",
+        "label": "rtsod pa'i rgyan (8108)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "(ID:8109), fol. 10a4: dbang phyug dpal gyis brtsod pa'i rgyan 'di bshad ||. It is uncertain whether \"dbang phyug dpal\" is \"sa skya mkhan po dbang phyug dpal.\"",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": "1219-01-01",
+  "start_date_sort": "1219-01-01",
+  "tibetan_transliteration": "\u0f62\u0fa9\u0f7c\u0f51\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f62\u0f92\u0fb1\u0f53",
+  "comments": "",
+  "alternative_names_legacy": "tshad ma rigs pa'i gter gyi tshar gcad dang lhag chos brtags pa'i rnam par bshad pa brtsod pa'i rgyan",
+  "alternative_names": [
+    {
+      "label": "tshad ma rigs pa'i gter gyi tshar gcad dang lhag chos brtags pa'i rnam par bshad pa brtsod pa'i rgyan",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1219",
+  "name": "rtsod pa'i rgyan",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

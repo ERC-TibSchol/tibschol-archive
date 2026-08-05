@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6602/",
+  "relations": [
+    {
+      "id": 3532,
+      "label": "phar phyin gyi Tik+ka (6602) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6602/",
+        "label": "phar phyin gyi Tik+ka (6602)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
+        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3531,
+      "label": "gro lung pa blo gros 'byung gnas (3806) author of phar phyin gyi Tik+ka (6602)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3806/",
+        "label": "gro lung pa blo gros 'byung gnas (3806)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6602/",
+        "label": "phar phyin gyi Tik+ka (6602)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 529, No. 11495.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1120-12-31",
+  "start_date_from": "1092-01-01",
+  "start_date_sort": "1106-07-02",
+  "tibetan_transliteration": "\u0f55\u0f62\u0f0b\u0f55\u0fb1\u0f72\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f4a\u0f72\u0f40\u0f90",
+  "comments": "Listed in A khu ching Shes rab rgya mtsho's Tho yig ([5RXEUKD9]: 529, No. 11495: [gro lung pa'i] phar phyin gyi Tik+ka). \r\nMaybe a commentary on the Abhisamay\u0101la\u1e43k\u0101ra\u00ad (ID:3706), in which case it could be identical with (ID:8051).",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": true,
+  "start": "after 1092 before 1120",
+  "name": "phar phyin gyi Tik+ka",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}

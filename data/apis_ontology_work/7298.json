@@ -1,0 +1,134 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7298/",
+  "relations": [
+    {
+      "id": 5640,
+      "label": "dbus dang mtha' rnam par 'byed pa'i 'grel pa dbu ma'i snang ba (7298) commentary on madhy\u0101ntavibh\u0101ga (3748)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7298/",
+        "label": "dbus dang mtha' rnam par 'byed pa'i 'grel pa dbu ma'i snang ba (7298)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3748/",
+        "label": "madhy\u0101ntavibh\u0101ga (3748)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5641,
+      "label": "dbus dang mtha' rnam par 'byed pa'i 'grel pa dbu ma'i snang ba (7298) has as an instance dbus mtha'i 'grel pa dbu ma'i snang ba (7299)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7298/",
+        "label": "dbus dang mtha' rnam par 'byed pa'i 'grel pa dbu ma'i snang ba (7298)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7299/",
+        "label": "dbus mtha'i 'grel pa dbu ma'i snang ba (7299)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6860,
+      "label": "dbus dang mtha' rnam par 'byed pa'i 'grel pa dbu ma'i snang ba (7298) has as an instance dbus mtha' 'grel ba dbu ma'i snang ba (7912)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7298/",
+        "label": "dbus dang mtha' rnam par 'byed pa'i 'grel pa dbu ma'i snang ba (7298)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7912/",
+        "label": "dbus mtha' 'grel ba dbu ma'i snang ba (7912)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5639,
+      "label": "bla ma dam pa bsod nams rgyal mtshan (3916) author of dbus dang mtha' rnam par 'byed pa'i 'grel pa dbu ma'i snang ba (7298)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3916/",
+        "label": "bla ma dam pa bsod nams rgyal mtshan (3916)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7298/",
+        "label": "dbus dang mtha' rnam par 'byed pa'i 'grel pa dbu ma'i snang ba (7298)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:7912) in [8H6M69W4], No. 16044: btsun pa bsod nams.",
+      "tei_refs": "",
+      "support_notes": "Colophon in (ID:7299): dbus dang mtha' rnam par 'byed pa'i 'grel pa dbu ma'i snang ba zhes bya ba 'di ni mang du thos pa'i btsun pa bsod nams rgyal mtshan gyis yongs su rdzogs par brtsams pa'i yi ge'i rkyen dge ba'i bshes gnyen shes rab rdo rje zhes bya bas nye bar sbyar te sna tshogs can gyi lo khrums kyi zla ba'i dkar phyogs kyi tshes gcig la grub pa | dge legs su gyur cig",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1375-12-31",
+  "start_date_from": "1322-01-01",
+  "start_date_sort": "1348-12-31",
+  "tibetan_transliteration": "\u0f51\u0f56\u0f74\u0f66\u0f0b\u0f51\u0f44\u0f0b\u0f58\u0f50\u0f60\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f54\u0f62\u0f0b\u0f60\u0f56\u0fb1\u0f7a\u0f51\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f54\u0f0b\u0f51\u0f56\u0f74\u0f0b\u0f58\u0f60\u0f72\u0f0b\u0f66\u0fa3\u0f44\u0f0b\u0f56",
+  "comments": "The author also wrote a topical outline of the Madhy\u0101ntavibh\u0101ga (ID:3748), see (ID:5225).",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "after 1322 before 1375",
+  "name": "dbus dang mtha' rnam par 'byed pa'i 'grel pa dbu ma'i snang ba",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}

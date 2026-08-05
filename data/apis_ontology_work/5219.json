@@ -1,0 +1,116 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5219/",
+  "relations": [
+    {
+      "id": 1001,
+      "label": "bstan bcos rgyud bla ma'i gsal byed bsam mi khyab kyi yi ge (5219) commentary on ratnagotravibh\u0101ga (3749)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5219/",
+        "label": "bstan bcos rgyud bla ma'i gsal byed bsam mi khyab kyi yi ge (5219)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
+        "label": "ratnagotravibh\u0101ga (3749)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1621,
+      "label": "bstan bcos rgyud bla ma'i gsal byed bsam mi khyab kyi yi ge (5219) has as an instance bstan bcos rgyud bla ma'i gsal byed bsam mi khyab kyi yi ge (5218)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5219/",
+        "label": "bstan bcos rgyud bla ma'i gsal byed bsam mi khyab kyi yi ge (5219)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5218/",
+        "label": "bstan bcos rgyud bla ma'i gsal byed bsam mi khyab kyi yi ge (5218)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1000,
+      "label": "chos gshes (6025) author of bstan bcos rgyud bla ma'i gsal byed bsam mi khyab kyi yi ge (5219)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6025/",
+        "label": "chos gshes (6025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5219/",
+        "label": "bstan bcos rgyud bla ma'i gsal byed bsam mi khyab kyi yi ge (5219)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for No. 15776 in [8H6M69W4]: bla ma spu rangs pa.\r\n[BAQ9MH4T]: 215, n. 12 reports an information from Tsering Wangchuk about a commentary in the bTsan tradition ascribed to a certain \"chos gshes,\" which the footnote identifies with instance (ID:5214). It might however rather be instance (ID:5218) in which there is reference to the teaching having been transmitted to \"dge slong chos she.\"",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f56\u0f45\u0f7c\u0f66\u0f0b\u0f62\u0f92\u0fb1\u0f74\u0f51\u0f0b\u0f56\u0fb3\u0f0b\u0f58\u0f60\u0f72\u0f0b\u0f42\u0f66\u0f63\u0f0b\u0f56\u0fb1\u0f7a\u0f51\u0f0b\u0f56\u0f66\u0f58\u0f0b\u0f58\u0f72\u0f0b\u0f41\u0fb1\u0f56\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f61\u0f72\u0f0b\u0f42\u0f7a",
+  "comments": "Topical outline of the Ratnagotravibh\u0101ga (ID:3749); lemmata for each delineated section are provided in interlinear notes in (ID:5218).\r\n\r\nAt the end of the text, one finds a history of the transmission of the teachings of the Ratnagotravibh\u0101ga (ID:3749) along with the Dharmadharmat\u0101vibha\u1e45ga (ID:5634) which is nearly identical to the one in sKyo ston (ID:4052)'s Theg chen rgyud bla ma'i gdams pa (ID:4838).\r\nThe lineage itself diverges after Bla ma do pa (ID:5613).\r\n\r\nAuthor according to [8H6M69W4], No. 15776: bla ma spu rangs pa. This figure is mentioned in the succession of masters in the \"lo rgyus\" section of the text, but the lineage ends with dge slong chos she.",
+  "alternative_names_legacy": "bsam gyis mi khyab gdam ngag\r\nbstan bcos rgyud bla ma'i gdam ngag bsam mi khyab kyi yi ge",
+  "alternative_names": [
+    {
+      "label": "bsam gyis mi khyab gdam ngag",
+      "language": "bo"
+    },
+    {
+      "label": "bstan bcos rgyud bla ma'i gdam ngag bsam mi khyab kyi yi ge",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "name": "bstan bcos rgyud bla ma'i gsal byed bsam mi khyab kyi yi ge",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/10/",
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/56/"
+  ]
+}

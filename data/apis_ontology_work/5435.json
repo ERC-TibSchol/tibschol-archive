@@ -1,0 +1,109 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5435/",
+  "relations": [
+    {
+      "id": 1721,
+      "label": "ston pa don thams cad grub pa'i rtogs pa brjod pa pad+ma dkar po'i phreng ba (5435) has as an instance ston pa don thams cad grub pa'i rtogs pa brjod pa pad+ma dkar po'i phreng ba (5434)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5435/",
+        "label": "ston pa don thams cad grub pa'i rtogs pa brjod pa pad+ma dkar po'i phreng ba (5435)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5434/",
+        "label": "ston pa don thams cad grub pa'i rtogs pa brjod pa pad+ma dkar po'i phreng ba (5434)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2221,
+      "label": "ston pa don thams cad grub pa'i rtogs pa brjod pa pad+ma dkar po'i phreng ba (5435) composed at dpal ldan rnams rgyal gtsug lag khang (5726)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5435/",
+        "label": "ston pa don thams cad grub pa'i rtogs pa brjod pa pad+ma dkar po'i phreng ba (5435)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5726/",
+        "label": "dpal ldan rnams rgyal gtsug lag khang (5726)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Closing verses, (ID:5434), fol. 59a1.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1226,
+      "label": "bde chen btsun pa mnyam nyid bzang po (5547) author of ston pa don thams cad grub pa'i rtogs pa brjod pa pad+ma dkar po'i phreng ba (5435)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5547/",
+        "label": "bde chen btsun pa mnyam nyid bzang po (5547)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5435/",
+        "label": "ston pa don thams cad grub pa'i rtogs pa brjod pa pad+ma dkar po'i phreng ba (5435)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Closing verses, (ID:5434), fol. 59a1.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f54\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f50\u0f58\u0f66\u0f0b\u0f45\u0f51\u0f0b\u0f42\u0fb2\u0f74\u0f56\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f62\u0f9f\u0f7c\u0f42\u0f66\u0f0b\u0f54\u0f0b\u0f56\u0f62\u0f97\u0f7c\u0f51\u0f0b\u0f54\u0f0b\u0f54\u0f51\u0fa8\u0f0b\u0f51\u0f40\u0f62\u0f0b\u0f54\u0f7c\u0f60\u0f72\u0f0b\u0f55\u0fb2\u0f7a\u0f44\u0f0b\u0f56",
+  "comments": "Date of composition: de bzhin gshegs pa yongs su mya ngan las 'das nas lo stong phrag gnyis dang brgya bdun bcu rtsa brgyad 'das || lo pho khyi'i lo <su *\"> zla ba sh+ta ba'i tshe (2178 years after the Buddha's passing, in the year of the male fire dog, in the fourth month).",
+  "alternative_names_legacy": "rA  jA pu tra sa+r+va sid d+dA r+tha a ba da na pu+N+Da ri ka mA la",
+  "alternative_names": [
+    {
+      "label": "rA  jA pu tra sa+r+va sid d+dA r+tha a ba da na pu+N+Da ri ka mA la",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "name": "ston pa don thams cad grub pa'i rtogs pa brjod pa pad+ma dkar po'i phreng ba",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": []
+}
