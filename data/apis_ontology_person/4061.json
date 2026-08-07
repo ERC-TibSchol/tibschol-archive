@@ -1,0 +1,240 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4061/",
+  "relations": [
+    {
+      "id": 313,
+      "label": "nyi ma brtson 'grus (4061) lineage predecessor of rigs pa'i ral gri (4006)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4061/",
+        "label": "nyi ma brtson 'grus (4061)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTQMVBPR]: Appendix A. Lineage of the Perfection of wisdom.",
+      "tei_refs": "ex52052024-10-1815-08-34 (Perfection of wisdom lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
+      "id": 1066,
+      "label": "nyi ma brtson 'grus (4061) author of legs dpyad blo'i mun sel (5316)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4061/",
+        "label": "nyi ma brtson 'grus (4061)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5316/",
+        "label": "legs dpyad blo'i mun sel (5316)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No. 19860: shAkya'i dge slong nyi ma brtson 'grus",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4919,
+      "label": "nyi ma brtson 'grus (4061) ordinator of rigs pa'i ral gri (4006)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4061/",
+        "label": "nyi ma brtson 'grus (4061)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FZ6N88AU]: 411. The ordination took place in dByar nyi ma (ID:7103).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1244",
+      "end": "1244"
+    },
+    {
+      "id": 4921,
+      "label": "nyi ma brtson 'grus (4061) teaches tshad ma shes rab sgron ma (5292)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4061/",
+        "label": "nyi ma brtson 'grus (4061)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5292/",
+        "label": "tshad ma shes rab sgron ma (5292)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FZ6N88AU]: 411.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 314,
+      "label": "rigs pa'i ral gri (4006) student of nyi ma brtson 'grus (4061)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4061/",
+        "label": "nyi ma brtson 'grus (4061)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": "1244-01-01",
+      "end_date_sort": "1244-01-01",
+      "start_date_to": null,
+      "start_date_from": "1244-01-01",
+      "start_date_sort": "1244-01-01",
+      "zotero_refs": "[R894SIKE]: 409 (bcom ldan rigs pa'i ral gri de | yul phu thang ba yin pa zhig bsam yas mchod rten dkar po ba'i btsun pa byas | dga' ba gdong du dbyar nyi ma brtson 'grus la phar phyin slob kyi yod pa'i tshe nad kyi rnam par rtog pa zhig byung). \r\n[FZ6N88AU]: 411. Teaching of work (ID:5292).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1244",
+      "end": "after 1244",
+      "subject_of_teaching_vocab": [
+        9,
+        7
+      ]
+    },
+    {
+      "id": 315,
+      "label": "gtsang pa 'bre sgur (3872) lineage predecessor of nyi ma brtson 'grus (4061)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3872/",
+        "label": "gtsang pa 'bre sgur (3872)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4061/",
+        "label": "nyi ma brtson 'grus (4061)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex52052024-10-1815-08-34 (Perfection of wisdom lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
+      "id": 6676,
+      "label": "gtsang pa 'bre sgur (3872) lineage predecessor of nyi ma brtson 'grus (4061)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3872/",
+        "label": "gtsang pa 'bre sgur (3872)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4061/",
+        "label": "nyi ma brtson 'grus (4061)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex52052024-10-1815-08-34  (Perfection of wisdom lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    }
+  ],
+  "end_date_to": "1290-12-31",
+  "end_date_from": "1244-01-01",
+  "end_date_sort": "1267-07-02",
+  "start_date_to": "1210-12-31",
+  "start_date_from": "1164-01-01",
+  "start_date_sort": "1187-07-02",
+  "tibetan_transliteration": "\u0f49\u0f72\u0f0b\u0f58\u0f0b\u0f56\u0f62\u0fa9\u0f7c\u0f53\u0f0b\u0f60\u0f42\u0fb2\u0f74\u0f66",
+  "comments": "",
+  "alternative_names_legacy": "dga' gdong slob dpon\r\ndbyar nyi ma brtson 'grus",
+  "alternative_names": [
+    {
+      "label": "dga' gdong slob dpon",
+      "language": "bo"
+    },
+    {
+      "label": "dbyar nyi ma brtson 'grus",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P1218",
+  "review": false,
+  "start": "after 1164 before 1210",
+  "end": "after 1244 before 1290",
+  "name": "nyi ma brtson 'grus",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

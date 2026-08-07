@@ -1,0 +1,466 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+  "relations": [
+    {
+      "id": 137,
+      "label": "spyil phu pa chos kyi rgyal mtshan (3859) student of 'chad kha pa ye shes rdo rje (3874)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3874/",
+        "label": "'chad kha pa ye shes rdo rje (3874)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: 19.\r\n[R894SIKE]: 337 ('chad kha ba la lo mang du bsten nas |)\r\n[UCGS2IXT]: 139.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        15
+      ]
+    },
+    {
+      "id": 688,
+      "label": "spyil phu pa chos kyi rgyal mtshan (3859) author of theg chen mdo sde rgyan gyi don mdor bsdus (4669)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4669/",
+        "label": "theg chen mdo sde rgyan gyi don mdor bsdus (4669)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex291-2024-10-04-10-09",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4334,
+      "label": "spyil phu pa chos kyi rgyal mtshan (3859) active at spyil phu dgon (4373)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4373/",
+        "label": "spyil phu dgon (4373)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 337 ('chad kha ba la lo mang du bsten nas | shing spre la 'chad kha gsar ma btab | spyil bur yang dgon pa mdzad |)",
+      "tei_refs": "",
+      "support_notes": "Founded the monastery.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4387,
+      "label": "spyil phu pa chos kyi rgyal mtshan (3859) active at 'chad kha gsar ma (7459)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7459/",
+        "label": "'chad kha gsar ma (7459)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": "1164-12-31",
+      "start_date_from": "1164-01-01",
+      "start_date_sort": "1164-07-01",
+      "zotero_refs": "[R894SIKE]: 337 ('chad kha ba la lo mang du bsten nas | shing spre la 'chad kha gsar ma btab | spyil bur yang dgon pa mdzad |). Founded the \"new 'Chad kha\" in 1164.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1164",
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5219,
+      "label": "spyil phu pa chos kyi rgyal mtshan (3859) quotes with name rom po (6971)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6971/",
+        "label": "rom po (6971)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex29012025-03-2811-47-44\r\nex29012025-03-2811-47-442\r\nex29012025-03-2811-47-443\r\nex291-2024-10-04-09-55\r\nex29012025-03-2811-47-444\r\nex29012025-03-2811-47-446\r\nex29012025-03-2811-47-447\r\nex29012025-03-2811-47-449\r\nex29012025-03-2811-47-55",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5220,
+      "label": "spyil phu pa chos kyi rgyal mtshan (3859) quotes with name rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex291-2024-10-04-09-55",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5748,
+      "label": "spyil phu pa chos kyi rgyal mtshan (3859) quotes without name rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex29012025-05-0612-46-48",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5749,
+      "label": "spyil phu pa chos kyi rgyal mtshan (3859) quotes without name phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex29012025-05-0612-46-48",
+      "support_notes": "Reading \"phya\" uncertain.",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 117,
+      "label": "phywa pa chos kyi seng ge (3831) ordinator of spyil phu pa chos kyi rgyal mtshan (3859)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ZK9D2SKJ]: 261.3\u20134 ([spyil bu ba] dge bshes cha pa'i drung du rab tu byung | lo lon nas mkhan po de nyid las bsnyen par rdzogs mtshan chos kyi rgyal mtshan zhes btags |). Phya pa was \"mkhan po\" (Skt. up\u0101dhy\u0101ya) in both his novice and final ordination.\r\n[82NZNSIS]: 260.\r\n[Q922IUFM]: 133.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 175,
+      "label": "lha lung gi dbang phyug (3932) student of spyil phu pa chos kyi rgyal mtshan (3859)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3932/",
+        "label": "lha lung gi dbang phyug (3932)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 338.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4229,
+      "label": "dre'u lhas pa (6841) student of spyil phu pa chos kyi rgyal mtshan (3859)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6841/",
+        "label": "dre'u lhas pa (6841)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4389,
+      "label": "rnal 'byor byang chub seng ge (6929) student of spyil phu pa chos kyi rgyal mtshan (3859)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6929/",
+        "label": "rnal 'byor byang chub seng ge (6929)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 337-338 ('di'i [=spyil phu ba] slob ma rnal 'byor byang seng | rgya spang sa thang pa | lha dge 'dun sgang pa | nyan lha sdings pa rnams kyis gro sa dang | spang sa dang | dge 'dun sgang dang | nyan lha sdings rnams btab |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4390,
+      "label": "rgya spang thang pa (6932) student of spyil phu pa chos kyi rgyal mtshan (3859)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6932/",
+        "label": "rgya spang thang pa (6932)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 337-338 ('di'i [=spyil phu ba] slob ma rnal 'byor byang seng | rgya spang sa thang pa | lha dge 'dun sgang pa | nyan lha sdings pa rnams kyis gro sa dang | spang sa dang | dge 'dun sgang dang | nyan lha sdings rnams btab |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4392,
+      "label": "lha dge 'dun sgang pa (6935) student of spyil phu pa chos kyi rgyal mtshan (3859)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6935/",
+        "label": "lha dge 'dun sgang pa (6935)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 337-338 ('di'i [=spyil phu ba] slob ma rnal 'byor byang seng | rgya spang sa thang pa | lha dge 'dun sgang pa | nyan lha sdings pa rnams kyis gro sa dang | spang sa dang | dge 'dun sgang dang | nyan lha sdings rnams btab |). Founded by rGya spangs thang pa.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4394,
+      "label": "nyan lha sdings pa (6936) student of spyil phu pa chos kyi rgyal mtshan (3859)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6936/",
+        "label": "nyan lha sdings pa (6936)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 337-338 ('di'i [=spyil phu ba] slob ma rnal 'byor byang seng | rgya spang sa thang pa | lha dge 'dun sgang pa| nyan lha sdings pa rnams kyis gro sa dang | spang sa dang | dge 'dun sgang dang | nyan lha sdings rnams btab |). Founded by rGya spangs thang pa.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1189-12-31",
+  "end_date_from": "1189-01-01",
+  "end_date_sort": "1189-07-02",
+  "start_date_to": "1121-12-31",
+  "start_date_from": "1121-01-01",
+  "start_date_sort": "1121-07-02",
+  "tibetan_transliteration": "\u0f66\u0fa4\u0fb1\u0f72\u0f63\u0f0b\u0f55\u0f74\u0f0b\u0f54\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f58\u0f5a\u0f53",
+  "comments": "",
+  "alternative_names_legacy": "spyil bu ba chos kyi rgyal mtshan\r\nse spyil phu ba",
+  "alternative_names": [
+    {
+      "label": "spyil bu ba chos kyi rgyal mtshan",
+      "language": "bo"
+    },
+    {
+      "label": "se spyil phu ba",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P3448",
+  "review": false,
+  "start": "1121",
+  "end": "1189",
+  "name": "spyil phu pa chos kyi rgyal mtshan",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

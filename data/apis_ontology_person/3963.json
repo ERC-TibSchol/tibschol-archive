@@ -1,0 +1,144 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3963/",
+  "relations": [
+    {
+      "id": 394,
+      "label": "skye bo tshul 'phags (3963) student of rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3963/",
+        "label": "skye bo tshul 'phags (3963)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3941/",
+        "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 536, No. 11713: rgya 'dul gyi slob ma skyi bo tshul 'phags...",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5027,
+      "label": "skye bo tshul 'phags (3963) author of mdo rtsa'i Tik+ka (7140)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3963/",
+        "label": "skye bo tshul 'phags (3963)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7140/",
+        "label": "mdo rtsa'i Tik+ka (7140)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 536, No. 11713: rgya 'dul gyi slob ma skyi bo tshul 'phags kyi mdo rtsa'i Tik+ka po ti gsum.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 207,
+      "label": "'dar tshul khrims rgyal po (3962) student of skye bo tshul 'phags (3963)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3962/",
+        "label": "'dar tshul khrims rgyal po (3962)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3963/",
+        "label": "skye bo tshul 'phags (3963)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 111 (des [tshul 'phags] ne'u ru bshad pa mdzad pas bu chen stod 'dar cho ba 'dar tshul khrims rgyal po).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
+    },
+    {
+      "id": 5029,
+      "label": "a seng (6494) quotes with name skye bo tshul 'phags (3963)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6494/",
+        "label": "a seng (6494)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3963/",
+        "label": "skye bo tshul 'phags (3963)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 860 (dge bshes chen po phywa ba | myang bran pa chos yes | skyi bo tshul 'phags | g.yor gnyan | bla ma zhang | khams pa lo tsA ba | ston 'bum sogs drug cu tsam 'dug pas | khong rnams don dam bden cig la gleng ba la | a seng gi gsung nas |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f66\u0f90\u0fb1\u0f7a\u0f0b\u0f56\u0f7c\u0f0b\u0f5a\u0f74\u0f63\u0f0b\u0f60\u0f55\u0f42\u0f66",
+  "comments": "Author of several works on monastic discipline. See [5RXEUKD9]: 536, No. 11713: rgya 'dul gyi slob ma skyi bo tshul 'phags kyi mdo rtsa'i Tik+ka po ti gsum.",
+  "alternative_names_legacy": "skyi bo tshul 'phags",
+  "alternative_names": [
+    {
+      "label": "skyi bo tshul 'phags",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "skye bo tshul 'phags",
+  "gender": "male",
+  "nationality": "Tibetan"
+}
