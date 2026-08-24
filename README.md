@@ -23,6 +23,8 @@ Contained in the .json file are the entity's attributes and relations to other e
 
 In addition, the directory *data* contains an archive of all *excerpts* in use in the database (see https://github.com/ERC-TibSchol/TibSchol-TEI-Library), and references to publications in [TibSchol Zotero Library](https://www.zotero.org/groups/4394244/tibschol/library).
 
+Please be aware that the data is still in the process being curated - check the "review" value.
+
 ## Backup policy
 The archive is refreshed daily. Only documents for entities that underwent a change are updated.
 
