@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/100/",
   "xml_id": "ex2101-2024-10-02-2",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex2101-2024-10-02-2\" status=\"finalized\">\n         'di la <rs type=\"person\" ref=\"db:6949\" ana=\"corpusmd:named_reference\">jo bo a du <choice><reg>la</reg><orig>\u2039la\u203a</orig></choice></rs> ces pa na re snang tshod pa'i gzung pa yod pa dang bden pa'i gzung pa med par rtogs pas gzung pa bden pa'i rtogs pa spong ba dang | 'dzin pa bden par med pa ma gtogs pas de'i rtog pa mi <pb n=\"78b\"/><lb n=\"78b1\"/> spong pa yin no zhe'o ||</seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex2101-2024-10-02-2\" status=\"finalized\">\n         'di la <rs type=\"person\" ref=\"db:6949\" ana=\"corpusmd:named_reference\">jo bo a du <choice><reg>la</reg><orig>\u2039la\u203a</orig></choice></rs> ces pa na re snang tshod pa'i gzung pa yod pa dang bden pa'i gzung pa med par rtogs pas gzung pa bden pa'i rtogs pa spong ba dang | 'dzin pa bden par med pa ma gtogs pas de'i rtog pa mi <pb n=\"78b\"/><lb edRef=\"inst:4622\" n=\"78b1\"/> spong pa yin no zhe'o ||</seg></TEI>",
   "source": "1_021_01_ gZhon nu rin chen_mngon par rtog pa'i rgyan gyi 'grel ba bcud kyi thig le.xml",
   "tibschol_refs": "1_021_01",
   "zotero_refs": "",
   "status": "finalized",
-  "location": "78a7 - 78b1"
+  "location": "inst:4622: 78a7 - 78b1"
 }

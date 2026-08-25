@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/820/",
   "xml_id": "ex87042023-10-041",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex87042023-10-041\" status=\"reviewed\" part=\"I\" next=\"ex87042023-10-042\">\n         <milestone unit=\"section\" n=\"Cover page (1a)\"/>\n        <pb n=\"1a\"/><lb n=\"1a1\"/> phyi <lb n=\"1a2\"/>zha <lb n=\"1a3\"/>6 <lb n=\"1a4\"/>\u0fd3\u0fd3 || <rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:5294\">tshad ma'i don bsdus pa</rs> zhes bya ba bzhugs pa lags s+h+yo \u00b0\u00b0\u00b0 || </seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex87042023-10-041\" status=\"reviewed\" part=\"I\" next=\"ex87042023-10-042\">\n         <milestone unit=\"section\" n=\"Cover page (1a)\"/>\n        <pb edRef=\"inst:5293\" n=\"1a\"/><lb edRef=\"inst:5293\" n=\"1a1\"/> phyi <lb edRef=\"inst:5293\" n=\"1a2\"/>zha <lb edRef=\"inst:5293\" n=\"1a3\"/>6 <lb edRef=\"inst:5293\" n=\"1a4\"/>\u0fd3\u0fd3 || <rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:5294\">tshad ma'i don bsdus pa</rs> zhes bya ba bzhugs pa lags s+h+yo \u00b0\u00b0\u00b0 || </seg></TEI>",
   "source": "3_087_04_Blo gros mtshungs med_tshad ma don bsdus.xml",
   "tibschol_refs": "3_087_04",
   "zotero_refs": "",
   "status": "reviewed",
-  "location": "1a1 - 1a4"
+  "location": "inst:5293: 1a1 - 1a4"
 }

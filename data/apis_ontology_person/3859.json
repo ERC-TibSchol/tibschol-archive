@@ -235,6 +235,37 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 7801,
+      "label": "spyil phu pa chos kyi rgyal mtshan (3859) lineage predecessor of lha lung gi dbang phyug (3932)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3932/",
+        "label": "lha lung gi dbang phyug (3932)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex61032023-09-26-091118",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        15
+      ]
+    },
+    {
       "id": 117,
       "label": "phywa pa chos kyi seng ge (3831) ordinator of spyil phu pa chos kyi rgyal mtshan (3859)",
       "subj": {
@@ -435,6 +466,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7800,
+      "label": "'chad kha pa ye shes rdo rje (3874) lineage predecessor of spyil phu pa chos kyi rgyal mtshan (3859)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3874/",
+        "label": "'chad kha pa ye shes rdo rje (3874)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex61032023-09-26-091118",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        15
+      ]
     }
   ],
   "end_date_to": "1189-12-31",
