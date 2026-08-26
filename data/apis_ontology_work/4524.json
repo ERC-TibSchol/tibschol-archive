@@ -50,9 +50,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex011032026-08-2504-21-44",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -108,6 +108,34 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "ex50122025-01-1313-50-05",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7806,
+      "label": "sangs rgyas sgom pa seng ge skyabs (3976) studies grub mtha' chen mo (4524)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3976/",
+        "label": "sangs rgyas sgom pa seng ge skyabs (3976)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4524/",
+        "label": "grub mtha' chen mo (4524)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex050192026-08-2504-42-52",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

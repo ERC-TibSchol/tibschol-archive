@@ -237,10 +237,10 @@
     },
     {
       "id": 4158,
-      "label": "gro lung pa blo gros 'byung gnas (3806) quotes with name stod lung pa rin chen snying po (4182)",
+      "label": "phag mo gru pa rdo rje rgyal po (3856) quotes with name stod lung pa rin chen snying po (4182)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3806/",
-        "label": "gro lung pa blo gros 'byung gnas (3806)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3856/",
+        "label": "phag mo gru pa rdo rje rgyal po (3856)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -262,7 +262,9 @@
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        12
+      ]
     }
   ],
   "end_date_to": "1116-12-31",
