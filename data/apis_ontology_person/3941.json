@@ -149,37 +149,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 180,
-      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) student of rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
-        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3941/",
-        "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 109 (bya 'dul 'dzin ... rgya dang rma tsho bla zur du byas pa la 'dul ba mkhas par bslabs |). Uncertain whether the person referred to here as \"rgya\" is rGya 'dul 'dzin.\r\n[W4T5ZMUP]: 168. Bya 'dul 'dzin's teacher is only referred to as \"rgya\".",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        8
-      ]
-    },
-    {
       "id": 343,
       "label": "gtum ston blo gros grags (3925) student of rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
       "subj": {
@@ -379,7 +348,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[EG6VZ8JK]: 25, translated from [8GL7ZT7Y]: 14b6 (rgya'i slob ma rma gtso byang chub rdo rje las chos 'dul ba shin tu mkhas par bslabs).\r\n[R894SIKE]: 108.",
-      "tei_refs": "",
+      "tei_refs": "exX0032026-08-2802-19-11",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -443,6 +412,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 180,
+      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) student of rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3941/",
+        "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 109 (bya 'dul 'dzin ... rgya dang rma tsho bla zur du byas pa la 'dul ba mkhas par bslabs |). Uncertain whether the person referred to here as \"rgya\" is rGya 'dul 'dzin.\r\n[W4T5ZMUP]: 168. Bya 'dul 'dzin's teacher is only referred to as \"rgya\".",
+      "tei_refs": "exX0032026-08-2802-22-42",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
     }
   ],
   "end_date_to": "1131-12-31",

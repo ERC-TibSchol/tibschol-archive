@@ -57,21 +57,52 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 7811,
+      "label": "snar thang bsam gtan bzang po (4005) student of dka' bzhi pa shes rab seng ge (7860)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4005/",
+        "label": "snar thang bsam gtan bzang po (4005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7860/",
+        "label": "dka' bzhi pa shes rab seng ge (7860)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex72012025-02-2416-45-50 (identification of shes rab seng ge uncertain)\r\nex38032023-09-181",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
     }
   ],
   "end_date_to": null,
   "end_date_from": null,
   "end_date_sort": null,
-  "start_date_to": null,
+  "start_date_to": "1323-12-31",
   "start_date_from": null,
-  "start_date_sort": null,
+  "start_date_sort": "1323-12-31",
   "tibetan_transliteration": "\u0f51\u0f40\u0f60\u0f0b\u0f56\u0f5e\u0f72\u0f0b\u0f54\u0f0b\u0f64\u0f7a\u0f66\u0f0b\u0f62\u0f56\u0f0b\u0f66\u0f7a\u0f44\u0f0b\u0f42\u0f7a",
-  "comments": "If one adopts 1333 as the date for his vinaya commentary, and 1356 for the commentary by bSam gtan bzang po (ID:4735) that refers to dKa' bzhi pa Shes rab senge, this figure must be different from rGyud smad shes rab seng ge (1383-1445) (ID:4123).",
+  "comments": "If one adopts 1333 as the date for his commentary on monastic discipline (ID:7861), and 1356 for that of bSam gtan bzang po, work (ID:4735), that refers to him in its colophon, this Shes rab seng ge must be different from rGyud smad shes rab seng ge (1383-1445) (ID:4123).",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [],
   "external_links": "",
   "review": false,
-  "start": null,
+  "start": "before 1323",
   "end": null,
   "name": "dka' bzhi pa shes rab seng ge",
   "gender": "male",

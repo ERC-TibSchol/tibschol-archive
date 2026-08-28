@@ -230,6 +230,37 @@
       "end": null
     },
     {
+      "id": 7811,
+      "label": "snar thang bsam gtan bzang po (4005) student of dka' bzhi pa shes rab seng ge (7860)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4005/",
+        "label": "snar thang bsam gtan bzang po (4005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7860/",
+        "label": "dka' bzhi pa shes rab seng ge (7860)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex72012025-02-2416-45-50 (identification of shes rab seng ge uncertain)\r\nex38032023-09-181",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
       "id": 249,
       "label": "mchims blo bzang grags pa (4007) lineage predecessor of snar thang bsam gtan bzang po (4005)",
       "subj": {
@@ -295,9 +326,9 @@
   "end_date_to": "1480-12-31",
   "end_date_from": "1305-01-01",
   "end_date_sort": "1392-12-31",
-  "start_date_to": "1365-12-31",
+  "start_date_to": "1346-12-31",
   "start_date_from": null,
-  "start_date_sort": "1365-12-31",
+  "start_date_sort": "1346-12-31",
   "tibetan_transliteration": "\u0f66\u0fa3\u0f62\u0f0b\u0f50\u0f44\u0f0b\u0f56\u0f66\u0f58\u0f0b\u0f42\u0f4f\u0f53\u0f0b\u0f56\u0f5f\u0f44\u0f0b\u0f54\u0f7c",
   "comments": "",
   "alternative_names_legacy": "snar thang pa bsam gtan bzang po",
@@ -309,7 +340,7 @@
   ],
   "external_links": "https://purl.bdrc.io/resource/P3JT13451",
   "review": false,
-  "start": "before 1365",
+  "start": "before 1346",
   "end": "after 1305 before 1480",
   "name": "snar thang bsam gtan bzang po",
   "gender": "male",
