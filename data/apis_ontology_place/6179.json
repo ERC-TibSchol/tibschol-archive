@@ -30,35 +30,6 @@
       "end": null
     },
     {
-      "id": 2576,
-      "label": "dpang lo tsA ba blo gros brtan pa (4097) active at stag lung (6179)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
-        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6179/",
-        "label": "stag lung (6179)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 921 (phyis dbus su byon nas ne'u thog gung thang | stag lung la sogs pa rnams su sde snod 'dzin pa mtha' yas pa'i blo'i mig phyes |). Taught at sTag lung.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3946,
       "label": "sangs rgyas yar byon (6761) active at stag lung (6179)",
       "subj": {
@@ -85,6 +56,35 @@
       "confidence": "Positive",
       "start": "1236",
       "end": "1272",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2576,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) active at stag lung (6179)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6179/",
+        "label": "stag lung (6179)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 921 (phyis dbus su byon nas ne'u thog gung thang | stag lung la sogs pa rnams su sde snod 'dzin pa mtha' yas pa'i blo'i mig phyes |). Taught at sTag lung.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     }
   ],

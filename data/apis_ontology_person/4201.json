@@ -31,35 +31,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 2846,
-      "label": "gtsang pa jo nam (4201) active at gsang phu gling smad (6158)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4201/",
-        "label": "gtsang pa jo nam (4201)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6158/",
-        "label": "gsang phu gling smad (6158)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": "1300-12-31",
-      "end_date_from": null,
-      "end_date_sort": "1300-12-31",
-      "start_date_to": null,
-      "start_date_from": "1200-01-01",
-      "start_date_sort": "1200-01-01",
-      "zotero_refs": "[MPRU5QUC]: 209. Abbot of gSang phu ne'u thog monastery (fifth abbot of lower college) for 15 years.\r\n[3HXACZSD]: 216 (based on the Red Annals). Was handed the see of Ne'u thog by bZad pa don grub (ID:4246) while holding the see of 'Gral. Held it for 15 years.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1200",
-      "end": "before 1300",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 7015,
       "label": "gtsang pa jo nam (4201) student of 'gral sher rgyal (7975)",
       "subj": {
@@ -86,6 +57,35 @@
       "confidence": "Positive",
       "start": null,
       "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2846,
+      "label": "gtsang pa jo nam (4201) active at gsang phu gling smad (6158)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4201/",
+        "label": "gtsang pa jo nam (4201)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6158/",
+        "label": "gsang phu gling smad (6158)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1300-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1300-12-31",
+      "start_date_to": null,
+      "start_date_from": "1200-01-01",
+      "start_date_sort": "1200-01-01",
+      "zotero_refs": "[MPRU5QUC]: 209. Abbot of gSang phu ne'u thog monastery (fifth abbot of lower college) for 15 years.\r\n[3HXACZSD]: 216 (based on the Red Annals). Was handed the see of Ne'u thog by bZad pa don grub (ID:4246) while holding the see of 'Gral. Held it for 15 years.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1200",
+      "end": "before 1300",
       "subject_of_teaching_vocab": []
     },
     {

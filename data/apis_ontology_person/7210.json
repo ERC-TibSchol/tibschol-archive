@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7210/",
   "relations": [
     {
+      "id": 5383,
+      "label": "dpyal padmo can (7210) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7210/",
+        "label": "dpyal padmo can (7210)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 544, n. 153, citing the dPyal pa'i lo rgyus kyi yi ge (chu mig mkhan po dmar rdo rje rtse mo (ID:7211) la tshad ma rnam nges dang | rtu tsa chos brtson la sher phyin | mngon rtog rgyan 'grel dang bcas pa gsan ||)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5381,
       "label": "dpyal padmo can (7210) student of dmar rdo rje rtse mo (7211)",
       "subj": {
@@ -31,34 +59,6 @@
       "subject_of_teaching_vocab": [
         9
       ]
-    },
-    {
-      "id": 5383,
-      "label": "dpyal padmo can (7210) studies pram\u0101\u1e47avini\u015bcaya (3774)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7210/",
-        "label": "dpyal padmo can (7210)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[I58Z22ET]: 544, n. 153, citing the dPyal pa'i lo rgyus kyi yi ge (chu mig mkhan po dmar rdo rje rtse mo (ID:7211) la tshad ma rnam nges dang | rtu tsa chos brtson la sher phyin | mngon rtog rgyan 'grel dang bcas pa gsan ||)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 5390,

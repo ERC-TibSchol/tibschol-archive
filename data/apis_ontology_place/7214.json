@@ -30,6 +30,34 @@
       "end": null
     },
     {
+      "id": 5402,
+      "label": "pram\u0101\u1e47avini\u015bcaya (3774) taught at rnam snang rig pa'i grwa sa (7214)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7214/",
+        "label": "rnam snang rig pa'i grwa sa (7214)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 548-549, n. 163, citing 'Jam dbyangs chos kyi grags pa, dPyal pa'i lo rgyus kyi yi ge (rnam snag [sic, for snang?] rig pa'i grwa sar | slob dpon sgra [sic, for smra?] ba'i seng ge dar ma mdzes la tshad ma rnam nges blab pa mthar phyin pas | bla ma'i gdan sar | sngags mtshan nyid kyi char chen po phab nas). Corrections suggested to the Tibetan added by TibSchol. Studied by Nyi ma dpal (ID:7215) with Dar ma mdzes (ID:7216).\r\n[I58Z22ET]: 549, n. 163, citing dPyal gyi gdung ras gang+ga'i chu rgyun (rgyud 'grel man ngag dang bcas pa la mkhas par gyur kyang chu mig tshad grwa rnam snang rig pa'i chos sder | slob dpon smra ba'i seng ge dar ma mdzes dang yangs pa'i blo gros kyi rgya mtsho 'jam dpa'i dbyangs la tshad ma rnam nges blabs pa mthar phyin nas grwa pa la gsungs shing mtshan nyid kyi bstan bcos mkhas par gyur nas...)",
+      "tei_refs": "",
+      "support_notes": "The place mentioned in the two passages cited in [I58Z22ET]: 548-549 is understood to be the same, i.e. (ID:7214).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5388,
       "label": "chos kyi blo gros (7213) active at rnam snang rig pa'i grwa sa (7214)",
       "subj": {
@@ -51,37 +79,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[I58Z22ET]: 547, n. 161. Based on the dPyal gyi gdung rabs gang+ga'i chu rgyun (rnam snang rig pa'i ra bar | dmar rdo rje rtse mo'i drung du tshad ma rnam nges kyi bslab pa mthar phyin nas). Studied with dMar rDo rje rtse mo (ID:7211).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
-      "id": 5389,
-      "label": "dmar rdo rje rtse mo (7211) active at rnam snang rig pa'i grwa sa (7214)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7211/",
-        "label": "dmar rdo rje rtse mo (7211)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7214/",
-        "label": "rnam snang rig pa'i grwa sa (7214)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[I58Z22ET]: 547, n. 161. Based on the dPyal gyi gdung rabs gang+ga'i chu rgyun (rnam snang rig pa'i ra bar | dmar rdo rje rtse mo'i drung du tshad ma rnam nges kyi bslab pa mthar phyin nas). Taught Chos kyi blo gros (ID:7213).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -154,13 +151,13 @@
       ]
     },
     {
-      "id": 5402,
-      "label": "pram\u0101\u1e47avini\u015bcaya (3774) taught at rnam snang rig pa'i grwa sa (7214)",
+      "id": 5389,
+      "label": "dmar rdo rje rtse mo (7211) active at rnam snang rig pa'i grwa sa (7214)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7211/",
+        "label": "dmar rdo rje rtse mo (7211)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7214/",
@@ -174,12 +171,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[I58Z22ET]: 548-549, n. 163, citing 'Jam dbyangs chos kyi grags pa, dPyal pa'i lo rgyus kyi yi ge (rnam snag [sic, for snang?] rig pa'i grwa sar | slob dpon sgra [sic, for smra?] ba'i seng ge dar ma mdzes la tshad ma rnam nges blab pa mthar phyin pas | bla ma'i gdan sar | sngags mtshan nyid kyi char chen po phab nas). Corrections suggested to the Tibetan added by TibSchol. Studied by Nyi ma dpal (ID:7215) with Dar ma mdzes (ID:7216).\r\n[I58Z22ET]: 549, n. 163, citing dPyal gyi gdung ras gang+ga'i chu rgyun (rgyud 'grel man ngag dang bcas pa la mkhas par gyur kyang chu mig tshad grwa rnam snang rig pa'i chos sder | slob dpon smra ba'i seng ge dar ma mdzes dang yangs pa'i blo gros kyi rgya mtsho 'jam dpa'i dbyangs la tshad ma rnam nges blabs pa mthar phyin nas grwa pa la gsungs shing mtshan nyid kyi bstan bcos mkhas par gyur nas...)",
+      "zotero_refs": "[I58Z22ET]: 547, n. 161. Based on the dPyal gyi gdung rabs gang+ga'i chu rgyun (rnam snang rig pa'i ra bar | dmar rdo rje rtse mo'i drung du tshad ma rnam nges kyi bslab pa mthar phyin nas). Taught Chos kyi blo gros (ID:7213).",
       "tei_refs": "",
-      "support_notes": "The place mentioned in the two passages cited in [I58Z22ET]: 548-549 is understood to be the same, i.e. (ID:7214).",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
     }
   ],
   "start_date_to": null,

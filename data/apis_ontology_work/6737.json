@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6737/",
   "relations": [
     {
-      "id": 3886,
-      "label": "brgyad stong pa dang rgyan gyi bshad pa'i zin bris (6737) records the teaching of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+      "id": 5527,
+      "label": "brgyad stong pa dang rgyan gyi bshad pa'i zin bris (6737) commentary on a\u1e63\u1e6das\u0101hasrik\u0101praj\u00f1\u0101p\u0101ramit\u0101 (3692)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6737/",
         "label": "brgyad stong pa dang rgyan gyi bshad pa'i zin bris (6737)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
-        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3692/",
+        "label": "a\u1e63\u1e6das\u0101hasrik\u0101praj\u00f1\u0101p\u0101ramit\u0101 (3692)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,7 +22,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[5RXEUKD9]: 529, No. 11491 (jo bos dbus nas 'brom sogs la brgyad stong pa dang rgyan gyi bshad pa mdzad pa la khams pa phyag dar ston pas zin bris byas pa phar phyin khams lugs su grags pa). Records Ati\u015ba's teaching to 'Brom ston on the Abhisamay\u0101la\u1e43k\u0101ra\u00ad (ID:3706) and the A\u1e63\u1e6das\u0101hasrik\u0101praj\u00f1\u0101p\u0101ramit\u0101 (ID:3692).",
+      "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -58,8 +58,8 @@
       "end": null
     },
     {
-      "id": 5527,
-      "label": "brgyad stong pa dang rgyan gyi bshad pa'i zin bris (6737) commentary on a\u1e63\u1e6das\u0101hasrik\u0101praj\u00f1\u0101p\u0101ramit\u0101 (3692)",
+      "id": 3886,
+      "label": "brgyad stong pa dang rgyan gyi bshad pa'i zin bris (6737) records the teaching of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6737/",
         "label": "brgyad stong pa dang rgyan gyi bshad pa'i zin bris (6737)",
@@ -67,10 +67,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3692/",
-        "label": "a\u1e63\u1e6das\u0101hasrik\u0101praj\u00f1\u0101p\u0101ramit\u0101 (3692)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -78,7 +78,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[5RXEUKD9]: 529, No. 11491 (jo bos dbus nas 'brom sogs la brgyad stong pa dang rgyan gyi bshad pa mdzad pa la khams pa phyag dar ston pas zin bris byas pa phar phyin khams lugs su grags pa). Records Ati\u015ba's teaching to 'Brom ston on the Abhisamay\u0101la\u1e43k\u0101ra\u00ad (ID:3706) and the A\u1e63\u1e6das\u0101hasrik\u0101praj\u00f1\u0101p\u0101ramit\u0101 (ID:3692).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

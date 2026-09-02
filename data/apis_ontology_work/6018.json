@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6018/",
   "relations": [
     {
-      "id": 2307,
-      "label": "tshad ma rnam par nges pa'i legs par bshad pa nyi ma'i 'od zer gyi snang ba las le'u gsum pa'i bsdus don (6018) commentary on pram\u0101\u1e47avini\u015bcaya (3774)",
+      "id": 2308,
+      "label": "tshad ma rnam par nges pa'i legs par bshad pa nyi ma'i 'od zer gyi snang ba las le'u gsum pa'i bsdus don (6018) has as an instance tshad ma rnam par nges pa\u2019i legs par bshad pa nyi ma'i 'od zer gyi snang ba las le'u gsum pa'i bsdus don (6019)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6018/",
         "label": "tshad ma rnam par nges pa'i legs par bshad pa nyi ma'i 'od zer gyi snang ba las le'u gsum pa'i bsdus don (6018)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6019/",
+        "label": "tshad ma rnam par nges pa\u2019i legs par bshad pa nyi ma'i 'od zer gyi snang ba las le'u gsum pa'i bsdus don (6019)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 2308,
-      "label": "tshad ma rnam par nges pa'i legs par bshad pa nyi ma'i 'od zer gyi snang ba las le'u gsum pa'i bsdus don (6018) has as an instance tshad ma rnam par nges pa\u2019i legs par bshad pa nyi ma'i 'od zer gyi snang ba las le'u gsum pa'i bsdus don (6019)",
+      "id": 2307,
+      "label": "tshad ma rnam par nges pa'i legs par bshad pa nyi ma'i 'od zer gyi snang ba las le'u gsum pa'i bsdus don (6018) commentary on pram\u0101\u1e47avini\u015bcaya (3774)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6018/",
         "label": "tshad ma rnam par nges pa'i legs par bshad pa nyi ma'i 'od zer gyi snang ba las le'u gsum pa'i bsdus don (6018)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6019/",
-        "label": "tshad ma rnam par nges pa\u2019i legs par bshad pa nyi ma'i 'od zer gyi snang ba las le'u gsum pa'i bsdus don (6019)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,

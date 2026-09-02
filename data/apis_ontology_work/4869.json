@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4869/",
   "relations": [
     {
-      "id": 1461,
-      "label": "ye shes kyi gzhag sa (4869) has as an instance ye shes kyi gzhag sa (2) (4868)",
+      "id": 1865,
+      "label": "ye shes kyi gzhag sa (4869) has as an instance ye shes kyi bzhag sa (1) (5852)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4869/",
         "label": "ye shes kyi gzhag sa (4869)",
@@ -11,8 +11,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4868/",
-        "label": "ye shes kyi gzhag sa (2) (4868)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5852/",
+        "label": "ye shes kyi bzhag sa (1) (5852)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1865,
-      "label": "ye shes kyi gzhag sa (4869) has as an instance ye shes kyi bzhag sa (1) (5852)",
+      "id": 1461,
+      "label": "ye shes kyi gzhag sa (4869) has as an instance ye shes kyi gzhag sa (2) (4868)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4869/",
         "label": "ye shes kyi gzhag sa (4869)",
@@ -39,8 +39,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5852/",
-        "label": "ye shes kyi bzhag sa (1) (5852)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4868/",
+        "label": "ye shes kyi gzhag sa (2) (4868)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },

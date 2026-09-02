@@ -2,13 +2,13 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5282/",
   "relations": [
     {
-      "id": 1649,
-      "label": "chos mngon pa mdzod kyi rnam bshad gzhung don gsal byed legs bshad snang ba (5283) has as an instance chos mngon pa mdzod kyi rnam bshad gzhung don gsal byed legs bshad snang ba (5282)",
+      "id": 1826,
+      "label": "mkhan chen pa (5836) owner of chos mngon pa mdzod kyi rnam bshad gzhung don gsal byed legs bshad snang ba (5282)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5283/",
-        "label": "chos mngon pa mdzod kyi rnam bshad gzhung don gsal byed legs bshad snang ba (5283)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5836/",
+        "label": "mkhan chen pa (5836)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5282/",
@@ -22,9 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex8602_202409183",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -58,13 +58,13 @@
       "end": null
     },
     {
-      "id": 1826,
-      "label": "mkhan chen pa (5836) owner of chos mngon pa mdzod kyi rnam bshad gzhung don gsal byed legs bshad snang ba (5282)",
+      "id": 1649,
+      "label": "chos mngon pa mdzod kyi rnam bshad gzhung don gsal byed legs bshad snang ba (5283) has as an instance chos mngon pa mdzod kyi rnam bshad gzhung don gsal byed legs bshad snang ba (5282)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5836/",
-        "label": "mkhan chen pa (5836)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5283/",
+        "label": "chos mngon pa mdzod kyi rnam bshad gzhung don gsal byed legs bshad snang ba (5283)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5282/",
@@ -78,9 +78,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex8602_202409183",
-      "support_notes": "",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

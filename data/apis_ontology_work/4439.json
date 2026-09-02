@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4439/",
   "relations": [
     {
-      "id": 1266,
-      "label": "dbus mtha'i don bsdus (4439) has as an instance dbus mtha'i don bsdus (1) (4438)",
+      "id": 2813,
+      "label": "dbus mtha'i don bsdus (4439) has as an instance dbus mtha'i don bsdus (2) (6263)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4439/",
         "label": "dbus mtha'i don bsdus (4439)",
@@ -11,8 +11,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4438/",
-        "label": "dbus mtha'i don bsdus (1) (4438)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6263/",
+        "label": "dbus mtha'i don bsdus (2) (6263)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -23,7 +23,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "xml:id=\"ex1102023-26-04-149\"",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -86,34 +86,6 @@
       "end": null
     },
     {
-      "id": 2813,
-      "label": "dbus mtha'i don bsdus (4439) has as an instance dbus mtha'i don bsdus (2) (6263)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4439/",
-        "label": "dbus mtha'i don bsdus (4439)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6263/",
-        "label": "dbus mtha'i don bsdus (2) (6263)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 7263,
       "label": "dbus mtha'i don bsdus (4439) has as an instance dbus mtha'i don bsdus (4) (8125)",
       "subj": {
@@ -136,6 +108,34 @@
       "start_date_sort": null,
       "zotero_refs": "FJGT2RG7",
       "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1266,
+      "label": "dbus mtha'i don bsdus (4439) has as an instance dbus mtha'i don bsdus (1) (4438)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4439/",
+        "label": "dbus mtha'i don bsdus (4439)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4438/",
+        "label": "dbus mtha'i don bsdus (1) (4438)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "xml:id=\"ex1102023-26-04-149\"",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

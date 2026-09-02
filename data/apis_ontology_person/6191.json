@@ -2,38 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6191/",
   "relations": [
     {
-      "id": 2599,
-      "label": "cog ro chos kyi rgyal mtshan (6191) student of rgya dmar ba byang chub grags (3834)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6191/",
-        "label": "cog ro chos kyi rgyal mtshan (6191)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
-        "label": "rgya dmar ba byang chub grags (3834)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 404 (mkhas pa chen po cog ro chos kyi rgyal mtshan | dpal phag mo gru pa | 'bal tshad ma ba | skyil mkhar lha khang ba | dus gsum mkhyen pa la sogs pa slob ma yang mkhas pa mang du byung |)\r\n[R894SIKE]: 467 (lo bcu dgu la rgya dmar gyi grwa sar phebs |...tshad ma rnam nges dang | dbu ma rang rgyud du grags pa'i skor rnams gsan zhing mkhas par mdzad |)\r\n[R894SIKE]: 467 (grwa sa der rje phag mo gru pa | mkhan po ka ba | 'bal tshad ma ba rnams dang dus mtshungs|). Fellow student of Cog ro chos kyi rgyal mtshan (ID: 6191), Phag mo gru pa (ID: 3856), mKhan po ka ba (ID: 6205). here to \"rgya dmar gyi grwa sa\" or to the place called \"do\" (ID:7241) mentioned in the previous sentence, and studies with rGya dmar ba (ID:3834) are not explicit in this sentence.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1126",
-      "end": "after 1126",
-      "subject_of_teaching_vocab": [
-        9,
-        13
-      ]
-    },
-    {
       "id": 2632,
       "label": "cog ro chos kyi rgyal mtshan (6191) studies pram\u0101\u1e47avini\u015bcaya (3774)",
       "subj": {
@@ -62,8 +30,8 @@
       "end": "after 1127"
     },
     {
-      "id": 2633,
-      "label": "cog ro chos kyi rgyal mtshan (6191) teaches pram\u0101\u1e47avini\u015bcaya (3774)",
+      "id": 5469,
+      "label": "cog ro chos kyi rgyal mtshan (6191) active at do (7241)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6191/",
         "label": "cog ro chos kyi rgyal mtshan (6191)",
@@ -71,10 +39,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7241/",
+        "label": "do (7241)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -82,41 +50,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 467 (nyi shu rtsa bzhir do la rnam nges kyi bshad pa mdzad |). In 1131 in Do (ID:7241).\r\n[R894SIKE]: 468 (de nas rnam nges kyi bshad pa thogs shig mdzad de |). After 1136.",
+      "zotero_refs": "[R894SIKE]: 467 (nyi shu rtsa bzhir do la rnam nges kyi bshad pa mdzad |). Teaches the Pram\u0101\u1e47avini\u015bcaya (ID:3774).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": "1131",
-      "end": "1131"
-    },
-    {
-      "id": 2635,
-      "label": "cog ro chos kyi rgyal mtshan (6191) student of mar pa do ba chos kyi dbang phyug (4215)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6191/",
-        "label": "cog ro chos kyi rgyal mtshan (6191)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
-        "label": "mar pa do ba chos kyi dbang phyug (4215)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": "1131",
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 2636,
@@ -177,8 +119,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5469,
-      "label": "cog ro chos kyi rgyal mtshan (6191) active at do (7241)",
+      "id": 2633,
+      "label": "cog ro chos kyi rgyal mtshan (6191) teaches pram\u0101\u1e47avini\u015bcaya (3774)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6191/",
         "label": "cog ro chos kyi rgyal mtshan (6191)",
@@ -186,10 +128,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7241/",
-        "label": "do (7241)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -197,14 +139,72 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 467 (nyi shu rtsa bzhir do la rnam nges kyi bshad pa mdzad |). Teaches the Pram\u0101\u1e47avini\u015bcaya (ID:3774).",
+      "zotero_refs": "[R894SIKE]: 467 (nyi shu rtsa bzhir do la rnam nges kyi bshad pa mdzad |). In 1131 in Do (ID:7241).\r\n[R894SIKE]: 468 (de nas rnam nges kyi bshad pa thogs shig mdzad de |). After 1136.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": "1131",
-      "end": "1131",
+      "end": "1131"
+    },
+    {
+      "id": 2635,
+      "label": "cog ro chos kyi rgyal mtshan (6191) student of mar pa do ba chos kyi dbang phyug (4215)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6191/",
+        "label": "cog ro chos kyi rgyal mtshan (6191)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
+        "label": "mar pa do ba chos kyi dbang phyug (4215)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2599,
+      "label": "cog ro chos kyi rgyal mtshan (6191) student of rgya dmar ba byang chub grags (3834)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6191/",
+        "label": "cog ro chos kyi rgyal mtshan (6191)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 404 (mkhas pa chen po cog ro chos kyi rgyal mtshan | dpal phag mo gru pa | 'bal tshad ma ba | skyil mkhar lha khang ba | dus gsum mkhyen pa la sogs pa slob ma yang mkhas pa mang du byung |)\r\n[R894SIKE]: 467 (lo bcu dgu la rgya dmar gyi grwa sar phebs |...tshad ma rnam nges dang | dbu ma rang rgyud du grags pa'i skor rnams gsan zhing mkhas par mdzad |)\r\n[R894SIKE]: 467 (grwa sa der rje phag mo gru pa | mkhan po ka ba | 'bal tshad ma ba rnams dang dus mtshungs|). Fellow student of Cog ro chos kyi rgyal mtshan (ID: 6191), Phag mo gru pa (ID: 3856), mKhan po ka ba (ID: 6205). here to \"rgya dmar gyi grwa sa\" or to the place called \"do\" (ID:7241) mentioned in the previous sentence, and studies with rGya dmar ba (ID:3834) are not explicit in this sentence.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1126",
+      "end": "after 1126",
       "subject_of_teaching_vocab": [
-        9
+        9,
+        13
       ]
     }
   ],

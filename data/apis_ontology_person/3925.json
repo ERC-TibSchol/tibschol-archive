@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3925/",
   "relations": [
     {
-      "id": 342,
-      "label": "gtum ston blo gros grags (3925) student of zhang sha ra ba yon tan grags (3869)",
+      "id": 7458,
+      "label": "gtum ston blo gros grags (3925) lineage predecessor of rdo ston shes rab grags (3924)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3925/",
         "label": "gtum ston blo gros grags (3925)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3869/",
-        "label": "zhang sha ra ba yon tan grags (3869)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3924/",
+        "label": "rdo ston shes rab grags (3924)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -22,12 +22,43 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 344 (shar ba'i pa slob ma gtum ston Blo gros grags la |...).\r\n[NTGHCZA8]: 29.",
-      "tei_refs": "",
+      "zotero_refs": "",
+      "tei_refs": "ex107012023-10-06-110731 (Stages of the Path Lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
+    },
+    {
+      "id": 5769,
+      "label": "gtum ston blo gros grags (3925) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3925/",
+        "label": "gtum ston blo gros grags (3925)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1166-12-31",
+      "end_date_from": "1166-01-01",
+      "end_date_sort": "1166-07-02",
+      "start_date_to": "1153-12-31",
+      "start_date_from": "1153-01-01",
+      "start_date_sort": "1153-07-02",
+      "zotero_refs": "[Q922IUFM]: 1: 35. Foundation of the monastery in 1153.",
+      "tei_refs": "exX0032026-06-2509-18-11",
+      "support_notes": "First abbot of the monastery, for 14 years.",
+      "confidence": "Positive",
+      "start": "1153",
+      "end": "1166",
       "subject_of_teaching_vocab": []
     },
     {
@@ -62,66 +93,6 @@
       ]
     },
     {
-      "id": 5769,
-      "label": "gtum ston blo gros grags (3925) active at snar thang (4411)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3925/",
-        "label": "gtum ston blo gros grags (3925)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
-        "label": "snar thang (4411)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": "1166-12-31",
-      "end_date_from": "1166-01-01",
-      "end_date_sort": "1166-07-02",
-      "start_date_to": "1153-12-31",
-      "start_date_from": "1153-01-01",
-      "start_date_sort": "1153-07-02",
-      "zotero_refs": "[Q922IUFM]: 1: 35. Foundation of the monastery in 1153.",
-      "tei_refs": "exX0032026-06-2509-18-11",
-      "support_notes": "First abbot of the monastery, for 14 years.",
-      "confidence": "Positive",
-      "start": "1153",
-      "end": "1166",
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 7458,
-      "label": "gtum ston blo gros grags (3925) lineage predecessor of rdo ston shes rab grags (3924)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3925/",
-        "label": "gtum ston blo gros grags (3925)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3924/",
-        "label": "rdo ston shes rab grags (3924)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex107012023-10-06-110731 (Stages of the Path Lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        12
-      ]
-    },
-    {
       "id": 7657,
       "label": "gtum ston blo gros grags (3925) lineage predecessor of chu mig pa shes rab grags (3975)",
       "subj": {
@@ -153,6 +124,35 @@
       ]
     },
     {
+      "id": 342,
+      "label": "gtum ston blo gros grags (3925) student of zhang sha ra ba yon tan grags (3869)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3925/",
+        "label": "gtum ston blo gros grags (3925)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3869/",
+        "label": "zhang sha ra ba yon tan grags (3869)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 344 (shar ba'i pa slob ma gtum ston Blo gros grags la |...).\r\n[NTGHCZA8]: 29.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 172,
       "label": "rdo ston shes rab grags (3924) student of gtum ston blo gros grags (3925)",
       "subj": {
@@ -180,37 +180,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 7656,
-      "label": "lcang ra ba ldum ston (4216) lineage predecessor of gtum ston blo gros grags (3925)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4216/",
-        "label": "lcang ra ba ldum ston (4216)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3925/",
-        "label": "gtum ston blo gros grags (3925)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex115012026-03-0918-49-19 (Mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        56
-      ]
     },
     {
       "id": 7807,
@@ -241,6 +210,37 @@
       "end": null,
       "subject_of_teaching_vocab": [
         12
+      ]
+    },
+    {
+      "id": 7656,
+      "label": "lcang ra ba ldum ston (4216) lineage predecessor of gtum ston blo gros grags (3925)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4216/",
+        "label": "lcang ra ba ldum ston (4216)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3925/",
+        "label": "gtum ston blo gros grags (3925)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex115012026-03-0918-49-19 (Mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56
       ]
     }
   ],

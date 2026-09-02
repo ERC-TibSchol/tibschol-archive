@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4131/",
   "relations": [
     {
-      "id": 4547,
-      "label": "mi nyag ye shes rdo rje dpal bzang po (4131) student of mi nyag rin chen bzang po (6363)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4131/",
-        "label": "mi nyag ye shes rdo rje dpal bzang po (4131)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6363/",
-        "label": "mi nyag rin chen bzang po (6363)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[UNV7NRZ8]: 84.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 6928,
       "label": "mi nyag ye shes rdo rje dpal bzang po (4131) author of rgyud bla'i bshad pa nges don nor bu'i mdzod (7946)",
       "subj": {
@@ -80,6 +51,35 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[UNV7NRZ8]",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4547,
+      "label": "mi nyag ye shes rdo rje dpal bzang po (4131) student of mi nyag rin chen bzang po (6363)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4131/",
+        "label": "mi nyag ye shes rdo rje dpal bzang po (4131)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6363/",
+        "label": "mi nyag rin chen bzang po (6363)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[UNV7NRZ8]: 84.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

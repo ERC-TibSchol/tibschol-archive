@@ -1753,14 +1753,15 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex6604_2026-01-2622-06-17 (Bodhisattva lineage)",
+      "tei_refs": "ex6604_2026-01-2622-06-17 (Bodhicary\u0101vat\u0101ra lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
         52,
-        48
+        48,
+        13
       ]
     },
     {
@@ -3716,35 +3717,6 @@
       "end": null
     },
     {
-      "id": 58,
-      "label": "gangs pa she'u blo gros byang chub (3810) student of rngog blo ldan shes rab (3786)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3810/",
-        "label": "gangs pa she'u blo gros byang chub (3810)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 543. Based on Nyang stod bla ma'i mtshan gyi deb ther.\r\n[KHFQ2XU4]: 742 (gangs pa she'u | gong bu rwa can | sham po me dig | me lhang tsher | dmar sga lang | rngog skya po | kre bo mchog bla sogs mang du byon | lam rim yang mtdzad cing |)\r\n[BAQ9MH4T]: 196-197. Based on the sketch of rNgog's life by Las chen Kun dga' rgyal mtshan (ID:4115).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 55,
       "label": "gtsang pa rin chen nam mkha' rdo rje (3808) student of rngog blo ldan shes rab (3786)",
       "subj": {
@@ -3774,6 +3746,35 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 58,
+      "label": "gangs pa she'u blo gros byang chub (3810) student of rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3810/",
+        "label": "gangs pa she'u blo gros byang chub (3810)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 543. Based on Nyang stod bla ma'i mtshan gyi deb ther.\r\n[KHFQ2XU4]: 742 (gangs pa she'u | gong bu rwa can | sham po me dig | me lhang tsher | dmar sga lang | rngog skya po | kre bo mchog bla sogs mang du byon | lam rim yang mtdzad cing |)\r\n[BAQ9MH4T]: 196-197. Based on the sketch of rNgog's life by Las chen Kun dga' rgyal mtshan (ID:4115).",
+      "tei_refs": "exX0032026-09-0112-04-52",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3811,
       "label": "me dig pa (4207) student of rngog blo ldan shes rab (3786)",
       "subj": {
@@ -3795,7 +3796,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[KHFQ2XU4]: 742 (gangs pa she'u | gong bu rwa can | sham po me dig | me lhang tsher | dmar sga lang | rngog skya po | kre bo mchog bla sogs mang du byon | lam rim yang mdzad cing |)\r\n[BAQ9MH4T]: 197. Based on the sketch of rNgog's life by Las chen Kun dga' rgyal mtshan (ID:4115).",
-      "tei_refs": "",
+      "tei_refs": "exX0032026-09-0112-04-52",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -3824,7 +3825,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[KHFQ2XU4]: 742 (gangs pa she'u | gong bu rwa can | sham po me dig | me lhang tsher | dmar sga lang | rngog skya po | kre bo mchog bla sogs mang du byon | lam rim yang mdzad cing |)\r\n[BAQ9MH4T]: 197. Based on the sketch of rNgog's life by Las chen Kun dga' rgyal mtshan (ID:4115).",
-      "tei_refs": "",
+      "tei_refs": "exX0032026-09-0112-04-52",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -3861,11 +3862,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3813,
-      "label": "dmar sga lang (6703) student of rngog blo ldan shes rab (3786)",
+      "id": 3810,
+      "label": "gong bu rwa can (4267) student of rngog blo ldan shes rab (3786)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6703/",
-        "label": "dmar sga lang (6703)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4267/",
+        "label": "gong bu rwa can (4267)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -3882,7 +3883,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[KHFQ2XU4]: 742 (gangs pa she'u | gong bu rwa can | sham po me dig | me lhang tsher | dmar sga lang | rngog skya po | kre bo mchog bla sogs mang du byon | lam rim yang mdzad cing |)\r\n[BAQ9MH4T]: 197. Based on the sketch of rNgog's life by Las chen Kun dga' rgyal mtshan (ID:4115).",
-      "tei_refs": "",
+      "tei_refs": "exX0032026-09-0112-04-52",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -3911,7 +3912,36 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[KHFQ2XU4]: 742 (gangs pa she'u | gong bu rwa can | sham po me dig | me lhang tsher | dmar sga lang | rngog skya po | kre bo mchog bla sogs mang du byon | lam rim yang mdzad cing |)\r\n[BAQ9MH4T]: 197. Based on the sketch of rNgog's life by Las chen Kun dga' rgyal mtshan (ID:4115).",
-      "tei_refs": "",
+      "tei_refs": "exX0032026-09-0112-04-52",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3813,
+      "label": "dmar sga lang (6703) student of rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6703/",
+        "label": "dmar sga lang (6703)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[KHFQ2XU4]: 742 (gangs pa she'u | gong bu rwa can | sham po me dig | me lhang tsher | dmar sga lang | rngog skya po | kre bo mchog bla sogs mang du byon | lam rim yang mdzad cing |)\r\n[BAQ9MH4T]: 197. Based on the sketch of rNgog's life by Las chen Kun dga' rgyal mtshan (ID:4115).",
+      "tei_refs": "exX0032026-09-0112-04-52",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -3940,36 +3970,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[KHFQ2XU4]: 742 (gangs pa she'u | gong bu rwa can | sham po me dig | me lhang tsher | dmar sga lang | rngog skya po | kre bo mchog bla sogs mang du byon | lam rim yang mdzad cing |)\r\n[BAQ9MH4T]: 197. Based on the sketch of rNgog's life by Las chen Kun dga' rgyal mtshan (ID:4115).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3810,
-      "label": "gong bu rwa can (4267) student of rngog blo ldan shes rab (3786)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4267/",
-        "label": "gong bu rwa can (4267)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[KHFQ2XU4]: 742 (gangs pa she'u | gong bu rwa can | sham po me dig | me lhang tsher | dmar sga lang | rngog skya po | kre bo mchog bla sogs mang du byon | lam rim yang mdzad cing |)\r\n[BAQ9MH4T]: 197. Based on the sketch of rNgog's life by Las chen Kun dga' rgyal mtshan (ID:4115).",
-      "tei_refs": "",
+      "tei_refs": "exX0032026-09-0112-04-52",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -4924,7 +4925,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[MGPRHX73]: 58, 66. Cited 7 times in (ID: 4750).\r\n[MGPRHX73]: 66. Cited 52 times in (ID: 5507).",
-      "tei_refs": "exX0022026-05-0409-44-58\r\nexX0022024-11-01-15-42\r\nexX0022024-11-01-15-28\r\nexX0022026-05-2102-42-39\r\nexX0022026-05-2102-42-40\r\nexX0022026-05-2102-42-42\r\nex40012024-10-25-14-01",
+      "tei_refs": "exX0022026-05-0409-44-58\r\nexX0022024-11-01-15-42\r\nexX0022024-11-01-15-28\r\nexX0022026-05-2102-42-39\r\nexX0022026-05-2102-42-40\r\nexX0022026-05-2102-42-42\r\nex40012024-10-25-14-01\r\nex040012026-09-0112-35-23",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

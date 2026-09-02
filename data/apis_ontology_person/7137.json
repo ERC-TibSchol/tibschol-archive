@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7137/",
   "relations": [
     {
-      "id": 5010,
-      "label": "dpal chen chos kyi ye shes (7137) biographer of phag mo gru pa rdo rje rgyal po (3856)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7137/",
-        "label": "dpal chen chos kyi ye shes (7137)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3856/",
-        "label": "phag mo gru pa rdo rje rgyal po (3856)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "Work (ID:7138).",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 5012,
       "label": "dpal chen chos kyi ye shes (7137) author of phag mo gru pa'i rnam thar gzi brjid 'bar ba'i sgron ma (7138)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5010,
+      "label": "dpal chen chos kyi ye shes (7137) biographer of phag mo gru pa rdo rje rgyal po (3856)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7137/",
+        "label": "dpal chen chos kyi ye shes (7137)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3856/",
+        "label": "phag mo gru pa rdo rje rgyal po (3856)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Work (ID:7138).",
       "confidence": "Positive",
       "start": null,
       "end": null

@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4595/",
   "relations": [
     {
-      "id": 639,
-      "label": "yum bar ma nyi khri mngon rtogs rgyan dang sbyar ba'i TIk+ka (4595) commentary on pa\u00f1cavi\u1e43\u015batis\u0101hasrik\u0101 (3691)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4595/",
-        "label": "yum bar ma nyi khri mngon rtogs rgyan dang sbyar ba'i TIk+ka (4595)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3691/",
-        "label": "pa\u00f1cavi\u1e43\u015batis\u0101hasrik\u0101 (3691)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1337,
       "label": "yum bar ma nyi khri mngon rtogs rgyan dang sbyar ba'i TIk+ka (4595) has as an instance yum bar ma nyi khri mngon rtogs rgyan dang sbyar ba'i TIk+ka (4594)",
       "subj": {
@@ -43,34 +15,6 @@
         "label": "yum bar ma nyi khri mngon rtogs rgyan dang sbyar ba'i TIk+ka (4594)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 2030,
-      "label": "yum bar ma nyi khri mngon rtogs rgyan dang sbyar ba'i TIk+ka (4595) composed at dpal nags rgyal gyi dben gnas dkar leb (5654)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4595/",
-        "label": "yum bar ma nyi khri mngon rtogs rgyan dang sbyar ba'i TIk+ka (4595)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5654/",
-        "label": "dpal nags rgyal gyi dben gnas dkar leb (5654)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -109,6 +53,62 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2030,
+      "label": "yum bar ma nyi khri mngon rtogs rgyan dang sbyar ba'i TIk+ka (4595) composed at dpal nags rgyal gyi dben gnas dkar leb (5654)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4595/",
+        "label": "yum bar ma nyi khri mngon rtogs rgyan dang sbyar ba'i TIk+ka (4595)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5654/",
+        "label": "dpal nags rgyal gyi dben gnas dkar leb (5654)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 639,
+      "label": "yum bar ma nyi khri mngon rtogs rgyan dang sbyar ba'i TIk+ka (4595) commentary on pa\u00f1cavi\u1e43\u015batis\u0101hasrik\u0101 (3691)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4595/",
+        "label": "yum bar ma nyi khri mngon rtogs rgyan dang sbyar ba'i TIk+ka (4595)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3691/",
+        "label": "pa\u00f1cavi\u1e43\u015batis\u0101hasrik\u0101 (3691)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

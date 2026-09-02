@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5304/",
   "relations": [
     {
-      "id": 1658,
-      "label": "sgra'i bstan bcos rig pa bklag pa'i don (5304) has as an instance sgra'i bstan bcos rig pa bklag pa'i don (5303)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5304/",
-        "label": "sgra'i bstan bcos rig pa bklag pa'i don (5304)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5303/",
-        "label": "sgra'i bstan bcos rig pa bklag pa'i don (5303)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2201,
       "label": "sgra'i bstan bcos rig pa bklag pa'i don (5304) composed at dgon gnas chen po stod lungs rnam par gi ri khrod dben gnas dkar chen (5760)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": "",
       "tei_refs": "ex88062025-02-2417-06-35",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1658,
+      "label": "sgra'i bstan bcos rig pa bklag pa'i don (5304) has as an instance sgra'i bstan bcos rig pa bklag pa'i don (5303)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5304/",
+        "label": "sgra'i bstan bcos rig pa bklag pa'i don (5304)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5303/",
+        "label": "sgra'i bstan bcos rig pa bklag pa'i don (5303)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

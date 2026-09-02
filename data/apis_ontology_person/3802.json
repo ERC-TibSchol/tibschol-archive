@@ -2,6 +2,37 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3802/",
   "relations": [
     {
+      "id": 7534,
+      "label": "\u015b\u016bnya\u015br\u012bmitra (3802) lineage predecessor of bram ze nag po chen (8320)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3802/",
+        "label": "\u015b\u016bnya\u015br\u012bmitra (3802)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8320/",
+        "label": "bram ze nag po chen (8320)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex67022026-01-1608-36-33 (Stages of the Path Lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
+    },
+    {
       "id": 3289,
       "label": "\u015b\u016bnya\u015br\u012bmitra (3802) other relation to rngog blo ldan shes rab (3786)",
       "subj": {
@@ -59,37 +90,6 @@
       "subject_of_teaching_vocab": [
         52,
         48
-      ]
-    },
-    {
-      "id": 7534,
-      "label": "\u015b\u016bnya\u015br\u012bmitra (3802) lineage predecessor of bram ze nag po chen (8320)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3802/",
-        "label": "\u015b\u016bnya\u015br\u012bmitra (3802)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8320/",
-        "label": "bram ze nag po chen (8320)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex67022026-01-1608-36-33 (Stages of the Path Lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        12
       ]
     },
     {

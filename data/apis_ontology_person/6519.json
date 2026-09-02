@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
   "relations": [
     {
-      "id": 3371,
-      "label": "ze'u grags pa brtson 'grus (6519) active at snar thang (4411)",
+      "id": 3381,
+      "label": "ze'u grags pa brtson 'grus (6519) active at nyang stod chu mig (4351)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
         "label": "ze'u grags pa brtson 'grus (6519)",
@@ -11,81 +11,23 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
-        "label": "snar thang (4411)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4351/",
+        "label": "nyang stod chu mig (4351)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
-      "end_date_to": "1314-12-31",
-      "end_date_from": "1314-01-01",
-      "end_date_sort": "1314-07-02",
-      "start_date_to": "1265-12-31",
-      "start_date_from": "1265-01-01",
-      "start_date_sort": "1265-07-02",
-      "zotero_refs": "[NTGHCZA8]: Appendix 3, 235. Invited in 1265 by Chos kyi byang chub. Novice ordination. Final ordination in 1272. Tenth abbot of sNar thang from 1305 to 1316, after Nyi ma rgyal mtshan (ID:6520).\r\n[FZ6N88AU]: 408. Tenth abbot of sNar thang from 1304 to 1314.",
-      "tei_refs": "exX0032026-06-2509-18-11",
-      "support_notes": "Follows Nyi ma rgyal mtshan (ID:6520).",
-      "confidence": "Positive",
-      "start": "1265",
-      "end": "1314",
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3372,
-      "label": "ze'u grags pa brtson 'grus (6519) student of skyo ston smon lam tshul khrims (4052)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
-        "label": "ze'u grags pa brtson 'grus (6519)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4052/",
-        "label": "skyo ston smon lam tshul khrims (4052)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: Appendix 3, 238.",
+      "end_date_to": "1260-12-31",
+      "end_date_from": "1260-01-01",
+      "end_date_sort": "1260-07-01",
+      "start_date_to": "1260-12-31",
+      "start_date_from": "1260-01-01",
+      "start_date_sort": "1260-07-01",
+      "zotero_refs": "[NTGHCZA8]: Appendix 3, 235. Learned to read and write at Chu mig lung gi dben gnas with Ze'u Grags pa rgyal mtshan (ID:6133).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3379,
-      "label": "ze'u grags pa brtson 'grus (6519) student of ze'u grags pa rgyal mtshan (6133)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
-        "label": "ze'u grags pa brtson 'grus (6519)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6133/",
-        "label": "ze'u grags pa rgyal mtshan (6133)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: 235, based on Ze'u 'dul rnam thar. At Chu mig lung gi dben gnas, when Ze'u grags pa brtson 'grus was 8, and learned to read and write.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
+      "start": "1260",
+      "end": "1260",
       "subject_of_teaching_vocab": []
     },
     {
@@ -118,8 +60,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3381,
-      "label": "ze'u grags pa brtson 'grus (6519) active at nyang stod chu mig (4351)",
+      "id": 3371,
+      "label": "ze'u grags pa brtson 'grus (6519) active at snar thang (4411)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
         "label": "ze'u grags pa brtson 'grus (6519)",
@@ -127,28 +69,28 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4351/",
-        "label": "nyang stod chu mig (4351)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
-      "end_date_to": "1260-12-31",
-      "end_date_from": "1260-01-01",
-      "end_date_sort": "1260-07-01",
-      "start_date_to": "1260-12-31",
-      "start_date_from": "1260-01-01",
-      "start_date_sort": "1260-07-01",
-      "zotero_refs": "[NTGHCZA8]: Appendix 3, 235. Learned to read and write at Chu mig lung gi dben gnas with Ze'u Grags pa rgyal mtshan (ID:6133).",
-      "tei_refs": "",
-      "support_notes": "",
+      "end_date_to": "1314-12-31",
+      "end_date_from": "1314-01-01",
+      "end_date_sort": "1314-07-02",
+      "start_date_to": "1265-12-31",
+      "start_date_from": "1265-01-01",
+      "start_date_sort": "1265-07-02",
+      "zotero_refs": "[NTGHCZA8]: Appendix 3, 235. Invited in 1265 by Chos kyi byang chub. Novice ordination. Final ordination in 1272. Tenth abbot of sNar thang from 1305 to 1316, after Nyi ma rgyal mtshan (ID:6520).\r\n[FZ6N88AU]: 408. Tenth abbot of sNar thang from 1304 to 1314.",
+      "tei_refs": "exX0032026-06-2509-18-11",
+      "support_notes": "Follows Nyi ma rgyal mtshan (ID:6520).",
       "confidence": "Positive",
-      "start": "1260",
-      "end": "1260",
+      "start": "1265",
+      "end": "1314",
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3385,
-      "label": "ze'u grags pa brtson 'grus (6519) student of rigs pa'i ral gri (4006)",
+      "id": 3379,
+      "label": "ze'u grags pa brtson 'grus (6519) student of ze'u grags pa rgyal mtshan (6133)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
         "label": "ze'u grags pa brtson 'grus (6519)",
@@ -156,8 +98,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
-        "label": "rigs pa'i ral gri (4006)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6133/",
+        "label": "ze'u grags pa rgyal mtshan (6133)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -167,19 +109,17 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: Appendix 3, 236. Subject: Perfection of wisdom.",
+      "zotero_refs": "[NTGHCZA8]: 235, based on Ze'u 'dul rnam thar. At Chu mig lung gi dben gnas, when Ze'u grags pa brtson 'grus was 8, and learned to read and write.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "after 1268",
-      "end": "after 1268",
-      "subject_of_teaching_vocab": [
-        7
-      ]
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
-      "id": 3389,
-      "label": "ze'u grags pa brtson 'grus (6519) student of 'phags pa blo gros rgyal mtshan (5838)",
+      "id": 3372,
+      "label": "ze'u grags pa brtson 'grus (6519) student of skyo ston smon lam tshul khrims (4052)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
         "label": "ze'u grags pa brtson 'grus (6519)",
@@ -187,8 +127,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
-        "label": "'phags pa blo gros rgyal mtshan (5838)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4052/",
+        "label": "skyo ston smon lam tshul khrims (4052)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -198,7 +138,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: Appendix 3, 236.",
+      "zotero_refs": "[NTGHCZA8]: Appendix 3, 238.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -235,6 +175,35 @@
       "end": null
     },
     {
+      "id": 3389,
+      "label": "ze'u grags pa brtson 'grus (6519) student of 'phags pa blo gros rgyal mtshan (5838)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
+        "label": "ze'u grags pa brtson 'grus (6519)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
+        "label": "'phags pa blo gros rgyal mtshan (5838)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: Appendix 3, 236.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 7464,
       "label": "ze'u grags pa brtson 'grus (6519) lineage predecessor of ze'u grags pa shes rab (4065)",
       "subj": {
@@ -266,17 +235,17 @@
       ]
     },
     {
-      "id": 3382,
-      "label": "mchims nam mkha' grags (3977) ordinator of ze'u grags pa brtson 'grus (6519)",
+      "id": 3385,
+      "label": "ze'u grags pa brtson 'grus (6519) student of rigs pa'i ral gri (4006)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
-        "label": "mchims nam mkha' grags (3977)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
+        "label": "ze'u grags pa brtson 'grus (6519)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
-        "label": "ze'u grags pa brtson 'grus (6519)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -286,12 +255,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: Appendix 3, 236. mChims was \"mkhan po\" in the novice ordination and full ordination (in 1272) of Ze'u 'Dul 'dzin grags  at sNar thang (ID:4411).",
+      "zotero_refs": "[NTGHCZA8]: Appendix 3, 236. Subject: Perfection of wisdom.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "1272",
-      "end": "1272"
+      "start": "after 1268",
+      "end": "after 1268",
+      "subject_of_teaching_vocab": [
+        7
+      ]
     },
     {
       "id": 3383,
@@ -320,34 +292,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 3386,
-      "label": "ze'u grags pa rgyal mtshan (6133) ordinator of ze'u grags pa brtson 'grus (6519)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6133/",
-        "label": "ze'u grags pa rgyal mtshan (6133)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
-        "label": "ze'u grags pa brtson 'grus (6519)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: 145, n. 301 and Appendix 3, 236. Ze'u Grags pa rgyal mtshan was \"las kyi slob dpon\" in the full ordination of Ze'u 'Dul 'dzin grags at sNar thang (ID:4411) in 1272.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1272",
-      "end": "1272"
     },
     {
       "id": 3387,
@@ -407,6 +351,37 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 7463,
+      "label": "mchims nam mkha' grags (3977) lineage predecessor of ze'u grags pa brtson 'grus (6519)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
+        "label": "ze'u grags pa brtson 'grus (6519)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex107012026-07-0809-23-39 (Stages of the Path Lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
+    },
+    {
       "id": 4571,
       "label": "ze'u grags pa shes rab (4065) student of ze'u grags pa brtson 'grus (6519)",
       "subj": {
@@ -434,6 +409,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3382,
+      "label": "mchims nam mkha' grags (3977) ordinator of ze'u grags pa brtson 'grus (6519)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
+        "label": "ze'u grags pa brtson 'grus (6519)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: Appendix 3, 236. mChims was \"mkhan po\" in the novice ordination and full ordination (in 1272) of Ze'u 'Dul 'dzin grags  at sNar thang (ID:4411).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1272",
+      "end": "1272"
     },
     {
       "id": 4677,
@@ -464,11 +467,11 @@
       "end": null
     },
     {
-      "id": 7463,
-      "label": "mchims nam mkha' grags (3977) lineage predecessor of ze'u grags pa brtson 'grus (6519)",
+      "id": 3386,
+      "label": "ze'u grags pa rgyal mtshan (6133) ordinator of ze'u grags pa brtson 'grus (6519)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
-        "label": "mchims nam mkha' grags (3977)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6133/",
+        "label": "ze'u grags pa rgyal mtshan (6133)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -484,15 +487,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex107012026-07-0809-23-39 (Stages of the Path Lineage)",
+      "zotero_refs": "[NTGHCZA8]: 145, n. 301 and Appendix 3, 236. Ze'u Grags pa rgyal mtshan was \"las kyi slob dpon\" in the full ordination of Ze'u 'Dul 'dzin grags at sNar thang (ID:4411) in 1272.",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        12
-      ]
+      "start": "1272",
+      "end": "1272"
     }
   ],
   "end_date_to": "1315-12-31",

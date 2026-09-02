@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4933/",
   "relations": [
     {
-      "id": 2120,
-      "label": "rdo rje gdan pa rgyan gyi me tog (2) (4933) written at snar thang (4411)",
+      "id": 2122,
+      "label": "rdo rje gdan pa rgyan gyi me tog (2) (4933) has source rdo rje gdan pa rgyan gyi me tog (1) (5946)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4933/",
         "label": "rdo rje gdan pa rgyan gyi me tog (2) (4933)",
@@ -11,10 +11,10 @@
         "content_type_name": "instance"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
-        "label": "snar thang (4411)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5946/",
+        "label": "rdo rje gdan pa rgyan gyi me tog (1) (5946)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 2122,
-      "label": "rdo rje gdan pa rgyan gyi me tog (2) (4933) has source rdo rje gdan pa rgyan gyi me tog (1) (5946)",
+      "id": 2120,
+      "label": "rdo rje gdan pa rgyan gyi me tog (2) (4933) written at snar thang (4411)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4933/",
         "label": "rdo rje gdan pa rgyan gyi me tog (2) (4933)",
@@ -39,10 +39,10 @@
         "content_type_name": "instance"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5946/",
-        "label": "rdo rje gdan pa rgyan gyi me tog (1) (5946)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,

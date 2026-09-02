@@ -2,37 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
   "relations": [
     {
-      "id": 467,
-      "label": "rog chos kyi brtson 'grus (4242) lineage predecessor of he lung se 'bar (4245)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
-        "label": "rog chos kyi brtson 'grus (4242)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4245/",
-        "label": "he lung se 'bar (4245)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
       "id": 468,
       "label": "rog chos kyi brtson 'grus (4242) lineage predecessor of dol rgya bsod nams byang chub (4013)",
       "subj": {
@@ -54,37 +23,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[K9NNDTDS]: 1402 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012)). Rog taught to \"rGya\" or \"Zhang\" (ID:4014).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
-      "id": 469,
-      "label": "rog chos kyi brtson 'grus (4242) lineage predecessor of zhang bye ma lha khang pa bsod nams ye shes (4014)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
-        "label": "rog chos kyi brtson 'grus (4242)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4014/",
-        "label": "zhang bye ma lha khang pa bsod nams ye shes (4014)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[K9NNDTDS]: 1402 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012)). Rog taught to \"rGya\" (ID:4013) or \"Zhang\".",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -126,6 +64,97 @@
       ]
     },
     {
+      "id": 467,
+      "label": "rog chos kyi brtson 'grus (4242) lineage predecessor of he lung se 'bar (4245)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
+        "label": "rog chos kyi brtson 'grus (4242)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4245/",
+        "label": "he lung se 'bar (4245)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 469,
+      "label": "rog chos kyi brtson 'grus (4242) lineage predecessor of zhang bye ma lha khang pa bsod nams ye shes (4014)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
+        "label": "rog chos kyi brtson 'grus (4242)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4014/",
+        "label": "zhang bye ma lha khang pa bsod nams ye shes (4014)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1402 (post-colophon annotations to an Abhidharmasamuccaya commentary by Dar ma smon lam (ID:4012)). Rog taught to \"rGya\" (ID:4013) or \"Zhang\".",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 5213,
+      "label": "bzad pa ring mo dar ma tshul khrims (4011) quotes with name rog chos kyi brtson 'grus (4242)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
+        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
+        "label": "rog chos kyi brtson 'grus (4242)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex41012025-05-0612-55-06",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 458,
       "label": "ngur smrig pa dar ma snying po (4291) lineage predecessor of rog chos kyi brtson 'grus (4242)",
       "subj": {
@@ -157,71 +186,11 @@
       ]
     },
     {
-      "id": 461,
-      "label": "ko ye shes 'byung gnas (4241) lineage predecessor of rog chos kyi brtson 'grus (4242)",
+      "id": 5210,
+      "label": "'jad pa gzhon nu byang chub (3863) quotes with name rog chos kyi brtson 'grus (4242)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
-        "label": "ko ye shes 'byung gnas (4241)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
-        "label": "rog chos kyi brtson 'grus (4242)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CTQMVBPR]: Appendix A. Lineage of the Abhidharmasamuccaya (ID:3755).\r\n[TZC3JQWE]: 353. Abhidharmasamuccaya lineage according to Bu ston.",
-      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
-      "id": 5147,
-      "label": "btsun pa 'khon ston (5865) quotes with name rog chos kyi brtson 'grus (4242)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5865/",
-        "label": "btsun pa 'khon ston (5865)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
-        "label": "rog chos kyi brtson 'grus (4242)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 5152,
-      "label": "mchims 'jam pa'i dbyangs (4090) quotes with name rog chos kyi brtson 'grus (4242)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4090/",
-        "label": "mchims 'jam pa'i dbyangs (4090)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3863/",
+        "label": "'jad pa gzhon nu byang chub (3863)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -275,11 +244,42 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5210,
-      "label": "'jad pa gzhon nu byang chub (3863) quotes with name rog chos kyi brtson 'grus (4242)",
+      "id": 461,
+      "label": "ko ye shes 'byung gnas (4241) lineage predecessor of rog chos kyi brtson 'grus (4242)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3863/",
-        "label": "'jad pa gzhon nu byang chub (3863)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
+        "label": "ko ye shes 'byung gnas (4241)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
+        "label": "rog chos kyi brtson 'grus (4242)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTQMVBPR]: Appendix A. Lineage of the Abhidharmasamuccaya (ID:3755).\r\n[TZC3JQWE]: 353. Abhidharmasamuccaya lineage according to Bu ston.",
+      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 5152,
+      "label": "mchims 'jam pa'i dbyangs (4090) quotes with name rog chos kyi brtson 'grus (4242)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4090/",
+        "label": "mchims 'jam pa'i dbyangs (4090)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -304,11 +304,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5213,
-      "label": "bzad pa ring mo dar ma tshul khrims (4011) quotes with name rog chos kyi brtson 'grus (4242)",
+      "id": 5147,
+      "label": "btsun pa 'khon ston (5865) quotes with name rog chos kyi brtson 'grus (4242)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4011/",
-        "label": "bzad pa ring mo dar ma tshul khrims (4011)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5865/",
+        "label": "btsun pa 'khon ston (5865)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -325,7 +325,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex41012025-05-0612-55-06",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

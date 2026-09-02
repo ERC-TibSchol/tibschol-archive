@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5053/",
   "relations": [
     {
-      "id": 1544,
-      "label": "blo sbyong zin bris dang dmar khrid zin bris bcas (5053) has as an instance blo sbyong zin bris dang dmar khrid zin bris bcas (5052)",
+      "id": 2149,
+      "label": "blo sbyong zin bris dang dmar khrid zin bris bcas (5053) composed at rA tI dga' ldan byams pa gling (5950)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5053/",
         "label": "blo sbyong zin bris dang dmar khrid zin bris bcas (5053)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5052/",
-        "label": "blo sbyong zin bris dang dmar khrid zin bris bcas (5052)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5950/",
+        "label": "rA tI dga' ldan byams pa gling (5950)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 2149,
-      "label": "blo sbyong zin bris dang dmar khrid zin bris bcas (5053) composed at rA tI dga' ldan byams pa gling (5950)",
+      "id": 1544,
+      "label": "blo sbyong zin bris dang dmar khrid zin bris bcas (5053) has as an instance blo sbyong zin bris dang dmar khrid zin bris bcas (5052)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5053/",
         "label": "blo sbyong zin bris dang dmar khrid zin bris bcas (5053)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5950/",
-        "label": "rA tI dga' ldan byams pa gling (5950)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5052/",
+        "label": "blo sbyong zin bris dang dmar khrid zin bris bcas (5052)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

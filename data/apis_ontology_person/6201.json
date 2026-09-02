@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6201/",
   "relations": [
     {
-      "id": 2626,
-      "label": "slob dpon ston pa (6201) student of shar ba (6203)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6201/",
-        "label": "slob dpon ston pa (6201)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6203/",
-        "label": "shar ba (6203)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 290 (glang thang pa dang shar ba la byams chos dang dbu ma'i gzhung mang du gsan |)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2627,
       "label": "slob dpon ston pa (6201) student of pa tshab nyi ma grags (3868)",
       "subj": {
@@ -60,8 +31,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 2628,
-      "label": "slob dpon ston pa (6201) student of gtsang nag pa brtson 'grus seng ge (3839)",
+      "id": 3775,
+      "label": "slob dpon ston pa (6201) student of glang ri thang pa rdo rje seng ge (4104)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6201/",
         "label": "slob dpon ston pa (6201)",
@@ -69,8 +40,98 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
-        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4104/",
+        "label": "glang ri thang pa rdo rje seng ge (4104)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 290 (glang thang pa dang shar ba la byams chos dang dbu ma'i gzhung mang du gsan |). We take \"Glang thang pa\" to refer to Glang ri thang pa rDo rje seng ge (ID:4104).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13,
+        7
+      ]
+    },
+    {
+      "id": 2631,
+      "label": "slob dpon ston pa (6201) student of rgya dmar ba byang chub grags (3834)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6201/",
+        "label": "slob dpon ston pa (6201)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 290 (stod lungs rgya dmar la nyi khri mdo 'grel dang | brgyad stong 'grel pa gsan |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2626,
+      "label": "slob dpon ston pa (6201) student of shar ba (6203)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6201/",
+        "label": "slob dpon ston pa (6201)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6203/",
+        "label": "shar ba (6203)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 290 (glang thang pa dang shar ba la byams chos dang dbu ma'i gzhung mang du gsan |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2630,
+      "label": "slob dpon ston pa (6201) student of gtsang pa sar spos (3871)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6201/",
+        "label": "slob dpon ston pa (6201)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3871/",
+        "label": "gtsang pa sar spos (3871)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -118,8 +179,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 2630,
-      "label": "slob dpon ston pa (6201) student of gtsang pa sar spos (3871)",
+      "id": 2628,
+      "label": "slob dpon ston pa (6201) student of gtsang nag pa brtson 'grus seng ge (3839)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6201/",
         "label": "slob dpon ston pa (6201)",
@@ -127,8 +188,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3871/",
-        "label": "gtsang pa sar spos (3871)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -145,67 +206,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 2631,
-      "label": "slob dpon ston pa (6201) student of rgya dmar ba byang chub grags (3834)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6201/",
-        "label": "slob dpon ston pa (6201)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
-        "label": "rgya dmar ba byang chub grags (3834)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 290 (stod lungs rgya dmar la nyi khri mdo 'grel dang | brgyad stong 'grel pa gsan |)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3775,
-      "label": "slob dpon ston pa (6201) student of glang ri thang pa rdo rje seng ge (4104)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6201/",
-        "label": "slob dpon ston pa (6201)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4104/",
-        "label": "glang ri thang pa rdo rje seng ge (4104)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 290 (glang thang pa dang shar ba la byams chos dang dbu ma'i gzhung mang du gsan |). We take \"Glang thang pa\" to refer to Glang ri thang pa rDo rje seng ge (ID:4104).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        13,
-        7
-      ]
     },
     {
       "id": 3944,

@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6243/",
   "relations": [
     {
+      "id": 3937,
+      "label": "gnyal pa dad pa bzang po (6243) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6243/",
+        "label": "gnyal pa dad pa bzang po (6243)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[KHFQ2XU4]: 744 (phya pa'i gdan sar rtsags dbang phyug seng ges lo lnga | de gnyis kyi slob ma gnyal pa dad pa bzang pos lo bdun |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1130",
+      "end": "after 1130",
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 2782,
       "label": "gnyal pa dad pa bzang po (6243) active at gsang phu ne'u thog gi gtsug lag khang (6173)",
       "subj": {
@@ -57,35 +86,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3937,
-      "label": "gnyal pa dad pa bzang po (6243) student of phywa pa chos kyi seng ge (3831)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6243/",
-        "label": "gnyal pa dad pa bzang po (6243)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[KHFQ2XU4]: 744 (phya pa'i gdan sar rtsags dbang phyug seng ges lo lnga | de gnyis kyi slob ma gnyal pa dad pa bzang pos lo bdun |)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1130",
-      "end": "after 1130",
       "subject_of_teaching_vocab": []
     }
   ],

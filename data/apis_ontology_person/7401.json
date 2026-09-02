@@ -31,8 +31,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5855,
-      "label": "skyer sgang pa chos kyi seng ge (7401) student of sne'u zur pa ye shes 'bar (3825)",
+      "id": 5958,
+      "label": "skyer sgang pa chos kyi seng ge (7401) active at stod lung (4358)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7401/",
         "label": "skyer sgang pa chos kyi seng ge (7401)",
@@ -40,10 +40,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3825/",
-        "label": "sne'u zur pa ye shes 'bar (3825)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4358/",
+        "label": "stod lung (4358)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -51,10 +51,10 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX]",
+      "zotero_refs": "[JZP4CZRX]. Place of birth.",
       "tei_refs": "",
-      "support_notes": "Their respective dates do not permit that sNe'u zur pa was Chos kyi seng ge's teacher.",
-      "confidence": "Negative",
+      "support_notes": "",
+      "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
@@ -89,35 +89,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5958,
-      "label": "skyer sgang pa chos kyi seng ge (7401) active at stod lung (4358)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7401/",
-        "label": "skyer sgang pa chos kyi seng ge (7401)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4358/",
-        "label": "stod lung (4358)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX]. Place of birth.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 5959,
       "label": "skyer sgang pa chos kyi seng ge (7401) active at skyer sgang (6685)",
       "subj": {
@@ -142,6 +113,35 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5855,
+      "label": "skyer sgang pa chos kyi seng ge (7401) student of sne'u zur pa ye shes 'bar (3825)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7401/",
+        "label": "skyer sgang pa chos kyi seng ge (7401)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3825/",
+        "label": "sne'u zur pa ye shes 'bar (3825)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX]",
+      "tei_refs": "",
+      "support_notes": "Their respective dates do not permit that sNe'u zur pa was Chos kyi seng ge's teacher.",
+      "confidence": "Negative",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []

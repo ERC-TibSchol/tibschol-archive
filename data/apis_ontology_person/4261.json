@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4261/",
   "relations": [
     {
-      "id": 495,
-      "label": "mchims brtson 'grus seng ge (4261) lineage predecessor of mchims don grub rgyal mtshan (4262)",
+      "id": 7025,
+      "label": "mchims brtson 'grus seng ge (4261) lineage predecessor of rgyang ro dar ma mgon (7977)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4261/",
         "label": "mchims brtson 'grus seng ge (4261)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4262/",
-        "label": "mchims don grub rgyal mtshan (4262)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7977/",
+        "label": "rgyang ro dar ma mgon (7977)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -22,8 +22,8 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[3YG8BVSZ]: 49-50 and Appendix 2 (based on Mi bskyod rdo rje's brGyud rim). Lineage of the Abhidharmako\u015ba (ID:3761).",
-      "tei_refs": "ex119012024-11-2216-57-43 (Abhidharmako\u015ba lineage)",
+      "zotero_refs": "",
+      "tei_refs": "exX0032026-03-1209-26-28 (Abhidharmasamuccaya lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -62,8 +62,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 7025,
-      "label": "mchims brtson 'grus seng ge (4261) lineage predecessor of rgyang ro dar ma mgon (7977)",
+      "id": 495,
+      "label": "mchims brtson 'grus seng ge (4261) lineage predecessor of mchims don grub rgyal mtshan (4262)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4261/",
         "label": "mchims brtson 'grus seng ge (4261)",
@@ -71,8 +71,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7977/",
-        "label": "rgyang ro dar ma mgon (7977)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4262/",
+        "label": "mchims don grub rgyal mtshan (4262)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -82,9 +82,71 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "exX0032026-03-1209-26-28 (Abhidharmasamuccaya lineage)",
+      "zotero_refs": "[3YG8BVSZ]: 49-50 and Appendix 2 (based on Mi bskyod rdo rje's brGyud rim). Lineage of the Abhidharmako\u015ba (ID:3761).",
+      "tei_refs": "ex119012024-11-2216-57-43 (Abhidharmako\u015ba lineage)",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 7784,
+      "label": "mchims lha rje go cha (4259) lineage predecessor of mchims brtson 'grus seng ge (4261)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4259/",
+        "label": "mchims lha rje go cha (4259)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4261/",
+        "label": "mchims brtson 'grus seng ge (4261)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3YG8BVSZ]: 49-50 and Appendix 2 (based on Mi bskyod rdo rje's brGyud rim). Lineage of the Abhidharmako\u015ba (ID:3761).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 2772,
+      "label": "'jad pa gzhon nu byang chub (3863) quotes with name mchims brtson 'grus seng ge (4261)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3863/",
+        "label": "'jad pa gzhon nu byang chub (3863)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4261/",
+        "label": "mchims brtson 'grus seng ge (4261)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MGPRHX73]: 67. 30 references in (ID: 4750).",
+      "tei_refs": "ex040012026-07-0808-34-28\r\nex04012026-07-0808-43-55\r\nex04012026-07-0808-43-56\r\nex04012026-07-0808-43-57\r\nex04012026-07-0808-43-58\r\nex04012026-07-0808-43-59\r\nex040012026-09-0103-28-28\r\nex040012026-09-0103-37-50\r\nex040012026-09-0103-37-51\r\nex040012026-09-0103-52-32\r\nex040012026-09-0103-57-15\r\nex040012026-09-0103-57-16\r\nex040012026-09-0103-57-17\r\nex040012026-09-0103-57-19\r\nex040012026-09-0104-54-44\r\nex040012026-09-0104-59-44\r\nex040012026-09-0105-02-59\r\nex040012026-09-0105-10-25\r\nex040012026-09-0105-16-13\r\nex040102026-09-0105-22-57\r\nex040012026-09-0102-58-38\r\nex040012026-09-0105-27-34",
+      "support_notes": "We follow the identification of \"mchims\" as mChims brTson 'grus seng ge in [MGPRHX73].",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -124,11 +186,11 @@
       ]
     },
     {
-      "id": 2772,
-      "label": "'jad pa gzhon nu byang chub (3863) quotes with name mchims brtson 'grus seng ge (4261)",
+      "id": 7019,
+      "label": "ngur smrig pa dar ma snying po (4291) lineage predecessor of mchims brtson 'grus seng ge (4261)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3863/",
-        "label": "'jad pa gzhon nu byang chub (3863)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
+        "label": "ngur smrig pa dar ma snying po (4291)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -144,8 +206,8 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[MGPRHX73]: 67. 30 references in (ID: 4750).",
-      "tei_refs": "ex040012026-07-0808-34-28\r\nex04012026-07-0808-43-55\r\nex40022024-10-25-13-43",
+      "zotero_refs": "",
+      "tei_refs": "exX0032026-03-1209-26-28 (Abhidharmasamuccaya lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -184,102 +246,11 @@
       "subject_of_teaching_vocab": [
         17
       ]
-    },
-    {
-      "id": 5143,
-      "label": "btsun pa 'khon ston (5865) quotes with name mchims brtson 'grus seng ge (4261)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5865/",
-        "label": "btsun pa 'khon ston (5865)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4261/",
-        "label": "mchims brtson 'grus seng ge (4261)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 7019,
-      "label": "ngur smrig pa dar ma snying po (4291) lineage predecessor of mchims brtson 'grus seng ge (4261)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
-        "label": "ngur smrig pa dar ma snying po (4291)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4261/",
-        "label": "mchims brtson 'grus seng ge (4261)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "exX0032026-03-1209-26-28 (Abhidharmasamuccaya lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
-      "id": 7784,
-      "label": "mchims lha rje go cha (4259) lineage predecessor of mchims brtson 'grus seng ge (4261)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4259/",
-        "label": "mchims lha rje go cha (4259)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4261/",
-        "label": "mchims brtson 'grus seng ge (4261)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[3YG8BVSZ]: 49-50 and Appendix 2 (based on Mi bskyod rdo rje's brGyud rim). Lineage of the Abhidharmako\u015ba (ID:3761).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
     }
   ],
-  "end_date_to": null,
+  "end_date_to": "1220-12-31",
   "end_date_from": null,
-  "end_date_sort": null,
+  "end_date_sort": "1220-12-31",
   "start_date_to": "1140-12-31",
   "start_date_from": null,
   "start_date_sort": "1140-12-31",
@@ -299,7 +270,7 @@
   "external_links": "https://purl.bdrc.io/resource/P10027",
   "review": false,
   "start": "before 1140",
-  "end": null,
+  "end": "before 1220",
   "name": "mchims brtson 'grus seng ge",
   "gender": "male",
   "nationality": "Tibetan"

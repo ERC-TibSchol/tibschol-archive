@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3942/",
   "relations": [
     {
+      "id": 7603,
+      "label": "rma tsho byang chub rdo rje (3942) author of 'dul ba 'od ldan gyi stod smad kyi ti ka (8392)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3942/",
+        "label": "rma tsho byang chub rdo rje (3942)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8392/",
+        "label": "'dul ba 'od ldan gyi stod smad kyi ti ka (8392)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex031022026-04-1608-43-48",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3820,
       "label": "rma tsho byang chub rdo rje (3942) active at 'o ljang mdo (6710)",
       "subj": {
@@ -58,34 +86,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 7603,
-      "label": "rma tsho byang chub rdo rje (3942) author of 'dul ba 'od ldan gyi stod smad kyi ti ka (8392)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3942/",
-        "label": "rma tsho byang chub rdo rje (3942)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8392/",
-        "label": "'dul ba 'od ldan gyi stod smad kyi ti ka (8392)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex031022026-04-1608-43-48",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 181,

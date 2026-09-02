@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4540/",
   "relations": [
     {
-      "id": 1311,
-      "label": "btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4540) has as an instance btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4539)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4540/",
-        "label": "btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4540)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4539/",
-        "label": "btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4539)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 4735,
       "label": "btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4540) commentary on btsun mo do ha (7026)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1311,
+      "label": "btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4540) has as an instance btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4539)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4540/",
+        "label": "btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4540)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4539/",
+        "label": "btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4539)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

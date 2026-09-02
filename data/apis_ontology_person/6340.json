@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
   "relations": [
     {
+      "id": 2917,
+      "label": "nag tsho tshul khrims rgyal ba (6340) student of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
+        "label": "nag tsho tshul khrims rgyal ba (6340)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 1: 94.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 2916,
       "label": "nag tsho tshul khrims rgyal ba (6340) student of 'brom ston rgyal ba'i 'byung gnas (3827)",
       "subj": {
@@ -31,8 +60,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 2917,
-      "label": "nag tsho tshul khrims rgyal ba (6340) student of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+      "id": 5332,
+      "label": "nag tsho tshul khrims rgyal ba (6340) author of nag tsho'i bstan rim (7192)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
         "label": "nag tsho tshul khrims rgyal ba (6340)",
@@ -40,10 +69,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
-        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7192/",
+        "label": "nag tsho'i bstan rim (7192)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -51,13 +80,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[Q922IUFM]: 1: 94.",
+      "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 4038,
@@ -88,8 +116,8 @@
       "end": null
     },
     {
-      "id": 4094,
-      "label": "nag tsho tshul khrims rgyal ba (6340) translator of tarkajv\u0101l\u0101 (5586)",
+      "id": 7309,
+      "label": "nag tsho tshul khrims rgyal ba (6340) student of rgya lo tsA ba brtson 'grus seng ge (6343)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
         "label": "nag tsho tshul khrims rgyal ba (6340)",
@@ -97,23 +125,26 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5586/",
-        "label": "tarkajv\u0101l\u0101 (5586)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6343/",
+        "label": "rgya lo tsA ba brtson 'grus seng ge (6343)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
+      "end_date_to": "1038-12-31",
+      "end_date_from": "1038-01-01",
+      "end_date_sort": "1038-07-02",
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[Q922IUFM]: 1: 96. Until Nag tsho was 27.",
       "tei_refs": "",
-      "support_notes": "Together with Ati\u015ba (ID:3745).",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": "1038",
+      "subject_of_teaching_vocab": [
+        17
+      ]
     },
     {
       "id": 4097,
@@ -173,8 +204,8 @@
       "end": null
     },
     {
-      "id": 5332,
-      "label": "nag tsho tshul khrims rgyal ba (6340) author of nag tsho'i bstan rim (7192)",
+      "id": 4094,
+      "label": "nag tsho tshul khrims rgyal ba (6340) translator of tarkajv\u0101l\u0101 (5586)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
         "label": "nag tsho tshul khrims rgyal ba (6340)",
@@ -182,8 +213,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7192/",
-        "label": "nag tsho'i bstan rim (7192)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5586/",
+        "label": "tarkajv\u0101l\u0101 (5586)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -195,70 +226,10 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "Together with Ati\u015ba (ID:3745).",
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 7309,
-      "label": "nag tsho tshul khrims rgyal ba (6340) student of rgya lo tsA ba brtson 'grus seng ge (6343)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
-        "label": "nag tsho tshul khrims rgyal ba (6340)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6343/",
-        "label": "rgya lo tsA ba brtson 'grus seng ge (6343)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": "1038-12-31",
-      "end_date_from": "1038-01-01",
-      "end_date_sort": "1038-07-02",
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Q922IUFM]: 1: 96. Until Nag tsho was 27.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": "1038",
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
-      "id": 2915,
-      "label": "po to ba rin chen gsal (3829) student of nag tsho tshul khrims rgyal ba (6340)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3829/",
-        "label": "po to ba rin chen gsal (3829)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
-        "label": "nag tsho tshul khrims rgyal ba (6340)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "BDRC",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     },
     {
       "id": 3826,
@@ -284,6 +255,64 @@
       "zotero_refs": "[W4T5ZMUP]: 40.\r\n[AXC5KZK3]: 239.",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5196,
+      "label": "khu mdo sde 'bar (3873) quotes with name nag tsho tshul khrims rgyal ba (6340)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3873/",
+        "label": "khu mdo sde 'bar (3873)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
+        "label": "nag tsho tshul khrims rgyal ba (6340)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2915,
+      "label": "po to ba rin chen gsal (3829) student of nag tsho tshul khrims rgyal ba (6340)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3829/",
+        "label": "po to ba rin chen gsal (3829)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
+        "label": "nag tsho tshul khrims rgyal ba (6340)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BDRC",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -319,35 +348,6 @@
       "subject_of_teaching_vocab": [
         13
       ]
-    },
-    {
-      "id": 5196,
-      "label": "khu mdo sde 'bar (3873) quotes with name nag tsho tshul khrims rgyal ba (6340)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3873/",
-        "label": "khu mdo sde 'bar (3873)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
-        "label": "nag tsho tshul khrims rgyal ba (6340)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1064-12-31",

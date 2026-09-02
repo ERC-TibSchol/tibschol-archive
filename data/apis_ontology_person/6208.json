@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6208/",
   "relations": [
     {
+      "id": 2642,
+      "label": "rog mngon pa (6208) other relation to rgya dmar ba byang chub grags (3834)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6208/",
+        "label": "rog mngon pa (6208)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 527 (khyim thab byed khar g.yu rdog khyer nas myang stod stag tshal du stod lung pa rgya dmar ba dang | rog mngon pa gnyis kyi grwa sar byon nas rab tu byung ste lo gcig bzhugs |). From the account of the life of rJe btsun gtsang pa (ID: 6207).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2641,
       "label": "rog mngon pa (6208) active at stag tshal (4359)",
       "subj": {
@@ -29,34 +57,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 2642,
-      "label": "rog mngon pa (6208) other relation to rgya dmar ba byang chub grags (3834)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6208/",
-        "label": "rog mngon pa (6208)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
-        "label": "rgya dmar ba byang chub grags (3834)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 527 (khyim thab byed khar g.yu rdog khyer nas myang stod stag tshal du stod lung pa rgya dmar ba dang | rog mngon pa gnyis kyi grwa sar byon nas rab tu byung ste lo gcig bzhugs |). From the account of the life of rJe btsun gtsang pa (ID: 6207).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null
     },
     {
       "id": 6034,

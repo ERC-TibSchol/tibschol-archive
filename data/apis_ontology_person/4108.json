@@ -255,37 +255,6 @@
       "end": null
     },
     {
-      "id": 2892,
-      "label": "Anonymous (5) (6320) quotes with name lce sgom rdzong pa shes rab rdo rje (4108)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6320/",
-        "label": "Anonymous (5) (6320)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4108/",
-        "label": "lce sgom rdzong pa shes rab rdo rje (4108)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex013112026-07-0802-16-49\r\nex013112026-07-0802-13-43",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        13
-      ]
-    },
-    {
       "id": 4667,
       "label": "dus gsum mkhyen pa (3855) student of lce sgom rdzong pa shes rab rdo rje (4108)",
       "subj": {
@@ -341,6 +310,37 @@
       "confidence": "Uncertain",
       "start": null,
       "end": null
+    },
+    {
+      "id": 2892,
+      "label": "Anonymous (5) (6320) quotes with name lce sgom rdzong pa shes rab rdo rje (4108)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6320/",
+        "label": "Anonymous (5) (6320)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4108/",
+        "label": "lce sgom rdzong pa shes rab rdo rje (4108)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex013112026-07-0802-16-49\r\nex013112026-07-0802-13-43",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     }
   ],
   "end_date_to": "1210-12-31",

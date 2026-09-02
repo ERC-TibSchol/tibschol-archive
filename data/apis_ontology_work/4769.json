@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4769/",
   "relations": [
     {
+      "id": 1926,
+      "label": "tshad ma rnam nges kyi TIk+ka blo gsal mgul rgyan (4769) composed at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4769/",
+        "label": "tshad ma rnam nges kyi TIk+ka blo gsal mgul rgyan (4769)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex44052023-01-3114-38-58",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 741,
       "label": "tshad ma rnam nges kyi TIk+ka blo gsal mgul rgyan (4769) commentary on pram\u0101\u1e47avini\u015bcaya (3774)",
       "subj": {
@@ -53,34 +81,6 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 1926,
-      "label": "tshad ma rnam nges kyi TIk+ka blo gsal mgul rgyan (4769) composed at gsang phu ne'u thog (4332)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4769/",
-        "label": "tshad ma rnam nges kyi TIk+ka blo gsal mgul rgyan (4769)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
-        "label": "gsang phu ne'u thog (4332)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex44052023-01-3114-38-58",
-      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

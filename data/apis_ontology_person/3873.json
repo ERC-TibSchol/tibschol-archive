@@ -292,6 +292,34 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 7160,
+      "label": "phywa pa chos kyi seng ge (3831) other relation to khu mdo sde 'bar (3873)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3873/",
+        "label": "khu mdo sde 'bar (3873)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8S7FDMCJ]: 69 (based on [TYITZ6UH]). Present at the debate with Jay\u0101nanda (ID:6570). \r\n[8GL7ZT7Y]: 234. \r\n[PSTH8RCL]: 193.\r\n[BG8579LF]: 181, n. 51.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 133,
       "label": "pa tshab nyi ma grags (3868) other relation to khu mdo sde 'bar (3873)",
       "subj": {
@@ -380,34 +408,6 @@
       "subject_of_teaching_vocab": [
         13
       ]
-    },
-    {
-      "id": 7160,
-      "label": "phywa pa chos kyi seng ge (3831) other relation to khu mdo sde 'bar (3873)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3873/",
-        "label": "khu mdo sde 'bar (3873)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[8S7FDMCJ]: 69 (based on [TYITZ6UH]). Present at the debate with Jay\u0101nanda (ID:6570). \r\n[8GL7ZT7Y]: 234. \r\n[PSTH8RCL]: 193.\r\n[BG8579LF]: 181, n. 51.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     }
   ],
   "end_date_to": "1200-12-31",

@@ -328,34 +328,6 @@
       ]
     },
     {
-      "id": 6623,
-      "label": "dpang lo tsA ba blo gros brtan pa (4097) uncle (maternal/paternal) of bo dong paN chen phyogs las rnam rgyal (6058)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
-        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6058/",
-        "label": "bo dong paN chen phyogs las rnam rgyal (6058)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5RXEUKD9]: 541, No. 118412. Presents Bo dong (ID:6058) as a nephew of both Grags pa rgyal mtshan (ID:6870) and Blo gros brtan pa (ID:4097).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2575,
       "label": "dpang lo tsA ba blo gros brtan pa (4097) active at tshal gung thang (5658)",
       "subj": {
@@ -383,6 +355,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6623,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) uncle (maternal/paternal) of bo dong paN chen phyogs las rnam rgyal (6058)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6058/",
+        "label": "bo dong paN chen phyogs las rnam rgyal (6058)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 541, No. 118412. Presents Bo dong (ID:6058) as a nephew of both Grags pa rgyal mtshan (ID:6870) and Blo gros brtan pa (ID:4097).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 6955,
@@ -763,11 +763,39 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 312,
-      "label": "gnas drug pa blo gros mtshungs med (4094) student of dpang lo tsA ba blo gros brtan pa (4097)",
+      "id": 4272,
+      "label": "dam pa'i chos la zhus dag bya ba'i tshul (6854) records the teaching of dpang lo tsA ba blo gros brtan pa (4097)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4094/",
-        "label": "gnas drug pa blo gros mtshungs med (4094)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6854/",
+        "label": "dam pa'i chos la zhus dag bya ba'i tshul (6854)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex114022024-11-2212-06-00",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7817,
+      "label": "mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440) lineage predecessor of dpang lo tsA ba blo gros brtan pa (4097)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8440/",
+        "label": "mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -783,13 +811,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[BAQ9MH4T]: 323.",
-      "tei_refs": "",
+      "zotero_refs": "",
+      "tei_refs": "exX0032026-03-1209-26-28 (Abhidharmasamuccaya lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        17
+      ]
     },
     {
       "id": 326,
@@ -823,6 +853,64 @@
       ]
     },
     {
+      "id": 312,
+      "label": "gnas drug pa blo gros mtshungs med (4094) student of dpang lo tsA ba blo gros brtan pa (4097)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4094/",
+        "label": "gnas drug pa blo gros mtshungs med (4094)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 323.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7608,
+      "label": "g.yag sde paN chen brtson 'grus dar rgyas (3899) student of dpang lo tsA ba blo gros brtan pa (4097)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3899/",
+        "label": "g.yag sde paN chen brtson 'grus dar rgyas (3899)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P4312 (accessed 09.06.2026)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 4044,
       "label": "jo nang lo tsA ba blo gros dpal bzang (4068) student of dpang lo tsA ba blo gros brtan pa (4097)",
       "subj": {
@@ -852,34 +940,6 @@
       "subject_of_teaching_vocab": [
         5
       ]
-    },
-    {
-      "id": 4272,
-      "label": "dam pa'i chos la zhus dag bya ba'i tshul (6854) records the teaching of dpang lo tsA ba blo gros brtan pa (4097)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6854/",
-        "label": "dam pa'i chos la zhus dag bya ba'i tshul (6854)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
-        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex114022024-11-2212-06-00",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 5165,
@@ -939,66 +999,6 @@
       "end": null,
       "subject_of_teaching_vocab": [
         9
-      ]
-    },
-    {
-      "id": 7608,
-      "label": "g.yag sde paN chen brtson 'grus dar rgyas (3899) student of dpang lo tsA ba blo gros brtan pa (4097)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3899/",
-        "label": "g.yag sde paN chen brtson 'grus dar rgyas (3899)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
-        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P4312 (accessed 09.06.2026)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 7817,
-      "label": "mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440) lineage predecessor of dpang lo tsA ba blo gros brtan pa (4097)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8440/",
-        "label": "mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
-        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "exX0032026-03-1209-26-28 (Abhidharmasamuccaya lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
       ]
     }
   ],

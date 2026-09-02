@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5237/",
   "relations": [
     {
-      "id": 1016,
-      "label": "byang chub sems dpa'i sdom pa'i rnam bshad (5237) commentary on bodhisattvasa\u1e43varavi\u1e43\u015baka (3759)",
+      "id": 1630,
+      "label": "byang chub sems dpa'i sdom pa'i rnam bshad (5237) has as an instance byang chub sems dpa'i sdom pa'i rnam bshad (5236)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5237/",
         "label": "byang chub sems dpa'i sdom pa'i rnam bshad (5237)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3759/",
-        "label": "bodhisattvasa\u1e43varavi\u1e43\u015baka (3759)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5236/",
+        "label": "byang chub sems dpa'i sdom pa'i rnam bshad (5236)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1630,
-      "label": "byang chub sems dpa'i sdom pa'i rnam bshad (5237) has as an instance byang chub sems dpa'i sdom pa'i rnam bshad (5236)",
+      "id": 1016,
+      "label": "byang chub sems dpa'i sdom pa'i rnam bshad (5237) commentary on bodhisattvasa\u1e43varavi\u1e43\u015baka (3759)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5237/",
         "label": "byang chub sems dpa'i sdom pa'i rnam bshad (5237)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5236/",
-        "label": "byang chub sems dpa'i sdom pa'i rnam bshad (5236)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3759/",
+        "label": "bodhisattvasa\u1e43varavi\u1e43\u015baka (3759)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,

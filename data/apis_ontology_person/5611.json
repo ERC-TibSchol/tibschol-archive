@@ -34,8 +34,8 @@
       ]
     },
     {
-      "id": 3013,
-      "label": "sthirap\u0101la (5611) active at bo dong e (4352)",
+      "id": 6963,
+      "label": "sthirap\u0101la (5611) other relation to dge bshes mu tra chen po (3811)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5611/",
         "label": "sthirap\u0101la (5611)",
@@ -43,10 +43,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4352/",
-        "label": "bo dong e (4352)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3811/",
+        "label": "dge bshes mu tra chen po (3811)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -54,13 +54,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 420 ('bum phrag gsum pa'i gdan sa bo dong na bzhugs pa'i sde snod 'dzin pa phal cher chos 'di la mkhas par mdzad la |).\r\n[2X2E3882]: 252, n. 130.",
+      "zotero_refs": "[N35FPQ6L]: 14. Mudr\u0101 chen po offered 'Bum phrag gsum pa the monastery of Bo dong E.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 3057,
@@ -121,35 +120,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3080,
-      "label": "sthirap\u0101la (5611) active at nyang stod chu mig (4351)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5611/",
-        "label": "sthirap\u0101la (5611)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4351/",
-        "label": "nyang stod chu mig (4351)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 539-540, based on [Q3KCZX7B]: 38,21-39,10. Resided at Nyang stod Chu mig.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 5575,
       "label": "sthirap\u0101la (5611) teaches pram\u0101\u1e47avini\u015bcaya (3774)",
       "subj": {
@@ -171,34 +141,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[Q47PVAE6]: 41. Teaching to rNgog Blo ldan shes rab (ID:3786).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 6963,
-      "label": "sthirap\u0101la (5611) other relation to dge bshes mu tra chen po (3811)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5611/",
-        "label": "sthirap\u0101la (5611)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3811/",
-        "label": "dge bshes mu tra chen po (3811)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[N35FPQ6L]: 14. Mudr\u0101 chen po offered 'Bum phrag gsum pa the monastery of Bo dong E.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -237,6 +179,64 @@
         48,
         7
       ]
+    },
+    {
+      "id": 3080,
+      "label": "sthirap\u0101la (5611) active at nyang stod chu mig (4351)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5611/",
+        "label": "sthirap\u0101la (5611)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4351/",
+        "label": "nyang stod chu mig (4351)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 539-540, based on [Q3KCZX7B]: 38,21-39,10. Resided at Nyang stod Chu mig.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3013,
+      "label": "sthirap\u0101la (5611) active at bo dong e (4352)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5611/",
+        "label": "sthirap\u0101la (5611)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4352/",
+        "label": "bo dong e (4352)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 420 ('bum phrag gsum pa'i gdan sa bo dong na bzhugs pa'i sde snod 'dzin pa phal cher chos 'di la mkhas par mdzad la |).\r\n[2X2E3882]: 252, n. 130.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 63,

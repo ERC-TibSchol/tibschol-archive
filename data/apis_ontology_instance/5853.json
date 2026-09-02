@@ -2,13 +2,13 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5853/",
   "relations": [
     {
-      "id": 1868,
-      "label": "dbu ma'i man ngag (4851) has as an instance dbu ma'i man ngag (1) (5853)",
+      "id": 1889,
+      "label": "skyo ston smon lam tshul khrims (4052) owner of dbu ma'i man ngag (1) (5853)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4851/",
-        "label": "dbu ma'i man ngag (4851)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4052/",
+        "label": "skyo ston smon lam tshul khrims (4052)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5853/",
@@ -22,9 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50072023-10-13-092545",
+      "support_notes": "We take \"slob dpon chen po\" in the colophon to refer to sKyo ston.",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -58,13 +58,13 @@
       "end": null
     },
     {
-      "id": 1889,
-      "label": "skyo ston smon lam tshul khrims (4052) owner of dbu ma'i man ngag (1) (5853)",
+      "id": 1868,
+      "label": "dbu ma'i man ngag (4851) has as an instance dbu ma'i man ngag (1) (5853)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4052/",
-        "label": "skyo ston smon lam tshul khrims (4052)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4851/",
+        "label": "dbu ma'i man ngag (4851)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5853/",
@@ -78,9 +78,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex50072023-10-13-092545",
-      "support_notes": "We take \"slob dpon chen po\" in the colophon to refer to sKyo ston.",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

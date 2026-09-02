@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5781/",
   "relations": [
     {
-      "id": 1814,
-      "label": "bsod snyoms pa rin chen rgyal mtshan dpal bzang po (5781) scribe of bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4675)",
+      "id": 1972,
+      "label": "bsod snyoms pa rin chen rgyal mtshan dpal bzang po (5781) author of bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4676)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5781/",
         "label": "bsod snyoms pa rin chen rgyal mtshan dpal bzang po (5781)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4675/",
-        "label": "bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4675)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4676/",
+        "label": "bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4676)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1972,
-      "label": "bsod snyoms pa rin chen rgyal mtshan dpal bzang po (5781) author of bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4676)",
+      "id": 1814,
+      "label": "bsod snyoms pa rin chen rgyal mtshan dpal bzang po (5781) scribe of bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4675)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5781/",
         "label": "bsod snyoms pa rin chen rgyal mtshan dpal bzang po (5781)",
@@ -39,10 +39,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4676/",
-        "label": "bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4676)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4675/",
+        "label": "bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4675)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

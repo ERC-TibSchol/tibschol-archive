@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7172/",
   "relations": [
     {
-      "id": 5230,
-      "label": "Anonymous (16) (7172) author of bden chung gi 'bum (4605)",
+      "id": 5234,
+      "label": "Anonymous (16) (7172) quotes with name 'brom ston rgyal ba'i 'byung gnas (3827)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7172/",
         "label": "Anonymous (16) (7172)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4605/",
-        "label": "bden chung gi 'bum (4605)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3827/",
+        "label": "'brom ston rgyal ba'i 'byung gnas (3827)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,12 +22,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "No author reported for instance (ID:4604) in [8H6M69W4], No. 15401.",
-      "tei_refs": "ex19062023-07-2412-59",
+      "zotero_refs": "",
+      "tei_refs": "ex19062023-07-2412-53-56\r\nex19062023-07-2412-53-41\r\nex19062023-07-2412-58",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 5232,
@@ -61,8 +64,8 @@
       ]
     },
     {
-      "id": 5234,
-      "label": "Anonymous (16) (7172) quotes with name 'brom ston rgyal ba'i 'byung gnas (3827)",
+      "id": 5237,
+      "label": "Anonymous (16) (7172) quotes with name khu 'dol 'bel (4301)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7172/",
         "label": "Anonymous (16) (7172)",
@@ -70,8 +73,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3827/",
-        "label": "'brom ston rgyal ba'i 'byung gnas (3827)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4301/",
+        "label": "khu 'dol 'bel (4301)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -82,14 +85,12 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex19062023-07-2412-53-56\r\nex19062023-07-2412-53-41\r\nex19062023-07-2412-58",
+      "tei_refs": "ex19062023-07-2412-53-41",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": [
-        13
-      ]
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 5235,
@@ -123,6 +124,34 @@
       ]
     },
     {
+      "id": 5230,
+      "label": "Anonymous (16) (7172) author of bden chung gi 'bum (4605)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7172/",
+        "label": "Anonymous (16) (7172)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4605/",
+        "label": "bden chung gi 'bum (4605)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "No author reported for instance (ID:4604) in [8H6M69W4], No. 15401.",
+      "tei_refs": "ex19062023-07-2412-59",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5236,
       "label": "Anonymous (16) (7172) quotes with name phu chung ba gzhon nu rgyal mtshan (7093)",
       "subj": {
@@ -145,35 +174,6 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 5237,
-      "label": "Anonymous (16) (7172) quotes with name khu 'dol 'bel (4301)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7172/",
-        "label": "Anonymous (16) (7172)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4301/",
-        "label": "khu 'dol 'bel (4301)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex19062023-07-2412-53-41",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

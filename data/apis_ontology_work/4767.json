@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4767/",
   "relations": [
     {
-      "id": 1417,
-      "label": "rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4767) has as an instance rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4766)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4767/",
-        "label": "rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4767)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4766/",
-        "label": "rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4766)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1924,
       "label": "rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4767) composed at gsang phu ne'u thog gi gtsug lag khang (6173)",
       "subj": {
@@ -56,6 +28,34 @@
       "confidence": "Positive",
       "start": "after 1210",
       "end": "after 1210"
+    },
+    {
+      "id": 1417,
+      "label": "rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4767) has as an instance rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4766)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4767/",
+        "label": "rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4767)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4766/",
+        "label": "rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4766)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 739,

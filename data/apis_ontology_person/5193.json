@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5193/",
   "relations": [
     {
-      "id": 304,
-      "label": "bzang ldan pa dkon mchog grags (5193) student of brtson 'grus dpal (4074)",
+      "id": 5164,
+      "label": "bzang ldan pa dkon mchog grags (5193) quotes with name rigs pa'i ral gri (4006)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5193/",
         "label": "bzang ldan pa dkon mchog grags (5193)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4074/",
-        "label": "brtson 'grus dpal (4074)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -23,67 +23,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex73022023-09-261",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        56,
-        7
-      ]
-    },
-    {
-      "id": 981,
-      "label": "bzang ldan pa dkon mchog grags (5193) author of mngon rtogs rgyan gyi 'grel pa lung gi dpag bsam rgyan 'gyur gyi tshal (5192)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5193/",
-        "label": "bzang ldan pa dkon mchog grags (5193)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5192/",
-        "label": "mngon rtogs rgyan gyi 'grel pa lung gi dpag bsam rgyan 'gyur gyi tshal (5192)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex73022023-09-261",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 2173,
-      "label": "bzang ldan pa dkon mchog grags (5193) active at sa skya dgon pa (5733)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5193/",
-        "label": "bzang ldan pa dkon mchog grags (5193)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
-        "label": "sa skya dgon pa (5733)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex73022023-09-261",
+      "tei_refs": "ex730222024-11-08-13-08",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -120,8 +60,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5164,
-      "label": "bzang ldan pa dkon mchog grags (5193) quotes with name rigs pa'i ral gri (4006)",
+      "id": 304,
+      "label": "bzang ldan pa dkon mchog grags (5193) student of brtson 'grus dpal (4074)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5193/",
         "label": "bzang ldan pa dkon mchog grags (5193)",
@@ -129,8 +69,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
-        "label": "rigs pa'i ral gri (4006)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4074/",
+        "label": "brtson 'grus dpal (4074)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -141,7 +81,39 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex730222024-11-08-13-08",
+      "tei_refs": "ex73022023-09-261",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
+    },
+    {
+      "id": 2173,
+      "label": "bzang ldan pa dkon mchog grags (5193) active at sa skya dgon pa (5733)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5193/",
+        "label": "bzang ldan pa dkon mchog grags (5193)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
+        "label": "sa skya dgon pa (5733)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex73022023-09-261",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -176,6 +148,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 981,
+      "label": "bzang ldan pa dkon mchog grags (5193) author of mngon rtogs rgyan gyi 'grel pa lung gi dpag bsam rgyan 'gyur gyi tshal (5192)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5193/",
+        "label": "bzang ldan pa dkon mchog grags (5193)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5192/",
+        "label": "mngon rtogs rgyan gyi 'grel pa lung gi dpag bsam rgyan 'gyur gyi tshal (5192)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex73022023-09-261",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 5166,

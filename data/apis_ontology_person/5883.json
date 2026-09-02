@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5883/",
   "relations": [
     {
-      "id": 4262,
-      "label": "mkhan po snar thang pa (5883) owner of lam gyi rim pa (5881)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5883/",
-        "label": "mkhan po snar thang pa (5883)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5881/",
-        "label": "lam gyi rim pa (5881)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex9105_202409182",
-      "support_notes": "Depending on the reading of the unclear part of the post-colophon, this instance could have rather been copied from a lost instance belonging to mKhan po snar thang pa (ID:5883).",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 7774,
       "label": "mkhan po snar thang pa (5883) active at snar thang (4411)",
       "subj": {
@@ -57,6 +29,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4262,
+      "label": "mkhan po snar thang pa (5883) owner of lam gyi rim pa (5881)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5883/",
+        "label": "mkhan po snar thang pa (5883)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5881/",
+        "label": "lam gyi rim pa (5881)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex9105_202409182",
+      "support_notes": "Depending on the reading of the unclear part of the post-colophon, this instance could have rather been copied from a lost instance belonging to mKhan po snar thang pa (ID:5883).",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": null,

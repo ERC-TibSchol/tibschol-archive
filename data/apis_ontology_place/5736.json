@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5736/",
   "relations": [
     {
-      "id": 2240,
-      "label": "theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5487) composed at dge ldan sa bzangs (5736)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5487/",
-        "label": "theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5487)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5736/",
-        "label": "dge ldan sa bzangs (5736)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "Colophon in (ID:5486), fol. 249a4.",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2241,
       "label": "sa bzang ma ti paN chen blo gros rgyal mtshan (4128) active at dge ldan sa bzangs (5736)",
       "subj": {
@@ -59,6 +31,34 @@
       "subject_of_teaching_vocab": [
         7
       ]
+    },
+    {
+      "id": 2240,
+      "label": "theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5487) composed at dge ldan sa bzangs (5736)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5487/",
+        "label": "theg pa chen po'i mdo sde'i rgyan gyi rnam par bshad pa theg chen rab gsal snang ba (5487)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5736/",
+        "label": "dge ldan sa bzangs (5736)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Colophon in (ID:5486), fol. 249a4.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 5833,

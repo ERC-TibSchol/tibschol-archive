@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7278/",
   "relations": [
     {
-      "id": 5555,
-      "label": "rgyal tsha (7278) student of phag mo gru pa rdo rje rgyal po (3856)",
+      "id": 5561,
+      "label": "rgyal tsha (7278) uncle (maternal/paternal) of khro phu lo tsA ba byams pa dpal (3878)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7278/",
         "label": "rgyal tsha (7278)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3856/",
-        "label": "phag mo gru pa rdo rje rgyal po (3856)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3878/",
+        "label": "khro phu lo tsA ba byams pa dpal (3878)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -22,17 +22,16 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 825-827.",
+      "zotero_refs": "[R894SIKE]: 828 (rgyal tsha dang kun ldan ras pa sku mched kyi dpon po khro phu lo tsA ba yin te |)",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
-      "id": 5556,
-      "label": "rgyal tsha (7278) student of khu jo sras ne tso (3849)",
+      "id": 5560,
+      "label": "rgyal tsha (7278) student of rngog mdo sde (6510)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7278/",
         "label": "rgyal tsha (7278)",
@@ -40,8 +39,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3849/",
-        "label": "khu jo sras ne tso (3849)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6510/",
+        "label": "rngog mdo sde (6510)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -51,12 +50,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 825-826 (['gro mgon rin po che'i bu chen irn po che rgyal tsha] bla ma bsten pa la | ....mnga' ris skyi ston| dpyal kun dga' rdo rje | bal po'i paNDi ta sa manta shri | khu lo tsA ba ne tso | paNDi ta shAkya shrI | ...rnams la so so'i chos mang du gsan |).",
+      "zotero_refs": "[R894SIKE]: 826 (dbus su dgung lo bcu dgu la byon | g.yor po lugs smad du pu hrangs lo tsA ba'i dngos slob dmar chos kyi rgyal po | mes ston kun snying | rngog mdo sde | lo tsA ba chos kyi bzang po'i slob ma bla ma gshen chen po dgung lo gya gsum bzhes pa dang mjal |).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
+      "start": "after 1136",
+      "end": "after 1136",
       "subject_of_teaching_vocab": []
     },
     {
@@ -118,8 +117,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5560,
-      "label": "rgyal tsha (7278) student of rngog mdo sde (6510)",
+      "id": 5555,
+      "label": "rgyal tsha (7278) student of phag mo gru pa rdo rje rgyal po (3856)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7278/",
         "label": "rgyal tsha (7278)",
@@ -127,8 +126,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6510/",
-        "label": "rngog mdo sde (6510)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3856/",
+        "label": "phag mo gru pa rdo rje rgyal po (3856)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -138,41 +137,42 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 826 (dbus su dgung lo bcu dgu la byon | g.yor po lugs smad du pu hrangs lo tsA ba'i dngos slob dmar chos kyi rgyal po | mes ston kun snying | rngog mdo sde | lo tsA ba chos kyi bzang po'i slob ma bla ma gshen chen po dgung lo gya gsum bzhes pa dang mjal |).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1136",
-      "end": "after 1136",
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 5561,
-      "label": "rgyal tsha (7278) uncle (maternal/paternal) of khro phu lo tsA ba byams pa dpal (3878)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7278/",
-        "label": "rgyal tsha (7278)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3878/",
-        "label": "khro phu lo tsA ba byams pa dpal (3878)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 828 (rgyal tsha dang kun ldan ras pa sku mched kyi dpon po khro phu lo tsA ba yin te |)",
+      "zotero_refs": "[R894SIKE]: 825-827.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5556,
+      "label": "rgyal tsha (7278) student of khu jo sras ne tso (3849)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7278/",
+        "label": "rgyal tsha (7278)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3849/",
+        "label": "khu jo sras ne tso (3849)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 825-826 (['gro mgon rin po che'i bu chen irn po che rgyal tsha] bla ma bsten pa la | ....mnga' ris skyi ston| dpyal kun dga' rdo rje | bal po'i paNDi ta sa manta shri | khu lo tsA ba ne tso | paNDi ta shAkya shrI | ...rnams la so so'i chos mang du gsan |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1195-12-31",

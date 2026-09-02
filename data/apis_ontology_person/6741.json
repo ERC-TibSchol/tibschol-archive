@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
   "relations": [
     {
+      "id": 7145,
+      "label": "nya dbon kun dga' dpal (6741) student of zhang btsun mdo sde dpal (6624)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
+        "label": "nya dbon kun dga' dpal (6741)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6624/",
+        "label": "zhang btsun mdo sde dpal (6624)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P2010.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3892,
       "label": "nya dbon kun dga' dpal (6741) author of phar Tik yid kyi mun sel (6742)",
       "subj": {
@@ -28,6 +57,35 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 7144,
+      "label": "nya dbon kun dga' dpal (6741) student of bla ma dam pa bsod nams rgyal mtshan (3916)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
+        "label": "nya dbon kun dga' dpal (6741)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3916/",
+        "label": "bla ma dam pa bsod nams rgyal mtshan (3916)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P2010.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 6468,
@@ -59,6 +117,64 @@
       "subject_of_teaching_vocab": [
         9
       ]
+    },
+    {
+      "id": 7147,
+      "label": "nya dbon kun dga' dpal (6741) student of dol po pa shes rab rgyal mtshan (4213)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
+        "label": "nya dbon kun dga' dpal (6741)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
+        "label": "dol po pa shes rab rgyal mtshan (4213)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P2010.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7146,
+      "label": "nya dbon kun dga' dpal (6741) student of jo nang mkhan chen phyogs las rnam rgyal (4214)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
+        "label": "nya dbon kun dga' dpal (6741)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4214/",
+        "label": "jo nang mkhan chen phyogs las rnam rgyal (4214)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P2010.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 7023,
@@ -121,153 +237,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 7144,
-      "label": "nya dbon kun dga' dpal (6741) student of bla ma dam pa bsod nams rgyal mtshan (3916)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
-        "label": "nya dbon kun dga' dpal (6741)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3916/",
-        "label": "bla ma dam pa bsod nams rgyal mtshan (3916)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P2010.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 7145,
-      "label": "nya dbon kun dga' dpal (6741) student of zhang btsun mdo sde dpal (6624)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
-        "label": "nya dbon kun dga' dpal (6741)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6624/",
-        "label": "zhang btsun mdo sde dpal (6624)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P2010.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 7146,
-      "label": "nya dbon kun dga' dpal (6741) student of jo nang mkhan chen phyogs las rnam rgyal (4214)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
-        "label": "nya dbon kun dga' dpal (6741)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4214/",
-        "label": "jo nang mkhan chen phyogs las rnam rgyal (4214)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P2010.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 7147,
-      "label": "nya dbon kun dga' dpal (6741) student of dol po pa shes rab rgyal mtshan (4213)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
-        "label": "nya dbon kun dga' dpal (6741)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
-        "label": "dol po pa shes rab rgyal mtshan (4213)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P2010.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 6467,
-      "label": "sa skya mkhan po dbang phyug dpal (4320) lineage predecessor of nya dbon kun dga' dpal (6741)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4320/",
-        "label": "sa skya mkhan po dbang phyug dpal (4320)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
-        "label": "nya dbon kun dga' dpal (6741)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Z5FZQCNC]: 142-143. Lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772) according to\u202fmKhas grub rje (ID:6470): from Kha che PaN chen (ID:6418) to Chos rje Sa paN (ID:3892). Then to 'U yug pa Rigs pa'i seng ge (ID:3846), lTe ra ba Chos grags (ID:6828), Byang chub dpal (ID:6829), mKhan po dBang phyug dpal (ID:4320), Nya dbon Kun dga' dpal (ID:6741), rJe btsun Red mda' ba (ID:6756), etc.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
       "id": 6484,
       "label": "nor bu bzang po (6604) lineage predecessor of nya dbon kun dga' dpal (6741)",
       "subj": {
@@ -296,37 +265,6 @@
       "end": null,
       "subject_of_teaching_vocab": [
         9
-      ]
-    },
-    {
-      "id": 7022,
-      "label": "byang chub rtse mo (7958) lineage predecessor of nya dbon kun dga' dpal (6741)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7958/",
-        "label": "byang chub rtse mo (7958)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
-        "label": "nya dbon kun dga' dpal (6741)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "exX0032026-03-1209-26-28 (Abhidharmasamuccaya lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
       ]
     },
     {
@@ -359,11 +297,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 7149,
-      "label": "g.yag ston sangs rgyas dpal (6153) student of nya dbon kun dga' dpal (6741)",
+      "id": 7022,
+      "label": "byang chub rtse mo (7958) lineage predecessor of nya dbon kun dga' dpal (6741)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
-        "label": "g.yag ston sangs rgyas dpal (6153)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7958/",
+        "label": "byang chub rtse mo (7958)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -379,13 +317,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P2010.",
-      "tei_refs": "",
+      "zotero_refs": "",
+      "tei_refs": "exX0032026-03-1209-26-28 (Abhidharmasamuccaya lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        17
+      ]
     },
     {
       "id": 7150,
@@ -444,6 +384,66 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7149,
+      "label": "g.yag ston sangs rgyas dpal (6153) student of nya dbon kun dga' dpal (6741)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6153/",
+        "label": "g.yag ston sangs rgyas dpal (6153)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
+        "label": "nya dbon kun dga' dpal (6741)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P2010.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6467,
+      "label": "sa skya mkhan po dbang phyug dpal (4320) lineage predecessor of nya dbon kun dga' dpal (6741)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4320/",
+        "label": "sa skya mkhan po dbang phyug dpal (4320)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
+        "label": "nya dbon kun dga' dpal (6741)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5FZQCNC]: 142-143. Lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772) according to\u202fmKhas grub rje (ID:6470): from Kha che PaN chen (ID:6418) to Chos rje Sa paN (ID:3892). Then to 'U yug pa Rigs pa'i seng ge (ID:3846), lTe ra ba Chos grags (ID:6828), Byang chub dpal (ID:6829), mKhan po dBang phyug dpal (ID:4320), Nya dbon Kun dga' dpal (ID:6741), rJe btsun Red mda' ba (ID:6756), etc.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
     }
   ],
   "end_date_to": "1379-12-31",

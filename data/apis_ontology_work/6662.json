@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6662/",
   "relations": [
     {
-      "id": 3671,
-      "label": "gnyal zhig po 'jam pa'i rdo rje (3887) author of tshad ma bsdus pa (1) (6662)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
-        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6662/",
-        "label": "tshad ma bsdus pa (1) (6662)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5632TFMN]: 313, based on the biography of bCom ldan ral gri (ID:4006).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 3672,
       "label": "rigs pa'i ral gri (4006) studies tshad ma bsdus pa (1) (6662)",
       "subj": {
@@ -79,6 +51,34 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[5632TFMN]: 313. Teaching to bCom ldan ral gri (ID:4006).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3671,
+      "label": "gnyal zhig po 'jam pa'i rdo rje (3887) author of tshad ma bsdus pa (1) (6662)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
+        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6662/",
+        "label": "tshad ma bsdus pa (1) (6662)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5632TFMN]: 313, based on the biography of bCom ldan ral gri (ID:4006).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

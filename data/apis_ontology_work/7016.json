@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7016/",
   "relations": [
     {
+      "id": 6277,
+      "label": "bcom ldan ral gri'i rnam thar dad pa'i ljon shing (7016) has as an instance bcom ldan rigs pa'i ral gri'i rnam thar dad pa'i ljon shing (7595)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7016/",
+        "label": "bcom ldan ral gri'i rnam thar dad pa'i ljon shing (7016)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7595/",
+        "label": "bcom ldan rigs pa'i ral gri'i rnam thar dad pa'i ljon shing (7595)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4663,
       "label": "bcom ldan ral gri'i rnam thar dad pa'i ljon shing (7016) has as an instance bcom ldan ral gri'i rnam thar dad pa'i ljon shing (7017)",
       "subj": {
@@ -58,19 +86,47 @@
       "end": null
     },
     {
-      "id": 6277,
-      "label": "bcom ldan ral gri'i rnam thar dad pa'i ljon shing (7016) has as an instance bcom ldan rigs pa'i ral gri'i rnam thar dad pa'i ljon shing (7595)",
+      "id": 4981,
+      "label": "bsod nams rgyal mtshan (2) (7128) prompter of bcom ldan ral gri'i rnam thar dad pa'i ljon shing (7016)",
       "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7128/",
+        "label": "bsod nams rgyal mtshan (2) (7128)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7016/",
         "label": "bcom ldan ral gri'i rnam thar dad pa'i ljon shing (7016)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FZ6N88AU]: 407.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4662,
+      "label": "rigs pa'i ral gri (4006) biographed in bcom ldan ral gri'i rnam thar dad pa'i ljon shing (7016)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7595/",
-        "label": "bcom ldan rigs pa'i ral gri'i rnam thar dad pa'i ljon shing (7595)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7016/",
+        "label": "bcom ldan ral gri'i rnam thar dad pa'i ljon shing (7016)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -107,62 +163,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 4662,
-      "label": "rigs pa'i ral gri (4006) biographed in bcom ldan ral gri'i rnam thar dad pa'i ljon shing (7016)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
-        "label": "rigs pa'i ral gri (4006)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7016/",
-        "label": "bcom ldan ral gri'i rnam thar dad pa'i ljon shing (7016)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 4981,
-      "label": "bsod nams rgyal mtshan (2) (7128) prompter of bcom ldan ral gri'i rnam thar dad pa'i ljon shing (7016)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7128/",
-        "label": "bsod nams rgyal mtshan (2) (7128)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7016/",
-        "label": "bcom ldan ral gri'i rnam thar dad pa'i ljon shing (7016)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FZ6N88AU]: 407.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

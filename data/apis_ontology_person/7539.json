@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7539/",
   "relations": [
     {
+      "id": 6123,
+      "label": "snar thang mkhan chen kun dga' rgyal mtshan (7539) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7539/",
+        "label": "snar thang mkhan chen kun dga' rgyal mtshan (7539)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1401-12-31",
+      "end_date_from": "1400-01-01",
+      "end_date_sort": "1400-12-31",
+      "start_date_to": "1375-12-31",
+      "start_date_from": "1375-01-01",
+      "start_date_sort": "1375-07-02",
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "13th throne holder of sNar thang.\r\nComposition of work (ID:7540), see the colophon in (ID:7541), fol. 28a4-5: 'di ni dpal ldan snar thang gi chos gra chen por \u00a6 mkhas mang rgya mtsho'i dbus \u00a6 ma ga ta rdo rje'i gdan dang chos mtshungs pa \u00a6 snar thang gzims khang du \u00a6 btsun pa kun dga' rgyal mtshan dpal bzang pos \u00a6 blo gros kyi mig can 'ga' yis bskul ba'i ngor sbyar ba rdzogs s+ho ||",
+      "confidence": "Positive",
+      "start": "1375",
+      "end": "after 1400 before 1401",
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 6122,
       "label": "snar thang mkhan chen kun dga' rgyal mtshan (7539) lineage predecessor of tsong kha pa blo bzang grags pa (5636)",
       "subj": {
@@ -33,8 +62,8 @@
       ]
     },
     {
-      "id": 6123,
-      "label": "snar thang mkhan chen kun dga' rgyal mtshan (7539) active at snar thang (4411)",
+      "id": 7686,
+      "label": "snar thang mkhan chen kun dga' rgyal mtshan (7539) uncle (maternal/paternal) of spang ston grub pa shes rab (8252)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7539/",
         "label": "snar thang mkhan chen kun dga' rgyal mtshan (7539)",
@@ -42,24 +71,23 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
-        "label": "snar thang (4411)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8252/",
+        "label": "spang ston grub pa shes rab (8252)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
-      "end_date_to": "1401-12-31",
-      "end_date_from": "1400-01-01",
-      "end_date_sort": "1400-12-31",
-      "start_date_to": "1375-12-31",
-      "start_date_from": "1375-01-01",
-      "start_date_sort": "1375-07-02",
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "13th throne holder of sNar thang.\r\nComposition of work (ID:7540), see the colophon in (ID:7541), fol. 28a4-5: 'di ni dpal ldan snar thang gi chos gra chen por \u00a6 mkhas mang rgya mtsho'i dbus \u00a6 ma ga ta rdo rje'i gdan dang chos mtshungs pa \u00a6 snar thang gzims khang du \u00a6 btsun pa kun dga' rgyal mtshan dpal bzang pos \u00a6 blo gros kyi mig can 'ga' yis bskul ba'i ngor sbyar ba rdzogs s+ho ||",
+      "tei_refs": "exX0032026-06-2509-18-11",
+      "support_notes": "",
       "confidence": "Positive",
-      "start": "1375",
-      "end": "after 1400 before 1401",
-      "subject_of_teaching_vocab": []
+      "start": null,
+      "end": null
     },
     {
       "id": 6125,
@@ -119,34 +147,6 @@
       "subject_of_teaching_vocab": [
         12
       ]
-    },
-    {
-      "id": 7686,
-      "label": "snar thang mkhan chen kun dga' rgyal mtshan (7539) uncle (maternal/paternal) of spang ston grub pa shes rab (8252)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7539/",
-        "label": "snar thang mkhan chen kun dga' rgyal mtshan (7539)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8252/",
-        "label": "spang ston grub pa shes rab (8252)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "exX0032026-06-2509-18-11",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 6121,

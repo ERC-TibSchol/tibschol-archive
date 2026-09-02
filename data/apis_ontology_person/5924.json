@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5924/",
   "relations": [
     {
-      "id": 2074,
-      "label": "gtsang nag pa thugs rje seng ge (5924) student of thugs rje brtson 'grus (5925)",
+      "id": 6658,
+      "label": "gtsang nag pa thugs rje seng ge (5924) active at nags phug (7795)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5924/",
         "label": "gtsang nag pa thugs rje seng ge (5924)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5925/",
-        "label": "thugs rje brtson 'grus (5925)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7795/",
+        "label": "nags phug (7795)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,41 +22,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[4TBERVZD]: 187.",
+      "zotero_refs": "[E8Z2R8MK]: 187 (on renowned scholars from Nags phug).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 2075,
-      "label": "gtsang nag pa thugs rje seng ge (5924) author of dag yig bdud rtsi'i chu rgyun (5926)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5924/",
-        "label": "gtsang nag pa thugs rje seng ge (5924)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5926/",
-        "label": "dag yig bdud rtsi'i chu rgyun (5926)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[8BGIPPRD]: 225",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 4600,
@@ -87,8 +59,8 @@
       "end": null
     },
     {
-      "id": 6658,
-      "label": "gtsang nag pa thugs rje seng ge (5924) active at nags phug (7795)",
+      "id": 2075,
+      "label": "gtsang nag pa thugs rje seng ge (5924) author of dag yig bdud rtsi'i chu rgyun (5926)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5924/",
         "label": "gtsang nag pa thugs rje seng ge (5924)",
@@ -96,10 +68,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7795/",
-        "label": "nags phug (7795)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5926/",
+        "label": "dag yig bdud rtsi'i chu rgyun (5926)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -107,7 +79,35 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[E8Z2R8MK]: 187 (on renowned scholars from Nags phug).",
+      "zotero_refs": "[8BGIPPRD]: 225",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2074,
+      "label": "gtsang nag pa thugs rje seng ge (5924) student of thugs rje brtson 'grus (5925)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5924/",
+        "label": "gtsang nag pa thugs rje seng ge (5924)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5925/",
+        "label": "thugs rje brtson 'grus (5925)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4TBERVZD]: 187.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

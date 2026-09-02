@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1694,
-      "label": "byang chub lam gyi sgron ma'i 'grel pa lam mchog gsum byed (5381) has as an instance byang chub lam gyi sgron ma'i 'grel pa lam mchog gsum byed (5380)",
+      "id": 2211,
+      "label": "byang chub lam gyi sgron ma'i 'grel pa lam mchog gsum byed (5381) composed at dben pa'i gnas dgon gsar rin chen gdungs (5762)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5381/",
         "label": "byang chub lam gyi sgron ma'i 'grel pa lam mchog gsum byed (5381)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5380/",
-        "label": "byang chub lam gyi sgron ma'i 'grel pa lam mchog gsum byed (5380)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5762/",
+        "label": "dben pa'i gnas dgon gsar rin chen gdungs (5762)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -58,8 +58,8 @@
       "end": null
     },
     {
-      "id": 2211,
-      "label": "byang chub lam gyi sgron ma'i 'grel pa lam mchog gsum byed (5381) composed at dben pa'i gnas dgon gsar rin chen gdungs (5762)",
+      "id": 1694,
+      "label": "byang chub lam gyi sgron ma'i 'grel pa lam mchog gsum byed (5381) has as an instance byang chub lam gyi sgron ma'i 'grel pa lam mchog gsum byed (5380)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5381/",
         "label": "byang chub lam gyi sgron ma'i 'grel pa lam mchog gsum byed (5381)",
@@ -67,10 +67,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5762/",
-        "label": "dben pa'i gnas dgon gsar rin chen gdungs (5762)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5380/",
+        "label": "byang chub lam gyi sgron ma'i 'grel pa lam mchog gsum byed (5380)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7496/",
   "relations": [
     {
-      "id": 6041,
-      "label": "rgyal thang pa bden chen rdo rje (7496) biographer of phag mo gru pa rdo rje rgyal po (3856)",
+      "id": 6042,
+      "label": "rgyal thang pa bden chen rdo rje (7496) author of dkar brgyud gser 'phreng rnam thar 'brug ra lung gdan rabs yan (7494)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7496/",
         "label": "rgyal thang pa bden chen rdo rje (7496)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3856/",
-        "label": "phag mo gru pa rdo rje rgyal po (3856)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7494/",
+        "label": "dkar brgyud gser 'phreng rnam thar 'brug ra lung gdan rabs yan (7494)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 6042,
-      "label": "rgyal thang pa bden chen rdo rje (7496) author of dkar brgyud gser 'phreng rnam thar 'brug ra lung gdan rabs yan (7494)",
+      "id": 6041,
+      "label": "rgyal thang pa bden chen rdo rje (7496) biographer of phag mo gru pa rdo rje rgyal po (3856)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7496/",
         "label": "rgyal thang pa bden chen rdo rje (7496)",
@@ -39,10 +39,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7494/",
-        "label": "dkar brgyud gser 'phreng rnam thar 'brug ra lung gdan rabs yan (7494)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3856/",
+        "label": "phag mo gru pa rdo rje rgyal po (3856)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,

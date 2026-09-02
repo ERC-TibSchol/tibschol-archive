@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7386/",
   "relations": [
     {
-      "id": 5811,
-      "label": "vimalamitra (3714) author of pratimok\u1e63a\u00ads\u016btra\u00ad\u1e6d\u012bk\u0101\u00advinaya\u00adsamuccaya (7386)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3714/",
-        "label": "vimalamitra (3714)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7386/",
-        "label": "pratimok\u1e63a\u00ads\u016btra\u00ad\u1e6d\u012bk\u0101\u00advinaya\u00adsamuccaya (7386)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 5812,
       "label": "'dul ba kun las btus pa sdom gsum gyi rgyan ces bya ba'i bstan chos kyi sa bcad (6396) commentary on pratimok\u1e63a\u00ads\u016btra\u00ad\u1e6d\u012bk\u0101\u00advinaya\u00adsamuccaya (7386)",
       "subj": {
@@ -54,6 +26,34 @@
       "tei_refs": "",
       "support_notes": "Suggested by the title \"'dul ba kun las btus pa\", but the correspondence with the base text needs to be ascertained.",
       "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5811,
+      "label": "vimalamitra (3714) author of pratimok\u1e63a\u00ads\u016btra\u00ad\u1e6d\u012bk\u0101\u00advinaya\u00adsamuccaya (7386)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3714/",
+        "label": "vimalamitra (3714)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7386/",
+        "label": "pratimok\u1e63a\u00ads\u016btra\u00ad\u1e6d\u012bk\u0101\u00advinaya\u00adsamuccaya (7386)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
       "start": null,
       "end": null
     }

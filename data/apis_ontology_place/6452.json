@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6452/",
   "relations": [
     {
-      "id": 3153,
-      "label": "la stod byang (6452) located within la stod (4403)",
+      "id": 3156,
+      "label": "la stod byang (6452) located within gtsang (5915)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6452/",
         "label": "la stod byang (6452)",
@@ -11,8 +11,8 @@
         "content_type_name": "place"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4403/",
-        "label": "la stod (4403)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
+        "label": "gtsang (5915)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 3156,
-      "label": "la stod byang (6452) located within gtsang (5915)",
+      "id": 3153,
+      "label": "la stod byang (6452) located within la stod (4403)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6452/",
         "label": "la stod byang (6452)",
@@ -39,8 +39,8 @@
         "content_type_name": "place"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
-        "label": "gtsang (5915)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4403/",
+        "label": "la stod (4403)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },

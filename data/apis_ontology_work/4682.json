@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
   "relations": [
     {
-      "id": 1378,
-      "label": "'dul TIka 'thad ldan (4682) has as an instance 'dul TIka 'thad ldan (4681)",
+      "id": 7201,
+      "label": "'dul TIka 'thad ldan (4682) has as an instance ti ka 'thad ldan (8098)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
         "label": "'dul TIka 'thad ldan (4682)",
@@ -11,64 +11,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4681/",
-        "label": "'dul TIka 'thad ldan (4681)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 1379,
-      "label": "'dul TIka 'thad ldan (4682) has as an instance 'dul TIka 'thad ldan (4683)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
-        "label": "'dul TIka 'thad ldan (4682)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4683/",
-        "label": "'dul TIka 'thad ldan (4683)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 7195,
-      "label": "'dul TIka 'thad ldan (4682) has as an instance ti ka 'thad ldan (8092)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
-        "label": "'dul TIka 'thad ldan (4682)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8092/",
-        "label": "ti ka 'thad ldan (8092)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8098/",
+        "label": "ti ka 'thad ldan (8098)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -114,6 +58,62 @@
       "end": null
     },
     {
+      "id": 1378,
+      "label": "'dul TIka 'thad ldan (4682) has as an instance 'dul TIka 'thad ldan (4681)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
+        "label": "'dul TIka 'thad ldan (4682)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4681/",
+        "label": "'dul TIka 'thad ldan (4681)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7195,
+      "label": "'dul TIka 'thad ldan (4682) has as an instance ti ka 'thad ldan (8092)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
+        "label": "'dul TIka 'thad ldan (4682)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8092/",
+        "label": "ti ka 'thad ldan (8092)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 7200,
       "label": "'dul TIka 'thad ldan (4682) has as an instance ti ka 'thad ldan (8097)",
       "subj": {
@@ -142,8 +142,8 @@
       "end": null
     },
     {
-      "id": 7201,
-      "label": "'dul TIka 'thad ldan (4682) has as an instance ti ka 'thad ldan (8098)",
+      "id": 1379,
+      "label": "'dul TIka 'thad ldan (4682) has as an instance 'dul TIka 'thad ldan (4683)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4682/",
         "label": "'dul TIka 'thad ldan (4682)",
@@ -151,8 +151,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8098/",
-        "label": "ti ka 'thad ldan (8098)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4683/",
+        "label": "'dul TIka 'thad ldan (4683)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },

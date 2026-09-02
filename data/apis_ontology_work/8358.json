@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8358/",
   "relations": [
     {
-      "id": 7567,
-      "label": "dbu ma rgyan gyi don legs par bsdus pa (8358) has as an instance dbu ma rgyan gyi don legs par bsdus pa (8357)",
+      "id": 7568,
+      "label": "dbu ma rgyan gyi don legs par bsdus pa (8358) commentary on madhyamak\u0101la\u1e43k\u0101ra (3731)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8358/",
         "label": "dbu ma rgyan gyi don legs par bsdus pa (8358)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8357/",
-        "label": "dbu ma rgyan gyi don legs par bsdus pa (8357)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3731/",
+        "label": "madhyamak\u0101la\u1e43k\u0101ra (3731)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 7568,
-      "label": "dbu ma rgyan gyi don legs par bsdus pa (8358) commentary on madhyamak\u0101la\u1e43k\u0101ra (3731)",
+      "id": 7567,
+      "label": "dbu ma rgyan gyi don legs par bsdus pa (8358) has as an instance dbu ma rgyan gyi don legs par bsdus pa (8357)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8358/",
         "label": "dbu ma rgyan gyi don legs par bsdus pa (8358)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3731/",
-        "label": "madhyamak\u0101la\u1e43k\u0101ra (3731)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8357/",
+        "label": "dbu ma rgyan gyi don legs par bsdus pa (8357)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

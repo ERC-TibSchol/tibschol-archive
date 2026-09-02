@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
   "relations": [
     {
+      "id": 6684,
+      "label": "ngur smrig pa dar ma snying po (4291) student of ra khri bzang 'bar (4237)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
+        "label": "ngur smrig pa dar ma snying po (4291)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4237/",
+        "label": "ra khri bzang 'bar (4237)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[TZC3JQWE]: 342, n. 19. Ra khri bzang 'bar was teacher of Brang ti dar ma snying po.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 458,
       "label": "ngur smrig pa dar ma snying po (4291) lineage predecessor of rog chos kyi brtson 'grus (4242)",
       "subj": {
@@ -33,7 +62,38 @@
       ]
     },
     {
-      "id": 460,
+      "id": 7652,
+      "label": "ngur smrig pa dar ma snying po (4291) lineage predecessor of 'ban dkon mchog rdo rje (4243)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
+        "label": "ngur smrig pa dar ma snying po (4291)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4243/",
+        "label": "'ban dkon mchog rdo rje (4243)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex114012026-03-1113-33-19 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 6685,
       "label": "ngur smrig pa dar ma snying po (4291) lineage predecessor of ko ye shes 'byung gnas (4241)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
@@ -53,8 +113,8 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[CTQMVBPR]: Appendix A. Lineage of the Abhidharmasamuccaya (ID:3755).\r\n[TZC3JQWE]: 357. Abhidharmasamuccaya lineage according to the Fifth Dalai Lama (ca. 1670).",
-      "tei_refs": "",
+      "zotero_refs": "[TZC3JQWE]: 352.",
+      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -95,66 +155,6 @@
       ]
     },
     {
-      "id": 6684,
-      "label": "ngur smrig pa dar ma snying po (4291) student of ra khri bzang 'bar (4237)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
-        "label": "ngur smrig pa dar ma snying po (4291)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4237/",
-        "label": "ra khri bzang 'bar (4237)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[TZC3JQWE]: 342, n. 19. Ra khri bzang 'bar was teacher of Brang ti dar ma snying po.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 6685,
-      "label": "ngur smrig pa dar ma snying po (4291) lineage predecessor of ko ye shes 'byung gnas (4241)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
-        "label": "ngur smrig pa dar ma snying po (4291)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
-        "label": "ko ye shes 'byung gnas (4241)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[TZC3JQWE]: 352.",
-      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
       "id": 7019,
       "label": "ngur smrig pa dar ma snying po (4291) lineage predecessor of mchims brtson 'grus seng ge (4261)",
       "subj": {
@@ -186,8 +186,8 @@
       ]
     },
     {
-      "id": 7652,
-      "label": "ngur smrig pa dar ma snying po (4291) lineage predecessor of 'ban dkon mchog rdo rje (4243)",
+      "id": 460,
+      "label": "ngur smrig pa dar ma snying po (4291) lineage predecessor of ko ye shes 'byung gnas (4241)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
         "label": "ngur smrig pa dar ma snying po (4291)",
@@ -195,8 +195,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4243/",
-        "label": "'ban dkon mchog rdo rje (4243)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4241/",
+        "label": "ko ye shes 'byung gnas (4241)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -206,8 +206,8 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex114012026-03-1113-33-19 (Abhidharmasamuccaya lineage)",
+      "zotero_refs": "[CTQMVBPR]: Appendix A. Lineage of the Abhidharmasamuccaya (ID:3755).\r\n[TZC3JQWE]: 357. Abhidharmasamuccaya lineage according to the Fifth Dalai Lama (ca. 1670).",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -482,12 +482,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[MGPRHX73]: 67. 33 references in (ID: 4750), 9 references as \"brang ti\" and 24 as \"ngur smrig pa\".",
-      "tei_refs": "",
+      "tei_refs": "ex040012026-09-0105-01-59",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        17
+      ]
     },
     {
       "id": 7256,

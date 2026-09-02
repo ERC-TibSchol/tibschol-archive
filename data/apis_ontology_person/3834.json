@@ -314,11 +314,13 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "(ID:4685), 17a6: kha cig <'phu(r ?) ston> dgag bya ni don dam pa zhes bya ba dpyad na mi 'gal ba\u2019i don no ||",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 3269,
@@ -377,34 +379,6 @@
       "end": null
     },
     {
-      "id": 642,
-      "label": "rgya dmar ba byang chub grags (3834) author of de kho na nyid don gsal bar byed pa (4599)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
-        "label": "rgya dmar ba byang chub grags (3834)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4599/",
-        "label": "de kho na nyid don gsal bar byed pa (4599)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[DEUJAY2D]: 78-80.",
-      "tei_refs": "ex019032025-11-1014-03-33",
-      "support_notes": "The closing verse contains the hidden signature \"byang chub grags,\" like in rGya dmar ba's dBu ma'i de kho na nyid gtan la dbab pa (ID:4686). It imitates the closing verse of the Satyadvayavibha\u1e45gav\u1e5btti (ID:3729) that has the hidden signature \"ye shes snying po\"=J\u00f1\u0101nagarbha (ID:3730).",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 695,
       "label": "rgya dmar ba byang chub grags (3834) author of dbu ma de kho na nyid rnam par dpyod pa (4686)",
       "subj": {
@@ -428,6 +402,34 @@
       "zotero_refs": "Author according to [8H6M69W4], No. 15397: stod lung rgya dmar ba",
       "tei_refs": "ex3101_2024-05-16\r\nex3101_2024-05-16_2 (hidden signature)\r\nex3101_2024-05-16_3",
       "support_notes": "Hidden signature \"byang chub grags\" (glossed \"rgya dmar ba\") in one of the closing verses, two lines of which have the same reading as the closing verse of his De kho na nyid don gsal bar byed pa (ID:4599).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 642,
+      "label": "rgya dmar ba byang chub grags (3834) author of de kho na nyid don gsal bar byed pa (4599)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4599/",
+        "label": "de kho na nyid don gsal bar byed pa (4599)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[DEUJAY2D]: 78-80.",
+      "tei_refs": "ex019032025-11-1014-03-33",
+      "support_notes": "The closing verse contains the hidden signature \"byang chub grags,\" like in rGya dmar ba's dBu ma'i de kho na nyid gtan la dbab pa (ID:4686). It imitates the closing verse of the Satyadvayavibha\u1e45gav\u1e5btti (ID:3729) that has the hidden signature \"ye shes snying po\"=J\u00f1\u0101nagarbha (ID:3730).",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -781,35 +783,6 @@
       "end": null
     },
     {
-      "id": 5216,
-      "label": "rgya dmar ba byang chub grags (3834) quotes without name gangs pa she'u blo gros byang chub (3810)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
-        "label": "rgya dmar ba byang chub grags (3834)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3810/",
-        "label": "gangs pa she'u blo gros byang chub (3810)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 92,
       "label": "rgya dmar ba byang chub grags (3834) lineage predecessor of phywa pa chos kyi seng ge (3831)",
       "subj": {
@@ -842,6 +815,35 @@
         9,
         13
       ]
+    },
+    {
+      "id": 5216,
+      "label": "rgya dmar ba byang chub grags (3834) quotes without name gangs pa she'u blo gros byang chub (3810)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3810/",
+        "label": "gangs pa she'u blo gros byang chub (3810)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 2253,
@@ -1318,35 +1320,6 @@
       ]
     },
     {
-      "id": 2600,
-      "label": "phag mo gru pa rdo rje rgyal po (3856) student of rgya dmar ba byang chub grags (3834)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3856/",
-        "label": "phag mo gru pa rdo rje rgyal po (3856)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
-        "label": "rgya dmar ba byang chub grags (3834)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": "1130-01-01",
-      "end_date_sort": "1130-01-01",
-      "start_date_to": null,
-      "start_date_from": "1130-01-01",
-      "start_date_sort": "1130-01-01",
-      "zotero_refs": "[R894SIKE]: 404 (mkhas pa chen po cog ro chos kyi rgyal mtshan | dpal phag mo gru pa | 'bal tshad ma ba | skyil mkhar lha khang ba | dus gsum mkhyen pa la sogs pa slob ma yang mkhas pa mang du byung |)\r\n[CJPTU9FV]: 33. Studies in sTod lung.\r\n[R894SIKE]: 655 (rgya dmar la gsan pa mdzad cing bzhugs pa'i tshe dge bshes phywa ba la sdig bsags pa lo brgyad du 'byang ma nyan gsung |)\r\n[R894SIKE]: 467 (grwa sa der rje phag mo gru pa | mkhan po ka ba | 'bal tshad ma ba rnams dang dus mtshungs |). Fellow student of Cog ro chos kyi rgyal mtshan (ID: 6191), Phag mo gru pa (ID: 3856), mKhan po ka ba (ID: 6205). here to \"rgya dmar gyi grwa sa\" or to the place called \"do\" (ID:7241) mentioned in the previous sentence, and studies with rGya dmar ba (ID:3834) are not explicit in this sentence.",
-      "tei_refs": "exX00022025-02-2512-22-21\r\nexX0012025-02-1315-53-23",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1130",
-      "end": "after 1130",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2601,
       "label": "zhang 'bal tshad ma pa (3919) student of rgya dmar ba byang chub grags (3834)",
       "subj": {
@@ -1438,6 +1411,35 @@
         9,
         13
       ]
+    },
+    {
+      "id": 2600,
+      "label": "phag mo gru pa rdo rje rgyal po (3856) student of rgya dmar ba byang chub grags (3834)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3856/",
+        "label": "phag mo gru pa rdo rje rgyal po (3856)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": "1130-01-01",
+      "end_date_sort": "1130-01-01",
+      "start_date_to": null,
+      "start_date_from": "1130-01-01",
+      "start_date_sort": "1130-01-01",
+      "zotero_refs": "[R894SIKE]: 404 (mkhas pa chen po cog ro chos kyi rgyal mtshan | dpal phag mo gru pa | 'bal tshad ma ba | skyil mkhar lha khang ba | dus gsum mkhyen pa la sogs pa slob ma yang mkhas pa mang du byung |)\r\n[CJPTU9FV]: 33. Studies in sTod lung.\r\n[R894SIKE]: 655 (rgya dmar la gsan pa mdzad cing bzhugs pa'i tshe dge bshes phywa ba la sdig bsags pa lo brgyad du 'byang ma nyan gsung |)\r\n[R894SIKE]: 467 (grwa sa der rje phag mo gru pa | mkhan po ka ba | 'bal tshad ma ba rnams dang dus mtshungs |). Fellow student of Cog ro chos kyi rgyal mtshan (ID: 6191), Phag mo gru pa (ID: 3856), mKhan po ka ba (ID: 6205). here to \"rgya dmar gyi grwa sa\" or to the place called \"do\" (ID:7241) mentioned in the previous sentence, and studies with rGya dmar ba (ID:3834) are not explicit in this sentence.",
+      "tei_refs": "exX0022025.03.0514.55.37\r\nexX00022025-02-2512-22-21\r\nexX0012025-02-1315-53-23",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1130",
+      "end": "after 1130",
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 4718,

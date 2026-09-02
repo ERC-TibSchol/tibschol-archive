@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6631/",
   "relations": [
     {
+      "id": 3603,
+      "label": "stag stog pa gnyan (6631) author of tshad ma'i lo rgyus (6632)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6631/",
+        "label": "stag stog pa gnyan (6631)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6632/",
+        "label": "tshad ma'i lo rgyus (6632)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "[FZ6N88AU]: 414 proposes that sTag ston pa gNyan could be gNyan Dar ma seng ge.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2713,
       "label": "stag stog pa gnyan (6631) student of dar ma dkon mchog (5510)",
       "subj": {
@@ -58,34 +86,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3603,
-      "label": "stag stog pa gnyan (6631) author of tshad ma'i lo rgyus (6632)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6631/",
-        "label": "stag stog pa gnyan (6631)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6632/",
-        "label": "tshad ma'i lo rgyus (6632)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "[FZ6N88AU]: 414 proposes that sTag ston pa gNyan could be gNyan Dar ma seng ge.",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 3601,

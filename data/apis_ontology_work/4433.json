@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4433/",
   "relations": [
     {
+      "id": 2779,
+      "label": "dag yig nyer mkho bsdus pa (4433) has as an instance dag yig nyer mkho bsdus pa (3) (6241)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4433/",
+        "label": "dag yig nyer mkho bsdus pa (4433)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6241/",
+        "label": "dag yig nyer mkho bsdus pa (3) (6241)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1263,
       "label": "dag yig nyer mkho bsdus pa (4433) has as an instance dag yig nyer mkho bsdus pa (1) (4432)",
       "subj": {
@@ -24,6 +52,34 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "ex1062023-05-241645\r\nex1062023-05-24.16.57",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4165,
+      "label": "dag yig nyer mkho bsdus pa (4433) has as an instance dag yig nyer mkho bsdus pa (4) (6813)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4433/",
+        "label": "dag yig nyer mkho bsdus pa (4433)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6813/",
+        "label": "dag yig nyer mkho bsdus pa (4) (6813)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -53,62 +109,6 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 2779,
-      "label": "dag yig nyer mkho bsdus pa (4433) has as an instance dag yig nyer mkho bsdus pa (3) (6241)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4433/",
-        "label": "dag yig nyer mkho bsdus pa (4433)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6241/",
-        "label": "dag yig nyer mkho bsdus pa (3) (6241)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 4165,
-      "label": "dag yig nyer mkho bsdus pa (4433) has as an instance dag yig nyer mkho bsdus pa (4) (6813)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4433/",
-        "label": "dag yig nyer mkho bsdus pa (4433)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6813/",
-        "label": "dag yig nyer mkho bsdus pa (4) (6813)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

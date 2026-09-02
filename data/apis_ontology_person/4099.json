@@ -2,6 +2,68 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4099/",
   "relations": [
     {
+      "id": 5104,
+      "label": "chos kyi bzhad pa (4099) quotes with name phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4099/",
+        "label": "chos kyi bzhad pa (4099)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex088052025-05-2615-53-57",
+      "support_notes": "A similar view is ascribed instead to (ID:3864) in work (ID:5507).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 5106,
+      "label": "chos kyi bzhad pa (4099) quotes with name gtsang nag pa brtson 'grus seng ge (3839)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4099/",
+        "label": "chos kyi bzhad pa (4099)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex088052025-05-2615-53-11",
+      "support_notes": "This definition fits mTshur ston's definition in sGron ma (ID:5292), but not exactly that of gTsang nag pa in bsDus pa (ID:4550).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
       "id": 1057,
       "label": "chos kyi bzhad pa (4099) author of tshad ma'i de kho nyid bsdus pa nye bar bsdus pa ye shes rdo rje rin chen (5302)",
       "subj": {
@@ -59,8 +121,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5103,
-      "label": "chos kyi bzhad pa (4099) quotes without name phywa pa chos kyi seng ge (3831)",
+      "id": 5107,
+      "label": "chos kyi bzhad pa (4099) quotes without name 'bre shes rab 'bar (3807)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4099/",
         "label": "chos kyi bzhad pa (4099)",
@@ -68,8 +130,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -80,39 +142,8 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex088052025-05-2615-57-58",
+      "tei_refs": "ex088052025-05-2615-57-58\r\nex088052025-05-2616-07-01\r\nex088052025-05-2616-02-05",
       "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
-      "id": 5104,
-      "label": "chos kyi bzhad pa (4099) quotes with name phywa pa chos kyi seng ge (3831)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4099/",
-        "label": "chos kyi bzhad pa (4099)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex088052025-05-2615-53-57",
-      "support_notes": "A similar view is ascribed instead to (ID:3864) in work (ID:5507).",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -152,8 +183,8 @@
       ]
     },
     {
-      "id": 5106,
-      "label": "chos kyi bzhad pa (4099) quotes with name gtsang nag pa brtson 'grus seng ge (3839)",
+      "id": 5103,
+      "label": "chos kyi bzhad pa (4099) quotes without name phywa pa chos kyi seng ge (3831)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4099/",
         "label": "chos kyi bzhad pa (4099)",
@@ -161,8 +192,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
-        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -173,38 +204,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex088052025-05-2615-53-11",
-      "support_notes": "This definition fits mTshur ston's definition in sGron ma (ID:5292), but not exactly that of gTsang nag pa in bsDus pa (ID:4550).",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
-      "id": 5107,
-      "label": "chos kyi bzhad pa (4099) quotes without name 'bre shes rab 'bar (3807)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4099/",
-        "label": "chos kyi bzhad pa (4099)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
-        "label": "'bre shes rab 'bar (3807)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex088052025-05-2615-57-58\r\nex088052025-05-2616-07-01\r\nex088052025-05-2616-02-05",
+      "tei_refs": "ex088052025-05-2615-57-58",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

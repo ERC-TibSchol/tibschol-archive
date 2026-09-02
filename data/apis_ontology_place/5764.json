@@ -58,35 +58,6 @@
       "end": null
     },
     {
-      "id": 2218,
-      "label": "spyan snga blo gros rgyal mtshan (4114) active at rgya ma rin chen sgang (5764)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4114/",
-        "label": "spyan snga blo gros rgyal mtshan (4114)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5764/",
-        "label": "rgya ma rin chen sgang (5764)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3022,
       "label": "gzhon nu grags pa (6399) active at rgya ma rin chen sgang (5764)",
       "subj": {
@@ -142,6 +113,35 @@
       "confidence": "Positive",
       "start": "1182",
       "end": "1182",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2218,
+      "label": "spyan snga blo gros rgyal mtshan (4114) active at rgya ma rin chen sgang (5764)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4114/",
+        "label": "spyan snga blo gros rgyal mtshan (4114)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5764/",
+        "label": "rgya ma rin chen sgang (5764)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     }
   ],

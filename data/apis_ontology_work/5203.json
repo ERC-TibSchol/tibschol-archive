@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5203/",
   "relations": [
     {
-      "id": 987,
-      "label": "sdom pa nyi shu pa'i 'grel pa (5203) commentary on bodhisattvasa\u1e43varavi\u1e43\u015baka (3759)",
+      "id": 1613,
+      "label": "sdom pa nyi shu pa'i 'grel pa (5203) has as an instance sdom pa nyi shu pa'i 'grel pa (5202)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5203/",
         "label": "sdom pa nyi shu pa'i 'grel pa (5203)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3759/",
-        "label": "bodhisattvasa\u1e43varavi\u1e43\u015baka (3759)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5202/",
+        "label": "sdom pa nyi shu pa'i 'grel pa (5202)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1613,
-      "label": "sdom pa nyi shu pa'i 'grel pa (5203) has as an instance sdom pa nyi shu pa'i 'grel pa (5202)",
+      "id": 987,
+      "label": "sdom pa nyi shu pa'i 'grel pa (5203) commentary on bodhisattvasa\u1e43varavi\u1e43\u015baka (3759)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5203/",
         "label": "sdom pa nyi shu pa'i 'grel pa (5203)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5202/",
-        "label": "sdom pa nyi shu pa'i 'grel pa (5202)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3759/",
+        "label": "bodhisattvasa\u1e43varavi\u1e43\u015baka (3759)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,

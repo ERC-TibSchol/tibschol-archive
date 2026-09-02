@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6768/",
   "relations": [
     {
-      "id": 3970,
-      "label": "gnas sgo grwa tshang (6768) located within gsang phu ne'u thog (4332)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6768/",
-        "label": "gnas sgo grwa tshang (6768)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
-        "label": "gsang phu ne'u thog (4332)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 3974,
       "label": "gnas sgo grwa tshang (6768) located within gsang phu gling smad (6158)",
       "subj": {
@@ -51,6 +23,34 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[CKLUC29Y]: 19.\r\n[W42HFLNR]: 56.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3970,
+      "label": "gnas sgo grwa tshang (6768) located within gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6768/",
+        "label": "gnas sgo grwa tshang (6768)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -84,35 +84,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 3971,
-      "label": "gser mdog paN chen shAkya mchog ldan (6276) active at gnas sgo grwa tshang (6768)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6276/",
-        "label": "gser mdog paN chen shAkya mchog ldan (6276)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6768/",
-        "label": "gnas sgo grwa tshang (6768)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[W42HFLNR]: 56-58. Together with Don yod dpal (ID:6769) in the summer teaching session. Studies: Epistemology and Perfection of Wisdom.\r\n[W42HFLNR]: 77. Becomes assistant teacher (zur 'chad pa) in 1445.\r\n[W42HFLNR]: 82. Becomes main teacher in 1446.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1437",
-      "end": "1437",
-      "subject_of_teaching_vocab": []
     },
     {
       "id": 3975,
@@ -170,6 +141,35 @@
       "confidence": "Positive",
       "start": "after 1380 before 1439",
       "end": "after 1439 before 1580",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3971,
+      "label": "gser mdog paN chen shAkya mchog ldan (6276) active at gnas sgo grwa tshang (6768)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6276/",
+        "label": "gser mdog paN chen shAkya mchog ldan (6276)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6768/",
+        "label": "gnas sgo grwa tshang (6768)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W42HFLNR]: 56-58. Together with Don yod dpal (ID:6769) in the summer teaching session. Studies: Epistemology and Perfection of Wisdom.\r\n[W42HFLNR]: 77. Becomes assistant teacher (zur 'chad pa) in 1445.\r\n[W42HFLNR]: 82. Becomes main teacher in 1446.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1437",
+      "end": "1437",
       "subject_of_teaching_vocab": []
     }
   ],

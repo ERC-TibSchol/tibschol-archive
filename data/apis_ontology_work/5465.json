@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5465/",
   "relations": [
     {
-      "id": 1157,
-      "label": "dbu ma 'jug pa'i 'grel pa (5465) commentary on madhyamak\u0101vat\u0101ra (3726)",
+      "id": 2228,
+      "label": "dbu ma 'jug pa'i 'grel pa (5465) composed at snar thang (4411)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5465/",
         "label": "dbu ma 'jug pa'i 'grel pa (5465)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3726/",
-        "label": "madhyamak\u0101vat\u0101ra (3726)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,9 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex112012025-02-2417-42-55",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -58,8 +58,8 @@
       "end": null
     },
     {
-      "id": 2228,
-      "label": "dbu ma 'jug pa'i 'grel pa (5465) composed at snar thang (4411)",
+      "id": 1157,
+      "label": "dbu ma 'jug pa'i 'grel pa (5465) commentary on madhyamak\u0101vat\u0101ra (3726)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5465/",
         "label": "dbu ma 'jug pa'i 'grel pa (5465)",
@@ -67,10 +67,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
-        "label": "snar thang (4411)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3726/",
+        "label": "madhyamak\u0101vat\u0101ra (3726)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -78,9 +78,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex112012025-02-2417-42-55",
-      "support_notes": "",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

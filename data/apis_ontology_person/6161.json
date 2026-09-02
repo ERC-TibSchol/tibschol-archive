@@ -2,141 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6161/",
   "relations": [
     {
-      "id": 159,
-      "label": "zhwa dmar pa grags pa seng ge (6161) student of gsang phu ba blo gros mtshungs med (3896)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6161/",
-        "label": "zhwa dmar pa grags pa seng ge (6161)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
-        "label": "gsang phu ba blo gros mtshungs med (3896)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 622 (de nas gsang phur byon nas bla chos ba 'jam dbyangs shAkya gzhon dang | zur chos pa slob dpon blo gros mtshungs med la gtugs nas mtshan nyid kyi sde snod sa sde lnga dang | byams chos lnga dang | tshad ma rnam nges dang | sdud pa dang spyod 'jug la sogs pa mang du zhus |).  Texts: Pram\u0101\u1e47avini\u015bcaya (ID:3774), Bodhicary\u0101vat\u0101ra (ID:3727), Sa\u00f1cayag\u0101th\u0101 (ID:3693), the five treatises of Maitreya (ID:6167), the five treatises on the Stages by Asa\u1e45ga (ID:3752), etc.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9,
-        56,
-        13,
-        7
-      ]
-    },
-    {
-      "id": 2531,
-      "label": "zhwa dmar pa grags pa seng ge (6161) student of 'jam dbyangs shakya gzhon nu (3894)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6161/",
-        "label": "zhwa dmar pa grags pa seng ge (6161)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
-        "label": "'jam dbyangs shakya gzhon nu (3894)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 622 (de nas gsang phur byon nas bla chos ba 'jam dbyangs shAkya gzhon dang | zur chos pa slob dpon blo gros mtshungs med la gtugs nas mtshan nyid kyi sde snod sa sde lnga dang | byams chos lnga dang | tshad ma rnam nges dang | sdud pa dang spyod 'jug la sogs pa mang du zhus |). Texts: Pram\u0101\u1e47avini\u015bcaya (ID:3774), Bodhicary\u0101vat\u0101ra (ID:3727), Sa\u00f1cayag\u0101th\u0101 (ID:3693), the five treatises of Maitreya (ID:6167), the five treatises on the Stages by Asa\u1e45ga (ID:3752), etc.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        48,
-        59,
-        9,
-        13,
-        7
-      ]
-    },
-    {
-      "id": 2532,
-      "label": "zhwa dmar pa grags pa seng ge (6161) active at gsang phu ne'u thog (4332)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6161/",
-        "label": "zhwa dmar pa grags pa seng ge (6161)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
-        "label": "gsang phu ne'u thog (4332)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": "1349-12-31",
-      "end_date_from": "1305-01-01",
-      "end_date_sort": "1327-07-02",
-      "start_date_to": null,
-      "start_date_from": "1305-01-01",
-      "start_date_sort": "1305-01-01",
-      "zotero_refs": "[6BBLUKRN]: 306-307, n. 435, citing Grags pa seng ge'i rnam thar in Si tu Chos kyi rgya mtsho, Karma Kam tshang gser phreng (dbus su phyag phebs pa'i dus su chos nyan bshad gang dar dris pas gsang phu dar zer nas gsang phu ne'u thog su byon). He went to gSang phu as he was told this was the place where religious study (chos nyang bshad) flourished (dar).\r\n[R894SIKE]: 622 (de nas gsang phur byon nas bla chos ba 'jam dbyangs shAkya gzhon (ID:3894) dang | zur chos pa slob dpon blo gros mtshungs med (ID:3896) la gtugs nas mtshan nyid kyi sde snod sa sde lnga dang | byams chos lnga dang | tshad ma rnam nges dang | sdud pa dang spyod 'jug la sogs pa mang du zhus |).\r\n[R894SIKE]: 622 (gsang phur kun dril bas lo bdun bzhugs| ). He spent seven years in gSang phu.\r\n[R894SIKE]: 626 (de nas gsang phur bla ma ston dar la nA ro mkha' spyod skor zhus). [YF8Z2ZGH]: 529 (\"At gSang phu he obtained the Cycle of Vajrav\u0101rah\u012b according to the method of nA ro from the bla ma sTon dar (ID:6164)\").\r\n[3WFNMIGQ]: 141.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1305",
-      "end": "after 1305 before 1349",
-      "subject_of_teaching_vocab": [
-        9,
-        56,
-        13,
-        7,
-        3
-      ]
-    },
-    {
-      "id": 2535,
-      "label": "zhwa dmar pa grags pa seng ge (6161) student of bla ma ston dar (6164)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6161/",
-        "label": "zhwa dmar pa grags pa seng ge (6161)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6164/",
-        "label": "bla ma ston dar (6164)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 626 (de nas gsang phur bla ma ston dar la nA ro mkha' spyod skor zhus). At gSang phu (ID:4332).\r\n[YF8Z2ZGH]: 529 (\"At gSang phu he obtained the Cycle of Vajrav\u0101rah\u012b according to the method of nA ro from the bla ma sTon dar\").",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        3
-      ]
-    },
-    {
       "id": 2551,
       "label": "zhwa dmar pa grags pa seng ge (6161) studies byams chos lnga (6167)",
       "subj": {
@@ -158,34 +23,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[R894SIKE]: 622 (de nas gsang phur byon nas bla chos ba 'jam dbyangs shAka gzhon dang | zur chos pa slob dpon blo gros mtshungs med la gtugs nas mtshan nyid kyi sde snod sa sde lnga dang | byams chos lnga dang | tshad ma rnam nges dang | sdud pa dang spyod 'jug la sogs pa mang du zhus |)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 2552,
-      "label": "zhwa dmar pa grags pa seng ge (6161) studies pram\u0101\u1e47avini\u015bcaya (3774)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6161/",
-        "label": "zhwa dmar pa grags pa seng ge (6161)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 622 (de nas gsang phur byon nas bla chos ba 'jam dbyangs shAkya gzhon dang | zur chos pa slob dpon blo gros mtshungs med la gtugs nas mtshan nyid kyi sde snod sa sde lnga dang | byams chos lnga dang | tshad ma rnam nges dang | sdud pa dang spyod 'jug la sogs pa mang du zhus |). In gSang phu (ID:4332) with 'Jam dbyangs shAkya gzhon (ID:3894) and Blo gros mtshungs med (ID:3896).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -247,6 +84,169 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 2552,
+      "label": "zhwa dmar pa grags pa seng ge (6161) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6161/",
+        "label": "zhwa dmar pa grags pa seng ge (6161)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 622 (de nas gsang phur byon nas bla chos ba 'jam dbyangs shAkya gzhon dang | zur chos pa slob dpon blo gros mtshungs med la gtugs nas mtshan nyid kyi sde snod sa sde lnga dang | byams chos lnga dang | tshad ma rnam nges dang | sdud pa dang spyod 'jug la sogs pa mang du zhus |). In gSang phu (ID:4332) with 'Jam dbyangs shAkya gzhon (ID:3894) and Blo gros mtshungs med (ID:3896).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2531,
+      "label": "zhwa dmar pa grags pa seng ge (6161) student of 'jam dbyangs shakya gzhon nu (3894)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6161/",
+        "label": "zhwa dmar pa grags pa seng ge (6161)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3894/",
+        "label": "'jam dbyangs shakya gzhon nu (3894)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 622 (de nas gsang phur byon nas bla chos ba 'jam dbyangs shAkya gzhon dang | zur chos pa slob dpon blo gros mtshungs med la gtugs nas mtshan nyid kyi sde snod sa sde lnga dang | byams chos lnga dang | tshad ma rnam nges dang | sdud pa dang spyod 'jug la sogs pa mang du zhus |). Texts: Pram\u0101\u1e47avini\u015bcaya (ID:3774), Bodhicary\u0101vat\u0101ra (ID:3727), Sa\u00f1cayag\u0101th\u0101 (ID:3693), the five treatises of Maitreya (ID:6167), the five treatises on the Stages by Asa\u1e45ga (ID:3752), etc.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        48,
+        59,
+        9,
+        13,
+        7
+      ]
+    },
+    {
+      "id": 2535,
+      "label": "zhwa dmar pa grags pa seng ge (6161) student of bla ma ston dar (6164)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6161/",
+        "label": "zhwa dmar pa grags pa seng ge (6161)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6164/",
+        "label": "bla ma ston dar (6164)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 626 (de nas gsang phur bla ma ston dar la nA ro mkha' spyod skor zhus). At gSang phu (ID:4332).\r\n[YF8Z2ZGH]: 529 (\"At gSang phu he obtained the Cycle of Vajrav\u0101rah\u012b according to the method of nA ro from the bla ma sTon dar\").",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        3
+      ]
+    },
+    {
+      "id": 2532,
+      "label": "zhwa dmar pa grags pa seng ge (6161) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6161/",
+        "label": "zhwa dmar pa grags pa seng ge (6161)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1349-12-31",
+      "end_date_from": "1305-01-01",
+      "end_date_sort": "1327-07-02",
+      "start_date_to": null,
+      "start_date_from": "1305-01-01",
+      "start_date_sort": "1305-01-01",
+      "zotero_refs": "[6BBLUKRN]: 306-307, n. 435, citing Grags pa seng ge'i rnam thar in Si tu Chos kyi rgya mtsho, Karma Kam tshang gser phreng (dbus su phyag phebs pa'i dus su chos nyan bshad gang dar dris pas gsang phu dar zer nas gsang phu ne'u thog su byon). He went to gSang phu as he was told this was the place where religious study (chos nyang bshad) flourished (dar).\r\n[R894SIKE]: 622 (de nas gsang phur byon nas bla chos ba 'jam dbyangs shAkya gzhon (ID:3894) dang | zur chos pa slob dpon blo gros mtshungs med (ID:3896) la gtugs nas mtshan nyid kyi sde snod sa sde lnga dang | byams chos lnga dang | tshad ma rnam nges dang | sdud pa dang spyod 'jug la sogs pa mang du zhus |).\r\n[R894SIKE]: 622 (gsang phur kun dril bas lo bdun bzhugs| ). He spent seven years in gSang phu.\r\n[R894SIKE]: 626 (de nas gsang phur bla ma ston dar la nA ro mkha' spyod skor zhus). [YF8Z2ZGH]: 529 (\"At gSang phu he obtained the Cycle of Vajrav\u0101rah\u012b according to the method of nA ro from the bla ma sTon dar (ID:6164)\").\r\n[3WFNMIGQ]: 141.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1305",
+      "end": "after 1305 before 1349",
+      "subject_of_teaching_vocab": [
+        9,
+        56,
+        13,
+        7,
+        3
+      ]
+    },
+    {
+      "id": 159,
+      "label": "zhwa dmar pa grags pa seng ge (6161) student of gsang phu ba blo gros mtshungs med (3896)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6161/",
+        "label": "zhwa dmar pa grags pa seng ge (6161)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3896/",
+        "label": "gsang phu ba blo gros mtshungs med (3896)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 622 (de nas gsang phur byon nas bla chos ba 'jam dbyangs shAkya gzhon dang | zur chos pa slob dpon blo gros mtshungs med la gtugs nas mtshan nyid kyi sde snod sa sde lnga dang | byams chos lnga dang | tshad ma rnam nges dang | sdud pa dang spyod 'jug la sogs pa mang du zhus |).  Texts: Pram\u0101\u1e47avini\u015bcaya (ID:3774), Bodhicary\u0101vat\u0101ra (ID:3727), Sa\u00f1cayag\u0101th\u0101 (ID:3693), the five treatises of Maitreya (ID:6167), the five treatises on the Stages by Asa\u1e45ga (ID:3752), etc.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        56,
+        13,
+        7
+      ]
     },
     {
       "id": 5421,

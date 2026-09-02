@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4663/",
   "relations": [
     {
-      "id": 683,
-      "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4663/",
-        "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
-        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1370,
       "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663) has as an instance mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4662)",
       "subj": {
@@ -58,17 +30,17 @@
       "end": null
     },
     {
-      "id": 2249,
-      "label": "rgyal ba bzang po (4075) author of mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663)",
+      "id": 683,
+      "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4075/",
-        "label": "rgyal ba bzang po (4075)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4663/",
         "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
+        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -78,10 +50,10 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P3963",
-      "tei_refs": "ex074012025-11-2510-59-48",
-      "support_notes": "This figure is mentioned in the colophon, but appears to have simply encouraged (bskul byed), checked (sdeb sbyor), and provided supportive conditions (rkyen sbyar) for the composition. The colophon of the manuscript appears to be incomplete. See the excerpt for a draft translation of this partial colophon.",
-      "confidence": "Negative",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
       "start": null,
       "end": null
     },
@@ -109,6 +81,34 @@
       "zotero_refs": "",
       "tei_refs": "ex074012025-11-2510-59-48",
       "support_notes": "BDRC says he is the author of mNgon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (ID:4663), but we understand the colophon to say he was the one who requested the text. See the excerpt for our translation of the partial colophon.",
+      "confidence": "Negative",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2249,
+      "label": "rgyal ba bzang po (4075) author of mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4075/",
+        "label": "rgyal ba bzang po (4075)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4663/",
+        "label": "mngon par rtogs pa'i rgyan gyi rnam bshad legs par bshad pa rin po che'i snang ba (4663)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P3963",
+      "tei_refs": "ex074012025-11-2510-59-48",
+      "support_notes": "This figure is mentioned in the colophon, but appears to have simply encouraged (bskul byed), checked (sdeb sbyor), and provided supportive conditions (rkyen sbyar) for the composition. The colophon of the manuscript appears to be incomplete. See the excerpt for a draft translation of this partial colophon.",
       "confidence": "Negative",
       "start": null,
       "end": null

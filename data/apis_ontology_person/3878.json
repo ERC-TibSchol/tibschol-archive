@@ -355,6 +355,37 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 6599,
+      "label": "rigs pa'i ral gri (4006) quotes without name khro phu lo tsA ba byams pa dpal (3878)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3878/",
+        "label": "khro phu lo tsA ba byams pa dpal (3878)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex054022026-02-1912-48-57",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
       "id": 149,
       "label": "'jam gsar ba shes rab 'od zer (3884) student of khro phu lo tsA ba byams pa dpal (3878)",
       "subj": {
@@ -387,11 +418,11 @@
       ]
     },
     {
-      "id": 3063,
-      "label": "lho pa kun mkhyen rin chen dpal (5463) student of khro phu lo tsA ba byams pa dpal (3878)",
+      "id": 6782,
+      "label": "\u015b\u0101kya\u015br\u012bbhadra (6418) lineage predecessor of khro phu lo tsA ba byams pa dpal (3878)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
-        "label": "lho pa kun mkhyen rin chen dpal (5463)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6418/",
+        "label": "\u015b\u0101kya\u015br\u012bbhadra (6418)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -407,12 +438,71 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[UGZJBIWM]: 379. Lineage of the Vinayak\u0101rik\u0101 (ID:7858) according to Bu ston (ID:5999): \u015a\u0101kya\u015br\u012bbhadra (ID:6418), Byams pa'i dpal (ID:3878), Seng ge zil gnon (ID:7863), Grub pa seng ge (ID:7651), Tshad ma bSod nams mgon (ID:6925).\r\n[UGZJBIWM]: 382. Lineage of the Vinayak\u0101rik\u0101 (ID:7858) according to the Fifth Dalai lama: \u015a\u0101kya\u015br\u012bbhadra (ID:6418), gNubs lo tsA ba Byams pa'i dpal (ID:3878), Rong pa mkhan po Seng ge zil gnon (ID:7863), Khro phu pa Rin chen bsod nams seng ge (ID:7014)...",
       "tei_refs": "",
-      "support_notes": "BDRC",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
+    },
+    {
+      "id": 5561,
+      "label": "rgyal tsha (7278) uncle (maternal/paternal) of khro phu lo tsA ba byams pa dpal (3878)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7278/",
+        "label": "rgyal tsha (7278)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3878/",
+        "label": "khro phu lo tsA ba byams pa dpal (3878)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 828 (rgyal tsha dang kun ldan ras pa sku mched kyi dpon po khro phu lo tsA ba yin te |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5425,
+      "label": "don mo ri pa rdo rje mdzes 'od (7225) student of khro phu lo tsA ba byams pa dpal (3878)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7225/",
+        "label": "don mo ri pa rdo rje mdzes 'od (7225)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3878/",
+        "label": "khro phu lo tsA ba byams pa dpal (3878)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[6BBLUKRN]: 184-185.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1232",
+      "end": "after 1232",
       "subject_of_teaching_vocab": []
     },
     {
@@ -445,68 +535,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5425,
-      "label": "don mo ri pa rdo rje mdzes 'od (7225) student of khro phu lo tsA ba byams pa dpal (3878)",
+      "id": 3063,
+      "label": "lho pa kun mkhyen rin chen dpal (5463) student of khro phu lo tsA ba byams pa dpal (3878)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7225/",
-        "label": "don mo ri pa rdo rje mdzes 'od (7225)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3878/",
-        "label": "khro phu lo tsA ba byams pa dpal (3878)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[6BBLUKRN]: 184-185.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1232",
-      "end": "after 1232",
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 5561,
-      "label": "rgyal tsha (7278) uncle (maternal/paternal) of khro phu lo tsA ba byams pa dpal (3878)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7278/",
-        "label": "rgyal tsha (7278)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3878/",
-        "label": "khro phu lo tsA ba byams pa dpal (3878)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 828 (rgyal tsha dang kun ldan ras pa sku mched kyi dpon po khro phu lo tsA ba yin te |)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 6599,
-      "label": "rigs pa'i ral gri (4006) quotes without name khro phu lo tsA ba byams pa dpal (3878)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
-        "label": "rigs pa'i ral gri (4006)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5463/",
+        "label": "lho pa kun mkhyen rin chen dpal (5463)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -523,45 +556,12 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex054022026-02-1912-48-57",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
-      "id": 6782,
-      "label": "\u015b\u0101kya\u015br\u012bbhadra (6418) lineage predecessor of khro phu lo tsA ba byams pa dpal (3878)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6418/",
-        "label": "\u015b\u0101kya\u015br\u012bbhadra (6418)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3878/",
-        "label": "khro phu lo tsA ba byams pa dpal (3878)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[UGZJBIWM]: 379. Lineage of the Vinayak\u0101rik\u0101 (ID:7858) according to Bu ston (ID:5999): \u015a\u0101kya\u015br\u012bbhadra (ID:6418), Byams pa'i dpal (ID:3878), Seng ge zil gnon (ID:7863), Grub pa seng ge (ID:7651), Tshad ma bSod nams mgon (ID:6925).\r\n[UGZJBIWM]: 382. Lineage of the Vinayak\u0101rik\u0101 (ID:7858) according to the Fifth Dalai lama: \u015a\u0101kya\u015br\u012bbhadra (ID:6418), gNubs lo tsA ba Byams pa'i dpal (ID:3878), Rong pa mkhan po Seng ge zil gnon (ID:7863), Khro phu pa Rin chen bsod nams seng ge (ID:7014)...",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "BDRC",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": [
-        8
-      ]
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1236-12-31",

@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4165/",
   "relations": [
     {
-      "id": 5348,
-      "label": "rnal 'byor shes rab rdo rje (4165) active at gsang phu ne'u thog (4332)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4165/",
-        "label": "rnal 'byor shes rab rdo rje (4165)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
-        "label": "gsang phu ne'u thog (4332)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": "1173-12-31",
-      "end_date_from": null,
-      "end_date_sort": "1173-12-31",
-      "start_date_to": null,
-      "start_date_from": "1073-01-01",
-      "start_date_sort": "1073-01-01",
-      "zotero_refs": "[Q922IUFM]: 1:103. He resided together with rNgog Legs pa'i shes rab (ID:3788) for some time in gSang phu and passed away in gSang phu.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1073",
-      "end": "before 1173",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 5863,
       "label": "rnal 'byor shes rab rdo rje (4165) student of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
       "subj": {
@@ -57,6 +28,35 @@
       "confidence": "Positive",
       "start": null,
       "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5348,
+      "label": "rnal 'byor shes rab rdo rje (4165) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4165/",
+        "label": "rnal 'byor shes rab rdo rje (4165)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1173-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1173-12-31",
+      "start_date_to": null,
+      "start_date_from": "1073-01-01",
+      "start_date_sort": "1073-01-01",
+      "zotero_refs": "[Q922IUFM]: 1:103. He resided together with rNgog Legs pa'i shes rab (ID:3788) for some time in gSang phu and passed away in gSang phu.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1073",
+      "end": "before 1173",
       "subject_of_teaching_vocab": []
     },
     {

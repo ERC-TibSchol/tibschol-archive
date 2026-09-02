@@ -2,37 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8252/",
   "relations": [
     {
-      "id": 7623,
-      "label": "spang ston grub pa shes rab (8252) lineage predecessor of mkhan chen bsod nams mchog grub (8356)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8252/",
-        "label": "spang ston grub pa shes rab (8252)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8356/",
-        "label": "mkhan chen bsod nams mchog grub (8356)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex107012026-07-0809-22-25 (Stages of the path lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        12
-      ]
-    },
-    {
       "id": 7687,
       "label": "spang ston grub pa shes rab (8252) active at snar thang (4411)",
       "subj": {
@@ -62,48 +31,17 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 7466,
-      "label": "snar thang mkhan chen kun dga' rgyal mtshan (7539) lineage predecessor of spang ston grub pa shes rab (8252)",
+      "id": 7623,
+      "label": "spang ston grub pa shes rab (8252) lineage predecessor of mkhan chen bsod nams mchog grub (8356)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7539/",
-        "label": "snar thang mkhan chen kun dga' rgyal mtshan (7539)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8252/",
         "label": "spang ston grub pa shes rab (8252)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex107012026-07-0809-23-39 (Stages of the path lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        12
-      ]
-    },
-    {
-      "id": 7622,
-      "label": "slob dpon grags pa rgya mtsho (5960) lineage predecessor of spang ston grub pa shes rab (8252)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5960/",
-        "label": "slob dpon grags pa rgya mtsho (5960)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8252/",
-        "label": "spang ston grub pa shes rab (8252)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8356/",
+        "label": "mkhan chen bsod nams mchog grub (8356)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -150,6 +88,68 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 7622,
+      "label": "slob dpon grags pa rgya mtsho (5960) lineage predecessor of spang ston grub pa shes rab (8252)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5960/",
+        "label": "slob dpon grags pa rgya mtsho (5960)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8252/",
+        "label": "spang ston grub pa shes rab (8252)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex107012026-07-0809-22-25 (Stages of the path lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
+    },
+    {
+      "id": 7466,
+      "label": "snar thang mkhan chen kun dga' rgyal mtshan (7539) lineage predecessor of spang ston grub pa shes rab (8252)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7539/",
+        "label": "snar thang mkhan chen kun dga' rgyal mtshan (7539)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8252/",
+        "label": "spang ston grub pa shes rab (8252)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex107012026-07-0809-23-39 (Stages of the path lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
     }
   ],
   "end_date_to": null,

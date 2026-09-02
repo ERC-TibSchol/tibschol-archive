@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6803/",
   "relations": [
     {
-      "id": 4130,
-      "label": "rong pa 'gar dge ba gsal (6803) student of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6803/",
-        "label": "rong pa 'gar dge ba gsal (6803)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
-        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Q922IUFM]: 24",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 4131,
       "label": "rong pa 'gar dge ba gsal (6803) student of jit\u0101ri (5555)",
       "subj": {
@@ -91,8 +62,8 @@
       ]
     },
     {
-      "id": 4133,
-      "label": "rong pa 'gar dge ba gsal (6803) active at mchims (6805)",
+      "id": 4135,
+      "label": "rong pa 'gar dge ba gsal (6803) active at bsam yas dgon pa (4335)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6803/",
         "label": "rong pa 'gar dge ba gsal (6803)",
@@ -100,8 +71,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6805/",
-        "label": "mchims (6805)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4335/",
+        "label": "bsam yas dgon pa (4335)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -153,8 +124,8 @@
       ]
     },
     {
-      "id": 4135,
-      "label": "rong pa 'gar dge ba gsal (6803) active at bsam yas dgon pa (4335)",
+      "id": 4133,
+      "label": "rong pa 'gar dge ba gsal (6803) active at mchims (6805)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6803/",
         "label": "rong pa 'gar dge ba gsal (6803)",
@@ -162,8 +133,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4335/",
-        "label": "bsam yas dgon pa (4335)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6805/",
+        "label": "mchims (6805)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -182,6 +153,35 @@
       "subject_of_teaching_vocab": [
         3
       ]
+    },
+    {
+      "id": 4130,
+      "label": "rong pa 'gar dge ba gsal (6803) student of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6803/",
+        "label": "rong pa 'gar dge ba gsal (6803)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 24",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": null,

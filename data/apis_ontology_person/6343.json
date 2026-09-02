@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6343/",
   "relations": [
     {
+      "id": 2927,
+      "label": "rgya lo tsA ba brtson 'grus seng ge (6343) other relation to lce ston rgya nag (6344)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6343/",
+        "label": "rgya lo tsA ba brtson 'grus seng ge (6343)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6344/",
+        "label": "lce ston rgya nag (6344)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 163 (rgya brtson seng dpon g.yog dang lha rje chos 'khor stabs shig tu byung ba'i tshe | rgya brtson seng dpon g.yog gis rtsod pa btsugs pa'i dus su| lha rje rgya nag gis khong sun phyung zhing nga rgyal bcag pa la dgyes nas thugs la shin tu 'dogs par byung ba'i steng du |). Engaged in a debate.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2925,
       "label": "rgya lo tsA ba brtson 'grus seng ge (6343) student of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
       "subj": {
@@ -29,34 +57,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 2927,
-      "label": "rgya lo tsA ba brtson 'grus seng ge (6343) other relation to lce ston rgya nag (6344)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6343/",
-        "label": "rgya lo tsA ba brtson 'grus seng ge (6343)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6344/",
-        "label": "lce ston rgya nag (6344)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 163 (rgya brtson seng dpon g.yog dang lha rje chos 'khor stabs shig tu byung ba'i tshe | rgya brtson seng dpon g.yog gis rtsod pa btsugs pa'i dus su| lha rje rgya nag gis khong sun phyung zhing nga rgyal bcag pa la dgyes nas thugs la shin tu 'dogs par byung ba'i steng du |). Engaged in a debate.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 5529,

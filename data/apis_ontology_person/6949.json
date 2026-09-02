@@ -2,11 +2,11 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6949/",
   "relations": [
     {
-      "id": 4697,
-      "label": "'jam dbyangs 'od zer mgon po (3893) quotes with name jo bo a du la (6949)",
+      "id": 7254,
+      "label": "shes rab mtha' can (3918) quotes with name jo bo a du la (6949)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
-        "label": "'jam dbyangs 'od zer mgon po (3893)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3918/",
+        "label": "shes rab mtha' can (3918)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -23,43 +23,15 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex15012024-11-08-12-06\r\nex15012024-11-08-12-062",
+      "tei_refs": "ex023012026-07-0706-16-56",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
+        56,
         7
       ]
-    },
-    {
-      "id": 5135,
-      "label": "bu ston seng ge 'od (1) (4314) quotes with name jo bo a du la (6949)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4314/",
-        "label": "bu ston seng ge 'od (1) (4314)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6949/",
-        "label": "jo bo a du la (6949)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex89022024-11-08-14-35",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     },
     {
       "id": 5221,
@@ -84,6 +56,35 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "ex2101-2024-10-02-2",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5135,
+      "label": "bu ston seng ge 'od (1) (4314) quotes with name jo bo a du la (6949)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4314/",
+        "label": "bu ston seng ge 'od (1) (4314)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6949/",
+        "label": "jo bo a du la (6949)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex89022024-11-08-14-35",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -123,11 +124,11 @@
       ]
     },
     {
-      "id": 7254,
-      "label": "shes rab mtha' can (3918) quotes with name jo bo a du la (6949)",
+      "id": 4697,
+      "label": "'jam dbyangs 'od zer mgon po (3893) quotes with name jo bo a du la (6949)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3918/",
-        "label": "shes rab mtha' can (3918)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3893/",
+        "label": "'jam dbyangs 'od zer mgon po (3893)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -144,13 +145,12 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex023012026-07-0706-16-56",
+      "tei_refs": "ex15012024-11-08-12-06\r\nex15012024-11-08-12-062",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
-        56,
         7
       ]
     }

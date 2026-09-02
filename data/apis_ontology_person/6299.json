@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6299/",
   "relations": [
     {
+      "id": 3924,
+      "label": "bsod nams 'phel (6299) other relation to red mda' ba gzhon nu blo gros (6756)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6299/",
+        "label": "bsod nams 'phel (6299)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
+        "label": "red mda' ba gzhon nu blo gros (6756)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 688, n. 7. Red mda' ba met bSod nams 'phel during his tenure at gSang phu.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1370",
+      "end": "after 1370"
+    },
+    {
       "id": 2861,
       "label": "bsod nams 'phel (6299) active at gsang phu gling smad (6158)",
       "subj": {
@@ -29,34 +57,6 @@
       "start": "after 1270 before 1392",
       "end": "after 1392 before 1450",
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3924,
-      "label": "bsod nams 'phel (6299) other relation to red mda' ba gzhon nu blo gros (6756)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6299/",
-        "label": "bsod nams 'phel (6299)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
-        "label": "red mda' ba gzhon nu blo gros (6756)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CCSBSVCA]: 688, n. 7. Red mda' ba met bSod nams 'phel during his tenure at gSang phu.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1370",
-      "end": "after 1370"
     }
   ],
   "end_date_to": "1450-12-31",

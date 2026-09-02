@@ -2,13 +2,13 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3757/",
   "relations": [
     {
-      "id": 21,
-      "label": "vasubandhu (3758) author of pa\u00f1caskandhaprakara\u1e47a (3757)",
+      "id": 4170,
+      "label": "pa\u00f1caskandhavivara\u1e47a (6816) commentary on pa\u00f1caskandhaprakara\u1e47a (3757)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3758/",
-        "label": "vasubandhu (3758)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6816/",
+        "label": "pa\u00f1caskandhavivara\u1e47a (6816)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3757/",
@@ -22,9 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -58,13 +58,13 @@
       "end": null
     },
     {
-      "id": 4169,
-      "label": "pa\u00f1caskandhaprakara\u1e47avibh\u0101\u1e63\u0101 (6815) commentary on pa\u00f1caskandhaprakara\u1e47a (3757)",
+      "id": 21,
+      "label": "vasubandhu (3758) author of pa\u00f1caskandhaprakara\u1e47a (3757)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6815/",
-        "label": "pa\u00f1caskandhaprakara\u1e47avibh\u0101\u1e63\u0101 (6815)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3758/",
+        "label": "vasubandhu (3758)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3757/",
@@ -78,19 +78,19 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null
     },
     {
-      "id": 4170,
-      "label": "pa\u00f1caskandhavivara\u1e47a (6816) commentary on pa\u00f1caskandhaprakara\u1e47a (3757)",
+      "id": 4169,
+      "label": "pa\u00f1caskandhaprakara\u1e47avibh\u0101\u1e63\u0101 (6815) commentary on pa\u00f1caskandhaprakara\u1e47a (3757)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6816/",
-        "label": "pa\u00f1caskandhavivara\u1e47a (6816)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6815/",
+        "label": "pa\u00f1caskandhaprakara\u1e47avibh\u0101\u1e63\u0101 (6815)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },

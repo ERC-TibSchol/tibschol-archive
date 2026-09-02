@@ -24,6 +24,37 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
+      "support_notes": "(ID:4685), 17a6: kha cig <'phu(r ?) ston> dgag bya ni don dam pa zhes bya ba dpyad na mi 'gal ba\u2019i don no ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 7822,
+      "label": "bu ston rin chen grub (5999) quotes with name ston phur (6421)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5999/",
+        "label": "bu ston rin chen grub (5999)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6421/",
+        "label": "ston phur (6421)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[2X2E3882]: 271-272.",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -38,9 +69,14 @@
   "start_date_from": null,
   "start_date_sort": "1320-12-31",
   "tibetan_transliteration": "\u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f55\u0f74\u0f62",
-  "comments": "Specialist of Monastic discipline, cited by Bu ston (ID:5999). See [2X2E3882]: 271-272.",
+  "comments": "It is uncertain whether \"ston phur\" - a specialist of monastic discipline, cited by Bu ston (ID:5999) (see [2X2E3882]: 271-272) - is the same person as the \"'phur ston\" named in a gloss on rGya dmar ba (ID:3834)'s Madhyamaka work.",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [
+    {
+      "label": "'phur ston",
+      "language": "bo"
+    }
+  ],
   "external_links": "",
   "review": false,
   "start": "before 1320",

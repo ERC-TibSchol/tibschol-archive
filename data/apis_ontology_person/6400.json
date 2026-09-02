@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6400/",
   "relations": [
     {
+      "id": 4291,
+      "label": "sangs rgyas dbon ston gzhon nu 'byung gnas (6400) author of lam rim ka pa (5370)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6400/",
+        "label": "sangs rgyas dbon ston gzhon nu 'byung gnas (6400)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5370/",
+        "label": "lam rim ka pa (5370)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3024,
       "label": "sangs rgyas dbon ston gzhon nu 'byung gnas (6400) active at rgya ma rin chen sgang (5764)",
       "subj": {
@@ -31,19 +59,19 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 4291,
-      "label": "sangs rgyas dbon ston gzhon nu 'byung gnas (6400) author of lam rim ka pa (5370)",
+      "id": 4292,
+      "label": "gro ston bdud rtsi grags (3880) student of sangs rgyas dbon ston gzhon nu 'byung gnas (6400)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6400/",
-        "label": "sangs rgyas dbon ston gzhon nu 'byung gnas (6400)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
+        "label": "gro ston bdud rtsi grags (3880)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5370/",
-        "label": "lam rim ka pa (5370)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6400/",
+        "label": "sangs rgyas dbon ston gzhon nu 'byung gnas (6400)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -51,12 +79,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[Z5WBK2VV]: 48.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 3025,
@@ -85,35 +114,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 4292,
-      "label": "gro ston bdud rtsi grags (3880) student of sangs rgyas dbon ston gzhon nu 'byung gnas (6400)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
-        "label": "gro ston bdud rtsi grags (3880)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6400/",
-        "label": "sangs rgyas dbon ston gzhon nu 'byung gnas (6400)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Z5WBK2VV]: 48.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1210-12-31",

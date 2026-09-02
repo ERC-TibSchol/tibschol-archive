@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6305/",
   "relations": [
     {
-      "id": 2868,
-      "label": "gling smad pa shes rab dpal ldan (6305) active at gsang phu gling smad (6158)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6305/",
-        "label": "gling smad pa shes rab dpal ldan (6305)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6158/",
-        "label": "gsang phu gling smad (6158)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": "1449-12-31",
-      "end_date_from": "1449-01-01",
-      "end_date_sort": "1449-07-02",
-      "start_date_to": "1447-12-31",
-      "start_date_from": "1447-01-01",
-      "start_date_sort": "1447-07-02",
-      "zotero_refs": "[MPRU5QUC]: 210. Abbot of gSang phu ne'u thog monastery (28th abbot of lower college) for 3 years.\r\n[CCSBSVCA]: 687. Suggests he held the seat from ca. 1447 to 1449.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1447",
-      "end": "1449",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 4866,
       "label": "gling smad pa shes rab dpal ldan (6305) active at rwa ba smad (6781)",
       "subj": {
@@ -57,6 +28,35 @@
       "confidence": "Positive",
       "start": null,
       "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2868,
+      "label": "gling smad pa shes rab dpal ldan (6305) active at gsang phu gling smad (6158)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6305/",
+        "label": "gling smad pa shes rab dpal ldan (6305)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6158/",
+        "label": "gsang phu gling smad (6158)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1449-12-31",
+      "end_date_from": "1449-01-01",
+      "end_date_sort": "1449-07-02",
+      "start_date_to": "1447-12-31",
+      "start_date_from": "1447-01-01",
+      "start_date_sort": "1447-07-02",
+      "zotero_refs": "[MPRU5QUC]: 210. Abbot of gSang phu ne'u thog monastery (28th abbot of lower college) for 3 years.\r\n[CCSBSVCA]: 687. Suggests he held the seat from ca. 1447 to 1449.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1447",
+      "end": "1449",
       "subject_of_teaching_vocab": []
     },
     {

@@ -30,13 +30,13 @@
       "end": null
     },
     {
-      "id": 1294,
-      "label": "tshad ma yid kyi mun sel (4503) has as an instance tshad ma yid kyi mun sel (1) (4502)",
+      "id": 2464,
+      "label": "tshad ma yid kyi mun sel (2) (6122) has source tshad ma yid kyi mun sel (1) (4502)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4503/",
-        "label": "tshad ma yid kyi mun sel (4503)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6122/",
+        "label": "tshad ma yid kyi mun sel (2) (6122)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4502/",
@@ -58,13 +58,13 @@
       "end": null
     },
     {
-      "id": 2464,
-      "label": "tshad ma yid kyi mun sel (2) (6122) has source tshad ma yid kyi mun sel (1) (4502)",
+      "id": 1294,
+      "label": "tshad ma yid kyi mun sel (4503) has as an instance tshad ma yid kyi mun sel (1) (4502)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6122/",
-        "label": "tshad ma yid kyi mun sel (2) (6122)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4503/",
+        "label": "tshad ma yid kyi mun sel (4503)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4502/",

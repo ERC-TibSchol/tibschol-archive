@@ -2,6 +2,62 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4061/",
   "relations": [
     {
+      "id": 4921,
+      "label": "nyi ma brtson 'grus (4061) teaches tshad ma shes rab sgron ma (5292)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4061/",
+        "label": "nyi ma brtson 'grus (4061)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5292/",
+        "label": "tshad ma shes rab sgron ma (5292)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FZ6N88AU]: 411.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4919,
+      "label": "nyi ma brtson 'grus (4061) ordinator of rigs pa'i ral gri (4006)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4061/",
+        "label": "nyi ma brtson 'grus (4061)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FZ6N88AU]: 411. The ordination took place in dByar nyi ma (ID:7103).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1244",
+      "end": "1244"
+    },
+    {
       "id": 313,
       "label": "nyi ma brtson 'grus (4061) lineage predecessor of rigs pa'i ral gri (4006)",
       "subj": {
@@ -61,17 +117,17 @@
       "end": null
     },
     {
-      "id": 4919,
-      "label": "nyi ma brtson 'grus (4061) ordinator of rigs pa'i ral gri (4006)",
+      "id": 315,
+      "label": "gtsang pa 'bre sgur (3872) lineage predecessor of nyi ma brtson 'grus (4061)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4061/",
-        "label": "nyi ma brtson 'grus (4061)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3872/",
+        "label": "gtsang pa 'bre sgur (3872)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
-        "label": "rigs pa'i ral gri (4006)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4061/",
+        "label": "nyi ma brtson 'grus (4061)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -81,40 +137,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[FZ6N88AU]: 411. The ordination took place in dByar nyi ma (ID:7103).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1244",
-      "end": "1244"
-    },
-    {
-      "id": 4921,
-      "label": "nyi ma brtson 'grus (4061) teaches tshad ma shes rab sgron ma (5292)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4061/",
-        "label": "nyi ma brtson 'grus (4061)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5292/",
-        "label": "tshad ma shes rab sgron ma (5292)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FZ6N88AU]: 411.",
-      "tei_refs": "",
+      "zotero_refs": "",
+      "tei_refs": "ex52052024-10-1815-08-34 (Perfection of wisdom lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
     },
     {
       "id": 314,
@@ -145,37 +176,6 @@
       "end": "after 1244",
       "subject_of_teaching_vocab": [
         9,
-        7
-      ]
-    },
-    {
-      "id": 315,
-      "label": "gtsang pa 'bre sgur (3872) lineage predecessor of nyi ma brtson 'grus (4061)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3872/",
-        "label": "gtsang pa 'bre sgur (3872)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4061/",
-        "label": "nyi ma brtson 'grus (4061)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex52052024-10-1815-08-34 (Perfection of wisdom lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
         7
       ]
     },

@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4922/",
   "relations": [
     {
-      "id": 1484,
-      "label": "grub mtha' rgyan gyi me tog (4922) has as an instance grub mtha' rgyan gyi me tog (2) (4921)",
+      "id": 1838,
+      "label": "grub mtha' rgyan gyi me tog (4922) has as an instance grub mtha' rgyan gyi me tog (1) (5843)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4922/",
         "label": "grub mtha' rgyan gyi me tog (4922)",
@@ -11,8 +11,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4921/",
-        "label": "grub mtha' rgyan gyi me tog (2) (4921)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5843/",
+        "label": "grub mtha' rgyan gyi me tog (1) (5843)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1838,
-      "label": "grub mtha' rgyan gyi me tog (4922) has as an instance grub mtha' rgyan gyi me tog (1) (5843)",
+      "id": 1484,
+      "label": "grub mtha' rgyan gyi me tog (4922) has as an instance grub mtha' rgyan gyi me tog (2) (4921)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4922/",
         "label": "grub mtha' rgyan gyi me tog (4922)",
@@ -39,8 +39,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5843/",
-        "label": "grub mtha' rgyan gyi me tog (1) (5843)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4921/",
+        "label": "grub mtha' rgyan gyi me tog (2) (4921)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },

@@ -2,13 +2,13 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6117/",
   "relations": [
     {
-      "id": 2453,
-      "label": "tshad ma'i de kho na nyid bsdus pa (5507) has as an instance tshad ma'i de kho na nyid bsdus pa (2) (6117)",
+      "id": 2455,
+      "label": "tshad ma'i de kho na nyid bsdus pa (3) (5506) has source tshad ma'i de kho na nyid bsdus pa (2) (6117)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5507/",
-        "label": "tshad ma'i de kho na nyid bsdus pa (5507)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5506/",
+        "label": "tshad ma'i de kho na nyid bsdus pa (3) (5506)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6117/",
@@ -30,13 +30,13 @@
       "end": null
     },
     {
-      "id": 2455,
-      "label": "tshad ma'i de kho na nyid bsdus pa (3) (5506) has source tshad ma'i de kho na nyid bsdus pa (2) (6117)",
+      "id": 2453,
+      "label": "tshad ma'i de kho na nyid bsdus pa (5507) has as an instance tshad ma'i de kho na nyid bsdus pa (2) (6117)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5506/",
-        "label": "tshad ma'i de kho na nyid bsdus pa (3) (5506)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5507/",
+        "label": "tshad ma'i de kho na nyid bsdus pa (5507)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6117/",

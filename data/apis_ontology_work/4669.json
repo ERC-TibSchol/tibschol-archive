@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4669/",
   "relations": [
     {
-      "id": 689,
-      "label": "theg chen mdo sde rgyan gyi don mdor bsdus (4669) commentary on mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
+      "id": 1373,
+      "label": "theg chen mdo sde rgyan gyi don mdor bsdus (4669) has as an instance theg chen mdo sde rgyan gyi don mdor bsdus (4668)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4669/",
         "label": "theg chen mdo sde rgyan gyi don mdor bsdus (4669)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3746/",
-        "label": "mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4668/",
+        "label": "theg chen mdo sde rgyan gyi don mdor bsdus (4668)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1373,
-      "label": "theg chen mdo sde rgyan gyi don mdor bsdus (4669) has as an instance theg chen mdo sde rgyan gyi don mdor bsdus (4668)",
+      "id": 689,
+      "label": "theg chen mdo sde rgyan gyi don mdor bsdus (4669) commentary on mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4669/",
         "label": "theg chen mdo sde rgyan gyi don mdor bsdus (4669)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4668/",
-        "label": "theg chen mdo sde rgyan gyi don mdor bsdus (4668)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3746/",
+        "label": "mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (3746)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
