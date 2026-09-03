@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5198/",
   "relations": [
     {
+      "id": 983,
+      "label": "bzad pa blo gros rgya mtsho (5198) author of shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa don gsal gyi rnam par bshad pa mi pham dgongs rgyan (5197)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5198/",
+        "label": "bzad pa blo gros rgya mtsho (5198)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5197/",
+        "label": "shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa don gsal gyi rnam par bshad pa mi pham dgongs rgyan (5197)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1933,
       "label": "bzad pa blo gros rgya mtsho (5198) active at gsang phu ne'u thog gi gtsug lag khang (6173)",
       "subj": {
@@ -33,8 +61,8 @@
       ]
     },
     {
-      "id": 983,
-      "label": "bzad pa blo gros rgya mtsho (5198) author of shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa don gsal gyi rnam par bshad pa mi pham dgongs rgyan (5197)",
+      "id": 3951,
+      "label": "bzad pa blo gros rgya mtsho (5198) student of rong ston shes bya kun rig (6005)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5198/",
         "label": "bzad pa blo gros rgya mtsho (5198)",
@@ -42,10 +70,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5197/",
-        "label": "shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos mngon par rtogs pa'i rgyan gyi 'grel pa don gsal gyi rnam par bshad pa mi pham dgongs rgyan (5197)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -53,12 +81,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "https://sakyaresearch.org/persons/2067",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 6924,
@@ -87,35 +116,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 3951,
-      "label": "bzad pa blo gros rgya mtsho (5198) student of rong ston shes bya kun rig (6005)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5198/",
-        "label": "bzad pa blo gros rgya mtsho (5198)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
-        "label": "rong ston shes bya kun rig (6005)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "https://sakyaresearch.org/persons/2067",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     },
     {
       "id": 3984,

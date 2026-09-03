@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4123/",
   "relations": [
     {
-      "id": 2229,
-      "label": "rgyud smad shes rab seng ge (4123) active at snar thang (4411)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4123/",
-        "label": "rgyud smad shes rab seng ge (4123)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
-        "label": "snar thang (4411)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": "1445-12-31",
-      "end_date_from": null,
-      "end_date_sort": "1445-12-31",
-      "start_date_to": null,
-      "start_date_from": "1400-01-01",
-      "start_date_sort": "1400-01-01",
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1400",
-      "end": "before 1445",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 1156,
       "label": "rgyud smad shes rab seng ge (4123) author of dbu ma 'jug pa'i 'grel pa (5465)",
       "subj": {
@@ -59,8 +30,8 @@
       "end": null
     },
     {
-      "id": 5472,
-      "label": "rgyud smad shes rab seng ge (4123) active at gsang phu mthong smon grwa tshang (7243)",
+      "id": 2229,
+      "label": "rgyud smad shes rab seng ge (4123) active at snar thang (4411)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4123/",
         "label": "rgyud smad shes rab seng ge (4123)",
@@ -68,8 +39,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7243/",
-        "label": "gsang phu mthong smon grwa tshang (7243)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -77,43 +48,15 @@
       "end_date_from": null,
       "end_date_sort": "1445-12-31",
       "start_date_to": null,
-      "start_date_from": "1393-01-01",
-      "start_date_sort": "1393-01-01",
-      "zotero_refs": "[9BEDJZXI]: 67 (re zhig gsang phu mthong smon grwa tshang gi 'chad nyan pa mdzad | de nas grwa tshang de rje dge 'dun grub pa la gtad).",
+      "start_date_from": "1400-01-01",
+      "start_date_sort": "1400-01-01",
+      "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "after 1393",
+      "start": "after 1400",
       "end": "before 1445",
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 6771,
-      "label": "rgyud smad shes rab seng ge (4123) author of 'dul ba me tog phreng brgyud kyi sa bcad dang tshig le'ur byad pa'i de'i 'grel pa legs bshad rgya mtsho (7861)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4123/",
-        "label": "rgyud smad shes rab seng ge (4123)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7861/",
-        "label": "'dul ba me tog phreng brgyud kyi sa bcad dang tshig le'ur byad pa'i de'i 'grel pa legs bshad rgya mtsho (7861)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:WA26074.",
-      "tei_refs": "",
-      "support_notes": "Because the author is referred to in bSam gtan bzang po's commentary (ID:4735), if one adopts the date 1356 for that composition, dKa' bzhi pa Shes rab seng ge must be different from rGyud smad shes rab seng ge.",
-      "confidence": "Negative",
-      "start": null,
-      "end": null
     },
     {
       "id": 4913,
@@ -171,6 +114,63 @@
       "start": "after 1393",
       "end": "before 1445",
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5472,
+      "label": "rgyud smad shes rab seng ge (4123) active at gsang phu mthong smon grwa tshang (7243)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4123/",
+        "label": "rgyud smad shes rab seng ge (4123)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7243/",
+        "label": "gsang phu mthong smon grwa tshang (7243)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1445-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1445-12-31",
+      "start_date_to": null,
+      "start_date_from": "1393-01-01",
+      "start_date_sort": "1393-01-01",
+      "zotero_refs": "[9BEDJZXI]: 67 (re zhig gsang phu mthong smon grwa tshang gi 'chad nyan pa mdzad | de nas grwa tshang de rje dge 'dun grub pa la gtad).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1393",
+      "end": "before 1445",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6771,
+      "label": "rgyud smad shes rab seng ge (4123) author of 'dul ba me tog phreng brgyud kyi sa bcad dang tshig le'ur byad pa'i de'i 'grel pa legs bshad rgya mtsho (7861)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4123/",
+        "label": "rgyud smad shes rab seng ge (4123)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7861/",
+        "label": "'dul ba me tog phreng brgyud kyi sa bcad dang tshig le'ur byad pa'i de'i 'grel pa legs bshad rgya mtsho (7861)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:WA26074.",
+      "tei_refs": "",
+      "support_notes": "Because the author is referred to in bSam gtan bzang po's commentary (ID:4735), if one adopts the date 1356 for that composition, dKa' bzhi pa Shes rab seng ge must be different from rGyud smad shes rab seng ge.",
+      "confidence": "Negative",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": "1445-12-31",

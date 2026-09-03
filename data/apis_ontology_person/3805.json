@@ -430,8 +430,8 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "ex89022024-11-08-14-12 (dmyal pa)\r\nex89022024-11-08-14-27 (gnyal pa)\r\nex89022025-05-0511-33-00 (gnyal pa)\r\nex89022025-05-0511-36-05 (gnyal pa)",
-      "support_notes": "",
-      "confidence": "Positive",
+      "support_notes": "\"dmyal/gnyal\" is tentatively identified as Zhang tshe spong.",
+      "confidence": "Uncertain",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
@@ -464,6 +464,38 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7825,
+      "label": "gtsang nag pa brtson 'grus seng ge (3839) quotes without name zhang tshe spong chos kyi bla ma (3805)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3805/",
+        "label": "zhang tshe spong chos kyi bla ma (3805)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex0130152025-11-2711-08-09",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        48,
+        13
+      ]
     },
     {
       "id": 5191,
@@ -516,12 +548,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex71042024-11-08-16-50 (gnyal pa)",
       "support_notes": "",
-      "confidence": "Positive",
+      "confidence": "Uncertain",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        7
+      ]
     },
     {
       "id": 5259,
@@ -582,6 +616,37 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 4758,
+      "label": "gzhon nu rin chen (3911) quotes without name zhang tshe spong chos kyi bla ma (3805)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3911/",
+        "label": "gzhon nu rin chen (3911)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3805/",
+        "label": "zhang tshe spong chos kyi bla ma (3805)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex212-2025-01-08429\r\nex212-2024-10-02-13-18\r\nex21022025-01-084\r\nex21022025-01-086",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
       "id": 7397,
       "label": "rngog blo ldan shes rab (3786) lineage predecessor of zhang tshe spong chos kyi bla ma (3805)",
       "subj": {
@@ -611,37 +676,6 @@
       "subject_of_teaching_vocab": [
         52,
         48,
-        13
-      ]
-    },
-    {
-      "id": 4758,
-      "label": "gzhon nu rin chen (3911) quotes without name zhang tshe spong chos kyi bla ma (3805)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3911/",
-        "label": "gzhon nu rin chen (3911)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3805/",
-        "label": "zhang tshe spong chos kyi bla ma (3805)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex21022025-01-084\r\nex21022025-01-086\r\nex212-2024-10-02-13-18\r\nex212-2025-01-08429",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
         13
       ]
     },
@@ -741,7 +775,7 @@
   "start_date_from": "1041-01-01",
   "start_date_sort": "1065-12-31",
   "tibetan_transliteration": "\u0f5e\u0f44\u0f0b\u0f5a\u0f7a\u0f0b\u0f66\u0fa4\u0f7c\u0f44\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f56\u0fb3\u0f0b\u0f58",
-  "comments": "Third abbot of gSang phu ne'u thog monastery.\r\nAuthor of several commentaries, see [R894SIKE]: 405 (zhang tshe spong ba chos kyi bla mas kyang TI ka 'ga' re brtsams).",
+  "comments": "Third abbot of gSang phu ne'u thog monastery.\r\nAuthor of several commentaries, see [R894SIKE]: 405 (zhang tshe spong ba chos kyi bla mas kyang TI ka 'ga' re brtsams).\r\nPart of the group of the four main disciples of rNgog Blo ldan shes rab (ID:3786) exX0032026-09-0202-25-28 .",
   "alternative_names_legacy": "zhang tshes spong chos kyi bla ma\r\ntshes spong ba chos kyi bla ma\r\nzhang tshe spong pa chos kyi bla ma\r\ngnyal pa zhang tshes\r\ndmyal ba\r\ngnyal pa\r\nzhang tshes\r\nne'u thog pa chos kyi bla ma",
   "alternative_names": [
     {

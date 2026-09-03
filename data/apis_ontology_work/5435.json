@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5435/",
   "relations": [
     {
-      "id": 2221,
-      "label": "ston pa don thams cad grub pa'i rtogs pa brjod pa pad+ma dkar po'i phreng ba (5435) composed at dpal ldan rnams rgyal gtsug lag khang (5726)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5435/",
-        "label": "ston pa don thams cad grub pa'i rtogs pa brjod pa pad+ma dkar po'i phreng ba (5435)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5726/",
-        "label": "dpal ldan rnams rgyal gtsug lag khang (5726)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "Closing verses, (ID:5434), fol. 59a1.",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1721,
       "label": "ston pa don thams cad grub pa'i rtogs pa brjod pa pad+ma dkar po'i phreng ba (5435) has as an instance ston pa don thams cad grub pa'i rtogs pa brjod pa pad+ma dkar po'i phreng ba (5434)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2221,
+      "label": "ston pa don thams cad grub pa'i rtogs pa brjod pa pad+ma dkar po'i phreng ba (5435) composed at dpal ldan rnams rgyal gtsug lag khang (5726)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5435/",
+        "label": "ston pa don thams cad grub pa'i rtogs pa brjod pa pad+ma dkar po'i phreng ba (5435)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5726/",
+        "label": "dpal ldan rnams rgyal gtsug lag khang (5726)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Closing verses, (ID:5434), fol. 59a1.",
       "confidence": "Positive",
       "start": null,
       "end": null

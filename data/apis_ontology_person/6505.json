@@ -2,11 +2,11 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6505/",
   "relations": [
     {
-      "id": 3285,
-      "label": "mah\u0101jana (6504) sibling of s\u016bk\u1e63majana (6505)",
+      "id": 3284,
+      "label": "sajjana (3800) parent of s\u016bk\u1e63majana (6505)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6504/",
-        "label": "mah\u0101jana (6504)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3800/",
+        "label": "sajjana (3800)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -30,11 +30,11 @@
       "end": null
     },
     {
-      "id": 3284,
-      "label": "sajjana (3800) parent of s\u016bk\u1e63majana (6505)",
+      "id": 3285,
+      "label": "mah\u0101jana (6504) sibling of s\u016bk\u1e63majana (6505)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3800/",
-        "label": "sajjana (3800)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6504/",
+        "label": "mah\u0101jana (6504)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },

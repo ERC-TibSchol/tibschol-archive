@@ -62,35 +62,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 7820,
-      "label": "mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440) student of spyil bu pa shes rab 'od zer (7684)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8440/",
-        "label": "mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7684/",
-        "label": "spyil bu pa shes rab 'od zer (7684)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P1053 (accessed 31.08.2026)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 7819,
       "label": "mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440) student of rong pa rgwa lo rnam rgyal rdo rje (7775)",
       "subj": {
@@ -120,17 +91,17 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 7821,
-      "label": "skyi ston grags pa rgyal mtshan (4221) student of mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440)",
+      "id": 7820,
+      "label": "mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440) student of spyil bu pa shes rab 'od zer (7684)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4221/",
-        "label": "skyi ston grags pa rgyal mtshan (4221)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8440/",
+        "label": "mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8440/",
-        "label": "mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7684/",
+        "label": "spyil bu pa shes rab 'od zer (7684)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -178,6 +149,35 @@
       "subject_of_teaching_vocab": [
         17
       ]
+    },
+    {
+      "id": 7821,
+      "label": "skyi ston grags pa rgyal mtshan (4221) student of mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4221/",
+        "label": "skyi ston grags pa rgyal mtshan (4221)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8440/",
+        "label": "mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P1053 (accessed 31.08.2026)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1355-12-31",

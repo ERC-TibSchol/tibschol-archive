@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6152/",
   "relations": [
     {
+      "id": 3094,
+      "label": "spo chung ba tshul khrims shes rab (6152) ordinator of rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6152/",
+        "label": "spo chung ba tshul khrims shes rab (6152)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 193-194.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3095,
       "label": "spo chung ba tshul khrims shes rab (6152) student of gzus (6432)",
       "subj": {
@@ -29,34 +57,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3094,
-      "label": "spo chung ba tshul khrims shes rab (6152) ordinator of rngog blo ldan shes rab (3786)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6152/",
-        "label": "spo chung ba tshul khrims shes rab (6152)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[BAQ9MH4T]: 193-194.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 2512,

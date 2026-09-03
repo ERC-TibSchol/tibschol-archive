@@ -31,35 +31,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 6031,
-      "label": "byams pa kun dga' 'byung gnas (6387) active at 'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6387/",
-        "label": "byams pa kun dga' 'byung gnas (6387)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7063/",
-        "label": "'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CKLUC29Y]: 19-20. Moved to dGa' ldan as abbot of Byang rtse after founding rNam ra ba Dwags po grwa tshang.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 4011,
       "label": "byams pa kun dga' 'byung gnas (6387) active at rnam rab dwags po grwa tshang (6776)",
       "subj": {
@@ -85,6 +56,35 @@
       "support_notes": "",
       "confidence": "Positive",
       "start": "before 1447",
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6031,
+      "label": "byams pa kun dga' 'byung gnas (6387) active at 'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6387/",
+        "label": "byams pa kun dga' 'byung gnas (6387)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7063/",
+        "label": "'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CKLUC29Y]: 19-20. Moved to dGa' ldan as abbot of Byang rtse after founding rNam ra ba Dwags po grwa tshang.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
     }

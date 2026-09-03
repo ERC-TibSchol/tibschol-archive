@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6338/",
   "relations": [
     {
-      "id": 5847,
-      "label": "zhu ston hral mo (6338) active at sa skya dgon pa (5733)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6338/",
-        "label": "zhu ston hral mo (6338)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
-        "label": "sa skya dgon pa (5733)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 829. Attended the religious assembly for the passing of bSod nams rtse mo (ID:3848).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2913,
       "label": "zhu ston hral mo (6338) active at gsang phu gling stod (6172)",
       "subj": {
@@ -57,6 +28,35 @@
       "confidence": "Positive",
       "start": "1189",
       "end": "1194",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5847,
+      "label": "zhu ston hral mo (6338) active at sa skya dgon pa (5733)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6338/",
+        "label": "zhu ston hral mo (6338)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
+        "label": "sa skya dgon pa (5733)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 829. Attended the religious assembly for the passing of bSod nams rtse mo (ID:3848).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     }
   ],

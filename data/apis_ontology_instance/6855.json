@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6855/",
   "relations": [
     {
-      "id": 4275,
-      "label": "rgyal sras 'jigs med (6856) owner of dam pa'i chos la zhus dag bya ba'i tshul (6855)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6856/",
-        "label": "rgyal sras 'jigs med (6856)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6855/",
-        "label": "dam pa'i chos la zhus dag bya ba'i tshul (6855)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex114022024-11-2212-13-20\r\nex114022024-11-2212-06-00",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 4274,
       "label": "dam pa'i chos la zhus dag bya ba'i tshul (6854) has as an instance dam pa'i chos la zhus dag bya ba'i tshul (6855)",
       "subj": {
@@ -52,6 +24,34 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4275,
+      "label": "rgyal sras 'jigs med (6856) owner of dam pa'i chos la zhus dag bya ba'i tshul (6855)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6856/",
+        "label": "rgyal sras 'jigs med (6856)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6855/",
+        "label": "dam pa'i chos la zhus dag bya ba'i tshul (6855)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex114022024-11-2212-13-20\r\nex114022024-11-2212-06-00",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

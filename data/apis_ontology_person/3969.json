@@ -61,8 +61,8 @@
       "end": null
     },
     {
-      "id": 3844,
-      "label": "rog chos kyi dbang phyug (3969) active at rtsib pa can (6718)",
+      "id": 707,
+      "label": "rog chos kyi dbang phyug (3969) author of rtsa ba'i lung so sor thar pa'i TIk+ka legs par bkod pa (4706)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3969/",
         "label": "rog chos kyi dbang phyug (3969)",
@@ -70,10 +70,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6718/",
-        "label": "rtsib pa can (6718)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4706/",
+        "label": "rtsa ba'i lung so sor thar pa'i TIk+ka legs par bkod pa (4706)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -81,13 +81,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[W4T5ZMUP]: 40.",
-      "tei_refs": "",
-      "support_notes": "",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 1997,
@@ -121,34 +120,6 @@
       ]
     },
     {
-      "id": 707,
-      "label": "rog chos kyi dbang phyug (3969) author of rtsa ba'i lung so sor thar pa'i TIk+ka legs par bkod pa (4706)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3969/",
-        "label": "rog chos kyi dbang phyug (3969)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4706/",
-        "label": "rtsa ba'i lung so sor thar pa'i TIk+ka legs par bkod pa (4706)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 3841,
       "label": "rog chos kyi dbang phyug (3969) active at zul phu (6492)",
       "subj": {
@@ -170,6 +141,35 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[W4T5ZMUP]: 39 and 40. Second abbot of Zul phu.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3844,
+      "label": "rog chos kyi dbang phyug (3969) active at rtsib pa can (6718)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3969/",
+        "label": "rog chos kyi dbang phyug (3969)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6718/",
+        "label": "rtsib pa can (6718)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 40.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

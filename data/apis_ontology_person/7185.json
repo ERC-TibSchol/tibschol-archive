@@ -59,35 +59,6 @@
       "end": null
     },
     {
-      "id": 5559,
-      "label": "rgyal tsha (7278) student of dmar chos kyi rgyal mtshan (7185)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7278/",
-        "label": "rgyal tsha (7278)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7185/",
-        "label": "dmar chos kyi rgyal mtshan (7185)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": "1136-01-01",
-      "end_date_sort": "1136-01-01",
-      "start_date_to": null,
-      "start_date_from": "1136-01-01",
-      "start_date_sort": "1136-01-01",
-      "zotero_refs": "[R894SIKE]: 826 (dbus su dgung lo bcu dgu la byon | g.yor po lugs smad du pu hrangs lo tsA ba'i dngos slob dmar chos kyi rgyal po | mes ston kun snying | rngog mdo sde | lo tsA ba chos kyi bzang po'i slob ma bla ma gshen chen po dgung lo gya gsum bzhes pa dang mjal |). From the life or rGyal tsha (ID:7278), the chief disciple of Phag mo gru pa (ID:3856).",
-      "tei_refs": "",
-      "support_notes": "There seems to be some confusion in [R894SIKE] as to whether sPu hrangs was the teacher of dMar chos kyi rgyal mtshan (ID:7185) or of dMar chos kyi rgyal po (ID:7183). The former is more likely in view of the chronology of the two dMar, who were uncle and nephew. Thus rGyal tsha likely studied with rGyal mtshan (ID:7185), not rGyal po (ID:7183).",
-      "confidence": "Positive",
-      "start": "after 1136",
-      "end": "after 1136",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 5312,
       "label": "phag mo gru pa rdo rje rgyal po (3856) student of dmar chos kyi rgyal mtshan (7185)",
       "subj": {
@@ -117,6 +88,35 @@
       "subject_of_teaching_vocab": [
         3
       ]
+    },
+    {
+      "id": 5559,
+      "label": "rgyal tsha (7278) student of dmar chos kyi rgyal mtshan (7185)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7278/",
+        "label": "rgyal tsha (7278)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7185/",
+        "label": "dmar chos kyi rgyal mtshan (7185)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": "1136-01-01",
+      "end_date_sort": "1136-01-01",
+      "start_date_to": null,
+      "start_date_from": "1136-01-01",
+      "start_date_sort": "1136-01-01",
+      "zotero_refs": "[R894SIKE]: 826 (dbus su dgung lo bcu dgu la byon | g.yor po lugs smad du pu hrangs lo tsA ba'i dngos slob dmar chos kyi rgyal po | mes ston kun snying | rngog mdo sde | lo tsA ba chos kyi bzang po'i slob ma bla ma gshen chen po dgung lo gya gsum bzhes pa dang mjal |). From the life or rGyal tsha (ID:7278), the chief disciple of Phag mo gru pa (ID:3856).",
+      "tei_refs": "",
+      "support_notes": "There seems to be some confusion in [R894SIKE] as to whether sPu hrangs was the teacher of dMar chos kyi rgyal mtshan (ID:7185) or of dMar chos kyi rgyal po (ID:7183). The former is more likely in view of the chronology of the two dMar, who were uncle and nephew. Thus rGyal tsha likely studied with rGyal mtshan (ID:7185), not rGyal po (ID:7183).",
+      "confidence": "Positive",
+      "start": "after 1136",
+      "end": "after 1136",
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": null,

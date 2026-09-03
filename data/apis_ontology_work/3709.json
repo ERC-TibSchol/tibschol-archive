@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3709/",
   "relations": [
     {
-      "id": 2109,
-      "label": "abhisamay\u0101la\u1e43k\u0101r\u0101lok\u0101 (3709) commentary on a\u1e63\u1e6das\u0101hasrik\u0101praj\u00f1\u0101p\u0101ramit\u0101 (3692)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3709/",
-        "label": "abhisamay\u0101la\u1e43k\u0101r\u0101lok\u0101 (3709)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3692/",
-        "label": "a\u1e63\u1e6das\u0101hasrik\u0101praj\u00f1\u0101p\u0101ramit\u0101 (3692)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1979,
       "label": "abhisamay\u0101la\u1e43k\u0101r\u0101lok\u0101 (3709) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
       "subj": {
@@ -58,45 +30,17 @@
       "end": null
     },
     {
-      "id": 5592,
-      "label": "rngog blo ldan shes rab (3786) translator of abhisamay\u0101la\u1e43k\u0101r\u0101lok\u0101 (3709)",
+      "id": 2109,
+      "label": "abhisamay\u0101la\u1e43k\u0101r\u0101lok\u0101 (3709) commentary on a\u1e63\u1e6das\u0101hasrik\u0101praj\u00f1\u0101p\u0101ramit\u0101 (3692)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3709/",
         "label": "abhisamay\u0101la\u1e43k\u0101r\u0101lok\u0101 (3709)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Q47PVAE6]: 58. Revision, together with Dh\u012brap\u0101la.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 2361,
-      "label": "yum brgyad stong pa'i 'grel pa'i don bsdus (6048) commentary on abhisamay\u0101la\u1e43k\u0101r\u0101lok\u0101 (3709)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6048/",
-        "label": "yum brgyad stong pa'i 'grel pa'i don bsdus (6048)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3709/",
-        "label": "abhisamay\u0101la\u1e43k\u0101r\u0101lok\u0101 (3709)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3692/",
+        "label": "a\u1e63\u1e6das\u0101hasrik\u0101praj\u00f1\u0101p\u0101ramit\u0101 (3692)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -165,6 +109,62 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2361,
+      "label": "yum brgyad stong pa'i 'grel pa'i don bsdus (6048) commentary on abhisamay\u0101la\u1e43k\u0101r\u0101lok\u0101 (3709)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6048/",
+        "label": "yum brgyad stong pa'i 'grel pa'i don bsdus (6048)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3709/",
+        "label": "abhisamay\u0101la\u1e43k\u0101r\u0101lok\u0101 (3709)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5592,
+      "label": "rngog blo ldan shes rab (3786) translator of abhisamay\u0101la\u1e43k\u0101r\u0101lok\u0101 (3709)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3709/",
+        "label": "abhisamay\u0101la\u1e43k\u0101r\u0101lok\u0101 (3709)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q47PVAE6]: 58. Revision, together with Dh\u012brap\u0101la.",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

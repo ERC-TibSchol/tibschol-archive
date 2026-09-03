@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5012/",
   "relations": [
     {
-      "id": 5542,
-      "label": "mdo sde kun las btus pa rgyan gyi me tog (5012) has as an instance mdo sde rgyan gyi me tog (7273)",
+      "id": 1524,
+      "label": "mdo sde kun las btus pa rgyan gyi me tog (5012) has as an instance mdo sde kun las btus pa rgyan gyi me tog (5011)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5012/",
         "label": "mdo sde kun las btus pa rgyan gyi me tog (5012)",
@@ -11,8 +11,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7273/",
-        "label": "mdo sde rgyan gyi me tog (7273)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5011/",
+        "label": "mdo sde kun las btus pa rgyan gyi me tog (5011)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -22,37 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "Possibly an instance of (ID:5011) if the title corresponds to that on the cover page and in the incipit of instance (ID:5011). However, it only counts 14 folios, against 73 for (ID:5011). It could be an incomplete instance of (ID:5012), or an instance of another work, such as (ID:5101).",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 5541,
-      "label": "mdo sde kun las btus pa rgyan gyi me tog (5012) commentary on s\u016btrasamuccaya (3738)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5012/",
-        "label": "mdo sde kun las btus pa rgyan gyi me tog (5012)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3738/",
-        "label": "s\u016btrasamuccaya (3738)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -86,8 +58,8 @@
       "end": null
     },
     {
-      "id": 1524,
-      "label": "mdo sde kun las btus pa rgyan gyi me tog (5012) has as an instance mdo sde kun las btus pa rgyan gyi me tog (5011)",
+      "id": 5541,
+      "label": "mdo sde kun las btus pa rgyan gyi me tog (5012) commentary on s\u016btrasamuccaya (3738)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5012/",
         "label": "mdo sde kun las btus pa rgyan gyi me tog (5012)",
@@ -95,8 +67,36 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5011/",
-        "label": "mdo sde kun las btus pa rgyan gyi me tog (5011)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3738/",
+        "label": "s\u016btrasamuccaya (3738)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5542,
+      "label": "mdo sde kun las btus pa rgyan gyi me tog (5012) has as an instance mdo sde rgyan gyi me tog (7273)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5012/",
+        "label": "mdo sde kun las btus pa rgyan gyi me tog (5012)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7273/",
+        "label": "mdo sde rgyan gyi me tog (7273)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -106,10 +106,10 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Possibly an instance of (ID:5011) if the title corresponds to that on the cover page and in the incipit of instance (ID:5011). However, it only counts 14 folios, against 73 for (ID:5011). It could be an incomplete instance of (ID:5012), or an instance of another work, such as (ID:5101).",
+      "confidence": "Uncertain",
       "start": null,
       "end": null
     },

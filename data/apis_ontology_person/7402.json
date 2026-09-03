@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7402/",
   "relations": [
     {
-      "id": 5860,
-      "label": "mkhas grub shangs ston (7402) studies pram\u0101\u1e47avini\u015bcaya (3774)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7402/",
-        "label": "mkhas grub shangs ston (7402)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 874-875 (slob dpon gyi gsung gis | khyod kyis tshad ma go ba cig 'ong bar 'dug 'di gzung gsung nas rnam nges kyi gzhung gtad | slob dpon gyis phreng dang po de bshad pas shog logs dang po'i lhag ma thams cad go || tshad ma mkhas shing ston pa bzang por grags | gzhan yang byams chos lnga | sa sde | tshad ma sde bdun | dbu ma rigs tshogs | bslab btus rnams dang | gsang sngags kyang mang po gsan |)",
-      "tei_refs": "",
-      "support_notes": "Studies with a \"slob dpon tshul she\" and \"slob dpon shAkya 'bum\" (maybe sKyi ston shAkya 'bum? (ID:4062)).",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 5859,
       "label": "mkhas grub shangs ston (7402) student of sangs rgyas ston pa (7400)",
       "subj": {
@@ -57,6 +29,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5860,
+      "label": "mkhas grub shangs ston (7402) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7402/",
+        "label": "mkhas grub shangs ston (7402)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 874-875 (slob dpon gyi gsung gis | khyod kyis tshad ma go ba cig 'ong bar 'dug 'di gzung gsung nas rnam nges kyi gzhung gtad | slob dpon gyis phreng dang po de bshad pas shog logs dang po'i lhag ma thams cad go || tshad ma mkhas shing ston pa bzang por grags | gzhan yang byams chos lnga | sa sde | tshad ma sde bdun | dbu ma rigs tshogs | bslab btus rnams dang | gsang sngags kyang mang po gsan |)",
+      "tei_refs": "",
+      "support_notes": "Studies with a \"slob dpon tshul she\" and \"slob dpon shAkya 'bum\" (maybe sKyi ston shAkya 'bum? (ID:4062)).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": null,

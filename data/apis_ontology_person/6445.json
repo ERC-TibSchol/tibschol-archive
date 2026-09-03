@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6445/",
   "relations": [
     {
-      "id": 3129,
-      "label": "ras chen chos kyi rgyal mtshan (6445) ordinator of rin chen dpal (6446)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6445/",
-        "label": "ras chen chos kyi rgyal mtshan (6445)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6446/",
-        "label": "rin chen dpal (6446)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[4LDAV8UH]: 98, based on [Y2ZN5C6X]: 24a.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1231",
-      "end": "1231"
-    },
-    {
       "id": 3127,
       "label": "ras chen chos kyi rgyal mtshan (6445) ordinator of rin chen gangs pa (6443)",
       "subj": {
@@ -58,11 +30,39 @@
       "end": null
     },
     {
-      "id": 3125,
-      "label": "rin chen dpal (6446) student of ras chen chos kyi rgyal mtshan (6445)",
+      "id": 3129,
+      "label": "ras chen chos kyi rgyal mtshan (6445) ordinator of rin chen dpal (6446)",
       "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6445/",
+        "label": "ras chen chos kyi rgyal mtshan (6445)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6446/",
         "label": "rin chen dpal (6446)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 98, based on [Y2ZN5C6X]: 24a.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1231",
+      "end": "1231"
+    },
+    {
+      "id": 3124,
+      "label": "rin chen gangs pa (6443) student of ras chen chos kyi rgyal mtshan (6445)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6443/",
+        "label": "rin chen gangs pa (6443)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -87,11 +87,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3124,
-      "label": "rin chen gangs pa (6443) student of ras chen chos kyi rgyal mtshan (6445)",
+      "id": 3125,
+      "label": "rin chen dpal (6446) student of ras chen chos kyi rgyal mtshan (6445)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6443/",
-        "label": "rin chen gangs pa (6443)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6446/",
+        "label": "rin chen dpal (6446)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },

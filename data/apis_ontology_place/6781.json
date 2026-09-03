@@ -30,6 +30,35 @@
       "end": null
     },
     {
+      "id": 4012,
+      "label": "sde bdun pa bstan pa rab gsal (6784) active at rwa ba smad (6781)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6784/",
+        "label": "sde bdun pa bstan pa rab gsal (6784)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6781/",
+        "label": "rwa ba smad (6781)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[U9BU5AFU]: 1050-1051. Founded Ra ba smad college (grwa tshang).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 4866,
       "label": "gling smad pa shes rab dpal ldan (6305) active at rwa ba smad (6781)",
       "subj": {
@@ -85,35 +114,6 @@
       "confidence": "Positive",
       "start": "after 1412",
       "end": "before 1473",
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 4012,
-      "label": "sde bdun pa bstan pa rab gsal (6784) active at rwa ba smad (6781)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6784/",
-        "label": "sde bdun pa bstan pa rab gsal (6784)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6781/",
-        "label": "rwa ba smad (6781)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[U9BU5AFU]: 1050-1051. Founded Ra ba smad college (grwa tshang).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
       "subject_of_teaching_vocab": []
     }
   ],

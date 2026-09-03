@@ -1010,35 +1010,6 @@
       "end": null
     },
     {
-      "id": 3244,
-      "label": "steng pa lo tsA ba tshul khrims 'byung gnas sbas pa (6490) student of gro lung pa blo gros 'byung gnas (3806)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6490/",
-        "label": "steng pa lo tsA ba tshul khrims 'byung gnas sbas pa (6490)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3806/",
-        "label": "gro lung pa blo gros 'byung gnas (3806)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[HCLRANG3]: 15. According to Las chen Kun dga' rgyal mtshan (ID: 4115).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 82,
       "label": "phywa pa chos kyi seng ge (3831) student of gro lung pa blo gros 'byung gnas (3806)",
       "subj": {
@@ -1071,6 +1042,35 @@
       ]
     },
     {
+      "id": 84,
+      "label": "zam kha ba (3833) student of gro lung pa blo gros 'byung gnas (3806)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3833/",
+        "label": "zam kha ba (3833)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3806/",
+        "label": "gro lung pa blo gros 'byung gnas (3806)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[HCLRANG3]: 15. According to Las chen Kun dga' rgyal mtshan (ID: 4115).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 91,
       "label": "rgya dmar ba byang chub grags (3834) student of gro lung pa blo gros 'byung gnas (3806)",
       "subj": {
@@ -1100,11 +1100,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 84,
-      "label": "zam kha ba (3833) student of gro lung pa blo gros 'byung gnas (3806)",
+      "id": 3244,
+      "label": "steng pa lo tsA ba tshul khrims 'byung gnas sbas pa (6490) student of gro lung pa blo gros 'byung gnas (3806)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3833/",
-        "label": "zam kha ba (3833)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6490/",
+        "label": "steng pa lo tsA ba tshul khrims 'byung gnas sbas pa (6490)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -1121,6 +1121,35 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[HCLRANG3]: 15. According to Las chen Kun dga' rgyal mtshan (ID: 4115).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3245,
+      "label": "gu ru ba chag ston chen po rin chen tshul khrims (6491) student of gro lung pa blo gros 'byung gnas (3806)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6491/",
+        "label": "gu ru ba chag ston chen po rin chen tshul khrims (6491)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3806/",
+        "label": "gro lung pa blo gros 'byung gnas (3806)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 1226 (gu ru ba chag ston chen po mtshan rin chen tshul khrims shes bya ba gro lung ba'i dngos slob de las rab tu byung |).\r\n[HCLRANG3]: 15. According to Las chen Kun dga' rgyal mtshan (ID: 4115).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -1158,35 +1187,6 @@
       "subject_of_teaching_vocab": [
         13
       ]
-    },
-    {
-      "id": 3245,
-      "label": "gu ru ba chag ston chen po rin chen tshul khrims (6491) student of gro lung pa blo gros 'byung gnas (3806)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6491/",
-        "label": "gu ru ba chag ston chen po rin chen tshul khrims (6491)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3806/",
-        "label": "gro lung pa blo gros 'byung gnas (3806)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 1226 (gu ru ba chag ston chen po mtshan rin chen tshul khrims shes bya ba gro lung ba'i dngos slob de las rab tu byung |).\r\n[HCLRANG3]: 15. According to Las chen Kun dga' rgyal mtshan (ID: 4115).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1120-12-31",

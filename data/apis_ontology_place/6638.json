@@ -30,13 +30,13 @@
       "end": null
     },
     {
-      "id": 5495,
-      "label": "pram\u0101\u1e47avini\u015bcaya (3774) taught at don mo ri (6638)",
+      "id": 3621,
+      "label": "'dar byang chub skyabs (6637) active at don mo ri (6638)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6637/",
+        "label": "'dar byang chub skyabs (6637)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6638/",
@@ -50,12 +50,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 136. Teaching by Kun spangs thugs rje brtson 'grus (ID:3905).",
+      "zotero_refs": "[FEHIEFEB]: 136.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 3622,
@@ -89,13 +90,13 @@
       ]
     },
     {
-      "id": 3621,
-      "label": "'dar byang chub skyabs (6637) active at don mo ri (6638)",
+      "id": 5495,
+      "label": "pram\u0101\u1e47avini\u015bcaya (3774) taught at don mo ri (6638)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6637/",
-        "label": "'dar byang chub skyabs (6637)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6638/",
@@ -109,13 +110,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 136.",
+      "zotero_refs": "[FEHIEFEB]: 136. Teaching by Kun spangs thugs rje brtson 'grus (ID:3905).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     }
   ],
   "start_date_to": null,

@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5900/",
   "relations": [
     {
-      "id": 2012,
-      "label": "'brel ba brtag pa'i mchan bu (5900) has as an instance 'brel ba brtag pa'i mchan bu (2) (5902)",
+      "id": 2009,
+      "label": "'brel ba brtag pa'i mchan bu (5900) commentary on sambandhapar\u012bk\u1e63\u0101 (3775)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5900/",
         "label": "'brel ba brtag pa'i mchan bu (5900)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5902/",
-        "label": "'brel ba brtag pa'i mchan bu (2) (5902)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3775/",
+        "label": "sambandhapar\u012bk\u1e63\u0101 (3775)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -58,6 +58,34 @@
       "end": null
     },
     {
+      "id": 2012,
+      "label": "'brel ba brtag pa'i mchan bu (5900) has as an instance 'brel ba brtag pa'i mchan bu (2) (5902)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5900/",
+        "label": "'brel ba brtag pa'i mchan bu (5900)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5902/",
+        "label": "'brel ba brtag pa'i mchan bu (2) (5902)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2013,
       "label": "'brel ba brtag pa'i mchan bu (5900) has as an instance 'brel ba brtag pa'i mchan bu (3) (5903)",
       "subj": {
@@ -82,34 +110,6 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Uncertain",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 2009,
-      "label": "'brel ba brtag pa'i mchan bu (5900) commentary on sambandhapar\u012bk\u1e63\u0101 (3775)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5900/",
-        "label": "'brel ba brtag pa'i mchan bu (5900)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3775/",
-        "label": "sambandhapar\u012bk\u1e63\u0101 (3775)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
       "start": null,
       "end": null
     },

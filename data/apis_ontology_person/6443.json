@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6443/",
   "relations": [
     {
-      "id": 3124,
-      "label": "rin chen gangs pa (6443) student of ras chen chos kyi rgyal mtshan (6445)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6443/",
-        "label": "rin chen gangs pa (6443)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6445/",
-        "label": "ras chen chos kyi rgyal mtshan (6445)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[4LDAV8UH]: 98.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3123,
       "label": "rin chen gangs pa (6443) active at chos sdings (6444)",
       "subj": {
@@ -52,6 +23,35 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[4LDAV8UH]: 98. Abbot of Chos sdings.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3124,
+      "label": "rin chen gangs pa (6443) student of ras chen chos kyi rgyal mtshan (6445)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6443/",
+        "label": "rin chen gangs pa (6443)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6445/",
+        "label": "ras chen chos kyi rgyal mtshan (6445)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 98.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6378/",
   "relations": [
     {
-      "id": 4876,
-      "label": "rtses thang pa blo gros 'byung gnas (6378) active at rtses thang (5765)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6378/",
-        "label": "rtses thang pa blo gros 'byung gnas (6378)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5765/",
-        "label": "rtses thang (5765)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2986,
       "label": "rtses thang pa blo gros 'byung gnas (6378) active at gsang phu gling stod (6172)",
       "subj": {
@@ -57,6 +28,35 @@
       "confidence": "Positive",
       "start": "after 1500",
       "end": "before 1625",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4876,
+      "label": "rtses thang pa blo gros 'byung gnas (6378) active at rtses thang (5765)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6378/",
+        "label": "rtses thang pa blo gros 'byung gnas (6378)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5765/",
+        "label": "rtses thang (5765)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     }
   ],

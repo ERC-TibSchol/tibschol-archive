@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4602/",
   "relations": [
     {
-      "id": 6210,
-      "label": "bden gnyis kyi 'bum (7581) has source dbu ma'i man ngag gi 'bum (4602)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7581/",
-        "label": "bden gnyis kyi 'bum (7581)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4602/",
-        "label": "dbu ma'i man ngag gi 'bum (4602)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1341,
       "label": "dbu ma'i man ngag gi 'bum (4603) has as an instance dbu ma'i man ngag gi 'bum (4602)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6210,
+      "label": "bden gnyis kyi 'bum (7581) has source dbu ma'i man ngag gi 'bum (4602)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7581/",
+        "label": "bden gnyis kyi 'bum (7581)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4602/",
+        "label": "dbu ma'i man ngag gi 'bum (4602)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

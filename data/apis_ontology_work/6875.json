@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6875/",
   "relations": [
     {
-      "id": 7215,
-      "label": "rong ston phar phyin (6875) composed at gsang phu ne'u thog (4332)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6875/",
-        "label": "rong ston phar phyin (6875)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
-        "label": "gsang phu ne'u thog (4332)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[VTFXMPC9]: vi.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 7202,
       "label": "rong ston phar phyin (6875) commentary on abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
       "subj": {
@@ -51,6 +23,34 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7215,
+      "label": "rong ston phar phyin (6875) composed at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6875/",
+        "label": "rong ston phar phyin (6875)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VTFXMPC9]: vi.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

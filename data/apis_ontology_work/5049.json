@@ -30,34 +30,6 @@
       "end": null
     },
     {
-      "id": 4690,
-      "label": "blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5049) has as an instance blo sbyong don bdun ma brgyud pa'i gsol 'debs dang bcas pa (5044)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5049/",
-        "label": "blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5049)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5044/",
-        "label": "blo sbyong don bdun ma brgyud pa'i gsol 'debs dang bcas pa (5044)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2146,
       "label": "blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5049) composed at dngul chu'i chos rdzong (5692)",
       "subj": {
@@ -80,6 +52,34 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "ex58042024-12-0515-50-41\r\nex58062024-12-0515-50-41",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4690,
+      "label": "blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5049) has as an instance blo sbyong don bdun ma brgyud pa'i gsol 'debs dang bcas pa (5044)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5049/",
+        "label": "blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5049)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5044/",
+        "label": "blo sbyong don bdun ma brgyud pa'i gsol 'debs dang bcas pa (5044)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -114,11 +114,11 @@
       "end": null
     },
     {
-      "id": 4173,
-      "label": "grags pa rgyal mtshan (2) (7021) prompter of blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5049)",
+      "id": 889,
+      "label": "rgyal sras thogs med bzang po (4066) author of blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5049)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7021/",
-        "label": "grags pa rgyal mtshan (2) (7021)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4066/",
+        "label": "rgyal sras thogs med bzang po (4066)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -142,11 +142,11 @@
       "end": null
     },
     {
-      "id": 889,
-      "label": "rgyal sras thogs med bzang po (4066) author of blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5049)",
+      "id": 4173,
+      "label": "grags pa rgyal mtshan (2) (7021) prompter of blo sbyong don bdun ma'i snyan brgyud kyi tshig rnams yi ge nyung ngu'i sgo nas bkrol ba (5049)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4066/",
-        "label": "rgyal sras thogs med bzang po (4066)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7021/",
+        "label": "grags pa rgyal mtshan (2) (7021)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },

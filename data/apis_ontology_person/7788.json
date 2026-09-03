@@ -2,37 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7788/",
   "relations": [
     {
-      "id": 7733,
-      "label": "vidy\u0101kokila (7788) lineage predecessor of avadhuti (7963)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7788/",
-        "label": "vidy\u0101kokila (7788)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7963/",
-        "label": "avadhuti (7963)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[RCJ46BHM]: 337 also records the lineage of Madhyamaka from Jo bo D\u012bpa\u1e43kara (ID:3745) according to Mi bskyod rdo rje (ID:6895): N\u0101ga (ID:3720), \u0100ryadeva (ID:3702), Candrak\u012brti (ID:3725), Rig pa'i khu byug che (*Vidy\u0101kokila) (ID:7788), (Rig pa'i khu byug) chung (i.e. a wa d+hu ti) (ID:7963), Jo bo Atisha (ID:3745), sTon pa chen po (i.e., 'Brom ston rGyal ba'i 'byung gnas) (ID:3827), sPyan snga ba (Tshul khrims 'bar) (ID:3830), Bya yul pa (ID:3915). Then from many unspecified bKa\u2019 gdams pa masters to Lord sGam po pa (ID:4189). \r\n\r\nAlternatively, from Bo to ba (i.e. Po to ba) (ID:3829), Sha ra ba (ID:3869), to Dus gsum mkhyen pa (ID:3855), and from him it is then the same as the first lineage of N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895) (see [RCJ46BHM]: 329).",
-      "tei_refs": "ex019062026-07-0605-56-18 (Madhyamaka lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        13
-      ]
-    },
-    {
       "id": 7119,
       "label": "vidy\u0101kokila (7788) lineage predecessor of slob pa'i rdo rje (8059)",
       "subj": {
@@ -87,6 +56,37 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "ex6405_2026-01-2621-55-26 (Madhyamaka lineage)\r\nex022012026-02-2516-09 (Madhyamaka lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 7733,
+      "label": "vidy\u0101kokila (7788) lineage predecessor of avadhuti (7963)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7788/",
+        "label": "vidy\u0101kokila (7788)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7963/",
+        "label": "avadhuti (7963)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RCJ46BHM]: 337 also records the lineage of Madhyamaka from Jo bo D\u012bpa\u1e43kara (ID:3745) according to Mi bskyod rdo rje (ID:6895): N\u0101ga (ID:3720), \u0100ryadeva (ID:3702), Candrak\u012brti (ID:3725), Rig pa'i khu byug che (*Vidy\u0101kokila) (ID:7788), (Rig pa'i khu byug) chung (i.e. a wa d+hu ti) (ID:7963), Jo bo Atisha (ID:3745), sTon pa chen po (i.e., 'Brom ston rGyal ba'i 'byung gnas) (ID:3827), sPyan snga ba (Tshul khrims 'bar) (ID:3830), Bya yul pa (ID:3915). Then from many unspecified bKa\u2019 gdams pa masters to Lord sGam po pa (ID:4189). \r\n\r\nAlternatively, from Bo to ba (i.e. Po to ba) (ID:3829), Sha ra ba (ID:3869), to Dus gsum mkhyen pa (ID:3855), and from him it is then the same as the first lineage of N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895) (see [RCJ46BHM]: 329).",
+      "tei_refs": "ex019062026-07-0605-56-18 (Madhyamaka lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

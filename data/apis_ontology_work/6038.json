@@ -2,13 +2,13 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6038/",
   "relations": [
     {
-      "id": 2318,
-      "label": "po to ba rin chen gsal (3829) author of be'u bum sngon po (6038)",
+      "id": 2317,
+      "label": "be'u bum gyi 'grel pa (5343) commentary on be'u bum sngon po (6038)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3829/",
-        "label": "po to ba rin chen gsal (3829)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5343/",
+        "label": "be'u bum gyi 'grel pa (5343)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6038/",
@@ -30,13 +30,13 @@
       "end": null
     },
     {
-      "id": 2317,
-      "label": "be'u bum gyi 'grel pa (5343) commentary on be'u bum sngon po (6038)",
+      "id": 2318,
+      "label": "po to ba rin chen gsal (3829) author of be'u bum sngon po (6038)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5343/",
-        "label": "be'u bum gyi 'grel pa (5343)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3829/",
+        "label": "po to ba rin chen gsal (3829)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6038/",

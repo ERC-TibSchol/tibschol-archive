@@ -2,63 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4012/",
   "relations": [
     {
-      "id": 733,
-      "label": "'gar dharma smon lam (4012) author of chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed (4756)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4012/",
-        "label": "'gar dharma smon lam (4012)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4756/",
-        "label": "chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed (4756)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[K9NNDTDS]: 1389.",
-      "tei_refs": "ex042012026-04-0710-29-50",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 5201,
-      "label": "'gar dharma smon lam (4012) quotes without name rgya dmar ba byang chub grags (3834)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4012/",
-        "label": "'gar dharma smon lam (4012)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
-        "label": "rgya dmar ba byang chub grags (3834)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 480,
       "label": "'gar dharma smon lam (4012) lineage predecessor of myang chen po (4253)",
       "subj": {
@@ -88,6 +31,34 @@
       "subject_of_teaching_vocab": [
         17
       ]
+    },
+    {
+      "id": 733,
+      "label": "'gar dharma smon lam (4012) author of chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed (4756)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4012/",
+        "label": "'gar dharma smon lam (4012)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4756/",
+        "label": "chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed (4756)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[K9NNDTDS]: 1389.",
+      "tei_refs": "ex042012026-04-0710-29-50",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 3733,
@@ -150,35 +121,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5202,
-      "label": "'gar dharma smon lam (4012) quotes without name ngur smrig pa dar ma snying po (4291)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4012/",
-        "label": "'gar dharma smon lam (4012)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
-        "label": "ngur smrig pa dar ma snying po (4291)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 4567,
       "label": "'gar dharma smon lam (4012) quotes without name 'jad pa byang chub skyabs (3864)",
       "subj": {
@@ -200,9 +142,9 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex042012026-09-0204-02-33 ('jad)",
       "support_notes": "",
-      "confidence": "Positive",
+      "confidence": "Uncertain",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
@@ -237,11 +179,69 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 253,
-      "label": "zhang bye ma lha khang pa bsod nams ye shes (4014) lineage predecessor of 'gar dharma smon lam (4012)",
+      "id": 5201,
+      "label": "'gar dharma smon lam (4012) quotes without name rgya dmar ba byang chub grags (3834)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4014/",
-        "label": "zhang bye ma lha khang pa bsod nams ye shes (4014)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4012/",
+        "label": "'gar dharma smon lam (4012)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex042012026-09-0204-02-33",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5202,
+      "label": "'gar dharma smon lam (4012) quotes without name ngur smrig pa dar ma snying po (4291)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4012/",
+        "label": "'gar dharma smon lam (4012)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
+        "label": "ngur smrig pa dar ma snying po (4291)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 252,
+      "label": "dol rgya bsod nams byang chub (4013) lineage predecessor of 'gar dharma smon lam (4012)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4013/",
+        "label": "dol rgya bsod nams byang chub (4013)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -268,11 +268,11 @@
       ]
     },
     {
-      "id": 252,
-      "label": "dol rgya bsod nams byang chub (4013) lineage predecessor of 'gar dharma smon lam (4012)",
+      "id": 253,
+      "label": "zhang bye ma lha khang pa bsod nams ye shes (4014) lineage predecessor of 'gar dharma smon lam (4012)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4013/",
-        "label": "dol rgya bsod nams byang chub (4013)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4014/",
+        "label": "zhang bye ma lha khang pa bsod nams ye shes (4014)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },

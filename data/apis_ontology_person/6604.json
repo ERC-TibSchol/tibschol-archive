@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6604/",
   "relations": [
     {
-      "id": 6484,
-      "label": "nor bu bzang po (6604) lineage predecessor of nya dbon kun dga' dpal (6741)",
+      "id": 3538,
+      "label": "nor bu bzang po (6604) student of btsun pa ston gzhon (5942)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6604/",
         "label": "nor bu bzang po (6604)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
-        "label": "nya dbon kun dga' dpal (6741)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5942/",
+        "label": "btsun pa ston gzhon (5942)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -22,15 +22,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[Z5FZQCNC]: 145. Lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772) according to Kong sprul Blo gros mtha' yas: Sa paN (ID:3892), Zhang mDo sde dpal (ID:6624), mKhas pa Nor bzang (ID:6604), Nya dbon Kun dga' dpal (ID:6741), Red mda' ba (ID:6756), Tsong kha pa (ID: 5636).",
+      "zotero_refs": "[FEHIEFEB]: 118. It is not certain this is the same \"ston gzhon,\" mentioned in a a gloss in a work of Ngag dbang chos grags.",
       "tei_refs": "",
       "support_notes": "",
-      "confidence": "Positive",
+      "confidence": "Uncertain",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 6376,
@@ -89,8 +87,8 @@
       "end": null
     },
     {
-      "id": 3538,
-      "label": "nor bu bzang po (6604) student of btsun pa ston gzhon (5942)",
+      "id": 6484,
+      "label": "nor bu bzang po (6604) lineage predecessor of nya dbon kun dga' dpal (6741)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6604/",
         "label": "nor bu bzang po (6604)",
@@ -98,8 +96,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5942/",
-        "label": "btsun pa ston gzhon (5942)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6741/",
+        "label": "nya dbon kun dga' dpal (6741)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -109,10 +107,72 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 118. It is not certain this is the same \"ston gzhon,\" mentioned in a a gloss in a work of Ngag dbang chos grags.",
+      "zotero_refs": "[Z5FZQCNC]: 145. Lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772) according to Kong sprul Blo gros mtha' yas: Sa paN (ID:3892), Zhang mDo sde dpal (ID:6624), mKhas pa Nor bzang (ID:6604), Nya dbon Kun dga' dpal (ID:6741), Red mda' ba (ID:6756), Tsong kha pa (ID: 5636).",
       "tei_refs": "",
       "support_notes": "",
-      "confidence": "Uncertain",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 3651,
+      "label": "btsun pa ston gzhon (5942) lineage predecessor of nor bu bzang po (6604)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5942/",
+        "label": "btsun pa ston gzhon (5942)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6604/",
+        "label": "nor bu bzang po (6604)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 144. \"Nor bzang dpal\" follows \"'jam dbyangs ston gzhon\" in the lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772).\r\n[Z5FZQCNC]: 144. Lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772) according to 'Gos lo tsA ba (ID:5839): Kha che PaN chen \u015a\u0101kya\u015br\u012b (ID:6418), Sa paN (ID:3892), 'U yug pa (ID:3846), Zhang btsun mDo sde dpal (ID:6624), 'Jam dbyangs skya bo (ID:6621), dPal ldan pa, 'Jam dbyangs sTon gzhon (ID:5942), Nor bzangs dpal (ID:6604), etc.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 6379,
+      "label": "nam mkha' legs pa'i rgyal mtshan (7638) student of nor bu bzang po (6604)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7638/",
+        "label": "nam mkha' legs pa'i rgyal mtshan (7638)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6604/",
+        "label": "nor bu bzang po (6604)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P1879.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
@@ -171,66 +231,6 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "ex046042026-02-1913-52-41",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
-      "id": 6379,
-      "label": "nam mkha' legs pa'i rgyal mtshan (7638) student of nor bu bzang po (6604)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7638/",
-        "label": "nam mkha' legs pa'i rgyal mtshan (7638)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6604/",
-        "label": "nor bu bzang po (6604)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P1879.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3651,
-      "label": "btsun pa ston gzhon (5942) lineage predecessor of nor bu bzang po (6604)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5942/",
-        "label": "btsun pa ston gzhon (5942)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6604/",
-        "label": "nor bu bzang po (6604)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 144. \"Nor bzang dpal\" follows \"'jam dbyangs ston gzhon\" in the lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772).\r\n[Z5FZQCNC]: 144. Lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772) according to 'Gos lo tsA ba (ID:5839): Kha che PaN chen \u015a\u0101kya\u015br\u012b (ID:6418), Sa paN (ID:3892), 'U yug pa (ID:3846), Zhang btsun mDo sde dpal (ID:6624), 'Jam dbyangs skya bo (ID:6621), dPal ldan pa, 'Jam dbyangs sTon gzhon (ID:5942), Nor bzangs dpal (ID:6604), etc.",
-      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

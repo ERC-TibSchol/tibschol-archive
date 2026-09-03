@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8105/",
   "relations": [
     {
-      "id": 7227,
-      "label": "tshad ma sde bdun gyi dgongs 'grel rigs pa'i gter zhes bya ba'i dgongs don gsal bar byed pa legs bshad nyi ma'i 'od zer (8105) commentary on tshad ma rigs gter (5564)",
+      "id": 7226,
+      "label": "tshad ma sde bdun gyi dgongs 'grel rigs pa'i gter zhes bya ba'i dgongs don gsal bar byed pa legs bshad nyi ma'i 'od zer (8105) has as an instance tshad ma sde bdun gyi dgongs 'grel rigs pa'i gter zhes bya ba'i dgongs don gsal bar byed pa legs bshad nyi ma'i 'od zer (8106)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8105/",
         "label": "tshad ma sde bdun gyi dgongs 'grel rigs pa'i gter zhes bya ba'i dgongs don gsal bar byed pa legs bshad nyi ma'i 'od zer (8105)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
-        "label": "tshad ma rigs gter (5564)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8106/",
+        "label": "tshad ma sde bdun gyi dgongs 'grel rigs pa'i gter zhes bya ba'i dgongs don gsal bar byed pa legs bshad nyi ma'i 'od zer (8106)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 7226,
-      "label": "tshad ma sde bdun gyi dgongs 'grel rigs pa'i gter zhes bya ba'i dgongs don gsal bar byed pa legs bshad nyi ma'i 'od zer (8105) has as an instance tshad ma sde bdun gyi dgongs 'grel rigs pa'i gter zhes bya ba'i dgongs don gsal bar byed pa legs bshad nyi ma'i 'od zer (8106)",
+      "id": 7227,
+      "label": "tshad ma sde bdun gyi dgongs 'grel rigs pa'i gter zhes bya ba'i dgongs don gsal bar byed pa legs bshad nyi ma'i 'od zer (8105) commentary on tshad ma rigs gter (5564)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8105/",
         "label": "tshad ma sde bdun gyi dgongs 'grel rigs pa'i gter zhes bya ba'i dgongs don gsal bar byed pa legs bshad nyi ma'i 'od zer (8105)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8106/",
-        "label": "tshad ma sde bdun gyi dgongs 'grel rigs pa'i gter zhes bya ba'i dgongs don gsal bar byed pa legs bshad nyi ma'i 'od zer (8106)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,

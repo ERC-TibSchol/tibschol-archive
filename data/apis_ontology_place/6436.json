@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6436/",
   "relations": [
     {
+      "id": 3106,
+      "label": "glang pa 'phang thang (6436) located within nyang (6430)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6436/",
+        "label": "glang pa 'phang thang (6436)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6430/",
+        "label": "nyang (6430)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3107,
       "label": "glang pa 'phang thang (6436) located within gtsang (5915)",
       "subj": {
@@ -58,34 +86,6 @@
       "end": null
     },
     {
-      "id": 3106,
-      "label": "glang pa 'phang thang (6436) located within nyang (6430)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6436/",
-        "label": "glang pa 'phang thang (6436)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6430/",
-        "label": "nyang (6430)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 5454,
       "label": "glang pa 'phang thang (6436) located within glang (4415)",
       "subj": {
@@ -112,6 +112,64 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 3105,
+      "label": "khyung rin chen grags (3809) active at glang pa 'phang thang (6436)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6436/",
+        "label": "glang pa 'phang thang (6436)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 95-96.\r\n[647FFPZR]: 543. Main place of activity, situated in his native area.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3108,
+      "label": "rgya dmar ba byang chub grags (3834) active at glang pa 'phang thang (6436)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6436/",
+        "label": "glang pa 'phang thang (6436)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 96, n. 14, based on [Q3KCZX7B]: 72-73 (\"Many learned masters also resided [at Glang pa], such as Stod lung Rgya dmar ba and Rtag pa Kha che, [Khyung Rin chen grags'] disciples who gave profound teachings and studied in depth there.\")\r\n[647FFPZR]: 543.\r\n[CCSBSVCA]: 420, n. 25.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 3109,
@@ -193,64 +251,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[4LDAV8UH]: 96, based on [Q3KCZX7B]: 72-73 (\"Gnas rnying mkhan po chos kyi rin chen, later, died at dgon gnas 'Phang thang, after renovating and expanding the dgon pa.\")",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3105,
-      "label": "khyung rin chen grags (3809) active at glang pa 'phang thang (6436)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
-        "label": "khyung rin chen grags (3809)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6436/",
-        "label": "glang pa 'phang thang (6436)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[4LDAV8UH]: 95-96.\r\n[647FFPZR]: 543. Main place of activity, situated in his native area.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3108,
-      "label": "rgya dmar ba byang chub grags (3834) active at glang pa 'phang thang (6436)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
-        "label": "rgya dmar ba byang chub grags (3834)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6436/",
-        "label": "glang pa 'phang thang (6436)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[4LDAV8UH]: 96, n. 14, based on [Q3KCZX7B]: 72-73 (\"Many learned masters also resided [at Glang pa], such as Stod lung Rgya dmar ba and Rtag pa Kha che, [Khyung Rin chen grags'] disciples who gave profound teachings and studied in depth there.\")\r\n[647FFPZR]: 543.\r\n[CCSBSVCA]: 420, n. 25.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

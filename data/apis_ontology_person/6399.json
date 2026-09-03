@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6399/",
   "relations": [
     {
-      "id": 6971,
-      "label": "gzhon nu grags pa (6399) student of sne'u zur pa ye shes 'bar (3825)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6399/",
-        "label": "gzhon nu grags pa (6399)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3825/",
-        "label": "sne'u zur pa ye shes 'bar (3825)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CCSBSVCA]: 707.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3022,
       "label": "gzhon nu grags pa (6399) active at rgya ma rin chen sgang (5764)",
       "subj": {
@@ -57,6 +28,63 @@
       "confidence": "Positive",
       "start": "1119",
       "end": "1119",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3025,
+      "label": "gzhon nu grags pa (6399) uncle (maternal/paternal) of sangs rgyas dbon ston gzhon nu 'byung gnas (6400)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6399/",
+        "label": "gzhon nu grags pa (6399)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6400/",
+        "label": "sangs rgyas dbon ston gzhon nu 'byung gnas (6400)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[7JUD7TIJ]: 484, n. 19",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6971,
+      "label": "gzhon nu grags pa (6399) student of sne'u zur pa ye shes 'bar (3825)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6399/",
+        "label": "gzhon nu grags pa (6399)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3825/",
+        "label": "sne'u zur pa ye shes 'bar (3825)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 707.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     },
     {
@@ -87,34 +115,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3025,
-      "label": "gzhon nu grags pa (6399) uncle (maternal/paternal) of sangs rgyas dbon ston gzhon nu 'byung gnas (6400)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6399/",
-        "label": "gzhon nu grags pa (6399)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6400/",
-        "label": "sangs rgyas dbon ston gzhon nu 'byung gnas (6400)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[7JUD7TIJ]: 484, n. 19",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     }
   ],
   "end_date_to": "1171-12-31",

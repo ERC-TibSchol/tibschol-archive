@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6451/",
   "relations": [
     {
-      "id": 3152,
-      "label": "skyegs (6451) located within nyang (6430)",
+      "id": 3151,
+      "label": "skyegs (6451) located within gtsang (5915)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6451/",
         "label": "skyegs (6451)",
@@ -11,8 +11,8 @@
         "content_type_name": "place"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6430/",
-        "label": "nyang (6430)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
+        "label": "gtsang (5915)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 3151,
-      "label": "skyegs (6451) located within gtsang (5915)",
+      "id": 3152,
+      "label": "skyegs (6451) located within nyang (6430)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6451/",
         "label": "skyegs (6451)",
@@ -39,8 +39,8 @@
         "content_type_name": "place"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
-        "label": "gtsang (5915)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6430/",
+        "label": "nyang (6430)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },

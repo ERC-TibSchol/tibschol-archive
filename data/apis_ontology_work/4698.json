@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4698/",
   "relations": [
     {
-      "id": 1386,
-      "label": "so sor thar pa'i rnam bshad (4698) has as an instance so sor thar pa'i rnam bshad (4697)",
+      "id": 703,
+      "label": "so sor thar pa'i rnam bshad (4698) commentary on pr\u0101timok\u1e63as\u016btra (3690)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4698/",
         "label": "so sor thar pa'i rnam bshad (4698)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4697/",
-        "label": "so sor thar pa'i rnam bshad (4697)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3690/",
+        "label": "pr\u0101timok\u1e63as\u016btra (3690)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 703,
-      "label": "so sor thar pa'i rnam bshad (4698) commentary on pr\u0101timok\u1e63as\u016btra (3690)",
+      "id": 1386,
+      "label": "so sor thar pa'i rnam bshad (4698) has as an instance so sor thar pa'i rnam bshad (4697)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4698/",
         "label": "so sor thar pa'i rnam bshad (4698)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3690/",
-        "label": "pr\u0101timok\u1e63as\u016btra (3690)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4697/",
+        "label": "so sor thar pa'i rnam bshad (4697)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

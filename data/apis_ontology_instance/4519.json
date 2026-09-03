@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4519/",
   "relations": [
     {
-      "id": 6130,
-      "label": "dbu ma rtsa ba'i shes rab kyi Ti ka bstan bcos sgron ma gsal bar byed pa (7543) has source dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4519)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7543/",
-        "label": "dbu ma rtsa ba'i shes rab kyi Ti ka bstan bcos sgron ma gsal bar byed pa (7543)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4519/",
-        "label": "dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4519)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1302,
       "label": "dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4520) has as an instance dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4519)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6130,
+      "label": "dbu ma rtsa ba'i shes rab kyi Ti ka bstan bcos sgron ma gsal bar byed pa (7543) has source dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4519)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7543/",
+        "label": "dbu ma rtsa ba'i shes rab kyi Ti ka bstan bcos sgron ma gsal bar byed pa (7543)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4519/",
+        "label": "dbu ma rtsa ba'i shes rab kyi ti ka bstan bcos sgron ma gsal bar byed pa (4519)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

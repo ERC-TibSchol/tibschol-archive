@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6429/",
   "relations": [
     {
-      "id": 6779,
-      "label": "chu mig (6429) located within nyang smad (6425)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6429/",
-        "label": "chu mig (6429)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6425/",
-        "label": "nyang smad (6425)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 3083,
       "label": "chu mig (6429) located within gtsang (5915)",
       "subj": {
@@ -58,17 +30,17 @@
       "end": null
     },
     {
-      "id": 5391,
-      "label": "rnam snang rig pa'i grwa sa (7214) located within chu mig (6429)",
+      "id": 6779,
+      "label": "chu mig (6429) located within nyang smad (6425)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7214/",
-        "label": "rnam snang rig pa'i grwa sa (7214)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6429/",
+        "label": "chu mig (6429)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6429/",
-        "label": "chu mig (6429)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6425/",
+        "label": "nyang smad (6425)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -84,35 +56,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 3200,
-      "label": "zhu ston gzhon nu brtson 'grus (6475) active at chu mig (6429)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6475/",
-        "label": "zhu ston gzhon nu brtson 'grus (6475)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6429/",
-        "label": "chu mig (6429)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 531. was assigned the control of Chu mig ring mo by Lo ston (ID:6474)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     },
     {
       "id": 3033,
@@ -141,6 +84,35 @@
       "confidence": "Positive",
       "start": "after 1276 before 1277",
       "end": "after 1276 before 1277",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3200,
+      "label": "zhu ston gzhon nu brtson 'grus (6475) active at chu mig (6429)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6475/",
+        "label": "zhu ston gzhon nu brtson 'grus (6475)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6429/",
+        "label": "chu mig (6429)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 531. was assigned the control of Chu mig ring mo by Lo ston (ID:6474)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     },
     {
@@ -200,6 +172,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5391,
+      "label": "rnam snang rig pa'i grwa sa (7214) located within chu mig (6429)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7214/",
+        "label": "rnam snang rig pa'i grwa sa (7214)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6429/",
+        "label": "chu mig (6429)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "start_date_to": "1050-12-31",

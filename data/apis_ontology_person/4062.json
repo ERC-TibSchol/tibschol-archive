@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4062/",
   "relations": [
     {
+      "id": 300,
+      "label": "skyi ston shAkya 'bum (4062) lineage predecessor of rigs pa'i ral gri (4006)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4062/",
+        "label": "skyi ston shAkya 'bum (4062)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 414,
       "label": "skyi ston shAkya 'bum (4062) lineage predecessor of skyi ston 'jam dbyangs (4063)",
       "subj": {
@@ -34,35 +63,6 @@
       ]
     },
     {
-      "id": 300,
-      "label": "skyi ston shAkya 'bum (4062) lineage predecessor of rigs pa'i ral gri (4006)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4062/",
-        "label": "skyi ston shAkya 'bum (4062)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
-        "label": "rigs pa'i ral gri (4006)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 4974,
       "label": "skyi ston shAkya 'bum (4062) uncle (maternal/paternal) of skyi ston grags pa rgyal mtshan (4221)",
       "subj": {
@@ -89,6 +89,38 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 7826,
+      "label": "skyi ston shAkya 'bum (4062) lineage predecessor of skyi ston grags pa rgyal mtshan (4221)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4062/",
+        "label": "skyi ston shAkya 'bum (4062)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4221/",
+        "label": "skyi ston grags pa rgyal mtshan (4221)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex6604_2026-01-2622-06-17",
+      "support_notes": "Reading of the name unclear.",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        48,
+        13
+      ]
     },
     {
       "id": 6613,
@@ -121,6 +153,35 @@
         10,
         56
       ]
+    },
+    {
+      "id": 7827,
+      "label": "skyo ston smon lam tshul khrims (4052) lineage predecessor of skyi ston shAkya 'bum (4062)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4052/",
+        "label": "skyo ston smon lam tshul khrims (4052)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4062/",
+        "label": "skyi ston shAkya 'bum (4062)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex6604_2026-01-2622-06-17",
+      "support_notes": "Reading of name unclear.",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": null,

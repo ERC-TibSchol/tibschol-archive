@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5277/",
   "relations": [
     {
-      "id": 7153,
-      "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277) has as an instance chos mngon pa'i mdzod kyi 'grel pa mngon pa'i rgyan (8077)",
+      "id": 1039,
+      "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277) commentary on abhidharmako\u015bak\u0101rik\u0101 (3761)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5277/",
         "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277)",
@@ -11,8 +11,36 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8077/",
-        "label": "chos mngon pa'i mdzod kyi 'grel pa mngon pa'i rgyan (8077)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3761/",
+        "label": "abhidharmako\u015bak\u0101rik\u0101 (3761)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1646,
+      "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277) has as an instance chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan zhes bya ba'i smad cha (5276)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5277/",
+        "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5276/",
+        "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan zhes bya ba'i smad cha (5276)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -30,8 +58,8 @@
       "end": null
     },
     {
-      "id": 2187,
-      "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277) composed at cong to'i mkhar (5955)",
+      "id": 2186,
+      "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277) composed at sa skya dgon pa (5733)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5277/",
         "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277)",
@@ -39,8 +67,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5955/",
-        "label": "cong to'i mkhar (5955)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
+        "label": "sa skya dgon pa (5733)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -58,8 +86,8 @@
       "end": null
     },
     {
-      "id": 2186,
-      "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277) composed at sa skya dgon pa (5733)",
+      "id": 2187,
+      "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277) composed at cong to'i mkhar (5955)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5277/",
         "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277)",
@@ -67,8 +95,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
-        "label": "sa skya dgon pa (5733)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5955/",
+        "label": "cong to'i mkhar (5955)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -114,6 +142,34 @@
       "end": null
     },
     {
+      "id": 4627,
+      "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277) has as an instance chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (7003)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5277/",
+        "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7003/",
+        "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (7003)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4648,
       "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277) has as an instance chos mngon mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (7013)",
       "subj": {
@@ -137,34 +193,6 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 1646,
-      "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277) has as an instance chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan zhes bya ba'i smad cha (5276)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5277/",
-        "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5276/",
-        "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan zhes bya ba'i smad cha (5276)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -198,8 +226,8 @@
       "end": null
     },
     {
-      "id": 4627,
-      "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277) has as an instance chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (7003)",
+      "id": 7153,
+      "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277) has as an instance chos mngon pa'i mdzod kyi 'grel pa mngon pa'i rgyan (8077)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5277/",
         "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277)",
@@ -207,38 +235,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7003/",
-        "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (7003)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8077/",
+        "label": "chos mngon pa'i mdzod kyi 'grel pa mngon pa'i rgyan (8077)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 1039,
-      "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277) commentary on abhidharmako\u015bak\u0101rik\u0101 (3761)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5277/",
-        "label": "chos mngon pa'i mdzod kyi tshig le'ur byas pa'i 'grel pa mngon pa'i rgyan (5277)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3761/",
-        "label": "abhidharmako\u015bak\u0101rik\u0101 (3761)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,

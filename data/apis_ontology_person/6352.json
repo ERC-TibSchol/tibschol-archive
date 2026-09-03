@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6352/",
   "relations": [
     {
-      "id": 5667,
-      "label": "lha ston zhig po bsod nams rgyal mtshan (6352) author of theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4635)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6352/",
-        "label": "lha ston zhig po bsod nams rgyal mtshan (6352)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4635/",
-        "label": "theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4635)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "Author reported for instance (ID:6364) in [8H6M69W4], No. 15906: shAkya'i dge slong bsod nams rgyal mtshan.\r\n[JZP4CZRX] connects this work with Bla ma dam pa bSod nams rgyal mtshan (ID:3916) (1327-1344), [S635TW6P]:91 with lHa ston zhig po bSod nams rgyal mtshan (ID:6352), the 13th abbot of gSang phu gling sTod.",
-      "tei_refs": "ex22042024-10-1809-29-13",
-      "support_notes": "",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2960,
       "label": "lha ston zhig po bsod nams rgyal mtshan (6352) active at gsang phu gling stod (6172)",
       "subj": {
@@ -57,6 +29,34 @@
       "start": "after 1300",
       "end": "before 1400",
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5667,
+      "label": "lha ston zhig po bsod nams rgyal mtshan (6352) author of theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4635)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6352/",
+        "label": "lha ston zhig po bsod nams rgyal mtshan (6352)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4635/",
+        "label": "theg pa chen po'i mdo sde'i rgyan gyi dka' ba'i gnas bshad pa (4635)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:6364) in [8H6M69W4], No. 15906: shAkya'i dge slong bsod nams rgyal mtshan.\r\n[JZP4CZRX] connects this work with Bla ma dam pa bSod nams rgyal mtshan (ID:3916) (1327-1344), [S635TW6P]:91 with lHa ston zhig po bSod nams rgyal mtshan (ID:6352), the 13th abbot of gSang phu gling sTod.",
+      "tei_refs": "ex22042024-10-1809-29-13",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": "1400-12-31",

@@ -2,37 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3825/",
   "relations": [
     {
-      "id": 7615,
-      "label": "sne'u zur pa ye shes 'bar (3825) lineage predecessor of rgyang ro dar brtson (8396)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3825/",
-        "label": "sne'u zur pa ye shes 'bar (3825)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8396/",
-        "label": "rgyang ro dar brtson (8396)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex107012026-07-0809-22-25 (Stages of the path lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        12
-      ]
-    },
-    {
       "id": 3457,
       "label": "sne'u zur pa ye shes 'bar (3825) author of lam rim (6565)",
       "subj": {
@@ -59,6 +28,35 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 4269,
+      "label": "sne'u zur pa ye shes 'bar (3825) student of dgon pa ba dbang phyug rgyal mtshan (6689)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3825/",
+        "label": "sne'u zur pa ye shes 'bar (3825)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6689/",
+        "label": "dgon pa ba dbang phyug rgyal mtshan (6689)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[D6HTUYUR]: 281, based on [G36YV3ZE]: 311. sNe'u zur ba was the principle disciple of dGon pa ba.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 4432,
@@ -119,8 +117,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 4269,
-      "label": "sne'u zur pa ye shes 'bar (3825) student of dgon pa ba dbang phyug rgyal mtshan (6689)",
+      "id": 7615,
+      "label": "sne'u zur pa ye shes 'bar (3825) lineage predecessor of rgyang ro dar brtson (8396)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3825/",
         "label": "sne'u zur pa ye shes 'bar (3825)",
@@ -128,8 +126,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6689/",
-        "label": "dgon pa ba dbang phyug rgyal mtshan (6689)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8396/",
+        "label": "rgyang ro dar brtson (8396)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -139,13 +137,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[D6HTUYUR]: 281, based on [G36YV3ZE]: 311. sNe'u zur ba was the principle disciple of dGon pa ba.",
-      "tei_refs": "",
+      "zotero_refs": "",
+      "tei_refs": "ex107012026-07-0809-22-25 (Stages of the path lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        12
+      ]
     },
     {
       "id": 75,

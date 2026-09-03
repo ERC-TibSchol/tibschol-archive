@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4015/",
   "relations": [
     {
-      "id": 5407,
-      "label": "thar pa lo tsA ba nyi ma rgyal mtshan (4015) teaches ny\u0101yabindu (5589)",
+      "id": 735,
+      "label": "thar pa lo tsA ba nyi ma rgyal mtshan (4015) author of chos mngon pa kun las btus pa'i de kho na nyid 'byung ba (4758)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4015/",
         "label": "thar pa lo tsA ba nyi ma rgyal mtshan (4015)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5589/",
-        "label": "ny\u0101yabindu (5589)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4758/",
+        "label": "chos mngon pa kun las btus pa'i de kho na nyid 'byung ba (4758)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -22,10 +22,10 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[I58Z22ET]: 561 and n. 186, citing dPyal gyi gdung rabs gang+ga'i chu rgyun (rig pa'i gnas lnga la mkhas pa'i mkhan chen thar pa lo tsa ba'i drung du | mngon pa dang tshad ma rnam nges | rig thig la sogs pa la slob pa mthar phyin nas mkhas pa'i mdu sar gsungs so |). Maybe \"rig thig\" written for \"rigs thigs.\" Teaching to Sangs rgyas 'byung gnas (ID:7217).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Uncertain",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
       "start": null,
       "end": null
     },
@@ -58,8 +58,8 @@
       "end": null
     },
     {
-      "id": 735,
-      "label": "thar pa lo tsA ba nyi ma rgyal mtshan (4015) author of chos mngon pa kun las btus pa'i de kho na nyid 'byung ba (4758)",
+      "id": 5407,
+      "label": "thar pa lo tsA ba nyi ma rgyal mtshan (4015) teaches ny\u0101yabindu (5589)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4015/",
         "label": "thar pa lo tsA ba nyi ma rgyal mtshan (4015)",
@@ -67,8 +67,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4758/",
-        "label": "chos mngon pa kun las btus pa'i de kho na nyid 'byung ba (4758)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5589/",
+        "label": "ny\u0101yabindu (5589)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -78,41 +78,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 5411,
-      "label": "rong pa shes rab seng ge (7220) student of thar pa lo tsA ba nyi ma rgyal mtshan (4015)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7220/",
-        "label": "rong pa shes rab seng ge (7220)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4015/",
-        "label": "thar pa lo tsA ba nyi ma rgyal mtshan (4015)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[I58Z22ET]: 556-558.",
+      "zotero_refs": "[I58Z22ET]: 561 and n. 186, citing dPyal gyi gdung rabs gang+ga'i chu rgyun (rig pa'i gnas lnga la mkhas pa'i mkhan chen thar pa lo tsa ba'i drung du | mngon pa dang tshad ma rnam nges | rig thig la sogs pa la slob pa mthar phyin nas mkhas pa'i mdu sar gsungs so |). Maybe \"rig thig\" written for \"rigs thigs.\" Teaching to Sangs rgyas 'byung gnas (ID:7217).",
       "tei_refs": "",
       "support_notes": "",
-      "confidence": "Positive",
+      "confidence": "Uncertain",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 5403,
@@ -145,6 +116,35 @@
         17,
         9
       ]
+    },
+    {
+      "id": 5411,
+      "label": "rong pa shes rab seng ge (7220) student of thar pa lo tsA ba nyi ma rgyal mtshan (4015)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7220/",
+        "label": "rong pa shes rab seng ge (7220)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4015/",
+        "label": "thar pa lo tsA ba nyi ma rgyal mtshan (4015)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 556-558.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 5415,

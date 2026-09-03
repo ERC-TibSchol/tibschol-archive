@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5966/",
   "relations": [
     {
-      "id": 2462,
-      "label": "tshad ma rnam nges kyi dka' gnas rnam bshad (6121) has source tshad ma rnam par nges pa'i dka' ba'i gnas rnam par bshad pa (5966)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6121/",
-        "label": "tshad ma rnam nges kyi dka' gnas rnam bshad (6121)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5966/",
-        "label": "tshad ma rnam par nges pa'i dka' ba'i gnas rnam par bshad pa (5966)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 112, n. 3.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2246,
       "label": "tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445) has as an instance tshad ma rnam par nges pa'i dka' ba'i gnas rnam par bshad pa (5966)",
       "subj": {
@@ -79,6 +51,34 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[4TBERVZD]: 6-7. Colophon: shag kya'i dge slong 'dar rin chen 'bar gyis sbyin par bya ba'i chos so ||",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2462,
+      "label": "tshad ma rnam nges kyi dka' gnas rnam bshad (6121) has source tshad ma rnam par nges pa'i dka' ba'i gnas rnam par bshad pa (5966)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6121/",
+        "label": "tshad ma rnam nges kyi dka' gnas rnam bshad (6121)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5966/",
+        "label": "tshad ma rnam par nges pa'i dka' ba'i gnas rnam par bshad pa (5966)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 112, n. 3.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

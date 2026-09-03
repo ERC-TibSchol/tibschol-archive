@@ -58,35 +58,6 @@
       "end": null
     },
     {
-      "id": 3140,
-      "label": "dkon mchog seng ge (6447) active at skyegs gnas gsar (6438)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6447/",
-        "label": "dkon mchog seng ge (6447)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6438/",
-        "label": "skyegs gnas gsar (6438)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[4LDAV8UH]: 99, based on [Y2ZN5C6X]: 14b. Died at sKyegs gNas gsar.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3114,
       "label": "la stod pa dkon mchog mkhar (3819) active at skyegs gnas gsar (6438)",
       "subj": {
@@ -113,6 +84,35 @@
       "confidence": "Positive",
       "start": "",
       "end": "",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3140,
+      "label": "dkon mchog seng ge (6447) active at skyegs gnas gsar (6438)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6447/",
+        "label": "dkon mchog seng ge (6447)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6438/",
+        "label": "skyegs gnas gsar (6438)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 99, based on [Y2ZN5C6X]: 14b. Died at sKyegs gNas gsar.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     }
   ],

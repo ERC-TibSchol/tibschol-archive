@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4942/",
   "relations": [
     {
-      "id": 2285,
-      "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942) has as an instance tshad ma rnam par nges pa'i 'grel bshad chen po rgyan gyi me tog (5997)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4942/",
-        "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5997/",
-        "label": "tshad ma rnam par nges pa'i 'grel bshad chen po rgyan gyi me tog (5997)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 833,
       "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942) commentary on pram\u0101\u1e47avini\u015bcaya (3774)",
       "subj": {
@@ -58,6 +30,34 @@
       "end": null
     },
     {
+      "id": 1494,
+      "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942) has as an instance tshad ma rnam par nges pa'i Ti k+ka rgyan gyi me tog (4941)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4942/",
+        "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4941/",
+        "label": "tshad ma rnam par nges pa'i Ti k+ka rgyan gyi me tog (4941)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1569,
       "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942) has as an instance tshad ma rnam par nges pa'i rgyan gyi me tog (1) (5108)",
       "subj": {
@@ -69,6 +69,90 @@
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5108/",
         "label": "tshad ma rnam par nges pa'i rgyan gyi me tog (1) (5108)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2283,
+      "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942) has as an instance tshad ma rnam par nges pa'i rgyan gyi me tog (2) (5995)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4942/",
+        "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5995/",
+        "label": "tshad ma rnam par nges pa'i rgyan gyi me tog (2) (5995)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8H6M69W4], No. 16370: tshad ma rnam par nges pa'i rgyan gyi me tog ces bya ba bzhugs so, bcom ldan rig ral gyis mdzad.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2284,
+      "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942) has as an instance tshad ma rnam nges rgyan gyi me tog (5996)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4942/",
+        "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5996/",
+        "label": "tshad ma rnam nges rgyan gyi me tog (5996)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8H6M69W4]: No. 16396. Title: tshad ma rnam nges rgyan gyi me tog ces bya ba bzhugs. Author: shAkya'i dge slong mang du thos pa bcom ldan ral gris.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2285,
+      "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942) has as an instance tshad ma rnam par nges pa'i 'grel bshad chen po rgyan gyi me tog (5997)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4942/",
+        "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5997/",
+        "label": "tshad ma rnam par nges pa'i 'grel bshad chen po rgyan gyi me tog (5997)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -114,90 +198,6 @@
       "end": null
     },
     {
-      "id": 5723,
-      "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942) has as an instance tshad ma rnam par nges pa rgyan gyi me tog (3) (7357)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4942/",
-        "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7357/",
-        "label": "tshad ma rnam par nges pa rgyan gyi me tog (3) (7357)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[HMSTSJ7Q]: 468, No. 303 (zha lu dgon gyi dpe rnying dkar chag):  bka' gdams 1; tshad ma rnam par nges pa rgyan gyi me tog; bcom ldan ral gris.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 2284,
-      "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942) has as an instance tshad ma rnam nges rgyan gyi me tog (5996)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4942/",
-        "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5996/",
-        "label": "tshad ma rnam nges rgyan gyi me tog (5996)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[8H6M69W4]: No. 16396. Title: tshad ma rnam nges rgyan gyi me tog ces bya ba bzhugs. Author: shAkya'i dge slong mang du thos pa bcom ldan ral gris.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 1494,
-      "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942) has as an instance tshad ma rnam par nges pa'i Ti k+ka rgyan gyi me tog (4941)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4942/",
-        "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4941/",
-        "label": "tshad ma rnam par nges pa'i Ti k+ka rgyan gyi me tog (4941)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2467,
       "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942) has as an instance rnam par nges pa'i 'grel bshad rgyan gyi me tog (6124)",
       "subj": {
@@ -226,8 +226,8 @@
       "end": null
     },
     {
-      "id": 2283,
-      "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942) has as an instance tshad ma rnam par nges pa'i rgyan gyi me tog (2) (5995)",
+      "id": 5723,
+      "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942) has as an instance tshad ma rnam par nges pa rgyan gyi me tog (3) (7357)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4942/",
         "label": "tshad ma rnam par nges pa'i 'grel bshad rgyan gyi me tog (4942)",
@@ -235,8 +235,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5995/",
-        "label": "tshad ma rnam par nges pa'i rgyan gyi me tog (2) (5995)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7357/",
+        "label": "tshad ma rnam par nges pa rgyan gyi me tog (3) (7357)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -246,7 +246,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[8H6M69W4], No. 16370: tshad ma rnam par nges pa'i rgyan gyi me tog ces bya ba bzhugs so, bcom ldan rig ral gyis mdzad.",
+      "zotero_refs": "[HMSTSJ7Q]: 468, No. 303 (zha lu dgon gyi dpe rnying dkar chag):  bka' gdams 1; tshad ma rnam par nges pa rgyan gyi me tog; bcom ldan ral gris.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

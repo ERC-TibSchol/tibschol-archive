@@ -2,92 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7952/",
   "relations": [
     {
-      "id": 6950,
-      "label": "'phags pa blo gros rgyal mtshan (5838) active at byang ngos (7952)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
-        "label": "'phags pa blo gros rgyal mtshan (5838)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7952/",
-        "label": "byang ngos (7952)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 6948,
-      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) active at byang ngos (7952)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
-        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7952/",
-        "label": "byang ngos (7952)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": "1251-12-31",
-      "end_date_from": "1251-01-01",
-      "end_date_sort": "1251-07-02",
-      "start_date_to": "1246-12-31",
-      "start_date_from": "1246-01-01",
-      "start_date_sort": "1246-07-02",
-      "zotero_refs": "[Z5FZQCNC]: 28-29.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1246",
-      "end": "1251",
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 6946,
-      "label": "bla ma chos kyi rje dpal ldan sa skya pa\u1e47\u1e0dita chen po'i rnam par thar pa mdor bsdus pa (7956) composed at byang ngos (7952)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7956/",
-        "label": "bla ma chos kyi rje dpal ldan sa skya pa\u1e47\u1e0dita chen po'i rnam par thar pa mdor bsdus pa (7956)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7952/",
-        "label": "byang ngos (7952)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Z5FZQCNC]: 17.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 6938,
       "label": "chos rje pa'i rnam thar bsdus pa (7953) composed at byang ngos (7952)",
       "subj": {
@@ -114,35 +28,6 @@
       "confidence": "Positive",
       "start": "after 1251",
       "end": null
-    },
-    {
-      "id": 7600,
-      "label": "ti shri ras pa shes rab seng ge (8391) active at byang ngos (7952)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8391/",
-        "label": "ti shri ras pa shes rab seng ge (8391)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7952/",
-        "label": "byang ngos (7952)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "https://treasuryoflives.org/biographies/view/Tishri-Repa-Sherab-Sengge/7637",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     },
     {
       "id": 6943,
@@ -174,6 +59,121 @@
       "subject_of_teaching_vocab": [
         19
       ]
+    },
+    {
+      "id": 6946,
+      "label": "bla ma chos kyi rje dpal ldan sa skya pa\u1e47\u1e0dita chen po'i rnam par thar pa mdor bsdus pa (7956) composed at byang ngos (7952)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7956/",
+        "label": "bla ma chos kyi rje dpal ldan sa skya pa\u1e47\u1e0dita chen po'i rnam par thar pa mdor bsdus pa (7956)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7952/",
+        "label": "byang ngos (7952)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5FZQCNC]: 17.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6948,
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) active at byang ngos (7952)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7952/",
+        "label": "byang ngos (7952)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1251-12-31",
+      "end_date_from": "1251-01-01",
+      "end_date_sort": "1251-07-02",
+      "start_date_to": "1246-12-31",
+      "start_date_from": "1246-01-01",
+      "start_date_sort": "1246-07-02",
+      "zotero_refs": "[Z5FZQCNC]: 28-29.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1246",
+      "end": "1251",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6950,
+      "label": "'phags pa blo gros rgyal mtshan (5838) active at byang ngos (7952)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
+        "label": "'phags pa blo gros rgyal mtshan (5838)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7952/",
+        "label": "byang ngos (7952)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7600,
+      "label": "ti shri ras pa shes rab seng ge (8391) active at byang ngos (7952)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8391/",
+        "label": "ti shri ras pa shes rab seng ge (8391)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7952/",
+        "label": "byang ngos (7952)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "https://treasuryoflives.org/biographies/view/Tishri-Repa-Sherab-Sengge/7637",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "start_date_to": null,

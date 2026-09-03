@@ -2,11 +2,11 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4270/",
   "relations": [
     {
-      "id": 5848,
-      "label": "rmog cog pa rin chen brtson 'grus (7139) student of rgya grags bsod nams (4270)",
+      "id": 2728,
+      "label": "mtshur ston gzhon nu seng ge (4315) quotes without name rgya grags bsod nams (4270)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7139/",
-        "label": "rmog cog pa rin chen brtson 'grus (7139)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4315/",
+        "label": "mtshur ston gzhon nu seng ge (4315)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -22,14 +22,14 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 862 (de nas rgya grags bsod la sbyor drug rdo rje'i tshig rkang la sogs gdams pa mang po |).",
-      "tei_refs": "",
+      "zotero_refs": "",
+      "tei_refs": "xml:id=\"ex87032023-03-0313-55-44\"",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
-        58
+        9
       ]
     },
     {
@@ -95,11 +95,11 @@
       ]
     },
     {
-      "id": 2728,
-      "label": "mtshur ston gzhon nu seng ge (4315) quotes without name rgya grags bsod nams (4270)",
+      "id": 5848,
+      "label": "rmog cog pa rin chen brtson 'grus (7139) student of rgya grags bsod nams (4270)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4315/",
-        "label": "mtshur ston gzhon nu seng ge (4315)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7139/",
+        "label": "rmog cog pa rin chen brtson 'grus (7139)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -115,14 +115,14 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "xml:id=\"ex87032023-03-0313-55-44\"",
+      "zotero_refs": "[R894SIKE]: 862 (de nas rgya grags bsod la sbyor drug rdo rje'i tshig rkang la sogs gdams pa mang po |).",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
-        9
+        58
       ]
     }
   ],

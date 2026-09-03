@@ -30,11 +30,11 @@
       "end": null
     },
     {
-      "id": 3858,
-      "label": "chos grags dpal (6726) active at rong (6720)",
+      "id": 3848,
+      "label": "chos kyi byang chub (6719) active at rong (6720)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6726/",
-        "label": "chos grags dpal (6726)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6719/",
+        "label": "chos kyi byang chub (6719)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -50,7 +50,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[W4T5ZMUP]: 41. Born in Rong.",
+      "zotero_refs": "[W4T5ZMUP]: 40. Born in Rong.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -88,39 +88,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 7671,
-      "label": "'dre chen po (4375) located within rong (6720)",
+      "id": 3858,
+      "label": "chos grags dpal (6726) active at rong (6720)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4375/",
-        "label": "'dre chen po (4375)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6720/",
-        "label": "rong (6720)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 5450,
-      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) active at rong (6720)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
-        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6726/",
+        "label": "chos grags dpal (6726)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -136,7 +108,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 542, n. 55, based on [NA9AMDH6]: 455. Ordination by 'Dre (='Bre) chen po (ID:3807).",
+      "zotero_refs": "[W4T5ZMUP]: 41. Born in Rong.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -174,11 +146,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3848,
-      "label": "chos kyi byang chub (6719) active at rong (6720)",
+      "id": 5450,
+      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) active at rong (6720)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6719/",
-        "label": "chos kyi byang chub (6719)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -194,13 +166,41 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[W4T5ZMUP]: 40. Born in Rong.",
+      "zotero_refs": "[647FFPZR]: 542, n. 55, based on [NA9AMDH6]: 455. Ordination by 'Dre (='Bre) chen po (ID:3807).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7671,
+      "label": "'dre chen po (4375) located within rong (6720)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4375/",
+        "label": "'dre chen po (4375)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6720/",
+        "label": "rong (6720)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "start_date_to": null,

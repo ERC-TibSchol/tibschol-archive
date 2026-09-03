@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7028/",
   "relations": [
     {
-      "id": 4743,
-      "label": "Anonymous (11) (7028) quotes with name byang chub 'od (7029)",
+      "id": 928,
+      "label": "Anonymous (11) (7028) author of bden gnyis spyi bshad dang bden gnyis 'jog tshul (5119)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7028/",
         "label": "Anonymous (11) (7028)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7029/",
-        "label": "byang chub 'od (7029)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5119/",
+        "label": "bden gnyis spyi bshad dang bden gnyis 'jog tshul (5119)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,46 +22,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[64YBVNDG]: 625.",
+      "zotero_refs": "[64YBVNDG]: 626. The anonymous author could be sGam po pa (ID:4189).",
       "tei_refs": "",
-      "support_notes": "In work (ID:5119).",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        13
-      ]
-    },
-    {
-      "id": 4753,
-      "label": "Anonymous (11) (7028) quotes with name rnal 'byor pa byang chub rin chen (6952)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7028/",
-        "label": "Anonymous (11) (7028)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6952/",
-        "label": "rnal 'byor pa byang chub rin chen (6952)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[64YBVNDG]: 639.",
-      "tei_refs": "ex64022024-11-01-09-27",
-      "support_notes": "In work (ID:5119).",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        13
-      ]
+      "end": null
     },
     {
       "id": 4739,
@@ -95,8 +61,8 @@
       ]
     },
     {
-      "id": 928,
-      "label": "Anonymous (11) (7028) author of bden gnyis spyi bshad dang bden gnyis 'jog tshul (5119)",
+      "id": 4742,
+      "label": "Anonymous (11) (7028) quotes with name nag tsho tshul khrims rgyal ba (6340)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7028/",
         "label": "Anonymous (11) (7028)",
@@ -104,10 +70,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5119/",
-        "label": "bden gnyis spyi bshad dang bden gnyis 'jog tshul (5119)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
+        "label": "nag tsho tshul khrims rgyal ba (6340)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -115,16 +81,19 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[64YBVNDG]: 626. The anonymous author could be sGam po pa (ID:4189).",
+      "zotero_refs": "[64YBVNDG]: 625.",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "In work (ID:5119).",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
-      "id": 4745,
-      "label": "Anonymous (11) (7028) student of lcags ri ba (4319)",
+      "id": 4743,
+      "label": "Anonymous (11) (7028) quotes with name byang chub 'od (7029)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7028/",
         "label": "Anonymous (11) (7028)",
@@ -132,8 +101,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4319/",
-        "label": "lcags ri ba (4319)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7029/",
+        "label": "byang chub 'od (7029)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -143,13 +112,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[64YBVNDG]: 625. Work (ID:5119) cites and praises lCags ri ba several times.",
+      "zotero_refs": "[64YBVNDG]: 625.",
       "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Uncertain",
+      "support_notes": "In work (ID:5119).",
+      "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 4744,
@@ -183,8 +154,8 @@
       ]
     },
     {
-      "id": 4742,
-      "label": "Anonymous (11) (7028) quotes with name nag tsho tshul khrims rgyal ba (6340)",
+      "id": 4745,
+      "label": "Anonymous (11) (7028) student of lcags ri ba (4319)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7028/",
         "label": "Anonymous (11) (7028)",
@@ -192,8 +163,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
-        "label": "nag tsho tshul khrims rgyal ba (6340)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4319/",
+        "label": "lcags ri ba (4319)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -203,8 +174,37 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[64YBVNDG]: 625.",
+      "zotero_refs": "[64YBVNDG]: 625. Work (ID:5119) cites and praises lCags ri ba several times.",
       "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4753,
+      "label": "Anonymous (11) (7028) quotes with name rnal 'byor pa byang chub rin chen (6952)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7028/",
+        "label": "Anonymous (11) (7028)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6952/",
+        "label": "rnal 'byor pa byang chub rin chen (6952)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[64YBVNDG]: 639.",
+      "tei_refs": "ex64022024-11-01-09-27",
       "support_notes": "In work (ID:5119).",
       "confidence": "Positive",
       "start": null,

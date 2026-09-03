@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5491/",
   "relations": [
     {
-      "id": 1744,
-      "label": "dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5491) has as an instance dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5490)",
+      "id": 1177,
+      "label": "dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5491) commentary on abhidharmasamuccaya (3755)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5491/",
         "label": "dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5491)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5490/",
-        "label": "dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5490)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3755/",
+        "label": "abhidharmasamuccaya (3755)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1177,
-      "label": "dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5491) commentary on abhidharmasamuccaya (3755)",
+      "id": 1744,
+      "label": "dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5491) has as an instance dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5490)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5491/",
         "label": "dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5491)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3755/",
-        "label": "abhidharmasamuccaya (3755)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5490/",
+        "label": "dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5490)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

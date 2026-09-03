@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7084/",
   "relations": [
     {
+      "id": 4865,
+      "label": "smon lam dpal ba (7084) active at 'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7084/",
+        "label": "smon lam dpal ba (7084)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7063/",
+        "label": "'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BKUHJCNA]: 739 (ri bo dga' ldan du mtshan nyid kyi bshad nyan mdzad).",
+      "tei_refs": "",
+      "support_notes": "Eighth dGa' ldan khri pa (1480-1490).",
+      "confidence": "Positive",
+      "start": "before 1480",
+      "end": "before 1480",
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 5427,
       "label": "smon lam dpal ba (7084) active at gsang phu ne'u thog (4332)",
       "subj": {
@@ -57,35 +86,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 4865,
-      "label": "smon lam dpal ba (7084) active at 'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7084/",
-        "label": "smon lam dpal ba (7084)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7063/",
-        "label": "'brog ri bo che dga' ldan rnam par rgyal ba'i gling (7063)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[BKUHJCNA]: 739 (ri bo dga' ldan du mtshan nyid kyi bshad nyan mdzad).",
-      "tei_refs": "",
-      "support_notes": "Eighth dGa' ldan khri pa (1480-1490).",
-      "confidence": "Positive",
-      "start": "before 1480",
-      "end": "before 1480",
-      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1491-12-31",

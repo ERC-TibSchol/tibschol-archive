@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4874/",
   "relations": [
     {
-      "id": 1896,
-      "label": "chos nyid kyi khrid (2) (4874) has source chos nyid kyi khrid (1) (5851)",
+      "id": 1895,
+      "label": "chos nyid kyi khrid (2) (4874) written at snar thang (4411)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4874/",
         "label": "chos nyid kyi khrid (2) (4874)",
@@ -11,10 +11,10 @@
         "content_type_name": "instance"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5851/",
-        "label": "chos nyid kyi khrid (1) (5851)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1895,
-      "label": "chos nyid kyi khrid (2) (4874) written at snar thang (4411)",
+      "id": 1896,
+      "label": "chos nyid kyi khrid (2) (4874) has source chos nyid kyi khrid (1) (5851)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4874/",
         "label": "chos nyid kyi khrid (2) (4874)",
@@ -39,10 +39,10 @@
         "content_type_name": "instance"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
-        "label": "snar thang (4411)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5851/",
+        "label": "chos nyid kyi khrid (1) (5851)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

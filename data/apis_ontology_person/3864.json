@@ -623,6 +623,37 @@
       ]
     },
     {
+      "id": 7828,
+      "label": "rma bya byang chub brtson 'grus (3842) quotes without name 'jad pa byang chub skyabs (3864)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3842/",
+        "label": "rma bya byang chub brtson 'grus (3842)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3864/",
+        "label": "'jad pa byang chub skyabs (3864)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex013112026-09-0203-49-18",
+      "support_notes": "Tentative identification of \"Byang\" as 'Jad pa Byang chub skyabs.",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
       "id": 465,
       "label": "gnyags seng ge grags (4244) lineage predecessor of 'jad pa byang chub skyabs (3864)",
       "subj": {
@@ -706,43 +737,13 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[MGPRHX73]: 52, 66. 53 references in (ID: 5507).\r\n[MGPRHX73]: 57, 66. 49 references in (ID: 4750).",
-      "tei_refs": "exX0022024-11-01-13-59\r\nexX0022026-05-2103-23-12",
+      "tei_refs": "exX0022024-11-01-13-59\r\nexX0022026-05-2103-23-12\r\nex040012026-09-0201-31-24\r\nex04012026-09-0202-01-11",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
-      "id": 5710,
-      "label": "mtshur ston gzhon nu seng ge (4315) quotes without name 'jad pa byang chub skyabs (3864)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4315/",
-        "label": "mtshur ston gzhon nu seng ge (4315)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3864/",
-        "label": "'jad pa byang chub skyabs (3864)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex87032023-08-0414-24-382",
-      "support_notes": "The annotation identifies the proponent as \"byang.\"",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
+        17,
         9
       ]
     },
@@ -768,9 +769,9 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex081012026-08-2004-35-08 (skyabs)\r\nex081012026-08-2004-35-13 (skyabs)\r\nex081012026-08-2004-35-11 (skyabs)\r\nex081012026-08-2004-35-12 (skyabs)",
       "support_notes": "",
-      "confidence": "Positive",
+      "confidence": "Uncertain",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
@@ -797,12 +798,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "xml:id=\"ex87032023-08-0414-24-38\"",
+      "tei_refs": "ex87032023-08-0414-24-382 (byang)",
       "support_notes": "See [MGPRHX73]: 54, n. 15.",
       "confidence": "Uncertain",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 3736,
@@ -857,9 +860,9 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex042012026-09-0204-02-33 ('jad)",
       "support_notes": "",
-      "confidence": "Positive",
+      "confidence": "Uncertain",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []

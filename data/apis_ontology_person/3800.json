@@ -326,68 +326,8 @@
       ]
     },
     {
-      "id": 6595,
-      "label": "ratnavajra (7726) lineage predecessor of sajjana (3800)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7726/",
-        "label": "ratnavajra (7726)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3800/",
-        "label": "sajjana (3800)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex2702_2024-09-1114-42-583  (Ratnagotravibh\u0101ga lineage)\r\nex113022026-01-2622-34-04 (Ratnagotravibh\u0101ga lineage)\r\nex115012026-03-0918-49-19 (Mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        10,
-        56
-      ]
-    },
-    {
-      "id": 5816,
-      "label": "gzu dga' ba'i rdo rje (4143) other relation to sajjana (3800)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4143/",
-        "label": "gzu dga' ba'i rdo rje (4143)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3800/",
-        "label": "sajjana (3800)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FUFWUVQQ]: 304 mentions that bTsan kha bo che received the Five treatises of Maitreya from Sajjana (ID:3800) with gZu dGa' ba'i rdo rje acting as the translator.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 5585,
-      "label": "rngog blo ldan shes rab (3786) other relation to sajjana (3800)",
+      "id": 45,
+      "label": "rngog blo ldan shes rab (3786) student of sajjana (3800)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
         "label": "rngog blo ldan shes rab (3786)",
@@ -401,17 +341,20 @@
         "content_type_name": "person"
       },
       "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
+      "end_date_from": "1076-01-01",
+      "end_date_sort": "1076-01-01",
       "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Q47PVAE6]: 40. Translated the Mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (ID:3746), together with Parahitabhadra (ID:3798).",
+      "start_date_from": "1076-01-01",
+      "start_date_sort": "1076-01-01",
+      "zotero_refs": "[5NY3E6YU]: 67 (paN+Di ta san dza na dang | 'bum phrag gsum pa dang | pa ra he ta dang | ma hA dznya na dang | su ma ti kIrti dang | skal ldan rgyal po la sogs pa mkhas shing grub pa brnyes pa du ma bsten te).\r\n[R894SIKE]: 422 (lo tsA ba chen po blo ldan shes rab dang btsan kha bo che gnyis gsan sa'i bla ma sadzdza nar gcig kyang | gzhung gi bshad pa'i tshul ni mi 'dra bar snang ste |)\r\n[BAQ9MH4T]: 194, n. 19.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null
+      "start": "after 1076",
+      "end": "after 1076",
+      "subject_of_teaching_vocab": [
+        56
+      ]
     },
     {
       "id": 338,
@@ -445,6 +388,62 @@
       ]
     },
     {
+      "id": 5585,
+      "label": "rngog blo ldan shes rab (3786) other relation to sajjana (3800)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3800/",
+        "label": "sajjana (3800)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q47PVAE6]: 40. Translated the Mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (ID:3746), together with Parahitabhadra (ID:3798).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5816,
+      "label": "gzu dga' ba'i rdo rje (4143) other relation to sajjana (3800)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4143/",
+        "label": "gzu dga' ba'i rdo rje (4143)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3800/",
+        "label": "sajjana (3800)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FUFWUVQQ]: 304 mentions that bTsan kha bo che received the Five treatises of Maitreya from Sajjana (ID:3800) with gZu dGa' ba'i rdo rje acting as the translator.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5819,
       "label": "rgyud bla ma'i rnam bshad (6587) records the teaching of sajjana (3800)",
       "subj": {
@@ -473,11 +472,11 @@
       "end": null
     },
     {
-      "id": 45,
-      "label": "rngog blo ldan shes rab (3786) student of sajjana (3800)",
+      "id": 6595,
+      "label": "ratnavajra (7726) lineage predecessor of sajjana (3800)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7726/",
+        "label": "ratnavajra (7726)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -488,18 +487,19 @@
         "content_type_name": "person"
       },
       "end_date_to": null,
-      "end_date_from": "1076-01-01",
-      "end_date_sort": "1076-01-01",
+      "end_date_from": null,
+      "end_date_sort": null,
       "start_date_to": null,
-      "start_date_from": "1076-01-01",
-      "start_date_sort": "1076-01-01",
-      "zotero_refs": "[5NY3E6YU]: 67 (paN+Di ta san dza na dang | 'bum phrag gsum pa dang | pa ra he ta dang | ma hA dznya na dang | su ma ti kIrti dang | skal ldan rgyal po la sogs pa mkhas shing grub pa brnyes pa du ma bsten te).\r\n[R894SIKE]: 422 (lo tsA ba chen po blo ldan shes rab dang btsan kha bo che gnyis gsan sa'i bla ma sadzdza nar gcig kyang | gzhung gi bshad pa'i tshul ni mi 'dra bar snang ste |)\r\n[BAQ9MH4T]: 194, n. 19.",
-      "tei_refs": "",
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex2702_2024-09-1114-42-583  (Ratnagotravibh\u0101ga lineage)\r\nex113022026-01-2622-34-04 (Ratnagotravibh\u0101ga lineage)\r\nex115012026-03-0918-49-19 (Mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra lineage)",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "after 1076",
-      "end": "after 1076",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": [
+        10,
         56
       ]
     }

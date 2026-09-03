@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3803/",
   "relations": [
     {
-      "id": 4087,
-      "label": "rngog blo ldan shes rab (3786) other relation to pan+Di ta dpal go mi 'chi med (3803)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3803/",
-        "label": "pan+Di ta dpal go mi 'chi med (3803)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "They jointly revised the translation of the Abhisamay\u0101la\u1e43k\u0101ra\u00ad\u00adv\u1e5btti (ID:3711).",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 48,
       "label": "rngog blo ldan shes rab (3786) student of pan+Di ta dpal go mi 'chi med (3803)",
       "subj": {
@@ -57,6 +29,34 @@
       "start": "after 1076",
       "end": "after 1076",
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4087,
+      "label": "rngog blo ldan shes rab (3786) other relation to pan+Di ta dpal go mi 'chi med (3803)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3803/",
+        "label": "pan+Di ta dpal go mi 'chi med (3803)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "They jointly revised the translation of the Abhisamay\u0101la\u1e43k\u0101ra\u00ad\u00adv\u1e5btti (ID:3711).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": "1150-12-31",

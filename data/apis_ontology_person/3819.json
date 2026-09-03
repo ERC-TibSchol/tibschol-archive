@@ -292,63 +292,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3323,
-      "label": "'bre shes rab 'bar (3807) ordinator of la stod pa dkon mchog mkhar (3819)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
-        "label": "'bre shes rab 'bar (3807)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3819/",
-        "label": "la stod pa dkon mchog mkhar (3819)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 544-545. The ordination took place at Bye mda' (ID:4347).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 3132,
-      "label": "dbang phyug rin chen (3) (6440) student of la stod pa dkon mchog mkhar (3819)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6440/",
-        "label": "dbang phyug rin chen (3) (6440)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3819/",
-        "label": "la stod pa dkon mchog mkhar (3819)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[4LDAV8UH]: 99. Meeting when dBang phyug rin chen was 14 years old.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2951,
       "label": "nyi phug pa chos kyi grags pa (6347) other relation to la stod pa dkon mchog mkhar (3819)",
       "subj": {
@@ -377,11 +320,11 @@
       "end": null
     },
     {
-      "id": 3139,
-      "label": "dkon mchog seng ge (6447) student of la stod pa dkon mchog mkhar (3819)",
+      "id": 3119,
+      "label": "nyi phug pa chos kyi grags pa (6347) student of la stod pa dkon mchog mkhar (3819)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6447/",
-        "label": "dkon mchog seng ge (6447)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6347/",
+        "label": "nyi phug pa chos kyi grags pa (6347)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -397,7 +340,36 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[4LDAV8UH]: 99, based on [Y2ZN5C6X]: 14. (\"He obtained all the teachings on Sde snod from both 'Bre chen and his elder brother, and mastered them.\")",
+      "zotero_refs": "[4LDAV8UH]: 97.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3132,
+      "label": "dbang phyug rin chen (3) (6440) student of la stod pa dkon mchog mkhar (3819)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6440/",
+        "label": "dbang phyug rin chen (3) (6440)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3819/",
+        "label": "la stod pa dkon mchog mkhar (3819)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 99. Meeting when dBang phyug rin chen was 14 years old.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -434,6 +406,35 @@
       "end": null
     },
     {
+      "id": 3139,
+      "label": "dkon mchog seng ge (6447) student of la stod pa dkon mchog mkhar (3819)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6447/",
+        "label": "dkon mchog seng ge (6447)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3819/",
+        "label": "la stod pa dkon mchog mkhar (3819)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 99, based on [Y2ZN5C6X]: 14. (\"He obtained all the teachings on Sde snod from both 'Bre chen and his elder brother, and mastered them.\")",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3271,
       "label": "phag mo gru pa rdo rje rgyal po (3856) student of la stod pa dkon mchog mkhar (3819)",
       "subj": {
@@ -463,11 +464,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3119,
-      "label": "nyi phug pa chos kyi grags pa (6347) student of la stod pa dkon mchog mkhar (3819)",
+      "id": 3323,
+      "label": "'bre shes rab 'bar (3807) ordinator of la stod pa dkon mchog mkhar (3819)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6347/",
-        "label": "nyi phug pa chos kyi grags pa (6347)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -483,13 +484,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[4LDAV8UH]: 97.",
+      "zotero_refs": "[647FFPZR]: 544-545. The ordination took place at Bye mda' (ID:4347).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     }
   ],
   "end_date_to": "1171-12-31",

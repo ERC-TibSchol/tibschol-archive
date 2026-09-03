@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6824/",
   "relations": [
     {
-      "id": 4192,
-      "label": "ldong ston shes rab dpal (6824) author of tshad ma rigs pa'i snang ba (6826)",
+      "id": 4189,
+      "label": "ldong ston shes rab dpal (6824) student of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6824/",
         "label": "ldong ston shes rab dpal (6824)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6826/",
-        "label": "tshad ma rigs pa'i snang ba (6826)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,12 +22,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[MKQ6FJV7]: 54.",
+      "zotero_refs": "[MKQ6FJV7]: 51.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 4190,
@@ -61,8 +62,8 @@
       ]
     },
     {
-      "id": 4189,
-      "label": "ldong ston shes rab dpal (6824) student of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+      "id": 4192,
+      "label": "ldong ston shes rab dpal (6824) author of tshad ma rigs pa'i snang ba (6826)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6824/",
         "label": "ldong ston shes rab dpal (6824)",
@@ -70,10 +71,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
-        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6826/",
+        "label": "tshad ma rigs pa'i snang ba (6826)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -81,13 +82,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[MKQ6FJV7]: 51.",
+      "zotero_refs": "[MKQ6FJV7]: 54.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 5907,

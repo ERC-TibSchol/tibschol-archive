@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4000/",
   "relations": [
     {
-      "id": 4402,
-      "label": "'bri gung skyob pa 'jig rten gsum mgon (4000) other relation to rnal 'byor byang chub seng ge (6929)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4000/",
-        "label": "'bri gung skyob pa 'jig rten gsum mgon (4000)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6929/",
-        "label": "rnal 'byor byang chub seng ge (6929)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 673 (gro sa'i rnal 'byor byang seng gis | khos bla ma'i gdan sa bshig zer ba'i skur pa yang btab |). rNal 'byor byang chub seng ge criticized 'Jig rten gsum mgon for moving the books of Phag mo gru pa rDo rje rgyal po's to his own monastery of sGam po.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 3992,
       "label": "'bri gung skyob pa 'jig rten gsum mgon (4000) active at gsang phu ne'u thog (4332)",
       "subj": {
@@ -57,6 +29,34 @@
       "start": "after 1163",
       "end": "before 1217",
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4402,
+      "label": "'bri gung skyob pa 'jig rten gsum mgon (4000) other relation to rnal 'byor byang chub seng ge (6929)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4000/",
+        "label": "'bri gung skyob pa 'jig rten gsum mgon (4000)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6929/",
+        "label": "rnal 'byor byang chub seng ge (6929)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 673 (gro sa'i rnal 'byor byang seng gis | khos bla ma'i gdan sa bshig zer ba'i skur pa yang btab |). rNal 'byor byang chub seng ge criticized 'Jig rten gsum mgon for moving the books of Phag mo gru pa rDo rje rgyal po's to his own monastery of sGam po.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 3993,

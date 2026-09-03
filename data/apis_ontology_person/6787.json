@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6787/",
   "relations": [
     {
-      "id": 5524,
-      "label": "'a zha blo gros rgyal mtshan (6787) active at g.yas ru dben sa kha (7265)",
+      "id": 4332,
+      "label": "'a zha blo gros rgyal mtshan (6787) author of tshad ma'i syning po de kho na nyid kun las btus pa rig pa'i gter mdzod (6908)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6787/",
         "label": "'a zha blo gros rgyal mtshan (6787)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7265/",
-        "label": "g.yas ru dben sa kha (7265)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6908/",
+        "label": "tshad ma'i syning po de kho na nyid kun las btus pa rig pa'i gter mdzod (6908)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -24,11 +24,10 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "Eighth abbot of the monastery.",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 4333,
@@ -60,8 +59,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 4332,
-      "label": "'a zha blo gros rgyal mtshan (6787) author of tshad ma'i syning po de kho na nyid kun las btus pa rig pa'i gter mdzod (6908)",
+      "id": 5524,
+      "label": "'a zha blo gros rgyal mtshan (6787) active at g.yas ru dben sa kha (7265)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6787/",
         "label": "'a zha blo gros rgyal mtshan (6787)",
@@ -69,10 +68,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6908/",
-        "label": "tshad ma'i syning po de kho na nyid kun las btus pa rig pa'i gter mdzod (6908)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7265/",
+        "label": "g.yas ru dben sa kha (7265)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -82,10 +81,11 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "Eighth abbot of the monastery.",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1263-12-31",

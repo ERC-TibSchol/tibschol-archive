@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6360/",
   "relations": [
     {
-      "id": 3925,
-      "label": "sangs rgyal 'od chen pa (6360) other relation to red mda' ba gzhon nu blo gros (6756)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6360/",
-        "label": "sangs rgyal 'od chen pa (6360)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
-        "label": "red mda' ba gzhon nu blo gros (6756)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CCSBSVCA]: 688, n. 7. Red mda' ba met 'Od chen pa during the time of bSod nams 'phel (ID:6299)'s tenure at gSang phu gling smad (ID:6158).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2968,
       "label": "sangs rgyal 'od chen pa (6360) active at gsang phu gling stod (6172)",
       "subj": {
@@ -57,6 +29,34 @@
       "start": "after 1295",
       "end": "before 1475",
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3925,
+      "label": "sangs rgyal 'od chen pa (6360) other relation to red mda' ba gzhon nu blo gros (6756)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6360/",
+        "label": "sangs rgyal 'od chen pa (6360)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
+        "label": "red mda' ba gzhon nu blo gros (6756)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 688, n. 7. Red mda' ba met 'Od chen pa during the time of bSod nams 'phel (ID:6299)'s tenure at gSang phu gling smad (ID:6158).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": "1475-12-31",

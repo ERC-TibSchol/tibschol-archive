@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4833/",
   "relations": [
     {
-      "id": 1449,
-      "label": "chos bshad nyan la 'jug pa snang byed 'od zer rab tu rgyas pa (4833) has as an instance chos bshad nyan la 'jug pa snang byed 'od zer rab tu rgyas pa (4832)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4833/",
-        "label": "chos bshad nyan la 'jug pa snang byed 'od zer rab tu rgyas pa (4833)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4832/",
-        "label": "chos bshad nyan la 'jug pa snang byed 'od zer rab tu rgyas pa (4832)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 780,
       "label": "chos bshad nyan la 'jug pa snang byed 'od zer rab tu rgyas pa (4833) commentary on prasannapad\u0101 (3724)",
       "subj": {
@@ -54,6 +26,34 @@
       "tei_refs": "",
       "support_notes": "In spite of the title \"dbu ma tshig gsal spyi don\" on the cover page, is not a commentary or introduction to the Prasannapad\u0101 (ID:3724).",
       "confidence": "Negative",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1449,
+      "label": "chos bshad nyan la 'jug pa snang byed 'od zer rab tu rgyas pa (4833) has as an instance chos bshad nyan la 'jug pa snang byed 'od zer rab tu rgyas pa (4832)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4833/",
+        "label": "chos bshad nyan la 'jug pa snang byed 'od zer rab tu rgyas pa (4833)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4832/",
+        "label": "chos bshad nyan la 'jug pa snang byed 'od zer rab tu rgyas pa (4832)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
       "start": null,
       "end": null
     },

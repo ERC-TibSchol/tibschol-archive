@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4445/",
   "relations": [
     {
+      "id": 538,
+      "label": "tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445) commentary on pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4445/",
+        "label": "tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex1132023-07-2114-50-15",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1269,
       "label": "tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445) has as an instance dka' gnas rnam par bshad pa (4444)",
       "subj": {
@@ -30,8 +58,8 @@
       "end": null
     },
     {
-      "id": 2459,
-      "label": "tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445) has as an instance tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (6120)",
+      "id": 2246,
+      "label": "tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445) has as an instance tshad ma rnam par nges pa'i dka' ba'i gnas rnam par bshad pa (5966)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4445/",
         "label": "tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445)",
@@ -39,8 +67,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6120/",
-        "label": "tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (6120)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5966/",
+        "label": "tshad ma rnam par nges pa'i dka' ba'i gnas rnam par bshad pa (5966)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -58,8 +86,8 @@
       "end": null
     },
     {
-      "id": 2246,
-      "label": "tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445) has as an instance tshad ma rnam par nges pa'i dka' ba'i gnas rnam par bshad pa (5966)",
+      "id": 2459,
+      "label": "tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445) has as an instance tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (6120)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4445/",
         "label": "tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445)",
@@ -67,8 +95,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5966/",
-        "label": "tshad ma rnam par nges pa'i dka' ba'i gnas rnam par bshad pa (5966)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6120/",
+        "label": "tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (6120)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -114,34 +142,6 @@
       "end": null
     },
     {
-      "id": 538,
-      "label": "tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445) commentary on pram\u0101\u1e47avini\u015bcaya (3774)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4445/",
-        "label": "tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex1132023-07-2114-50-15",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 537,
       "label": "rngog blo ldan shes rab (3786) author of tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445)",
       "subj": {
@@ -170,13 +170,13 @@
       "end": null
     },
     {
-      "id": 7654,
-      "label": "tshad ma shes rab sgron ma (5292) contains citations of tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445)",
+      "id": 3987,
+      "label": "gser mdog paN chen shAkya mchog ldan (6276) teaches tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5292/",
-        "label": "tshad ma shes rab sgron ma (5292)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6276/",
+        "label": "gser mdog paN chen shAkya mchog ldan (6276)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4445/",
@@ -190,8 +190,8 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex087032026-06-1604-02-51\r\nex087032026-06-1709-10-06",
+      "zotero_refs": "[W42HFLNR]: 81. Teaches it together with the Tshad ma rigs gter (ID:5564).",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -226,13 +226,13 @@
       "end": null
     },
     {
-      "id": 3987,
-      "label": "gser mdog paN chen shAkya mchog ldan (6276) teaches tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445)",
+      "id": 7654,
+      "label": "tshad ma shes rab sgron ma (5292) contains citations of tshad ma rnam par nges pa'i dka' gnas rnam par bshad pa (4445)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6276/",
-        "label": "gser mdog paN chen shAkya mchog ldan (6276)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5292/",
+        "label": "tshad ma shes rab sgron ma (5292)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4445/",
@@ -246,8 +246,8 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[W42HFLNR]: 81. Teaches it together with the Tshad ma rigs gter (ID:5564).",
-      "tei_refs": "",
+      "zotero_refs": "",
+      "tei_refs": "ex087032026-06-1604-02-51\r\nex087032026-06-1709-10-06",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

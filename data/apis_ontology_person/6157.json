@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6157/",
   "relations": [
     {
-      "id": 5761,
-      "label": "tshul khrims snying po (6157) student of sgam po pa bsod nams rin chen (4189)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6157/",
-        "label": "tshul khrims snying po (6157)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4189/",
-        "label": "sgam po pa bsod nams rin chen (4189)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 552-553.\r\n[M4S8FBFG]: 90. Tshul khrims snying po was the nephew and successor of sGam po pa.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 2524,
       "label": "tshul khrims snying po (6157) active at gsang phu ne'u thog (4332)",
       "subj": {
@@ -57,6 +28,35 @@
       "confidence": "Positive",
       "start": "after 1153",
       "end": "after 1153 before 1169",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5761,
+      "label": "tshul khrims snying po (6157) student of sgam po pa bsod nams rin chen (4189)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6157/",
+        "label": "tshul khrims snying po (6157)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4189/",
+        "label": "sgam po pa bsod nams rin chen (4189)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 552-553.\r\n[M4S8FBFG]: 90. Tshul khrims snying po was the nephew and successor of sGam po pa.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     },
     {
@@ -89,11 +89,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5762,
-      "label": "sgam po pa bsod nams rin chen (4189) uncle (maternal/paternal) of tshul khrims snying po (6157)",
+      "id": 3017,
+      "label": "gtsang nag pa brtson 'grus seng ge (3839) other relation to tshul khrims snying po (6157)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4189/",
-        "label": "sgam po pa bsod nams rin chen (4189)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -109,7 +109,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[M4S8FBFG]: 90. Tshul khrims snying po was the nephew and successor of sGam po pa.",
+      "zotero_refs": "[7JUD7TIJ]: 470, n. 3. gTsang nag pa wrote an eulogy to sGom tshul (ID:6157), work (ID:7345).\r\n[R894SIKE]: 553-554.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -146,34 +146,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3017,
-      "label": "gtsang nag pa brtson 'grus seng ge (3839) other relation to tshul khrims snying po (6157)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
-        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6157/",
-        "label": "tshul khrims snying po (6157)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[7JUD7TIJ]: 470, n. 3. gTsang nag pa wrote an eulogy to sGom tshul (ID:6157), work (ID:7345).\r\n[R894SIKE]: 553-554.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 5760,
       "label": "zhang g.yu brag brtson 'grus grags pa (6409) student of tshul khrims snying po (6157)",
       "subj": {
@@ -201,6 +173,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5762,
+      "label": "sgam po pa bsod nams rin chen (4189) uncle (maternal/paternal) of tshul khrims snying po (6157)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4189/",
+        "label": "sgam po pa bsod nams rin chen (4189)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6157/",
+        "label": "tshul khrims snying po (6157)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[M4S8FBFG]: 90. Tshul khrims snying po was the nephew and successor of sGam po pa.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": "1169-12-31",

@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4230/",
   "relations": [
     {
-      "id": 440,
-      "label": "cog gru rgyal ba'i ye shes (4230) lineage predecessor of se btsun dbang phyug gzhon nu (4232)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4230/",
-        "label": "cog gru rgyal ba'i ye shes (4230)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4232/",
-        "label": "se btsun dbang phyug gzhon nu (4232)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 436,
       "label": "cog gru rgyal ba'i ye shes (4230) lineage predecessor of cog gru mchog gi ye shes (4231)",
       "subj": {
@@ -60,6 +31,35 @@
       "subject_of_teaching_vocab": [
         17
       ]
+    },
+    {
+      "id": 440,
+      "label": "cog gru rgyal ba'i ye shes (4230) lineage predecessor of se btsun dbang phyug gzhon nu (4232)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4230/",
+        "label": "cog gru rgyal ba'i ye shes (4230)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4232/",
+        "label": "se btsun dbang phyug gzhon nu (4232)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 433,

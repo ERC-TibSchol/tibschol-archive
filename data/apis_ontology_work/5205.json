@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5205/",
   "relations": [
     {
-      "id": 1614,
-      "label": "sher snying gi 'grel pa (5205) has as an instance sher snying gi 'grel pa (5204)",
+      "id": 989,
+      "label": "sher snying gi 'grel pa (5205) commentary on praj\u00f1\u0101p\u0101ramit\u0101h\u1e5bdaya (3694)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5205/",
         "label": "sher snying gi 'grel pa (5205)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5204/",
-        "label": "sher snying gi 'grel pa (5204)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3694/",
+        "label": "praj\u00f1\u0101p\u0101ramit\u0101h\u1e5bdaya (3694)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 989,
-      "label": "sher snying gi 'grel pa (5205) commentary on praj\u00f1\u0101p\u0101ramit\u0101h\u1e5bdaya (3694)",
+      "id": 1614,
+      "label": "sher snying gi 'grel pa (5205) has as an instance sher snying gi 'grel pa (5204)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5205/",
         "label": "sher snying gi 'grel pa (5205)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3694/",
-        "label": "praj\u00f1\u0101p\u0101ramit\u0101h\u1e5bdaya (3694)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5204/",
+        "label": "sher snying gi 'grel pa (5204)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

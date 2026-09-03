@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4510/",
   "relations": [
     {
-      "id": 1298,
-      "label": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (4511) has as an instance dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (4510)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4511/",
-        "label": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (4511)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4510/",
-        "label": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (4510)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1246,
       "label": "ka rma bsod nams (4512) owner of dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (4510)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": "",
       "tei_refs": "ex9042023-09-09-100",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1298,
+      "label": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (4511) has as an instance dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (4510)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4511/",
+        "label": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (4511)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4510/",
+        "label": "dge tshul rnams kyi bslab pa'i rim pa ston pa'i rnam par bshad pa (4510)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8391/",
   "relations": [
     {
-      "id": 7601,
-      "label": "ti shri ras pa shes rab seng ge (8391) student of zhang g.yu brag brtson 'grus grags pa (6409)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8391/",
-        "label": "ti shri ras pa shes rab seng ge (8391)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6409/",
-        "label": "zhang g.yu brag brtson 'grus grags pa (6409)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex074012025-11-2510-59-48",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 7600,
       "label": "ti shri ras pa shes rab seng ge (8391) active at byang ngos (7952)",
       "subj": {
@@ -54,6 +25,35 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "https://treasuryoflives.org/biographies/view/Tishri-Repa-Sherab-Sengge/7637",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7601,
+      "label": "ti shri ras pa shes rab seng ge (8391) student of zhang g.yu brag brtson 'grus grags pa (6409)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8391/",
+        "label": "ti shri ras pa shes rab seng ge (8391)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6409/",
+        "label": "zhang g.yu brag brtson 'grus grags pa (6409)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex074012025-11-2510-59-48",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,

@@ -2,6 +2,64 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4065/",
   "relations": [
     {
+      "id": 3375,
+      "label": "ze'u grags pa shes rab (4065) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4065/",
+        "label": "ze'u grags pa shes rab (4065)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1325-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1325-12-31",
+      "start_date_to": "1314-12-31",
+      "start_date_from": "1314-01-01",
+      "start_date_sort": "1314-07-02",
+      "zotero_refs": "",
+      "tei_refs": "exX0032026-06-2509-18-11",
+      "support_notes": "11th abbot of sNar thang, after Ze'u ba brtson 'grus grags pa (ID:6519).",
+      "confidence": "Positive",
+      "start": "1314",
+      "end": "before 1325",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3376,
+      "label": "ze'u grags pa shes rab (4065) student of mchims nam mkha' grags (3977)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4065/",
+        "label": "ze'u grags pa shes rab (4065)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BUDA",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 4284,
       "label": "ze'u grags pa shes rab (4065) studies skyes bu gsum gyi lam rim gyi khrid (4866)",
       "subj": {
@@ -24,6 +82,119 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "ex50132023-09-132",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4330,
+      "label": "ze'u grags pa shes rab (4065) scribe of rje btsun seng ge sgra'i man ngag (2) (4963)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4065/",
+        "label": "ze'u grags pa shes rab (4065)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4963/",
+        "label": "rje btsun seng ge sgra'i man ngag (2) (4963)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex55102024-09-3016-41-552",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4331,
+      "label": "ze'u grags pa shes rab (4065) scribe of rnam snang mngon par byang chub pa'i sku gsum gyi dkyil 'khor bsgom thabs (2) (4966)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4065/",
+        "label": "ze'u grags pa shes rab (4065)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4966/",
+        "label": "rnam snang mngon par byang chub pa'i sku gsum gyi dkyil 'khor bsgom thabs (2) (4966)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex55112024-09-3016-41-55",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4571,
+      "label": "ze'u grags pa shes rab (4065) student of ze'u grags pa brtson 'grus (6519)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4065/",
+        "label": "ze'u grags pa shes rab (4065)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
+        "label": "ze'u grags pa brtson 'grus (6519)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BUDA",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4677,
+      "label": "ze'u grags pa shes rab (4065) sibling of ze'u grags pa brtson 'grus (6519)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4065/",
+        "label": "ze'u grags pa shes rab (4065)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
+        "label": "ze'u grags pa brtson 'grus (6519)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 344. Grags pa shes rab (ID:4065) was the younger brother (gcung po) of Ze'u ba brTson 'grus grags pa (ID:6519).\r\n[FZ6N88AU]: 408. Van der Kuijp suggests that Grags pa shes rab could be the nephew of Ze'u Grags pa brtson 'grus.",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -59,177 +230,6 @@
       "subject_of_teaching_vocab": [
         12
       ]
-    },
-    {
-      "id": 4571,
-      "label": "ze'u grags pa shes rab (4065) student of ze'u grags pa brtson 'grus (6519)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4065/",
-        "label": "ze'u grags pa shes rab (4065)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
-        "label": "ze'u grags pa brtson 'grus (6519)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "BUDA",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 4330,
-      "label": "ze'u grags pa shes rab (4065) scribe of rje btsun seng ge sgra'i man ngag (2) (4963)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4065/",
-        "label": "ze'u grags pa shes rab (4065)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4963/",
-        "label": "rje btsun seng ge sgra'i man ngag (2) (4963)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex55102024-09-3016-41-552",
-      "support_notes": "",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 3376,
-      "label": "ze'u grags pa shes rab (4065) student of mchims nam mkha' grags (3977)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4065/",
-        "label": "ze'u grags pa shes rab (4065)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
-        "label": "mchims nam mkha' grags (3977)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "BUDA",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3375,
-      "label": "ze'u grags pa shes rab (4065) active at snar thang (4411)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4065/",
-        "label": "ze'u grags pa shes rab (4065)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
-        "label": "snar thang (4411)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": "1325-12-31",
-      "end_date_from": null,
-      "end_date_sort": "1325-12-31",
-      "start_date_to": "1314-12-31",
-      "start_date_from": "1314-01-01",
-      "start_date_sort": "1314-07-02",
-      "zotero_refs": "",
-      "tei_refs": "exX0032026-06-2509-18-11",
-      "support_notes": "11th abbot of sNar thang, after Ze'u ba brtson 'grus grags pa (ID:6519).",
-      "confidence": "Positive",
-      "start": "1314",
-      "end": "before 1325",
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 4677,
-      "label": "ze'u grags pa shes rab (4065) sibling of ze'u grags pa brtson 'grus (6519)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4065/",
-        "label": "ze'u grags pa shes rab (4065)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
-        "label": "ze'u grags pa brtson 'grus (6519)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 344. Grags pa shes rab (ID:4065) was the younger brother (gcung po) of Ze'u ba brTson 'grus grags pa (ID:6519).\r\n[FZ6N88AU]: 408. Van der Kuijp suggests that Grags pa shes rab could be the nephew of Ze'u Grags pa brtson 'grus.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 4331,
-      "label": "ze'u grags pa shes rab (4065) scribe of rnam snang mngon par byang chub pa'i sku gsum gyi dkyil 'khor bsgom thabs (2) (4966)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4065/",
-        "label": "ze'u grags pa shes rab (4065)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4966/",
-        "label": "rnam snang mngon par byang chub pa'i sku gsum gyi dkyil 'khor bsgom thabs (2) (4966)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex55112024-09-3016-41-55",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 4572,

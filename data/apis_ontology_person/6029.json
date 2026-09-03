@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6029/",
   "relations": [
     {
+      "id": 1044,
+      "label": "sangs rgyas ston dpal bzang po (6029) author of chos mngon pa mdzod kyi rnam bshad gzhung don gsal byed legs bshad snang ba (5283)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6029/",
+        "label": "sangs rgyas ston dpal bzang po (6029)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5283/",
+        "label": "chos mngon pa mdzod kyi rnam bshad gzhung don gsal byed legs bshad snang ba (5283)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex8602_202409182",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4261,
       "label": "sangs rgyas ston dpal bzang po (6029) student of skyo ston smon lam tshul khrims (4052)",
       "subj": {
@@ -29,34 +57,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 1044,
-      "label": "sangs rgyas ston dpal bzang po (6029) author of chos mngon pa mdzod kyi rnam bshad gzhung don gsal byed legs bshad snang ba (5283)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6029/",
-        "label": "sangs rgyas ston dpal bzang po (6029)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5283/",
-        "label": "chos mngon pa mdzod kyi rnam bshad gzhung don gsal byed legs bshad snang ba (5283)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex8602_202409182",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     }
   ],
   "end_date_to": null,

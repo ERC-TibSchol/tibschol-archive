@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5181/",
   "relations": [
     {
-      "id": 1605,
-      "label": "shes rab kyi pha rol tu phyin pa'i rgyan bstan bcos 'grel pa dang bcas pa'i rgya cher bshad pa mdo'i don gsal bar byed pa la (5181) has as an instance shes rab kyi pha rol tu phyin pa'i rgyan bstan bcos 'grel pa dang bcas pa'i rgya cher bshad pa mdo'i don gsal bar byed pa (5180)",
+      "id": 973,
+      "label": "shes rab kyi pha rol tu phyin pa'i rgyan bstan bcos 'grel pa dang bcas pa'i rgya cher bshad pa mdo'i don gsal bar byed pa la (5181) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5181/",
         "label": "shes rab kyi pha rol tu phyin pa'i rgyan bstan bcos 'grel pa dang bcas pa'i rgya cher bshad pa mdo'i don gsal bar byed pa la (5181)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5180/",
-        "label": "shes rab kyi pha rol tu phyin pa'i rgyan bstan bcos 'grel pa dang bcas pa'i rgya cher bshad pa mdo'i don gsal bar byed pa (5180)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
+        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 973,
-      "label": "shes rab kyi pha rol tu phyin pa'i rgyan bstan bcos 'grel pa dang bcas pa'i rgya cher bshad pa mdo'i don gsal bar byed pa la (5181) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
+      "id": 1605,
+      "label": "shes rab kyi pha rol tu phyin pa'i rgyan bstan bcos 'grel pa dang bcas pa'i rgya cher bshad pa mdo'i don gsal bar byed pa la (5181) has as an instance shes rab kyi pha rol tu phyin pa'i rgyan bstan bcos 'grel pa dang bcas pa'i rgya cher bshad pa mdo'i don gsal bar byed pa (5180)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5181/",
         "label": "shes rab kyi pha rol tu phyin pa'i rgyan bstan bcos 'grel pa dang bcas pa'i rgya cher bshad pa mdo'i don gsal bar byed pa la (5181)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
-        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5180/",
+        "label": "shes rab kyi pha rol tu phyin pa'i rgyan bstan bcos 'grel pa dang bcas pa'i rgya cher bshad pa mdo'i don gsal bar byed pa (5180)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

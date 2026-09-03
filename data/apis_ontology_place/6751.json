@@ -2,11 +2,11 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6751/",
   "relations": [
     {
-      "id": 6899,
-      "label": "gung ru rgyal mtshan bzang po (7096) active at 'bras spungs (6751)",
+      "id": 3908,
+      "label": "'jam dbyangs dga' ba'i blo gros (6750) active at 'bras spungs (6751)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7096/",
-        "label": "gung ru rgyal mtshan bzang po (7096)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6750/",
+        "label": "'jam dbyangs dga' ba'i blo gros (6750)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -16,18 +16,18 @@
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
-      "end_date_to": null,
+      "end_date_to": "1503-12-31",
       "end_date_from": null,
-      "end_date_sort": null,
+      "end_date_sort": "1503-12-31",
       "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P4340. Throne holder of 'Bras spungs monastery.",
+      "start_date_from": "1449-01-01",
+      "start_date_sort": "1449-01-01",
+      "zotero_refs": "[CCSBSVCA]: 116.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
+      "start": "after 1449",
+      "end": "before 1503",
       "subject_of_teaching_vocab": []
     },
     {
@@ -60,11 +60,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3908,
-      "label": "'jam dbyangs dga' ba'i blo gros (6750) active at 'bras spungs (6751)",
+      "id": 6899,
+      "label": "gung ru rgyal mtshan bzang po (7096) active at 'bras spungs (6751)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6750/",
-        "label": "'jam dbyangs dga' ba'i blo gros (6750)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7096/",
+        "label": "gung ru rgyal mtshan bzang po (7096)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -74,18 +74,18 @@
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
-      "end_date_to": "1503-12-31",
+      "end_date_to": null,
       "end_date_from": null,
-      "end_date_sort": "1503-12-31",
+      "end_date_sort": null,
       "start_date_to": null,
-      "start_date_from": "1449-01-01",
-      "start_date_sort": "1449-01-01",
-      "zotero_refs": "[CCSBSVCA]: 116.",
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P4340. Throne holder of 'Bras spungs monastery.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "after 1449",
-      "end": "before 1503",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     }
   ],

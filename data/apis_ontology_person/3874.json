@@ -353,11 +353,11 @@
       ]
     },
     {
-      "id": 7799,
-      "label": "dgyal pa chos 'bar (4156) lineage predecessor of 'chad kha pa ye shes rdo rje (3874)",
+      "id": 138,
+      "label": "lho bran pa dar ma seng ge (3853) student of 'chad kha pa ye shes rdo rje (3874)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4156/",
-        "label": "dgyal pa chos 'bar (4156)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3853/",
+        "label": "lho bran pa dar ma seng ge (3853)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -373,15 +373,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex61032023-09-26-091118",
+      "zotero_refs": "[Q922IUFM]: 1:38.",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": [
-        15
-      ]
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 5528,
@@ -413,11 +411,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 138,
-      "label": "lho bran pa dar ma seng ge (3853) student of 'chad kha pa ye shes rdo rje (3874)",
+      "id": 7799,
+      "label": "dgyal pa chos 'bar (4156) lineage predecessor of 'chad kha pa ye shes rdo rje (3874)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3853/",
-        "label": "lho bran pa dar ma seng ge (3853)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4156/",
+        "label": "dgyal pa chos 'bar (4156)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -433,13 +431,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[Q922IUFM]: 1:38.",
-      "tei_refs": "",
+      "zotero_refs": "",
+      "tei_refs": "ex61032023-09-26-091118",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        15
+      ]
     }
   ],
   "end_date_to": "1175-12-31",

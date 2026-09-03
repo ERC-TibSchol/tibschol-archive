@@ -3,7 +3,7 @@
   "relations": [
     {
       "id": 413,
-      "label": "'chim ston don 'grub (4212) lineage predecessor of 'chim ston brtson seng (4049)",
+      "label": "'chim ston don 'grub (4212) lineage predecessor of mchims brtson 'grus seng ge (4261)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4212/",
         "label": "'chim ston don 'grub (4212)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4049/",
-        "label": "'chim ston brtson seng (4049)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4261/",
+        "label": "mchims brtson 'grus seng ge (4261)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -24,38 +24,6 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "ex2702_2024-09-1114-42-583 (Ratnagotravibh\u0101ga lineage)\r\nex113022026-01-2622-34-04 (Ratnagotravibh\u0101ga lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        10,
-        56
-      ]
-    },
-    {
-      "id": 6606,
-      "label": "mar pa jo 'phan (7392) lineage predecessor of 'chim ston don 'grub (4212)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7392/",
-        "label": "mar pa jo 'phan (7392)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4212/",
-        "label": "'chim ston don 'grub (4212)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex2702_2024-09-1114-42-583  (Ratnagotravibh\u0101ga lineage)\r\nex113022026-01-2622-34-04 (Ratnagotravibh\u0101ga lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -93,6 +61,38 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6606,
+      "label": "mar pa jo 'phan (7392) lineage predecessor of 'chim ston don 'grub (4212)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7392/",
+        "label": "mar pa jo 'phan (7392)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4212/",
+        "label": "'chim ston don 'grub (4212)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex2702_2024-09-1114-42-583  (Ratnagotravibh\u0101ga lineage)\r\nex113022026-01-2622-34-04 (Ratnagotravibh\u0101ga lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        10,
+        56
+      ]
     }
   ],
   "end_date_to": null,

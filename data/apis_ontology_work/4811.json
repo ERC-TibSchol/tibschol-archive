@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4811/",
   "relations": [
     {
-      "id": 5479,
-      "label": "gnas brtan gyi phyag mchod kyi rim pa\u02bci phyag len gsal byed (4811) has as an instance gnas brtan phyag mchod kyi rim pa phyag len gsal byed (7249)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4811/",
-        "label": "gnas brtan gyi phyag mchod kyi rim pa\u02bci phyag len gsal byed (4811)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7249/",
-        "label": "gnas brtan phyag mchod kyi rim pa phyag len gsal byed (7249)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1438,
       "label": "gnas brtan gyi phyag mchod kyi rim pa\u02bci phyag len gsal byed (4811) has as an instance gnas brtan gyi phyag mchod kyi rim pa'i phyag len gsal byed (4810)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5479,
+      "label": "gnas brtan gyi phyag mchod kyi rim pa\u02bci phyag len gsal byed (4811) has as an instance gnas brtan phyag mchod kyi rim pa phyag len gsal byed (7249)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4811/",
+        "label": "gnas brtan gyi phyag mchod kyi rim pa\u02bci phyag len gsal byed (4811)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7249/",
+        "label": "gnas brtan phyag mchod kyi rim pa phyag len gsal byed (7249)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

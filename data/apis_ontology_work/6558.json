@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6558/",
   "relations": [
     {
-      "id": 5725,
-      "label": "bslab btus 'grel pa (6558) has as an instance bslab btus 'grel chen (7359)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6558/",
-        "label": "bslab btus 'grel pa (6558)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7359/",
-        "label": "bslab btus 'grel chen (7359)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "Listed in [HMSTSJ7Q]: 429 (rGyal rtse dpal 'khor chos sde dgon gyi dpe cha'i dkar chag), No. 107: bslab btus 'grel chen; chos kyi ye shes.",
-      "tei_refs": "",
-      "support_notes": "Possibly an instance of Nyang bran pa Chos kyi she she's bSlab btus 'grel pa.",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 3447,
       "label": "bslab btus 'grel pa (6558) commentary on \u015bik\u1e63\u0101samuccaya (3742)",
       "subj": {
@@ -54,6 +26,34 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5725,
+      "label": "bslab btus 'grel pa (6558) has as an instance bslab btus 'grel chen (7359)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6558/",
+        "label": "bslab btus 'grel pa (6558)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7359/",
+        "label": "bslab btus 'grel chen (7359)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Listed in [HMSTSJ7Q]: 429 (rGyal rtse dpal 'khor chos sde dgon gyi dpe cha'i dkar chag), No. 107: bslab btus 'grel chen; chos kyi ye shes.",
+      "tei_refs": "",
+      "support_notes": "Possibly an instance of Nyang bran pa Chos kyi she she's bSlab btus 'grel pa.",
+      "confidence": "Uncertain",
       "start": null,
       "end": null
     },

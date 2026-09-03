@@ -30,6 +30,35 @@
       "end": null
     },
     {
+      "id": 2639,
+      "label": "rgya dmar ba byang chub grags (3834) active at stag tshal (4359)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4359/",
+        "label": "stag tshal (4359)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5NY3E6YU]: 68 (bla ma de gsum gyi slob ma cha pa chos kyi seng ge | khyung rin chen grags kyi slob ma rgya dmar ba | stag pa kha che la sogs nyang stod stag tshal smon gro la sogs su bshad pa mdzad pa\u2019i drung du byon te | stod lung rgya dmar dang | bla ma zung du bsten te |). \r\n[R894SIKE]: 527 (khyim thab byed khar g.yu rdog khyer nas myang stod stag tshal du stod lung pa rgya dmar ba dang | rog mngon pa gnyis kyi grwa sar byon nas rab tu byung ste lo gcig bzhugs |). From the account of the life of rJe btsun gtsang pa (ID: 6207). sTag tshal in Myang stod is presented as the seat of sTod lung rgya dmar ba and Rog mNgon pa (ID:6208).\r\n[647FFPZR]: 523, n. 16 and 543, n. 56 (based on [Q3KCZX7B]).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 2640,
       "label": "rje btsun gtsang pa (6207) active at stag tshal (4359)",
       "subj": {
@@ -51,64 +80,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[R894SIKE]: 467 (khyim thab byed khar g.yu rdog khyer nas myang stod stag tshal du stod lung pa rgya dmar ba dang | rog mngon pa gnyis kyi grwa sar byon nas rab tu byung ste lo gcig bzhugs |).\r\n[W4T5ZMUP]: 65 [15a5] (khyim thab byed khar g.yu rdog khyer nas | nyang stod stag tshal du stod klungs pa rgya dmar ba dang | rog mon gnyis kyi gra sar byon ste | rab tu byung nas lo gcig bzhugs |). Text almost the same as [R894SIKE].",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3191,
-      "label": "chag lo tsA ba chos rje dpal (6412) active at stag tshal (4359)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6412/",
-        "label": "chag lo tsA ba chos rje dpal (6412)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4359/",
-        "label": "stag tshal (4359)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 523, n. 16. \"met pandita D\u0101 na \u015fri there\"",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3190,
-      "label": "nyi phug pa chos kyi grags pa (6347) active at stag tshal (4359)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6347/",
-        "label": "nyi phug pa chos kyi grags pa (6347)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4359/",
-        "label": "stag tshal (4359)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 523, n. 16.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -146,7 +117,36 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3235,
+      "id": 3190,
+      "label": "nyi phug pa chos kyi grags pa (6347) active at stag tshal (4359)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6347/",
+        "label": "nyi phug pa chos kyi grags pa (6347)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4359/",
+        "label": "stag tshal (4359)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 523, n. 16.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3191,
       "label": "chag lo tsA ba chos rje dpal (6412) active at stag tshal (4359)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6412/",
@@ -166,12 +166,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 1230 (de'i tshe stag tshal du paNDi ta dA na shI la'i sar byon nas khong la saM skri ta'i skad kyis shis pa mang po brjod pas paNDi ta 'dar zhing ba spu langs |). When he was about 62.",
+      "zotero_refs": "[647FFPZR]: 523, n. 16. \"met pandita D\u0101 na \u015fri there\"",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "after 1258",
-      "end": "after 1258",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     },
     {
@@ -204,11 +204,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 2639,
-      "label": "rgya dmar ba byang chub grags (3834) active at stag tshal (4359)",
+      "id": 3235,
+      "label": "chag lo tsA ba chos rje dpal (6412) active at stag tshal (4359)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
-        "label": "rgya dmar ba byang chub grags (3834)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6412/",
+        "label": "chag lo tsA ba chos rje dpal (6412)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -224,12 +224,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[5NY3E6YU]: 68 (bla ma de gsum gyi slob ma cha pa chos kyi seng ge | khyung rin chen grags kyi slob ma rgya dmar ba | stag pa kha che la sogs nyang stod stag tshal smon gro la sogs su bshad pa mdzad pa\u2019i drung du byon te | stod lung rgya dmar dang | bla ma zung du bsten te |). \r\n[R894SIKE]: 527 (khyim thab byed khar g.yu rdog khyer nas myang stod stag tshal du stod lung pa rgya dmar ba dang | rog mngon pa gnyis kyi grwa sar byon nas rab tu byung ste lo gcig bzhugs |). From the account of the life of rJe btsun gtsang pa (ID: 6207). sTag tshal in Myang stod is presented as the seat of sTod lung rgya dmar ba and Rog mNgon pa (ID:6208).\r\n[647FFPZR]: 523, n. 16 and 543, n. 56 (based on [Q3KCZX7B]).",
+      "zotero_refs": "[R894SIKE]: 1230 (de'i tshe stag tshal du paNDi ta dA na shI la'i sar byon nas khong la saM skri ta'i skad kyis shis pa mang po brjod pas paNDi ta 'dar zhing ba spu langs |). When he was about 62.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
+      "start": "after 1258",
+      "end": "after 1258",
       "subject_of_teaching_vocab": []
     },
     {

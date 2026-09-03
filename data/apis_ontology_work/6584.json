@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6584/",
   "relations": [
     {
-      "id": 6430,
-      "label": "rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (6584) has as an instance theg pa chen po rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (7389)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6584/",
-        "label": "rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (6584)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7389/",
-        "label": "theg pa chen po rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (7389)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 3496,
       "label": "rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (6584) commentary on ratnagotravibh\u0101ga (3749)",
       "subj": {
@@ -51,6 +23,34 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3498,
+      "label": "rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (6584) has as an instance rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (6585)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6584/",
+        "label": "rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (6584)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6585/",
+        "label": "rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (6585)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8H6M69W4]: No. 15843.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -86,8 +86,8 @@
       "end": null
     },
     {
-      "id": 3498,
-      "label": "rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (6584) has as an instance rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (6585)",
+      "id": 6430,
+      "label": "rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (6584) has as an instance theg pa chen po rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (7389)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6584/",
         "label": "rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (6584)",
@@ -95,8 +95,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6585/",
-        "label": "rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (6585)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7389/",
+        "label": "theg pa chen po rgyud bla ma'i 'grel pa rton pa bzhi ldan mkhas pa dga' byed (7389)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -106,7 +106,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[8H6M69W4]: No. 15843.",
+      "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

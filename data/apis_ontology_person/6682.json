@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6682/",
   "relations": [
     {
+      "id": 3750,
+      "label": "\u015br\u012bgupta (6682) author of tattv\u0101vat\u0101rav\u1e5btti (6683)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6682/",
+        "label": "\u015br\u012bgupta (6682)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6683/",
+        "label": "tattv\u0101vat\u0101rav\u1e5btti (6683)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4066,
       "label": "\u015br\u012bgupta (6682) student of bh\u0101vaviveka (5539)",
       "subj": {
@@ -29,34 +57,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3750,
-      "label": "\u015br\u012bgupta (6682) author of tattv\u0101vat\u0101rav\u1e5btti (6683)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6682/",
-        "label": "\u015br\u012bgupta (6682)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6683/",
-        "label": "tattv\u0101vat\u0101rav\u1e5btti (6683)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 7065,

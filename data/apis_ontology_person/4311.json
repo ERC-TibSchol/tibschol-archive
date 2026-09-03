@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4311/",
   "relations": [
     {
-      "id": 5448,
-      "label": "rdo rje 'dzin pa nam mkha' rin chen (4311) requests blo gros rgyal mtshan (2) (7232)",
+      "id": 2175,
+      "label": "rdo rje 'dzin pa nam mkha' rin chen (4311) prompter of don pha rol du phyin pa'i myams len snying po rab gsal (5200)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4311/",
         "label": "rdo rje 'dzin pa nam mkha' rin chen (4311)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7232/",
-        "label": "blo gros rgyal mtshan (2) (7232)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5200/",
+        "label": "don pha rol du phyin pa'i myams len snying po rab gsal (5200)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -23,14 +23,11 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex37012023-09-11-145230",
-      "support_notes": "Request of work (ID:4728). Unclear whether 'Dul ba 'dzin pa stan cig pa Nam mkha' rin chen is the same person as rDo rje 'dzin pa Nam mkha' rin chen.",
+      "tei_refs": "ex75022023-09-282",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        8
-      ]
+      "end": null
     },
     {
       "id": 4282,
@@ -92,8 +89,8 @@
       "end": null
     },
     {
-      "id": 2175,
-      "label": "rdo rje 'dzin pa nam mkha' rin chen (4311) prompter of don pha rol du phyin pa'i myams len snying po rab gsal (5200)",
+      "id": 5448,
+      "label": "rdo rje 'dzin pa nam mkha' rin chen (4311) requests blo gros rgyal mtshan (2) (7232)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4311/",
         "label": "rdo rje 'dzin pa nam mkha' rin chen (4311)",
@@ -101,10 +98,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5200/",
-        "label": "don pha rol du phyin pa'i myams len snying po rab gsal (5200)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7232/",
+        "label": "blo gros rgyal mtshan (2) (7232)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -113,11 +110,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex75022023-09-282",
-      "support_notes": "",
+      "tei_refs": "ex37012023-09-11-145230",
+      "support_notes": "Request of work (ID:4728). Unclear whether 'Dul ba 'dzin pa stan cig pa Nam mkha' rin chen is the same person as rDo rje 'dzin pa Nam mkha' rin chen.",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
     }
   ],
   "end_date_to": null,

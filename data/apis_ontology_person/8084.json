@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8084/",
   "relations": [
     {
-      "id": 7182,
-      "label": "sbal ti 'dul 'dzin (8084) uncle (maternal/paternal) of brtson 'grus 'byung gnas (8088)",
+      "id": 7177,
+      "label": "sbal ti 'dul 'dzin (8084) author of mdo rtsa'i Tik+ka (8085)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8084/",
         "label": "sbal ti 'dul 'dzin (8084)",
@@ -11,36 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8088/",
-        "label": "brtson 'grus 'byung gnas (8088)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5RXEUKD9]: 536, No. 11714: sbal ti 'dul 'dzin gyi dpon po (em.: dbon po) brtson 'grus 'byung gnas...",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 7181,
-      "label": "sbal ti 'dul 'dzin (8084) author of so thar gyi mdo'i Tik+ka (8087)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8084/",
-        "label": "sbal ti 'dul 'dzin (8084)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8087/",
-        "label": "so thar gyi mdo'i Tik+ka (8087)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8085/",
+        "label": "mdo rtsa'i Tik+ka (8085)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -50,7 +22,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[5RXEUKD9]: 536, No. 11712: [sbal ti 'dul 'dzin gyi...] sum brgya ba'i 'grel pa.",
+      "zotero_refs": "[5RXEUKD9]: 536, No. 11710: sbal ti 'dul 'dzin gyi mdo rtsa'i Tik+ka.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -86,8 +58,8 @@
       "end": null
     },
     {
-      "id": 7177,
-      "label": "sbal ti 'dul 'dzin (8084) author of mdo rtsa'i Tik+ka (8085)",
+      "id": 7181,
+      "label": "sbal ti 'dul 'dzin (8084) author of so thar gyi mdo'i Tik+ka (8087)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8084/",
         "label": "sbal ti 'dul 'dzin (8084)",
@@ -95,8 +67,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8085/",
-        "label": "mdo rtsa'i Tik+ka (8085)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8087/",
+        "label": "so thar gyi mdo'i Tik+ka (8087)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -106,7 +78,35 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[5RXEUKD9]: 536, No. 11710: sbal ti 'dul 'dzin gyi mdo rtsa'i Tik+ka.",
+      "zotero_refs": "[5RXEUKD9]: 536, No. 11712: [sbal ti 'dul 'dzin gyi...] sum brgya ba'i 'grel pa.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7182,
+      "label": "sbal ti 'dul 'dzin (8084) uncle (maternal/paternal) of brtson 'grus 'byung gnas (8088)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8084/",
+        "label": "sbal ti 'dul 'dzin (8084)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8088/",
+        "label": "brtson 'grus 'byung gnas (8088)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 536, No. 11714: sbal ti 'dul 'dzin gyi dpon po (em.: dbon po) brtson 'grus 'byung gnas...",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

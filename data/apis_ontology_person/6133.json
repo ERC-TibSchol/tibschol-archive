@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6133/",
   "relations": [
     {
+      "id": 3386,
+      "label": "ze'u grags pa rgyal mtshan (6133) ordinator of ze'u grags pa brtson 'grus (6519)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6133/",
+        "label": "ze'u grags pa rgyal mtshan (6133)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
+        "label": "ze'u grags pa brtson 'grus (6519)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: 145, n. 301 and Appendix 3, 236. Ze'u Grags pa rgyal mtshan was \"las kyi slob dpon\" in the full ordination of Ze'u 'Dul 'dzin grags at sNar thang (ID:4411) in 1272.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1272",
+      "end": "1272"
+    },
+    {
       "id": 4676,
       "label": "ze'u grags pa rgyal mtshan (6133) student of skyo ston smon lam tshul khrims (4052)",
       "subj": {
@@ -29,34 +57,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3386,
-      "label": "ze'u grags pa rgyal mtshan (6133) ordinator of ze'u grags pa brtson 'grus (6519)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6133/",
-        "label": "ze'u grags pa rgyal mtshan (6133)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6519/",
-        "label": "ze'u grags pa brtson 'grus (6519)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: 145, n. 301 and Appendix 3, 236. Ze'u Grags pa rgyal mtshan was \"las kyi slob dpon\" in the full ordination of Ze'u 'Dul 'dzin grags at sNar thang (ID:4411) in 1272.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1272",
-      "end": "1272"
     },
     {
       "id": 3379,

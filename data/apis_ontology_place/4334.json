@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4334/",
   "relations": [
     {
-      "id": 4880,
-      "label": "lha sa ba phun tshogs chos ldan (6333) active at lha sa (4334)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6333/",
-        "label": "lha sa ba phun tshogs chos ldan (6333)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4334/",
-        "label": "lha sa (4334)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "His name suggests he originated from or was active at lHa sa.",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3838,
       "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) active at lha sa (4334)",
       "subj": {
@@ -52,6 +23,35 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[W4T5ZMUP]: 168. Final ordination by Khyung Rin chen grags (ID:3809).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3839,
+      "label": "khyung rin chen grags (3809) active at lha sa (4334)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4334/",
+        "label": "lha sa (4334)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 168. Final ordination of Bya 'dul 'dzin (ID:3818).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -88,11 +88,11 @@
       "end": null
     },
     {
-      "id": 3839,
-      "label": "khyung rin chen grags (3809) active at lha sa (4334)",
+      "id": 4880,
+      "label": "lha sa ba phun tshogs chos ldan (6333) active at lha sa (4334)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
-        "label": "khyung rin chen grags (3809)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6333/",
+        "label": "lha sa ba phun tshogs chos ldan (6333)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -108,9 +108,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[W4T5ZMUP]: 168. Final ordination of Bya 'dul 'dzin (ID:3818).",
+      "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "His name suggests he originated from or was active at lHa sa.",
       "confidence": "Positive",
       "start": null,
       "end": null,

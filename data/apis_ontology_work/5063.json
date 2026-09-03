@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5063/",
   "relations": [
     {
-      "id": 2154,
-      "label": "sangs rgyas byang sems la bstod pa dang sman bla'i rjes gnang (5063) composed at dngul chu'i chos rdzong (5692)",
+      "id": 1549,
+      "label": "sangs rgyas byang sems la bstod pa dang sman bla'i rjes gnang (5063) has as an instance sangs rgyas byang sems la bstod pa dang sman bla'i rjes gnang (5062)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5063/",
         "label": "sangs rgyas byang sems la bstod pa dang sman bla'i rjes gnang (5063)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5692/",
-        "label": "dngul chu'i chos rdzong (5692)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5062/",
+        "label": "sangs rgyas byang sems la bstod pa dang sman bla'i rjes gnang (5062)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1549,
-      "label": "sangs rgyas byang sems la bstod pa dang sman bla'i rjes gnang (5063) has as an instance sangs rgyas byang sems la bstod pa dang sman bla'i rjes gnang (5062)",
+      "id": 2154,
+      "label": "sangs rgyas byang sems la bstod pa dang sman bla'i rjes gnang (5063) composed at dngul chu'i chos rdzong (5692)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5063/",
         "label": "sangs rgyas byang sems la bstod pa dang sman bla'i rjes gnang (5063)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5062/",
-        "label": "sangs rgyas byang sems la bstod pa dang sman bla'i rjes gnang (5062)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5692/",
+        "label": "dngul chu'i chos rdzong (5692)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,

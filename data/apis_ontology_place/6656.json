@@ -30,13 +30,13 @@
       "end": null
     },
     {
-      "id": 5523,
-      "label": "ny\u0101yabindu\u1e6d\u012bk\u0101 (3779) taught at g.yu rtse 'byid phu (6656)",
+      "id": 3659,
+      "label": "sa chen kun dga' snying po (4205) active at g.yu rtse 'byid phu (6656)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3779/",
-        "label": "ny\u0101yabindu\u1e6d\u012bk\u0101 (3779)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4205/",
+        "label": "sa chen kun dga' snying po (4205)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6656/",
@@ -50,12 +50,16 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a3) (de nas yang grom pa g.yu rtse 'byid phur dge bshes me'i lhang tsher zhes bya ba las tshad ma rnam par nges pa dang | rig thigs kyi rgya cher 'grel pa bam po bco lnga pa dang | dbu ma rang rgyud shar gsum du grags pa dang bcas pa gsan cing khong du chud par mdzad pa yin no ||).",
+      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a3) (de nas yang grom pa g.yu rtse 'byid phur dge bshes me'i lhang tsher zhes bya ba las tshad ma rnam par nges pa dang | rig thigs kyi rgya cher 'grel pa bam po bco lnga pa dang | dbu ma rang rgyud shar gsum du grags pa dang bcas pa gsan cing khong du chud par mdzad pa yin no ||). Studies of epistemology and Madhyamaka with Me'i lhang tshe (ID:6655) and others in Grom pa g.Yu rtse 'byid phur.\r\n[FEHIEFEB]: 157. Studied epistemology with Me'i lhang tshe (ID:6655).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        13
+      ]
     },
     {
       "id": 3660,
@@ -118,13 +122,13 @@
       "end": null
     },
     {
-      "id": 3659,
-      "label": "sa chen kun dga' snying po (4205) active at g.yu rtse 'byid phu (6656)",
+      "id": 5523,
+      "label": "ny\u0101yabindu\u1e6d\u012bk\u0101 (3779) taught at g.yu rtse 'byid phu (6656)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4205/",
-        "label": "sa chen kun dga' snying po (4205)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3779/",
+        "label": "ny\u0101yabindu\u1e6d\u012bk\u0101 (3779)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6656/",
@@ -138,16 +142,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a3) (de nas yang grom pa g.yu rtse 'byid phur dge bshes me'i lhang tsher zhes bya ba las tshad ma rnam par nges pa dang | rig thigs kyi rgya cher 'grel pa bam po bco lnga pa dang | dbu ma rang rgyud shar gsum du grags pa dang bcas pa gsan cing khong du chud par mdzad pa yin no ||). Studies of epistemology and Madhyamaka with Me'i lhang tshe (ID:6655) and others in Grom pa g.Yu rtse 'byid phur.\r\n[FEHIEFEB]: 157. Studied epistemology with Me'i lhang tshe (ID:6655).",
+      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a3) (de nas yang grom pa g.yu rtse 'byid phur dge bshes me'i lhang tsher zhes bya ba las tshad ma rnam par nges pa dang | rig thigs kyi rgya cher 'grel pa bam po bco lnga pa dang | dbu ma rang rgyud shar gsum du grags pa dang bcas pa gsan cing khong du chud par mdzad pa yin no ||).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9,
-        13
-      ]
+      "end": null
     }
   ],
   "start_date_to": null,

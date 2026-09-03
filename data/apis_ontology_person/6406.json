@@ -2,39 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6406/",
   "relations": [
     {
-      "id": 3045,
-      "label": "zhu ston rdo rje skyabs (6406) active at 'phrang (6407)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6406/",
-        "label": "zhu ston rdo rje skyabs (6406)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6407/",
-        "label": "'phrang (6407)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": "1201-12-31",
-      "start_date_from": "1201-01-01",
-      "start_date_sort": "1201-07-02",
-      "zotero_refs": "[RA3FK3BK]: 161. Taught Sa skya pa\u1e47\u1e0dita (ID:3892) there when the latter was 19.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1201",
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9,
-        56,
-        13
-      ]
-    },
-    {
       "id": 3042,
       "label": "zhu ston rdo rje skyabs (6406) student of rje btsun grags pa rgyal mtshan (6128)",
       "subj": {
@@ -91,6 +58,39 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3045,
+      "label": "zhu ston rdo rje skyabs (6406) active at 'phrang (6407)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6406/",
+        "label": "zhu ston rdo rje skyabs (6406)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6407/",
+        "label": "'phrang (6407)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": "1201-12-31",
+      "start_date_from": "1201-01-01",
+      "start_date_sort": "1201-07-02",
+      "zotero_refs": "[RA3FK3BK]: 161. Taught Sa skya pa\u1e47\u1e0dita (ID:3892) there when the latter was 19.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1201",
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        56,
+        13
+      ]
     },
     {
       "id": 3044,

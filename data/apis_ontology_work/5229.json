@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5229/",
   "relations": [
     {
-      "id": 1626,
-      "label": "mngon rtogs rgyan gyi bsdus don (5229) has as an instance mngon rtogs rgyan gyi bsdus don (5228)",
+      "id": 1010,
+      "label": "mngon rtogs rgyan gyi bsdus don (5229) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5229/",
         "label": "mngon rtogs rgyan gyi bsdus don (5229)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5228/",
-        "label": "mngon rtogs rgyan gyi bsdus don (5228)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
+        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1010,
-      "label": "mngon rtogs rgyan gyi bsdus don (5229) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
+      "id": 1626,
+      "label": "mngon rtogs rgyan gyi bsdus don (5229) has as an instance mngon rtogs rgyan gyi bsdus don (5228)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5229/",
         "label": "mngon rtogs rgyan gyi bsdus don (5229)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
-        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5228/",
+        "label": "mngon rtogs rgyan gyi bsdus don (5228)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3872/",
   "relations": [
     {
+      "id": 129,
+      "label": "gtsang pa 'bre sgur (3872) student of pa tshab nyi ma grags (3868)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3872/",
+        "label": "gtsang pa 'bre sgur (3872)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
+        "label": "pa tshab nyi ma grags (3868)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: 20.\r\n[647FFPZR]: 544, n. 57, based on [87YHXZG3]: 116.\r\n[CCSBSVCA]: 107, n. 142.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 315,
       "label": "gtsang pa 'bre sgur (3872) lineage predecessor of nyi ma brtson 'grus (4061)",
       "subj": {
@@ -62,8 +91,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 6969,
-      "label": "gtsang pa 'bre sgur (3872) active at pa rnam dga' gdong (7961)",
+      "id": 2718,
+      "label": "gtsang pa 'bre sgur (3872) lineage predecessor of 'jam gsar ba shes rab 'od zer (3884)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3872/",
         "label": "gtsang pa 'bre sgur (3872)",
@@ -71,37 +100,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7961/",
-        "label": "pa rnam dga' gdong (7961)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CCSBSVCA]: 107, n. 142. Transmitted teachings stemming from 'Bre Shes rab 'bar (ID:3807).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 129,
-      "label": "gtsang pa 'bre sgur (3872) student of pa tshab nyi ma grags (3868)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3872/",
-        "label": "gtsang pa 'bre sgur (3872)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
-        "label": "pa tshab nyi ma grags (3868)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
+        "label": "'jam gsar ba shes rab 'od zer (3884)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -111,7 +111,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: 20.\r\n[647FFPZR]: 544, n. 57, based on [87YHXZG3]: 116.\r\n[CCSBSVCA]: 107, n. 142.",
+      "zotero_refs": "[4LWBNM7B]: 121 and n. 27.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -151,8 +151,8 @@
       ]
     },
     {
-      "id": 2718,
-      "label": "gtsang pa 'bre sgur (3872) lineage predecessor of 'jam gsar ba shes rab 'od zer (3884)",
+      "id": 6969,
+      "label": "gtsang pa 'bre sgur (3872) active at pa rnam dga' gdong (7961)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3872/",
         "label": "gtsang pa 'bre sgur (3872)",
@@ -160,8 +160,37 @@
         "content_type_name": "person"
       },
       "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7961/",
+        "label": "pa rnam dga' gdong (7961)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 107, n. 142. Transmitted teachings stemming from 'Bre Shes rab 'bar (ID:3807).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2720,
+      "label": "'jam gsar ba shes rab 'od zer (3884) quotes without name gtsang pa 'bre sgur (3872)",
+      "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
         "label": "'jam gsar ba shes rab 'od zer (3884)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3872/",
+        "label": "gtsang pa 'bre sgur (3872)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -171,7 +200,38 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[4LWBNM7B]: 121 and n. 27.",
+      "zotero_refs": "[4LWBNM7B]: 121. Stoltz argues that \"rtsang 'bre\" refers to \"gTsang pa 'bre sgur\", and \"'bre\" to \"'Bre shes rab 'bar\".",
+      "tei_refs": "ex14022025-03-315\r\nex014022026-02-2412-14-40\r\nex014022026-02-2412-14-42",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
+      "id": 2721,
+      "label": "gnyal zhig po 'jam pa'i rdo rje (3887) quotes without name gtsang pa 'bre sgur (3872)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
+        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3872/",
+        "label": "gtsang pa 'bre sgur (3872)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LWBNM7B]: 121.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -240,66 +300,6 @@
       "subject_of_teaching_vocab": [
         7
       ]
-    },
-    {
-      "id": 2720,
-      "label": "'jam gsar ba shes rab 'od zer (3884) quotes without name gtsang pa 'bre sgur (3872)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
-        "label": "'jam gsar ba shes rab 'od zer (3884)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3872/",
-        "label": "gtsang pa 'bre sgur (3872)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[4LWBNM7B]: 121. Stoltz argues that \"rtsang 'bre\" refers to \"gTsang pa 'bre sgur\", and \"'bre\" to \"'Bre shes rab 'bar\".",
-      "tei_refs": "ex14022025-03-315\r\nex014022026-02-2412-14-40\r\nex014022026-02-2412-14-42",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        7
-      ]
-    },
-    {
-      "id": 2721,
-      "label": "gnyal zhig po 'jam pa'i rdo rje (3887) quotes without name gtsang pa 'bre sgur (3872)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
-        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3872/",
-        "label": "gtsang pa 'bre sgur (3872)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[4LWBNM7B]: 121.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": null,

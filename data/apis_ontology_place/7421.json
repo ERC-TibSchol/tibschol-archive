@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7421/",
   "relations": [
     {
-      "id": 5908,
-      "label": "'phags pa blo gros rgyal mtshan (5838) active at rtse lnga (7421)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
-        "label": "'phags pa blo gros rgyal mtshan (5838)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7421/",
-        "label": "rtse lnga (7421)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": "1258-12-31",
-      "end_date_from": null,
-      "end_date_sort": "1258-12-31",
-      "start_date_to": null,
-      "start_date_from": "1256-01-01",
-      "start_date_sort": "1256-01-01",
-      "zotero_refs": "[MKQ6FJV7]: 51-52. Studied with lDong ston (ID:6824) for about seven months.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1256",
-      "end": "before 1258",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 5907,
       "label": "ldong ston shes rab dpal (6824) active at rtse lnga (7421)",
       "subj": {
@@ -57,6 +28,35 @@
       "confidence": "Positive",
       "start": "before 1257",
       "end": "after 1265",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5908,
+      "label": "'phags pa blo gros rgyal mtshan (5838) active at rtse lnga (7421)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
+        "label": "'phags pa blo gros rgyal mtshan (5838)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7421/",
+        "label": "rtse lnga (7421)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1258-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1258-12-31",
+      "start_date_to": null,
+      "start_date_from": "1256-01-01",
+      "start_date_sort": "1256-01-01",
+      "zotero_refs": "[MKQ6FJV7]: 51-52. Studied with lDong ston (ID:6824) for about seven months.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1256",
+      "end": "before 1258",
       "subject_of_teaching_vocab": []
     }
   ],

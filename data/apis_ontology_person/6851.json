@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6851/",
   "relations": [
     {
-      "id": 4265,
-      "label": "lum pa ye shes byang chub (6851) student of ka ma ba shes rab 'od (6852)",
+      "id": 4264,
+      "label": "lum pa ye shes byang chub (6851) student of po to ba rin chen gsal (3829)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6851/",
         "label": "lum pa ye shes byang chub (6851)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6852/",
-        "label": "ka ma ba shes rab 'od (6852)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3829/",
+        "label": "po to ba rin chen gsal (3829)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -31,8 +31,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 4264,
-      "label": "lum pa ye shes byang chub (6851) student of po to ba rin chen gsal (3829)",
+      "id": 4265,
+      "label": "lum pa ye shes byang chub (6851) student of ka ma ba shes rab 'od (6852)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6851/",
         "label": "lum pa ye shes byang chub (6851)",
@@ -40,8 +40,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3829/",
-        "label": "po to ba rin chen gsal (3829)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6852/",
+        "label": "ka ma ba shes rab 'od (6852)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },

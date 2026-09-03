@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3804/",
   "relations": [
     {
+      "id": 5606,
+      "label": "sumatik\u012brti (3804) translator of ny\u0101yabindu\u1e6d\u012bk\u0101 (3779)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3804/",
+        "label": "sumatik\u012brti (3804)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3779/",
+        "label": "ny\u0101yabindu\u1e6d\u012bk\u0101 (3779)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q47PVAE6]: 66. Revision, with rNgog Blo ldan shes rab (ID:3786).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 6519,
       "label": "sumatik\u012brti (3804) active at snye thang brag sna bkra shis (5662)",
       "subj": {
@@ -31,19 +59,19 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5606,
-      "label": "sumatik\u012brti (3804) translator of ny\u0101yabindu\u1e6d\u012bk\u0101 (3779)",
+      "id": 49,
+      "label": "rngog blo ldan shes rab (3786) student of sumatik\u012brti (3804)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3804/",
-        "label": "sumatik\u012brti (3804)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3779/",
-        "label": "ny\u0101yabindu\u1e6d\u012bk\u0101 (3779)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3804/",
+        "label": "sumatik\u012brti (3804)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -51,12 +79,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[Q47PVAE6]: 66. Revision, with rNgog Blo ldan shes rab (ID:3786).",
+      "zotero_refs": "[5NY3E6YU]: 67 (paN+Di ta san dza na dang | 'bum phrag gsum pa dang | pa ra he ta dang | ma hA dznya na dang | su ma ti kIrti dang | skal ldan rgyal po la sogs pa mkhas shing grub pa brnyes pa du ma bsten te).\r\n[BAQ9MH4T]: 195. Studies of religious teachings after returning to Tibet.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null
+      "start": "after 1092",
+      "end": "after 1092",
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 5572,
@@ -85,35 +114,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 49,
-      "label": "rngog blo ldan shes rab (3786) student of sumatik\u012brti (3804)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3804/",
-        "label": "sumatik\u012brti (3804)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5NY3E6YU]: 67 (paN+Di ta san dza na dang | 'bum phrag gsum pa dang | pa ra he ta dang | ma hA dznya na dang | su ma ti kIrti dang | skal ldan rgyal po la sogs pa mkhas shing grub pa brnyes pa du ma bsten te).\r\n[BAQ9MH4T]: 195. Studies of religious teachings after returning to Tibet.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1092",
-      "end": "after 1092",
-      "subject_of_teaching_vocab": []
     },
     {
       "id": 5573,

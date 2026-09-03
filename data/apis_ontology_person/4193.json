@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4193/",
   "relations": [
     {
+      "id": 393,
+      "label": "rgya 'dul 'dzin brtson 'grus 'bar (4193) student of rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4193/",
+        "label": "rgya 'dul 'dzin brtson 'grus 'bar (4193)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3941/",
+        "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 542.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3082,
       "label": "rgya 'dul 'dzin brtson 'grus 'bar (4193) active at nyang stod chu mig (4351)",
       "subj": {
@@ -26,35 +55,6 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3316,
-      "label": "rgya 'dul 'dzin brtson 'grus 'bar (4193) active at ngur smrig (6380)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4193/",
-        "label": "rgya 'dul 'dzin brtson 'grus 'bar (4193)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6380/",
-        "label": "ngur smrig (6380)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 542-543, n. 55. Possibly the place of ordination of 'Bre (ID:3807) by rGya 'Dul 'dzin (ID:4193).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Uncertain",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
@@ -89,8 +89,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 393,
-      "label": "rgya 'dul 'dzin brtson 'grus 'bar (4193) student of rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
+      "id": 3316,
+      "label": "rgya 'dul 'dzin brtson 'grus 'bar (4193) active at ngur smrig (6380)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4193/",
         "label": "rgya 'dul 'dzin brtson 'grus 'bar (4193)",
@@ -98,10 +98,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3941/",
-        "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6380/",
+        "label": "ngur smrig (6380)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -109,10 +109,10 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 542.",
+      "zotero_refs": "[647FFPZR]: 542-543, n. 55. Possibly the place of ordination of 'Bre (ID:3807) by rGya 'Dul 'dzin (ID:4193).",
       "tei_refs": "",
       "support_notes": "",
-      "confidence": "Positive",
+      "confidence": "Uncertain",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []

@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6621/",
   "relations": [
     {
-      "id": 3586,
-      "label": "'jam dbyangs skya bo nam mkha' dpal (6621) active at sa skya dgon pa (5733)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6621/",
-        "label": "'jam dbyangs skya bo nam mkha' dpal (6621)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
-        "label": "sa skya dgon pa (5733)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CTAI38G9]: 929.\r\n[FEHIEFEB]: 126.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3569,
       "label": "'jam dbyangs skya bo nam mkha' dpal (6621) student of 'u yug pa bsod nams seng ge (3846)",
       "subj": {
@@ -60,34 +31,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3588,
-      "label": "'jam dbyangs skya bo nam mkha' dpal (6621) teaches pram\u0101\u1e47av\u0101rttika (3772)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6621/",
-        "label": "'jam dbyangs skya bo nam mkha' dpal (6621)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
-        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 126.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 3572,
       "label": "'jam dbyangs skya bo nam mkha' dpal (6621) author of tshad ma rnam 'grel tika (2) (6622)",
       "subj": {
@@ -109,34 +52,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[FEHIEFEB]: 124 and 126. Work mentioned in mKhan po Appey's Dkar chag mthong bas yid 'phrog chos mdzod bye ba'i lde mig (New Delhi, 1987: 36).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 3888,
-      "label": "'jam dbyangs skya bo nam mkha' dpal (6621) author of phar Tik (6738)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6621/",
-        "label": "'jam dbyangs skya bo nam mkha' dpal (6621)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6738/",
-        "label": "phar Tik (6738)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5RXEUKD9]: 530, No. 11523.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -173,6 +88,63 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 3586,
+      "label": "'jam dbyangs skya bo nam mkha' dpal (6621) active at sa skya dgon pa (5733)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6621/",
+        "label": "'jam dbyangs skya bo nam mkha' dpal (6621)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
+        "label": "sa skya dgon pa (5733)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTAI38G9]: 929.\r\n[FEHIEFEB]: 126.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3588,
+      "label": "'jam dbyangs skya bo nam mkha' dpal (6621) teaches pram\u0101\u1e47av\u0101rttika (3772)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6621/",
+        "label": "'jam dbyangs skya bo nam mkha' dpal (6621)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 126.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3655,
       "label": "'jam dbyangs skya bo nam mkha' dpal (6621) lineage predecessor of dpal ldan pa (7766)",
       "subj": {
@@ -202,6 +174,34 @@
       "subject_of_teaching_vocab": [
         9
       ]
+    },
+    {
+      "id": 3888,
+      "label": "'jam dbyangs skya bo nam mkha' dpal (6621) author of phar Tik (6738)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6621/",
+        "label": "'jam dbyangs skya bo nam mkha' dpal (6621)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6738/",
+        "label": "phar Tik (6738)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 530, No. 11523.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 6427,

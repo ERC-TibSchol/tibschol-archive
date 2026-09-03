@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6217/",
   "relations": [
     {
+      "id": 2663,
+      "label": "dar ma bkra shis (1) (6217) author of bden pa gnyis rnam par 'byed pa'i bshad pa (6218)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6217/",
+        "label": "dar ma bkra shis (1) (6217)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6218/",
+        "label": "bden pa gnyis rnam par 'byed pa'i bshad pa (6218)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[HZARCY3E]",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 6479,
       "label": "dar ma bkra shis (1) (6217) lineage predecessor of gnyal zhig po 'jam pa'i rdo rje (3887)",
       "subj": {
@@ -85,34 +113,6 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Uncertain",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 2663,
-      "label": "dar ma bkra shis (1) (6217) author of bden pa gnyis rnam par 'byed pa'i bshad pa (6218)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6217/",
-        "label": "dar ma bkra shis (1) (6217)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6218/",
-        "label": "bden pa gnyis rnam par 'byed pa'i bshad pa (6218)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[HZARCY3E]",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
       "start": null,
       "end": null
     },

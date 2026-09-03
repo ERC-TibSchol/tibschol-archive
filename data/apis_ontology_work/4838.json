@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4838/",
   "relations": [
     {
-      "id": 1451,
-      "label": "theg chen rgyud bla ma'i gdams pa (4838) has as an instance theg chen rgyud bla ma'i gdams pa (4837)",
+      "id": 783,
+      "label": "theg chen rgyud bla ma'i gdams pa (4838) commentary on ratnagotravibh\u0101ga (3749)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4838/",
         "label": "theg chen rgyud bla ma'i gdams pa (4838)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4837/",
-        "label": "theg chen rgyud bla ma'i gdams pa (4837)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
+        "label": "ratnagotravibh\u0101ga (3749)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 783,
-      "label": "theg chen rgyud bla ma'i gdams pa (4838) commentary on ratnagotravibh\u0101ga (3749)",
+      "id": 1451,
+      "label": "theg chen rgyud bla ma'i gdams pa (4838) has as an instance theg chen rgyud bla ma'i gdams pa (4837)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4838/",
         "label": "theg chen rgyud bla ma'i gdams pa (4838)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
-        "label": "ratnagotravibh\u0101ga (3749)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4837/",
+        "label": "theg chen rgyud bla ma'i gdams pa (4837)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

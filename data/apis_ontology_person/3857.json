@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3857/",
   "relations": [
     {
-      "id": 5765,
-      "label": "gsal sto sho sgom (3857) student of sgam po pa bsod nams rin chen (4189)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3857/",
-        "label": "gsal sto sho sgom (3857)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4189/",
-        "label": "sgam po pa bsod nams rin chen (4189)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P1844 (accessed 25.06.2026)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 116,
       "label": "gsal sto sho sgom (3857) student of phywa pa chos kyi seng ge (3831)",
       "subj": {
@@ -57,6 +28,35 @@
       "confidence": "Positive",
       "start": "",
       "end": "",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5765,
+      "label": "gsal sto sho sgom (3857) student of sgam po pa bsod nams rin chen (4189)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3857/",
+        "label": "gsal sto sho sgom (3857)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4189/",
+        "label": "sgam po pa bsod nams rin chen (4189)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P1844 (accessed 25.06.2026)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     },
     {

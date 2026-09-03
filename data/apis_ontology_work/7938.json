@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7938/",
   "relations": [
     {
-      "id": 6914,
-      "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7938) has as an instance rgyud bla'i 'grel pa nas btus pa'i zin bris (7939)",
+      "id": 6912,
+      "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7938) commentary on ratnagotravibh\u0101ga (3749)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7938/",
         "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7938)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7939/",
-        "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7939)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
+        "label": "ratnagotravibh\u0101ga (3749)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 6912,
-      "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7938) commentary on ratnagotravibh\u0101ga (3749)",
+      "id": 6914,
+      "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7938) has as an instance rgyud bla'i 'grel pa nas btus pa'i zin bris (7939)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7938/",
         "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7938)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
-        "label": "ratnagotravibh\u0101ga (3749)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7939/",
+        "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7939)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

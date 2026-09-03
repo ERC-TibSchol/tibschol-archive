@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5539/",
   "relations": [
     {
-      "id": 1235,
-      "label": "bh\u0101vaviveka (5539) author of tarkajv\u0101l\u0101 (5586)",
+      "id": 1221,
+      "label": "bh\u0101vaviveka (5539) author of praj\u00f1\u0101prad\u012bpa (3723)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5539/",
         "label": "bh\u0101vaviveka (5539)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5586/",
-        "label": "tarkajv\u0101l\u0101 (5586)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3723/",
+        "label": "praj\u00f1\u0101prad\u012bpa (3723)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -58,8 +58,8 @@
       "end": null
     },
     {
-      "id": 1221,
-      "label": "bh\u0101vaviveka (5539) author of praj\u00f1\u0101prad\u012bpa (3723)",
+      "id": 1235,
+      "label": "bh\u0101vaviveka (5539) author of tarkajv\u0101l\u0101 (5586)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5539/",
         "label": "bh\u0101vaviveka (5539)",
@@ -67,8 +67,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3723/",
-        "label": "praj\u00f1\u0101prad\u012bpa (3723)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5586/",
+        "label": "tarkajv\u0101l\u0101 (5586)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },

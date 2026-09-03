@@ -2,13 +2,13 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3697/",
   "relations": [
     {
-      "id": 525,
-      "label": "mngon par rtogs pa'i bshad pa (4427) commentary on \u015br\u012bcakrasa\u1e43var\u0101bhisamaya (3697)",
+      "id": 1,
+      "label": "abhay\u0101karaguptap\u0101da (3698) author of \u015br\u012bcakrasa\u1e43var\u0101bhisamaya (3697)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4427/",
-        "label": "mngon par rtogs pa'i bshad pa (4427)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3698/",
+        "label": "abhay\u0101karaguptap\u0101da (3698)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3697/",
@@ -30,13 +30,13 @@
       "end": null
     },
     {
-      "id": 1,
-      "label": "abhay\u0101karaguptap\u0101da (3698) author of \u015br\u012bcakrasa\u1e43var\u0101bhisamaya (3697)",
+      "id": 525,
+      "label": "mngon par rtogs pa'i bshad pa (4427) commentary on \u015br\u012bcakrasa\u1e43var\u0101bhisamaya (3697)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3698/",
-        "label": "abhay\u0101karaguptap\u0101da (3698)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4427/",
+        "label": "mngon par rtogs pa'i bshad pa (4427)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3697/",

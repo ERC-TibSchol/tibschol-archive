@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4785/",
   "relations": [
     {
-      "id": 2044,
-      "label": "tshad ma rnam par nges pa'i sbyor 'phreng yid bzhin nor bu (4785) composed at tshal gung thang (5658)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4785/",
-        "label": "tshad ma rnam par nges pa'i sbyor 'phreng yid bzhin nor bu (4785)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
-        "label": "tshal gung thang (5658)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex4604_2023-09-19-11",
-      "support_notes": "The colophon reports the place of composition as \"gur thang,\" which may stand for \"gung thang.\"",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 751,
       "label": "tshad ma rnam par nges pa'i sbyor 'phreng yid bzhin nor bu (4785) commentary on pram\u0101\u1e47avini\u015bcaya (3774)",
       "subj": {
@@ -82,6 +54,34 @@
       "tei_refs": null,
       "support_notes": null,
       "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2044,
+      "label": "tshad ma rnam par nges pa'i sbyor 'phreng yid bzhin nor bu (4785) composed at tshal gung thang (5658)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4785/",
+        "label": "tshad ma rnam par nges pa'i sbyor 'phreng yid bzhin nor bu (4785)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5658/",
+        "label": "tshal gung thang (5658)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex4604_2023-09-19-11",
+      "support_notes": "The colophon reports the place of composition as \"gur thang,\" which may stand for \"gung thang.\"",
+      "confidence": "Uncertain",
       "start": null,
       "end": null
     },

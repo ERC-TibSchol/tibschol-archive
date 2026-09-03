@@ -62,11 +62,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5157,
-      "label": "Anonymous (14) (7170) quotes with name li ston chos grags (4239)",
+      "id": 445,
+      "label": "khu ston brtson 'grus g.yung drung (4235) lineage predecessor of li ston chos grags (4239)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7170/",
-        "label": "Anonymous (14) (7170)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
+        "label": "khu ston brtson 'grus g.yung drung (4235)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -82,9 +82,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex080012026-07-0704-18-26",
-      "support_notes": "",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -119,37 +119,6 @@
       "end": null
     },
     {
-      "id": 6687,
-      "label": "rgya tshul li (4238) lineage predecessor of li ston chos grags (4239)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4238/",
-        "label": "rgya tshul li (4238)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4239/",
-        "label": "li ston chos grags (4239)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[TZC3JQWE]: 357. Abhidharmasamuccaya lineage according to the Fifth Dalai Lama (ca. 1670).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
       "id": 451,
       "label": "rgya tshul li (4238) other relation to li ston chos grags (4239)",
       "subj": {
@@ -176,6 +145,35 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 5157,
+      "label": "Anonymous (14) (7170) quotes with name li ston chos grags (4239)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7170/",
+        "label": "Anonymous (14) (7170)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4239/",
+        "label": "li ston chos grags (4239)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex080012026-07-0704-18-26",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 5159,
@@ -207,11 +205,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 445,
-      "label": "khu ston brtson 'grus g.yung drung (4235) lineage predecessor of li ston chos grags (4239)",
+      "id": 6687,
+      "label": "rgya tshul li (4238) lineage predecessor of li ston chos grags (4239)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
-        "label": "khu ston brtson 'grus g.yung drung (4235)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4238/",
+        "label": "rgya tshul li (4238)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -227,13 +225,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "[TZC3JQWE]: 357. Abhidharmasamuccaya lineage according to the Fifth Dalai Lama (ca. 1670).",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        17
+      ]
     }
   ],
   "end_date_to": null,
