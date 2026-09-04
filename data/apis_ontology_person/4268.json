@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4268/",
   "relations": [
     {
+      "id": 7833,
+      "label": "sna chung ston pa (4268) student of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4268/",
+        "label": "sna chung ston pa (4268)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Ati\u015ba is reported to have composed \"instructions to sNa chung ston pa\" (...zhang sna chung ston pa rnams la gdam pa) ([Q922IUFM]: 1:159, 2:364)",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 502,
       "label": "mon ston 'byung gnas shes rab (4269) student of sna chung ston pa (4268)",
       "subj": {
@@ -105,7 +134,7 @@
   "start_date_from": "1028-01-01",
   "start_date_sort": "1103-07-02",
   "tibetan_transliteration": "\u0f66\u0fa3\u0f0b\u0f46\u0f74\u0f44\u0f0b\u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f54",
-  "comments": "",
+  "comments": "One of the \"eleven great masters of dBus\" according to Lo dgon pa (ID:6808) ([Q922IUFM]: 1:101.)",
   "alternative_names_legacy": "zhang sna chung ston pa",
   "alternative_names": [
     {

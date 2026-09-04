@@ -22,9 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "[Q922IUFM]: 1: 97. dGe ba'i blo gros was one of the 5 chief disciples of Rin chen bzang po.",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -58,6 +58,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7839,
+      "label": "rma dge ba'i blo gros (6189) translator of bodhipathaprad\u012bpa (3744)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6189/",
+        "label": "rma dge ba'i blo gros (6189)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3744/",
+        "label": "bodhipathaprad\u012bpa (3744)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 1: 97.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 2592,
@@ -125,7 +153,7 @@
   "tibetan_transliteration": "\u0f62\u0fa8\u0f0b\u0f51\u0f42\u0f7a\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f56\u0fb3\u0f7c\u0f0b\u0f42\u0fb2\u0f7c\u0f66",
   "comments": "",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [],
   "external_links": "https://purl.bdrc.io/resource/P1242",
   "review": false,
   "start": "after 1000",

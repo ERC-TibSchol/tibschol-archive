@@ -255,7 +255,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex50032023-05-26011 (Ratnagotravibh\u0101ga lineage)\r\nex076062026-03-1313-53-05 (Ratnagotravibh\u0101ga lineage)",
+      "tei_refs": "ex50032023-05-26011 (Ratnagotravibh\u0101ga lineage)\r\nex076062026-03-1313-53-05 (Ratnagotravibh\u0101ga lineage)\r\nex50162023-09-1109-04-00",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -502,6 +502,35 @@
         10,
         56
       ]
+    },
+    {
+      "id": 7842,
+      "label": "\u0101kara\u015b\u0101nti (6110) lineage predecessor of sajjana (3800)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6110/",
+        "label": "\u0101kara\u015b\u0101nti (6110)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3800/",
+        "label": "sajjana (3800)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50162023-09-1109-04-00",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1099-12-31",

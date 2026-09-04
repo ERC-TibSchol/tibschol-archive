@@ -22,7 +22,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[Q922IUFM]: 1:34. Sha ra ba gave Shes rab rdo rje his possessions (longs spyod).\r\n[4W5HW75B]: 3.",
+      "zotero_refs": "[I58Z22ET]: 409, n. 42, based on Dus gsum mkhyen pa'i rnam thar in Si tu Chos kyi 'byung gnas's Karma kam tshang gser 'phreng. Dus gsum mkhyen studied six years in 'Phan yul (ID:5542) with dge bshes Sha ra ba (ID:3869) and his student Shes rab rdo rje (ID:3913).\r\n[Q922IUFM]: 1:34. Sha ra ba gave Shes rab rdo rje his possessions (longs spyod).\r\n[4W5HW75B]: 3.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -79,9 +79,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[Q922IUFM]: 1:103. For 5 years.",
       "tei_refs": "",
-      "support_notes": "BUDA",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -174,8 +174,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5896,
-      "label": "rnal 'byor pa shes rab rdo rje (3913) student of zhang sha ra ba yon tan grags (3869)",
+      "id": 5348,
+      "label": "rnal 'byor pa shes rab rdo rje (3913) active at gsang phu ne'u thog (4332)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3913/",
         "label": "rnal 'byor pa shes rab rdo rje (3913)",
@@ -183,23 +183,23 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3869/",
-        "label": "zhang sha ra ba yon tan grags (3869)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
-      "end_date_to": null,
+      "end_date_to": "1173-12-31",
       "end_date_from": null,
-      "end_date_sort": null,
+      "end_date_sort": "1173-12-31",
       "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[I58Z22ET]: 409, n. 42, based on Dus gsum mkhyen pa'i rnam thar in Si tu Chos kyi 'byung gnas's Karma kam tshang gser 'phreng. Dus gsum mkhyen studied six years in 'Phan yul (ID:5542) with dge bshes Sha ra ba (ID:3869) and his student Shes rab rdo rje (ID:3913).\r\n[4W5HW75B]: 3.",
+      "start_date_from": "1073-01-01",
+      "start_date_sort": "1073-01-01",
+      "zotero_refs": "[Q922IUFM]: 1:103. He resided together with rNgog Legs pa'i shes rab (ID:3788) for some time in gSang phu and passed away in gSang phu.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
+      "start": "after 1073",
+      "end": "before 1173",
       "subject_of_teaching_vocab": []
     },
     {
@@ -232,6 +232,34 @@
       "subject_of_teaching_vocab": [
         13
       ]
+    },
+    {
+      "id": 5349,
+      "label": "rngog legs pa'i shes rab (3788) other relation to rnal 'byor pa shes rab rdo rje (3913)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3788/",
+        "label": "rngog legs pa'i shes rab (3788)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3913/",
+        "label": "rnal 'byor pa shes rab rdo rje (3913)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 1:103. Shes rab rdo rje resided together with rNgog Legs pa'i shes rab for some time in gSang phu.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 5366,
@@ -270,7 +298,7 @@
   "start_date_from": "1000-01-01",
   "start_date_sort": "1023-01-01",
   "tibetan_transliteration": "\u0f62\u0fa3\u0f63\u0f0b\u0f60\u0f56\u0fb1\u0f7c\u0f62\u0f0b\u0f54\u0f0b\u0f64\u0f7a\u0f66\u0f0b\u0f62\u0f56\u0f0b\u0f62\u0fa1\u0f7c\u0f0b\u0f62\u0f97\u0f7a",
-  "comments": "[64YBVNDG] gives as date: ca. 1125.",
+  "comments": "[64YBVNDG] gives as date: ca. 1125.\r\n[Q922IUFM]: 2:7 he occupied the seat of Sha ra ba (ID:3869) for three years.",
   "alternative_names_legacy": "dge bshes po to ba'i slob ma rnal 'byor pa shes rab rdo rje\r\nshag kya'i dge slong prad nya badz+ra",
   "alternative_names": [
     {
@@ -279,6 +307,10 @@
     },
     {
       "label": "shag kya'i dge slong prad nya badz+ra",
+      "language": "bo"
+    },
+    {
+      "label": "rnal 'byor shes rab rdo rje",
       "language": "bo"
     }
   ],
