@@ -824,7 +824,7 @@
       "start_date_sort": null,
       "zotero_refs": "[8GL7ZT7Y]: 12b4-5 (de'i slob ma rgya dmar byang chub grags pa dang | gangs pa she\u02beu sogs su grags pa las | gro lung pa blo gros 'byung gnas ni bdag nyid chen po de'i gsung rab mtha' dag gi srol 'dzin yin la |).\r\n[EG6VZ8JK]: 21.",
       "tei_refs": "",
-      "support_notes": "It is debatable whether \"bdag nyid chen po\" really refers to Khyung Rin chen grags and not to rNgog Blo ldan shes rab, mentioned earlier in the text.",
+      "support_notes": "The passage suggests that Gro lung pa was a student of Khyung, whose students were rGya dmar and Gangs pa. However, it is debatable whether \"bdag nyid chen po\" really refers to Khyung Rin chen grags or rather to rNgog Blo ldan shes rab, mentioned earlier in the text.",
       "confidence": "Uncertain",
       "start": null,
       "end": null,
@@ -1419,9 +1419,9 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex02032025-04-2514-36-50",
+      "tei_refs": "ex02032025-04-2514-36-50 (khyung)\r\nex02032025-04-214-43-55 (rin chen grags)",
       "support_notes": "\"khyung\" could also refer to \"khyung po grags se\" (ID:4294).",
-      "confidence": "Uncertain",
+      "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
@@ -1547,35 +1547,6 @@
       "subject_of_teaching_vocab": [
         9
       ]
-    },
-    {
-      "id": 5719,
-      "label": "ar byang chub ye shes (3816) quotes with name khyung rin chen grags (3809)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3816/",
-        "label": "ar byang chub ye shes (3816)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
-        "label": "khyung rin chen grags (3809)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex02032025-04-214-43-55 (rin chen grags)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     },
     {
       "id": 5198,

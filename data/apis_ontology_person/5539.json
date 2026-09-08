@@ -106,9 +106,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[JZP4CZRX]",
       "tei_refs": "",
-      "support_notes": "BUDA",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -135,9 +135,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[JZP4CZRX]",
       "tei_refs": "",
-      "support_notes": "BUDA",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -145,13 +145,13 @@
     }
   ],
   "end_date_to": null,
-  "end_date_from": null,
-  "end_date_sort": null,
-  "start_date_to": null,
+  "end_date_from": "0570-01-01",
+  "end_date_sort": "0570-01-01",
+  "start_date_to": "0490-12-31",
   "start_date_from": null,
-  "start_date_sort": null,
+  "start_date_sort": "0490-12-31",
   "tibetan_transliteration": "",
-  "comments": "",
+  "comments": "On his names, see [SCVZ9BQA]: 338-341 (Appendix).\r\n[SCVZ9BQA]: 300 gives the dates ca. 490/500-ca. 570.",
   "alternative_names_legacy": "legs ldan 'byed\r\nbh\u0101viveka",
   "alternative_names": [
     {
@@ -161,12 +161,20 @@
     {
       "label": "bh\u0101viveka",
       "language": "bo"
+    },
+    {
+      "label": "'ba' phya",
+      "language": "bo"
+    },
+    {
+      "label": "skal ldan",
+      "language": "bo"
     }
   ],
   "external_links": "https://purl.bdrc.io/resource/P4CZ15237",
   "review": true,
-  "start": null,
-  "end": null,
+  "start": "before 490",
+  "end": "after 570",
   "name": "bh\u0101vaviveka",
   "gender": "male",
   "nationality": "Indic"

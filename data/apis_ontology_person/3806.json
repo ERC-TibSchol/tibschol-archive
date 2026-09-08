@@ -151,35 +151,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 4352,
-      "label": "gro lung pa blo gros 'byung gnas (3806) student of khyung rin chen grags (3809)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3806/",
-        "label": "gro lung pa blo gros 'byung gnas (3806)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
-        "label": "khyung rin chen grags (3809)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[8GL7ZT7Y]: 12b4-5 (de'i slob ma rgya dmar byang chub grags pa dang | gangs pa she\u02beu sogs su grags pa las | gro lung pa blo gros 'byung gnas ni bdag nyid chen po de'i gsung rab mtha' dag gi srol 'dzin yin la |).\r\n[EG6VZ8JK]: 21.",
-      "tei_refs": "",
-      "support_notes": "It is debatable whether \"bdag nyid chen po\" really refers to Khyung Rin chen grags and not to rNgog Blo ldan shes rab, mentioned earlier in the text.",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 77,
       "label": "gro lung pa blo gros 'byung gnas (3806) student of 'brom ston rgyal ba'i 'byung gnas (3827)",
       "subj": {
@@ -209,6 +180,35 @@
       "subject_of_teaching_vocab": [
         57
       ]
+    },
+    {
+      "id": 4352,
+      "label": "gro lung pa blo gros 'byung gnas (3806) student of khyung rin chen grags (3809)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3806/",
+        "label": "gro lung pa blo gros 'byung gnas (3806)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8GL7ZT7Y]: 12b4-5 (de'i slob ma rgya dmar byang chub grags pa dang | gangs pa she\u02beu sogs su grags pa las | gro lung pa blo gros 'byung gnas ni bdag nyid chen po de'i gsung rab mtha' dag gi srol 'dzin yin la |).\r\n[EG6VZ8JK]: 21.",
+      "tei_refs": "",
+      "support_notes": "The passage suggests that Gro lung pa was a student of Khyung, whose students were rGya dmar and Gangs pa. However, it is debatable whether \"bdag nyid chen po\" really refers to Khyung Rin chen grags or rather to rNgog Blo ldan shes rab, mentioned earlier in the text.",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 78,
