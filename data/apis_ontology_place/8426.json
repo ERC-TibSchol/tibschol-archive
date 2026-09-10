@@ -1,0 +1,80 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/8426/",
+  "relations": [
+    {
+      "id": 7685,
+      "label": "mal gro (8426) located within dbus (6650)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/8426/",
+        "label": "mal gro (8426)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6650/",
+        "label": "dbus (6650)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7684,
+      "label": "'chad kha gsar ma (7459) located within mal gro (8426)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7459/",
+        "label": "'chad kha gsar ma (7459)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/8426/",
+        "label": "mal gro (8426)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[PDBDXX8F]: 225.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "latitude": null,
+  "longitude": null,
+  "feature_code": "",
+  "tibetan_transliteration": "\u0f58\u0f63\u0f0b\u0f42\u0fb2\u0f7c",
+  "comments": "",
+  "alternative_names_legacy": "mal gro gung dkar rdzong",
+  "alternative_names": [
+    {
+      "label": "mal gro gung dkar rdzong",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/G2089",
+  "review": false,
+  "label": "mal gro",
+  "start": null
+}

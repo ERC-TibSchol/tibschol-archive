@@ -1,0 +1,110 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6156/",
+  "relations": [
+    {
+      "id": 2520,
+      "label": "rgya ra gad logs kyi dgon po (6156) located within gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6156/",
+        "label": "rgya ra gad logs kyi dgon po (6156)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2521,
+      "label": "zhig po bdud rtsi (6155) active at rgya ra gad logs kyi dgon po (6156)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6155/",
+        "label": "zhig po bdud rtsi (6155)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6156/",
+        "label": "rgya ra gad logs kyi dgon po (6156)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 180 (de yang gsang phu'i rgya ra gad logs kyi dgon par sku gshegs nas...)\r\n[CCSBSVCA]: 479, n. 134. Passed away in rgya ra gang/gad logs monastery.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3912,
+      "label": "lha rje dge ba 'bum (6752) active at rgya ra gad logs kyi dgon po (6156)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6752/",
+        "label": "lha rje dge ba 'bum (6752)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6156/",
+        "label": "rgya ra gad logs kyi dgon po (6156)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 182, n. 434. Site where dGe ba 'bum passed away.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "latitude": null,
+  "longitude": null,
+  "feature_code": "",
+  "tibetan_transliteration": "\u0f62\u0f92\u0fb1\u0f0b\u0f62\u0f0b\u0f42\u0f51\u0f0b\u0f63\u0f7c\u0f42\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f51\u0f42\u0f7c\u0f53\u0f0b\u0f54\u0f7c",
+  "comments": "",
+  "alternative_names_legacy": "rgya ra gang logs",
+  "alternative_names": [
+    {
+      "label": "rgya ra gang logs",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "label": "rgya ra gad logs kyi dgon po",
+  "start": null
+}
