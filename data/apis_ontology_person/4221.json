@@ -257,14 +257,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex6604_2026-01-2622-06-17 (Bodhisattva lineage)",
+      "tei_refs": "ex6604_2026-01-2622-06-17 (Bodhic\u0101ry\u0101vat\u0101ra lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
-        52,
-        48
+        48,
+        13
       ]
     },
     {
@@ -288,13 +288,16 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex66042023-09-26-110525",
+      "support_notes": "Composition of work (ID:5149).",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        48,
+        13
+      ]
     },
     {
       "id": 7658,
@@ -328,6 +331,38 @@
       ]
     },
     {
+      "id": 415,
+      "label": "skyi ston grags pa rgyal mtshan (4221) lineage predecessor of dol po pa shes rab rgyal mtshan (4213)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4221/",
+        "label": "skyi ston grags pa rgyal mtshan (4221)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
+        "label": "dol po pa shes rab rgyal mtshan (4213)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1312-12-31",
+      "end_date_from": "1312-01-01",
+      "end_date_sort": "1312-07-01",
+      "start_date_to": "1312-12-31",
+      "start_date_from": "1312-01-01",
+      "start_date_sort": "1312-07-01",
+      "zotero_refs": "",
+      "tei_refs": "ex2702_2024-09-1114-42-583  (Ratnagotravibh\u0101ga lineage)\r\nex113022026-01-2622-34-04 (Ratnagotravibh\u0101ga lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1312",
+      "end": "1312",
+      "subject_of_teaching_vocab": [
+        10,
+        56
+      ]
+    },
+    {
       "id": 296,
       "label": "skyo ston smon lam tshul khrims (4052) lineage predecessor of skyi ston grags pa rgyal mtshan (4221)",
       "subj": {
@@ -355,6 +390,40 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 414,
+      "label": "skyi ston shAkya 'bum (4062) lineage predecessor of skyi ston grags pa rgyal mtshan (4221)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4062/",
+        "label": "skyi ston shAkya 'bum (4062)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4221/",
+        "label": "skyi ston grags pa rgyal mtshan (4221)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex2702_2024-09-1114-42-583  (Ratnagotravibh\u0101ga lineage)\r\nex113022026-01-2622-34-04 (Ratnagotravibh\u0101ga lineage)\r\nex6604_2026-01-2622-06-17 (Bodhic\u0101ry\u0101vat\u0101ra lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        48,
+        10,
+        56,
+        13
+      ]
     },
     {
       "id": 422,
@@ -408,7 +477,7 @@
       "start_date_to": "1310-12-31",
       "start_date_from": "1310-01-01",
       "start_date_sort": "1310-07-02",
-      "zotero_refs": "[KM47ZZDJ]: 656. According to Dol po pa's disciples Chos grags dpal bzang po and Gha rung pa sKyi ston taught Dol po pa an unidentified Tshad ma bsdus pa at sKyi stengs monastery (ID:7633) in Dol po in 1310. According to lHa'i rgyal mtshan, sKyi ston taught Dol po pa the Pram\u0101\u1e47avini\u015bcaya (ID:3774), the Tshad ma rigs pa'i (b)rgyan, Perfection of Wisdom, Abhidharma, the Bodhicary\u0101vat\u0101ra (ID:3727), the rdo rje phreng ba, etc.\r\n[FZ6N88AU]: 430, n. 78. The \"Tshad ma rigs pa'i rgyan\" is maybe identical with work (ID:5992).",
+      "zotero_refs": "[KM47ZZDJ]: 656. According to Dol po pa's disciples Chos grags dpal bzang po and Gha rung pa sKyi ston taught Dol po pa an unidentified Tshad ma bsdus pa at sKyi stengs monastery (ID:7633) in Dol po in 1310. According to lHa'i rgyal mtshan, sKyi ston taught Dol po pa the Pram\u0101\u1e47avini\u015bcaya (ID:3774), the Tshad ma rigs pa'i (b)rgyan, Perfection of Wisdom, Abhidharma, the Bodhicary\u0101vat\u0101ra (ID:3727), the rdo rje phreng ba, etc.\r\n[FZ6N88AU]: 430, n. 78. The \"Tshad ma rigs pa'i rgyan\" is maybe identical with work (ID:5992).\r\n[JZP4CZRX], bdr:P141 (accessed 11.09.2026) (which is being distinguished from bdr:P144): tantric teachings in ca. 1312.\r\n[JZP4CZRX], bdr:P144 (accessed 11.09.2026) (which is being distinguished from bdr:P141): teaching at Glo bo bsam rdzong in 1310.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -418,7 +487,8 @@
         17,
         9,
         13,
-        7
+        7,
+        3
       ]
     },
     {
@@ -450,11 +520,11 @@
       "end": null
     },
     {
-      "id": 7826,
-      "label": "skyi ston shAkya 'bum (4062) lineage predecessor of skyi ston grags pa rgyal mtshan (4221)",
+      "id": 7960,
+      "label": "klong chen rab 'byams pa (6062) student of skyi ston grags pa rgyal mtshan (4221)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4062/",
-        "label": "skyi ston shAkya 'bum (4062)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6062/",
+        "label": "klong chen rab 'byams pa (6062)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -470,16 +540,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex6604_2026-01-2622-06-17",
-      "support_notes": "Reading of the name unclear.",
-      "confidence": "Uncertain",
+      "zotero_refs": "[JZP4CZRX], bdr:P144 (accessed 11.09.2026)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": [
-        48,
-        13
-      ]
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1299-12-31",
@@ -489,7 +556,7 @@
   "start_date_from": "1200-01-01",
   "start_date_sort": "1237-12-31",
   "tibetan_transliteration": "\u0f66\u0f90\u0fb1\u0f72\u0f0b\u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f42\u0fb2\u0f42\u0f66\u0f0b\u0f54\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f58\u0f5a\u0f53",
-  "comments": "",
+  "comments": "[JZP4CZRX] distinguishes sKyi ston 'jam dbyangs (bdr:P141) and (skyi ston) Grags pa rgyal mtshan (bdr:P141). We consider here that they are the same person.",
   "alternative_names_legacy": "skyi ston grags pa'i rgyal mtshan\r\nskyi ston 'jam dbyangs pa grags pa rgyal mtshan\r\nskyi ston 'jam dbyangs grags pa rgyal mtshan",
   "alternative_names": [
     {
@@ -505,7 +572,7 @@
       "language": "bo"
     }
   ],
-  "external_links": "https://purl.bdrc.io/resource/P144",
+  "external_links": "https://purl.bdrc.io/resource/P144\r\nhttps://purl.bdrc.io/resource/P141",
   "review": false,
   "start": "after 1200 before 1275",
   "end": "after 1297 before 1299",
