@@ -1,0 +1,81 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3717/",
+  "relations": [
+    {
+      "id": 1209,
+      "label": "n\u0101g\u0101rjuna (3720) author of prat\u012btyasamutp\u0101dah\u1e5bdayak\u0101rik\u0101 (3717)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3720/",
+        "label": "n\u0101g\u0101rjuna (3720)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3717/",
+        "label": "prat\u012btyasamutp\u0101dah\u1e5bdayak\u0101rik\u0101 (3717)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6222,
+      "label": "rten 'brel snying po'i 'grel pa (5133) commentary on prat\u012btyasamutp\u0101dah\u1e5bdayak\u0101rik\u0101 (3717)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5133/",
+        "label": "rten 'brel snying po'i 'grel pa (5133)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3717/",
+        "label": "prat\u012btyasamutp\u0101dah\u1e5bdayak\u0101rik\u0101 (3717)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "",
+  "comments": "",
+  "alternative_names_legacy": "rten cing 'brel par 'byung ba'i snying po'i tshig le'ur byas pa",
+  "alternative_names": [
+    {
+      "label": "rten cing 'brel par 'byung ba'i snying po'i tshig le'ur byas pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "http://purl.rkts.eu/resource/WTT3181",
+  "review": false,
+  "start": null,
+  "name": "prat\u012btyasamutp\u0101dah\u1e5bdayak\u0101rik\u0101",
+  "sde_dge_ref": "D3836",
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": []
+}

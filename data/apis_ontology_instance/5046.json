@@ -1,0 +1,63 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5046/",
+  "relations": [
+    {
+      "id": 1541,
+      "label": "thogs med bzang po dpal gyi bka' 'bum 'thor bu'i skor (5047) has as an instance thogs med bzang po dpal gyi bka' 'bum 'thor bu'i skor (5046)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5047/",
+        "label": "thogs med bzang po dpal gyi bka' 'bum 'thor bu'i skor (5047)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5046/",
+        "label": "thogs med bzang po dpal gyi bka' 'bum 'thor bu'i skor (5046)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f50\u0f7c\u0f42\u0f66\u0f0b\u0f58\u0f7a\u0f51\u0f0b\u0f56\u0f5f\u0f44\u0f0b\u0f54\u0f7c\u0f0b\u0f51\u0f54\u0f63\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f56\u0f40\u0f60\u0f0b\u0f60\u0f56\u0f74\u0f58\u0f0b\u0f60\u0f50\u0f7c\u0f62\u0f0b\u0f56\u0f74\u0f60\u0f72\u0f0b\u0f66\u0f90\u0f7c\u0f62",
+  "comments": "Two signatures: phyi la 360 and phyi ra 46.\r\nThe manuscript does not correspond to any item with the signature \"ra 46\" in [8H6M69W4]. It appears rather to correspond to No. 18824 (title: rgyal sras thogs med pa'i bka' 'bum thor bu), which however reports 153 folios.",
+  "alternative_names_legacy": "rgyal sras thogs med pa'i bka' 'bum thor bu",
+  "alternative_names": [
+    {
+      "label": "rgyal sras thogs med pa'i bka' 'bum thor bu",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_FDE19A",
+  "review": false,
+  "start": null,
+  "name": "thogs med bzang po dpal gyi bka' 'bum 'thor bu'i skor",
+  "set_num": "Set 2",
+  "volume": "58",
+  "sb_text_number": "5",
+  "pp_kdsb": "115-247",
+  "num_folios": "72",
+  "signature_letter": "la",
+  "signature_number": "360",
+  "drepung_number": "18824",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "2_058_05",
+  "availability": "available",
+  "dimension": "42.3 x 11.2",
+  "item_description": "Folios numberd from 202 to to 273."
+}

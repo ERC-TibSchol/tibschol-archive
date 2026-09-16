@@ -1,0 +1,106 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4718/",
+  "relations": [
+    {
+      "id": 1395,
+      "label": "'dul ba'i spyi don gyi rnam bshad (4718) has as an instance 'dul ba'i spyi don gyi rnam bshad (4717)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4718/",
+        "label": "'dul ba'i spyi don gyi rnam bshad (4718)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4717/",
+        "label": "'dul ba'i spyi don gyi rnam bshad (4717)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5476,
+      "label": "'dul ba'i spyi don gyi rnam bshad (4718) has as an instance spyi don (7246)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4718/",
+        "label": "'dul ba'i spyi don gyi rnam bshad (4718)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7246/",
+        "label": "spyi don (7246)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 714,
+      "label": "brtson 'grus grags (3978) author of 'dul ba'i spyi don gyi rnam bshad (4718)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3978/",
+        "label": "brtson 'grus grags (3978)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4718/",
+        "label": "'dul ba'i spyi don gyi rnam bshad (4718)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": "1110-01-01",
+  "start_date_sort": "1110-01-01",
+  "tibetan_transliteration": "\u0f60\u0f51\u0f74\u0f63\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f56\u0f64\u0f51",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": true,
+  "start": "after 1110",
+  "name": "'dul ba'i spyi don gyi rnam bshad",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/8/"
+  ]
+}

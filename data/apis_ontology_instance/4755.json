@@ -1,0 +1,58 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4755/",
+  "relations": [
+    {
+      "id": 1412,
+      "label": "chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed (4756) has as an instance chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed (4755)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4756/",
+        "label": "chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed (4756)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4755/",
+        "label": "chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed (4755)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f46\u0f7c\u0f66\u0f0b\u0f58\u0f44\u0f7c\u0f53\u0f0b\u0f54\u0f0b\u0f40\u0f74\u0f53\u0f0b\u0f63\u0f66\u0f0b\u0f56\u0f4f\u0f74\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f54\u0f0b\u0f64\u0f7a\u0f66\u0f0b\u0f56\u0fb1\u0f0b\u0f42\u0f66\u0f63\u0f0b\u0f56\u0fb1\u0f7a\u0f51",
+  "comments": "The same manuscript appears twice in [ZZVAXS4X].\r\nIn vol. 80, only the text up to fol. 100 (and the images of fol. 19ab and of fol. 64a are missing).\r\nIn vol. 42, the whole text is reproduced (with a lineage after the colophon). An additional folio (number unclear), which appears to belong to another text, is found between fol. 214 and fol. 215. The last folio is numbered 273, but there are irregularities in the folio numbering.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_0AF9EE\r\nhttps://purl.bdrc.io/resource/MW1PD153536_2CC379",
+  "review": false,
+  "start": null,
+  "name": "chos mngon pa kun las btus pa'i bshad pa shes bya gsal byed",
+  "set_num": "Set 2",
+  "volume": "42",
+  "sb_text_number": "1",
+  "pp_kdsb": "11-559",
+  "num_folios": "274",
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "spo bo spyan drug",
+  "zotero_ref": "H7UZJ9WA",
+  "tibschol_ref": "2_042_01\r\n3_080_02",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Two folios numbered 123 (the second marked with 'og ma).\r\nTwo folios numbered 194 (the second marked with 'og ma)\r\nTwo folios numbered 229 (the second marked with 'og ma)\r\nNumbers 164 and 165 appear on the same folio."
+}

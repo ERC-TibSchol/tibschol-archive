@@ -1,0 +1,50 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7584/",
+  "relations": [
+    {
+      "id": 6225,
+      "label": "dbu ma'i khrid (4793) records the teaching of bkra shis sgang pa (7584)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4793/",
+        "label": "dbu ma'i khrid (4793)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7584/",
+        "label": "bkra shis sgang pa (7584)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex047022025-12-1017-02-02",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "1220-01-01",
+  "end_date_sort": "1220-01-01",
+  "start_date_to": "1265-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1265-12-31",
+  "tibetan_transliteration": "\u0f56\u0f40\u0fb2\u0f0b\u0f64\u0f72\u0f66\u0f0b\u0f66\u0f92\u0f44\u0f0b\u0f54",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "before 1265",
+  "end": "after 1220",
+  "name": "bkra shis sgang pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

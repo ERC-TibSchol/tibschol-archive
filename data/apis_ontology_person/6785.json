@@ -1,0 +1,176 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6785/",
+  "relations": [
+    {
+      "id": 4014,
+      "label": "karma pa de bzhin gshegs pa (6785) active at gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6785/",
+        "label": "karma pa de bzhin gshegs pa (6785)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1415-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1415-12-31",
+      "start_date_to": null,
+      "start_date_from": "1394-01-01",
+      "start_date_sort": "1394-01-01",
+      "zotero_refs": "[3WFNMIGQ]: 141.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1394",
+      "end": "before 1415",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4371,
+      "label": "karma pa de bzhin gshegs pa (6785) student of nag hrig pa (6926)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6785/",
+        "label": "karma pa de bzhin gshegs pa (6785)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6926/",
+        "label": "nag hrig pa (6926)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[EG6VZ8JK]: 26, translated from [8GL7ZT7Y]: 15a7 (kha rag pa'i sgros 'dzin bka' bzhi pa nag hrig par grags pa zhig la chos rje de bzhin gshesgs pas gsan |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7723,
+      "label": "karma pa de bzhin gshegs pa (6785) lineage predecessor of sog dpon rin chen bzang po (6927)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6785/",
+        "label": "karma pa de bzhin gshegs pa (6785)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6927/",
+        "label": "sog dpon rin chen bzang po (6927)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "See [RCJ46BHM]: 329, n.26 for the identification of Ratnabhadra as (ID:6927).\r\n[RCJ46BHM]: 329 records lineage of Madhyamaka from N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895): N\u0101g\u0101rjuna (ID:3720), \u0100ryadeva (ID:3702), Candrak\u012brti (ID:3725), M\u0101ta\u1e45gi (ID:8412), Tailo (ID:5641), N\u0101ro (ID:5639), Mar pa (ID:6968), Mi  la (ID:8405), Dwags po (ID:4189), Dus gsum mkhyen pa (ID:3855), 'Gro mgon Ras chen (ID:8421), sPom brag pa (ID:8427) Karma pa Pak\u1e63i (ID:8417), Au\u1e0dy\u0101yana pa (ID:7346), Rang byung rdo rje (ID:3897), g.Yung ston rdo rje dpal (ID:8418), Rol pa'i rdo rje (ID:7397), mKha' spyod dbang po (ID:3901), De bzhin gshegs pa (ID:6785), Ratnabhadra (ID:6927), mThong ba don ldan (ID:6159), 'Jam dpal bzang po (ID:8428) and/or dPal 'byor don grub (ID:8420), Chos grags rgya mtsho (ID:8419), sNye bo/'og Go shri (ID:8430), rJe btsun Ras pa chen po (ID:8429), Mi bskyod rdo rje (ID:6895).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 7721,
+      "label": "zhwa dmar pa mkha' spyod dbang po (3901) lineage predecessor of karma pa de bzhin gshegs pa (6785)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3901/",
+        "label": "zhwa dmar pa mkha' spyod dbang po (3901)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6785/",
+        "label": "karma pa de bzhin gshegs pa (6785)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RCJ46BHM]: 329 records lineage of Madhyamaka from N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895): N\u0101g\u0101rjuna (ID:3720), \u0100ryadeva (ID:3702), Candrak\u012brti (ID:3725), M\u0101ta\u1e45gi (ID:8412), Tailo (ID:5641), N\u0101ro (ID:5639), Mar pa (ID:6968), Mi  la (ID:8405), Dwags po (ID:4189), Dus gsum mkhyen pa (ID:3855), 'Gro mgon Ras chen (ID:8421), sPom brag pa (ID:8427) Karma pa Pak\u1e63i (ID:8417), Au\u1e0dy\u0101yana pa (ID:7346), Rang byung rdo rje (ID:3897), g.Yung ston rdo rje dpal (ID:8418), Rol pa'i rdo rje (ID:7397), mKha' spyod dbang po (ID:3901), De bzhin gshegs pa (ID:6785), Ratnabhadra (ID:6927), mThong ba don ldan (ID:6159), 'Jam dpal bzang po (ID:8428) and/or dPal 'byor don grub (ID:8420), Chos grags rgya mtsho (ID:8419), sNye bo/'og Go shri (ID:8430), rJe btsun Ras pa chen po (ID:8429), Mi bskyod rdo rje (ID:6895).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 7722,
+      "label": "'gos lo tsA ba gzhon nu dpal (5839) student of karma pa de bzhin gshegs pa (6785)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5839/",
+        "label": "'gos lo tsA ba gzhon nu dpal (5839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6785/",
+        "label": "karma pa de bzhin gshegs pa (6785)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P1410 (accessed 25.06.2026)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1415-12-31",
+  "end_date_from": "1415-01-01",
+  "end_date_sort": "1415-07-02",
+  "start_date_to": "1384-12-31",
+  "start_date_from": "1384-01-01",
+  "start_date_sort": "1384-07-01",
+  "tibetan_transliteration": "\u0f40\u0f62\u0fa8\u0f0b\u0f54\u0f0b\u0f51\u0f7a\u0f0b\u0f56\u0f5e\u0f72\u0f53\u0f0b\u0f42\u0f64\u0f7a\u0f42\u0f66\u0f0b\u0f54",
+  "comments": "Fifth Karmapa.",
+  "alternative_names_legacy": "karma pa 05",
+  "alternative_names": [
+    {
+      "label": "karma pa 05",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P1410",
+  "review": false,
+  "start": "1384",
+  "end": "1415",
+  "name": "karma pa de bzhin gshegs pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

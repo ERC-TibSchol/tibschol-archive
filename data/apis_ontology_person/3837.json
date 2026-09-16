@@ -1,0 +1,365 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3837/",
+  "relations": [
+    {
+      "id": 3545,
+      "label": "g.yor gnyan (3837) active at chos pa myu sna (6608)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3837/",
+        "label": "g.yor gnyan (3837)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6608/",
+        "label": "chos pa myu sna (6608)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 122 (based on rTa tshag Tshe dbang rgyal's 1447 ecclesiastic history). \"dge bshes g.yor nyag\" taught epistemology to dBang phyug rdo rje (ID:6607) there.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 5894,
+      "label": "g.yor gnyan (3837) active at stod lung (4358)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3837/",
+        "label": "g.yor gnyan (3837)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4358/",
+        "label": "stod lung (4358)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 655 (dgung lo bcu dgu bzhes pa la [phag mo gru pa] dbus su phebs | stod lungs rgya dmar gyi sar rta sga phog dbu tshad nyan pa'i zhar chos pa dge bshes g.yor nyan la zhus |). g.Yor gnyan was assistant teacher at the time Phag mo gru pa (ID:3856) came to study with rGya dmar ba.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 93,
+      "label": "rgya dmar ba byang chub grags (3834) other relation to g.yor gnyan (3837)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3837/",
+        "label": "g.yor gnyan (3837)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 655 (dgung lo bcu dgu bzhes pa la [phag mo gru pa] dbus su phebs | stod lungs rgya dmar gyi sar rta sga phog dbu tshad nyan pa'i zhar chos pa dge bshes g.yor nyan la zhus |). g.Yor gnyan was assistant teacher at the time Phag mo gru pa (ID:3856) came to study with rGya dmar ba.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 501,
+      "label": "phag mo gru pa rdo rje rgyal po (3856) student of g.yor gnyan (3837)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3856/",
+        "label": "phag mo gru pa rdo rje rgyal po (3856)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3837/",
+        "label": "g.yor gnyan (3837)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1135-12-31",
+      "end_date_from": "1129-01-01",
+      "end_date_sort": "1132-07-01",
+      "start_date_to": "1135-12-31",
+      "start_date_from": "1129-01-01",
+      "start_date_sort": "1132-07-01",
+      "zotero_refs": "[CJPTU9FV]: 34.\r\n[R894SIKE]: 655 (dgung lo bcu dgu bzhes pa la dbus su phebs | stod lungs rgya dmar gyi sar rta sga phog dbu tshad nyan pa'i zhar chos pa dge bshes g.yor nyan la zhus |). Subject: Madhyamka, epistemology. When Phag mo gru pa was 19.\r\n[TRYQFL2A]: 531-532 (nyi shu rtsa lnga la dbus su phebs | zul phul (sic) bya 'dul ba 'dzin pa chen po'i (ID:3818) drung du | bsnyen rdzogs mdzad | slob dpon phya pa chos kyi seng ge (ID:3831) dang | dge bshes g.yor gnyan (ID:3837) | dmar khang bu kha pa (ID:7174) | byang chub sems dpa' la'ang  (ID:6494)| dam pa gnyal chung pa (ID:7175) | bur bsgom nag po (ID:6686) | bla ma 'jim (ID:7176) mkhon sa skya pa chen po (ID:4205) | nyang sgom rgan po (ID:7188) | byang chub sems dpa' zla ba rgyal mtshan (ID:6468) | bla ma brag dkar ba (ID:7177) la sogs la | sngags mtshan nyid kyi bka' lung gdams pa mang du zhus). Presumably after Phag mo gru pa's ordination at the age of 25.\r\n[5NY3E6YU]: 121 (slob dpon cha pa chos kyi seng ge (ID:3831) | dge bshes g.yor gnyan (ID:3837) | dmar sgang phu kha pa (ID:7174) | byang chub sems dpa' a seng (ID:6494) | dam pa gnyal chung pa (ID:7175) | bur sgom nag po (ID:6686) | bla ma 'jim (ID:7176) | 'khon sa skya pa chen po (ID:4205) | nyang sgom rgan po (ID:7188) | byang chub sems dpa' zla ba rgyal mtshan (ID:6468) | bla ma brag dkar po ba (ID:7177) la sogs la sngags mtshan nyid kyi lung gdams pa rnams zhus).",
+      "tei_refs": "exX0012025-02-1315-53-23\r\nexX0022025.03.0514.55.37\r\nexX0032026-09-0101-23-54",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1129 before 1135",
+      "end": "after 1129 before 1135",
+      "subject_of_teaching_vocab": [
+        9,
+        13
+      ]
+    },
+    {
+      "id": 3543,
+      "label": "dbang phyug rdo rje (6607) student of g.yor gnyan (3837)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6607/",
+        "label": "dbang phyug rdo rje (6607)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3837/",
+        "label": "g.yor gnyan (3837)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 122 (based on rTa tshag Tshe dbang rgyal's 1447 ecclesiastic history). The source mentions that dBang phyug rdo rje studied with \"dge bshes g.yor nyag\" - this could be g.Yor gnyan. Studies in Chos pa myu sna (ID:6608). Texts: Pram\u0101\u1e47avini\u015bcaya (ID:3774) and Pram\u0101\u1e47avini\u015bcaya\u1e6d\u012bk\u0101 (ID:5594).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 5025,
+      "label": "a seng (6494) quotes with name g.yor gnyan (3837)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6494/",
+        "label": "a seng (6494)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3837/",
+        "label": "g.yor gnyan (3837)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 860 (dge bshes chen po phywa ba | myang bran pa chos yes | skyi bo tshul 'phags | g.yor gnyan | bla ma zhang | khams pa lo tsA ba | ston 'bum sogs drug cu tsam 'dug pas | khong rnams don dam bden cig la gleng ba la | a seng gi gsung nas |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5112,
+      "label": "'jad pa gzhon nu byang chub (3863) quotes with name g.yor gnyan (3837)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3863/",
+        "label": "'jad pa gzhon nu byang chub (3863)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3837/",
+        "label": "g.yor gnyan (3837)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "exX0022026-05-2103-38-05\r\nexX0022026-05-2103-38-06\r\nexX002_2024-11-01-14-39",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 5453,
+      "label": "chu mig pa shes rab grags (3975) student of g.yor gnyan (3837)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3975/",
+        "label": "chu mig pa shes rab grags (3975)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3837/",
+        "label": "g.yor gnyan (3837)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 543, n. 55, based on Jo bo yab sras las 'phros pa'i skyes bu dam pa 'ga' zhig gi byon pa'i tshul bstan rtsis. Study of dbu ma, tshad ma, spyod with Khyung (ID:3809), Zhar chos pa (presumably (ID:3837)), rGya (ID:3834) and sTag (ID:4206).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        13
+      ]
+    },
+    {
+      "id": 7823,
+      "label": "'jam gsar ba shes rab 'od zer (3884) quotes without name g.yor gnyan (3837)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
+        "label": "'jam gsar ba shes rab 'od zer (3884)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3837/",
+        "label": "g.yor gnyan (3837)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex14022024-10-21-16-10",
+      "support_notes": "The identification of \"gnyan\" in a gloss, alongside \"rgya\", as g.Yor gnyan is tentative.",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
+    },
+    {
+      "id": 7824,
+      "label": "rma bya byang chub brtson 'grus (3842) quotes without name g.yor gnyan (3837)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3842/",
+        "label": "rma bya byang chub brtson 'grus (3842)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3837/",
+        "label": "g.yor gnyan (3837)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex013112026-09-0101-14-23",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    }
+  ],
+  "end_date_to": "1150-12-31",
+  "end_date_from": "1135-01-01",
+  "end_date_sort": "1142-12-31",
+  "start_date_to": "1115-12-31",
+  "start_date_from": "1050-01-01",
+  "start_date_sort": "1082-12-31",
+  "tibetan_transliteration": "\u0f42\u0f61\u0f7c\u0f62\u0f0b\u0f42\u0f49\u0f53",
+  "comments": "Answering to 'Jig rten mgon po's (1143-1217) question about the best teachers in dBus, mGo zla pandita lists \"g.Yor\" along with \"Phya\" - Phya pa (ID:3831) - \"Nyams\" or \"Nyang\" - Nyang bran Chos kyi seng ge (ID:3844) or Chos kyi ye shes (ID:3876) - gTsang nag pa (ID:3839) and Dan bag pa (ID:3840) as examples of teachers of \"mtshan nyid.\" ([7RUF6F47]: 78, n. 58)\r\n\r\nThe \"dge bshes g.yor nyag\" mentioned by rTa tshag Tshe dbang rgyal in his ecclesiastic history as a teacher of epistemology is probably the same person.",
+  "alternative_names_legacy": "g.yor rnyan\r\nshar chos pa dge bshes g.yor nyan\r\ng.yor nyag\r\ndge bshes g.yor nyag\r\ng.yor nyags\r\ndge bshes g.yor gnyan\r\ndge bshes yor nyan\r\nzhar chos pa g.yor gnyan",
+  "alternative_names": [
+    {
+      "label": "g.yor rnyan",
+      "language": "bo"
+    },
+    {
+      "label": "shar chos pa dge bshes g.yor nyan",
+      "language": "bo"
+    },
+    {
+      "label": "g.yor nyag",
+      "language": "bo"
+    },
+    {
+      "label": "dge bshes g.yor nyag",
+      "language": "bo"
+    },
+    {
+      "label": "g.yor nyags",
+      "language": "bo"
+    },
+    {
+      "label": "dge bshes g.yor gnyan",
+      "language": "bo"
+    },
+    {
+      "label": "dge bshes yor nyan",
+      "language": "bo"
+    },
+    {
+      "label": "zhar chos pa g.yor gnyan",
+      "language": "bo"
+    },
+    {
+      "label": "dge bshes g.yor po ba",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1050 before 1115",
+  "end": "after 1135 before 1150",
+  "name": "g.yor gnyan",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

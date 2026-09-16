@@ -1,0 +1,115 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4544/",
+  "relations": [
+    {
+      "id": 1313,
+      "label": "'khor 'das kyi chos thams cad blta ba'i me long (4544) has as an instance 'khor 'das kyi chos thams cad blta ba'i me long (4543)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4544/",
+        "label": "'khor 'das kyi chos thams cad blta ba'i me long (4544)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4543/",
+        "label": "'khor 'das kyi chos thams cad blta ba'i me long (4543)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 603,
+      "label": "spar phu ba blo gros seng ge (3854) author of 'khor 'das kyi chos thams cad blta ba'i me long (4544)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3854/",
+        "label": "spar phu ba blo gros seng ge (3854)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4544/",
+        "label": "'khor 'das kyi chos thams cad blta ba'i me long (4544)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex11152024-09-0412-06-12",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4163,
+      "label": "bsod nams 'bum (6812) addressee of 'khor 'das kyi chos thams cad blta ba'i me long (4544)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6812/",
+        "label": "bsod nams 'bum (6812)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4544/",
+        "label": "'khor 'das kyi chos thams cad blta ba'i me long (4544)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex11152024-09-0412-06-12",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1199-12-31",
+  "start_date_from": "1110-01-01",
+  "start_date_sort": "1154-12-31",
+  "tibetan_transliteration": "\u0f60\u0f41\u0f7c\u0f62\u0f0b\u0f60\u0f51\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f50\u0f58\u0f66\u0f0b\u0f45\u0f51\u0f0b\u0f56\u0f63\u0f9f\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f58\u0f7a\u0f0b\u0f63\u0f7c\u0f44",
+  "comments": "",
+  "alternative_names_legacy": "dge slong spar phu ba blo gros seng ges mdzad pa'i 'khor 'das kyi chos thams cad blta ba'i me long\r\nrten cing 'brel par 'byung ba'i rab tu byed pa 'khor 'das kyi chos thams cad blta' ba'i me long",
+  "alternative_names": [
+    {
+      "label": "dge slong spar phu ba blo gros seng ges mdzad pa'i 'khor 'das kyi chos thams cad blta ba'i me long",
+      "language": "bo"
+    },
+    {
+      "label": "rten cing 'brel par 'byung ba'i rab tu byed pa 'khor 'das kyi chos thams cad blta' ba'i me long",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": "after 1110 before 1199",
+  "name": "'khor 'das kyi chos thams cad blta ba'i me long",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/22/"
+  ]
+}

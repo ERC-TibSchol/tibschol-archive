@@ -1,0 +1,115 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5937/",
+  "relations": [
+    {
+      "id": 2108,
+      "label": "sa\u1e43cayag\u0101th\u0101pa\u00f1jik\u0101 (5937) commentary on sa\u00f1cayag\u0101th\u0101 (3693)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5937/",
+        "label": "sa\u1e43cayag\u0101th\u0101pa\u00f1jik\u0101 (5937)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3693/",
+        "label": "sa\u00f1cayag\u0101th\u0101 (3693)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2107,
+      "label": "haribhadra (3712) author of sa\u1e43cayag\u0101th\u0101pa\u00f1jik\u0101 (5937)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3712/",
+        "label": "haribhadra (3712)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5937/",
+        "label": "sa\u1e43cayag\u0101th\u0101pa\u00f1jik\u0101 (5937)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3072,
+      "label": "sdud pa tshigs su bcad pa'i rka 'grel gyi ti ka (6426) commentary on sa\u1e43cayag\u0101th\u0101pa\u00f1jik\u0101 (5937)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6426/",
+        "label": "sdud pa tshigs su bcad pa'i rka 'grel gyi ti ka (6426)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5937/",
+        "label": "sa\u1e43cayag\u0101th\u0101pa\u00f1jik\u0101 (5937)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "",
+  "comments": "",
+  "alternative_names_legacy": "bhagavad-ratnagu\u1e47asa\u1e43cayag\u0101th\u0101-pa\u00f1jik\u0101-n\u0101ma\r\nbcom ldan 'das yon tan rin bo che sdud pa'i tshigs su bcad pa'i dka' 'grel zhes bya ba",
+  "alternative_names": [
+    {
+      "label": "bhagavad-ratnagu\u1e47asa\u1e43cayag\u0101th\u0101-pa\u00f1jik\u0101-n\u0101ma",
+      "language": "bo"
+    },
+    {
+      "label": "bcom ldan 'das yon tan rin bo che sdud pa'i tshigs su bcad pa'i dka' 'grel zhes bya ba",
+      "language": "bo"
+    }
+  ],
+  "external_links": "http://purl.rkts.eu/resource/WTT3137",
+  "review": false,
+  "start": null,
+  "name": "sa\u1e43cayag\u0101th\u0101pa\u00f1jik\u0101",
+  "sde_dge_ref": "D3792",
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}

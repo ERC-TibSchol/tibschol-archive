@@ -1,0 +1,112 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6860/",
+  "relations": [
+    {
+      "id": 4285,
+      "label": "spyod 'jug gi legs bshad bsdus pa (6860) commentary on bodhicary\u0101vat\u0101ra (3727)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6860/",
+        "label": "spyod 'jug gi legs bshad bsdus pa (6860)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3727/",
+        "label": "bodhicary\u0101vat\u0101ra (3727)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4286,
+      "label": "spyod 'jug gi legs bshad bsdus pa (6860) has as an instance spyod 'jug gi legs bshad bsdus pa (6861)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6860/",
+        "label": "spyod 'jug gi legs bshad bsdus pa (6860)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6861/",
+        "label": "spyod 'jug gi legs bshad bsdus pa (6861)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4289,
+      "label": "gtsang nag pa brtson 'grus seng ge (3839) author of spyod 'jug gi legs bshad bsdus pa (6860)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6860/",
+        "label": "spyod 'jug gi legs bshad bsdus pa (6860)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "On fol. 1 of instance (ID:6861), the author's name is given as \"brtson 'grus seng ge\" and on fol. 2 as \"dge bshes rtsang pa\".",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1230-12-31",
+  "start_date_from": "1135-01-01",
+  "start_date_sort": "1182-12-31",
+  "tibetan_transliteration": "\u0f66\u0fa4\u0fb1\u0f7c\u0f51\u0f0b\u0f60\u0f47\u0f74\u0f42\u0f0b\u0f42\u0f72\u0f0b\u0f63\u0f7a\u0f42\u0f66\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f56\u0f66\u0fa1\u0f74\u0f66\u0f0b\u0f54",
+  "comments": "The expression \"legs bshad bsdus pa'i tshul\" in the incipit recalls the title of gTsang nag pa brtson 'grus seng ge (ID:3839)'s commentary (ID:4559), but the contents are different.\r\nThe author mentions that he summarizes the teachings of \"rngog\" (ID:3786), \"phya pa\" (ID:3831) and \"nyang ran\" (for nyang bran) (ID:3844) or (ID:3876) (both of whom wrote commentaries on the Bodhicary\u0101vat\u0101ra).\r\nThe initial verses and part of the beginning of the text finds a literal equivalent in work (ID:4712) by Gro ston (ID:3880), who had been gTsang nag pa's student.",
+  "alternative_names_legacy": "spyod 'jug gi bshad pa",
+  "alternative_names": [
+    {
+      "label": "spyod 'jug gi bshad pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1135 before 1230",
+  "name": "spyod 'jug gi legs bshad bsdus pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/48/",
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}

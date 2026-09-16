@@ -1,0 +1,55 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6213/",
+  "relations": [
+    {
+      "id": 2657,
+      "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745) author of abhisamayavibha\u1e45ga (6213)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6213/",
+        "label": "abhisamayavibha\u1e45ga (6213)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1054-12-31",
+  "start_date_from": "0982-01-01",
+  "start_date_sort": "1018-07-02",
+  "tibetan_transliteration": "",
+  "comments": "",
+  "alternative_names_legacy": "mngon par rtogs pa rnam par 'byed pa",
+  "alternative_names": [
+    {
+      "label": "mngon par rtogs pa rnam par 'byed pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "http://purl.rkts.eu/resource/WTT0205",
+  "review": true,
+  "start": "after 982 before 1054",
+  "name": "abhisamayavibha\u1e45ga",
+  "sde_dge_ref": "D1490",
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/3/"
+  ]
+}

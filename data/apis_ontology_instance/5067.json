@@ -1,0 +1,86 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5067/",
+  "relations": [
+    {
+      "id": 1551,
+      "label": "jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5068) has as an instance jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5067)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5068/",
+        "label": "jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5068)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5067/",
+        "label": "jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5067)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1782,
+      "label": "'jam dbyangs dkar po (5043) scribe of jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5067)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5043/",
+        "label": "'jam dbyangs dkar po (5043)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5067/",
+        "label": "jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5067)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Scribe of the 5th text in the compilation (bsnyen rdzogs kyi mkhan rgyud la bston pa) according to colophon of (ID:5067) (7a1): chos smra ba'i btsun pa thogs med kyis dngul chu'i chos rdzong du bkod pa'i ye ge pa ni 'byam dbyangs dkar po'o ||). We take \"'byam dbyangs dkar po\" to be an alternative or mistaken spelling of \"'jam dbyangs dkar po.\"",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f47\u0f7c\u0f0b\u0f56\u0f7c\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f54\u0f7c\u0f0b\u0f46\u0f7a\u0f60\u0f72\u0f0b\u0f56\u0f66\u0f9f\u0f7c\u0f51\u0f0b\u0f54\u0f0b\u0f63\u0f0b\u0f66\u0f7c\u0f42\u0f66\u0f0b\u0f54\u0f0b\u0f61\u0f72\u0f0b\u0f51\u0f58\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f63\u0fb7\u0f0b\u0f60\u0f42\u0f60\u0f0b\u0f5e\u0f72\u0f42\u0f0b\u0f42\u0f72\u0f0b\u0f56\u0f66\u0f9f\u0f7c\u0f51\u0f0b\u0f54",
+  "comments": "[8H6M69W4] does not list any item with the signature \"phyi la 182.\"",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_C0B0A0",
+  "review": false,
+  "start": null,
+  "name": "jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa",
+  "set_num": "Set 2",
+  "volume": "59",
+  "sb_text_number": "7",
+  "pp_kdsb": "303-316",
+  "num_folios": "7",
+  "signature_letter": "la",
+  "signature_number": "182",
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "2_059_07",
+  "availability": "available",
+  "dimension": null,
+  "item_description": ""
+}

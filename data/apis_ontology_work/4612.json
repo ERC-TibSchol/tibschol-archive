@@ -1,0 +1,111 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4612/",
+  "relations": [
+    {
+      "id": 1345,
+      "label": "'dul ba'i sdom tshig bsdus don gsal byed me long (4612) has as an instance 'dul ba'i sdom tshig bsdus don gsal byed me long (4611)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4612/",
+        "label": "'dul ba'i sdom tshig bsdus don gsal byed me long (4612)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4611/",
+        "label": "'dul ba'i sdom tshig bsdus don gsal byed me long (4611)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 650,
+      "label": "brag ram pa shes rab 'bum (4608) author of 'dul ba'i sdom tshig bsdus don gsal byed me long (4612)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4608/",
+        "label": "brag ram pa shes rab 'bum (4608)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4612/",
+        "label": "'dul ba'i sdom tshig bsdus don gsal byed me long (4612)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex19092024-09-2415-23-12",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4279,
+      "label": "blo gsal don grub bkra shis (6859) prompter of 'dul ba'i sdom tshig bsdus don gsal byed me long (4612)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6859/",
+        "label": "blo gsal don grub bkra shis (6859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4612/",
+        "label": "'dul ba'i sdom tshig bsdus don gsal byed me long (4612)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex19092024-09-2415-23-12",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1383-12-31",
+  "start_date_from": "1193-01-01",
+  "start_date_sort": "1288-07-01",
+  "tibetan_transliteration": "\u0f60\u0f51\u0f74\u0f63\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f66\u0fa1\u0f7c\u0f58\u0f0b\u0f5a\u0f72\u0f42\u0f0b\u0f56\u0f66\u0fa1\u0f74\u0f66\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f42\u0f66\u0f63\u0f0b\u0f56\u0fb1\u0f7a\u0f51\u0f0b\u0f58\u0f7a\u0f0b\u0f63\u0f7c\u0f44",
+  "comments": "[8H6M69W4] No. 16269 mistakenly \"sangs rgyas bzang po'i bslab bya,\" i.e., a trainee of Sangs rgyas bzang po (ID:6042) as the author.",
+  "alternative_names_legacy": "tshig gsal don gsal me long",
+  "alternative_names": [
+    {
+      "label": "tshig gsal don gsal me long",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1193 before 1383",
+  "name": "'dul ba'i sdom tshig bsdus don gsal byed me long",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/8/"
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7938/",
+  "relations": [
+    {
+      "id": 6912,
+      "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7938) commentary on ratnagotravibh\u0101ga (3749)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7938/",
+        "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7938)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
+        "label": "ratnagotravibh\u0101ga (3749)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6914,
+      "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7938) has as an instance rgyud bla'i 'grel pa nas btus pa'i zin bris (7939)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7938/",
+        "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7938)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7939/",
+        "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7939)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6913,
+      "label": "'gos lo tsA ba gzhon nu dpal (5839) author of rgyud bla'i 'grel pa nas btus pa'i zin bris (7938)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5839/",
+        "label": "'gos lo tsA ba gzhon nu dpal (5839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7938/",
+        "label": "rgyud bla'i 'grel pa nas btus pa'i zin bris (7938)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 410.\r\nAuthor reported for instance (ID:7939) in [8H6M69W4], No. 19370: 'gos lo gzhon nu dpal.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1481-12-31",
+  "start_date_from": "1402-01-01",
+  "start_date_sort": "1441-12-31",
+  "tibetan_transliteration": "\u0f62\u0f92\u0fb1\u0f74\u0f51\u0f0b\u0f56\u0fb3\u0f60\u0f72\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f54\u0f0b\u0f53\u0f66\u0f0b\u0f56\u0f4f\u0f74\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f5f\u0f72\u0f53\u0f0b\u0f56\u0fb2\u0f72\u0f66",
+  "comments": "See [BAQ9MH4T]: 410.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": true,
+  "start": "after 1402 before 1481",
+  "name": "rgyud bla'i 'grel pa nas btus pa'i zin bris",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/10/",
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/56/"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6377/",
+  "relations": [
+    {
+      "id": 2985,
+      "label": "shes rab nyi ma (6377) active at gsang phu gling stod (6172)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6377/",
+        "label": "shes rab nyi ma (6377)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
+        "label": "gsang phu gling stod (6172)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1625-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1625-12-31",
+      "start_date_to": null,
+      "start_date_from": "1525-01-01",
+      "start_date_sort": "1525-01-01",
+      "zotero_refs": "[MPRU5QUC]: 212. Abbot of gSang phu ne'u thog monastery (38th abbot of upper college) for one year.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1525",
+      "end": "before 1625",
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1625-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1625-12-31",
+  "start_date_to": null,
+  "start_date_from": "1425-01-01",
+  "start_date_sort": "1425-01-01",
+  "tibetan_transliteration": "\u0f64\u0f7a\u0f66\u0f0b\u0f62\u0f56\u0f0b\u0f49\u0f72\u0f0b\u0f58",
+  "comments": "Fl. mid-16th c.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": true,
+  "start": "after 1425",
+  "end": "before 1625",
+  "name": "shes rab nyi ma",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

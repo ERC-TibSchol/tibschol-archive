@@ -1,0 +1,83 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4382/",
+  "relations": [
+    {
+      "id": 1855,
+      "label": "chos mngon gsal byed rigs pa'i rgya mtsho (4760) composed at mthong smon dgu gling (4382)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4760/",
+        "label": "chos mngon gsal byed rigs pa'i rgya mtsho (4760)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4382/",
+        "label": "mthong smon dgu gling (4382)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex44012023-09-12",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1947,
+      "label": "bsod nams ye shes (4016) active at mthong smon dgu gling (4382)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4016/",
+        "label": "bsod nams ye shes (4016)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4382/",
+        "label": "mthong smon dgu gling (4382)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex44012023-09-12",
+      "support_notes": "Composition of work (ID:4760).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "latitude": 29.18333,
+  "longitude": 88.75,
+  "feature_code": "",
+  "tibetan_transliteration": "\u0f58\u0f50\u0f7c\u0f44\u0f0b\u0f66\u0fa8\u0f7c\u0f53\u0f0b\u0f51\u0f42\u0f74\u0f0b\u0f42\u0fb3\u0f72\u0f44",
+  "comments": "In the vicinity of sNar thang (ID:4411), the coordinates for which are provided here.",
+  "alternative_names_legacy": "mthong smon dgu gling gi bzhi thog",
+  "alternative_names": [
+    {
+      "label": "mthong smon dgu gling gi bzhi thog",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "label": "mthong smon dgu gling",
+  "start": null
+}
