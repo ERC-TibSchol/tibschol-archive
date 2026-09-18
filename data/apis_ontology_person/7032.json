@@ -1,0 +1,85 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7032/",
+  "relations": [
+    {
+      "id": 4751,
+      "label": "sgre pa (7032) active at 'phan yul (5542)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7032/",
+        "label": "sgre pa (7032)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5542/",
+        "label": "'phan yul (5542)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[64YBVNDG]: 626.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4750,
+      "label": "sgam po pa bsod nams rin chen (4189) student of sgre pa (7032)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4189/",
+        "label": "sgam po pa bsod nams rin chen (4189)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7032/",
+        "label": "sgre pa (7032)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[64YBVNDG]: 626.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1100-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1100-12-31",
+  "start_date_to": null,
+  "start_date_from": "1000-01-01",
+  "start_date_sort": "1000-01-01",
+  "tibetan_transliteration": "\u0f66\u0f92\u0fb2\u0f7a\u0f0b\u0f54",
+  "comments": "bKa' gdams pa master.\r\nSame person as g.Ye pa'i sgre pa (ID:4179)?",
+  "alternative_names_legacy": "dge bshes sgre pa",
+  "alternative_names": [
+    {
+      "label": "dge bshes sgre pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1000",
+  "end": "before 1100",
+  "name": "sgre pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

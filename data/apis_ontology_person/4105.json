@@ -1,0 +1,55 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4105/",
+  "relations": [
+    {
+      "id": 1981,
+      "label": "shes rab grags pa (4105) author of lam gyi rim pa (5882)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4105/",
+        "label": "shes rab grags pa (4105)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5882/",
+        "label": "lam gyi rim pa (5882)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author of No. 18928 according to [8H6M69W4]: dge bshes shes rab grags pa. However, the identification of the instance (ID:5881) with No. 18928 is uncertain.\r\nThe editors of [5DSBYG9K] identify the author as \"shes rab grags pa\" based on the colophon verses referring to the bla ma's name with the Sanskrit for \"ye shes byang chub\" ([5DSBYG9K]: 335).\r\n[NTGHCZA8]: 42, n. 88 suggests the author could be Chu mig pa Shes rab grags (ID:3975).",
+      "tei_refs": "ex9105_202409182",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f64\u0f7a\u0f66\u0f0b\u0f62\u0f56\u0f0b\u0f42\u0fb2\u0f42\u0f66\u0f0b\u0f54",
+  "comments": "BUDA identifies him with the 14th-c. scholar by that name (https://purl.bdrc.io/resource/P5907), but the editors of [5DSBYG9K] suggest that the author of the Lam rim work he was a student of Lum pa ba Ye shes byang chub living in the 12th century ([5DSBYG9K]: 335).\r\nPossibly the same person as Chu mig pa Shes rab grags (ID:3795) ([NTGHCZA8]: 42, n. 88).",
+  "alternative_names_legacy": "dge bshes shes rab grags pa",
+  "alternative_names": [
+    {
+      "label": "dge bshes shes rab grags pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": null,
+  "end": null,
+  "name": "shes rab grags pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6878/",
+  "relations": [
+    {
+      "id": 5911,
+      "label": "phar phyin dka' 'grel chen mo (6878) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6878/",
+        "label": "phar phyin dka' 'grel chen mo (6878)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
+        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4309,
+      "label": "bo dong paN chen phyogs las rnam rgyal (6058) author of phar phyin dka' 'grel chen mo (6878)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6058/",
+        "label": "bo dong paN chen phyogs las rnam rgyal (6058)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6878/",
+        "label": "phar phyin dka' 'grel chen mo (6878)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 529, No. 11512.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1451-12-31",
+  "start_date_from": "1386-01-01",
+  "start_date_sort": "1419-01-01",
+  "tibetan_transliteration": "\u0f55\u0f62\u0f0b\u0f55\u0fb1\u0f72\u0f53\u0f0b\u0f51\u0f40\u0f60\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f58\u0f7c",
+  "comments": "Listed in A khu ching Shes rab rgya mtsho's Tho yig ([5RXEUKD9]: 529, No. 11512: bo dong phyogs las rnam rgyal gyi phar phyin dka' 'grel chen mo).\r\n\r\nModern typeset edition in [BA7CVGHQ], vol. 34: 19-632 and vol. 35: 20-474.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "https://purl.bdrc.io/resource/WA0XL63B4B3D88D2A",
+  "review": true,
+  "start": "after 1386 before 1451",
+  "name": "phar phyin dka' 'grel chen mo",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}

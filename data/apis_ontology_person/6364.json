@@ -1,0 +1,96 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6364/",
+  "relations": [
+    {
+      "id": 2972,
+      "label": "gsang phu ba dpal ldan seng ge (6364) active at gsang phu gling stod (6172)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6364/",
+        "label": "gsang phu ba dpal ldan seng ge (6364)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
+        "label": "gsang phu gling stod (6172)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1525-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1525-12-31",
+      "start_date_to": null,
+      "start_date_from": "1400-01-01",
+      "start_date_sort": "1400-01-01",
+      "zotero_refs": "[MPRU5QUC]: 212. Abbot of gSang phu ne'u thog monastery (25th abbot of upper college) for eleven years.",
+      "tei_refs": "",
+      "support_notes": "After serving as 25th abbot of gSang phu's upper college, he became the second abbot of 'Bras spungs (ID: 6751).",
+      "confidence": "Positive",
+      "start": "after 1400",
+      "end": "before 1525",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4796,
+      "label": "gsang phu ba dpal ldan seng ge (6364) author of dbu ma rtsa ba'i tshig don rnam par bye ba (7050)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6364/",
+        "label": "gsang phu ba dpal ldan seng ge (6364)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7050/",
+        "label": "dbu ma rtsa ba'i tshig don rnam par bye ba (7050)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 525, No. 11396: gsang phu ba dpal ldan seng ge'i dbu ma rtsa ba'i tshig don rnam par phye ba.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": "1525-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1525-12-31",
+  "start_date_to": null,
+  "start_date_from": "1325-01-01",
+  "start_date_sort": "1325-01-01",
+  "tibetan_transliteration": "\u0f42\u0f66\u0f44\u0f0b\u0f55\u0f74\u0f0b\u0f56\u0f0b\u0f51\u0f54\u0f63\u0f0b\u0f63\u0fa1\u0f53\u0f0b\u0f66\u0f7a\u0f44\u0f0b\u0f42\u0f7a",
+  "comments": "Fl. mid-15th c.\r\nAccording to BUDA, same person as (ID:4010).",
+  "alternative_names_legacy": "dpal ldan seng ge\r\ndpal ldan pa\r\ndpal ldan tshul khrims\r\ngsang phu ba dpal ldan seng ge",
+  "alternative_names": [
+    {
+      "label": "dpal ldan seng ge",
+      "language": "bo"
+    },
+    {
+      "label": "dpal ldan pa",
+      "language": "bo"
+    },
+    {
+      "label": "dpal ldan tshul khrims",
+      "language": "bo"
+    },
+    {
+      "label": "gsang phu ba dpal ldan seng ge",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": "after 1325",
+  "end": "before 1525",
+  "name": "gsang phu ba dpal ldan seng ge",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

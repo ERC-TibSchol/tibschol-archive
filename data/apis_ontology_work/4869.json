@@ -1,0 +1,113 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4869/",
+  "relations": [
+    {
+      "id": 1461,
+      "label": "ye shes kyi gzhag sa (4869) has as an instance ye shes kyi gzhag sa (2) (4868)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4869/",
+        "label": "ye shes kyi gzhag sa (4869)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4868/",
+        "label": "ye shes kyi gzhag sa (2) (4868)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1865,
+      "label": "ye shes kyi gzhag sa (4869) has as an instance ye shes kyi bzhag sa (1) (5852)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4869/",
+        "label": "ye shes kyi gzhag sa (4869)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5852/",
+        "label": "ye shes kyi bzhag sa (1) (5852)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 795,
+      "label": "skyo ston smon lam tshul khrims (4052) author of ye shes kyi gzhag sa (4869)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4052/",
+        "label": "skyo ston smon lam tshul khrims (4052)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4869/",
+        "label": "ye shes kyi gzhag sa (4869)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1299-12-31",
+  "start_date_from": "1229-01-01",
+  "start_date_sort": "1264-07-01",
+  "tibetan_transliteration": "\u0f61\u0f7a\u0f0b\u0f64\u0f7a\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f42\u0f5e\u0f42\u0f0b\u0f66",
+  "comments": "",
+  "alternative_names_legacy": "ye shes kyi 'jog sa ma bde ba'i gnad ci yin tshig du zhus pa zin bris\r\nye shes kyi bzhag sa",
+  "alternative_names": [
+    {
+      "label": "ye shes kyi 'jog sa ma bde ba'i gnad ci yin tshig du zhus pa zin bris",
+      "language": "bo"
+    },
+    {
+      "label": "ye shes kyi bzhag sa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1229 before 1299",
+  "name": "ye shes kyi gzhag sa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": []
+}

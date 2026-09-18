@@ -1,0 +1,79 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7922/",
+  "relations": [
+    {
+      "id": 6874,
+      "label": "Anonymous (20) (7922) student of mar pa do ba chos kyi dbang phyug (4215)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7922/",
+        "label": "Anonymous (20) (7922)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4215/",
+        "label": "mar pa do ba chos kyi dbang phyug (4215)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 407, n. 13.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6876,
+      "label": "Anonymous (20) (7922) author of rgyud bla ma'i tshig don rnam par 'grel pa (7923)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7922/",
+        "label": "Anonymous (20) (7922)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7923/",
+        "label": "rgyud bla ma'i tshig don rnam par 'grel pa (7923)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 407, n. 13.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": "1206-12-31",
+  "end_date_from": "1052-01-01",
+  "end_date_sort": "1129-07-02",
+  "start_date_to": "1126-12-31",
+  "start_date_from": "0950-01-01",
+  "start_date_sort": "1038-07-02",
+  "tibetan_transliteration": "\u0f68\u0f71\u0f53\u0f7c\u0f49\u0f58\u0f7c\u0f68\u0f74\u0f66 \u0f3c\u0f22\u0f20\u0f3d",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "after 950 before 1126",
+  "end": "after 1052 before 1206",
+  "name": "Anonymous (20)",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

@@ -1,0 +1,109 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7975/",
+  "relations": [
+    {
+      "id": 7013,
+      "label": "'gral sher rgyal (7975) active at shab 'bre sgang (7974)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7975/",
+        "label": "'gral sher rgyal (7975)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7974/",
+        "label": "shab 'bre sgang (7974)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3HXACZSD]: 214 (based on the Red Annals). Established a college in Shab 'Bre sgang.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7014,
+      "label": "ra grags she (7976) student of 'gral sher rgyal (7975)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7976/",
+        "label": "ra grags she (7976)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7975/",
+        "label": "'gral sher rgyal (7975)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3HXACZSD]: 214 (based on the Red Annals).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7015,
+      "label": "gtsang pa jo nam (4201) student of 'gral sher rgyal (7975)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4201/",
+        "label": "gtsang pa jo nam (4201)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7975/",
+        "label": "'gral sher rgyal (7975)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3HXACZSD]: 216 (based on the Red Annals). Took the see of 'Gral after becoming 'Gral's student.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f60\u0f42\u0fb2\u0f63\u0f0b\u0f64\u0f7a\u0f62\u0f0b\u0f62\u0f92\u0fb1\u0f63",
+  "comments": "According to the Red Annals, took the see (it is not specified of which institution) after bSod nams rin chen (ID:7418) ([3HXACZSD]: 214).\r\nPossibly the same person as *Shes rab rgyal ba (ID:7166), the author of a commentary on the Ny\u0101yabindu (ID:5589) preserved in Tangut translation.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "'gral sher rgyal",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

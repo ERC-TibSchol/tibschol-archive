@@ -1,0 +1,123 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4868/",
+  "relations": [
+    {
+      "id": 1866,
+      "label": "ye shes kyi gzhag sa (2) (4868) has source ye shes kyi bzhag sa (1) (5852)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4868/",
+        "label": "ye shes kyi gzhag sa (2) (4868)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5852/",
+        "label": "ye shes kyi bzhag sa (1) (5852)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50142023-09-0816-07-29",
+      "support_notes": "We take the last post-colophon note in instance (ID:4868), which indicates a place of copy, to have been added at the time of a subsequent copy, based (directly or indirectly) on the instance written down at the time of sKyo ston's teaching to Chos kyi rtgyal mtshan (ID:5852).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1894,
+      "label": "ye shes kyi gzhag sa (2) (4868) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4868/",
+        "label": "ye shes kyi gzhag sa (2) (4868)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50142023-09-0816-07-29",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1461,
+      "label": "ye shes kyi gzhag sa (4869) has as an instance ye shes kyi gzhag sa (2) (4868)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4869/",
+        "label": "ye shes kyi gzhag sa (4869)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4868/",
+        "label": "ye shes kyi gzhag sa (2) (4868)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f61\u0f7a\u0f0b\u0f64\u0f7a\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f42\u0f5e\u0f42\u0f0b\u0f66 \u0f3c\u0f22\u0f3d",
+  "comments": "",
+  "alternative_names_legacy": "ye shes kyi gzhag sa (catalogue, first page title)\r\nye shes kyi 'jog sa ma bde bde ba'i gnad ci yin tshig du zhus pa zin bris (colophon)",
+  "alternative_names": [
+    {
+      "label": "ye shes kyi gzhag sa (catalogue, first page title)",
+      "language": "bo"
+    },
+    {
+      "label": "ye shes kyi 'jog sa ma bde bde ba'i gnad ci yin tshig du zhus pa zin bris (colophon)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_695B91",
+  "review": true,
+  "start": null,
+  "name": "ye shes kyi gzhag sa (2)",
+  "set_num": "Set 2",
+  "volume": "50",
+  "sb_text_number": "14",
+  "pp_kdsb": "293-304",
+  "num_folios": "5",
+  "signature_letter": "la",
+  "signature_number": "550",
+  "drepung_number": "19632",
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "2_050_14",
+  "availability": "available",
+  "dimension": "36 x 6",
+  "item_description": "Script: 'bru tsha.\r\nVolume: Nya"
+}

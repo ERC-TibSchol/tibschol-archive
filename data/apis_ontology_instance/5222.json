@@ -1,0 +1,91 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5222/",
+  "relations": [
+    {
+      "id": 1623,
+      "label": "chos dang chos nyid rnam par 'byed pa lta ba'i me long (5223) has as an instance chos dang chos nyid rnam par 'byed pa lta ba'i me long (5222)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5223/",
+        "label": "chos dang chos nyid rnam par 'byed pa lta ba'i me long (5223)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5222/",
+        "label": "chos dang chos nyid rnam par 'byed pa lta ba'i me long (5222)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1825,
+      "label": "lha rigs 'od gsal rad Na mir+ba (5806) scribe of chos dang chos nyid rnam par 'byed pa lta ba'i me long (5222)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5806/",
+        "label": "lha rigs 'od gsal rad Na mir+ba (5806)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5222/",
+        "label": "chos dang chos nyid rnam par 'byed pa lta ba'i me long (5222)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex76082023-09-13-14-26-49",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f46\u0f7c\u0f66\u0f0b\u0f51\u0f44\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f49\u0f72\u0f51\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f54\u0f62\u0f0b\u0f60\u0f56\u0fb1\u0f7a\u0f51\u0f0b\u0f54\u0f0b\u0f63\u0f9f\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f58\u0f7a\u0f0b\u0f63\u0f7c\u0f44",
+  "comments": "The same manuscript appears in [KUYBGM7V] and [LN3ETCGE].\r\n\r\nNo corresponding entry with the signature \"phyi tsha 46\" (which appears on the cover page) is found in [8H6M69W4]. [6TNNKSQ3] reports the signature \"phyi tsha 550.\"",
+  "alternative_names_legacy": "chos dang chos nyid rnam par 'byed pa lta ba'i me long (cover page)",
+  "alternative_names": [
+    {
+      "label": "chos dang chos nyid rnam par 'byed pa lta ba'i me long (cover page)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD153536_6C965F\r\nhttps://purl.bdrc.io/resource/MW3CN3014_B91FB3",
+  "review": true,
+  "start": null,
+  "name": "chos dang chos nyid rnam par 'byed pa lta ba'i me long",
+  "set_num": "Set 3",
+  "volume": "76",
+  "sb_text_number": "8",
+  "pp_kdsb": "461-472",
+  "num_folios": "6",
+  "signature_letter": "tsha",
+  "signature_number": "46",
+  "drepung_number": null,
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "LN3ETCGE",
+  "tibschol_ref": "3_076_08",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Script: dpe tshugs.\r\nAbundant abbreviations."
+}

@@ -1,0 +1,661 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+  "relations": [
+    {
+      "id": 398,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) student of gnyal zhig po 'jam pa'i rdo rje (3887)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
+        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 853 (dge bshes gtsang ba | dge bshes nyi ma | 'jam dbyangs gsar ma | rgyang ro gzhon rin | mnga' ris dgra bcom | nyi ma sbral nag gtsang pa drug po | mkhas btsun byang chub la sogs mkhas pa mang po dang |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2700,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) student of zhang ston chos kyi bla ma (3890)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3890/",
+        "label": "zhang ston chos kyi bla ma (3890)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "See [4LWBNM7B]: 118 contests this hypothesis.",
+      "confidence": "Negative",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4723,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) student of gtsang pa 'bre sgur (3872)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3872/",
+        "label": "gtsang pa 'bre sgur (3872)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LWBNM7B]: 120-121.",
+      "tei_refs": "ex47012024-12-1011-45-01",
+      "support_notes": "\"dPal ldan rtsang pa 'bre\" is referred to with the expression \"zhabs kyi rdul spyi bos len pa\" usually found for teachers in the colophon of work (ID:4791).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 4722,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) student of zhang tshe spong chos kyi bla ma (3805)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3805/",
+        "label": "zhang tshe spong chos kyi bla ma (3805)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LWBNM7B]: 120.",
+      "tei_refs": "ex47012024-12-1011-45-01",
+      "support_notes": "\"gNyal pa zhang tshes\" is referred to with the expression \"zhabs kyi rdul spyi bos len pa\" usually found for teachers in the colophon of work (ID:4791), but the chronology for such a relation is problematic.",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 4718,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) quotes without name rgya dmar ba byang chub grags (3834)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex47012025-04-2915-41-42\r\nex47012025-04-2915-54-49\r\nex47012026-03-0616-39-37\r\nex047012026-06-1706-08-03\r\nex47012026-04-0418-28-04",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 4721,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) quotes without name ngur smrig pa dar ma snying po (4291)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
+        "label": "ngur smrig pa dar ma snying po (4291)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex47012026-04-0417-17-07",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 2694,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) quotes without name rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LWBNM7B]. 13 citations in work (ID:4791).",
+      "tei_refs": "ex47012026-03-0616-16-11\r\nex47012026-03-0617-11-30\r\nex47012026-03-1612-44-04\r\nex47012026-03-1816-40-00\r\nex47012026-03-1817-02-03\r\nex47012026-03-2311-44-08\r\nex47012026-03-2413-13-36\r\nex47012026-03-2413-28-48\r\nex47012026-04-0419-22-00\r\nex47012026-04-0419-58-42\r\nex47012026-04-0421-44-21\r\nex47012026-04-0422-12-56\r\nex47012026-04-0422-28-03",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 2693,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) quotes without name phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LWBNM7B]. 16 citations in work (ID:4791).",
+      "tei_refs": "ex47012025-04-2915-35-58\r\nex47012026-03-0615-58-18\r\nex47012026-03-0617-04-08\r\nex47012026-03-1611-29-13\r\nex47012026-03-1611-42-21\r\nex47012026-03-1613-03-58\r\nex47012026-03-1615-00-08\r\nex47012026-03-1816-32-43\r\nex47012026-03-1816-47-55\r\nex47012026-03-2011-26-15\r\nex47012026-03-2413-47-24\r\nex47012026-04-0417-27-32\r\nex47012026-04-0418-14-59\r\nex47012026-04-0419-17-48\r\nex47012026-04-0419-31-42\r\nex47012026-04-0422-15-09",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 4720,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) quotes without name su rya thong po (4266)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4266/",
+        "label": "su rya thong po (4266)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex47012026-03-2311-52-21",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 2692,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) quotes without name gtsang nag pa brtson 'grus seng ge (3839)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LWBNM7B]. 19 citations in work (ID:4791).",
+      "tei_refs": "ex47012026-03-0313-58-02\r\nex47012026-03-0616-26-00\r\nex47012026-03-0314-24-44\r\nex47012026-03-0314-37-52\r\nex47012026-03-0616-54-32\r\nex47012026-03-1611-16-02\r\nex47012026-03-1611-34-33\r\nex47012026-03-1815-31-10\r\nex47012026-03-1816-25-54\r\nex47012026-03-1816-55-04\r\nex47012026-03-2011-05-48\r\nex47012026-03-2311-56-49\r\nex47012026-03-2413-40-24\r\nex47012026-03-2413-54-04\r\nex47012026-04-0418-10-35\r\nex47012026-04-0419-34-49\r\nex47012026-04-0419-55-55\r\nex47012026-04-0420-02-42\r\nex47012026-04-0422-06-43",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 2678,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) quotes without name dan bag pa smra ba'i seng ge (3840)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3840/",
+        "label": "dan bag pa smra ba'i seng ge (3840)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LWBNM7B]. 16 citations in work (ID:4791).",
+      "tei_refs": "ex47012025-04-215-39-40\r\nex47012026-03-1612-50-25\r\nex47012026-03-1613-11-57\r\nex47012026-03-1815-37-35\r\nex47012026-03-1814-51-59\r\nex47012026-03-1815-12-13\r\nex47012026-03-1815-18-34\r\nex47012026-03-1816-15-38\r\nex47012026-03-2310-47-35\r\nex47012026-03-2311-02-02\r\nex47012026-03-2412-33-58\r\nex47012026-03-2412-40-24\r\nex47012026-03-2413-40-24\r\nex47012026-04-0417-10-48\r\nex47012026-04-0418-18-57\r\nex47012026-04-0419-17-48\r\nex47012026-04-0422-45-49",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 7400,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) lineage predecessor of gro ston bdud rtsi grags (3880)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
+        "label": "gro ston bdud rtsi grags (3880)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex6604_2026-01-2622-06-17 (Bodhisattva lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52,
+        48
+      ]
+    },
+    {
+      "id": 4716,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) quotes without name gangs pa she'u blo gros byang chub (3810)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3810/",
+        "label": "gangs pa she'u blo gros byang chub (3810)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex47012025-04-2915-45-39\r\nex47012026-03-1612-36-49",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 754,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) author of yang dag rigs pa'i gsal byed sgron ma (4791)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4791/",
+        "label": "yang dag rigs pa'i gsal byed sgron ma (4791)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported in [8H6M69W4], No. 16412: shAkya'i dge slong rdo rje 'od zer",
+      "tei_refs": "ex47012024-12-1011-45-01\r\nex47012025-04-2915-51-18",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4719,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) quotes without name gnyags ye shes 'bar (4264)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4264/",
+        "label": "gnyags ye shes 'bar (4264)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex047012026-06-1707-37-09\r\nex047012026-06-1707-38-42\r\nex047012026-06-1707-41-16 (gnyags blo gros)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 4717,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) quotes without name me dig pa (4207)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4207/",
+        "label": "me dig pa (4207)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex47012026-03-1611-47-44",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 4715,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) quotes without name khyung rin chen grags (3809)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex47012025-04-2915-45-39\r\nex47012026-03-2311-56-49",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 2708,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) active at zhwa lu (4350)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4350/",
+        "label": "zhwa lu (4350)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[AT6DUUJJ]: 23-24. Introduced madhyamaka and tshad ma traditions into Zhwa lu.",
+      "tei_refs": "exXX0032026-02-1315-41-54",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5140,
+      "label": "bu ston seng ge 'od (1) (4314) quotes with name gtsang drug pa rdo rje 'od zer (4025)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4314/",
+        "label": "bu ston seng ge 'od (1) (4314)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex89022024-11-08-14-16\r\nex89022026-09-1604-49-50\r\nex89022026-09-1604-49-51\r\nex89022025-05-0510-59-31\r\nex89022024-11-08-14-212\r\nex89022025-11-08-14-27\r\nex89022026-09-1604-54-38\r\nex89022026-09-1604-54-39\r\nex89022026-09-1604-54-41\r\nex89022026-09-1604-54-42",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
+    },
+    {
+      "id": 7399,
+      "label": "nyang bran pa chos kyi ye shes (3876) lineage predecessor of gtsang drug pa rdo rje 'od zer (4025)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3876/",
+        "label": "nyang bran pa chos kyi ye shes (3876)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex6604_2026-01-2622-06-17 (Bodhicary\u0101vat\u0101ra lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        48,
+        13
+      ]
+    }
+  ],
+  "end_date_to": "1250-12-31",
+  "end_date_from": "1210-01-01",
+  "end_date_sort": "1230-07-02",
+  "start_date_to": "1200-12-31",
+  "start_date_from": "1150-01-01",
+  "start_date_sort": "1175-07-02",
+  "tibetan_transliteration": "\u0f42\u0f59\u0f44\u0f0b\u0f51\u0fb2\u0f74\u0f42\u0f0b\u0f54\u0f0b\u0f62\u0fa1\u0f7c\u0f0b\u0f62\u0f97\u0f7a\u0f0b\u0f60\u0f7c\u0f51\u0f0b\u0f5f\u0f7a\u0f62",
+  "comments": "Argued to be identical with  gNyal zhig's student gTsang pa gru gu in [4LWBNM7B]: 119-120.\r\n[TRKXLWLA]: 354 gives the dates ca. 1160-1240.",
+  "alternative_names_legacy": "gtsang drug rdo rje\r\ngtsang drug pa rdo rje 'od zer\r\ngtsang pa drug po\r\ngtsang pa gru gu\r\ngtsang drug\r\nnyi ma sbral nag gtsang pa drug po",
+  "alternative_names": [
+    {
+      "label": "gtsang drug rdo rje",
+      "language": "bo"
+    },
+    {
+      "label": "gtsang drug pa rdo rje 'od zer",
+      "language": "bo"
+    },
+    {
+      "label": "gtsang pa drug po",
+      "language": "bo"
+    },
+    {
+      "label": "gtsang pa gru gu",
+      "language": "bo"
+    },
+    {
+      "label": "gtsang drug",
+      "language": "bo"
+    },
+    {
+      "label": "nyi ma sbral nag gtsang pa drug po",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P3JT13459",
+  "review": false,
+  "start": "after 1150 before 1200",
+  "end": "after 1210 before 1250",
+  "name": "gtsang drug pa rdo rje 'od zer",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

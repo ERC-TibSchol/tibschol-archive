@@ -1,0 +1,235 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3853/",
+  "relations": [
+    {
+      "id": 112,
+      "label": "lho bran pa dar ma seng ge (3853) student of phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3853/",
+        "label": "lho bran pa dar ma seng ge (3853)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 406 ('gar dbang gru | kong po 'jag chung | lho ba sgog zan | bar phu ba dang bzhi la shes rab can bzhi zer |). Listed as one of the \"shes rab can mi bzhi.\"\r\n[VKBZTBWN]: 5a1. Listed as one of the \"shes rab can mi gsum\" together with rKong po 'jag chung and Par bu ba blo gros seng ge.\r\n[8GL7ZT7Y]: 15b4. Listed as one of the \"shes rab can gsum.\"",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "",
+      "end": "",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 138,
+      "label": "lho bran pa dar ma seng ge (3853) student of 'chad kha pa ye shes rdo rje (3874)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3853/",
+        "label": "lho bran pa dar ma seng ge (3853)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3874/",
+        "label": "'chad kha pa ye shes rdo rje (3874)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 1:38.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4349,
+      "label": "lho bran pa dar ma seng ge (3853) author of rnal 'byor spyod pa'i chos zin bris Tik chen (6918)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3853/",
+        "label": "lho bran pa dar ma seng ge (3853)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6918/",
+        "label": "rnal 'byor spyod pa'i chos zin bris Tik chen (6918)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8GL7ZT7Y]: 15b4-5 (phya pa\u2019i drung du rang lo bcu bdun pa la rab tu byung | lo de nyid la rnal \u2018byor spyod pa\u2019i chos rgya mtsho lta bu gsan ste | gsan pa de nyid zin bris su btab pa\u2019i Tik chen ding sang gi bar du yod pa).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4350,
+      "label": "lho bran pa dar ma seng ge (3853) active at dan bag gnas chung (6919)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3853/",
+        "label": "lho bran pa dar ma seng ge (3853)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6919/",
+        "label": "dan bag gnas chung (6919)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8GL7ZT7Y]: 15b5 (dan bag gnas chung dang | ngan lam tshul chen du bshad grwa btsugs |). Founded a monastic college there.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4351,
+      "label": "lho bran pa dar ma seng ge (3853) active at ngan lam tshul chen (6920)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3853/",
+        "label": "lho bran pa dar ma seng ge (3853)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6920/",
+        "label": "ngan lam tshul chen (6920)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8GL7ZT7Y]: 15b5 (dan bag gnas chung dang | ngan lam tshul chen du bshad grwa btsugs |). Founded a monastic college there.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3943,
+      "label": "phywa pa chos kyi seng ge (3831) ordinator of lho bran pa dar ma seng ge (3853)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3853/",
+        "label": "lho bran pa dar ma seng ge (3853)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[8GL7ZT7Y]: 15b4 (shes rab can gcig ni lho bran pa dar ma seng ste | phya pa\u02bei drung du rang lo bcu bdun pa la rab tu byung |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1116",
+      "end": "after 1116"
+    }
+  ],
+  "end_date_to": "1230-12-31",
+  "end_date_from": "1119-01-01",
+  "end_date_sort": "1174-12-31",
+  "start_date_to": "1159-12-31",
+  "start_date_from": "1100-01-01",
+  "start_date_sort": "1129-12-31",
+  "tibetan_transliteration": "\u0f63\u0fb7\u0f7c\u0f0b\u0f56\u0fb2\u0f53\u0f0b\u0f54\u0f0b\u0f51\u0f62\u0f0b\u0f58\u0f0b\u0f66\u0f7a\u0f44\u0f0b\u0f42\u0f7a",
+  "comments": "Listed in the group of Phya pa (ID:3831)'s students called \"the four wise ones\" (shes rab can mi bzhi), comprising 'Gar dBang grub (ID:3851), Khong po 'Jag chung (ID:3852), lHo pa sGog zan (ID:3853), and sPar phu ba (ID:3854), and among \"the three wise ones\" (shes rab can mi gsum), comprising Khong po 'Jag chung (ID:3852), lHo pa sGog zan (ID:3853), and sPar phu ba (ID:3854).\r\n\r\ngSer mdog Pa\u1e47 chen gives the alternative name of sGom gzan \"lho pa thams cad mkhyen pa\" in [8GL7ZT7Y]: 15b4 and the same and \"lho pa dha r[m]a seng\" in [VKBZTBWN]: 5a1. Based on the latter, [E8PSX9S8]: 11, n. 16 considers that he is the same person as Sa skya pa\u1e47\u1e0dita's student Lho pa kun mkhyen rin chen dpal (ID:5463).",
+  "alternative_names_legacy": "lho pa thams cad mkhyen pa\r\nlho pa dha rma seng\r\nd+ha r+ma seng\r\nlho pa dha ra seng\r\nlho pa sgog gzan\r\nlho pa sgog zam \r\nlho pa sgog zan\r\nlho pa sgom zam\r\nlho ba sgog zan\r\nkun mkhyen rin chen dpal",
+  "alternative_names": [
+    {
+      "label": "lho pa thams cad mkhyen pa",
+      "language": "bo"
+    },
+    {
+      "label": "lho pa dha rma seng",
+      "language": "bo"
+    },
+    {
+      "label": "d+ha r+ma seng",
+      "language": "bo"
+    },
+    {
+      "label": "lho pa dha ra seng",
+      "language": "bo"
+    },
+    {
+      "label": "lho pa sgog gzan",
+      "language": "bo"
+    },
+    {
+      "label": "lho pa sgog zam",
+      "language": "bo"
+    },
+    {
+      "label": "lho pa sgog zan",
+      "language": "bo"
+    },
+    {
+      "label": "lho pa sgom zam",
+      "language": "bo"
+    },
+    {
+      "label": "lho ba sgog zan",
+      "language": "bo"
+    },
+    {
+      "label": "kun mkhyen rin chen dpal",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P3828",
+  "review": false,
+  "start": "after 1100 before 1159",
+  "end": "after 1119 before 1230",
+  "name": "lho bran pa dar ma seng ge",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

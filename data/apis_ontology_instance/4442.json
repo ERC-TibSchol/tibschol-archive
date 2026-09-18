@@ -1,0 +1,95 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4442/",
+  "relations": [
+    {
+      "id": 1268,
+      "label": "rigs thigs 'grel pa'i don bsdus (4443) has as an instance rigs thigs 'grel pa'i don bsdus (1) (4442)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4443/",
+        "label": "rigs thigs 'grel pa'i don bsdus (4443)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4442/",
+        "label": "rigs thigs 'grel pa'i don bsdus (1) (4442)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2458,
+      "label": "rigs thigs 'grel pa'i don bsdus (2) (6119) has source rigs thigs 'grel pa'i don bsdus (1) (4442)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6119/",
+        "label": "rigs thigs 'grel pa'i don bsdus (2) (6119)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4442/",
+        "label": "rigs thigs 'grel pa'i don bsdus (1) (4442)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f50\u0f72\u0f42\u0f66\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f56\u0f66\u0fa1\u0f74\u0f66 \u0f3c\u0f21\u0f3d",
+  "comments": "Manuscript formerly preserved in gNas bcu lha khang, then relocated to rGyal rtse dpal 'khor chos sde ([S635TW6P]: 47).",
+  "alternative_names_legacy": "mtshan nyid kyi chos (cover page)\r\nbam po lnga pa'i bshad pa (colophon)",
+  "alternative_names": [
+    {
+      "label": "mtshan nyid kyi chos (cover page)",
+      "language": "bo"
+    },
+    {
+      "label": "bam po lnga pa'i bshad pa (colophon)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_925F97\r\nhttps://purl.bdrc.io/resource/MW3CN3014_8E11A6",
+  "review": true,
+  "start": null,
+  "name": "rigs thigs 'grel pa'i don bsdus (1)",
+  "set_num": "Set 1",
+  "volume": "1",
+  "sb_text_number": "12",
+  "pp_kdsb": "369-409",
+  "num_folios": "21",
+  "signature_letter": "zha",
+  "signature_number": "21",
+  "drepung_number": "16371",
+  "provenance": "'bras spungs gnas bcu lha khang\r\nrgyal rtse dpal 'khor chos sde",
+  "zotero_ref": "[PLYTWAVE]",
+  "tibschol_ref": "1_001_12",
+  "availability": "available",
+  "dimension": "64.5 x 9.8",
+  "item_description": "Script: 'bru tsha.\r\nLines per folio: 8; 5 on fol. 21a.\r\nNumbering of folios in letters on the recto.\r\nFolio number on cover page: gcig.\r\nFolio number on last folio: nyes gcig bzhugs so.\r\nSome interlinear notes, long insertion/gloss on fol. 1b7.\r\nOrthography: \r\n- Palatalization of m (e.g., myi, myed)\r\n- Particle pa/ba takes the form ba after final \u2013n and pa after final \u2013ng and final -l\r\n- Particle kyi/gyi/gi takes the form kyi after final \u2013n and final -l\r\n- Particle tu/du takes the form du after final \u2013b and final -g\r\n- Bindu for final -m\r\n- Reverse i (e.g. at the end of 1b7)\r\n- lastsogs pa, la rtsogs pa and lasogs pa for la sogs pa\r\n- the tsom for the tshom\r\n- bstan chos for bstan bcos\r\n- log par rtogs pa for log par rtog pa\r\n- Superabundant \u2019a rjes \u2019jug (e.g., mtho\u2019 ris, dpe\u2019)\r\n- Additional b- prefix (e.g., bsgrub byed)\r\n- A few abbreviations (e.g., for thabs su, sems can and with final particles)\r\n- Alternative prefix \u2019a- for m- (e.g., \u2019jug bsdu for mjug bsdu)\r\n- Use of numerals for numbers"
+}

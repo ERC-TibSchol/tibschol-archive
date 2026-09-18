@@ -1,0 +1,349 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3890/",
+  "relations": [
+    {
+      "id": 2699,
+      "label": "zhang ston chos kyi bla ma (3890) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3890/",
+        "label": "zhang ston chos kyi bla ma (3890)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1241-12-31",
+      "end_date_from": "1241-01-01",
+      "end_date_sort": "1241-07-02",
+      "start_date_to": "1232-12-31",
+      "start_date_from": "1232-01-01",
+      "start_date_sort": "1232-07-01",
+      "zotero_refs": "[4TBERVZD]: 118. Abbot from 1232 to 1241.",
+      "tei_refs": "",
+      "support_notes": "Fifth abbot of sNar thang, after Gro ston bdud rtsi grags (ID:3880), for 10 years.",
+      "confidence": "Positive",
+      "start": "1232",
+      "end": "1241",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4174,
+      "label": "zhang ston chos kyi bla ma (3890) biographed in zhang ston chos kyi bla ma'i rnam thar (4884)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3890/",
+        "label": "zhang ston chos kyi bla ma (3890)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4884/",
+        "label": "zhang ston chos kyi bla ma'i rnam thar (4884)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6111,
+      "label": "zhang ston chos kyi bla ma (3890) lineage predecessor of mchims nam mkha' grags (3977)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3890/",
+        "label": "zhang ston chos kyi bla ma (3890)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 25-26, based on Ngag dbang blo bzang rgya mtsho, Ngor chen, \u015a\u0101kya mchog ldan. Lineage of pr\u0101sa\u1e45gika Madhyamaka, from Pa tshab (ID:3868) to, maybe, rMa bya Byang ye (ID:6204), rMa bya Byang brtson (ID:3842), mTshur gZhon nu seng ge (ID:4315), rMa bya Sh\u0101kya seng ge (ID:7536), Zhang Chos kyi bla ma (ID:3890), mChims Nam mkha' grags (ID:3977), bCom ldan Rig ral (ID:4006), lo ts\u0101 ba mChog ldan Legs pa'i blo gros.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 7462,
+      "label": "zhang ston chos kyi bla ma (3890) lineage predecessor of sangs rgyas sgom pa seng ge skyabs (3976)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3890/",
+        "label": "zhang ston chos kyi bla ma (3890)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3976/",
+        "label": "sangs rgyas sgom pa seng ge skyabs (3976)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex107012026-07-0809-23-39 (Stages of the Path Lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
+    },
+    {
+      "id": 152,
+      "label": "'jam gsar ba shes rab 'od zer (3884) student of zhang ston chos kyi bla ma (3890)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
+        "label": "'jam gsar ba shes rab 'od zer (3884)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3890/",
+        "label": "zhang ston chos kyi bla ma (3890)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[S635TW6P]: 78. 'Jam gsar learned Asa\u1e45ga's Sa sde lnga from Zhang ston.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 264,
+      "label": "mchims nam mkha' grags (3977) student of zhang ston chos kyi bla ma (3890)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3890/",
+        "label": "zhang ston chos kyi bla ma (3890)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[6TNNKSQ3]: 33.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        57
+      ]
+    },
+    {
+      "id": 360,
+      "label": "sangs 'od pa (4157) student of zhang ston chos kyi bla ma (3890)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4157/",
+        "label": "sangs 'od pa (4157)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3890/",
+        "label": "zhang ston chos kyi bla ma (3890)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2700,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) student of zhang ston chos kyi bla ma (3890)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3890/",
+        "label": "zhang ston chos kyi bla ma (3890)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "See [4LWBNM7B]: 118 contests this hypothesis.",
+      "confidence": "Negative",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4668,
+      "label": "mchims nam mkha' grags (3977) biographer of zhang ston chos kyi bla ma (3890)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3890/",
+        "label": "zhang ston chos kyi bla ma (3890)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: 215.",
+      "tei_refs": "",
+      "support_notes": "Work (ID:4884).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6110,
+      "label": "rma bya shAkya seng ge (7536) lineage predecessor of zhang ston chos kyi bla ma (3890)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7536/",
+        "label": "rma bya shAkya seng ge (7536)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3890/",
+        "label": "zhang ston chos kyi bla ma (3890)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 25-26, based on Ngag dbang blo bzang rgya mtsho, Ngor chen, \u015a\u0101kya mchog ldan. Lineage of pr\u0101sa\u1e45gika Madhyamaka, from Pa tshab (ID:3868) to, maybe, rMa bya Byang ye (ID:6204), rMa bya Byang brtson (ID:3842), mTshur gZhon nu seng ge (ID:4315), rMa bya Sh\u0101kya seng ge (ID:7536), Zhang Chos kyi bla ma (ID:3890), mChims Nam mkha' grags (ID:3977), bCom ldan Rig ral (ID:4006), lo ts\u0101 ba mChog ldan Legs pa'i blo gros.\r\n[ABYM2GP5]: 26, n. 33. Lineage of Tsong kha pa (ID:5636) for the M\u016blamadhyamakak\u0101rik\u0101 (ID:3715) with the Prasannapad\u0101 (ID:3724) according to his gsan yig: Pa tshab (ID:3868), rMa bya Byang ye (ID:6204), rMa bya Byang brtson (ID:3842), mTshur gZhon nu seng ge (ID:4315), rMa bya Sh\u0101kya seng ge (ID:7536), mKhan chen Zhang pa (ID:3890), sKyo ston pa, Slob dpon dGe 'bar, Mi g.yo bzhang po, Rin po che Kun rgyal, Tsong kha pa (ID:5636).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 7461,
+      "label": "gro ston bdud rtsi grags (3880) lineage predecessor of zhang ston chos kyi bla ma (3890)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
+        "label": "gro ston bdud rtsi grags (3880)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3890/",
+        "label": "zhang ston chos kyi bla ma (3890)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex107012026-07-0809-23-39 (Stages of the Path Lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
+    }
+  ],
+  "end_date_to": "1241-12-31",
+  "end_date_from": "1241-01-01",
+  "end_date_sort": "1241-07-02",
+  "start_date_to": "1184-12-31",
+  "start_date_from": "1184-01-01",
+  "start_date_sort": "1184-07-01",
+  "tibetan_transliteration": "\u0f5e\u0f44\u0f0b\u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f56\u0fb3\u0f0b\u0f58",
+  "comments": "Fifth abbot of sNar thang monastery.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "https://purl.bdrc.io/resource/P3998",
+  "review": false,
+  "start": "1184",
+  "end": "1241",
+  "name": "zhang ston chos kyi bla ma",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

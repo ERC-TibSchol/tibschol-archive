@@ -1,0 +1,172 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6380/",
+  "relations": [
+    {
+      "id": 2989,
+      "label": "ngur smrig (6380) located within gtsang (5915)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6380/",
+        "label": "ngur smrig (6380)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
+        "label": "gtsang (5915)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2990,
+      "label": "ngur smrig pa dar ma snying po (4291) active at ngur smrig (6380)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
+        "label": "ngur smrig pa dar ma snying po (4291)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6380/",
+        "label": "ngur smrig (6380)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CJ75QQKN]: 339 (fol. 170a2) (de nas rong ngur smrig tu brang ti dar ma snying po zhes bya ba'i drung du dgung lo bcu gsam pas mngon pa tshar gcig gis thugs su chud par mdzad nas bshad pa yang mdzad pa yin no |). Teaching of Abhidharma to Sa chen (ID:4205).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 3314,
+      "label": "'bre shes rab 'bar (3807) active at ngur smrig (6380)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6380/",
+        "label": "ngur smrig (6380)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 542-543, n. 55. Possibly the place of ordination of 'Bre (ID:3807) by rGya 'Dul 'dzin (ID:3941).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3316,
+      "label": "rgya 'dul 'dzin brtson 'grus 'bar (4193) active at ngur smrig (6380)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4193/",
+        "label": "rgya 'dul 'dzin brtson 'grus 'bar (4193)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6380/",
+        "label": "ngur smrig (6380)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 542-543, n. 55. Possibly the place of ordination of 'Bre (ID:3807) by rGya 'Dul 'dzin (ID:4193).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5515,
+      "label": "sa chen kun dga' snying po (4205) active at ngur smrig (6380)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4205/",
+        "label": "sa chen kun dga' snying po (4205)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6380/",
+        "label": "ngur smrig (6380)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a1) (de nas rong ngur smrig tu brang ti dar ma snying po zhes bya ba'i drung du dgung lo bcu gsam pas mngon pa tshar gcig gis thugs su chud par mdzad nas bshad pa yang mdzad pa yin no |). Study with Brang ti (ID:4291) and exposition of Abhidharma.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "latitude": null,
+  "longitude": null,
+  "feature_code": "",
+  "tibetan_transliteration": "\u0f44\u0f74\u0f62\u0f0b\u0f66\u0fa8\u0fb2\u0f72\u0f42",
+  "comments": "",
+  "alternative_names_legacy": "rong ngur smrig",
+  "alternative_names": [
+    {
+      "label": "rong ngur smrig",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/G2CN11074",
+  "review": false,
+  "label": "ngur smrig",
+  "start": null
+}

@@ -1,0 +1,79 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7933/",
+  "relations": [
+    {
+      "id": 6897,
+      "label": "theg pa chen po rgyud bla ma'i 'grel pa (7933) commentary on ratnagotravibh\u0101ga (3749)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7933/",
+        "label": "theg pa chen po rgyud bla ma'i 'grel pa (7933)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
+        "label": "ratnagotravibh\u0101ga (3749)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6898,
+      "label": "gung ru rgyal mtshan bzang po (7096) author of theg pa chen po rgyud bla ma'i 'grel pa (7933)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7096/",
+        "label": "gung ru rgyal mtshan bzang po (7096)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7933/",
+        "label": "theg pa chen po rgyud bla ma'i 'grel pa (7933)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 410.",
+      "tei_refs": "",
+      "support_notes": "[ENNZCF55]: 67 instead equates \"phag grus rgyal mtshan bzang po\" with Phag mo gru pa rDo rje rgyal po (ID:3856).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1450-12-31",
+  "start_date_from": "1393-01-01",
+  "start_date_sort": "1422-01-01",
+  "tibetan_transliteration": "\u0f50\u0f7a\u0f42\u0f0b\u0f54\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f54\u0f7c\u0f0b\u0f62\u0f92\u0fb1\u0f74\u0f51\u0f0b\u0f56\u0fb3\u0f0b\u0f58\u0f60\u0f72\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f54",
+  "comments": "[ENNZCF55]: 70 reports that a 53-folio manuscript is listed in the dGe lugs Collected Works catalogue and preserved at the Potala Library.\r\nSee also [BAQ9MH4T]: 410 and n. 28. Possibly part of rGyal mtshan bzang po gsung 'bum, vol. 1, Potala collection.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "after 1393 before 1450",
+  "name": "theg pa chen po rgyud bla ma'i 'grel pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/10/",
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/56/"
+  ]
+}

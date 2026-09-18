@@ -1,0 +1,79 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6580/",
+  "relations": [
+    {
+      "id": 3489,
+      "label": "rgyud bla ma'i Tik+ka (6580) commentary on ratnagotravibh\u0101ga (3749)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6580/",
+        "label": "rgyud bla ma'i Tik+ka (6580)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
+        "label": "ratnagotravibh\u0101ga (3749)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3490,
+      "label": "zhang tshe spong chos kyi bla ma (3805) author of rgyud bla ma'i Tik+ka (6580)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3805/",
+        "label": "zhang tshe spong chos kyi bla ma (3805)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6580/",
+        "label": "rgyud bla ma'i Tik+ka (6580)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 523, No. 11333.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1141-12-31",
+  "start_date_from": "1051-01-01",
+  "start_date_sort": "1096-07-01",
+  "tibetan_transliteration": "\u0f62\u0f92\u0fb1\u0f74\u0f51\u0f0b\u0f56\u0fb3\u0f0b\u0f58\u0f60\u0f72\u0f0b\u0f4a\u0f72\u0f40\u0f90",
+  "comments": "Mentioned by 'Gos lo tsA ba (ID:5839) and listed in A khu ching Shes rab rgya mtsho's Tho yig ([5RXEUKD9]: 523, No. 11333: zhang tshe spong pa chos kyi bla ma [...] mdzad pa'i rgyud bla ma'i Tik+ka). \r\nSee [ENNZCF55]: 66 and Kano [BAQ9MH4T]: 408.\r\n\r\nAccording to 'Gos lo tsA ba, this commentary was based on rNgog Blo ldan shes rab's small commentary (ID:4441). See [7V8MZYAI]: 4 (rngog gis rgyud bla ma'i 'grel pa la TI kA chung yang mdzad cing | de la brten nas gro lung pa dang | zhang tshes kyis kyang TI kA mdzad de |).",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": true,
+  "start": "after 1051 before 1141",
+  "name": "rgyud bla ma'i Tik+ka",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/10/",
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/56/"
+  ]
+}

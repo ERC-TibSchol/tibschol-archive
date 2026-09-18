@@ -1,0 +1,85 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6151/",
+  "relations": [
+    {
+      "id": 3900,
+      "label": "ram pa lha sdings (6151) located within stod lung (4358)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6151/",
+        "label": "ram pa lha sdings (6151)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4358/",
+        "label": "stod lung (4358)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 165, n. 418.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2509,
+      "label": "rnam par ba (6147) active at ram pa lha sdings (6151)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6147/",
+        "label": "rnam par ba (6147)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6151/",
+        "label": "ram pa lha sdings (6151)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 389 (rnam par bas ni rnam par dang ram pa lha sdings btab). Founder of Ram pa lha sdings.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": "1100-01-01",
+  "start_date_sort": "1100-01-01",
+  "latitude": null,
+  "longitude": null,
+  "feature_code": "",
+  "tibetan_transliteration": "\u0f62\u0f58\u0f0b\u0f54\u0f0b\u0f63\u0fb7\u0f0b\u0f66\u0fa1\u0f72\u0f44\u0f66",
+  "comments": "Its abbatial succession is in part identical with that of Zlu phu (ID:6492) ([CCSBSVCA]: 694, n. 2**).",
+  "alternative_names_legacy": "stod lung ram pa lha sdings\r\nlha gdengs",
+  "alternative_names": [
+    {
+      "label": "stod lung ram pa lha sdings",
+      "language": "bo"
+    },
+    {
+      "label": "lha gdengs",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "label": "ram pa lha sdings",
+  "start": "after 1100"
+}

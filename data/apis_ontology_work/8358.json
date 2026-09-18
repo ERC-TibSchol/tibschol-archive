@@ -1,0 +1,106 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8358/",
+  "relations": [
+    {
+      "id": 7567,
+      "label": "dbu ma rgyan gyi don legs par bsdus pa (8358) has as an instance dbu ma rgyan gyi don legs par bsdus pa (8357)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8358/",
+        "label": "dbu ma rgyan gyi don legs par bsdus pa (8358)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8357/",
+        "label": "dbu ma rgyan gyi don legs par bsdus pa (8357)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7568,
+      "label": "dbu ma rgyan gyi don legs par bsdus pa (8358) commentary on madhyamak\u0101la\u1e43k\u0101ra (3731)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8358/",
+        "label": "dbu ma rgyan gyi don legs par bsdus pa (8358)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3731/",
+        "label": "madhyamak\u0101la\u1e43k\u0101ra (3731)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7569,
+      "label": "rtsegs dbang phyug seng ge (4289) author of dbu ma rgyan gyi don legs par bsdus pa (8358)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4289/",
+        "label": "rtsegs dbang phyug seng ge (4289)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8358/",
+        "label": "dbu ma rgyan gyi don legs par bsdus pa (8358)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:8357) in [8H6M69W4]: 1394, No. 15727: rigs par smra ba dge slong dbang phyug seng ge.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f51\u0f56\u0f74\u0f0b\u0f58\u0f0b\u0f62\u0f92\u0fb1\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f63\u0f7a\u0f42\u0f66\u0f0b\u0f54\u0f62\u0f0b\u0f56\u0f66\u0fa1\u0f74\u0f66\u0f0b\u0f54",
+  "comments": "In view of the number of folios, likely a topical outline of the Madhyamak\u0101la\u1e43k\u0101ra (ID:3731). \r\nAs the manuscript (ID:8357) was in the same bundle as Phya pa (ID:3831)'s commentary on the work (ID:4483), it is possible that the author was Phya pa's student rTsegs dbang phyug seng ge (ID:4289).",
+  "alternative_names_legacy": "",
+  "alternative_names": [],
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "name": "dbu ma rgyan gyi don legs par bsdus pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}
