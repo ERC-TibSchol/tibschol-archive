@@ -145,7 +145,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[TZC3JQWE]: 352.",
-      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)",
+      "tei_refs": "ex57012026-04-0710-35-35 (Abhidharmasamuccaya lineage)\r\nex8001_2024-11-1408-36-05 (Abhidharmasamuccaya lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -391,7 +391,7 @@
       "zotero_refs": "",
       "tei_refs": "ex054022026-02-1913-16-12",
       "support_notes": "",
-      "confidence": "Positive",
+      "confidence": "Uncertain",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
@@ -513,12 +513,15 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex023012026-09-1803-45-44",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
     },
     {
       "id": 459,
@@ -660,12 +663,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex081012026-09-1804-28-10",
       "support_notes": "",
-      "confidence": "Uncertain",
+      "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        17
+      ]
     },
     {
       "id": 3699,
@@ -759,35 +764,6 @@
       ]
     },
     {
-      "id": 5209,
-      "label": "'jad pa gzhon nu byang chub (3863) quotes with name ngur smrig pa dar ma snying po (4291)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3863/",
-        "label": "'jad pa gzhon nu byang chub (3863)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
-        "label": "ngur smrig pa dar ma snying po (4291)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 5155,
       "label": "Anonymous (14) (7170) quotes with name ngur smrig pa dar ma snying po (4291)",
       "subj": {
@@ -809,7 +785,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex080012026-09-1102-50-08\r\nex080012026-09-1103-05-13",
+      "tei_refs": "ex080012026-09-1102-50-08\r\nex080012026-09-1103-05-13\r\nex080012026-09-1804-24-19",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -840,12 +816,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex083012026-09-1804-30-19\r\nex083012026-09-1804-30-20",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        17
+      ]
     },
     {
       "id": 5212,
@@ -874,7 +852,9 @@
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        17
+      ]
     },
     {
       "id": 448,
