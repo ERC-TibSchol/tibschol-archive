@@ -1151,12 +1151,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex13112025-10-1013-55-10",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 5343,
@@ -1210,11 +1212,13 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "In Pham byed, as \"jo btsun\" and as \"khyung rin chen grags.\"",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 3301,
@@ -1243,6 +1247,38 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 8051,
+      "label": "'jam gsar ba shes rab 'od zer (3884) quotes with name khyung rin chen grags (3809)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
+        "label": "'jam gsar ba shes rab 'od zer (3884)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex014022026-09-2202-26-35\r\nex014022026-09-2202-38-16",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
     },
     {
       "id": 57,
@@ -1297,13 +1333,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[VA4UYHER]. Over 45 citations.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 2767,
@@ -1327,7 +1365,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[MGPRHX73]: 66. 11 references in (ID: 4750), 34 references in (ID: 5507).",
-      "tei_refs": "exX0022024-11-01-14-11\r\nexX0022026-05-2102-42-35\r\nexX0022026-05-2102-42-42\r\nexX0022026-05-2103-12-21\r\nex40012024-10-25-13-07 (reference to his followers)\r\nex040012026-09-1601-48-35",
+      "tei_refs": "exX0022024-11-01-14-11\r\nexX0022026-09-2204-38-11\r\nexX0022026-09-2204-38-12\r\nexX0022026-09-2204-38-13\r\nexX0022026-09-2205-17-19\r\nexX0022026-05-2103-12-23\r\nexX0022026-09-2205-17-42\r\nexX0022026-05-2103-12-21\r\nexX0022026-05-2102-42-35\r\nexX0022026-09-2205-18-08\r\nexX0022026-09-2205-18-09\r\nexX0022026-09-2205-18-10\r\nexX0022026-09-2205-18-11\r\nexX0022026-09-2205-18-12\r\nexX0022026-09-2204-53-53\r\nexX0022026-09-2204-53-54\r\nexX0022026-09-2204-53-55\r\nexX0022026-09-2204-53-56\r\nexX0022026-09-2204-53-57\r\nexX0022026-09-2204-53-58\r\nexX0022026-09-2204-53-59\r\nexX0022026-09-2204-53-60\r\nexX0022026-09-2204-53-61\r\nexX0022026-05-2102-42-42\r\nexX0022026-09-2205-18-13\r\nexX0022026-09-2205-18-14\r\nexX0022026-05-2102-42-45\r\nexX0022026-05-2102-42-46\r\nexX0022026-05-2102-42-47\r\nexX0022026-05-2102-42-48\r\nexX0022026-05-2102-42-49\r\nexX0022026-05-2102-42-50\r\nexX0022026-05-2102-42-51\r\nexX0022026-05-2102-42-52\r\nexX0022026-05-2103-12-21\r\nex40012026-09-1012-52-02\r\nex40012024-10-25-13-07 (reference to his followers)\r\nex040012026-09-2203-10-42\r\nex040012026-09-1004-05-25\r\nex040012026-09-2203-13-27\r\nex040012026-09-1601-48-35\r\nex040012026-09-1601-48-36\r\nex040012026-09-1601-48-37\r\nex040012026-09-1601-48-38\r\nex040012026-09-1601-48-39\r\nex040012026-09-1601-48-40\r\nex040012026-09-1601-48-41",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -1359,12 +1397,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex081012026-09-2204-27-20",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        17
+      ]
     },
     {
       "id": 5718,
@@ -1518,8 +1558,8 @@
       ]
     },
     {
-      "id": 5198,
-      "label": "khu mdo sde 'bar (3873) quotes without name khyung rin chen grags (3809)",
+      "id": 8054,
+      "label": "khu mdo sde 'bar (3873) quotes with name khyung rin chen grags (3809)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3873/",
         "label": "khu mdo sde 'bar (3873)",
@@ -1539,12 +1579,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
+      "tei_refs": "ex64012023-05-1212-15-57\r\nex64012023-05-1212-18-59\r\nex64012023-05-1211-43-52",
+      "support_notes": "Referred to as \"slang pha ba\"/\"slang ba\"/\"slang pa ba\", which is argued to be Khyung in [WL39GVT5]: 940.",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 6978,
@@ -1569,6 +1611,37 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "exX0232026-03-2015-33-21",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 8050,
+      "label": "gtsang nag pa brtson 'grus seng ge (3839) quotes without name khyung rin chen grags (3809)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex013012026-09-1502-47-32",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -1606,6 +1679,38 @@
       "end": null,
       "subject_of_teaching_vocab": [
         9
+      ]
+    },
+    {
+      "id": 8052,
+      "label": "shes rab mtha' can (3918) quotes with name khyung rin chen grags (3809)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3918/",
+        "label": "shes rab mtha' can (3918)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex023012026-09-2202-50-38\r\nex023012026-09-2202-50-39\r\nex023012026-09-1501-08-55",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
       ]
     }
   ],

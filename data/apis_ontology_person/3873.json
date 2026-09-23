@@ -148,6 +148,37 @@
       ]
     },
     {
+      "id": 8054,
+      "label": "khu mdo sde 'bar (3873) quotes with name khyung rin chen grags (3809)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3873/",
+        "label": "khu mdo sde 'bar (3873)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex64012023-05-1212-15-57\r\nex64012023-05-1212-18-59\r\nex64012023-05-1211-43-52",
+      "support_notes": "Referred to as \"slang pha ba\"/\"slang ba\"/\"slang pa ba\", which is argued to be Khyung in [WL39GVT5]: 940.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
       "id": 5196,
       "label": "khu mdo sde 'bar (3873) quotes with name nag tsho tshul khrims rgyal ba (6340)",
       "subj": {
@@ -159,35 +190,6 @@
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6340/",
         "label": "nag tsho tshul khrims rgyal ba (6340)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 5198,
-      "label": "khu mdo sde 'bar (3873) quotes without name khyung rin chen grags (3809)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3873/",
-        "label": "khu mdo sde 'bar (3873)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
-        "label": "khyung rin chen grags (3809)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -410,6 +412,37 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 8055,
+      "label": "btsun pa 'khon ston (5865) quotes with name khu mdo sde 'bar (3873)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5865/",
+        "label": "btsun pa 'khon ston (5865)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3873/",
+        "label": "khu mdo sde 'bar (3873)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex081012026-09-2204-27-19",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
     }
   ],
   "end_date_to": "1200-12-31",
