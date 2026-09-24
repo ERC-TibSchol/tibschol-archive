@@ -92,7 +92,7 @@
     },
     {
       "id": 7413,
-      "label": "'dul 'dzin dkar mo (3820) lineage predecessor of dkar chung ba gzhon nu tshul khrims (3821)",
+      "label": "'dul 'dzin dkar mo (3820) lineage predecessor of dkar chung ring mo (3821)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3820/",
         "label": "'dul 'dzin dkar mo (3820)",
@@ -101,7 +101,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3821/",
-        "label": "dkar chung ba gzhon nu tshul khrims (3821)",
+        "label": "dkar chung ring mo (3821)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -153,10 +153,10 @@
     },
     {
       "id": 2752,
-      "label": "dkar chung ba gzhon nu tshul khrims (3821) student of 'dul 'dzin dkar mo (3820)",
+      "label": "dkar chung ring mo (3821) student of 'dul 'dzin dkar mo (3820)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3821/",
-        "label": "dkar chung ba gzhon nu tshul khrims (3821)",
+        "label": "dkar chung ring mo (3821)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -230,7 +230,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[MGPRHX73]: 57 (reporting the assertions of the editors of [ZZVAXS4X] derived from \u015a\u0101kya mchog ldan's [VKBZTBWN]).",
+      "zotero_refs": "[MGPRHX73]: 57, n. 24.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -321,12 +321,15 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex71042024-11-08-15-34\r\nex71042024-11-08-16-31\r\nex71042026-09-2305-08-30\r\nex71042026-09-2305-12-39\r\nex071042026-09-2305-27-54\r\nex071042026-09-2305-27-57\r\nex071042026-09-2305-45-30\r\nex071042026-09-2305-54-17\r\nex71042026-09-2305-59-24",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
     },
     {
       "id": 5746,
@@ -350,12 +353,13 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[4LWBNM7B]: 121.",
-      "tei_refs": "ex14022024-10-21-16-10\r\nex014022026-02-2412-14-39",
+      "tei_refs": "ex014022026-09-2303-06-58\r\nex014022026-09-2303-06-59\r\nex014022026-09-2303-21-57\r\nex014022026-02-2412-14-39\r\nex14022024-10-21-15-39\r\nex014022026-09-2303-32-16\r\nex14022024-10-21-16-10\r\nex014022026-09-2303-37-52\r\nex014022026-09-2303-28-02",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
+        56,
         7
       ]
     },
@@ -386,7 +390,10 @@
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
     },
     {
       "id": 5265,
@@ -410,12 +417,15 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex012012026-09-2304-30-51",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
     },
     {
       "id": 5186,
@@ -439,22 +449,25 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex70032024-10-17-14-33",
+      "tei_refs": "ex70032024-10-17-14-33\r\nex070032026-09-2304-43-28\r\nex070032026-09-2305-02-34\r\nex70032026-09-2305-05-51",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
     }
   ],
-  "end_date_to": null,
-  "end_date_from": null,
-  "end_date_sort": null,
-  "start_date_to": "1200-12-31",
-  "start_date_from": null,
-  "start_date_sort": "1200-12-31",
+  "end_date_to": "1249-12-31",
+  "end_date_from": "1129-01-01",
+  "end_date_sort": "1189-07-02",
+  "start_date_to": "1159-12-31",
+  "start_date_from": "1069-01-01",
+  "start_date_sort": "1114-07-02",
   "tibetan_transliteration": "\u0f60\u0f51\u0f74\u0f63\u0f0b\u0f60\u0f5b\u0f72\u0f53\u0f0b\u0f51\u0f40\u0f62\u0f0b\u0f58\u0f7c",
-  "comments": "Identical with gZhon nu tshul khrims (ID:3821) according to [MGPRHX73]: 58, n. 24.",
+  "comments": "[MGPRHX73]: 58, n. 24 cites an 18th century work that argues that \"gzhon nu tshul khrims\" is the real name of 'Dul 'dzin dkar mo (ID:3820) and \"shes rab 'bum\" that of his student dKar chung ring mo (ID:3821).",
   "alternative_names_legacy": "gzhon nu tshul khrims\r\ngzhon nu tshul 'khrims",
   "alternative_names": [
     {
@@ -464,12 +477,16 @@
     {
       "label": "gzhon nu tshul 'khrims",
       "language": "bo"
+    },
+    {
+      "label": "bsam yas pa 'dul kar",
+      "language": "bo"
     }
   ],
   "external_links": "https://purl.bdrc.io/resource/P0RK982",
   "review": false,
-  "start": "before 1200",
-  "end": null,
+  "start": "after 1069 before 1159",
+  "end": "after 1129 before 1249",
   "name": "'dul 'dzin dkar mo",
   "gender": "male",
   "nationality": "Tibetan"
