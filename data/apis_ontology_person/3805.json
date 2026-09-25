@@ -429,7 +429,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex89022024-11-08-14-12 (dmyal pa)\r\nex89022024-11-08-14-27 (gnyal pa)\r\nex89022025-05-0511-33-00 (gnyal pa)\r\nex89022025-05-0511-36-05 (gnyal pa)",
+      "tei_refs": "ex89022024-11-08-14-12 (dmyal pa)\r\nex89022025-05-0511-33-00 (gnyal pa)\r\nex89022024-11-08-14-27 (gnyal pa)\r\nex89022025-05-0511-36-05 (gnyal pa)",
       "support_notes": "\"dmyal/gnyal\" is tentatively identified as Zhang tshe spong.",
       "confidence": "Uncertain",
       "start": null,
@@ -579,12 +579,15 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex14022024-10-21-15-34",
+      "tei_refs": "ex14022024-10-21-15-34\r\nex014022026-09-2405-06-47\r\nex014022026-09-2404-54-17\r\nex014022026-09-2404-54-19\r\nex014022026-09-2404-54-20",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
     },
     {
       "id": 5276,
@@ -707,6 +710,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 8059,
+      "label": "dar ma dkon mchog (5510) quotes with name zhang tshe spong chos kyi bla ma (3805)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5510/",
+        "label": "dar ma dkon mchog (5510)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3805/",
+        "label": "zhang tshe spong chos kyi bla ma (3805)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "exX0022024-11-01-14-51",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 4777,

@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/35/",
   "xml_id": "ex2022023-10-13-110745",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex2022023-10-13-110745\" status=\"finalized\"><milestone unit=\"section\" n=\"Title and signature (1a) - Top margin\"/><pb n=\"1a\"/><lb n=\"1a1\"/>\n         <note type=\"gloss\"><rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:4453\">sher snying gi rgya cher 'grel</rs></note>  <note type=\"gloss\">la <l>588</l></note></seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex2022023-10-13-110745\" status=\"finalized\"><milestone unit=\"section\" n=\"Title and signature (1a) - Top margin\"/><pb n=\"1a\"/><lb edRef=\"inst:4452\" n=\"1a1\"/>\n         <note type=\"gloss\"><rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:4453\">sher snying gi rgya cher 'grel</rs></note>  <note type=\"gloss\">la <l>588</l></note></seg></TEI>",
   "source": "1_002_02 Ar_sher phyin rgya grel.xml",
   "tibschol_refs": "1_002_02",
   "zotero_refs": "",
   "status": "finalized",
-  "location": "1a1"
+  "location": "inst:4452: 1a1"
 }
