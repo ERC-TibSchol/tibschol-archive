@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6646/",
   "relations": [
     {
-      "id": 3641,
-      "label": "shong ston lo tsA ba rdo rje rgyal mtshan (6646) author of tshad ma bsdus pa (6647)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6646/",
-        "label": "shong ston lo tsA ba rdo rje rgyal mtshan (6646)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6647/",
-        "label": "tshad ma bsdus pa (6647)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 141.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 5951,
       "label": "shong ston lo tsA ba rdo rje rgyal mtshan (6646) student of stag sde pa seng ge rgyal mtshan (4127)",
       "subj": {
@@ -61,19 +33,19 @@
       ]
     },
     {
-      "id": 3639,
-      "label": "bu ston rin chen grub (5999) student of shong ston lo tsA ba rdo rje rgyal mtshan (6646)",
+      "id": 3641,
+      "label": "shong ston lo tsA ba rdo rje rgyal mtshan (6646) author of tshad ma bsdus pa (6647)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5999/",
-        "label": "bu ston rin chen grub (5999)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6646/",
         "label": "shong ston lo tsA ba rdo rje rgyal mtshan (6646)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6647/",
+        "label": "tshad ma bsdus pa (6647)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -81,13 +53,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[FEHIEFEB]: 141.",
       "tei_refs": "",
-      "support_notes": "BDRC",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 3640,
@@ -113,6 +84,35 @@
       "zotero_refs": "[FEHIEFEB]: 141, 163.",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3639,
+      "label": "bu ston rin chen grub (5999) student of shong ston lo tsA ba rdo rje rgyal mtshan (6646)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5999/",
+        "label": "bu ston rin chen grub (5999)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6646/",
+        "label": "shong ston lo tsA ba rdo rje rgyal mtshan (6646)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BDRC",
       "confidence": "Positive",
       "start": null,
       "end": null,

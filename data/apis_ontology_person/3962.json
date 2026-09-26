@@ -2,65 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3962/",
   "relations": [
     {
-      "id": 207,
-      "label": "'dar tshul khrims rgyal po (3962) student of skye bo tshul 'phags (3963)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3962/",
-        "label": "'dar tshul khrims rgyal po (3962)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3963/",
-        "label": "skye bo tshul 'phags (3963)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 111 (des [tshul 'phags] ne'u ru bshad pa mdzad pas bu chen stod 'dar cho ba 'dar tshul khrims rgyal po).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        8
-      ]
-    },
-    {
-      "id": 702,
-      "label": "'dar tshul khrims rgyal po (3962) author of so sor thar pa'i rnam bshad (4698)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3962/",
-        "label": "'dar tshul khrims rgyal po (3962)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4698/",
-        "label": "so sor thar pa'i rnam bshad (4698)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex034012026-04-1405-33-41",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 704,
       "label": "'dar tshul khrims rgyal po (3962) author of sum brgya ba'i TIk+ka (4700)",
       "subj": {
@@ -116,6 +57,65 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 702,
+      "label": "'dar tshul khrims rgyal po (3962) author of so sor thar pa'i rnam bshad (4698)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3962/",
+        "label": "'dar tshul khrims rgyal po (3962)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4698/",
+        "label": "so sor thar pa'i rnam bshad (4698)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex034012026-04-1405-33-41",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 207,
+      "label": "'dar tshul khrims rgyal po (3962) student of skye bo tshul 'phags (3963)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3962/",
+        "label": "'dar tshul khrims rgyal po (3962)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3963/",
+        "label": "skye bo tshul 'phags (3963)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 111 (des [tshul 'phags] ne'u ru bshad pa mdzad pas bu chen stod 'dar cho ba 'dar tshul khrims rgyal po).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
     },
     {
       "id": 208,

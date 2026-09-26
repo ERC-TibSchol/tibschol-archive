@@ -2,6 +2,63 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6486/",
   "relations": [
     {
+      "id": 4200,
+      "label": "rgwa lo tsa ba gzhon nu dpal (6486) student of bya 'dul 'dzin brtson 'grus 'bar (3818)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6486/",
+        "label": "rgwa lo tsa ba gzhon nu dpal (6486)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W4T5ZMUP]: 168.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5489,
+      "label": "rgwa lo tsa ba gzhon nu dpal (6486) translator of bya rog gi legs nyes brtag thabs kyi man ngag (7258)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6486/",
+        "label": "rgwa lo tsa ba gzhon nu dpal (6486)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7258/",
+        "label": "bya rog gi legs nyes brtag thabs kyi man ngag (7258)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3541,
       "label": "rgwa lo tsa ba gzhon nu dpal (6486) student of dge bshes mi nyag pa (6606)",
       "subj": {
@@ -64,35 +121,6 @@
       ]
     },
     {
-      "id": 4200,
-      "label": "rgwa lo tsa ba gzhon nu dpal (6486) student of bya 'dul 'dzin brtson 'grus 'bar (3818)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6486/",
-        "label": "rgwa lo tsa ba gzhon nu dpal (6486)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
-        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[W4T5ZMUP]: 168.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 5380,
       "label": "rgwa lo tsa ba gzhon nu dpal (6486) active at rgyal lha khang (4343)",
       "subj": {
@@ -114,63 +142,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[I58Z22ET]: 409, n. 42, based on Dus gsum mkhyen pa'i rnam thar in Si tu Chos kyi 'byung gnas's Karma kam tshang gser 'phreng (de'i tshe 'phan yul rgyal lha khang du dpal rga lo dang | khams pa a seng bzhugs pa la dus 'khor sbyor drug dang | mgon po bya rog ma la sogs pa'i bskyed rdzogs kyi gdams pa mang du gsan |).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 5489,
-      "label": "rgwa lo tsa ba gzhon nu dpal (6486) translator of bya rog gi legs nyes brtag thabs kyi man ngag (7258)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6486/",
-        "label": "rgwa lo tsa ba gzhon nu dpal (6486)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7258/",
-        "label": "bya rog gi legs nyes brtag thabs kyi man ngag (7258)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 3228,
-      "label": "zhang g.yu brag brtson 'grus grags pa (6409) student of rgwa lo tsa ba gzhon nu dpal (6486)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6409/",
-        "label": "zhang g.yu brag brtson 'grus grags pa (6409)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6486/",
-        "label": "rgwa lo tsa ba gzhon nu dpal (6486)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Y6NGTTC6]: 306.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -229,6 +200,35 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[Y6NGTTC6]: 306.\r\n[I58Z22ET]: 408-409, n. 42, based on Dus gsum mkhyen pa'i rnam thar in Si tu Chos kyi 'byung gnas's Karma kam tshang gser 'phreng (de'i tshe 'phan yul rgyal lha khang du dpal rga lo dang | khams pa a seng bzhugs pa la dus 'khor sbyor drug dang | mgon po bya rog ma la sogs pa'i bskyed rdzogs kyi gdams pa mang du gsan |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3228,
+      "label": "zhang g.yu brag brtson 'grus grags pa (6409) student of rgwa lo tsa ba gzhon nu dpal (6486)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6409/",
+        "label": "zhang g.yu brag brtson 'grus grags pa (6409)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6486/",
+        "label": "rgwa lo tsa ba gzhon nu dpal (6486)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Y6NGTTC6]: 306.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

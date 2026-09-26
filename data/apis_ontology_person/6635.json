@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6635/",
   "relations": [
     {
-      "id": 3609,
-      "label": "darma 'od zer (6635) active at brag ram (5572)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6635/",
-        "label": "darma 'od zer (6635)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5572/",
-        "label": "brag ram (5572)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 134. Taught Thugs rje brtson 'grus (ID: 3905) the writings of Dharmottara and Praj\u00f1\u0101karagupta. Successor of Bo dong rin po che to the abbatial throne.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3610,
       "label": "darma 'od zer (6635) student of bo dong rin po che brtson 'grus rdo rje (4296)",
       "subj": {
@@ -52,6 +23,35 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[FEHIEFEB]: 134.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3609,
+      "label": "darma 'od zer (6635) active at brag ram (5572)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6635/",
+        "label": "darma 'od zer (6635)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5572/",
+        "label": "brag ram (5572)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 134. Taught Thugs rje brtson 'grus (ID: 3905) the writings of Dharmottara and Praj\u00f1\u0101karagupta. Successor of Bo dong rin po che to the abbatial throne.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -91,35 +91,6 @@
       ]
     },
     {
-      "id": 6568,
-      "label": "tshad ma'i skyes bu bsod nams mgon (6925) student of darma 'od zer (6635)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
-        "label": "tshad ma'i skyes bu bsod nams mgon (6925)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6635/",
-        "label": "darma 'od zer (6635)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CTAI38G9]: 925. According to Bu ston's gsan yig.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 6827,
       "label": "bu ston rin chen grub (5999) student of darma 'od zer (6635)",
       "subj": {
@@ -141,6 +112,35 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[CTAI38G9]: 925 (according to Bu ston's gsan yig).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6568,
+      "label": "tshad ma'i skyes bu bsod nams mgon (6925) student of darma 'od zer (6635)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6925/",
+        "label": "tshad ma'i skyes bu bsod nams mgon (6925)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6635/",
+        "label": "darma 'od zer (6635)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CTAI38G9]: 925. According to Bu ston's gsan yig.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

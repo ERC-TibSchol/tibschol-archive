@@ -329,66 +329,6 @@
       ]
     },
     {
-      "id": 3538,
-      "label": "nor bu bzang po (6604) student of btsun pa ston gzhon (5942)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6604/",
-        "label": "nor bu bzang po (6604)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5942/",
-        "label": "btsun pa ston gzhon (5942)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 118. It is not certain this is the same \"ston gzhon,\" mentioned in a a gloss in a work of Ngag dbang chos grags.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3664,
-      "label": "mi nyag sangs rgyas rin chen (6658) requests btsun pa ston gzhon (5942)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6658/",
-        "label": "mi nyag sangs rgyas rin chen (6658)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5942/",
-        "label": "btsun pa ston gzhon (5942)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 165. Requested to compose (ID:5943).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
       "id": 3666,
       "label": "chos kyi brtson 'grus (1) (6659) requests btsun pa ston gzhon (5942)",
       "subj": {
@@ -444,6 +384,66 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3664,
+      "label": "mi nyag sangs rgyas rin chen (6658) requests btsun pa ston gzhon (5942)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6658/",
+        "label": "mi nyag sangs rgyas rin chen (6658)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5942/",
+        "label": "btsun pa ston gzhon (5942)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 165. Requested to compose (ID:5943).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 3538,
+      "label": "nor bu bzang po (6604) student of btsun pa ston gzhon (5942)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6604/",
+        "label": "nor bu bzang po (6604)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5942/",
+        "label": "btsun pa ston gzhon (5942)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 118. It is not certain this is the same \"ston gzhon,\" mentioned in a a gloss in a work of Ngag dbang chos grags.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []

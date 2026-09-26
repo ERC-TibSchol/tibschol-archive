@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4831/",
   "relations": [
     {
-      "id": 778,
-      "label": "dbu ma 'jug pa'i dka' gnad (4831) commentary on madhyamak\u0101vat\u0101ra (3726)",
+      "id": 1448,
+      "label": "dbu ma 'jug pa'i dka' gnad (4831) has as an instance dbu ma 'jug pa'i dka' gnad (4830)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4831/",
         "label": "dbu ma 'jug pa'i dka' gnad (4831)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3726/",
-        "label": "madhyamak\u0101vat\u0101ra (3726)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4830/",
+        "label": "dbu ma 'jug pa'i dka' gnad (4830)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1448,
-      "label": "dbu ma 'jug pa'i dka' gnad (4831) has as an instance dbu ma 'jug pa'i dka' gnad (4830)",
+      "id": 778,
+      "label": "dbu ma 'jug pa'i dka' gnad (4831) commentary on madhyamak\u0101vat\u0101ra (3726)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4831/",
         "label": "dbu ma 'jug pa'i dka' gnad (4831)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4830/",
-        "label": "dbu ma 'jug pa'i dka' gnad (4830)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3726/",
+        "label": "madhyamak\u0101vat\u0101ra (3726)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,

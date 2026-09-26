@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6262/",
   "relations": [
     {
-      "id": 2810,
-      "label": "sthiramati (6262) author of madhy\u0101ntavibh\u0101ga\u1e6d\u012bk\u0101 (6261)",
+      "id": 4622,
+      "label": "sthiramati (6262) author of s\u016btr\u0101la\u1e43k\u0101rav\u1e5bttibh\u0101\u1e63ya (7002)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6262/",
         "label": "sthiramati (6262)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6261/",
-        "label": "madhy\u0101ntavibh\u0101ga\u1e6d\u012bk\u0101 (6261)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7002/",
+        "label": "s\u016btr\u0101la\u1e43k\u0101rav\u1e5bttibh\u0101\u1e63ya (7002)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 4168,
-      "label": "sthiramati (6262) author of pa\u00f1caskandhaprakara\u1e47avibh\u0101\u1e63\u0101 (6815)",
+      "id": 4618,
+      "label": "sthiramati (6262) author of tattv\u0101rth\u0101 abhidharmako\u015ba\u1e6d\u012bk\u0101 (7000)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6262/",
         "label": "sthiramati (6262)",
@@ -39,8 +39,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6815/",
-        "label": "pa\u00f1caskandhaprakara\u1e47avibh\u0101\u1e63\u0101 (6815)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7000/",
+        "label": "tattv\u0101rth\u0101 abhidharmako\u015ba\u1e6d\u012bk\u0101 (7000)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -91,8 +91,8 @@
       ]
     },
     {
-      "id": 4618,
-      "label": "sthiramati (6262) author of tattv\u0101rth\u0101 abhidharmako\u015ba\u1e6d\u012bk\u0101 (7000)",
+      "id": 2810,
+      "label": "sthiramati (6262) author of madhy\u0101ntavibh\u0101ga\u1e6d\u012bk\u0101 (6261)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6262/",
         "label": "sthiramati (6262)",
@@ -100,8 +100,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7000/",
-        "label": "tattv\u0101rth\u0101 abhidharmako\u015ba\u1e6d\u012bk\u0101 (7000)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6261/",
+        "label": "madhy\u0101ntavibh\u0101ga\u1e6d\u012bk\u0101 (6261)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -147,34 +147,6 @@
       "end": null
     },
     {
-      "id": 4622,
-      "label": "sthiramati (6262) author of s\u016btr\u0101la\u1e43k\u0101rav\u1e5bttibh\u0101\u1e63ya (7002)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6262/",
-        "label": "sthiramati (6262)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7002/",
-        "label": "s\u016btr\u0101la\u1e43k\u0101rav\u1e5bttibh\u0101\u1e63ya (7002)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 7301,
       "label": "sthiramati (6262) student of vasubandhu (3758)",
       "subj": {
@@ -202,6 +174,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4168,
+      "label": "sthiramati (6262) author of pa\u00f1caskandhaprakara\u1e47avibh\u0101\u1e63\u0101 (6815)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6262/",
+        "label": "sthiramati (6262)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6815/",
+        "label": "pa\u00f1caskandhaprakara\u1e47avibh\u0101\u1e63\u0101 (6815)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 4555,

@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5762/",
   "relations": [
     {
-      "id": 2211,
-      "label": "byang chub lam gyi sgron ma'i 'grel pa lam mchog gsum byed (5381) composed at dben pa'i gnas dgon gsar rin chen gdungs (5762)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5381/",
-        "label": "byang chub lam gyi sgron ma'i 'grel pa lam mchog gsum byed (5381)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5762/",
-        "label": "dben pa'i gnas dgon gsar rin chen gdungs (5762)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2212,
       "label": "ram ston rgyal mtshan (4110) active at dben pa'i gnas dgon gsar rin chen gdungs (5762)",
       "subj": {
@@ -57,6 +29,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2211,
+      "label": "byang chub lam gyi sgron ma'i 'grel pa lam mchog gsum byed (5381) composed at dben pa'i gnas dgon gsar rin chen gdungs (5762)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5381/",
+        "label": "byang chub lam gyi sgron ma'i 'grel pa lam mchog gsum byed (5381)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5762/",
+        "label": "dben pa'i gnas dgon gsar rin chen gdungs (5762)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "start_date_to": null,

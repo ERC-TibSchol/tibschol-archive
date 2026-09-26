@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6655/",
   "relations": [
     {
-      "id": 3660,
-      "label": "me'i lhang tshe (6655) active at g.yu rtse 'byid phu (6656)",
+      "id": 3812,
+      "label": "me'i lhang tshe (6655) student of rngog blo ldan shes rab (3786)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6655/",
         "label": "me'i lhang tshe (6655)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6656/",
-        "label": "g.yu rtse 'byid phu (6656)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,16 +22,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a3) (de nas yang grom pa g.yu rtse 'byid phur dge bshes me'i lhang tsher zhes bya ba las tshad ma rnam par nges pa dang | rig thigs kyi rgya cher 'grel pa bam po bco lnga pa dang | dbu ma rang rgyud shar gsum du grags pa dang bcas pa gsan cing khong du chud par mdzad pa yin no ||). Taught Sa chen (ID:4205) in Grom pa g.Yu rtse 'byid phur.\r\n[FEHIEFEB]: 157. Taught epistemology to Sa chen (ID:4205).",
-      "tei_refs": "",
+      "zotero_refs": "[KHFQ2XU4]: 742 (gangs pa she'u | gong bu rwa can | sham po me dig | me lhang tsher | dmar sga lang | rngog skya po | kre bo mchog bla sogs mang du byon | lam rim yang mdzad cing |)\r\n[BAQ9MH4T]: 197. Based on the sketch of rNgog's life by Las chen Kun dga' rgyal mtshan (ID:4115).",
+      "tei_refs": "exX0032026-09-0112-04-52",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": [
-        9,
-        13
-      ]
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 3661,
@@ -90,8 +87,8 @@
       "end": null
     },
     {
-      "id": 3812,
-      "label": "me'i lhang tshe (6655) student of rngog blo ldan shes rab (3786)",
+      "id": 3660,
+      "label": "me'i lhang tshe (6655) active at g.yu rtse 'byid phu (6656)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6655/",
         "label": "me'i lhang tshe (6655)",
@@ -99,10 +96,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
-        "label": "rngog blo ldan shes rab (3786)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6656/",
+        "label": "g.yu rtse 'byid phu (6656)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -110,13 +107,16 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[KHFQ2XU4]: 742 (gangs pa she'u | gong bu rwa can | sham po me dig | me lhang tsher | dmar sga lang | rngog skya po | kre bo mchog bla sogs mang du byon | lam rim yang mdzad cing |)\r\n[BAQ9MH4T]: 197. Based on the sketch of rNgog's life by Las chen Kun dga' rgyal mtshan (ID:4115).",
-      "tei_refs": "exX0032026-09-0112-04-52",
+      "zotero_refs": "[CJ75QQKN]: 339 (fol. 8a/170a3) (de nas yang grom pa g.yu rtse 'byid phur dge bshes me'i lhang tsher zhes bya ba las tshad ma rnam par nges pa dang | rig thigs kyi rgya cher 'grel pa bam po bco lnga pa dang | dbu ma rang rgyud shar gsum du grags pa dang bcas pa gsan cing khong du chud par mdzad pa yin no ||). Taught Sa chen (ID:4205) in Grom pa g.Yu rtse 'byid phur.\r\n[FEHIEFEB]: 157. Taught epistemology to Sa chen (ID:4205).",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9,
+        13
+      ]
     },
     {
       "id": 6084,
@@ -148,6 +148,37 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 5208,
+      "label": "'jad pa gzhon nu byang chub (3863) quotes with name me'i lhang tshe (6655)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3863/",
+        "label": "'jad pa gzhon nu byang chub (3863)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6655/",
+        "label": "me'i lhang tshe (6655)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex040012026-09-0112-22-19",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
       "id": 3657,
       "label": "sa chen kun dga' snying po (4205) student of me'i lhang tshe (6655)",
       "subj": {
@@ -177,37 +208,6 @@
       "subject_of_teaching_vocab": [
         9,
         13
-      ]
-    },
-    {
-      "id": 5208,
-      "label": "'jad pa gzhon nu byang chub (3863) quotes with name me'i lhang tshe (6655)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3863/",
-        "label": "'jad pa gzhon nu byang chub (3863)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6655/",
-        "label": "me'i lhang tshe (6655)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex040012026-09-0112-22-19",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
       ]
     },
     {

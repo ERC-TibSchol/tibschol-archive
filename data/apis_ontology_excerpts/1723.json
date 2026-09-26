@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/1723/",
   "xml_id": "exX0032026-03-0217-06-55",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"exX0032026-03-0217-06-55\" status=\"unreviewed\">yang <rs type=\"person\" ana=\"corpusmd:unnamed_reference\" ref=\"db:3786\">kha 1</rs> <note type=\"gloss\"><rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3786\">lo</rs></note> na re sgrub bya'i chos kyis non na de dang\n               <lb n=\"55a4\"/>ldan pa yino zhes zer ba yang ma yin te | tshandg mang gi gzhi kun ste | mes non yang tshogs pa 1 pa'i steng mes ma non pa rnams mi mthun phyogs su thal la | </seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"exX0032026-03-0217-06-55\" status=\"unreviewed\">yang <rs type=\"person\" ana=\"corpusmd:unnamed_reference\" ref=\"db:3786\">kha 1</rs> <note type=\"gloss\"><rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3786\">lo</rs></note> na re sgrub bya'i chos kyis non na de dang\n               <lb edRef=\"inst:5508\" n=\"55a4\"/>ldan pa yino zhes zer ba yang ma yin te | tshandg mang gi gzhi kun ste | mes non yang tshogs pa 1 pa'i steng mes ma non pa rnams mi mthun phyogs su thal la | </seg></TEI>",
   "source": "X_003_Dar ma dkon mchog summary.xml",
   "tibschol_refs": "X_003",
   "zotero_refs": "",
   "status": "unreviewed",
-  "location": "55a3 - 55a4"
+  "location": "inst:5508: 55a3 - 55a4"
 }

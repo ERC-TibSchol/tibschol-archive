@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
   "relations": [
     {
-      "id": 2558,
-      "label": "gsang phu gling stod (6172) located within gsang phu ne'u thog (4332)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
-        "label": "gsang phu gling stod (6172)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
-        "label": "gsang phu ne'u thog (4332)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 3280,
       "label": "gsang phu gling stod (6172) located within gsang phu ne'u thog gi gtsug lag khang (6173)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2558,
+      "label": "gsang phu gling stod (6172) located within gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
+        "label": "gsang phu gling stod (6172)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

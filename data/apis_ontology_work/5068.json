@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5068/",
   "relations": [
     {
-      "id": 1551,
-      "label": "jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5068) has as an instance jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5067)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5068/",
-        "label": "jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5068)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5067/",
-        "label": "jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5067)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2872,
       "label": "jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5068) composed at dngul chu'i chos rdzong (5692)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "Place of composition of the 2nd text (spyan ras gzigs la bstod pa) and of composition and scribing of the 5th text (bsnyen rdzogs kyi mkhan rgyud la bston pa) in the compilation according to the colophons in (ID:5067). (3b2-3): ma Ni pa thogs med kyis dngul chu'i chos rdzong du sbyar ba'o ||. (7a1): chos smra ba'i btsun pa thogs med kyis dngul chu'i chos rdzong du bkod pa'i ye ge pa ni 'byam dbyangs dkar po'o ||)",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1551,
+      "label": "jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5068) has as an instance jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5067)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5068/",
+        "label": "jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5068)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5067/",
+        "label": "jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5067)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

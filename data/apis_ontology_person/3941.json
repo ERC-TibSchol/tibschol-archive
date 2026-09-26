@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3941/",
   "relations": [
     {
-      "id": 3424,
-      "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941) author of 'dul ba rgyas (6543)",
+      "id": 7841,
+      "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941) student of yol chos kyi dbang phyug (3812)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3941/",
         "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6543/",
-        "label": "'dul ba rgyas (6543)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3812/",
+        "label": "yol chos kyi dbang phyug (3812)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,12 +22,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[5RXEUKD9]: 536, No. 11707.",
+      "zotero_refs": "[Q922IUFM]: 1: 98.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 3425,
@@ -120,6 +121,34 @@
       ]
     },
     {
+      "id": 3424,
+      "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941) author of 'dul ba rgyas (6543)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3941/",
+        "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6543/",
+        "label": "'dul ba rgyas (6543)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 536, No. 11707.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 6970,
       "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941) active at pa rnam dga' gdong (7961)",
       "subj": {
@@ -141,35 +170,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[CCSBSVCA]: 662.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 7841,
-      "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941) student of yol chos kyi dbang phyug (3812)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3941/",
-        "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3812/",
-        "label": "yol chos kyi dbang phyug (3812)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Q922IUFM]: 1: 98.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

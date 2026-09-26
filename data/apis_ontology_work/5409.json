@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5409/",
   "relations": [
     {
-      "id": 1122,
-      "label": "dkon mchog gsum la skyabs su 'gro ba'i sgo nas de yi bslab bya (5409) commentary on bodhipathaprad\u012bpa (3744)",
+      "id": 2213,
+      "label": "dkon mchog gsum la skyabs su 'gro ba'i sgo nas de yi bslab bya (5409) composed at dpal byams chen gyi gnas (5722)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5409/",
         "label": "dkon mchog gsum la skyabs su 'gro ba'i sgo nas de yi bslab bya (5409)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3744/",
-        "label": "bodhipathaprad\u012bpa (3744)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5722/",
+        "label": "dpal byams chen gyi gnas (5722)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -58,8 +58,8 @@
       "end": null
     },
     {
-      "id": 2213,
-      "label": "dkon mchog gsum la skyabs su 'gro ba'i sgo nas de yi bslab bya (5409) composed at dpal byams chen gyi gnas (5722)",
+      "id": 1122,
+      "label": "dkon mchog gsum la skyabs su 'gro ba'i sgo nas de yi bslab bya (5409) commentary on bodhipathaprad\u012bpa (3744)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5409/",
         "label": "dkon mchog gsum la skyabs su 'gro ba'i sgo nas de yi bslab bya (5409)",
@@ -67,10 +67,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5722/",
-        "label": "dpal byams chen gyi gnas (5722)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3744/",
+        "label": "bodhipathaprad\u012bpa (3744)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,

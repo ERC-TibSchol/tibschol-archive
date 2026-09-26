@@ -2,13 +2,13 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4423/",
   "relations": [
     {
-      "id": 1260,
-      "label": "rab tu gnas par byed pa don gsal ba (4424) has as an instance rab tu gnas par byed pa don gsal (1) (4423)",
+      "id": 2659,
+      "label": "rab tu gnas par byed pa don gsal (2) (6214) has source rab tu gnas par byed pa don gsal (1) (4423)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4424/",
-        "label": "rab tu gnas par byed pa don gsal ba (4424)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6214/",
+        "label": "rab tu gnas par byed pa don gsal (2) (6214)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4423/",
@@ -22,9 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "xml:id=\"ex1022023-03-271212\"",
-      "support_notes": "",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -58,13 +58,13 @@
       "end": null
     },
     {
-      "id": 2659,
-      "label": "rab tu gnas par byed pa don gsal (2) (6214) has source rab tu gnas par byed pa don gsal (1) (4423)",
+      "id": 1260,
+      "label": "rab tu gnas par byed pa don gsal ba (4424) has as an instance rab tu gnas par byed pa don gsal (1) (4423)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6214/",
-        "label": "rab tu gnas par byed pa don gsal (2) (6214)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4424/",
+        "label": "rab tu gnas par byed pa don gsal ba (4424)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4423/",
@@ -78,9 +78,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "xml:id=\"ex1022023-03-271212\"",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

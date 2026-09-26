@@ -128,38 +128,6 @@
       ]
     },
     {
-      "id": 7061,
-      "label": "mkhas mchog dul ba'i sde (7905) lineage predecessor of bhadantavimuktisena (5548)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7905/",
-        "label": "mkhas mchog dul ba'i sde (7905)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5548/",
-        "label": "bhadantavimuktisena (5548)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex52052024-10-1815-08-34 (Perfection of Wisdom)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        56,
-        7
-      ]
-    },
-    {
       "id": 7292,
       "label": "\u0101ryavimuktisena (3708) lineage predecessor of bhadantavimuktisena (5548)",
       "subj": {
@@ -191,6 +159,38 @@
         56,
         7,
         26
+      ]
+    },
+    {
+      "id": 7061,
+      "label": "mkhas mchog dul ba'i sde (7905) lineage predecessor of bhadantavimuktisena (5548)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7905/",
+        "label": "mkhas mchog dul ba'i sde (7905)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5548/",
+        "label": "bhadantavimuktisena (5548)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex52052024-10-1815-08-34 (Perfection of Wisdom)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
       ]
     }
   ],

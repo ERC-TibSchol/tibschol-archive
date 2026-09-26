@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6441/",
   "relations": [
     {
-      "id": 3120,
-      "label": "chos kyi dbang phyug (6441) active at gnas rnying (4341)",
+      "id": 3562,
+      "label": "chos kyi dbang phyug (6441) studies pram\u0101\u1e47av\u0101rttika (3772)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6441/",
         "label": "chos kyi dbang phyug (6441)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4341/",
-        "label": "gnas rnying (4341)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,13 +22,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[4LDAV8UH]: 98. Abbot until his death in 1247.",
+      "zotero_refs": "[FEHIEFEB]: 124. Studied with D\u0101na\u015b\u012bla (ID: 6032).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "1241",
-      "end": "1241",
-      "subject_of_teaching_vocab": []
+      "start": null,
+      "end": null
     },
     {
       "id": 3561,
@@ -62,34 +61,6 @@
       ]
     },
     {
-      "id": 3562,
-      "label": "chos kyi dbang phyug (6441) studies pram\u0101\u1e47av\u0101rttika (3772)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6441/",
-        "label": "chos kyi dbang phyug (6441)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
-        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 124. Studied with D\u0101na\u015b\u012bla (ID: 6032).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 3850,
       "label": "chos kyi dbang phyug (6441) ordinator of 'phags pa blo gros rgyal mtshan (5838)",
       "subj": {
@@ -116,6 +87,35 @@
       "confidence": "Positive",
       "start": "1244",
       "end": "1244"
+    },
+    {
+      "id": 3120,
+      "label": "chos kyi dbang phyug (6441) active at gnas rnying (4341)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6441/",
+        "label": "chos kyi dbang phyug (6441)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4341/",
+        "label": "gnas rnying (4341)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 98. Abbot until his death in 1247.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1241",
+      "end": "1241",
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1247-12-31",

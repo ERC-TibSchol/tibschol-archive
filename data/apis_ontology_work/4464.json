@@ -2,62 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4464/",
   "relations": [
     {
-      "id": 551,
-      "label": "brgyad stong 'grel chen gyi bshad pa (4464) commentary on abhisamay\u0101la\u1e43k\u0101r\u0101lok\u0101 (3709)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4464/",
-        "label": "brgyad stong 'grel chen gyi bshad pa (4464)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3709/",
-        "label": "abhisamay\u0101la\u1e43k\u0101r\u0101lok\u0101 (3709)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 1277,
-      "label": "brgyad stong 'grel chen gyi bshad pa (4464) has as an instance brgyad stong 'grel chen gyi bshad pa (4463)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4464/",
-        "label": "brgyad stong 'grel chen gyi bshad pa (4464)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4463/",
-        "label": "brgyad stong 'grel chen gyi bshad pa (4463)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2451,
       "label": "brgyad stong 'grel chen gyi bshad pa (4464) records the teaching of rngog blo ldan shes rab (3786)",
       "subj": {
@@ -71,6 +15,34 @@
         "label": "rngog blo ldan shes rab (3786)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 551,
+      "label": "brgyad stong 'grel chen gyi bshad pa (4464) commentary on abhisamay\u0101la\u1e43k\u0101r\u0101lok\u0101 (3709)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4464/",
+        "label": "brgyad stong 'grel chen gyi bshad pa (4464)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3709/",
+        "label": "abhisamay\u0101la\u1e43k\u0101r\u0101lok\u0101 (3709)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -109,6 +81,34 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1277,
+      "label": "brgyad stong 'grel chen gyi bshad pa (4464) has as an instance brgyad stong 'grel chen gyi bshad pa (4463)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4464/",
+        "label": "brgyad stong 'grel chen gyi bshad pa (4464)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4463/",
+        "label": "brgyad stong 'grel chen gyi bshad pa (4463)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

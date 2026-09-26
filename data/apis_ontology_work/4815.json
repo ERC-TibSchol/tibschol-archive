@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4815/",
   "relations": [
     {
+      "id": 5481,
+      "label": "zas 'go gcod thabs (4815) records the teaching of mchims nam mkha' grags (3977)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4815/",
+        "label": "zas 'go gcod thabs (4815)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Colophon of (ID:7250), fol. 68a4-5: bla ma dam pa yang dag pa'i dge ba'i bshes gnyen mkhan po chen po mchims thams cad mkhyen pa'i gsung las byon pa'i chos spyod nar ma rnams \u00a6 btsun pa bsod nams bzang po bdag gis rang gzhan gyi don du zin bris su bgyis pa'o ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1440,
       "label": "zas 'go gcod thabs (4815) has as an instance zas 'go gcod thabs (4814)",
       "subj": {
@@ -53,34 +81,6 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 5481,
-      "label": "zas 'go gcod thabs (4815) records the teaching of mchims nam mkha' grags (3977)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4815/",
-        "label": "zas 'go gcod thabs (4815)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
-        "label": "mchims nam mkha' grags (3977)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "Colophon of (ID:7250), fol. 68a4-5: bla ma dam pa yang dag pa'i dge ba'i bshes gnyen mkhan po chen po mchims thams cad mkhyen pa'i gsung las byon pa'i chos spyod nar ma rnams \u00a6 btsun pa bsod nams bzang po bdag gis rang gzhan gyi don du zin bris su bgyis pa'o ||",
       "confidence": "Positive",
       "start": null,
       "end": null

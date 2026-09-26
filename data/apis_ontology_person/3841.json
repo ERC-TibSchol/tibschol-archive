@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3841/",
   "relations": [
     {
+      "id": 7886,
+      "label": "bru sha bsod nams seng ge (3841) author of byang chub sems 'grel gyi 'grel bshad dpag sam gyi ljon shing (8476)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3841/",
+        "label": "bru sha bsod nams seng ge (3841)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8476/",
+        "label": "byang chub sems 'grel gyi 'grel bshad dpag sam gyi ljon shing (8476)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[WCM64QPA]: 183-184, based on the colophon identifying the author as \"bsod nams seng ge\" and the explicit mention of gTsang nag pa (ID:3839) by name in the commentary.",
+      "tei_refs": "",
+      "support_notes": "The text is however included in the first volume of the collected works of 'Chad kha ba (ID:3874), the title page ascribing the work to \"phyad kha ba.\"",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 100,
       "label": "bru sha bsod nams seng ge (3841) student of phywa pa chos kyi seng ge (3831)",
       "subj": {
@@ -58,34 +86,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 7886,
-      "label": "bru sha bsod nams seng ge (3841) author of byang chub sems 'grel gyi 'grel bshad dpag sam gyi ljon shing (8476)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3841/",
-        "label": "bru sha bsod nams seng ge (3841)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8476/",
-        "label": "byang chub sems 'grel gyi 'grel bshad dpag sam gyi ljon shing (8476)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[WCM64QPA]: 183-184, based on the colophon identifying the author as \"bsod nams seng ge\" and the explicit mention of gTsang nag pa (ID:3839) by name in the commentary.",
-      "tei_refs": "",
-      "support_notes": "The text is however included in the first volume of the collected works of 'Chad kha ba (ID:3874), the title page ascribing the work to \"phyad kha ba.\"",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     }
   ],
   "end_date_to": "1200-12-31",

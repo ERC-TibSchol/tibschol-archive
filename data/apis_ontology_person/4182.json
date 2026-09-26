@@ -60,35 +60,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3366,
-      "label": "stod lung pa rin chen snying po (4182) active at stod lungs btsan 'gro (6518)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4182/",
-        "label": "stod lung pa rin chen snying po (4182)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6518/",
-        "label": "stod lungs btsan 'gro (6518)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 348 (stod lungs btsan 'gro dgon pa btab |)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 4141,
       "label": "stod lung pa rin chen snying po (4182) student of ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
       "subj": {
@@ -145,6 +116,66 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3366,
+      "label": "stod lung pa rin chen snying po (4182) active at stod lungs btsan 'gro (6518)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4182/",
+        "label": "stod lung pa rin chen snying po (4182)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6518/",
+        "label": "stod lungs btsan 'gro (6518)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 348 (stod lungs btsan 'gro dgon pa btab |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4158,
+      "label": "phag mo gru pa rdo rje rgyal po (3856) quotes with name stod lung pa rin chen snying po (4182)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3856/",
+        "label": "phag mo gru pa rdo rje rgyal po (3856)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4182/",
+        "label": "stod lung pa rin chen snying po (4182)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex502-2023-05-342 (dge bshes stod lung pa)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
     },
     {
       "id": 184,
@@ -234,37 +265,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 4158,
-      "label": "phag mo gru pa rdo rje rgyal po (3856) quotes with name stod lung pa rin chen snying po (4182)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3856/",
-        "label": "phag mo gru pa rdo rje rgyal po (3856)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4182/",
-        "label": "stod lung pa rin chen snying po (4182)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex502-2023-05-342 (dge bshes stod lung pa)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        12
-      ]
     }
   ],
   "end_date_to": "1116-12-31",

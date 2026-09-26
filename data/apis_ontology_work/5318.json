@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5318/",
   "relations": [
     {
-      "id": 1068,
-      "label": "rtags kyi 'jug pa'i 'grel pa (5318) commentary on lung du ston pa rtags kyi 'jug pa (3783)",
+      "id": 1665,
+      "label": "rtags kyi 'jug pa'i 'grel pa (5318) has as an instance rtags kyi 'jug pa'i 'grel pa (1) (5317)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5318/",
         "label": "rtags kyi 'jug pa'i 'grel pa (5318)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3783/",
-        "label": "lung du ston pa rtags kyi 'jug pa (3783)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5317/",
+        "label": "rtags kyi 'jug pa'i 'grel pa (1) (5317)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1665,
-      "label": "rtags kyi 'jug pa'i 'grel pa (5318) has as an instance rtags kyi 'jug pa'i 'grel pa (1) (5317)",
+      "id": 1068,
+      "label": "rtags kyi 'jug pa'i 'grel pa (5318) commentary on lung du ston pa rtags kyi 'jug pa (3783)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5318/",
         "label": "rtags kyi 'jug pa'i 'grel pa (5318)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5317/",
-        "label": "rtags kyi 'jug pa'i 'grel pa (1) (5317)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3783/",
+        "label": "lung du ston pa rtags kyi 'jug pa (3783)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,

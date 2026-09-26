@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/1716/",
   "xml_id": "exX0032026-03-0218-04-50",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"exX0032026-03-0218-04-50\" status=\"unreviewed\"><milestone unit=\"section\" n=\"iii.21 phyogs chos\"/>\n         <milestone unit=\"section\" n=\"iii.22 khyab pa\"/>\n         dang po la <rs type=\"person\" ana=\"corpusmd:unnamed_reference\" ref=\"db:4270\">kha 1</rs> <note type=\"gloss\"><rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:4270\">grags bsod</rs></note> na re rang rig gis chos can skad 1 mas stong par 'gyur med du nges la gzhan rig gis don byed pa 2 kyi nus pa 'gyur bar \n               <lb n=\"75b7\"/>\n               grub pas don byed nus <choice><reg>pas stong</reg><orig>\u2039pas stong\u203a</orig></choice> pa'i phyogs chos nges so zhes pa yang\n         ma yin te | </seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"exX0032026-03-0218-04-50\" status=\"unreviewed\"><milestone unit=\"section\" n=\"iii.21 phyogs chos\"/>\n         <milestone unit=\"section\" n=\"iii.22 khyab pa\"/>\n         dang po la <rs type=\"person\" ana=\"corpusmd:unnamed_reference\" ref=\"db:4270\">kha 1</rs> <note type=\"gloss\"><rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:4270\">grags bsod</rs></note> na re rang rig gis chos can skad 1 mas stong par 'gyur med du nges la gzhan rig gis don byed pa 2 kyi nus pa 'gyur bar \n               <lb edRef=\"inst:5508\" n=\"75b7\"/>\n               grub pas don byed nus <choice><reg>pas stong</reg><orig>\u2039pas stong\u203a</orig></choice> pa'i phyogs chos nges so zhes pa yang\n         ma yin te | </seg></TEI>",
   "source": "X_003_Dar ma dkon mchog summary.xml",
   "tibschol_refs": "X_003",
   "zotero_refs": "",
   "status": "unreviewed",
-  "location": "75b6 - 75b7"
+  "location": "inst:5508: 75b6 - 75b7"
 }

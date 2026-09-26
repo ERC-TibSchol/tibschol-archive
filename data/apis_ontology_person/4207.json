@@ -152,6 +152,37 @@
       ]
     },
     {
+      "id": 6979,
+      "label": "smon lam 'od zer (5987) quotes without name me dig pa (4207)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5987/",
+        "label": "smon lam 'od zer (5987)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4207/",
+        "label": "me dig pa (4207)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "exX0232026-03-2015-33-25",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
       "id": 4111,
       "label": "phywa pa chos kyi seng ge (3831) quotes without name me dig pa (4207)",
       "subj": {
@@ -179,37 +210,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 4717,
-      "label": "gtsang drug pa rdo rje 'od zer (4025) quotes without name me dig pa (4207)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
-        "label": "gtsang drug pa rdo rje 'od zer (4025)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4207/",
-        "label": "me dig pa (4207)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex47012026-03-1611-47-44",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
     },
     {
       "id": 5119,
@@ -274,11 +274,11 @@
       ]
     },
     {
-      "id": 6979,
-      "label": "smon lam 'od zer (5987) quotes without name me dig pa (4207)",
+      "id": 4717,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) quotes without name me dig pa (4207)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5987/",
-        "label": "smon lam 'od zer (5987)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -295,7 +295,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "exX0232026-03-2015-33-25",
+      "tei_refs": "ex47012026-03-1611-47-44",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,

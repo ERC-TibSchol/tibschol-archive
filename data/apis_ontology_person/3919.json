@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3919/",
   "relations": [
     {
-      "id": 668,
-      "label": "zhang 'bal tshad ma pa (3919) author of sher phyin mngon rtogs rgyan gyi 'grel ba'i brjed byang zhal rgyun gyi gdams pa (4643)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3919/",
-        "label": "zhang 'bal tshad ma pa (3919)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4643/",
-        "label": "sher phyin mngon rtogs rgyan gyi 'grel ba'i brjed byang zhal rgyun gyi gdams pa (4643)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex023052026-09-0206-36-00",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 2601,
       "label": "zhang 'bal tshad ma pa (3919) student of rgya dmar ba byang chub grags (3834)",
       "subj": {
@@ -86,6 +58,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 668,
+      "label": "zhang 'bal tshad ma pa (3919) author of sher phyin mngon rtogs rgyan gyi 'grel ba'i brjed byang zhal rgyun gyi gdams pa (4643)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3919/",
+        "label": "zhang 'bal tshad ma pa (3919)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4643/",
+        "label": "sher phyin mngon rtogs rgyan gyi 'grel ba'i brjed byang zhal rgyun gyi gdams pa (4643)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex023052026-09-0206-36-00",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": "1100-12-31",

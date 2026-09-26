@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5264/",
   "relations": [
     {
-      "id": 1028,
-      "label": "chos mngon kun las btus pa'i tikka (5264) commentary on abhidharmasamuccaya (3755)",
+      "id": 1640,
+      "label": "chos mngon kun las btus pa'i tikka (5264) has as an instance chos mngon kun las btus pa'i tikka (5263)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5264/",
         "label": "chos mngon kun las btus pa'i tikka (5264)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3755/",
-        "label": "abhidharmasamuccaya (3755)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5263/",
+        "label": "chos mngon kun las btus pa'i tikka (5263)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1640,
-      "label": "chos mngon kun las btus pa'i tikka (5264) has as an instance chos mngon kun las btus pa'i tikka (5263)",
+      "id": 1028,
+      "label": "chos mngon kun las btus pa'i tikka (5264) commentary on abhidharmasamuccaya (3755)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5264/",
         "label": "chos mngon kun las btus pa'i tikka (5264)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5263/",
-        "label": "chos mngon kun las btus pa'i tikka (5263)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3755/",
+        "label": "abhidharmasamuccaya (3755)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,

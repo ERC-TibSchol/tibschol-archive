@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7327/",
   "relations": [
     {
-      "id": 5677,
-      "label": "dbu ma tshig gsal gyi dka' gnad bshad pa theg pa mchog gi rgyan (7327) commentary on prasannapad\u0101 (3724)",
+      "id": 5678,
+      "label": "dbu ma tshig gsal gyi dka' gnad bshad pa theg pa mchog gi rgyan (7327) has as an instance dbu ma tshig gsal gyi dka' gnad bshad pa theg pa mchog gi rgyan (7328)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7327/",
         "label": "dbu ma tshig gsal gyi dka' gnad bshad pa theg pa mchog gi rgyan (7327)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3724/",
-        "label": "prasannapad\u0101 (3724)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7328/",
+        "label": "dbu ma tshig gsal gyi dka' gnad bshad pa theg pa mchog gi rgyan (7328)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 5678,
-      "label": "dbu ma tshig gsal gyi dka' gnad bshad pa theg pa mchog gi rgyan (7327) has as an instance dbu ma tshig gsal gyi dka' gnad bshad pa theg pa mchog gi rgyan (7328)",
+      "id": 5677,
+      "label": "dbu ma tshig gsal gyi dka' gnad bshad pa theg pa mchog gi rgyan (7327) commentary on prasannapad\u0101 (3724)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7327/",
         "label": "dbu ma tshig gsal gyi dka' gnad bshad pa theg pa mchog gi rgyan (7327)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7328/",
-        "label": "dbu ma tshig gsal gyi dka' gnad bshad pa theg pa mchog gi rgyan (7328)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3724/",
+        "label": "prasannapad\u0101 (3724)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,

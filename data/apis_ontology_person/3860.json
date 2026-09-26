@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3860/",
   "relations": [
     {
-      "id": 3345,
-      "label": "glang lung pa brtson 'grus gzhon nu (3860) student of sbal ti jo sras brtson 'grus dbang phyug (3967)",
+      "id": 3355,
+      "label": "glang lung pa brtson 'grus gzhon nu (3860) active at mar snon gyi gyang ba (6517)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3860/",
         "label": "glang lung pa brtson 'grus gzhon nu (3860)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3967/",
-        "label": "sbal ti jo sras brtson 'grus dbang phyug (3967)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6517/",
+        "label": "mar snon gyi gyang ba (6517)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,12 +22,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[Z5WBK2VV]: 50.",
+      "zotero_refs": "[82NZNSIS]: 294 (nyer bdun pa la snon gyi gyad par | bya 'dul 'dzin | phya pa chos seng | btsun pa chos mchog gsum la bsnyen par rdzogs |). Place of Glang lung pa's full ordination.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
+      "start": "1147",
+      "end": "1147",
       "subject_of_teaching_vocab": []
     },
     {
@@ -89,35 +89,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3355,
-      "label": "glang lung pa brtson 'grus gzhon nu (3860) active at mar snon gyi gyang ba (6517)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3860/",
-        "label": "glang lung pa brtson 'grus gzhon nu (3860)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6517/",
-        "label": "mar snon gyi gyang ba (6517)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[82NZNSIS]: 294 (nyer bdun pa la snon gyi gyad par | bya 'dul 'dzin | phya pa chos seng | btsun pa chos mchog gsum la bsnyen par rdzogs |). Place of Glang lung pa's full ordination.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1147",
-      "end": "1147",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3360,
       "label": "glang lung pa brtson 'grus gzhon nu (3860) active at bya yul dgon pa (4407)",
       "subj": {
@@ -168,6 +139,35 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[Q922IUFM]: 24. Tshul khrims dar receives an oral tradition of Ati\u015ba from Glang lung pa.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3345,
+      "label": "glang lung pa brtson 'grus gzhon nu (3860) student of sbal ti jo sras brtson 'grus dbang phyug (3967)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3860/",
+        "label": "glang lung pa brtson 'grus gzhon nu (3860)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3967/",
+        "label": "sbal ti jo sras brtson 'grus dbang phyug (3967)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5WBK2VV]: 50.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

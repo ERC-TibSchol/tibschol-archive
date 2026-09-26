@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6975/",
   "relations": [
     {
-      "id": 4557,
-      "label": "p\u016br\u1e47avardhana (6975) author of abhidharmako\u015ba\u1e6d\u012bk\u0101lak\u1e63a\u1e47\u0101nus\u0101ri\u1e47\u012b (6977)",
+      "id": 4561,
+      "label": "p\u016br\u1e47avardhana (6975) student of vasubandhu (3758)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6975/",
         "label": "p\u016br\u1e47avardhana (6975)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6977/",
-        "label": "abhidharmako\u015ba\u1e6d\u012bk\u0101lak\u1e63a\u1e47\u0101nus\u0101ri\u1e47\u012b (6977)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3758/",
+        "label": "vasubandhu (3758)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -24,10 +24,42 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
+      "support_notes": "BUDA",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7775,
+      "label": "p\u016br\u1e47avardhana (6975) lineage predecessor of d\u0101na\u015b\u012bla (1) (8434)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6975/",
+        "label": "p\u016br\u1e47avardhana (6975)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8434/",
+        "label": "d\u0101na\u015b\u012bla (1) (8434)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3YG8BVSZ]: 45 and Appendix 2 (based on the Fifth Dalai Lama's thob yig). Lineage of the Abhidharmako\u015ba (ID:3761).",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
     },
     {
       "id": 4560,
@@ -61,35 +93,6 @@
       ]
     },
     {
-      "id": 4561,
-      "label": "p\u016br\u1e47avardhana (6975) student of vasubandhu (3758)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6975/",
-        "label": "p\u016br\u1e47avardhana (6975)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3758/",
-        "label": "vasubandhu (3758)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "BUDA",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 4563,
       "label": "p\u016br\u1e47avardhana (6975) student of haribhadra (3712)",
       "subj": {
@@ -117,6 +120,37 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7781,
+      "label": "p\u016br\u1e47avardhana (6975) lineage predecessor of \u015b\u0101kya\u015br\u012bbhadra (6418)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6975/",
+        "label": "p\u016br\u1e47avardhana (6975)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6418/",
+        "label": "\u015b\u0101kya\u015br\u012bbhadra (6418)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3YG8BVSZ]: 45 and Appendix 2 (based on A me zhabs' gSan yig). Lineage of the Abhidharmako\u015ba (ID:3761), with a gap of around five hundred years between the two figures.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
     },
     {
       "id": 6486,
@@ -151,6 +185,34 @@
       ]
     },
     {
+      "id": 4557,
+      "label": "p\u016br\u1e47avardhana (6975) author of abhidharmako\u015ba\u1e6d\u012bk\u0101lak\u1e63a\u1e47\u0101nus\u0101ri\u1e47\u012b (6977)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6975/",
+        "label": "p\u016br\u1e47avardhana (6975)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6977/",
+        "label": "abhidharmako\u015ba\u1e6d\u012bk\u0101lak\u1e63a\u1e47\u0101nus\u0101ri\u1e47\u012b (6977)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 7640,
       "label": "p\u016br\u1e47avardhana (6975) lineage predecessor of sm\u1e5bti (8400)",
       "subj": {
@@ -182,17 +244,17 @@
       ]
     },
     {
-      "id": 7775,
-      "label": "p\u016br\u1e47avardhana (6975) lineage predecessor of d\u0101na\u015b\u012bla (1) (8434)",
+      "id": 4593,
+      "label": "vasubandhu (3758) lineage predecessor of p\u016br\u1e47avardhana (6975)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6975/",
-        "label": "p\u016br\u1e47avardhana (6975)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3758/",
+        "label": "vasubandhu (3758)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8434/",
-        "label": "d\u0101na\u015b\u012bla (1) (8434)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6975/",
+        "label": "p\u016br\u1e47avardhana (6975)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -202,40 +264,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[3YG8BVSZ]: 45 and Appendix 2 (based on the Fifth Dalai Lama's thob yig). Lineage of the Abhidharmako\u015ba (ID:3761).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
-      "id": 7781,
-      "label": "p\u016br\u1e47avardhana (6975) lineage predecessor of \u015b\u0101kya\u015br\u012bbhadra (6418)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6975/",
-        "label": "p\u016br\u1e47avardhana (6975)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6418/",
-        "label": "\u015b\u0101kya\u015br\u012bbhadra (6418)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[3YG8BVSZ]: 45 and Appendix 2 (based on A me zhabs' gSan yig). Lineage of the Abhidharmako\u015ba (ID:3761), with a gap of around five hundred years between the two figures.",
-      "tei_refs": "",
-      "support_notes": "",
+      "zotero_refs": "",
+      "tei_refs": "ex119012024-11-2216-57-43 (Abhidharmako\u015ba lineage)",
+      "support_notes": "Note that other sources place Sthiramati (ID:6262) between Vasubandhu (ID:3758) and P\u016br\u1e47avardhana (ID:6975).",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -274,37 +305,6 @@
         17,
         10,
         56
-      ]
-    },
-    {
-      "id": 4593,
-      "label": "vasubandhu (3758) lineage predecessor of p\u016br\u1e47avardhana (6975)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3758/",
-        "label": "vasubandhu (3758)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6975/",
-        "label": "p\u016br\u1e47avardhana (6975)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex119012024-11-2216-57-43 (Abhidharmako\u015ba lineage)",
-      "support_notes": "Note that other sources place Sthiramati (ID:6262) between Vasubandhu (ID:3758) and P\u016br\u1e47avardhana (ID:6975).",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
       ]
     },
     {

@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4653/",
   "relations": [
     {
-      "id": 1365,
-      "label": "rgyan 'grel 'thad ldan gsal byed rin po che'i snang ba (4653) has as an instance rgyan 'grel 'thad ldan gsal byed rin po che'i snang ba (4652)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4653/",
-        "label": "rgyan 'grel 'thad ldan gsal byed rin po che'i snang ba (4653)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4652/",
-        "label": "rgyan 'grel 'thad ldan gsal byed rin po che'i snang ba (4652)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 4248,
       "label": "rgyan 'grel 'thad ldan gsal byed rin po che'i snang ba (4653) commentary on abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1365,
+      "label": "rgyan 'grel 'thad ldan gsal byed rin po che'i snang ba (4653) has as an instance rgyan 'grel 'thad ldan gsal byed rin po che'i snang ba (4652)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4653/",
+        "label": "rgyan 'grel 'thad ldan gsal byed rin po che'i snang ba (4653)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4652/",
+        "label": "rgyan 'grel 'thad ldan gsal byed rin po che'i snang ba (4652)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

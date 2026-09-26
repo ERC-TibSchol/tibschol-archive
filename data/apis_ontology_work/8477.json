@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8477/",
   "relations": [
     {
-      "id": 7887,
-      "label": "gsang 'dus kyi sems 'grel (8477) commentary on bodhicittavivara\u1e47a (3699)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8477/",
-        "label": "gsang 'dus kyi sems 'grel (8477)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3699/",
-        "label": "bodhicittavivara\u1e47a (3699)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[GEHU2V2G]: 125-126, n. 28.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 7888,
       "label": "gsang 'dus kyi sems 'grel (8477) has as an instance gsang 'dus kyi sems 'grel (8478)",
       "subj": {
@@ -54,6 +26,34 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7887,
+      "label": "gsang 'dus kyi sems 'grel (8477) commentary on bodhicittavivara\u1e47a (3699)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8477/",
+        "label": "gsang 'dus kyi sems 'grel (8477)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3699/",
+        "label": "bodhicittavivara\u1e47a (3699)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[GEHU2V2G]: 125-126, n. 28.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
       "start": null,
       "end": null
     },

@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
   "relations": [
     {
-      "id": 3234,
-      "label": "d\u0101na\u015b\u012bla (2) (6032) active at stag tshal (4359)",
+      "id": 5700,
+      "label": "d\u0101na\u015b\u012bla (2) (6032) active at shar phyogs dzA ga ta la (7347)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
         "label": "d\u0101na\u015b\u012bla (2) (6032)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4359/",
-        "label": "stag tshal (4359)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7347/",
+        "label": "shar phyogs dzA ga ta la (7347)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -22,9 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 1230 (de'i tshe stag tshal du paNDi ta dA na shI la'i sar byon nas khong la saM skri ta'i skad kyis shis pa mang po brjod pas paNDi ta 'dar zhing ba spu langs |)",
-      "tei_refs": "",
-      "support_notes": "",
+      "zotero_refs": "",
+      "tei_refs": "ex54012024-09-1216-56-432",
+      "support_notes": "Likely his region of origin.",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -59,8 +59,8 @@
       "end": null
     },
     {
-      "id": 3563,
-      "label": "d\u0101na\u015b\u012bla (2) (6032) teaches pram\u0101\u1e47av\u0101rttika (3772)",
+      "id": 3234,
+      "label": "d\u0101na\u015b\u012bla (2) (6032) active at stag tshal (4359)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
         "label": "d\u0101na\u015b\u012bla (2) (6032)",
@@ -68,10 +68,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
-        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4359/",
+        "label": "stag tshal (4359)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -79,12 +79,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 124.",
+      "zotero_refs": "[R894SIKE]: 1230 (de'i tshe stag tshal du paNDi ta dA na shI la'i sar byon nas khong la saM skri ta'i skad kyis shis pa mang po brjod pas paNDi ta 'dar zhing ba spu langs |)",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "after 1204",
-      "end": "after 1204"
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 4937,
@@ -143,63 +144,6 @@
       "end": null
     },
     {
-      "id": 5621,
-      "label": "d\u0101na\u015b\u012bla (2) (6032) teaches pram\u0101\u1e47avini\u015bcaya (3774)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
-        "label": "d\u0101na\u015b\u012bla (2) (6032)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[V4DZTVU8]: 305. Oral transmission to bCom ldan ral gri (ID:4006).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 5700,
-      "label": "d\u0101na\u015b\u012bla (2) (6032) active at shar phyogs dzA ga ta la (7347)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
-        "label": "d\u0101na\u015b\u012bla (2) (6032)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7347/",
-        "label": "shar phyogs dzA ga ta la (7347)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex54012024-09-1216-56-432",
-      "support_notes": "Likely his region of origin.",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 6420,
       "label": "d\u0101na\u015b\u012bla (2) (6032) lineage predecessor of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
       "subj": {
@@ -231,6 +175,62 @@
       ]
     },
     {
+      "id": 5621,
+      "label": "d\u0101na\u015b\u012bla (2) (6032) teaches pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
+        "label": "d\u0101na\u015b\u012bla (2) (6032)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[V4DZTVU8]: 305. Oral transmission to bCom ldan ral gri (ID:4006).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3563,
+      "label": "d\u0101na\u015b\u012bla (2) (6032) teaches pram\u0101\u1e47av\u0101rttika (3772)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
+        "label": "d\u0101na\u015b\u012bla (2) (6032)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 124.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1204",
+      "end": "after 1204"
+    },
+    {
       "id": 2311,
       "label": "skyel nag grags pa seng ge (4020) student of d\u0101na\u015b\u012bla (2) (6032)",
       "subj": {
@@ -252,35 +252,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[Q8FCH7LF]: 296",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1204",
-      "end": "after 1204",
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3560,
-      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) student of d\u0101na\u015b\u012bla (2) (6032)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
-        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
-        "label": "d\u0101na\u015b\u012bla (2) (6032)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": "1204-01-01",
-      "end_date_sort": "1204-01-01",
-      "start_date_to": null,
-      "start_date_from": "1204-01-01",
-      "start_date_sort": "1204-01-01",
-      "zotero_refs": "[Z5FZQCNC]: 111.\r\n[FZ6N88AU]: 410.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -320,6 +291,35 @@
       ]
     },
     {
+      "id": 3560,
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) student of d\u0101na\u015b\u012bla (2) (6032)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
+        "label": "d\u0101na\u015b\u012bla (2) (6032)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": "1204-01-01",
+      "end_date_sort": "1204-01-01",
+      "start_date_to": null,
+      "start_date_from": "1204-01-01",
+      "start_date_sort": "1204-01-01",
+      "zotero_refs": "[Z5FZQCNC]: 111.\r\n[FZ6N88AU]: 410.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1204",
+      "end": "after 1204",
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3564,
       "label": "rigs pa'i ral gri (4006) student of d\u0101na\u015b\u012bla (2) (6032)",
       "subj": {
@@ -349,6 +349,34 @@
       "subject_of_teaching_vocab": [
         9
       ]
+    },
+    {
+      "id": 6766,
+      "label": "vibh\u016bticandra (6618) other relation to d\u0101na\u015b\u012bla (2) (6032)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6618/",
+        "label": "vibh\u016bticandra (6618)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
+        "label": "d\u0101na\u015b\u012bla (2) (6032)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 3686,
@@ -439,34 +467,6 @@
       "subject_of_teaching_vocab": [
         3
       ]
-    },
-    {
-      "id": 6766,
-      "label": "vibh\u016bticandra (6618) other relation to d\u0101na\u015b\u012bla (2) (6032)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6618/",
-        "label": "vibh\u016bticandra (6618)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6032/",
-        "label": "d\u0101na\u015b\u012bla (2) (6032)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     }
   ],
   "end_date_to": "1250-12-31",

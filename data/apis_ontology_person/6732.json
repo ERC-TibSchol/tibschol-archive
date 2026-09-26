@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6732/",
   "relations": [
     {
-      "id": 3872,
-      "label": "bsod nams rgyal mtshan (1) (6732) active at rtses thang (5765)",
+      "id": 3875,
+      "label": "bsod nams rgyal mtshan (1) (6732) studies pram\u0101\u1e47avini\u015bcaya (3774)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6732/",
         "label": "bsod nams rgyal mtshan (1) (6732)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5765/",
-        "label": "rtses thang (5765)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,13 +22,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[W4T5ZMUP]: 24. Delivered a grand sermon and exposition on Hevajra in the Chos grwa chen mo.",
+      "zotero_refs": "[W4T5ZMUP]: 24. With Shes rab don pa (ID:6733).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "1396",
-      "end": "1396",
-      "subject_of_teaching_vocab": []
+      "start": "after 1396 before 1400",
+      "end": "after 1396 before 1400"
     },
     {
       "id": 3873,
@@ -62,8 +61,8 @@
       ]
     },
     {
-      "id": 3875,
-      "label": "bsod nams rgyal mtshan (1) (6732) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "id": 3872,
+      "label": "bsod nams rgyal mtshan (1) (6732) active at rtses thang (5765)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6732/",
         "label": "bsod nams rgyal mtshan (1) (6732)",
@@ -71,10 +70,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5765/",
+        "label": "rtses thang (5765)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -82,12 +81,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[W4T5ZMUP]: 24. With Shes rab don pa (ID:6733).",
+      "zotero_refs": "[W4T5ZMUP]: 24. Delivered a grand sermon and exposition on Hevajra in the Chos grwa chen mo.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "after 1396 before 1400",
-      "end": "after 1396 before 1400"
+      "start": "1396",
+      "end": "1396",
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1434-12-31",

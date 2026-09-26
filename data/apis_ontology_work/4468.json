@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4468/",
   "relations": [
     {
-      "id": 1279,
-      "label": "bstan rim chen po (4468) has as an instance bde bar gshegs pa'i bstan pa rin po che la 'jug pa'i rim pa rnam par bshad pa (stod cha) (4467)",
+      "id": 5329,
+      "label": "bstan rim chen po (4468) has as an instance bde bar gshegs pa'i bstan pa rin po che la 'jug pa'i lam gyi rim pa rnam par bshad pa (7190)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4468/",
         "label": "bstan rim chen po (4468)",
@@ -11,8 +11,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4467/",
-        "label": "bde bar gshegs pa'i bstan pa rin po che la 'jug pa'i rim pa rnam par bshad pa (stod cha) (4467)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7190/",
+        "label": "bde bar gshegs pa'i bstan pa rin po che la 'jug pa'i lam gyi rim pa rnam par bshad pa (7190)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -22,9 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -58,6 +58,34 @@
       "end": null
     },
     {
+      "id": 1279,
+      "label": "bstan rim chen po (4468) has as an instance bde bar gshegs pa'i bstan pa rin po che la 'jug pa'i rim pa rnam par bshad pa (stod cha) (4467)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4468/",
+        "label": "bstan rim chen po (4468)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4467/",
+        "label": "bde bar gshegs pa'i bstan pa rin po che la 'jug pa'i rim pa rnam par bshad pa (stod cha) (4467)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5328,
       "label": "bstan rim chen po (4468) has as an instance bstan rim chen po (7189)",
       "subj": {
@@ -69,34 +97,6 @@
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7189/",
         "label": "bstan rim chen po (7189)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 5329,
-      "label": "bstan rim chen po (4468) has as an instance bde bar gshegs pa'i bstan pa rin po che la 'jug pa'i lam gyi rim pa rnam par bshad pa (7190)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4468/",
-        "label": "bstan rim chen po (4468)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7190/",
-        "label": "bde bar gshegs pa'i bstan pa rin po che la 'jug pa'i lam gyi rim pa rnam par bshad pa (7190)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },

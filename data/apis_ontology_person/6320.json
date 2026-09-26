@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6320/",
   "relations": [
     {
+      "id": 7357,
+      "label": "Anonymous (5) (6320) annotator of dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba (4570)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6320/",
+        "label": "Anonymous (5) (6320)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4570/",
+        "label": "dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba (4570)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2890,
       "label": "Anonymous (5) (6320) quotes with name khyung rin chen grags (3809)",
       "subj": {
@@ -62,8 +90,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 2892,
-      "label": "Anonymous (5) (6320) quotes with name lce sgom rdzong pa shes rab rdo rje (4108)",
+      "id": 2896,
+      "label": "Anonymous (5) (6320) quotes with name phywa pa chos kyi seng ge (3831)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6320/",
         "label": "Anonymous (5) (6320)",
@@ -71,39 +99,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4108/",
-        "label": "lce sgom rdzong pa shes rab rdo rje (4108)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex013112026-07-0802-16-49\r\nex013112026-07-0802-13-43",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        13
-      ]
-    },
-    {
-      "id": 2893,
-      "label": "Anonymous (5) (6320) quotes with name rtsang (6323)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6320/",
-        "label": "Anonymous (5) (6320)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6323/",
-        "label": "rtsang (6323)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -153,64 +150,6 @@
       ]
     },
     {
-      "id": 2895,
-      "label": "Anonymous (5) (6320) quotes with name rgya dmar ba byang chub grags (3834)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6320/",
-        "label": "Anonymous (5) (6320)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
-        "label": "rgya dmar ba byang chub grags (3834)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 2896,
-      "label": "Anonymous (5) (6320) quotes with name phywa pa chos kyi seng ge (3831)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6320/",
-        "label": "Anonymous (5) (6320)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
-        "label": "phywa pa chos kyi seng ge (3831)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 6852,
       "label": "Anonymous (5) (6320) quotes with name ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
       "subj": {
@@ -242,8 +181,8 @@
       ]
     },
     {
-      "id": 7357,
-      "label": "Anonymous (5) (6320) annotator of dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba (4570)",
+      "id": 2895,
+      "label": "Anonymous (5) (6320) quotes with name rgya dmar ba byang chub grags (3834)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6320/",
         "label": "Anonymous (5) (6320)",
@@ -251,10 +190,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4570/",
-        "label": "dbu ma rigs pa'i tshogs kyi rgyan de kho na nyid snang ba (4570)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -267,7 +206,70 @@
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 8063,
+      "label": "Anonymous (5) (6320) quotes with name gtsang nag pa brtson 'grus seng ge (3839)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6320/",
+        "label": "Anonymous (5) (6320)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex013112026-09-2503-39-52 (rtsang)\r\nex013112026-09-2503-46-43 (rtsang)\r\nex013112026-07-0802-16-50 (rtsang)",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 2892,
+      "label": "Anonymous (5) (6320) quotes with name lce sgom rdzong pa shes rab rdo rje (4108)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6320/",
+        "label": "Anonymous (5) (6320)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4108/",
+        "label": "lce sgom rdzong pa shes rab rdo rje (4108)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex013112026-07-0802-16-49\r\nex013112026-07-0802-13-43",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     }
   ],
   "end_date_to": "1700-12-31",

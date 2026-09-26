@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7139/",
   "relations": [
     {
-      "id": 5022,
-      "label": "rmog cog pa rin chen brtson 'grus (7139) student of a seng (6494)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7139/",
-        "label": "rmog cog pa rin chen brtson 'grus (7139)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6494/",
-        "label": "a seng (6494)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 860.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 5316,
       "label": "rmog cog pa rin chen brtson 'grus (7139) student of gnyos nag grags pa dpal (6686)",
       "subj": {
@@ -52,35 +23,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[R894SIKE]: 528 (bur sgom ni | rje phag mo gru pa dang rmog cog pa gnyis ka'i bla ma yin | khyad par phag mo gru pa la mkha' 'gro ma bzhi rjes su 'brang gi 'dug pa dang | gdan sa yang 'di 'dra bar 'byung zhes bya ba'i lung bstan pa rnams ji lta ba bzhin du byung zer |).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 5325,
-      "label": "rmog cog pa rin chen brtson 'grus (7139) active at bur (7187)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7139/",
-        "label": "rmog cog pa rin chen brtson 'grus (7139)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7187/",
-        "label": "bur (7187)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[CCSBSVCA]: 422, n. 30.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -120,6 +62,35 @@
       ]
     },
     {
+      "id": 5325,
+      "label": "rmog cog pa rin chen brtson 'grus (7139) active at bur (7187)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7139/",
+        "label": "rmog cog pa rin chen brtson 'grus (7139)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7187/",
+        "label": "bur (7187)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[CCSBSVCA]: 422, n. 30.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 5849,
       "label": "rmog cog pa rin chen brtson 'grus (7139) student of khyung po rnal 'byor (6437)",
       "subj": {
@@ -141,6 +112,35 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[R894SIKE]: 859.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5022,
+      "label": "rmog cog pa rin chen brtson 'grus (7139) student of a seng (6494)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7139/",
+        "label": "rmog cog pa rin chen brtson 'grus (7139)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6494/",
+        "label": "a seng (6494)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 860.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

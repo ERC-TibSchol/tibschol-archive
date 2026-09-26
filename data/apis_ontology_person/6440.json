@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6440/",
   "relations": [
     {
-      "id": 3117,
-      "label": "dbang phyug rin chen (3) (6440) active at gnas rnying (4341)",
+      "id": 3132,
+      "label": "dbang phyug rin chen (3) (6440) student of la stod pa dkon mchog mkhar (3819)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6440/",
         "label": "dbang phyug rin chen (3) (6440)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4341/",
-        "label": "gnas rnying (4341)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3819/",
+        "label": "la stod pa dkon mchog mkhar (3819)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,12 +22,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[4LDAV8UH]: 97. Abbot of gNas rnying after La stod pa chen po (ID:3819) and the one-year interim by dKom mchog seng ge (ID:6447).",
+      "zotero_refs": "[4LDAV8UH]: 99. Meeting when dBang phyug rin chen was 14 years old.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": "1172",
-      "end": "1172",
+      "start": null,
+      "end": null,
       "subject_of_teaching_vocab": []
     },
     {
@@ -59,8 +59,8 @@
       "end": "after 1191"
     },
     {
-      "id": 3132,
-      "label": "dbang phyug rin chen (3) (6440) student of la stod pa dkon mchog mkhar (3819)",
+      "id": 3117,
+      "label": "dbang phyug rin chen (3) (6440) active at gnas rnying (4341)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6440/",
         "label": "dbang phyug rin chen (3) (6440)",
@@ -68,10 +68,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3819/",
-        "label": "la stod pa dkon mchog mkhar (3819)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4341/",
+        "label": "gnas rnying (4341)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -79,12 +79,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[4LDAV8UH]: 99. Meeting when dBang phyug rin chen was 14 years old.",
+      "zotero_refs": "[4LDAV8UH]: 97. Abbot of gNas rnying after La stod pa chen po (ID:3819) and the one-year interim by dKom mchog seng ge (ID:6447).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
+      "start": "1172",
+      "end": "1172",
       "subject_of_teaching_vocab": []
     },
     {
@@ -150,34 +150,6 @@
       ]
     },
     {
-      "id": 3131,
-      "label": "la stod pa dkon mchog mkhar (3819) uncle (maternal/paternal) of dbang phyug rin chen (3) (6440)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3819/",
-        "label": "la stod pa dkon mchog mkhar (3819)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6440/",
-        "label": "dbang phyug rin chen (3) (6440)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[4LDAV8UH]: 99.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 3143,
       "label": "bsod nams rin chen (2) (6448) student of dbang phyug rin chen (3) (6440)",
       "subj": {
@@ -205,6 +177,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3131,
+      "label": "la stod pa dkon mchog mkhar (3819) uncle (maternal/paternal) of dbang phyug rin chen (3) (6440)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3819/",
+        "label": "la stod pa dkon mchog mkhar (3819)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6440/",
+        "label": "dbang phyug rin chen (3) (6440)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 99.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": "1251-12-31",

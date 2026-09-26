@@ -2,13 +2,13 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7111/",
   "relations": [
     {
-      "id": 4952,
-      "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7112) has as an instance shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7111)",
+      "id": 4953,
+      "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7113) has source shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7111)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7112/",
-        "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7112)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7113/",
+        "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7113)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7111/",
@@ -30,13 +30,13 @@
       "end": null
     },
     {
-      "id": 4953,
-      "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7113) has source shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7111)",
+      "id": 4952,
+      "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7112) has as an instance shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7111)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7113/",
-        "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7113)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7112/",
+        "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7112)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7111/",

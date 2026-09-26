@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8078/",
   "relations": [
     {
-      "id": 7155,
-      "label": "dbu ma rgyan gyi 'grel pa (8078) has as an instance dbu ma rgyan gyi 'grel pa (8079)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8078/",
-        "label": "dbu ma rgyan gyi 'grel pa (8078)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8079/",
-        "label": "dbu ma rgyan gyi 'grel pa (8079)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 7156,
       "label": "dbu ma rgyan gyi 'grel pa (8078) commentary on madhyamak\u0101la\u1e43k\u0101ra\u00adv\u1e5btti\u00admadhyama\u00adpratipad\u0101\u00adsiddhi (7351)",
       "subj": {
@@ -54,6 +26,34 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7155,
+      "label": "dbu ma rgyan gyi 'grel pa (8078) has as an instance dbu ma rgyan gyi 'grel pa (8079)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8078/",
+        "label": "dbu ma rgyan gyi 'grel pa (8078)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8079/",
+        "label": "dbu ma rgyan gyi 'grel pa (8079)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
       "start": null,
       "end": null
     },

@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4777/",
   "relations": [
     {
-      "id": 1422,
-      "label": "tshad ma rnam 'grel rnam par 'byed pa (4777) has as an instance rigs pa'i gsal byed 'od zer brgya pa (4776)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4777/",
-        "label": "tshad ma rnam 'grel rnam par 'byed pa (4777)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4776/",
-        "label": "rigs pa'i gsal byed 'od zer brgya pa (4776)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 8012,
       "label": "tshad ma rnam 'grel rnam par 'byed pa (4777) contains citations of tshad ma rigs gter (5564)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": "",
       "tei_refs": "ex45042024-08-2914-22-30\nex45042024-08-2914-22-3010\nex45042024-08-2914-22-3011\nex45042024-08-2914-22-3012\nex45042026-09-1606-01-59\nex45042024-08-2914-22-283\nex45042026-09-1606-03-19",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1422,
+      "label": "tshad ma rnam 'grel rnam par 'byed pa (4777) has as an instance rigs pa'i gsal byed 'od zer brgya pa (4776)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4777/",
+        "label": "tshad ma rnam 'grel rnam par 'byed pa (4777)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4776/",
+        "label": "rigs pa'i gsal byed 'od zer brgya pa (4776)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

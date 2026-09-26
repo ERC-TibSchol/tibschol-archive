@@ -2,13 +2,13 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3738/",
   "relations": [
     {
-      "id": 1216,
-      "label": "n\u0101g\u0101rjuna (3720) author of s\u016btrasamuccaya (3738)",
+      "id": 5541,
+      "label": "mdo sde kun las btus pa rgyan gyi me tog (5012) commentary on s\u016btrasamuccaya (3738)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3720/",
-        "label": "n\u0101g\u0101rjuna (3720)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5012/",
+        "label": "mdo sde kun las btus pa rgyan gyi me tog (5012)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3738/",
@@ -30,13 +30,13 @@
       "end": null
     },
     {
-      "id": 5541,
-      "label": "mdo sde kun las btus pa rgyan gyi me tog (5012) commentary on s\u016btrasamuccaya (3738)",
+      "id": 1216,
+      "label": "n\u0101g\u0101rjuna (3720) author of s\u016btrasamuccaya (3738)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5012/",
-        "label": "mdo sde kun las btus pa rgyan gyi me tog (5012)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3720/",
+        "label": "n\u0101g\u0101rjuna (3720)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3738/",

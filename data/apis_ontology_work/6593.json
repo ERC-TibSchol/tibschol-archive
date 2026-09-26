@@ -2,13 +2,13 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6593/",
   "relations": [
     {
-      "id": 3512,
-      "label": "n\u0101g\u0101rjuna (3720) author of yukti\u1e63a\u1e63\u1e6dik\u0101k\u0101rik\u0101 (6593)",
+      "id": 4089,
+      "label": "yukti\u1e63a\u1e63\u1e6dik\u0101v\u1e5btti (6794) commentary on yukti\u1e63a\u1e63\u1e6dik\u0101k\u0101rik\u0101 (6593)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3720/",
-        "label": "n\u0101g\u0101rjuna (3720)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6794/",
+        "label": "yukti\u1e63a\u1e63\u1e6dik\u0101v\u1e5btti (6794)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6593/",
@@ -58,13 +58,13 @@
       "end": null
     },
     {
-      "id": 4089,
-      "label": "yukti\u1e63a\u1e63\u1e6dik\u0101v\u1e5btti (6794) commentary on yukti\u1e63a\u1e63\u1e6dik\u0101k\u0101rik\u0101 (6593)",
+      "id": 3512,
+      "label": "n\u0101g\u0101rjuna (3720) author of yukti\u1e63a\u1e63\u1e6dik\u0101k\u0101rik\u0101 (6593)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6794/",
-        "label": "yukti\u1e63a\u1e63\u1e6dik\u0101v\u1e5btti (6794)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3720/",
+        "label": "n\u0101g\u0101rjuna (3720)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6593/",

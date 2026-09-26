@@ -2,90 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4588/",
   "relations": [
     {
-      "id": 634,
-      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588) commentary on ratnagotravibh\u0101ga (3749)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4588/",
-        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
-        "label": "ratnagotravibh\u0101ga (3749)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 1334,
-      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588) has as an instance theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (2) (4587)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4588/",
-        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4587/",
-        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (2) (4587)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 1807,
-      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588) composed at gsang phu ne'u thog gi gtsug lag khang (6173)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4588/",
-        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6173/",
-        "label": "gsang phu ne'u thog gi gtsug lag khang (6173)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex17012023-07-2411-54-06",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "after 1250",
-      "end": "after 1250"
-    },
-    {
       "id": 5772,
       "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588) has as an instance theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4) (7374)",
       "subj": {
@@ -165,6 +81,90 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1807,
+      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588) composed at gsang phu ne'u thog gi gtsug lag khang (6173)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4588/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6173/",
+        "label": "gsang phu ne'u thog gi gtsug lag khang (6173)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex17012023-07-2411-54-06",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1250",
+      "end": "after 1250"
+    },
+    {
+      "id": 634,
+      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588) commentary on ratnagotravibh\u0101ga (3749)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4588/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
+        "label": "ratnagotravibh\u0101ga (3749)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1334,
+      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588) has as an instance theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (2) (4587)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4588/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (4588)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4587/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi nges don gsal byed pa rin po che'i sgron me (2) (4587)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

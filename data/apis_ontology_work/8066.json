@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8066/",
   "relations": [
     {
-      "id": 7129,
-      "label": "rnam 'grel sa bcad chen mo (8066) commentary on pram\u0101\u1e47av\u0101rttika (3772)",
+      "id": 7130,
+      "label": "rnam 'grel sa bcad chen mo (8066) has as an instance rnam 'grel sa bcad chen mo (8067)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8066/",
         "label": "rnam 'grel sa bcad chen mo (8066)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
-        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8067/",
+        "label": "rnam 'grel sa bcad chen mo (8067)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 7130,
-      "label": "rnam 'grel sa bcad chen mo (8066) has as an instance rnam 'grel sa bcad chen mo (8067)",
+      "id": 7129,
+      "label": "rnam 'grel sa bcad chen mo (8066) commentary on pram\u0101\u1e47av\u0101rttika (3772)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8066/",
         "label": "rnam 'grel sa bcad chen mo (8066)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8067/",
-        "label": "rnam 'grel sa bcad chen mo (8067)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,

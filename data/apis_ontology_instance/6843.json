@@ -2,13 +2,13 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6843/",
   "relations": [
     {
-      "id": 4231,
-      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (1) (6843)",
+      "id": 4233,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (3) (4711) has source byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (1) (6843)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5153/",
-        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4711/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (3) (4711)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6843/",
@@ -58,13 +58,13 @@
       "end": null
     },
     {
-      "id": 4233,
-      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (3) (4711) has source byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (1) (6843)",
+      "id": 4231,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (1) (6843)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4711/",
-        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (3) (4711)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5153/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6843/",

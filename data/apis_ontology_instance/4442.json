@@ -2,13 +2,13 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4442/",
   "relations": [
     {
-      "id": 1268,
-      "label": "rigs thigs 'grel pa'i don bsdus (4443) has as an instance rigs thigs 'grel pa'i don bsdus (1) (4442)",
+      "id": 2458,
+      "label": "rigs thigs 'grel pa'i don bsdus (2) (6119) has source rigs thigs 'grel pa'i don bsdus (1) (4442)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4443/",
-        "label": "rigs thigs 'grel pa'i don bsdus (4443)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6119/",
+        "label": "rigs thigs 'grel pa'i don bsdus (2) (6119)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4442/",
@@ -30,13 +30,13 @@
       "end": null
     },
     {
-      "id": 2458,
-      "label": "rigs thigs 'grel pa'i don bsdus (2) (6119) has source rigs thigs 'grel pa'i don bsdus (1) (4442)",
+      "id": 1268,
+      "label": "rigs thigs 'grel pa'i don bsdus (4443) has as an instance rigs thigs 'grel pa'i don bsdus (1) (4442)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6119/",
-        "label": "rigs thigs 'grel pa'i don bsdus (2) (6119)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4443/",
+        "label": "rigs thigs 'grel pa'i don bsdus (4443)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4442/",

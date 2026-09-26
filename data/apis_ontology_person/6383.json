@@ -2,35 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6383/",
   "relations": [
     {
-      "id": 2994,
-      "label": "mnyes thang pa blo gros rgya mtsho (1) (6383) active at gsang phu gling stod (6172)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6383/",
-        "label": "mnyes thang pa blo gros rgya mtsho (1) (6383)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
-        "label": "gsang phu gling stod (6172)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": "1675-12-31",
-      "end_date_from": "1594-01-01",
-      "end_date_sort": "1634-12-31",
-      "start_date_to": "1594-12-31",
-      "start_date_from": null,
-      "start_date_sort": "1594-12-31",
-      "zotero_refs": "[MPRU5QUC]: 212. Abbot of gSang phu ne'u thog monastery (42nd abbot of upper college).\r\n[CCSBSVCA]: 688, n. 17. Was on the throne in 1594.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "before 1594",
-      "end": "after 1594 before 1675",
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 4874,
       "label": "mnyes thang pa blo gros rgya mtsho (1) (6383) active at snye thang (6700)",
       "subj": {
@@ -57,6 +28,35 @@
       "confidence": "Positive",
       "start": null,
       "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 2994,
+      "label": "mnyes thang pa blo gros rgya mtsho (1) (6383) active at gsang phu gling stod (6172)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6383/",
+        "label": "mnyes thang pa blo gros rgya mtsho (1) (6383)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
+        "label": "gsang phu gling stod (6172)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1675-12-31",
+      "end_date_from": "1594-01-01",
+      "end_date_sort": "1634-12-31",
+      "start_date_to": "1594-12-31",
+      "start_date_from": null,
+      "start_date_sort": "1594-12-31",
+      "zotero_refs": "[MPRU5QUC]: 212. Abbot of gSang phu ne'u thog monastery (42nd abbot of upper college).\r\n[CCSBSVCA]: 688, n. 17. Was on the throne in 1594.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "before 1594",
+      "end": "after 1594 before 1675",
       "subject_of_teaching_vocab": []
     }
   ],

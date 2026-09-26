@@ -2,13 +2,13 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4939/",
   "relations": [
     {
-      "id": 1493,
-      "label": "tshad ma kun las btus pa rgyan gyi me tog (4940) has as an instance tshad ma kun las btus pa rgyan gyi me tog (1) (4939)",
+      "id": 2466,
+      "label": "tshad ma kun las btus pa rgyan gyi me tog (2) (6123) has source tshad ma kun las btus pa rgyan gyi me tog (1) (4939)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4940/",
-        "label": "tshad ma kun las btus pa rgyan gyi me tog (4940)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6123/",
+        "label": "tshad ma kun las btus pa rgyan gyi me tog (2) (6123)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4939/",
@@ -30,13 +30,13 @@
       "end": null
     },
     {
-      "id": 2466,
-      "label": "tshad ma kun las btus pa rgyan gyi me tog (2) (6123) has source tshad ma kun las btus pa rgyan gyi me tog (1) (4939)",
+      "id": 1493,
+      "label": "tshad ma kun las btus pa rgyan gyi me tog (4940) has as an instance tshad ma kun las btus pa rgyan gyi me tog (1) (4939)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6123/",
-        "label": "tshad ma kun las btus pa rgyan gyi me tog (2) (6123)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4940/",
+        "label": "tshad ma kun las btus pa rgyan gyi me tog (4940)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4939/",

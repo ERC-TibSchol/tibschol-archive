@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4821/",
   "relations": [
     {
-      "id": 1443,
-      "label": "gzhi lam 'bras bu gsal bar byed pa rin po che gser phreng (4821) has as an instance gzhi lam 'bras bu gsal bar byed pa rin po che gser phreng (4820)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4821/",
-        "label": "gzhi lam 'bras bu gsal bar byed pa rin po che gser phreng (4821)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4820/",
-        "label": "gzhi lam 'bras bu gsal bar byed pa rin po che gser phreng (4820)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 5482,
       "label": "gzhi lam 'bras bu gsal bar byed pa rin po che gser phreng (4821) has as an instance gzhi lam \u02bcbras bu gsal bar byed pa rin po che gser phreng ba (7252)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1443,
+      "label": "gzhi lam 'bras bu gsal bar byed pa rin po che gser phreng (4821) has as an instance gzhi lam 'bras bu gsal bar byed pa rin po che gser phreng (4820)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4821/",
+        "label": "gzhi lam 'bras bu gsal bar byed pa rin po che gser phreng (4821)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4820/",
+        "label": "gzhi lam 'bras bu gsal bar byed pa rin po che gser phreng (4820)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

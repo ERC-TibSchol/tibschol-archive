@@ -2,62 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4605/",
   "relations": [
     {
-      "id": 1342,
-      "label": "bden chung gi 'bum (4605) has as an instance bden chung gi 'bum (4604)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4605/",
-        "label": "bden chung gi 'bum (4605)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4604/",
-        "label": "bden chung gi 'bum (4604)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 3753,
-      "label": "bden chung gi 'bum (4605) commentary on satyadvay\u0101vat\u0101ra (6040)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4605/",
-        "label": "bden chung gi 'bum (4605)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6040/",
-        "label": "satyadvay\u0101vat\u0101ra (6040)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[D6HTUYUR]",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 6205,
       "label": "bden chung gi 'bum (4605) has as an instance bden gnyis kyi 'bum (1) (7579)",
       "subj": {
@@ -86,6 +30,34 @@
       "end": null
     },
     {
+      "id": 1342,
+      "label": "bden chung gi 'bum (4605) has as an instance bden chung gi 'bum (4604)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4605/",
+        "label": "bden chung gi 'bum (4605)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4604/",
+        "label": "bden chung gi 'bum (4604)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 6207,
       "label": "bden chung gi 'bum (4605) has as an instance bden gnyis kyi 'bum (2) (7580)",
       "subj": {
@@ -107,6 +79,34 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3753,
+      "label": "bden chung gi 'bum (4605) commentary on satyadvay\u0101vat\u0101ra (6040)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4605/",
+        "label": "bden chung gi 'bum (4605)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6040/",
+        "label": "satyadvay\u0101vat\u0101ra (6040)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[D6HTUYUR]",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

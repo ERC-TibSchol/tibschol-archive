@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3782/",
   "relations": [
     {
-      "id": 30,
-      "label": "thon mi sambho\u1e6da (3782) author of lung du ston pa'i rtsa ba sum cu pa zhes bya ba (3781)",
+      "id": 31,
+      "label": "thon mi sambho\u1e6da (3782) author of lung du ston pa rtags kyi 'jug pa (3783)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3782/",
         "label": "thon mi sambho\u1e6da (3782)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3781/",
-        "label": "lung du ston pa'i rtsa ba sum cu pa zhes bya ba (3781)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3783/",
+        "label": "lung du ston pa rtags kyi 'jug pa (3783)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 31,
-      "label": "thon mi sambho\u1e6da (3782) author of lung du ston pa rtags kyi 'jug pa (3783)",
+      "id": 30,
+      "label": "thon mi sambho\u1e6da (3782) author of lung du ston pa'i rtsa ba sum cu pa zhes bya ba (3781)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3782/",
         "label": "thon mi sambho\u1e6da (3782)",
@@ -39,8 +39,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3783/",
-        "label": "lung du ston pa rtags kyi 'jug pa (3783)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3781/",
+        "label": "lung du ston pa'i rtsa ba sum cu pa zhes bya ba (3781)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },

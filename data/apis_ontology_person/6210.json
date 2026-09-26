@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
   "relations": [
     {
-      "id": 2644,
-      "label": "khyung tshang pa (6210) student of ras chung pa rdo rje grags pa (6209)",
+      "id": 2652,
+      "label": "khyung tshang pa (6210) student of rgya dmar ba byang chub grags (3834)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
         "label": "khyung tshang pa (6210)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6209/",
-        "label": "ras chung pa rdo rje grags pa (6209)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -22,12 +22,72 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 529.\r\n[R894SIKE]: 525 (de la spyir slob ma mang yang thugs kyi sras bcu gsum byon nas | lo byi mgo ba | gtsang pa sum pa | byar bo par sher snang | lo ro glan byi mgo ba bla ma sgom chos | lo ro mi sna ba sum ston chos dar | bur sgom nag po | la stod pa zangs ri ras pa | g.ye chen mo ba 'bri sgom don grub | gra phyi ba gnyal rdo rje 'od | gnyal smad pa cung ston rgyan ni | gnyal smad pa cung ston rgyas pa | g.ye chung ba dge bshes khyung po dang bcu gnyis kyis dbang yang rdzogs la |)",
+      "zotero_refs": "[R894SIKE]: 528 (rgya dmar pa la dbu tshad nyan |). Subject: madhyamaka and epistemology.\r\n[CCSBSVCA]: 420, n. 25. rGya dmar ba was a teacher of Ye shes bla ma.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
+      "subject_of_teaching_vocab": [
+        9,
+        13
+      ]
+    },
+    {
+      "id": 2650,
+      "label": "khyung tshang pa (6210) studies rigs tshogs (5632)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
+        "label": "khyung tshang pa (6210)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5632/",
+        "label": "rigs tshogs (5632)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3341,
+      "label": "khyung tshang pa (6210) active at stod lung (4358)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
+        "label": "khyung tshang pa (6210)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4358/",
+        "label": "stod lung (4358)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 528 (khyung tshang ba yul stod lungs su | shing mo lug gi lo la 'khrungs |). Born in sTod lungs.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1115",
+      "end": "1115",
       "subject_of_teaching_vocab": []
     },
     {
@@ -62,6 +122,35 @@
       ]
     },
     {
+      "id": 2644,
+      "label": "khyung tshang pa (6210) student of ras chung pa rdo rje grags pa (6209)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
+        "label": "khyung tshang pa (6210)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6209/",
+        "label": "ras chung pa rdo rje grags pa (6209)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 529.\r\n[R894SIKE]: 525 (de la spyir slob ma mang yang thugs kyi sras bcu gsum byon nas | lo byi mgo ba | gtsang pa sum pa | byar bo par sher snang | lo ro glan byi mgo ba bla ma sgom chos | lo ro mi sna ba sum ston chos dar | bur sgom nag po | la stod pa zangs ri ras pa | g.ye chen mo ba 'bri sgom don grub | gra phyi ba gnyal rdo rje 'od | gnyal smad pa cung ston rgyan ni | gnyal smad pa cung ston rgyas pa | g.ye chung ba dge bshes khyung po dang bcu gnyis kyis dbang yang rdzogs la |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 2647,
       "label": "khyung tshang pa (6210) student of dar yon tan grags (6211)",
       "subj": {
@@ -93,19 +182,19 @@
       ]
     },
     {
-      "id": 2650,
-      "label": "khyung tshang pa (6210) studies rigs tshogs (5632)",
+      "id": 3340,
+      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) ordinator of khyung tshang pa (6210)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
-        "label": "khyung tshang pa (6210)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5632/",
-        "label": "rigs tshogs (5632)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
+        "label": "khyung tshang pa (6210)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -113,73 +202,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "[R894SIKE]: 528 (bya 'dul la rab tu byung | rgya dmar la bsnyen par rdzogs |). Novice ordination.",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 2652,
-      "label": "khyung tshang pa (6210) student of rgya dmar ba byang chub grags (3834)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
-        "label": "khyung tshang pa (6210)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
-        "label": "rgya dmar ba byang chub grags (3834)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 528 (rgya dmar pa la dbu tshad nyan |). Subject: madhyamaka and epistemology.\r\n[CCSBSVCA]: 420, n. 25. rGya dmar ba was a teacher of Ye shes bla ma.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9,
-        13
-      ]
-    },
-    {
-      "id": 3341,
-      "label": "khyung tshang pa (6210) active at stod lung (4358)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
-        "label": "khyung tshang pa (6210)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4358/",
-        "label": "stod lung (4358)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 528 (khyung tshang ba yul stod lungs su | shing mo lug gi lo la 'khrungs |). Born in sTod lungs.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1115",
-      "end": "1115",
-      "subject_of_teaching_vocab": []
     },
     {
       "id": 2651,
@@ -237,34 +265,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3340,
-      "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) ordinator of khyung tshang pa (6210)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
-        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6210/",
-        "label": "khyung tshang pa (6210)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 528 (bya 'dul la rab tu byung | rgya dmar la bsnyen par rdzogs |). Novice ordination.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 4346,

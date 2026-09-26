@@ -536,91 +536,6 @@
       ]
     },
     {
-      "id": 278,
-      "label": "mchims nam mkha' grags (3977) student of gro ston bdud rtsi grags (3880)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
-        "label": "mchims nam mkha' grags (3977)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
-        "label": "gro ston bdud rtsi grags (3880)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: 83, n. 182.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 4674,
-      "label": "mchims nam mkha' grags (3977) biographer of gro ston bdud rtsi grags (3880)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
-        "label": "mchims nam mkha' grags (3977)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
-        "label": "gro ston bdud rtsi grags (3880)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: 215.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 4685,
-      "label": "chu mig pa shes rab grags (3975) other relation to gro ston bdud rtsi grags (3880)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3975/",
-        "label": "chu mig pa shes rab grags (3975)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
-        "label": "gro ston bdud rtsi grags (3880)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[NTGHCZA8]: 41, n. 85. They met when Gro mo che (ID:3880) was 16 years old.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1169",
-      "end": "1169"
-    },
-    {
       "id": 6991,
       "label": "mus sman pa bdud rtsi char chen (3972) lineage predecessor of gro ston bdud rtsi grags (3880)",
       "subj": {
@@ -651,6 +566,94 @@
         48,
         26
       ]
+    },
+    {
+      "id": 7459,
+      "label": "rdo ston shes rab grags (3924) lineage predecessor of gro ston bdud rtsi grags (3880)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3924/",
+        "label": "rdo ston shes rab grags (3924)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
+        "label": "gro ston bdud rtsi grags (3880)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex107012023-10-06-110731 (Stages of the Path Lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
+    },
+    {
+      "id": 4685,
+      "label": "chu mig pa shes rab grags (3975) other relation to gro ston bdud rtsi grags (3880)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3975/",
+        "label": "chu mig pa shes rab grags (3975)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
+        "label": "gro ston bdud rtsi grags (3880)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: 41, n. 85. They met when Gro mo che (ID:3880) was 16 years old.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1169",
+      "end": "1169"
+    },
+    {
+      "id": 278,
+      "label": "mchims nam mkha' grags (3977) student of gro ston bdud rtsi grags (3880)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
+        "label": "gro ston bdud rtsi grags (3880)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: 83, n. 182.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 7400,
@@ -685,11 +688,11 @@
       ]
     },
     {
-      "id": 7459,
-      "label": "rdo ston shes rab grags (3924) lineage predecessor of gro ston bdud rtsi grags (3880)",
+      "id": 4674,
+      "label": "mchims nam mkha' grags (3977) biographer of gro ston bdud rtsi grags (3880)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3924/",
-        "label": "rdo ston shes rab grags (3924)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -705,15 +708,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex107012023-10-06-110731 (Stages of the Path Lineage)",
+      "zotero_refs": "[NTGHCZA8]: 215.",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        12
-      ]
+      "end": null
     },
     {
       "id": 7460,

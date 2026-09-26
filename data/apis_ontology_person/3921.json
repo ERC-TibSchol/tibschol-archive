@@ -33,11 +33,11 @@
       ]
     },
     {
-      "id": 464,
-      "label": "'ban dkon mchog rdo rje (4243) lineage predecessor of tho kun dga' rdo rje (3921)",
+      "id": 5150,
+      "label": "btsun pa 'khon ston (5865) quotes with name tho kun dga' rdo rje (3921)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4243/",
-        "label": "'ban dkon mchog rdo rje (4243)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5865/",
+        "label": "btsun pa 'khon ston (5865)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -53,8 +53,8 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[MGPRHX73]: 54.\r\n[K9NNDTDS]: 1398.  Transmission of the Abhidharmasamuccaya (ID:3755).",
-      "tei_refs": "exX0032026-04-0814-58-31 (Abhidharmasamuccaya lineage)\r\nex114012026-03-1113-33-19 (Abhidharmasamuccaya lineage)",
+      "zotero_refs": "",
+      "tei_refs": "ex081012026-09-1003-00-20\r\nex081012026-09-1003-03-00\r\nex081012026-09-1003-56-00\r\nex081012026-09-1003-56-11\r\nex81012026-07-0802-40-17\r\nex081012026-07-0802-48-29",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -93,6 +93,97 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 7795,
+      "label": "chu mig pa seng ge dpal (4018) quotes with name tho kun dga' rdo rje (3921)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4018/",
+        "label": "chu mig pa seng ge dpal (4018)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3921/",
+        "label": "tho kun dga' rdo rje (3921)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex041022026-07-0803-06-54",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 464,
+      "label": "'ban dkon mchog rdo rje (4243) lineage predecessor of tho kun dga' rdo rje (3921)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4243/",
+        "label": "'ban dkon mchog rdo rje (4243)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3921/",
+        "label": "tho kun dga' rdo rje (3921)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MGPRHX73]: 54.\r\n[K9NNDTDS]: 1398.  Transmission of the Abhidharmasamuccaya (ID:3755).",
+      "tei_refs": "exX0032026-04-0814-58-31 (Abhidharmasamuccaya lineage)\r\nex114012026-03-1113-33-19 (Abhidharmasamuccaya lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 7815,
+      "label": "'jad pa byang chub skyabs (3864) student of tho kun dga' rdo rje (3921)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3864/",
+        "label": "'jad pa byang chub skyabs (3864)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3921/",
+        "label": "tho kun dga' rdo rje (3921)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MGPRHX73]: 56.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 2749,
       "label": "'jad pa gzhon nu byang chub (3863) quotes with name tho kun dga' rdo rje (3921)",
       "subj": {
@@ -115,37 +206,6 @@
       "start_date_sort": null,
       "zotero_refs": "[MGPRHX73]: 57, 67. 221 references in (ID: 4750).",
       "tei_refs": "ex040012026-09-1602-40-24\r\nex040012026-07-0808-34-29\r\nex040012026-09-0103-37-50\r\nex040012026-09-0103-37-51\r\nex040012026-09-1004-05-25\r\nex40012024-10-25-14-18\r\nex040012026-09-0403-18-02\r\nex040012026-09-1004-05-26\r\nex040012026-09-0409-53-53\r\nex040012026-09-0409-53-55\r\nex040012026-09-0404-24-12\r\nex040012026-09-1004-05-27\r\nex040012026-09-0105-02-59\r\nex040012026-09-1004-05-55\r\nex040012026-09-0105-16-12\r\nex040012026-09-0404-58-24\r\nex040012026-09-1004-05-44\r\nex040012026-09-1004-05-56\r\nex040012026-09-0403-02-46\r\nex040012026-07-0803-04-25\r\nex040012026-09-0403-02-48\r\nex040012026-09-0701-55-12\r\nex040012026-09-1004-05-33\r\nex040012026-09-0405-34-33\r\nex04012026-09-0202-01-11\r\nex040012026-09-1601-48-36",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
-      "id": 5150,
-      "label": "btsun pa 'khon ston (5865) quotes with name tho kun dga' rdo rje (3921)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5865/",
-        "label": "btsun pa 'khon ston (5865)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3921/",
-        "label": "tho kun dga' rdo rje (3921)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex081012026-09-1003-00-20\r\nex081012026-09-1003-03-00\r\nex081012026-09-1003-56-00\r\nex081012026-09-1003-56-11\r\nex81012026-07-0802-40-17\r\nex081012026-07-0802-48-29",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -213,66 +273,6 @@
       "subject_of_teaching_vocab": [
         7
       ]
-    },
-    {
-      "id": 7795,
-      "label": "chu mig pa seng ge dpal (4018) quotes with name tho kun dga' rdo rje (3921)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4018/",
-        "label": "chu mig pa seng ge dpal (4018)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3921/",
-        "label": "tho kun dga' rdo rje (3921)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex041022026-07-0803-06-54",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
-      "id": 7815,
-      "label": "'jad pa byang chub skyabs (3864) student of tho kun dga' rdo rje (3921)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3864/",
-        "label": "'jad pa byang chub skyabs (3864)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3921/",
-        "label": "tho kun dga' rdo rje (3921)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[MGPRHX73]: 56.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1250-12-31",

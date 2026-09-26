@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5447/",
   "relations": [
     {
-      "id": 1148,
-      "label": "sdom pa nyi shu pa'i rnam par bshad pa (5447) commentary on bodhisattvasa\u1e43varavi\u1e43\u015baka (3759)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5447/",
-        "label": "sdom pa nyi shu pa'i rnam par bshad pa (5447)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3759/",
-        "label": "bodhisattvasa\u1e43varavi\u1e43\u015baka (3759)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1726,
       "label": "sdom pa nyi shu pa'i rnam par bshad pa (5447) has as an instance sdom pa nyi shu pa'i rnam par bshad pa (5446)",
       "subj": {
@@ -81,6 +53,34 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "Colophon, fol. 12b6: sdoM pa nyi shu pa'i rnaM par bshad pa \u00a6 rje rin po ches mdzod ma byub dpal gyi gling gong du mdzad pa'o || dmar zhig bdag gis bris (12b7) pa yin ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1148,
+      "label": "sdom pa nyi shu pa'i rnam par bshad pa (5447) commentary on bodhisattvasa\u1e43varavi\u1e43\u015baka (3759)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5447/",
+        "label": "sdom pa nyi shu pa'i rnam par bshad pa (5447)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3759/",
+        "label": "bodhisattvasa\u1e43varavi\u1e43\u015baka (3759)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

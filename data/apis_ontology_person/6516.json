@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6516/",
   "relations": [
     {
+      "id": 3351,
+      "label": "chos kyi padma (6516) ordinator of glang lung pa brtson 'grus gzhon nu (3860)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6516/",
+        "label": "chos kyi padma (6516)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3860/",
+        "label": "glang lung pa brtson 'grus gzhon nu (3860)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 361. Chos kyi padma was \"slob dpon\" in Glang lung pa's novice ordination after his 18th year.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1141",
+      "end": "1141"
+    },
+    {
       "id": 3350,
       "label": "chos kyi padma (6516) student of sne'u zur pa ye shes 'bar (3825)",
       "subj": {
@@ -29,34 +57,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3351,
-      "label": "chos kyi padma (6516) ordinator of glang lung pa brtson 'grus gzhon nu (3860)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6516/",
-        "label": "chos kyi padma (6516)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3860/",
-        "label": "glang lung pa brtson 'grus gzhon nu (3860)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 361. Chos kyi padma was \"slob dpon\" in Glang lung pa's novice ordination after his 18th year.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1141",
-      "end": "1141"
     }
   ],
   "end_date_to": "1188-12-31",

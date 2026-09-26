@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5249/",
   "relations": [
     {
-      "id": 1635,
-      "label": "rab tu byung ba'i lag len tshig don gsal (5249) has as an instance rab tu byung ba'i lag len tshig don gsal (5248)",
+      "id": 2182,
+      "label": "rab tu byung ba'i lag len tshig don gsal (5249) composed at dpal shel grong gi gtsug lag khang bkra shis mthong smon (5758)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5249/",
         "label": "rab tu byung ba'i lag len tshig don gsal (5249)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5248/",
-        "label": "rab tu byung ba'i lag len tshig don gsal (5248)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5758/",
+        "label": "dpal shel grong gi gtsug lag khang bkra shis mthong smon (5758)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 2182,
-      "label": "rab tu byung ba'i lag len tshig don gsal (5249) composed at dpal shel grong gi gtsug lag khang bkra shis mthong smon (5758)",
+      "id": 1635,
+      "label": "rab tu byung ba'i lag len tshig don gsal (5249) has as an instance rab tu byung ba'i lag len tshig don gsal (5248)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5249/",
         "label": "rab tu byung ba'i lag len tshig don gsal (5249)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5758/",
-        "label": "dpal shel grong gi gtsug lag khang bkra shis mthong smon (5758)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5248/",
+        "label": "rab tu byung ba'i lag len tshig don gsal (5248)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

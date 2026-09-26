@@ -2,13 +2,13 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6496/",
   "relations": [
     {
-      "id": 3255,
-      "label": "gnas bya khyi lha khang (6495) located within khams (6496)",
+      "id": 5069,
+      "label": "rngog legs pa'i shes rab (3788) active at khams (6496)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6495/",
-        "label": "gnas bya khyi lha khang (6495)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3788/",
+        "label": "rngog legs pa'i shes rab (3788)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6496/",
@@ -22,40 +22,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[R894SIKE]: 122 (khu ston brtson 'grus g.yung drung lcags mo phag la 'khrungs | khong dang rngog legs pa'i shes rab dang | 'bre chen po rnams kyis khams su byon nas | jo bo se btsun la chos mang du mnyan |). Went to Khams (ID:6496) with Khu ston (ID:4235) and 'Bre chen po (ID:3807).\r\n[MPRU5QUC]: 204, based on the Blue annals. Studies with Jo bo Se btsun (ID:6763) in Khams (ID:6496).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
-    },
-    {
-      "id": 4546,
-      "label": "rA tI dga' ldan byams pa gling (5950) located within khams (6496)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5950/",
-        "label": "rA tI dga' ldan byams pa gling (5950)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6496/",
-        "label": "khams (6496)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 5068,
@@ -87,11 +60,11 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5069,
-      "label": "rngog legs pa'i shes rab (3788) active at khams (6496)",
+      "id": 5077,
+      "label": "'bre shes rab 'bar (3807) active at khams (6496)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3788/",
-        "label": "rngog legs pa'i shes rab (3788)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -107,13 +80,69 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 122 (khu ston brtson 'grus g.yung drung lcags mo phag la 'khrungs | khong dang rngog legs pa'i shes rab dang | 'bre chen po rnams kyis khams su byon nas | jo bo se btsun la chos mang du mnyan |). Went to Khams (ID:6496) with Khu ston (ID:4235) and 'Bre chen po (ID:3807).\r\n[MPRU5QUC]: 204, based on the Blue annals. Studies with Jo bo Se btsun (ID:6763) in Khams (ID:6496).",
+      "zotero_refs": "[R894SIKE]: 122 (khu ston brtson 'grus g.yung drung lcags mo phag la 'khrungs | khong dang rngog legs pa'i shes rab dang | 'bre chen po rnams kyis khams su byon nas | jo bo se btsun la chos mang du mnyan |). Khu ston (ID:4235) went to Khams (ID:6496) with  rNgog legs pa'i shes rab (ID:3788) and 'Bre chen po (ID:3807).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4546,
+      "label": "rA tI dga' ldan byams pa gling (5950) located within khams (6496)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5950/",
+        "label": "rA tI dga' ldan byams pa gling (5950)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6496/",
+        "label": "khams (6496)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3255,
+      "label": "gnas bya khyi lha khang (6495) located within khams (6496)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6495/",
+        "label": "gnas bya khyi lha khang (6495)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6496/",
+        "label": "khams (6496)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 5071,
@@ -137,35 +166,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[R894SIKE]: 122 (khu ston brtson 'grus g.yung drung lcags mo phag la 'khrungs | khong dang rngog legs pa'i shes rab dang | 'bre chen po rnams kyis khams su byon nas | jo bo se btsun la chos mang du mnyan |). Went to Khams (ID:6496) with rNgog legs pa'i shes rab (ID:3788) and 'Bre chen po.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 5077,
-      "label": "'bre shes rab 'bar (3807) active at khams (6496)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
-        "label": "'bre shes rab 'bar (3807)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6496/",
-        "label": "khams (6496)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 122 (khu ston brtson 'grus g.yung drung lcags mo phag la 'khrungs | khong dang rngog legs pa'i shes rab dang | 'bre chen po rnams kyis khams su byon nas | jo bo se btsun la chos mang du mnyan |). Khu ston (ID:4235) went to Khams (ID:6496) with  rNgog legs pa'i shes rab (ID:3788) and 'Bre chen po (ID:3807).",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4509/",
   "relations": [
     {
-      "id": 584,
-      "label": "'dul ba 'od ldan zhes bya ba'i Tik+ka tshig don rab gsal (4509) commentary on m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101v\u1e5btti (3766)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4509/",
-        "label": "'dul ba 'od ldan zhes bya ba'i Tik+ka tshig don rab gsal (4509)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3766/",
-        "label": "m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101v\u1e5btti (3766)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex009032025-11-2817-13-21",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1297,
       "label": "'dul ba 'od ldan zhes bya ba'i Tik+ka tshig don rab gsal (4509) has as an instance 'dul ba 'od ldan zhes bya ba'i Tik+ka tshig don rab gsal (4508)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 584,
+      "label": "'dul ba 'od ldan zhes bya ba'i Tik+ka tshig don rab gsal (4509) commentary on m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101v\u1e5btti (3766)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4509/",
+        "label": "'dul ba 'od ldan zhes bya ba'i Tik+ka tshig don rab gsal (4509)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3766/",
+        "label": "m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101v\u1e5btti (3766)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex009032025-11-2817-13-21",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

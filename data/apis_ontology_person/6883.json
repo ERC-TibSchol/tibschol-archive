@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 4595,
-      "label": "stag tshang lo tsA ba shes rab rin chen (6883) student of zhwa lu pa rin chen bsod nams 'phel ba (4129)",
+      "id": 6907,
+      "label": "stag tshang lo tsA ba shes rab rin chen (6883) author of rgyud bla ma'i TI ka (7935)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6883/",
         "label": "stag tshang lo tsA ba shes rab rin chen (6883)",
@@ -39,10 +39,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4129/",
-        "label": "zhwa lu pa rin chen bsod nams 'phel ba (4129)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7935/",
+        "label": "rgyud bla ma'i TI ka (7935)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -50,13 +50,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[ENNZCF55]: 68 and [BAQ9MH4T]: 410.",
       "tei_refs": "",
-      "support_notes": "BUDA",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 5619,
@@ -90,6 +89,34 @@
       ]
     },
     {
+      "id": 6374,
+      "label": "stag tshang lo tsA ba shes rab rin chen (6883) author of rig gnas kun shes nas bdag med grub pa (7644)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6883/",
+        "label": "stag tshang lo tsA ba shes rab rin chen (6883)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7644/",
+        "label": "rig gnas kun shes nas bdag med grub pa (7644)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5620,
       "label": "stag tshang lo tsA ba shes rab rin chen (6883) active at gsang phu ne'u thog gi gtsug lag khang (6173)",
       "subj": {
@@ -121,8 +148,8 @@
       ]
     },
     {
-      "id": 6374,
-      "label": "stag tshang lo tsA ba shes rab rin chen (6883) author of rig gnas kun shes nas bdag med grub pa (7644)",
+      "id": 4595,
+      "label": "stag tshang lo tsA ba shes rab rin chen (6883) student of zhwa lu pa rin chen bsod nams 'phel ba (4129)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6883/",
         "label": "stag tshang lo tsA ba shes rab rin chen (6883)",
@@ -130,64 +157,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7644/",
-        "label": "rig gnas kun shes nas bdag med grub pa (7644)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 6907,
-      "label": "stag tshang lo tsA ba shes rab rin chen (6883) author of rgyud bla ma'i TI ka (7935)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6883/",
-        "label": "stag tshang lo tsA ba shes rab rin chen (6883)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7935/",
-        "label": "rgyud bla ma'i TI ka (7935)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[ENNZCF55]: 68 and [BAQ9MH4T]: 410.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 4596,
-      "label": "zhwa lu lo tsA ba chos skyong bzang po (4071) student of stag tshang lo tsA ba shes rab rin chen (6883)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4071/",
-        "label": "zhwa lu lo tsA ba chos skyong bzang po (4071)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6883/",
-        "label": "stag tshang lo tsA ba shes rab rin chen (6883)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4129/",
+        "label": "zhwa lu pa rin chen bsod nams 'phel ba (4129)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -232,6 +203,35 @@
       "confidence": "Positive",
       "start": "after 1437",
       "end": "after 1437"
+    },
+    {
+      "id": 4596,
+      "label": "zhwa lu lo tsA ba chos skyong bzang po (4071) student of stag tshang lo tsA ba shes rab rin chen (6883)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4071/",
+        "label": "zhwa lu lo tsA ba chos skyong bzang po (4071)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6883/",
+        "label": "stag tshang lo tsA ba shes rab rin chen (6883)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BUDA",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1477-12-31",

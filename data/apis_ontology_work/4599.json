@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4599/",
   "relations": [
     {
-      "id": 1339,
-      "label": "de kho na nyid don gsal bar byed pa (4599) has as an instance de kho na nyid kyi don gsal bar byed pa (4598)",
+      "id": 2605,
+      "label": "de kho na nyid don gsal bar byed pa (4599) commentary on satyadvayavibha\u1e45gav\u1e5btti (3729)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4599/",
         "label": "de kho na nyid don gsal bar byed pa (4599)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4598/",
-        "label": "de kho na nyid kyi don gsal bar byed pa (4598)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3729/",
+        "label": "satyadvayavibha\u1e45gav\u1e5btti (3729)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 2605,
-      "label": "de kho na nyid don gsal bar byed pa (4599) commentary on satyadvayavibha\u1e45gav\u1e5btti (3729)",
+      "id": 1339,
+      "label": "de kho na nyid don gsal bar byed pa (4599) has as an instance de kho na nyid kyi don gsal bar byed pa (4598)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4599/",
         "label": "de kho na nyid don gsal bar byed pa (4599)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3729/",
-        "label": "satyadvayavibha\u1e45gav\u1e5btti (3729)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4598/",
+        "label": "de kho na nyid kyi don gsal bar byed pa (4598)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,

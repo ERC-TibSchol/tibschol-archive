@@ -2,11 +2,11 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3734/",
   "relations": [
     {
-      "id": 13,
-      "label": "kamala\u015b\u012bla (3735) author of madhyamak\u0101loka (3734)",
+      "id": 7214,
+      "label": "rong ston shes bya kun rig (6005) teaches madhyamak\u0101loka (3734)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3735/",
-        "label": "kamala\u015b\u012bla (3735)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -22,21 +22,21 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "[VTFXMPC9]: v.",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
     },
     {
-      "id": 561,
-      "label": "dbu ma snang ba'i 'grel pa (4482) commentary on madhyamak\u0101loka (3734)",
+      "id": 13,
+      "label": "kamala\u015b\u012bla (3735) author of madhyamak\u0101loka (3734)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4482/",
-        "label": "dbu ma snang ba'i 'grel pa (4482)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3735/",
+        "label": "kamala\u015b\u012bla (3735)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3734/",
@@ -114,13 +114,13 @@
       "end": null
     },
     {
-      "id": 7214,
-      "label": "rong ston shes bya kun rig (6005) teaches madhyamak\u0101loka (3734)",
+      "id": 561,
+      "label": "dbu ma snang ba'i 'grel pa (4482) commentary on madhyamak\u0101loka (3734)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
-        "label": "rong ston shes bya kun rig (6005)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4482/",
+        "label": "dbu ma snang ba'i 'grel pa (4482)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3734/",
@@ -134,9 +134,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[VTFXMPC9]: v.",
-      "tei_refs": "",
-      "support_notes": "",
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

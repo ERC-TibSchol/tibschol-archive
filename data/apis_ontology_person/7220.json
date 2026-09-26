@@ -31,6 +31,35 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 5414,
+      "label": "rong pa shes rab seng ge (7220) active at thar pa gling (7219)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7220/",
+        "label": "rong pa shes rab seng ge (7220)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7219/",
+        "label": "thar pa gling (7219)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 556-557, n. 181.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 5412,
       "label": "rong pa shes rab seng ge (7220) student of stag sde pa seng ge rgyal mtshan (4127)",
       "subj": {
@@ -92,19 +121,19 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5414,
-      "label": "rong pa shes rab seng ge (7220) active at thar pa gling (7219)",
+      "id": 7142,
+      "label": "mchims nam mkha' grags (3977) ordinator of rong pa shes rab seng ge (7220)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7220/",
-        "label": "rong pa shes rab seng ge (7220)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7219/",
-        "label": "thar pa gling (7219)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7220/",
+        "label": "rong pa shes rab seng ge (7220)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -112,13 +141,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[I58Z22ET]: 556-557, n. 181.",
+      "zotero_refs": "[647FFPZR]: 561, n. 88. Vows of rab tu byung and bsnyen par rdzogs, by Bla ma chos rgyal 'Phags pa and mkhan po mChims (maybe mchims nam mkha' grags (ID:3977)).",
       "tei_refs": "",
       "support_notes": "",
-      "confidence": "Positive",
+      "confidence": "Uncertain",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 7141,
@@ -147,34 +175,6 @@
       "confidence": "Positive",
       "start": "1280",
       "end": "1280"
-    },
-    {
-      "id": 7142,
-      "label": "mchims nam mkha' grags (3977) ordinator of rong pa shes rab seng ge (7220)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
-        "label": "mchims nam mkha' grags (3977)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7220/",
-        "label": "rong pa shes rab seng ge (7220)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[647FFPZR]: 561, n. 88. Vows of rab tu byung and bsnyen par rdzogs, by Bla ma chos rgyal 'Phags pa and mkhan po mChims (maybe mchims nam mkha' grags (ID:3977)).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null
     }
   ],
   "end_date_to": "1315-12-31",

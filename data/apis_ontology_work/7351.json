@@ -30,13 +30,13 @@
       "end": null
     },
     {
-      "id": 5706,
-      "label": "ratn\u0101kara\u015b\u0101nti (5550) author of madhyamak\u0101la\u1e43k\u0101ra\u00adv\u1e5btti\u00admadhyama\u00adpratipad\u0101\u00adsiddhi (7351)",
+      "id": 7156,
+      "label": "dbu ma rgyan gyi 'grel pa (8078) commentary on madhyamak\u0101la\u1e43k\u0101ra\u00adv\u1e5btti\u00admadhyama\u00adpratipad\u0101\u00adsiddhi (7351)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5550/",
-        "label": "ratn\u0101kara\u015b\u0101nti (5550)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8078/",
+        "label": "dbu ma rgyan gyi 'grel pa (8078)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7351/",
@@ -53,18 +53,74 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
-      "confidence": "Positive",
+      "confidence": "Uncertain",
       "start": null,
       "end": null
     },
     {
-      "id": 5708,
-      "label": "dbu ma rgyan gyi bsdus don (4918) commentary on madhyamak\u0101la\u1e43k\u0101ra\u00adv\u1e5btti\u00admadhyama\u00adpratipad\u0101\u00adsiddhi (7351)",
+      "id": 6958,
+      "label": "dbu ma rgyan gyi sa bcad (7957) commentary on madhyamak\u0101la\u1e43k\u0101ra\u00adv\u1e5btti\u00admadhyama\u00adpratipad\u0101\u00adsiddhi (7351)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4918/",
-        "label": "dbu ma rgyan gyi bsdus don (4918)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7957/",
+        "label": "dbu ma rgyan gyi sa bcad (7957)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7351/",
+        "label": "madhyamak\u0101la\u1e43k\u0101ra\u00adv\u1e5btti\u00admadhyama\u00adpratipad\u0101\u00adsiddhi (7351)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "The base text could also be the Madhyamak\u0101la\u1e43k\u0101ra (ID:3731).",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7157,
+      "label": "dbu ma rgyan gyi brjed byang (7965) commentary on madhyamak\u0101la\u1e43k\u0101ra\u00adv\u1e5btti\u00admadhyama\u00adpratipad\u0101\u00adsiddhi (7351)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7965/",
+        "label": "dbu ma rgyan gyi brjed byang (7965)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7351/",
+        "label": "madhyamak\u0101la\u1e43k\u0101ra\u00adv\u1e5btti\u00admadhyama\u00adpratipad\u0101\u00adsiddhi (7351)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5706,
+      "label": "ratn\u0101kara\u015b\u0101nti (5550) author of madhyamak\u0101la\u1e43k\u0101ra\u00adv\u1e5btti\u00admadhyama\u00adpratipad\u0101\u00adsiddhi (7351)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5550/",
+        "label": "ratn\u0101kara\u015b\u0101nti (5550)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7351/",
@@ -114,39 +170,11 @@
       "end": null
     },
     {
-      "id": 6958,
-      "label": "dbu ma rgyan gyi sa bcad (7957) commentary on madhyamak\u0101la\u1e43k\u0101ra\u00adv\u1e5btti\u00admadhyama\u00adpratipad\u0101\u00adsiddhi (7351)",
+      "id": 5708,
+      "label": "dbu ma rgyan gyi bsdus don (4918) commentary on madhyamak\u0101la\u1e43k\u0101ra\u00adv\u1e5btti\u00admadhyama\u00adpratipad\u0101\u00adsiddhi (7351)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7957/",
-        "label": "dbu ma rgyan gyi sa bcad (7957)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7351/",
-        "label": "madhyamak\u0101la\u1e43k\u0101ra\u00adv\u1e5btti\u00admadhyama\u00adpratipad\u0101\u00adsiddhi (7351)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "The base text could also be the Madhyamak\u0101la\u1e43k\u0101ra (ID:3731).",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 7156,
-      "label": "dbu ma rgyan gyi 'grel pa (8078) commentary on madhyamak\u0101la\u1e43k\u0101ra\u00adv\u1e5btti\u00admadhyama\u00adpratipad\u0101\u00adsiddhi (7351)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8078/",
-        "label": "dbu ma rgyan gyi 'grel pa (8078)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4918/",
+        "label": "dbu ma rgyan gyi bsdus don (4918)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -165,35 +193,7 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 7157,
-      "label": "dbu ma rgyan gyi brjed byang (7965) commentary on madhyamak\u0101la\u1e43k\u0101ra\u00adv\u1e5btti\u00admadhyama\u00adpratipad\u0101\u00adsiddhi (7351)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7965/",
-        "label": "dbu ma rgyan gyi brjed byang (7965)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7351/",
-        "label": "madhyamak\u0101la\u1e43k\u0101ra\u00adv\u1e5btti\u00admadhyama\u00adpratipad\u0101\u00adsiddhi (7351)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Uncertain",
+      "confidence": "Positive",
       "start": null,
       "end": null
     }

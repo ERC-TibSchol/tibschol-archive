@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5472/",
   "relations": [
     {
-      "id": 1160,
-      "label": "tshad ma rnam 'grel gsal bar byed pa'i zin bris legs par bshad pa'i rin po che'i snying po (5472) commentary on pram\u0101\u1e47av\u0101rttika (3772)",
+      "id": 1735,
+      "label": "tshad ma rnam 'grel gsal bar byed pa'i zin bris legs par bshad pa'i rin po che'i snying po (5472) has as an instance tshad ma rnam 'grel gsal ba byed pa'i zin bris rin po che'i snying po (5471)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5472/",
         "label": "tshad ma rnam 'grel gsal bar byed pa'i zin bris legs par bshad pa'i rin po che'i snying po (5472)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
-        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5471/",
+        "label": "tshad ma rnam 'grel gsal ba byed pa'i zin bris rin po che'i snying po (5471)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 1735,
-      "label": "tshad ma rnam 'grel gsal bar byed pa'i zin bris legs par bshad pa'i rin po che'i snying po (5472) has as an instance tshad ma rnam 'grel gsal ba byed pa'i zin bris rin po che'i snying po (5471)",
+      "id": 1160,
+      "label": "tshad ma rnam 'grel gsal bar byed pa'i zin bris legs par bshad pa'i rin po che'i snying po (5472) commentary on pram\u0101\u1e47av\u0101rttika (3772)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5472/",
         "label": "tshad ma rnam 'grel gsal bar byed pa'i zin bris legs par bshad pa'i rin po che'i snying po (5472)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5471/",
-        "label": "tshad ma rnam 'grel gsal ba byed pa'i zin bris rin po che'i snying po (5471)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,

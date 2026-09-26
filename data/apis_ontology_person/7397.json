@@ -31,35 +31,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 7696,
-      "label": "karma pa rol pa'i rdo rje (7397) student of g.yung ston rdo rje dpal ba (8418)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7397/",
-        "label": "karma pa rol pa'i rdo rje (7397)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8418/",
-        "label": "g.yung ston rdo rje dpal ba (8418)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P1454 (accessed 25.06.2026)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 7720,
       "label": "karma pa rol pa'i rdo rje (7397) lineage predecessor of zhwa dmar pa mkha' spyod dbang po (3901)",
       "subj": {
@@ -91,17 +62,17 @@
       ]
     },
     {
-      "id": 5841,
-      "label": "tsong kha pa blo bzang grags pa (5636) student of karma pa rol pa'i rdo rje (7397)",
+      "id": 7696,
+      "label": "karma pa rol pa'i rdo rje (7397) student of g.yung ston rdo rje dpal ba (8418)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5636/",
-        "label": "tsong kha pa blo bzang grags pa (5636)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7397/",
+        "label": "karma pa rol pa'i rdo rje (7397)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7397/",
-        "label": "karma pa rol pa'i rdo rje (7397)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8418/",
+        "label": "g.yung ston rdo rje dpal ba (8418)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -111,9 +82,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[JZP4CZRX], bdr:P1454 (accessed 25.06.2026)",
       "tei_refs": "",
-      "support_notes": "BDRC",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -178,6 +149,35 @@
       "subject_of_teaching_vocab": [
         13
       ]
+    },
+    {
+      "id": 5841,
+      "label": "tsong kha pa blo bzang grags pa (5636) student of karma pa rol pa'i rdo rje (7397)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5636/",
+        "label": "tsong kha pa blo bzang grags pa (5636)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7397/",
+        "label": "karma pa rol pa'i rdo rje (7397)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BDRC",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1383-12-31",

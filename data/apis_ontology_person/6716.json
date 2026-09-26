@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6716/",
   "relations": [
     {
-      "id": 3832,
-      "label": "nor bu dpal kyi ye shes (6716) student of byang chub rin chen dpal bzang po (6714)",
+      "id": 4664,
+      "label": "nor bu dpal kyi ye shes (6716) biographer of byang chub rin chen dpal bzang po (6714)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6716/",
         "label": "nor bu dpal kyi ye shes (6716)",
@@ -22,13 +22,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[W4T5ZMUP]: 38.",
+      "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "Work (ID:6715).",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 3834,
@@ -59,8 +58,8 @@
       "end": null
     },
     {
-      "id": 4664,
-      "label": "nor bu dpal kyi ye shes (6716) biographer of byang chub rin chen dpal bzang po (6714)",
+      "id": 3832,
+      "label": "nor bu dpal kyi ye shes (6716) student of byang chub rin chen dpal bzang po (6714)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6716/",
         "label": "nor bu dpal kyi ye shes (6716)",
@@ -79,12 +78,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[W4T5ZMUP]: 38.",
       "tei_refs": "",
-      "support_notes": "Work (ID:6715).",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1433-12-31",

@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7024/",
   "relations": [
     {
-      "id": 4724,
-      "label": "bstan 'dzin (7024) prompter of mtha' bral dbu ma'i rnam bzhag gsal byed sgron me (5131)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7024/",
-        "label": "bstan 'dzin (7024)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5131/",
-        "label": "mtha' bral dbu ma'i rnam bzhag gsal byed sgron me (5131)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex64082023-09-261",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 4725,
       "label": "bstan 'dzin (7024) requests rin chen grags (4674)",
       "subj": {
@@ -59,6 +31,34 @@
       "subject_of_teaching_vocab": [
         13
       ]
+    },
+    {
+      "id": 4724,
+      "label": "bstan 'dzin (7024) prompter of mtha' bral dbu ma'i rnam bzhag gsal byed sgron me (5131)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7024/",
+        "label": "bstan 'dzin (7024)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5131/",
+        "label": "mtha' bral dbu ma'i rnam bzhag gsal byed sgron me (5131)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex64082023-09-261",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": null,

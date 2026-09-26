@@ -30,34 +30,6 @@
       "end": null
     },
     {
-      "id": 3451,
-      "label": "lha 'bri sgang pa (5344) author of spyod 'jug gi Tik+ka (6560)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5344/",
-        "label": "lha 'bri sgang pa (5344)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6560/",
-        "label": "spyod 'jug gi Tik+ka (6560)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5RXEUKD9]: 514, No. 11079: 'on gyi phur 'bri sgang dgon 'debs mkhan lha 'bri sgang ba'i spyod 'jug gi Tik+ka.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 6038,
       "label": "lha 'bri sgang pa (5344) student of dol pa shes rab rgya mtsho (4106)",
       "subj": {
@@ -85,6 +57,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3451,
+      "label": "lha 'bri sgang pa (5344) author of spyod 'jug gi Tik+ka (6560)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5344/",
+        "label": "lha 'bri sgang pa (5344)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6560/",
+        "label": "spyod 'jug gi Tik+ka (6560)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 514, No. 11079: 'on gyi phur 'bri sgang dgon 'debs mkhan lha 'bri sgang ba'i spyod 'jug gi Tik+ka.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": "1199-12-31",

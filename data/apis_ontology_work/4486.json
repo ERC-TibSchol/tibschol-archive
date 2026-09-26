@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4486/",
   "relations": [
     {
-      "id": 1286,
-      "label": "dbu ma de kho na nyid kyi snying po (4486) has as an instance dbu ma de kho na nyid kyi snying po (1) (4485)",
+      "id": 4179,
+      "label": "dbu ma de kho na nyid kyi snying po (4486) has as an instance dbu ma shar gsum gyi stong thun (2) (6819)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4486/",
         "label": "dbu ma de kho na nyid kyi snying po (4486)",
@@ -11,8 +11,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4485/",
-        "label": "dbu ma de kho na nyid kyi snying po (1) (4485)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6819/",
+        "label": "dbu ma shar gsum gyi stong thun (2) (6819)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -22,9 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -58,6 +58,34 @@
       "end": null
     },
     {
+      "id": 1286,
+      "label": "dbu ma de kho na nyid kyi snying po (4486) has as an instance dbu ma de kho na nyid kyi snying po (1) (4485)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4486/",
+        "label": "dbu ma de kho na nyid kyi snying po (4486)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4485/",
+        "label": "dbu ma de kho na nyid kyi snying po (1) (4485)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4177,
       "label": "dbu ma de kho na nyid kyi snying po (4486) has as an instance dbu ma de kho na nyid kyi snying po (2) (6818)",
       "subj": {
@@ -69,34 +97,6 @@
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6818/",
         "label": "dbu ma de kho na nyid kyi snying po (2) (6818)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 4179,
-      "label": "dbu ma de kho na nyid kyi snying po (4486) has as an instance dbu ma shar gsum gyi stong thun (2) (6819)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4486/",
-        "label": "dbu ma de kho na nyid kyi snying po (4486)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6819/",
-        "label": "dbu ma shar gsum gyi stong thun (2) (6819)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },

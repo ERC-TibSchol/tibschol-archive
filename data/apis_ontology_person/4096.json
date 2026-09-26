@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4096/",
   "relations": [
     {
-      "id": 945,
-      "label": "sangs rgyas yon tan dpal bzang po (4096) author of byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa dam pa'i dgongs pa rab tu gsal ba (5145)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4096/",
-        "label": "sangs rgyas yon tan dpal bzang po (4096)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5145/",
-        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa dam pa'i dgongs pa rab tu gsal ba (5145)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex66022025-04-0215-55-39",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 5687,
       "label": "sangs rgyas yon tan dpal bzang po (4096) student of skyo ston smon lam tshul khrims (4052)",
       "subj": {
@@ -59,6 +31,34 @@
       "subject_of_teaching_vocab": [
         13
       ]
+    },
+    {
+      "id": 945,
+      "label": "sangs rgyas yon tan dpal bzang po (4096) author of byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa dam pa'i dgongs pa rab tu gsal ba (5145)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4096/",
+        "label": "sangs rgyas yon tan dpal bzang po (4096)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5145/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa dam pa'i dgongs pa rab tu gsal ba (5145)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex66022025-04-0215-55-39",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 311,

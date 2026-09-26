@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7170/",
   "relations": [
     {
-      "id": 1027,
-      "label": "Anonymous (14) (7170) author of chos mngon kun las btus pa'i tikka (5264)",
+      "id": 7961,
+      "label": "Anonymous (14) (7170) quotes without name rog chos kyi brtson 'grus (4242)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7170/",
         "label": "Anonymous (14) (7170)",
@@ -11,36 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5264/",
-        "label": "chos mngon kun las btus pa'i tikka (5264)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "Note about the author for instance (ID:5263) in [8H6M69W4], No. 16085: yar rgyal ba shes rab kyi Tik+ka chen yin nam dpyad.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 5155,
-      "label": "Anonymous (14) (7170) quotes with name ngur smrig pa dar ma snying po (4291)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7170/",
-        "label": "Anonymous (14) (7170)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
-        "label": "ngur smrig pa dar ma snying po (4291)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
+        "label": "rog chos kyi brtson 'grus (4242)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -51,7 +23,38 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex080012026-09-1102-50-08\r\nex080012026-09-1103-05-13\r\nex080012026-09-1804-24-19",
+      "tei_refs": "ex080012026-09-1102-44-28\r\nex080012026-09-1102-50-08\r\nex080012026-09-1102-53-20\r\nex080012026-09-1804-22-50",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        17
+      ]
+    },
+    {
+      "id": 7814,
+      "label": "Anonymous (14) (7170) quotes without name 'ban dkon mchog rdo rje (4243)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7170/",
+        "label": "Anonymous (14) (7170)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4243/",
+        "label": "'ban dkon mchog rdo rje (4243)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex080012026-07-0802-26-07\r\nex080012026-07-0802-30-25",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -90,8 +93,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 7814,
-      "label": "Anonymous (14) (7170) quotes without name 'ban dkon mchog rdo rje (4243)",
+      "id": 5155,
+      "label": "Anonymous (14) (7170) quotes with name ngur smrig pa dar ma snying po (4291)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7170/",
         "label": "Anonymous (14) (7170)",
@@ -99,8 +102,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4243/",
-        "label": "'ban dkon mchog rdo rje (4243)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4291/",
+        "label": "ngur smrig pa dar ma snying po (4291)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -111,38 +114,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex080012026-07-0802-26-07\r\nex080012026-07-0802-30-25",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        17
-      ]
-    },
-    {
-      "id": 7961,
-      "label": "Anonymous (14) (7170) quotes without name rog chos kyi brtson 'grus (4242)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7170/",
-        "label": "Anonymous (14) (7170)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4242/",
-        "label": "rog chos kyi brtson 'grus (4242)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex080012026-09-1102-44-28\r\nex080012026-09-1102-50-08\r\nex080012026-09-1102-53-20\r\nex080012026-09-1804-22-50",
+      "tei_refs": "ex080012026-09-1102-50-08\r\nex080012026-09-1103-05-13\r\nex080012026-09-1804-24-19",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -181,6 +153,34 @@
       "subject_of_teaching_vocab": [
         17
       ]
+    },
+    {
+      "id": 1027,
+      "label": "Anonymous (14) (7170) author of chos mngon kun las btus pa'i tikka (5264)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7170/",
+        "label": "Anonymous (14) (7170)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5264/",
+        "label": "chos mngon kun las btus pa'i tikka (5264)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Note about the author for instance (ID:5263) in [8H6M69W4], No. 16085: yar rgyal ba shes rab kyi Tik+ka chen yin nam dpyad.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": null,

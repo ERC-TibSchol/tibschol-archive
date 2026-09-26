@@ -2,37 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7791/",
   "relations": [
     {
-      "id": 7318,
-      "label": "bla ma thang pa (7791) lineage predecessor of byang chub sems dpa' zla ba rgyal mtshan (6468)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7791/",
-        "label": "bla ma thang pa (7791)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6468/",
-        "label": "byang chub sems dpa' zla ba rgyal mtshan (6468)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex6405_2026-01-2621-55-26 (Madhyamaka lineage)\r\nex022012026-02-2516-09 (Madhyamaka lineage)",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        13
-      ]
-    },
-    {
       "id": 7996,
       "label": "bla ma thang pa (7791) lineage predecessor of pa tshab nyi ma grags (3868)",
       "subj": {
@@ -57,6 +26,37 @@
       "tei_refs": "ex029022025-12-0411-13-02",
       "support_notes": "",
       "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 7318,
+      "label": "bla ma thang pa (7791) lineage predecessor of byang chub sems dpa' zla ba rgyal mtshan (6468)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7791/",
+        "label": "bla ma thang pa (7791)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6468/",
+        "label": "byang chub sems dpa' zla ba rgyal mtshan (6468)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex6405_2026-01-2621-55-26 (Madhyamaka lineage)\r\nex022012026-02-2516-09 (Madhyamaka lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [

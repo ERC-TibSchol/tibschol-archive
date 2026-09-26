@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3876/",
   "relations": [
     {
-      "id": 2603,
-      "label": "nyang bran pa chos kyi ye shes (3876) student of zhang tshe spong chos kyi bla ma (3805)",
+      "id": 5729,
+      "label": "nyang bran pa chos kyi ye shes (3876) author of spyod 'jug bsdus don (1) (7360)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3876/",
         "label": "nyang bran pa chos kyi ye shes (3876)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3805/",
-        "label": "zhang tshe spong chos kyi bla ma (3805)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7360/",
+        "label": "spyod 'jug bsdus don (1) (7360)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,13 +22,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 405 (zhang tshe spong ba chos kyi bla mas kyang TI ka 'ga' re brtsams shing de'i slob ma nyan bran pa chos kyi ye shes kyis ni bslabs pa kun las btus pa dang | byang chub sems dpa'i spyod pa la 'jug pa la sogs pa spyod phyogs kyi yig cha dang |)\r\n[5RXEUKD9]: 523, No. 11334: de'i {=zhang tshe spong pa chos kyi bla ma'i} slob ma nyang bran pa chos kyi ye shes.",
+      "zotero_refs": "[HMSTSJ7Q]: 429 (rGyal rtsel dpal 'khor chos sde dgon gyi dpe cha'i dkar chag), No. 108: spyod 'jug bsdus don; chos kyi ye shes.",
       "tei_refs": "",
       "support_notes": "",
-      "confidence": "Positive",
+      "confidence": "Uncertain",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 3445,
@@ -52,90 +51,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[5RXEUKD9]: 514, No. 11074. Ascribes the work to \"chos kyi ye shes.\"",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 3493,
-      "label": "nyang bran pa chos kyi ye shes (3876) author of rgyud bla ma'i Tik+ka (6581)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3876/",
-        "label": "nyang bran pa chos kyi ye shes (3876)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6581/",
-        "label": "rgyud bla ma'i Tik+ka (6581)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[5RXEUKD9]: 523, No. 11334: de'i {=Zhang tshe spong} slob ma nyang brang pa chos kyi ye shes [...] mdzad pa'i rgyud bla ma'i Tik+ka.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 4288,
-      "label": "nyang bran pa chos kyi ye shes (3876) author of byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa (6863)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3876/",
-        "label": "nyang bran pa chos kyi ye shes (3876)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6863/",
-        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa (6863)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "Author reported for instance (ID:7583) in [8H6M69W4], No. 15575: zhang tshe spong gi slob ma dge slong chos kyi ye shes.\r\n[R894SIKE]: 405 (zhang tshe spong ba chos kyi bla mas kyang TI ka 'ga' re brtsams shing de'i slob ma nyan bran pa chos kyi ye shes kyis ni bslabs pa kun las btus pa dang | byang chub sems dpa'i spyod pa la 'jug pa la sogs pa spyod phyogs kyi yig cha dang |)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 5729,
-      "label": "nyang bran pa chos kyi ye shes (3876) author of spyod 'jug bsdus don (1) (7360)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3876/",
-        "label": "nyang bran pa chos kyi ye shes (3876)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7360/",
-        "label": "spyod 'jug bsdus don (1) (7360)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[HMSTSJ7Q]: 429 (rGyal rtsel dpal 'khor chos sde dgon gyi dpe cha'i dkar chag), No. 108: spyod 'jug bsdus don; chos kyi ye shes.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Uncertain",
@@ -202,6 +117,91 @@
         48,
         13
       ]
+    },
+    {
+      "id": 2603,
+      "label": "nyang bran pa chos kyi ye shes (3876) student of zhang tshe spong chos kyi bla ma (3805)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3876/",
+        "label": "nyang bran pa chos kyi ye shes (3876)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3805/",
+        "label": "zhang tshe spong chos kyi bla ma (3805)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 405 (zhang tshe spong ba chos kyi bla mas kyang TI ka 'ga' re brtsams shing de'i slob ma nyan bran pa chos kyi ye shes kyis ni bslabs pa kun las btus pa dang | byang chub sems dpa'i spyod pa la 'jug pa la sogs pa spyod phyogs kyi yig cha dang |)\r\n[5RXEUKD9]: 523, No. 11334: de'i {=zhang tshe spong pa chos kyi bla ma'i} slob ma nyang bran pa chos kyi ye shes.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4288,
+      "label": "nyang bran pa chos kyi ye shes (3876) author of byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa (6863)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3876/",
+        "label": "nyang bran pa chos kyi ye shes (3876)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6863/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i rnam par bshad pa (6863)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:7583) in [8H6M69W4], No. 15575: zhang tshe spong gi slob ma dge slong chos kyi ye shes.\r\n[R894SIKE]: 405 (zhang tshe spong ba chos kyi bla mas kyang TI ka 'ga' re brtsams shing de'i slob ma nyan bran pa chos kyi ye shes kyis ni bslabs pa kun las btus pa dang | byang chub sems dpa'i spyod pa la 'jug pa la sogs pa spyod phyogs kyi yig cha dang |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3493,
+      "label": "nyang bran pa chos kyi ye shes (3876) author of rgyud bla ma'i Tik+ka (6581)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3876/",
+        "label": "nyang bran pa chos kyi ye shes (3876)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6581/",
+        "label": "rgyud bla ma'i Tik+ka (6581)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 523, No. 11334: de'i {=Zhang tshe spong} slob ma nyang brang pa chos kyi ye shes [...] mdzad pa'i rgyud bla ma'i Tik+ka.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 3446,

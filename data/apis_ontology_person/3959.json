@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3959/",
   "relations": [
     {
-      "id": 201,
-      "label": "rin chen skyabs (3959) student of bya 'dul 'dzin brtson 'grus 'bar (3818)",
+      "id": 701,
+      "label": "rin chen skyabs (3959) author of ti ka 'thad ldan gyi 'grel pa rin chen rgyan 'bum (4696)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3959/",
         "label": "rin chen skyabs (3959)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
-        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4696/",
+        "label": "ti ka 'thad ldan gyi 'grel pa rin chen rgyan 'bum (4696)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -22,15 +22,12 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[Z5WBK2VV]: 43.",
-      "tei_refs": "",
+      "zotero_refs": "",
+      "tei_refs": "ex032_01_033_012025-12-0116-00-07",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        8
-      ]
+      "end": null
     },
     {
       "id": 205,
@@ -95,8 +92,8 @@
       ]
     },
     {
-      "id": 701,
-      "label": "rin chen skyabs (3959) author of ti ka 'thad ldan gyi 'grel pa rin chen rgyan 'bum (4696)",
+      "id": 201,
+      "label": "rin chen skyabs (3959) student of bya 'dul 'dzin brtson 'grus 'bar (3818)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3959/",
         "label": "rin chen skyabs (3959)",
@@ -104,10 +101,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4696/",
-        "label": "ti ka 'thad ldan gyi 'grel pa rin chen rgyan 'bum (4696)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -115,12 +112,15 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex032_01_033_012025-12-0116-00-07",
+      "zotero_refs": "[Z5WBK2VV]: 43.",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
     }
   ],
   "end_date_to": "1200-12-31",

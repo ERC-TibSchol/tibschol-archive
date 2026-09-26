@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6769/",
   "relations": [
     {
-      "id": 3972,
-      "label": "don yod dpal (6769) student of rong ston shes bya kun rig (6005)",
+      "id": 3984,
+      "label": "don yod dpal (6769) other relation to bzad pa blo gros rgya mtsho (5198)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6769/",
         "label": "don yod dpal (6769)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
-        "label": "rong ston shes bya kun rig (6005)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5198/",
+        "label": "bzad pa blo gros rgya mtsho (5198)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -22,13 +22,40 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[W42HFLNR]: 82. Don yod dpal asks bZad pa Blo gros rgya mtsho to teach gSer mdog paN chen (ID:6276).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1446",
+      "end": "1446"
+    },
+    {
+      "id": 3979,
+      "label": "don yod dpal (6769) teaches pram\u0101\u1e47av\u0101rttika (3772)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6769/",
+        "label": "don yod dpal (6769)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W42HFLNR]: 58, n. 75.",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "end": null
     },
     {
       "id": 3975,
@@ -60,34 +87,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3976,
-      "label": "don yod dpal (6769) author of rigs gter gyi rnam bshad (6770)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6769/",
-        "label": "don yod dpal (6769)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6770/",
-        "label": "rigs gter gyi rnam bshad (6770)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[W42HFLNR]: 58, n. 75.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 3978,
       "label": "don yod dpal (6769) teaches tshad ma rigs gter (5564)",
       "subj": {
@@ -116,8 +115,8 @@
       "end": null
     },
     {
-      "id": 3979,
-      "label": "don yod dpal (6769) teaches pram\u0101\u1e47av\u0101rttika (3772)",
+      "id": 3972,
+      "label": "don yod dpal (6769) student of rong ston shes bya kun rig (6005)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6769/",
         "label": "don yod dpal (6769)",
@@ -125,8 +124,37 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
-        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3976,
+      "label": "don yod dpal (6769) author of rigs gter gyi rnam bshad (6770)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6769/",
+        "label": "don yod dpal (6769)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6770/",
+        "label": "rigs gter gyi rnam bshad (6770)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -142,34 +170,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 3984,
-      "label": "don yod dpal (6769) other relation to bzad pa blo gros rgya mtsho (5198)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6769/",
-        "label": "don yod dpal (6769)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5198/",
-        "label": "bzad pa blo gros rgya mtsho (5198)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[W42HFLNR]: 82. Don yod dpal asks bZad pa Blo gros rgya mtsho to teach gSer mdog paN chen (ID:6276).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": "1446",
-      "end": "1446"
     },
     {
       "id": 3973,

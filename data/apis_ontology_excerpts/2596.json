@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/2596/",
   "xml_id": "exX0032026-09-1705-04-56",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"exX0032026-09-1705-04-56\" status=\"unreviewed\"><milestone unit=\"section\" n=\"112.214.25 the tsom gyi gzhan sel\"/>\n         'o na the tsom la gzhan sel yod dam med zhe na \n         <lb n=\"6a6\"/> <rs type=\"person\" ana=\"corpusmd:unnamed_reference\" ref=\"db:3840\">kha 1</rs> <note type=\"gloss\"><rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3840\">dan</rs></note> na re gzhan sel med | yod na the tsom du 'dod kyang nges pa'i rang bzhin du 'gyur ro zhes zer ba ni \n         ma yin te</seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"exX0032026-09-1705-04-56\" status=\"unreviewed\"><milestone unit=\"section\" n=\"112.214.25 the tsom gyi gzhan sel\"/>\n         'o na the tsom la gzhan sel yod dam med zhe na \n         <lb edRef=\"inst:5508\" n=\"6a6\"/> <rs type=\"person\" ana=\"corpusmd:unnamed_reference\" ref=\"db:3840\">kha 1</rs> <note type=\"gloss\"><rs type=\"person\" ana=\"corpusmd:named_reference\" ref=\"db:3840\">dan</rs></note> na re gzhan sel med | yod na the tsom du 'dod kyang nges pa'i rang bzhin du 'gyur ro zhes zer ba ni \n         ma yin te</seg></TEI>",
   "source": "X_003_Dar ma dkon mchog summary.xml",
   "tibschol_refs": "X_003",
   "zotero_refs": "",
   "status": "unreviewed",
-  "location": "6a5 - 6a6"
+  "location": "inst:5508: 6a5 - 6a6"
 }

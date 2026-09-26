@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 6615,
-      "label": "rong pa rgwa lo rnam rgyal rdo rje (7775) student of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+      "id": 6618,
+      "label": "rong pa rgwa lo rnam rgyal rdo rje (7775) student of 'jam gsar ba shes rab 'od zer (3884)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7775/",
         "label": "rong pa rgwa lo rnam rgyal rdo rje (7775)",
@@ -39,8 +39,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
-        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
+        "label": "'jam gsar ba shes rab 'od zer (3884)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -50,15 +50,13 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[8S7FDMCJ]: 117.",
+      "zotero_refs": "[JZP4CZRX], bdr:P1244 (accessed 23-02-2026)",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 6617,
@@ -90,8 +88,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 6618,
-      "label": "rong pa rgwa lo rnam rgyal rdo rje (7775) student of 'jam gsar ba shes rab 'od zer (3884)",
+      "id": 6615,
+      "label": "rong pa rgwa lo rnam rgyal rdo rje (7775) student of sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7775/",
         "label": "rong pa rgwa lo rnam rgyal rdo rje (7775)",
@@ -99,8 +97,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
-        "label": "'jam gsar ba shes rab 'od zer (3884)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -110,7 +108,38 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P1244 (accessed 23-02-2026)",
+      "zotero_refs": "[8S7FDMCJ]: 117.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 7819,
+      "label": "mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440) student of rong pa rgwa lo rnam rgyal rdo rje (7775)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8440/",
+        "label": "mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7775/",
+        "label": "rong pa rgwa lo rnam rgyal rdo rje (7775)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P1053 (accessed 31.08.2026)",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -145,35 +174,6 @@
       "confidence": "Positive",
       "start": null,
       "end": null
-    },
-    {
-      "id": 7819,
-      "label": "mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440) student of rong pa rgwa lo rnam rgyal rdo rje (7775)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8440/",
-        "label": "mang mkhar lo tsA ba mchog ldan legs pa'i blo gros (8440)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7775/",
-        "label": "rong pa rgwa lo rnam rgyal rdo rje (7775)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[JZP4CZRX], bdr:P1053 (accessed 31.08.2026)",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": "1282-12-31",

@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5066/",
   "relations": [
     {
-      "id": 1781,
-      "label": "dpal ldan ye shes (2) (5066) scribe of bla ma la bstod dang ba'i chu rgyun (5064)",
+      "id": 4714,
+      "label": "dpal ldan ye shes (2) (5066) requests rgyal sras thogs med bzang po (4066)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5066/",
         "label": "dpal ldan ye shes (2) (5066)",
@@ -11,10 +11,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5064/",
-        "label": "bla ma la bstod dang ba'i chu rgyun (5064)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4066/",
+        "label": "rgyal sras thogs med bzang po (4066)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -23,11 +23,12 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex59062024-12-1912-58-48",
-      "support_notes": "",
+      "tei_refs": "",
+      "support_notes": "Requested work (ID:5068).",
       "confidence": "Positive",
       "start": null,
-      "end": null
+      "end": null,
+      "subject_of_teaching_vocab": []
     },
     {
       "id": 1903,
@@ -59,63 +60,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 2874,
-      "label": "dpal ldan ye shes (2) (5066) prompter of jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5068)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5066/",
-        "label": "dpal ldan ye shes (2) (5066)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5068/",
-        "label": "jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5068)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "For the 1st text in the compilation ('jam pa'i dbyangs la bston pa) according to the colophon in (ID:5067) (2a7): yang dag pa'i dge ba'i bshes gnyen dpal ldan ye shes kyis bkul nas | btsun pa thogs med kyis sbyar ba'o ||",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 4714,
-      "label": "dpal ldan ye shes (2) (5066) requests rgyal sras thogs med bzang po (4066)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5066/",
-        "label": "dpal ldan ye shes (2) (5066)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4066/",
-        "label": "rgyal sras thogs med bzang po (4066)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "Requested work (ID:5068).",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 5615,
       "label": "dpal ldan ye shes (2) (5066) author of blo sbyong zin bris dang dmar khrid zin bris bcas (5053)",
       "subj": {
@@ -139,6 +83,62 @@
       "zotero_refs": "Author reported for No. 19859 (ID:5052) in [8H6M69W4]: snyoms las pa dpal ldan ye shes.",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1781,
+      "label": "dpal ldan ye shes (2) (5066) scribe of bla ma la bstod dang ba'i chu rgyun (5064)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5066/",
+        "label": "dpal ldan ye shes (2) (5066)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5064/",
+        "label": "bla ma la bstod dang ba'i chu rgyun (5064)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex59062024-12-1912-58-48",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2874,
+      "label": "dpal ldan ye shes (2) (5066) prompter of jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5068)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5066/",
+        "label": "dpal ldan ye shes (2) (5066)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5068/",
+        "label": "jo bo rin po che'i bstod pa la sogs pa yi dam gyi lha 'ga' zhig gi bstod pa (5068)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "For the 1st text in the compilation ('jam pa'i dbyangs la bston pa) according to the colophon in (ID:5067) (2a7): yang dag pa'i dge ba'i bshes gnyen dpal ldan ye shes kyis bkul nas | btsun pa thogs med kyis sbyar ba'o ||",
       "confidence": "Positive",
       "start": null,
       "end": null

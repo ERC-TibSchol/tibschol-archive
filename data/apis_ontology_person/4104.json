@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4104/",
   "relations": [
     {
-      "id": 323,
-      "label": "glang ri thang pa rdo rje seng ge (4104) student of po to ba rin chen gsal (3829)",
+      "id": 7798,
+      "label": "glang ri thang pa rdo rje seng ge (4104) lineage predecessor of dgyal pa chos 'bar (4156)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4104/",
         "label": "glang ri thang pa rdo rje seng ge (4104)",
@@ -11,8 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3829/",
-        "label": "po to ba rin chen gsal (3829)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4156/",
+        "label": "dgyal pa chos 'bar (4156)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -22,15 +22,43 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "[R894SIKE]: 330 (po to ba'i mdzad pa bzhin du byams chos la sogs pa'i gzhung che ba rnams kyis slob ma skyong |).",
-      "tei_refs": "ex011062026-06-0904-51-43",
+      "zotero_refs": "",
+      "tei_refs": "ex61032023-09-26-091118",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
-        56
+        15
       ]
+    },
+    {
+      "id": 5460,
+      "label": "glang ri thang pa rdo rje seng ge (4104) author of blo sbyong tshig rkang brgyad ma (7236)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4104/",
+        "label": "glang ri thang pa rdo rje seng ge (4104)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7236/",
+        "label": "blo sbyong tshig rkang brgyad ma (7236)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex011062026-06-0904-51-43",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 349,
@@ -91,8 +119,8 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5460,
-      "label": "glang ri thang pa rdo rje seng ge (4104) author of blo sbyong tshig rkang brgyad ma (7236)",
+      "id": 323,
+      "label": "glang ri thang pa rdo rje seng ge (4104) student of po to ba rin chen gsal (3829)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4104/",
         "label": "glang ri thang pa rdo rje seng ge (4104)",
@@ -100,10 +128,10 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7236/",
-        "label": "blo sbyong tshig rkang brgyad ma (7236)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3829/",
+        "label": "po to ba rin chen gsal (3829)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -111,42 +139,14 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "[R894SIKE]: 330 (po to ba'i mdzad pa bzhin du byams chos la sogs pa'i gzhung che ba rnams kyis slob ma skyong |).",
       "tei_refs": "ex011062026-06-0904-51-43",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 7798,
-      "label": "glang ri thang pa rdo rje seng ge (4104) lineage predecessor of dgyal pa chos 'bar (4156)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4104/",
-        "label": "glang ri thang pa rdo rje seng ge (4104)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4156/",
-        "label": "dgyal pa chos 'bar (4156)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex61032023-09-26-091118",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
-        15
+        56
       ]
     },
     {

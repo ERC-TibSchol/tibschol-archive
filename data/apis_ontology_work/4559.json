@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4559/",
   "relations": [
     {
-      "id": 613,
-      "label": "byang chub sems pa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa bsdus pa (4559) commentary on bodhicary\u0101vat\u0101ra (3727)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4559/",
-        "label": "byang chub sems pa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa bsdus pa (4559)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3727/",
-        "label": "bodhicary\u0101vat\u0101ra (3727)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex013052025-11-2712-08-50",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1320,
       "label": "byang chub sems pa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa bsdus pa (4559) has as an instance byang chub sems pa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa bsdus pa (4558)",
       "subj": {
@@ -58,8 +30,8 @@
       "end": null
     },
     {
-      "id": 5353,
-      "label": "byang chub sems pa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa bsdus pa (4559) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i 'grel ba legs par bshad la bsdus pa (7202)",
+      "id": 5354,
+      "label": "byang chub sems pa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa bsdus pa (4559) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i 'grel ba legs bshad bsdus don (7203)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4559/",
         "label": "byang chub sems pa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa bsdus pa (4559)",
@@ -67,8 +39,8 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7202/",
-        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel ba legs par bshad la bsdus pa (7202)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7203/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel ba legs bshad bsdus don (7203)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -86,8 +58,8 @@
       "end": null
     },
     {
-      "id": 5354,
-      "label": "byang chub sems pa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa bsdus pa (4559) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i 'grel ba legs bshad bsdus don (7203)",
+      "id": 613,
+      "label": "byang chub sems pa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa bsdus pa (4559) commentary on bodhicary\u0101vat\u0101ra (3727)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4559/",
         "label": "byang chub sems pa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa bsdus pa (4559)",
@@ -95,8 +67,36 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7203/",
-        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel ba legs bshad bsdus don (7203)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3727/",
+        "label": "bodhicary\u0101vat\u0101ra (3727)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex013052025-11-2712-08-50",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5353,
+      "label": "byang chub sems pa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa bsdus pa (4559) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i 'grel ba legs par bshad la bsdus pa (7202)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4559/",
+        "label": "byang chub sems pa'i spyod pa la 'jug pa'i 'grel pa legs par bshad pa bsdus pa (4559)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7202/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel ba legs par bshad la bsdus pa (7202)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },

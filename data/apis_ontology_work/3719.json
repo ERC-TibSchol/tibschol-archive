@@ -2,34 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3719/",
   "relations": [
     {
-      "id": 7,
-      "label": "n\u0101g\u0101rjuna (3720) author of prat\u012btyasamutp\u0101dah\u1e5bdayavy\u0101khy\u0101na (3719)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3720/",
-        "label": "n\u0101g\u0101rjuna (3720)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3719/",
-        "label": "prat\u012btyasamutp\u0101dah\u1e5bdayavy\u0101khy\u0101na (3719)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 6223,
       "label": "rten 'brel snying po'i 'grel pa (5133) commentary on prat\u012btyasamutp\u0101dah\u1e5bdayavy\u0101khy\u0101na (3719)",
       "subj": {
@@ -53,6 +25,34 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7,
+      "label": "n\u0101g\u0101rjuna (3720) author of prat\u012btyasamutp\u0101dah\u1e5bdayavy\u0101khy\u0101na (3719)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3720/",
+        "label": "n\u0101g\u0101rjuna (3720)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3719/",
+        "label": "prat\u012btyasamutp\u0101dah\u1e5bdayavy\u0101khy\u0101na (3719)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
       "confidence": "Positive",
       "start": null,
       "end": null

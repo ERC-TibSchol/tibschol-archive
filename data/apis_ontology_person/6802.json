@@ -61,8 +61,8 @@
       ]
     },
     {
-      "id": 4126,
-      "label": "Anonymous (7) (6802) quotes without name sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+      "id": 6649,
+      "label": "Anonymous (7) (6802) quotes with name khyung rin chen grags (3809)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6802/",
         "label": "Anonymous (7) (6802)",
@@ -70,8 +70,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
-        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
+        "label": "khyung rin chen grags (3809)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -82,41 +82,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex45042024-08-2914-22-289 (rigs pa'i gter)\r\nex45042024-08-2914-22-30 (rigs gter)\r\nex45042024-08-2914-22-3010 (rigs gter)",
+      "tei_refs": "ex045042026-02-2416-29-18",
       "support_notes": "",
-      "confidence": "Positive",
+      "confidence": "Uncertain",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 4127,
-      "label": "Anonymous (7) (6802) quotes with name sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6802/",
-        "label": "Anonymous (7) (6802)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
-        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex45042024-08-2914-18-35 (sa skya paNDita)\r\nex45042024-08-2914-22 (chos rje pa)\r\nex45042024-08-2914-22-30c (chos kyi rje, rigs gter)\r\nex45042024-08-2914-22-283 (chos rje thams cad mkhyen pa)",
-      "support_notes": "44 references to chos rje, chos rje pa, chos kyi rje, chos rje thams cad mkhyen pa",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 6648,
@@ -143,37 +116,6 @@
       "tei_refs": "ex045042026-02-2416-13-44",
       "support_notes": "",
       "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
-      "id": 6649,
-      "label": "Anonymous (7) (6802) quotes with name khyung rin chen grags (3809)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6802/",
-        "label": "Anonymous (7) (6802)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3809/",
-        "label": "khyung rin chen grags (3809)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex045042026-02-2416-29-18",
-      "support_notes": "",
-      "confidence": "Uncertain",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
@@ -241,6 +183,64 @@
       "subject_of_teaching_vocab": [
         9
       ]
+    },
+    {
+      "id": 4127,
+      "label": "Anonymous (7) (6802) quotes with name sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6802/",
+        "label": "Anonymous (7) (6802)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex45042024-08-2914-18-35 (sa skya paNDita)\r\nex45042024-08-2914-22 (chos rje pa)\r\nex45042024-08-2914-22-30c (chos kyi rje, rigs gter)\r\nex45042024-08-2914-22-283 (chos rje thams cad mkhyen pa)",
+      "support_notes": "44 references to chos rje, chos rje pa, chos kyi rje, chos rje thams cad mkhyen pa",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4126,
+      "label": "Anonymous (7) (6802) quotes without name sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6802/",
+        "label": "Anonymous (7) (6802)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex45042024-08-2914-22-289 (rigs pa'i gter)\r\nex45042024-08-2914-22-30 (rigs gter)\r\nex45042024-08-2914-22-3010 (rigs gter)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "end_date_to": null,

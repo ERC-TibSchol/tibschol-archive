@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
   "relations": [
     {
-      "id": 968,
-      "label": "chos kyi grags pa (6022) author of mngon rtogs rgyan 'grel pa (5177)",
+      "id": 7805,
+      "label": "chos kyi grags pa (6022) quotes with name ku lan ta (6951)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
         "label": "chos kyi grags pa (6022)",
@@ -11,36 +11,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5177/",
-        "label": "mngon rtogs rgyan 'grel pa (5177)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 5178,
-      "label": "chos kyi grags pa (6022) quotes with name khu ston brtson 'grus g.yung drung (4235)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
-        "label": "chos kyi grags pa (6022)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
-        "label": "khu ston brtson 'grus g.yung drung (4235)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6951/",
+        "label": "ku lan ta (6951)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -51,9 +23,9 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex71032024-10-31-14-43",
+      "tei_refs": "ex71032024-10-31-13-39",
       "support_notes": "",
-      "confidence": "Positive",
+      "confidence": "Uncertain",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
@@ -62,8 +34,8 @@
       ]
     },
     {
-      "id": 5179,
-      "label": "chos kyi grags pa (6022) quotes with name sthirap\u0101la (5611)",
+      "id": 5184,
+      "label": "chos kyi grags pa (6022) quotes with name rgya dmar ba byang chub grags (3834)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
         "label": "chos kyi grags pa (6022)",
@@ -71,8 +43,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5611/",
-        "label": "sthirap\u0101la (5611)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
+        "label": "rgya dmar ba byang chub grags (3834)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -83,7 +55,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex71032024-10-31-12-55\r\nex071032026-09-2105-14-11",
+      "tei_refs": "ex71032024-10-31-16-06",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -126,8 +98,8 @@
       ]
     },
     {
-      "id": 5181,
-      "label": "chos kyi grags pa (6022) quotes with name 'bre shes rab 'bar (3807)",
+      "id": 5178,
+      "label": "chos kyi grags pa (6022) quotes with name khu ston brtson 'grus g.yung drung (4235)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
         "label": "chos kyi grags pa (6022)",
@@ -135,72 +107,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
-        "label": "'bre shes rab 'bar (3807)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex71032024-10-31-13-19",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        56,
-        7
-      ]
-    },
-    {
-      "id": 5182,
-      "label": "chos kyi grags pa (6022) quotes with name ar byang chub ye shes (3816)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
-        "label": "chos kyi grags pa (6022)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3816/",
-        "label": "ar byang chub ye shes (3816)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex71032024-10-31-13-22",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        56,
-        7
-      ]
-    },
-    {
-      "id": 5183,
-      "label": "chos kyi grags pa (6022) quotes with name sna chung ston pa (4268)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
-        "label": "chos kyi grags pa (6022)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4268/",
-        "label": "sna chung ston pa (4268)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4235/",
+        "label": "khu ston brtson 'grus g.yung drung (4235)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -212,38 +120,6 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "ex71032024-10-31-14-43",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        56,
-        7
-      ]
-    },
-    {
-      "id": 5184,
-      "label": "chos kyi grags pa (6022) quotes with name rgya dmar ba byang chub grags (3834)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
-        "label": "chos kyi grags pa (6022)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3834/",
-        "label": "rgya dmar ba byang chub grags (3834)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex71032024-10-31-16-06",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -286,8 +162,8 @@
       ]
     },
     {
-      "id": 7805,
-      "label": "chos kyi grags pa (6022) quotes with name ku lan ta (6951)",
+      "id": 5183,
+      "label": "chos kyi grags pa (6022) quotes with name sna chung ston pa (4268)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
         "label": "chos kyi grags pa (6022)",
@@ -295,8 +171,8 @@
         "content_type_name": "person"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6951/",
-        "label": "ku lan ta (6951)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4268/",
+        "label": "sna chung ston pa (4268)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -307,9 +183,133 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex71032024-10-31-13-39",
+      "tei_refs": "ex71032024-10-31-14-43",
       "support_notes": "",
-      "confidence": "Uncertain",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
+    },
+    {
+      "id": 968,
+      "label": "chos kyi grags pa (6022) author of mngon rtogs rgyan 'grel pa (5177)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
+        "label": "chos kyi grags pa (6022)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5177/",
+        "label": "mngon rtogs rgyan 'grel pa (5177)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5182,
+      "label": "chos kyi grags pa (6022) quotes with name ar byang chub ye shes (3816)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
+        "label": "chos kyi grags pa (6022)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3816/",
+        "label": "ar byang chub ye shes (3816)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex71032024-10-31-13-22",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
+    },
+    {
+      "id": 5179,
+      "label": "chos kyi grags pa (6022) quotes with name sthirap\u0101la (5611)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
+        "label": "chos kyi grags pa (6022)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5611/",
+        "label": "sthirap\u0101la (5611)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex71032024-10-31-12-55\r\nex071032026-09-2105-14-11",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
+    },
+    {
+      "id": 5181,
+      "label": "chos kyi grags pa (6022) quotes with name 'bre shes rab 'bar (3807)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
+        "label": "chos kyi grags pa (6022)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3807/",
+        "label": "'bre shes rab 'bar (3807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex71032024-10-31-13-19",
+      "support_notes": "",
+      "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [

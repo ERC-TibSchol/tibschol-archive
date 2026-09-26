@@ -2,62 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5153/",
   "relations": [
     {
-      "id": 951,
-      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153) commentary on bodhicary\u0101vat\u0101ra (3727)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5153/",
-        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3727/",
-        "label": "bodhicary\u0101vat\u0101ra (3727)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 1591,
-      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (2) (5152)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5153/",
-        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5152/",
-        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (2) (5152)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1912,
       "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (3) (4711)",
       "subj": {
@@ -81,6 +25,34 @@
       "zotero_refs": null,
       "tei_refs": null,
       "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7286,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153) has as an instance spyod 'jug 'grel pa gzhung don snang ba (8143)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5153/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8143/",
+        "label": "spyod 'jug 'grel pa gzhung don snang ba (8143)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -114,6 +86,62 @@
       "end": null
     },
     {
+      "id": 1591,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (2) (5152)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5153/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5152/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (2) (5152)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 951,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153) commentary on bodhicary\u0101vat\u0101ra (3727)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5153/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3727/",
+        "label": "bodhicary\u0101vat\u0101ra (3727)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4231,
       "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (1) (6843)",
       "subj": {
@@ -125,34 +153,6 @@
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6843/",
         "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (1) (6843)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 7286,
-      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153) has as an instance spyod 'jug 'grel pa gzhung don snang ba (8143)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5153/",
-        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i 'grel pa gzhung don snang ba (5153)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8143/",
-        "label": "spyod 'jug 'grel pa gzhung don snang ba (8143)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },

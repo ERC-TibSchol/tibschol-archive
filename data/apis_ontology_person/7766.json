@@ -31,37 +31,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3655,
-      "label": "'jam dbyangs skya bo nam mkha' dpal (6621) lineage predecessor of dpal ldan pa (7766)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6621/",
-        "label": "'jam dbyangs skya bo nam mkha' dpal (6621)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7766/",
-        "label": "dpal ldan pa (7766)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 144. \"dpal ldan pa\" follows \"'Jam dbyangs skya bo\" in the lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772).",
-      "tei_refs": "",
-      "support_notes": "This dPal ldan pa cannot be gSang phu ba dPal ldan seng ge (ID:6364), who flourished in the mid-15th c.",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        9
-      ]
-    },
-    {
       "id": 6587,
       "label": "btsun pa ston gzhon (5942) student of dpal ldan pa (7766)",
       "subj": {
@@ -86,6 +55,37 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 3655,
+      "label": "'jam dbyangs skya bo nam mkha' dpal (6621) lineage predecessor of dpal ldan pa (7766)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6621/",
+        "label": "'jam dbyangs skya bo nam mkha' dpal (6621)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7766/",
+        "label": "dpal ldan pa (7766)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 144. \"dpal ldan pa\" follows \"'Jam dbyangs skya bo\" in the lineage of the Pram\u0101\u1e47av\u0101rttika (ID:3772).",
+      "tei_refs": "",
+      "support_notes": "This dPal ldan pa cannot be gSang phu ba dPal ldan seng ge (ID:6364), who flourished in the mid-15th c.",
+      "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [

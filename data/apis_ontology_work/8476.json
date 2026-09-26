@@ -2,8 +2,8 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8476/",
   "relations": [
     {
-      "id": 7885,
-      "label": "byang chub sems 'grel gyi 'grel bshad dpag sam gyi ljon shing (8476) commentary on bodhicittavivara\u1e47a (3699)",
+      "id": 7893,
+      "label": "byang chub sems 'grel gyi 'grel bshad dpag sam gyi ljon shing (8476) has as an instance byang chub sems 'grel gyi 'grel bshad dpag sam gyi ljon shing (8480)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8476/",
         "label": "byang chub sems 'grel gyi 'grel bshad dpag sam gyi ljon shing (8476)",
@@ -11,10 +11,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3699/",
-        "label": "bodhicittavivara\u1e47a (3699)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8480/",
+        "label": "byang chub sems 'grel gyi 'grel bshad dpag sam gyi ljon shing (8480)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
       },
       "end_date_to": null,
       "end_date_from": null,
@@ -30,8 +30,8 @@
       "end": null
     },
     {
-      "id": 7893,
-      "label": "byang chub sems 'grel gyi 'grel bshad dpag sam gyi ljon shing (8476) has as an instance byang chub sems 'grel gyi 'grel bshad dpag sam gyi ljon shing (8480)",
+      "id": 7885,
+      "label": "byang chub sems 'grel gyi 'grel bshad dpag sam gyi ljon shing (8476) commentary on bodhicittavivara\u1e47a (3699)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8476/",
         "label": "byang chub sems 'grel gyi 'grel bshad dpag sam gyi ljon shing (8476)",
@@ -39,10 +39,10 @@
         "content_type_name": "work"
       },
       "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8480/",
-        "label": "byang chub sems 'grel gyi 'grel bshad dpag sam gyi ljon shing (8480)",
-        "content_type_key": "apis_ontology.instance",
-        "content_type_name": "instance"
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3699/",
+        "label": "bodhicittavivara\u1e47a (3699)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
       },
       "end_date_to": null,
       "end_date_from": null,

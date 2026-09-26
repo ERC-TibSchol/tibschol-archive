@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5948/",
   "relations": [
     {
+      "id": 2130,
+      "label": "mgon ldan 'od (5948) prompter of mchod pa'i cho ga rgyan gyi me tog (5005)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5948/",
+        "label": "mgon ldan 'od (5948)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5005/",
+        "label": "mchod pa'i cho ga rgyan gyi me tog (5005)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex56152023-09-251",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2129,
       "label": "mgon ldan 'od (5948) active at mnga' ris (5949)",
       "subj": {
@@ -29,34 +57,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 2130,
-      "label": "mgon ldan 'od (5948) prompter of mchod pa'i cho ga rgyan gyi me tog (5005)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5948/",
-        "label": "mgon ldan 'od (5948)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5005/",
-        "label": "mchod pa'i cho ga rgyan gyi me tog (5005)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex56152023-09-251",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 2131,

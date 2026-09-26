@@ -415,11 +415,13 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "In Pham byed.",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 6917,
@@ -921,34 +923,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 3969,
-      "label": "rong ston shes bya kun rig (6005) ordinator of gser mdog paN chen shAkya mchog ldan (6276)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
-        "label": "rong ston shes bya kun rig (6005)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6276/",
-        "label": "gser mdog paN chen shAkya mchog ldan (6276)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[W42HFLNR]: 54. Interim ordination (bar ma rab byung) in sKyor mo lung (ID:4378).\r\n[W42HFLNR]: 66. Novice ordination in NAlendra (ID:6771) in 1440.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 3989,
       "label": "lokottara (6773) other relation to gser mdog paN chen shAkya mchog ldan (6276)",
       "subj": {
@@ -975,6 +949,34 @@
       "confidence": "Positive",
       "start": "1465",
       "end": "1465"
+    },
+    {
+      "id": 3969,
+      "label": "rong ston shes bya kun rig (6005) ordinator of gser mdog paN chen shAkya mchog ldan (6276)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6276/",
+        "label": "gser mdog paN chen shAkya mchog ldan (6276)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W42HFLNR]: 54. Interim ordination (bar ma rab byung) in sKyor mo lung (ID:4378).\r\n[W42HFLNR]: 66. Novice ordination in NAlendra (ID:6771) in 1440.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     }
   ],
   "end_date_to": "1507-12-31",

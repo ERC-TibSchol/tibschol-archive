@@ -2,62 +2,6 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3702/",
   "relations": [
     {
-      "id": 2,
-      "label": "\u0101ryadeva (3702) author of cary\u0101mel\u0101pakaprad\u012bpa (3701)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3702/",
-        "label": "\u0101ryadeva (3702)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3701/",
-        "label": "cary\u0101mel\u0101pakaprad\u012bpa (3701)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 1214,
-      "label": "\u0101ryadeva (3702) author of catu\u1e25\u015bataka\u015b\u0101stran\u0101mak\u0101rik\u0101 (3721)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3702/",
-        "label": "\u0101ryadeva (3702)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3721/",
-        "label": "catu\u1e25\u015bataka\u015b\u0101stran\u0101mak\u0101rik\u0101 (3721)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
       "id": 1984,
       "label": "\u0101ryadeva (3702) author of j\u00f1\u0101nas\u0101rasamuccaya (5884)",
       "subj": {
@@ -69,6 +13,34 @@
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5884/",
         "label": "j\u00f1\u0101nas\u0101rasamuccaya (5884)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2,
+      "label": "\u0101ryadeva (3702) author of cary\u0101mel\u0101pakaprad\u012bpa (3701)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3702/",
+        "label": "\u0101ryadeva (3702)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3701/",
+        "label": "cary\u0101mel\u0101pakaprad\u012bpa (3701)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -117,6 +89,34 @@
         48,
         13
       ]
+    },
+    {
+      "id": 1214,
+      "label": "\u0101ryadeva (3702) author of catu\u1e25\u015bataka\u015b\u0101stran\u0101mak\u0101rik\u0101 (3721)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3702/",
+        "label": "\u0101ryadeva (3702)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3721/",
+        "label": "catu\u1e25\u015bataka\u015b\u0101stran\u0101mak\u0101rik\u0101 (3721)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 4064,

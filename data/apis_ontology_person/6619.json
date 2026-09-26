@@ -31,6 +31,34 @@
       "subject_of_teaching_vocab": []
     },
     {
+      "id": 3593,
+      "label": "'jam dbyangs rin chen rgyal mtshan (6619) teaches pram\u0101\u1e47av\u0101rttika (3772)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6619/",
+        "label": "'jam dbyangs rin chen rgyal mtshan (6619)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 129.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3567,
       "label": "'jam dbyangs rin chen rgyal mtshan (6619) author of tshad ma rnam 'grel tika (1) (6620)",
       "subj": {
@@ -86,34 +114,6 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 3593,
-      "label": "'jam dbyangs rin chen rgyal mtshan (6619) teaches pram\u0101\u1e47av\u0101rttika (3772)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6619/",
-        "label": "'jam dbyangs rin chen rgyal mtshan (6619)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
-        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[FEHIEFEB]: 129.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 6662,
@@ -172,6 +172,34 @@
       "end": null
     },
     {
+      "id": 3633,
+      "label": "byang sems rgyal ba ye shes (6643) biographer of 'jam dbyangs rin chen rgyal mtshan (6619)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6643/",
+        "label": "byang sems rgyal ba ye shes (6643)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6619/",
+        "label": "'jam dbyangs rin chen rgyal mtshan (6619)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[E8Z2R8MK]: 188-189.\r\n[FEHIEFEB]: 126.",
+      "tei_refs": "",
+      "support_notes": "Work (ID:7797).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3592,
       "label": "mus chen rgyal mtshan dpal bzang po (6626) student of 'jam dbyangs rin chen rgyal mtshan (6619)",
       "subj": {
@@ -201,34 +229,6 @@
       "subject_of_teaching_vocab": [
         9
       ]
-    },
-    {
-      "id": 3633,
-      "label": "byang sems rgyal ba ye shes (6643) biographer of 'jam dbyangs rin chen rgyal mtshan (6619)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6643/",
-        "label": "byang sems rgyal ba ye shes (6643)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6619/",
-        "label": "'jam dbyangs rin chen rgyal mtshan (6619)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[E8Z2R8MK]: 188-189.\r\n[FEHIEFEB]: 126.",
-      "tei_refs": "",
-      "support_notes": "Work (ID:7797).",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 3635,
