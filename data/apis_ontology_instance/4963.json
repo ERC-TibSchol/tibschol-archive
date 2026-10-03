@@ -1,0 +1,119 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4963/",
+  "relations": [
+    {
+      "id": 1898,
+      "label": "rje btsun seng ge sgra'i man ngag (2) (4963) has source rje btsun seng ge sgra'i man ngag (1) (5862)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4963/",
+        "label": "rje btsun seng ge sgra'i man ngag (2) (4963)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5862/",
+        "label": "rje btsun seng ge sgra'i man ngag (1) (5862)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex55102024-09-3016-41-552",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4330,
+      "label": "ze'u grags pa shes rab (4065) scribe of rje btsun seng ge sgra'i man ngag (2) (4963)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4065/",
+        "label": "ze'u grags pa shes rab (4065)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4963/",
+        "label": "rje btsun seng ge sgra'i man ngag (2) (4963)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex55102024-09-3016-41-552",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1504,
+      "label": "rje btsun seng ge sgra'i man ngag (4964) has as an instance rje btsun seng ge sgra'i man ngag (2) (4963)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4964/",
+        "label": "rje btsun seng ge sgra'i man ngag (4964)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4963/",
+        "label": "rje btsun seng ge sgra'i man ngag (2) (4963)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f62\u0f97\u0f7a\u0f0b\u0f56\u0f59\u0f74\u0f53\u0f0b\u0f66\u0f7a\u0f44\u0f0b\u0f42\u0f7a\u0f0b\u0f66\u0f92\u0fb2\u0f60\u0f72\u0f0b\u0f58\u0f53\u0f0b\u0f44\u0f42 \u0f3c\u0f22\u0f3d",
+  "comments": "",
+  "alternative_names_legacy": "rje btsun seng ge sgra'i man ngag (incipit, colophon)",
+  "alternative_names": [
+    {
+      "label": "rje btsun seng ge sgra'i man ngag (incipit, colophon)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_886FFC",
+  "review": true,
+  "start": null,
+  "name": "rje btsun seng ge sgra'i man ngag (2)",
+  "set_num": "Set 2",
+  "volume": "55",
+  "sb_text_number": "10",
+  "pp_kdsb": "427-428",
+  "num_folios": "1",
+  "signature_letter": "ma",
+  "signature_number": "926",
+  "drepung_number": "12485",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "2_055_10",
+  "availability": "available",
+  "dimension": "34 x 6.5",
+  "item_description": "Signature written in the left margin.\r\nScript: 'bru tsha."
+}

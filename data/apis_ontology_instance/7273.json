@@ -1,0 +1,58 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7273/",
+  "relations": [
+    {
+      "id": 5542,
+      "label": "mdo sde kun las btus pa rgyan gyi me tog (5012) has as an instance mdo sde rgyan gyi me tog (7273)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5012/",
+        "label": "mdo sde kun las btus pa rgyan gyi me tog (5012)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7273/",
+        "label": "mdo sde rgyan gyi me tog (7273)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Possibly an instance of (ID:5011) if the title corresponds to that on the cover page and in the incipit of instance (ID:5011). However, it only counts 14 folios, against 73 for (ID:5011). It could be an incomplete instance of (ID:5012), or an instance of another work, such as (ID:5101).",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f58\u0f51\u0f7c\u0f0b\u0f66\u0fa1\u0f7a\u0f0b\u0f62\u0f92\u0fb1\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f58\u0f7a\u0f0b\u0f4f\u0f7c\u0f42",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "name": "mdo sde rgyan gyi me tog",
+  "set_num": null,
+  "volume": null,
+  "sb_text_number": "",
+  "pp_kdsb": null,
+  "num_folios": "14",
+  "signature_letter": "tsha",
+  "signature_number": "132",
+  "drepung_number": "16047",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "",
+  "availability": "non-accessible",
+  "dimension": "33.5 x 6",
+  "item_description": "Script: dpe tshugs."
+}

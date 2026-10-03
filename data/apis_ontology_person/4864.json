@@ -1,0 +1,55 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4864/",
+  "relations": [
+    {
+      "id": 905,
+      "label": "rtsed pa bsod nams blo gros (4864) owner of skyo ston smon lam tshul khrims kyi gsan yig (5078)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4864/",
+        "label": "rtsed pa bsod nams blo gros (4864)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5078/",
+        "label": "skyo ston smon lam tshul khrims kyi gsan yig (5078)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50122024-09-1712-56-13",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": "1229-01-01",
+  "start_date_sort": "1229-01-01",
+  "tibetan_transliteration": "\u0f62\u0fa9\u0f7a\u0f51\u0f0b\u0f54\u0f0b\u0f56\u0f66\u0f7c\u0f51\u0f0b\u0f53\u0f58\u0f66\u0f0b\u0f56\u0fb3\u0f7c\u0f0b\u0f42\u0fb2\u0f7c\u0f66",
+  "comments": "",
+  "alternative_names_legacy": "shAkya'i btsun pa rtsed pa bsod nams blo gros",
+  "alternative_names": [
+    {
+      "label": "shAkya'i btsun pa rtsed pa bsod nams blo gros",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": "after 1229",
+  "end": null,
+  "name": "rtsed pa bsod nams blo gros",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

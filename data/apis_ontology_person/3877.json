@@ -1,0 +1,51 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3877/",
+  "relations": [
+    {
+      "id": 140,
+      "label": "gtsang nag pa brtson 'grus seng ge (3839) student of kha mo ze'u pa (3877)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3839/",
+        "label": "gtsang nag pa brtson 'grus seng ge (3839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3877/",
+        "label": "kha mo ze'u pa (3877)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P5753 (accessed 08.06.2026)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": "1100-12-31",
+  "start_date_from": "1100-01-01",
+  "start_date_sort": "1100-07-02",
+  "tibetan_transliteration": "\u0f41\u0f0b\u0f58\u0f7c\u0f0b\u0f5f\u0f7a\u0f60\u0f74\u0f0b\u0f54",
+  "comments": "Based on their dates, he is a different person than Khu le'i kha mo ze'u ston, Chu mig pa shes rab grags (ID:3975).",
+  "alternative_names_legacy": "",
+  "alternative_names": [],
+  "external_links": "https://purl.bdrc.io/resource/P5753",
+  "review": false,
+  "start": "1100",
+  "end": null,
+  "name": "kha mo ze'u pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

@@ -1,0 +1,83 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4505/",
+  "relations": [
+    {
+      "id": 1295,
+      "label": "bde bar gshegs pa dang phyi rol pa'i gzhung rnam par 'byed pa (4505) has as an instance bde bar gshegs pa dang phyi rol pa'i gzhung rnam par 'byed pa (4504)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4505/",
+        "label": "bde bar gshegs pa dang phyi rol pa'i gzhung rnam par 'byed pa (4505)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4504/",
+        "label": "bde bar gshegs pa dang phyi rol pa'i gzhung rnam par 'byed pa (4504)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 580,
+      "label": "phywa pa chos kyi seng ge (3831) author of bde bar gshegs pa dang phyi rol pa'i gzhung rnam par 'byed pa (4505)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4505/",
+        "label": "bde bar gshegs pa dang phyi rol pa'i gzhung rnam par 'byed pa (4505)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex9012024-10-0913-15-03",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1169-12-31",
+  "start_date_from": "1119-01-01",
+  "start_date_sort": "1144-07-01",
+  "tibetan_transliteration": "\u0f56\u0f51\u0f7a\u0f0b\u0f56\u0f62\u0f0b\u0f42\u0f64\u0f7a\u0f42\u0f66\u0f0b\u0f54\u0f0b\u0f51\u0f44\u0f0b\u0f55\u0fb1\u0f72\u0f0b\u0f62\u0f7c\u0f63\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f42\u0f5e\u0f74\u0f44\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f54\u0f62\u0f0b\u0f60\u0f56\u0fb1\u0f7a\u0f51\u0f0b\u0f54",
+  "comments": "Doxographical presentation of non-Buddhist and Buddhist philosophical schools drawing information from the Tarkajv\u0101la (ID:5586), Praj\u00f1\u0101prad\u012bpa\u1e6d\u012bk\u0101, Tattvasa\u1e43graha (ID:7416) (and \u00b0pa\u00f1jik\u0101 (ID:7417)) and Madhyamak\u0101vat\u0101ra (ID:3726)/(ID:5885). It offers summarized refutation of each of the non-Buddhist systems and of some of the Buddhist systems, and rejection of objections against Madhyamaka. It includes extensive quotes for non-Buddhist systems, and a few citations in the section on Buddhist schools (from the Abhidharmako\u015ba (ID:3761), Madhyamak\u0101la\u1e43k\u0101ra (ID:3731),\r\nPram\u0101\u1e47av\u0101rttika (ID:3772), Tri\u1e43\u015bik\u0101, Mah\u0101y\u0101nasa\u1e43graha (ID:3753) and Mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra (ID:3746). See [WLWGS439]: 24\u201325\r\nfor the details. \r\nThe section on Madhyamaka does not mention the division between sv\u0101tantrika and pr\u0101sa\u1e45gika, but only delves on the division between the non-abiding view and illusionist view with regard to ultimate reality, while on the conventional level, the author refutes madhyamka adopting a system akin to yog\u0101c\u0101ra and to sautr\u0101ntika.\r\nA synoptic tables is provided in [WLWGS439]: 23 and [UAHPCR5I]: 69-71.\r\n\r\nThe structure of the text does not follow a strict sa bcad hierarchy (as found in Phya pa\u2019s other works). A six-fold division (not referred to as \u201cchapters\u201d) structures the six systems that Phya pa distinguishes \u2013 five non-Buddhists (vai\u1e63\u1e47ava, \u015baiva, jaina, s\u0101\u1e43khya, c\u0101rvaka) and the Buddhists (see [WLWGS439]: 22).\r\n\r\nThis doxography was reported by 'Gos lo ts\u0101 ba in the [MQB8JGAX] (as phyi nang gi grub mtha\u2019) and by A khu ching in the Tho yig ([5RXEUKD9], No. 11910: phyi nang gi grub mtha\u2019i rnam bzhag bsdus pa) ([WLWGS439]: 21). Werner points out multiple re-use of Phya pa\u2019s doxography in Klong chen pa (ID:6062)'s Grub mtha' mdzod.",
+  "alternative_names_legacy": "phya pa chos seng gi phyi nang gi grub mtha'i rnam bzhag bsdus pa",
+  "alternative_names": [
+    {
+      "label": "phya pa chos seng gi phyi nang gi grub mtha'i rnam bzhag bsdus pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": "after 1119 before 1169",
+  "name": "bde bar gshegs pa dang phyi rol pa'i gzhung rnam par 'byed pa",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/14/"
+  ]
+}

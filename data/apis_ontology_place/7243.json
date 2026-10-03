@@ -1,0 +1,105 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7243/",
+  "relations": [
+    {
+      "id": 5471,
+      "label": "gsang phu mthong smon grwa tshang (7243) located within gsang phu ne'u thog (4332)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7243/",
+        "label": "gsang phu mthong smon grwa tshang (7243)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4332/",
+        "label": "gsang phu ne'u thog (4332)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[9BEDJZXI]: 67.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5472,
+      "label": "rgyud smad shes rab seng ge (4123) active at gsang phu mthong smon grwa tshang (7243)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4123/",
+        "label": "rgyud smad shes rab seng ge (4123)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7243/",
+        "label": "gsang phu mthong smon grwa tshang (7243)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1445-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1445-12-31",
+      "start_date_to": null,
+      "start_date_from": "1393-01-01",
+      "start_date_sort": "1393-01-01",
+      "zotero_refs": "[9BEDJZXI]: 67 (re zhig gsang phu mthong smon grwa tshang gi 'chad nyan pa mdzad | de nas grwa tshang de rje dge 'dun grub pa la gtad).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1393",
+      "end": "before 1445",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 5473,
+      "label": "dge 'dun grub pa (7060) active at gsang phu mthong smon grwa tshang (7243)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
+        "label": "dge 'dun grub pa (7060)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7243/",
+        "label": "gsang phu mthong smon grwa tshang (7243)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1474-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1474-12-31",
+      "start_date_to": null,
+      "start_date_from": "1400-01-01",
+      "start_date_sort": "1400-01-01",
+      "zotero_refs": "[9BEDJZXI]: 67 (re zhig gsang phu mthong smon grwa tshang gi 'chad nyan pa mdzad | de nas grwa tshang de rje dge 'dun grub pa la gtad).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1400",
+      "end": "before 1474",
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "latitude": null,
+  "longitude": null,
+  "feature_code": "",
+  "tibetan_transliteration": "\u0f42\u0f66\u0f44\u0f0b\u0f55\u0f74\u0f0b\u0f58\u0f50\u0f7c\u0f44\u0f0b\u0f66\u0fa8\u0f7c\u0f53\u0f0b\u0f42\u0fb2\u0fad\u0f0b\u0f5a\u0f44",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "label": "gsang phu mthong smon grwa tshang",
+  "start": null
+}

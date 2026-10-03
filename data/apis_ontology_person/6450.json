@@ -1,0 +1,109 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6450/",
+  "relations": [
+    {
+      "id": 3207,
+      "label": "rgya 'jam dpal gsang ba (6450) active at nyan tsho'i lha khang (6477)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6450/",
+        "label": "rgya 'jam dpal gsang ba (6450)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6477/",
+        "label": "nyan tsho'i lha khang (6477)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 525, n. 19, based on [Y2ZN5C6X]: 4b1-2. The foundation of Nyan tsho'i lha khang is ascribed to rGya 'Jam dpal gsang ba.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3196,
+      "label": "rgya 'jam dpal gsang ba (6450) active at rtsis gnas gsar (6464)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6450/",
+        "label": "rgya 'jam dpal gsang ba (6450)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6464/",
+        "label": "rtsis gnas gsar (6464)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 525, n. 19. The foundation of rTsis kyi lha khang is ascribed to rGya 'Jam dpal gsang ba.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3148,
+      "label": "rgya 'jam dpal gsang ba (6450) active at gnas rnying (4341)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6450/",
+        "label": "rgya 'jam dpal gsang ba (6450)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4341/",
+        "label": "gnas rnying (4341)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[4LDAV8UH]: 86. Built gNas rnying between 821/2 and 836.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "0860-12-31",
+  "end_date_from": "0840-01-01",
+  "end_date_sort": "0850-07-02",
+  "start_date_to": "0770-12-31",
+  "start_date_from": "0750-01-01",
+  "start_date_sort": "0760-07-01",
+  "tibetan_transliteration": "\u0f62\u0f92\u0fb1\u0f0b\u0f60\u0f47\u0f58\u0f0b\u0f51\u0f54\u0f63\u0f0b\u0f42\u0f66\u0f44\u0f0b\u0f56",
+  "comments": "Also credited with the foundation of rTsis kyi lha khang (ID: 6464), Nyan tsho lha khang (ID:6477), Bye mda' lha khang, Chos phu lha khang and lhag phuyng lha khang ([647FFPZR]: 525, n. 19, based on [Y2ZN5C6X]: 4b1-2).",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "after 750 before 770",
+  "end": "after 840 before 860",
+  "name": "rgya 'jam dpal gsang ba",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

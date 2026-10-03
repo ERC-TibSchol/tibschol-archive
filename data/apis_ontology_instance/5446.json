@@ -1,0 +1,91 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5446/",
+  "relations": [
+    {
+      "id": 1726,
+      "label": "sdom pa nyi shu pa'i rnam par bshad pa (5447) has as an instance sdom pa nyi shu pa'i rnam par bshad pa (5446)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5447/",
+        "label": "sdom pa nyi shu pa'i rnam par bshad pa (5447)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5446/",
+        "label": "sdom pa nyi shu pa'i rnam par bshad pa (5446)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1790,
+      "label": "dmar zhig (5448) scribe of sdom pa nyi shu pa'i rnam par bshad pa (5446)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5448/",
+        "label": "dmar zhig (5448)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5446/",
+        "label": "sdom pa nyi shu pa'i rnam par bshad pa (5446)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Colophon, fol. 12b6: sdoM pa nyi shu pa'i rnaM par bshad pa \u00a6 rje rin po ches mdzod ma byub dpal gyi gling gong du mdzad pa'o || dmar zhig bdag gis bris (12b7) pa yin ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f66\u0fa1\u0f7c\u0f58\u0f0b\u0f54\u0f0b\u0f49\u0f72\u0f0b\u0f64\u0f74\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f54\u0f62\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f54",
+  "comments": "The bundle number \"273\" in the signature was crossed out, and the number \"362\" was written below it.",
+  "alternative_names_legacy": "sdom pa nyi shu pa'i yig sna (cover page, catalogue)",
+  "alternative_names": [
+    {
+      "label": "sdom pa nyi shu pa'i yig sna (cover page, catalogue)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW4PD3076_700028",
+  "review": true,
+  "start": null,
+  "name": "sdom pa nyi shu pa'i rnam par bshad pa",
+  "set_num": "Set 4",
+  "volume": "110",
+  "sb_text_number": "4",
+  "pp_kdsb": "221-244",
+  "num_folios": "12",
+  "signature_letter": "la",
+  "signature_number": "362",
+  "drepung_number": "18844",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "4_110_04",
+  "availability": "available",
+  "dimension": "32.5 x 7.5",
+  "item_description": "Script: 'bru tsha."
+}

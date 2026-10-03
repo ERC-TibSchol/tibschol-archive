@@ -1,0 +1,86 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7323/",
+  "relations": [
+    {
+      "id": 5671,
+      "label": "byang chub sems dpa' yi bslabs pa kun las btus pa'i 'grel bshad (4649) has as an instance bslab pa kun las btus pa'i Tik+ka (7323)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4649/",
+        "label": "byang chub sems dpa' yi bslabs pa kun las btus pa'i 'grel bshad (4649)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7323/",
+        "label": "bslab pa kun las btus pa'i Tik+ka (7323)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5672,
+      "label": "chos kyi 'od zer (7324) owner of bslab pa kun las btus pa'i Tik+ka (7323)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7324/",
+        "label": "chos kyi 'od zer (7324)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7323/",
+        "label": "bslab pa kun las btus pa'i Tik+ka (7323)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[HMSTSJ7Q]: 55. Reports the annotation \"dpal chos kyi 'od zer gyi dpe yin\" on the manuscript.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f56\u0f66\u0fb3\u0f56\u0f0b\u0f54\u0f0b\u0f40\u0f74\u0f53\u0f0b\u0f63\u0f66\u0f0b\u0f56\u0f4f\u0f74\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f4a\u0f72\u0f40\u0f90",
+  "comments": "Listed in [HMSTSJ7Q]: 55 (mnga' ris khul gyi dpe rnying gnas stangs kyi brtag dpyad snyan zhu, spu hrengs khul, 'khor chags dgon), No. 2: bslab pa kun las btus pa'i Tik+ka | slob dpon phya pa'i slob ma mkhas mchog 'jad pa ston skyabs kyi mdzad pa | mchan la dpal chos kyi 'od zer gyi dpe yin zhes 'khod pa'i pod gcig | mda' tshad ma | 'di dpe dkon yin |.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": true,
+  "start": null,
+  "name": "bslab pa kun las btus pa'i Tik+ka",
+  "set_num": null,
+  "volume": null,
+  "sb_text_number": "",
+  "pp_kdsb": null,
+  "num_folios": null,
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "mnga' ris spu hrengs, 'khor chags dgon",
+  "zotero_ref": "",
+  "tibschol_ref": "",
+  "availability": "non-accessible",
+  "dimension": null,
+  "item_description": ""
+}

@@ -1,0 +1,67 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5451/",
+  "relations": [
+    {
+      "id": 1727,
+      "label": "legs par bshad pa'i sgo dbye ba (5452) has as an instance legs par bshad pa'i sgo dbye ba (5451)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5452/",
+        "label": "legs par bshad pa'i sgo dbye ba (5452)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5451/",
+        "label": "legs par bshad pa'i sgo dbye ba (5451)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f63\u0f7a\u0f42\u0f66\u0f0b\u0f54\u0f62\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f66\u0f92\u0f7c\u0f0b\u0f51\u0f56\u0fb1\u0f7a\u0f0b\u0f56",
+  "comments": "This instance seems to correspond to No. 18934 in [8H6M69W4], which reports the signature \"phyi la 290.\"",
+  "alternative_names_legacy": "legs par bshad pa'i sgo dbye' ba (cover page)\r\nlegs bshad sgo 'byed (colophon)",
+  "alternative_names": [
+    {
+      "label": "legs par bshad pa'i sgo dbye' ba (cover page)",
+      "language": "bo"
+    },
+    {
+      "label": "legs bshad sgo 'byed (colophon)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW4PD3076_F3F168",
+  "review": true,
+  "start": null,
+  "name": "legs par bshad pa'i sgo dbye ba",
+  "set_num": "Set 4",
+  "volume": "110",
+  "sb_text_number": "6",
+  "pp_kdsb": "409-492",
+  "num_folios": "42",
+  "signature_letter": "la",
+  "signature_number": "290",
+  "drepung_number": "18934",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "4_110_06",
+  "availability": "available",
+  "dimension": "46 x 8",
+  "item_description": "\"Ki\" to the left of the signature.\r\nTwo signature letters: 386? and 290.\r\nTitle in an ornamental frame on the cover page.\r\nProofread once (gcig zhus).\r\nFolios numbered with numbers and letters.\r\nScript: dpe tshugs.\r\nCorrections in dbu can."
+}

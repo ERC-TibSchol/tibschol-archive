@@ -1,0 +1,55 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4789/",
+  "relations": [
+    {
+      "id": 1769,
+      "label": "tshad ma rab bsal (4789) owner of tshad ma rnam nges kyi 'grel pa (4786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4789/",
+        "label": "tshad ma rab bsal (4789)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4786/",
+        "label": "tshad ma rnam nges kyi 'grel pa (4786)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex46052023-09-12-091",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "1180-01-01",
+  "end_date_sort": "1180-01-01",
+  "start_date_to": null,
+  "start_date_from": "1100-01-01",
+  "start_date_sort": "1100-01-01",
+  "tibetan_transliteration": "\u0f5a\u0f51\u0f0b\u0f58\u0f0b\u0f62\u0f56\u0f0b\u0f56\u0f66\u0f63",
+  "comments": "",
+  "alternative_names_legacy": "dge ba'i bshes gnyen tshad ma rab bsal",
+  "alternative_names": [
+    {
+      "label": "dge ba'i bshes gnyen tshad ma rab bsal",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1100",
+  "end": "after 1180",
+  "name": "tshad ma rab bsal",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

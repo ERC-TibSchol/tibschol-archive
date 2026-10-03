@@ -1,0 +1,106 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4783/",
+  "relations": [
+    {
+      "id": 1425,
+      "label": "tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4783) has as an instance tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4782)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4783/",
+        "label": "tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4783)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4782/",
+        "label": "tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4782)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4116,
+      "label": "bya bral ba rab mchog (6801) author of tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4783)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6801/",
+        "label": "bya bral ba rab mchog (6801)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4783/",
+        "label": "tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4783)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex46032023-02-1416-28-20 (Authorship of one section).\r\nex46032023-02-1416-29-03 (Authorship of one section).",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4112,
+      "label": "Anonymous (6) (6800) author of tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4783)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6800/",
+        "label": "Anonymous (6) (6800)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4783/",
+        "label": "tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4783)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": "1219-01-01",
+  "start_date_sort": "1219-01-01",
+  "tibetan_transliteration": "\u0f5a\u0f51\u0f0b\u0f58\u0f60\u0f72\u0f0b\u0f63\u0f7a\u0f42\u0f66\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f51\u0fb2\u0f72\u0f0b\u0f58\u0f7a\u0f51\u0f0b\u0f56\u0f45\u0f74\u0f51\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f56\u0f51\u0f74\u0f51\u0f0b\u0f62\u0fa9\u0f72",
+  "comments": "Composed after 1219 as it cites the Tshad ma rigs gter (ID:5564).\r\n\r\nThe work in instance (ID:4782) might be incomplete, but an annotation at the end of the text indicates that it has been proofread.\r\nThe composition of two sections in the work is ascribed to Bya bral ba rab mchog (ID:6801), but as there is no such indication for the other sections, we take Bya bral to be different from the author of the work.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": true,
+  "start": "after 1219",
+  "name": "tshad ma'i legs bshad dri med bcud kyi bdud rtsi",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

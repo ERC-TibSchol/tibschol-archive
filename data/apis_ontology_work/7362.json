@@ -1,0 +1,106 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7362/",
+  "relations": [
+    {
+      "id": 5731,
+      "label": "bslab btus bsdus don (7362) has as an instance bslab btus bsdus don (7363)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7362/",
+        "label": "bslab btus bsdus don (7362)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7363/",
+        "label": "bslab btus bsdus don (7363)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5732,
+      "label": "bslab btus bsdus don (7362) commentary on \u015bik\u1e63\u0101samuccaya (3742)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7362/",
+        "label": "bslab btus bsdus don (7362)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3742/",
+        "label": "\u015bik\u1e63\u0101samuccaya (3742)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5730,
+      "label": "zhang tshe spong chos kyi bla ma (3805) author of bslab btus bsdus don (7362)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3805/",
+        "label": "zhang tshe spong chos kyi bla ma (3805)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7362/",
+        "label": "bslab btus bsdus don (7362)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[HMSTSJ7Q]: 430 (rGyal rtsel dpal 'khor chos sde dgon gyi dpe cha'i dkar chag), No. 109: bslab btus bsdus don; chos kyi bla ma.",
+      "tei_refs": "",
+      "support_notes": "\"chos kyi bla ma\" could also be Zhang ston Chos kyi bla ma (ID:3890).",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1141-12-31",
+  "start_date_from": "1051-01-01",
+  "start_date_sort": "1096-07-01",
+  "tibetan_transliteration": "\u0f56\u0f66\u0fb3\u0f56\u0f0b\u0f56\u0f4f\u0f74\u0f66\u0f0b\u0f56\u0f66\u0fa1\u0f74\u0f66\u0f0b\u0f51\u0f7c\u0f53",
+  "comments": "In view of the number of folios of instance (ID:7363), a topical outline of the \u015aik\u1e63\u0101samuccaya (ID:3742) ,",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": true,
+  "start": "after 1051 before 1141",
+  "name": "bslab btus bsdus don",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6839/",
+  "relations": [
+    {
+      "id": 4225,
+      "label": "ma hA shrI rat+na bo dhi satwa (6839) student of dpa'o rdo rje (6838)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6839/",
+        "label": "ma hA shrI rat+na bo dhi satwa (6839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6838/",
+        "label": "dpa'o rdo rje (6838)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "BUDA",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
+    },
+    {
+      "id": 4226,
+      "label": "suvar\u1e47adv\u012bp\u012bya dharmak\u012brti (6840) student of ma hA shrI rat+na bo dhi satwa (6839)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6840/",
+        "label": "suvar\u1e47adv\u012bp\u012bya dharmak\u012brti (6840)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6839/",
+        "label": "ma hA shrI rat+na bo dhi satwa (6839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        12
+      ]
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": "0900-01-01",
+  "start_date_sort": "0900-01-01",
+  "tibetan_transliteration": "",
+  "comments": "",
+  "alternative_names_legacy": "byang chub sems dpa' chen po rin chen dpal\r\ntshe grub pa",
+  "alternative_names": [
+    {
+      "label": "byang chub sems dpa' chen po rin chen dpal",
+      "language": "bo"
+    },
+    {
+      "label": "tshe grub pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P3454",
+  "review": true,
+  "start": "after 900",
+  "end": null,
+  "name": "ma hA shrI rat+na bo dhi satwa",
+  "gender": "male",
+  "nationality": "Indic"
+}

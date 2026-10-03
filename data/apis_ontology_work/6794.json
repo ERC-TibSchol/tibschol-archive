@@ -1,0 +1,87 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6794/",
+  "relations": [
+    {
+      "id": 4089,
+      "label": "yukti\u1e63a\u1e63\u1e6dik\u0101v\u1e5btti (6794) commentary on yukti\u1e63a\u1e63\u1e6dik\u0101k\u0101rik\u0101 (6593)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6794/",
+        "label": "yukti\u1e63a\u1e63\u1e6dik\u0101v\u1e5btti (6794)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6593/",
+        "label": "yukti\u1e63a\u1e63\u1e6dik\u0101k\u0101rik\u0101 (6593)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4090,
+      "label": "candrak\u012brti (3725) author of yukti\u1e63a\u1e63\u1e6dik\u0101v\u1e5btti (6794)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3725/",
+        "label": "candrak\u012brti (3725)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6794/",
+        "label": "yukti\u1e63a\u1e63\u1e6dik\u0101v\u1e5btti (6794)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "",
+  "comments": "",
+  "alternative_names_legacy": "rigs pa drug cu pa'i 'grel pa\r\nrigs pa drug bcu pa'i 'grel pa",
+  "alternative_names": [
+    {
+      "label": "rigs pa drug cu pa'i 'grel pa",
+      "language": "bo"
+    },
+    {
+      "label": "rigs pa drug bcu pa'i 'grel pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "http://purl.rkts.eu/resource/WTT3209",
+  "review": true,
+  "start": null,
+  "name": "yukti\u1e63a\u1e63\u1e6dik\u0101v\u1e5btti",
+  "sde_dge_ref": "D3864",
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}

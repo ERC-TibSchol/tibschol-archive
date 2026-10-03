@@ -1,0 +1,139 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4882/",
+  "relations": [
+    {
+      "id": 1954,
+      "label": "sangs rgyas sgom pa'i rnam thar (4882) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4882/",
+        "label": "sangs rgyas sgom pa'i rnam thar (4882)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50192023-09-2012",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1466,
+      "label": "sangs rgyas sgom pa'i rnam thar (4882) has as an instance sangs rgyas sgom pa'i rnam thar (4881)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4882/",
+        "label": "sangs rgyas sgom pa'i rnam thar (4882)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4881/",
+        "label": "sangs rgyas sgom pa'i rnam thar (4881)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 801,
+      "label": "mchims nam mkha' grags (3977) author of sangs rgyas sgom pa'i rnam thar (4882)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4882/",
+        "label": "sangs rgyas sgom pa'i rnam thar (4882)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No. 17140: sNar thang sangs rgyas sgom pa'i dngos slob",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4670,
+      "label": "sangs rgyas sgom pa seng ge skyabs (3976) biographed in sangs rgyas sgom pa'i rnam thar (4882)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3976/",
+        "label": "sangs rgyas sgom pa seng ge skyabs (3976)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4882/",
+        "label": "sangs rgyas sgom pa'i rnam thar (4882)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1285-12-31",
+  "start_date_from": "1250-01-01",
+  "start_date_sort": "1268-01-01",
+  "tibetan_transliteration": "\u0f66\u0f44\u0f66\u0f0b\u0f62\u0f92\u0fb1\u0f66\u0f0b\u0f66\u0f92\u0f7c\u0f58\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f50\u0f62",
+  "comments": "",
+  "alternative_names_legacy": "sangs rgyas sgom pa'i rnam thar",
+  "alternative_names": [
+    {
+      "label": "sangs rgyas sgom pa'i rnam thar",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1250 before 1285",
+  "name": "sangs rgyas sgom pa'i rnam thar",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/19/"
+  ]
+}

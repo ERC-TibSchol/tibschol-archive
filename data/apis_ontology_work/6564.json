@@ -1,0 +1,50 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6564/",
+  "relations": [
+    {
+      "id": 3456,
+      "label": "bya yul ba chen po gzhon nu 'od (3915) author of lam rim (6564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3915/",
+        "label": "bya yul ba chen po gzhon nu 'od (3915)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6564/",
+        "label": "lam rim (6564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 516, No. 11116. Work ascribed to \"bya yul ba.\"",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1138-12-31",
+  "start_date_from": "1085-01-01",
+  "start_date_sort": "1112-01-01",
+  "tibetan_transliteration": "\u0f63\u0f58\u0f0b\u0f62\u0f72\u0f58",
+  "comments": "Listed by A khu ching shes rab rgya mtsho in his Tho yig ([5RXEUKD9]: 516, No. 11116: bya yul ba'i lam rim).",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "after 1085 before 1138",
+  "name": "lam rim",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/12/"
+  ]
+}

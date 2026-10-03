@@ -1,0 +1,50 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5553/",
+  "relations": [
+    {
+      "id": 1228,
+      "label": "dharmak\u012brti (3773) author of tshad ma sde bdun (5553)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3773/",
+        "label": "dharmak\u012brti (3773)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5553/",
+        "label": "tshad ma sde bdun (5553)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "0660-12-31",
+  "start_date_from": "0560-01-01",
+  "start_date_sort": "0610-07-02",
+  "tibetan_transliteration": "",
+  "comments": "Generic name for the seven works of epistemology composed by Dharmak\u012brti (ID:3773), including the Pram\u0101\u1e47av\u0101rttika (ID:3772), Pram\u0101\u1e47avini\u015bcaya (ID:3774), Ny\u0101yabindu (ID:5589), Hetubindu (ID:5831), Sant\u0101n\u0101ntarasiddhi (ID:7068), V\u0101dany\u0101ya (ID:3777), Sambandhapar\u012bk\u1e63\u0101 (ID:3775).\r\n\r\nThe seven are frequently split into a group of three - Pram\u0101\u1e47av\u0101rttika (ID:3772), Pram\u0101\u1e47avini\u015bcaya (ID:3774), Ny\u0101yabindu (ID:5589) - and a group of four - Hetubindu (ID:5831), Sant\u0101n\u0101ntarasiddhi (ID:7068), V\u0101dany\u0101ya (ID:3777), Sambandhapar\u012bk\u1e63\u0101 (ID:3775).",
+  "alternative_names_legacy": "",
+  "alternative_names": [],
+  "external_links": "",
+  "review": true,
+  "start": "after 560 before 660",
+  "name": "tshad ma sde bdun",
+  "sde_dge_ref": null,
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

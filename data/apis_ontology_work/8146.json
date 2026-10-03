@@ -1,0 +1,83 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8146/",
+  "relations": [
+    {
+      "id": 7291,
+      "label": "dpal lha mo nam mkha'i gos can gyi gtor chog (8146) has as an instance dpal lha mo nam mkha'i gos can gyi gtor chog (8147)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8146/",
+        "label": "dpal lha mo nam mkha'i gos can gyi gtor chog (8146)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8147/",
+        "label": "dpal lha mo nam mkha'i gos can gyi gtor chog (8147)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7290,
+      "label": "phywa pa chos kyi seng ge (3831) author of dpal lha mo nam mkha'i gos can gyi gtor chog (8146)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8146/",
+        "label": "dpal lha mo nam mkha'i gos can gyi gtor chog (8146)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for (ID:8147) in [8H6M69W4], No. 20873: phyA pa chos seng. The cover page or colophon ascribes the \"dpal lha mo nam mkha'i gos can gyi gtor chog\" to \"phya pa.\"",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1169-12-31",
+  "start_date_from": "1119-01-01",
+  "start_date_sort": "1144-07-01",
+  "tibetan_transliteration": "\u0f51\u0f54\u0f63\u0f0b\u0f63\u0fb7\u0f0b\u0f58\u0f7c\u0f0b\u0f53\u0f58\u0f0b\u0f58\u0f41\u0f60\u0f72\u0f0b\u0f42\u0f7c\u0f66\u0f0b\u0f45\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f42\u0f4f\u0f7c\u0f62\u0f0b\u0f46\u0f7c\u0f42",
+  "comments": "As noted in [Q8WLKLMF]: 40, this work is listed in [8H6M69W4], No. 20873.",
+  "alternative_names_legacy": "dpal lha mo nam mkha\u2019i gos can gyi gtor chog slob dpon phya pa yis mdzad pa dang bskang gso man ngag dang bcas pa",
+  "alternative_names": [
+    {
+      "label": "dpal lha mo nam mkha\u2019i gos can gyi gtor chog slob dpon phya pa yis mdzad pa dang bskang gso man ngag dang bcas pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1119 before 1169",
+  "name": "dpal lha mo nam mkha'i gos can gyi gtor chog",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/18/"
+  ]
+}

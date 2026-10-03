@@ -1,0 +1,91 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7533/",
+  "relations": [
+    {
+      "id": 6086,
+      "label": "sgyi chu ba (7533) student of mnga' ri pa gsal ba'i snying po (7534)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7533/",
+        "label": "sgyi chu ba (7533)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7534/",
+        "label": "mnga' ri pa gsal ba'i snying po (7534)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 21.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6085,
+      "label": "sa chen kun dga' snying po (4205) student of sgyi chu ba (7533)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4205/",
+        "label": "sa chen kun dga' snying po (4205)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7533/",
+        "label": "sgyi chu ba (7533)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 21. Studies of the rang rgyud shar gsum, \u015aik\u1e63\u0101samuccaya (ID:3742), and Bodhicary\u0101vat\u0101ra (ID:3727), from the lineage of mNga' ris pa (ID:5953).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    }
+  ],
+  "end_date_to": "1228-12-31",
+  "end_date_from": "1102-01-01",
+  "end_date_sort": "1165-07-02",
+  "start_date_to": "1148-12-31",
+  "start_date_from": "1022-01-01",
+  "start_date_sort": "1085-07-01",
+  "tibetan_transliteration": "\u0f66\u0f92\u0fb1\u0f72\u0f0b\u0f46\u0f74\u0f0b\u0f56",
+  "comments": "",
+  "alternative_names_legacy": "dge bshes sgyi chu ba\r\n'khon skyi chu ba",
+  "alternative_names": [
+    {
+      "label": "dge bshes sgyi chu ba",
+      "language": "bo"
+    },
+    {
+      "label": "'khon skyi chu ba",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P10157",
+  "review": false,
+  "start": "after 1022 before 1148",
+  "end": "after 1102 before 1228",
+  "name": "sgyi chu ba",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

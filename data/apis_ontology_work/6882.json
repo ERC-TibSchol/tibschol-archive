@@ -1,0 +1,50 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6882/",
+  "relations": [
+    {
+      "id": 4312,
+      "label": "'gos lo tsA ba gzhon nu dpal (5839) author of phar phyin rnam bshad che ba (6882)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5839/",
+        "label": "'gos lo tsA ba gzhon nu dpal (5839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6882/",
+        "label": "phar phyin rnam bshad che ba (6882)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 530, No. 11538 (mgos lo gzhon nu dpal gyi phar phyin rnam bshad che chung gnyis)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1481-12-31",
+  "start_date_from": "1402-01-01",
+  "start_date_sort": "1441-12-31",
+  "tibetan_transliteration": "\u0f55\u0f62\u0f0b\u0f55\u0fb1\u0f72\u0f53\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f46\u0f7a\u0f0b\u0f56",
+  "comments": "Listed in A khu ching Shes rab rgya mtsho's Tho yig along with a \"small commentary\" (ID:7074) ([5RXEUKD9]: 530, no. 11538: mgos lo gzhon nu dpal gyi phar phyin rnam bshad che chung gnyis).",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "after 1402 before 1481",
+  "name": "phar phyin rnam bshad che ba",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}

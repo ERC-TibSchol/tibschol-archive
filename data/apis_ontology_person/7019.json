@@ -1,0 +1,85 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7019/",
+  "relations": [
+    {
+      "id": 4681,
+      "label": "brag kar ba (7019) student of po to ba rin chen gsal (3829)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7019/",
+        "label": "brag kar ba (7019)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3829/",
+        "label": "po to ba rin chen gsal (3829)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: 41, n. 85.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4682,
+      "label": "chu mig pa shes rab grags (3975) student of brag kar ba (7019)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3975/",
+        "label": "chu mig pa shes rab grags (3975)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7019/",
+        "label": "brag kar ba (7019)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[NTGHCZA8]: 41, n. 85. For two years.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1111-12-31",
+  "end_date_from": "1111-01-01",
+  "end_date_sort": "1111-07-02",
+  "start_date_to": "1032-12-31",
+  "start_date_from": "1032-01-01",
+  "start_date_sort": "1032-07-01",
+  "tibetan_transliteration": "\u0f56\u0fb2\u0f42\u0f0b\u0f40\u0f62\u0f0b\u0f56",
+  "comments": "Unclear whether this is the same person as 'Phan yul Brag dkar ba (1068/1080-1147/1159), also mentioned as a pupil of Po to ba (ID:3829) in [CCSBSVCA]: 421, n. 27.",
+  "alternative_names_legacy": "dge bshes brag kar ba",
+  "alternative_names": [
+    {
+      "label": "dge bshes brag kar ba",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "1032",
+  "end": "1111",
+  "name": "brag kar ba",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

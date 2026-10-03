@@ -1,0 +1,71 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7498/",
+  "relations": [
+    {
+      "id": 6044,
+      "label": "dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (5137) has as an instance dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (2) (7498)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5137/",
+        "label": "dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (5137)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7498/",
+        "label": "dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (2) (7498)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1975-12-31",
+  "start_date_from": "1975-01-01",
+  "start_date_sort": "1975-07-02",
+  "tibetan_transliteration": "\u0f51\u0f56\u0f74\u0f0b\u0f58\u0f0b\u0f62\u0fa9\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f54\u0f0b\u0f60\u0f50\u0f51\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f62\u0f92\u0fb1\u0f53 \u0f3c\u0f22\u0f3d",
+  "comments": "Block-print (dbu can) prepared by 'Jam dbyangs mkhyen brtse'i dbang po at sDe dge par khang and published by Dharma chakra center in 1975. \r\nPrint from the same woodblock as (ID:5136), but unlike in the latter, the last three folios are damaged.\r\n\r\nAnother print (likely from the same woodblock in view of the number of folios) was filmed by the NGMPP (L/222/1) in 1989 in the collection of Sangye Tenzin Lama in Serlog Gompa, Solokhumbu, Junbesi. The size of the folios is reported to be: 10 x 56 cm (http://purl.bdrc.io/resource/MW0NGMCP47220, https://catalogue.ngmcp.uni-hamburg.de/receive/aaingmcp_tbtdocument_00047220)\r\n\r\nThe work colophon (fol. 155a3-155a5) is followed by the print colophon (fol. 155a5-156a6).",
+  "alternative_names_legacy": "dbu ma rtsa ba shes rab kyi 'grel pa 'thad pa'i rgyan (cover page)\r\ndbu ma rtsa ba'i 'grel ba 'thad pa'i rgyan (incipit, chapter colophon)\r\ndbu ma rtsa ba'i bstan 'chos kyi 'grel pa 'thad pa'i rgyan (colophon)",
+  "alternative_names": [
+    {
+      "label": "dbu ma rtsa ba shes rab kyi 'grel pa 'thad pa'i rgyan (cover page)",
+      "language": "bo"
+    },
+    {
+      "label": "dbu ma rtsa ba'i 'grel ba 'thad pa'i rgyan (incipit, chapter colophon)",
+      "language": "bo"
+    },
+    {
+      "label": "dbu ma rtsa ba'i bstan 'chos kyi 'grel pa 'thad pa'i rgyan (colophon)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/W14060",
+  "review": true,
+  "start": "1975",
+  "name": "dbu ma rtsa ba'i 'grel pa 'thad pa'i rgyan (2)",
+  "set_num": null,
+  "volume": null,
+  "sb_text_number": "",
+  "pp_kdsb": null,
+  "num_folios": "156",
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "GBZKSES8",
+  "tibschol_ref": "",
+  "availability": "available",
+  "dimension": "10 x 56",
+  "item_description": "Block-print.\r\nMiniatures on the left and right of fol. 1b."
+}

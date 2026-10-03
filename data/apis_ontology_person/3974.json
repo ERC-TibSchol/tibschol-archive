@@ -1,0 +1,82 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3974/",
+  "relations": [
+    {
+      "id": 2701,
+      "label": "zhang btsun rdo rje 'od zer (3974) active at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3974/",
+        "label": "zhang btsun rdo rje 'od zer (3974)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1193-12-31",
+      "end_date_from": "1193-01-01",
+      "end_date_sort": "1193-07-02",
+      "start_date_to": "1185-12-31",
+      "start_date_from": "1185-01-01",
+      "start_date_sort": "1185-07-02",
+      "zotero_refs": "[4LWBNM7B]: 119, n. 21. Abbot from 1185 to 1193.",
+      "tei_refs": "exX0032026-06-2509-18-11",
+      "support_notes": "Third abbot of sNar thang, after rDo ston shes rab grags (ID:3924), for 8 years.",
+      "confidence": "Positive",
+      "start": "1185",
+      "end": "1193",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 217,
+      "label": "gro ston bdud rtsi grags (3880) student of zhang btsun rdo rje 'od zer (3974)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3880/",
+        "label": "gro ston bdud rtsi grags (3880)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3974/",
+        "label": "zhang btsun rdo rje 'od zer (3974)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Z5WBK2VV]: 47.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        57
+      ]
+    }
+  ],
+  "end_date_to": "1194-12-31",
+  "end_date_from": "1194-01-01",
+  "end_date_sort": "1194-07-02",
+  "start_date_to": "1122-12-31",
+  "start_date_from": "1122-01-01",
+  "start_date_sort": "1122-07-02",
+  "tibetan_transliteration": "\u0f5e\u0f44\u0f0b\u0f56\u0f59\u0f74\u0f53\u0f0b\u0f62\u0fa1\u0f7c\u0f0b\u0f62\u0f97\u0f7a\u0f0b\u0f60\u0f7c\u0f51\u0f0b\u0f5f\u0f7a\u0f62",
+  "comments": "Third abbot of snar thang monastery.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "https://purl.bdrc.io/resource/P4456",
+  "review": false,
+  "start": "1122",
+  "end": "1194",
+  "name": "zhang btsun rdo rje 'od zer",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

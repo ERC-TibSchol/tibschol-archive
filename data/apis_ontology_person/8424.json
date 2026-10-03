@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8424/",
+  "relations": [
+    {
+      "id": 7755,
+      "label": "ma\u00f1ju\u015br\u012bk\u012brti (8424) lineage predecessor of devacandra (8431)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8424/",
+        "label": "ma\u00f1ju\u015br\u012bk\u012brti (8424)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8431/",
+        "label": "devacandra (8431)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RCJ46BHM]: 338 records the lineage of Madhyamaka from Pa tshab lo ts\u0101 ba (ID:3868) according to Mi bskyod rdo rje (ID:6895): Candrak\u012brti (ID:3725), Ma\u00f1ju\u015br\u012bk\u012brti (ID:8424), Devacandra (ID:8431), Brahman Ratnavajra (ID:7726), Parahita (ID:3798), Hasumati (ID:6180), Pa tshab Lo ts\u0101 ba (ID:3868), Dus gsum mkhyen pa (ID:3855), and from him it is then the same as the lineage of Madhyamaka from N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895) (see [RCJ46BHM]: 329).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 7752,
+      "label": "candrak\u012brti (3725) lineage predecessor of ma\u00f1ju\u015br\u012bk\u012brti (8424)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3725/",
+        "label": "candrak\u012brti (3725)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8424/",
+        "label": "ma\u00f1ju\u015br\u012bk\u012brti (8424)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RCJ46BHM]: 338 records the lineage of Madhyamaka from Pa tshab lo ts\u0101 ba (ID:3868) according to Mi bskyod rdo rje (ID:6895): Candrak\u012brti (ID:3725), Ma\u00f1ju\u015br\u012bk\u012brti (ID:8424), Devacandra (ID:8431), Brahman Ratnavajra (ID:7726), Parahita (ID:3798), Hasumati (ID:6180), Pa tshab Lo ts\u0101 ba (ID:3868), Dus gsum mkhyen pa (ID:3855), and from him it is then the same as the  lineage of Madhyamaka from N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895) (see [RCJ46BHM]: 329).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "0972-01-01",
+  "end_date_sort": "0972-01-01",
+  "start_date_to": null,
+  "start_date_from": "0962-01-01",
+  "start_date_sort": "0962-01-01",
+  "tibetan_transliteration": "",
+  "comments": "[RCJ46BHM]: 338, holds he was a teacher of D\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (ID:3745), the author of a commentary on the Sam\u0101dhir\u0101jas\u016btra (D 127), called the K\u012brtim\u0101l\u0101 (D 4010) and perhaps also the author of the Ma\u00f1ju\u015br\u012bn\u0101masa\u1e43giti\u1e6d\u012bk\u0101 (D 2534). He may be the BDRC figure bdr:P3833 (https://purl.bdrc.io/resource/P3833).",
+  "alternative_names_legacy": "",
+  "alternative_names": [],
+  "external_links": "",
+  "review": false,
+  "start": "after 962",
+  "end": "after 972",
+  "name": "ma\u00f1ju\u015br\u012bk\u012brti",
+  "gender": "male",
+  "nationality": "Indic"
+}

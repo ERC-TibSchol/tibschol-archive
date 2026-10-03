@@ -1,0 +1,159 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6481/",
+  "relations": [
+    {
+      "id": 4584,
+      "label": "sa phug pa (6481) ordinator of mon ston 'byung gnas shes rab (4269)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6481/",
+        "label": "sa phug pa (6481)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4269/",
+        "label": "mon ston 'byung gnas shes rab (4269)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 287 (gnyen sa phug pa | dar yon tan grags | skyi rings yon tan seng ge gsum las dge slong chig rdzogs mdzad cing | jo bo'i chos rnams gsan |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5374,
+      "label": "sa phug pa (6481) ordinator of dus gsum mkhyen pa (3855)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6481/",
+        "label": "sa phug pa (6481)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3855/",
+        "label": "dus gsum mkhyen pa (3855)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1129-12-31",
+      "end_date_from": "1128-01-01",
+      "end_date_sort": "1128-12-31",
+      "start_date_to": "1129-12-31",
+      "start_date_from": "1128-01-01",
+      "start_date_sort": "1128-12-31",
+      "zotero_refs": "[Y6NGTTC6]: 24, n. 71. Sa/Pa phug pa (ID:6481) acted as \"mkhan po\" in the final ordination (bsnyen rdzogs) of Dus gsum mkhyen after he was 19 or when he was 20 (depending on the source).\r\nAccording to the gSer gling by rGang lo, edited in [Y6NGTTC6]: 100 (de nas dge bshes sa phug pa la bsnyen rdzogs mdzad nas 'dul ba gsan). Subject: Monastic discipline.\r\n[I58Z22ET]: 408-409, n. 42, based on Dus gsum mkhyen pa'i rnam thar in Si tu Chos kyi 'byung gnas's Karma kam tshang gser 'phreng (mkhan po mal 'dul 'dzin | las slob ye shes blo gros | gsang ston mkhan po cung gis mdzad de bsnyen par rdzogs pa'i sdom pa bzhes nas 'dul ba la mkhas par mdzad).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1128 before 1129",
+      "end": "after 1128 before 1129"
+    },
+    {
+      "id": 3218,
+      "label": "dus gsum mkhyen pa (3855) student of sa phug pa (6481)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3855/",
+        "label": "dus gsum mkhyen pa (3855)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6481/",
+        "label": "sa phug pa (6481)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Y6NGTTC6]: 304. According to the gSer gling by rGang lo, edited in [Y6NGTTC6]: 100 (de nas dge bshes sa phug pa la bsnyen rdzogs mdzad nas 'dul ba gsan). Subject: Monastic discipline. [Y6NGTTC6]: 33.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1130",
+      "end": "after 1130",
+      "subject_of_teaching_vocab": [
+        8
+      ]
+    },
+    {
+      "id": 4583,
+      "label": "mon ston 'byung gnas shes rab (4269) student of sa phug pa (6481)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4269/",
+        "label": "mon ston 'byung gnas shes rab (4269)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6481/",
+        "label": "sa phug pa (6481)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 287 (gnyen sa phug pa | dar yon tan grags | skyi rings yon tan seng ge gsum las dge slong chig rdzogs mdzad cing | jo bo'i chos rnams gsan |)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1180-12-31",
+  "end_date_from": "1129-01-01",
+  "end_date_sort": "1155-01-01",
+  "start_date_to": "1100-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1100-12-31",
+  "tibetan_transliteration": "\u0f66\u0f0b\u0f55\u0f74\u0f42\u0f0b\u0f54",
+  "comments": "Based on the various accounts of Dus gsum mkhyen's final ordination, it is assumed that \"mal 'dul 'dzin\" is the same person as \"sa/pa phug pa.\"",
+  "alternative_names_legacy": "dge bshes sa phug pa\r\ngnyen sa phug pa\r\nsa yug pa\r\npa phug pa\r\nmal 'dul 'dzin",
+  "alternative_names": [
+    {
+      "label": "dge bshes sa phug pa",
+      "language": "bo"
+    },
+    {
+      "label": "gnyen sa phug pa",
+      "language": "bo"
+    },
+    {
+      "label": "sa yug pa",
+      "language": "bo"
+    },
+    {
+      "label": "pa phug pa",
+      "language": "bo"
+    },
+    {
+      "label": "mal 'dul 'dzin",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P1407",
+  "review": false,
+  "start": "before 1100",
+  "end": "after 1129 before 1180",
+  "name": "sa phug pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

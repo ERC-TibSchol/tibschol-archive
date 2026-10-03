@@ -1,0 +1,91 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6184/",
+  "relations": [
+    {
+      "id": 2585,
+      "label": "le 'brel pa tshab kyi man ngag (6183) has as an instance le 'brel pa tshab kyi man ngag (6184)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6183/",
+        "label": "le 'brel pa tshab kyi man ngag (6183)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6184/",
+        "label": "le 'brel pa tshab kyi man ngag (6184)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6134,
+      "label": "dbu ma rtsa ba shes rab kyi spyi sdom (7545) has source le 'brel pa tshab kyi man ngag (6184)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7545/",
+        "label": "dbu ma rtsa ba shes rab kyi spyi sdom (7545)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/6184/",
+        "label": "le 'brel pa tshab kyi man ngag (6184)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f63\u0f7a\u0f0b\u0f60\u0f56\u0fb2\u0f7a\u0f63\u0f0b\u0f54\u0f0b\u0f5a\u0f56\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f58\u0f53\u0f0b\u0f44\u0f42",
+  "comments": "Second of three texts in an 88-folio manuscript with continuous folio numbering, listed as a single item in [8H6M69W4], No. 15415. The signature is found on the cover page. The second text is located on fols. 53-54.\r\nSee <<Dreyfus and Tsering 2009 [FFQQBB4J]>>.",
+  "alternative_names_legacy": "le 'bre pa tshab kyi man ngag (colophon)",
+  "alternative_names": [
+    {
+      "label": "le 'bre pa tshab kyi man ngag (colophon)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_CD9ABE",
+  "review": true,
+  "start": null,
+  "name": "le 'brel pa tshab kyi man ngag",
+  "set_num": "Set 1",
+  "volume": "11",
+  "sb_text_number": "1b",
+  "pp_kdsb": "133-136",
+  "num_folios": "2",
+  "signature_letter": "tsa",
+  "signature_number": "24",
+  "drepung_number": "15415",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "1_011_01b",
+  "availability": "available",
+  "dimension": "60.5 x 10",
+  "item_description": "Script: 'bru tsha.\r\nThe text is divided into two columns rather than written in a single line.\r\nOrthography:\r\n- Palatalization of ma (e.g., myi, myed)\r\n- Alternative prefixes (e.g., rngos for dngos, rgos for dgos)\r\nUse of expressions mirroring the Sanskrit (e.g., buta for buddha, bode for bodhi(sattva)"
+}

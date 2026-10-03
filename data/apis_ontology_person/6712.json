@@ -1,0 +1,88 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6712/",
+  "relations": [
+    {
+      "id": 5336,
+      "label": "rog mching phu ba (6712) author of bstan rim (7195)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6712/",
+        "label": "rog mching phu ba (6712)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7195/",
+        "label": "bstan rim (7195)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3829,
+      "label": "rog mching phu ba (6712) student of rong pa lag sor ba (3943)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6712/",
+        "label": "rog mching phu ba (6712)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3943/",
+        "label": "rong pa lag sor ba (3943)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 389 (rong pa'i bu bzhir grags pa byung ste | bya 'dul ba 'dzin pa | rog 'chims phu ba | rnam par ba | dge bshes zhus lan pa dang bzhi'o |).\r\n[W4T5ZMUP]: 40, n. 58. Rog was one of the four disciples (bu bzhi) of Rong pa, along with Zhu lhan pa, Bya 'dul and rNam 'bar ba.\r\n[AXC5KZK3]: 239-240. Rog sTag can pa was one of the \"four sons of Rong pa.\"",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1170-12-31",
+  "end_date_from": "1054-01-01",
+  "end_date_sort": "1112-07-02",
+  "start_date_to": "1090-12-31",
+  "start_date_from": "1074-01-01",
+  "start_date_sort": "1082-07-02",
+  "tibetan_transliteration": "\u0f62\u0f7c\u0f42\u0f0b\u0f58\u0f46\u0f72\u0f44\u0f0b\u0f55\u0f74\u0f0b\u0f56",
+  "comments": "It is unclear whether \"Rog sTag can pa\" and \"Rog mChims phu ba\" are names for the same person, or there is a confusion about which \"Rog\" is among the four sons of Rong pa (ID:3943).",
+  "alternative_names_legacy": "rog 'ching phu ba\r\nrog stag can pa",
+  "alternative_names": [
+    {
+      "label": "rog 'ching phu ba",
+      "language": "bo"
+    },
+    {
+      "label": "rog stag can pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1074 before 1090",
+  "end": "after 1054 before 1170",
+  "name": "rog mching phu ba",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

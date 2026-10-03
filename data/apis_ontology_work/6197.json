@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6197/",
+  "relations": [
+    {
+      "id": 3290,
+      "label": "yum brgyad stong pa'i don bsdus (6197) commentary on a\u1e63\u1e6das\u0101hasrik\u0101praj\u00f1\u0101p\u0101ramit\u0101 (3692)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6197/",
+        "label": "yum brgyad stong pa'i don bsdus (6197)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3692/",
+        "label": "a\u1e63\u1e6das\u0101hasrik\u0101praj\u00f1\u0101p\u0101ramit\u0101 (3692)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2615,
+      "label": "rngog blo ldan shes rab (3786) author of yum brgyad stong pa'i don bsdus (6197)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6197/",
+        "label": "yum brgyad stong pa'i don bsdus (6197)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex2012023-07-10082928",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1109-12-31",
+  "start_date_from": "1080-01-01",
+  "start_date_sort": "1094-12-31",
+  "tibetan_transliteration": "\u0f61\u0f74\u0f58\u0f0b\u0f56\u0f62\u0f92\u0fb1\u0f51\u0f0b\u0f66\u0f9f\u0f7c\u0f44\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f56\u0f66\u0fa1\u0f74\u0f66",
+  "comments": "Mentioned in the colophon of 'Bre shes rab 'bar's work by the same title (ID: 4449). As it is not otherwise included in lists of rNgog Blo ldan shes rab's works, it could be identical with the latter's \"don bsdus\" on one of Haribhadra's commentaries, (ID: 6048) or (ID: 4435), since the colophon claims that rNgog Blo ldan shes rab's work \"follows Haribhadra.\"",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "after 1080 before 1109",
+  "name": "yum brgyad stong pa'i don bsdus",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/7/"
+  ]
+}

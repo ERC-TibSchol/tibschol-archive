@@ -1,0 +1,88 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6808/",
+  "relations": [
+    {
+      "id": 4150,
+      "label": "lo dgon pa bsod nams lha'i dbang po (6808) author of bka' gdams rin po che'i chos 'byung rnam thar nyin mor byed pa'i 'od stong (6809)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6808/",
+        "label": "lo dgon pa bsod nams lha'i dbang po (6808)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6809/",
+        "label": "bka' gdams rin po che'i chos 'byung rnam thar nyin mor byed pa'i 'od stong (6809)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]\r\n[82NZNSIS]",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4707,
+      "label": "tshul khrims dar (6807) student of lo dgon pa bsod nams lha'i dbang po (6808)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6807/",
+        "label": "tshul khrims dar (6807)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6808/",
+        "label": "lo dgon pa bsod nams lha'i dbang po (6808)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 24 Tshul khrims dar was Lo dgon pa's root-guru.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1496-12-31",
+  "end_date_from": "1496-01-01",
+  "end_date_sort": "1496-07-01",
+  "start_date_to": "1423-12-31",
+  "start_date_from": "1423-01-01",
+  "start_date_sort": "1423-07-02",
+  "tibetan_transliteration": "\u0f63\u0f7c\u0f0b\u0f51\u0f42\u0f7c\u0f53\u0f0b\u0f54\u0f0b\u0f56\u0f66\u0f7c\u0f51\u0f0b\u0f53\u0f58\u0f66\u0f0b\u0f63\u0fb7\u0f60\u0f72\u0f0b\u0f51\u0f56\u0f44\u0f0b\u0f54\u0f7c",
+  "comments": "Author of the earliest surviving history of the bKa' gdams pa composed in 1484 (see [Q922IUFM] and [82NZNSIS]).",
+  "alternative_names_legacy": "lo dgon pa\r\nspyan snga bsod nams lha'i dbang po",
+  "alternative_names": [
+    {
+      "label": "lo dgon pa",
+      "language": "bo"
+    },
+    {
+      "label": "spyan snga bsod nams lha'i dbang po",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P3500",
+  "review": true,
+  "start": "1423",
+  "end": "1496",
+  "name": "lo dgon pa bsod nams lha'i dbang po",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

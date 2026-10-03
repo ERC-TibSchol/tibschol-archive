@@ -1,0 +1,118 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7638/",
+  "relations": [
+    {
+      "id": 6361,
+      "label": "nam mkha' legs pa'i rgyal mtshan (7638) active at sa skya dgon pa (5733)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7638/",
+        "label": "nam mkha' legs pa'i rgyal mtshan (7638)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5733/",
+        "label": "sa skya dgon pa (5733)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": "1312-12-31",
+      "start_date_from": "1312-01-01",
+      "start_date_sort": "1312-07-01",
+      "zotero_refs": "[JZP4CZRX], bdr:P1863. 12th sa skya khri 'dzin.\r\n[KM47ZZDJ]: 656-657. Teaching of the sa lugs of tshad ma, the Tshad ma rigs pa'i gter (ID:5564), and the Pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (ID:3772) to Dol po pa (ID:4213).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1312",
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 6379,
+      "label": "nam mkha' legs pa'i rgyal mtshan (7638) student of nor bu bzang po (6604)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7638/",
+        "label": "nam mkha' legs pa'i rgyal mtshan (7638)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6604/",
+        "label": "nor bu bzang po (6604)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P1879.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 6363,
+      "label": "dol po pa shes rab rgyal mtshan (4213) student of nam mkha' legs pa'i rgyal mtshan (7638)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4213/",
+        "label": "dol po pa shes rab rgyal mtshan (4213)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7638/",
+        "label": "nam mkha' legs pa'i rgyal mtshan (7638)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": "1312-12-31",
+      "start_date_from": "1312-01-01",
+      "start_date_sort": "1312-07-01",
+      "zotero_refs": "[KM47ZZDJ]: 656-657. Studies, at Sa skya (ID:5733), of the sa lugs of tshad ma, the Tshad ma rigs pa'i gter (ID:5564), and the Pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (ID:3772) with Kun dga' blo gros (ID:7637) and Nam mkha' legs pa'i rgyal mtshan dpal bzang po (ID:7638).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1312",
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    }
+  ],
+  "end_date_to": "1343-12-31",
+  "end_date_from": "1343-01-01",
+  "end_date_sort": "1343-07-02",
+  "start_date_to": "1305-12-31",
+  "start_date_from": "1305-01-01",
+  "start_date_sort": "1305-07-02",
+  "tibetan_transliteration": "\u0f53\u0f58\u0f0b\u0f58\u0f41\u0f60\u0f0b\u0f63\u0f7a\u0f42\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f58\u0f5a\u0f53",
+  "comments": "",
+  "alternative_names_legacy": "sa skya khri chen 12",
+  "alternative_names": [
+    {
+      "label": "sa skya khri chen 12",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P1863",
+  "review": false,
+  "start": "1305",
+  "end": "1343",
+  "name": "nam mkha' legs pa'i rgyal mtshan",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

@@ -1,0 +1,95 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8011/",
+  "relations": [
+    {
+      "id": 7172,
+      "label": "shar pa ye shes rin chen (8011) lineage predecessor of 'jam dbyangs mkhon ston (8082)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8011/",
+        "label": "shar pa ye shes rin chen (8011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8082/",
+        "label": "'jam dbyangs mkhon ston (8082)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58032026-01-26-141843 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52,
+        48
+      ]
+    },
+    {
+      "id": 7171,
+      "label": "'phags pa blo gros rgyal mtshan (5838) lineage predecessor of shar pa ye shes rin chen (8011)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5838/",
+        "label": "'phags pa blo gros rgyal mtshan (5838)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8011/",
+        "label": "shar pa ye shes rin chen (8011)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58032026-01-26-141843 (Bodhisattva vows lineage)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        52,
+        48
+      ]
+    }
+  ],
+  "end_date_to": "1294-12-31",
+  "end_date_from": "1294-01-01",
+  "end_date_sort": "1294-07-02",
+  "start_date_to": "1248-12-31",
+  "start_date_from": "1248-01-01",
+  "start_date_sort": "1248-07-01",
+  "tibetan_transliteration": "\u0f64\u0f62\u0f0b\u0f54\u0f0b\u0f61\u0f7a\u0f0b\u0f64\u0f7a\u0f66\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f46\u0f7a\u0f53",
+  "comments": "In 1286 he was made the fourth Imperial Preceptor of the Yuan Dynasty, see his entry in Treasury of Lives.",
+  "alternative_names_legacy": "dus 'khor ba ye shes rin chen\r\ndus 'khor ba",
+  "alternative_names": [
+    {
+      "label": "dus 'khor ba ye shes rin chen",
+      "language": "bo"
+    },
+    {
+      "label": "dus 'khor ba",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P1069\r\nhttps://treasuryoflives.org/biographies/view/Yeshe-Rinchen/2280.",
+  "review": false,
+  "start": "1248",
+  "end": "1294",
+  "name": "shar pa ye shes rin chen",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

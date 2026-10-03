@@ -1,0 +1,53 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4278/",
+  "relations": [
+    {
+      "id": 510,
+      "label": "bla ma spa tshab (3838) student of bla ma kun dga' (4278)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3838/",
+        "label": "bla ma spa tshab (3838)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4278/",
+        "label": "bla ma kun dga' (4278)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 1079. sPa tshab searched for Pa dam pa sangs rgyas for a long time but did not meet him. Hence he turned to Pa dam pa's disciple Kun dga' for teaching.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        21
+      ]
+    }
+  ],
+  "end_date_to": "1124-12-31",
+  "end_date_from": "1124-01-01",
+  "end_date_sort": "1124-07-01",
+  "start_date_to": "1062-12-31",
+  "start_date_from": "1062-01-01",
+  "start_date_sort": "1062-07-02",
+  "tibetan_transliteration": "\u0f56\u0fb3\u0f0b\u0f58\u0f0b\u0f40\u0f74\u0f53\u0f0b\u0f51\u0f42\u0f60",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "https://purl.bdrc.io/resource/P7840",
+  "review": false,
+  "start": "1062",
+  "end": "1124",
+  "name": "bla ma kun dga'",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

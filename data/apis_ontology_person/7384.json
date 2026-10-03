@@ -1,0 +1,56 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7384/",
+  "relations": [
+    {
+      "id": 5808,
+      "label": "ri khrod pa blo gros mtshungs med (7384) student of bla ma dam pa bsod nams rgyal mtshan (3916)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7384/",
+        "label": "ri khrod pa blo gros mtshungs med (7384)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3916/",
+        "label": "bla ma dam pa bsod nams rgyal mtshan (3916)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 324.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1358-12-31",
+  "end_date_from": "1358-01-01",
+  "end_date_sort": "1358-07-02",
+  "start_date_to": "1316-12-31",
+  "start_date_from": "1316-01-01",
+  "start_date_sort": "1316-07-01",
+  "tibetan_transliteration": "\u0f62\u0f72\u0f0b\u0f41\u0fb2\u0f7c\u0f51\u0f0b\u0f54\u0f0b\u0f56\u0fb3\u0f7c\u0f0b\u0f42\u0fb2\u0f7c\u0f66\u0f0b\u0f58\u0f5a\u0f74\u0f44\u0f66\u0f0b\u0f58\u0f7a\u0f51",
+  "comments": "Sa skya scholar and meditator. See [BAQ9MH4T]: 323-324.",
+  "alternative_names_legacy": "blo gros brtan pa",
+  "alternative_names": [
+    {
+      "label": "blo gros brtan pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P3093",
+  "review": false,
+  "start": "1316",
+  "end": "1358",
+  "name": "ri khrod pa blo gros mtshungs med",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

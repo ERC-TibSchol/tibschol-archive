@@ -1,0 +1,96 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7931/",
+  "relations": [
+    {
+      "id": 6893,
+      "label": "rgyud bla'i don bsdus sam bde gshegs snying po'i don gsal (7931) commentary on ratnagotravibh\u0101ga (3749)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7931/",
+        "label": "rgyud bla'i don bsdus sam bde gshegs snying po'i don gsal (7931)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
+        "label": "ratnagotravibh\u0101ga (3749)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6894,
+      "label": "red mda' ba gzhon nu blo gros (6756) author of rgyud bla'i don bsdus sam bde gshegs snying po'i don gsal (7931)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6756/",
+        "label": "red mda' ba gzhon nu blo gros (6756)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7931/",
+        "label": "rgyud bla'i don bsdus sam bde gshegs snying po'i don gsal (7931)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 409 and n. 25.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1412-12-31",
+  "start_date_from": "1359-01-01",
+  "start_date_sort": "1385-12-31",
+  "tibetan_transliteration": "\u0f62\u0f92\u0fb1\u0f74\u0f51\u0f0b\u0f56\u0fb3\u0f60\u0f72\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f56\u0f66\u0fa1\u0f74\u0f66\u0f0b\u0f66\u0f58\u0f0b\u0f56\u0f51\u0f7a\u0f0b\u0f42\u0f64\u0f7a\u0f42\u0f66\u0f0b\u0f66\u0f99\u0f72\u0f44\u0f0b\u0f54\u0f7c\u0f60\u0f72\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f42\u0f66\u0f63",
+  "comments": "See [BAQ9MH4T]: 409 and n. 25 for mentions of this work under different titles in several catalogues.\r\nAn instance is listed in [GP444QCS]: 611 as: theg pa chen po rgyud bla ma'i 'grel ba dgongs zab snang ba.\r\nModern typeset published as part of [BA7CVGHQ], vol. 62, pp. 392-400.",
+  "alternative_names_legacy": "theg pa chen po rgyud bla ma'i mdor bsdus rin po che'i sgron me\r\nmdo sde rnam mang las gsungs pa'i bde gshegs snying po'i don rgyud bla'i dgongs gsal bar bshad pa\r\ntheg pa chen po rgyud bla ma'i 'grel ba dgongs zab snang ba\r\nrgyud bla'i 'grel ba dgongs zab snang pa",
+  "alternative_names": [
+    {
+      "label": "theg pa chen po rgyud bla ma'i mdor bsdus rin po che'i sgron me",
+      "language": "bo"
+    },
+    {
+      "label": "mdo sde rnam mang las gsungs pa'i bde gshegs snying po'i don rgyud bla'i dgongs gsal bar bshad pa",
+      "language": "bo"
+    },
+    {
+      "label": "theg pa chen po rgyud bla ma'i 'grel ba dgongs zab snang ba",
+      "language": "bo"
+    },
+    {
+      "label": "rgyud bla'i 'grel ba dgongs zab snang pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1359 before 1412",
+  "name": "rgyud bla'i don bsdus sam bde gshegs snying po'i don gsal",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/10/",
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/56/"
+  ]
+}

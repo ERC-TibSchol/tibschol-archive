@@ -1,0 +1,56 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6799/",
+  "relations": [
+    {
+      "id": 4105,
+      "label": "rab zhi bshes gnyen (6799) student of j\u00f1\u0101na\u015br\u012bbhadra (5551)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6799/",
+        "label": "rab zhi bshes gnyen (6799)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5551/",
+        "label": "j\u00f1\u0101na\u015br\u012bbhadra (5551)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P4CZ15186",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1100-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1100-12-31",
+  "start_date_to": null,
+  "start_date_from": "1000-01-01",
+  "start_date_sort": "1000-01-01",
+  "tibetan_transliteration": "",
+  "comments": "",
+  "alternative_names_legacy": "lo gsA ba rab zhi bhses gnyen",
+  "alternative_names": [
+    {
+      "label": "lo gsA ba rab zhi bhses gnyen",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P4277",
+  "review": true,
+  "start": "after 1000",
+  "end": "before 1100",
+  "name": "rab zhi bshes gnyen",
+  "gender": "male",
+  "nationality": "Indic"
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3701/",
+  "relations": [
+    {
+      "id": 4028,
+      "label": "rin chen bzang po (1) (3784) translator of cary\u0101mel\u0101pakaprad\u012bpa (3701)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3784/",
+        "label": "rin chen bzang po (1) (3784)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3701/",
+        "label": "cary\u0101mel\u0101pakaprad\u012bpa (3701)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 956,
+      "label": "spyod bsdus sgron me'i rnam bshad (5159) commentary on cary\u0101mel\u0101pakaprad\u012bpa (3701)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5159/",
+        "label": "spyod bsdus sgron me'i rnam bshad (5159)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3701/",
+        "label": "cary\u0101mel\u0101pakaprad\u012bpa (3701)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2,
+      "label": "\u0101ryadeva (3702) author of cary\u0101mel\u0101pakaprad\u012bpa (3701)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3702/",
+        "label": "\u0101ryadeva (3702)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3701/",
+        "label": "cary\u0101mel\u0101pakaprad\u012bpa (3701)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "",
+  "comments": "",
+  "alternative_names_legacy": "spyod pa bsdus pa'i sgron ma",
+  "alternative_names": [
+    {
+      "label": "spyod pa bsdus pa'i sgron ma",
+      "language": "bo"
+    }
+  ],
+  "external_links": "http://purl.rkts.eu/resource/WTT667",
+  "review": true,
+  "start": null,
+  "name": "cary\u0101mel\u0101pakaprad\u012bpa",
+  "sde_dge_ref": "D1803",
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/3/"
+  ]
+}
