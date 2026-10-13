@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6609/",
   "relations": [
     {
+      "id": 5359,
+      "label": "dpyal kun dga' rdo rje (6609) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6609/",
+        "label": "dpyal kun dga' rdo rje (6609)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 503 and n. 80, citing the dPyal gyi gdung rabs gang+ga'i chu rgyun (nyang stod khyung po rin chen grags la tshad ma rnam nges kyang gsan te shin du mkhas par gyur ||). Studies with Khyung Rin chen grags (ID:3809) in Nyang stod (ID:5541).\r\n[I58Z22ET]: 503 and n. 80, citing the dPyal pa'i lo rgyus kyi yi ge (nyang stod du khyung rin chen grags la tshad ma rnams bslabs pa mthar phyin ||). \"tshad ma rnams\" might stand for \"tshad ma rnam nges.\"",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5369,
       "label": "dpyal kun dga' rdo rje (6609) student of amaracandra (6610)",
       "subj": {
@@ -115,34 +143,6 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[FEHIEFEB]: 124. Kun dga' grags was the eldest son of Kun dga' rdo rje.",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 5359,
-      "label": "dpyal kun dga' rdo rje (6609) studies pram\u0101\u1e47avini\u015bcaya (3774)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6609/",
-        "label": "dpyal kun dga' rdo rje (6609)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[I58Z22ET]: 503 and n. 80, citing the dPyal gyi gdung rabs gang+ga'i chu rgyun (nyang stod khyung po rin chen grags la tshad ma rnam nges kyang gsan te shin du mkhas par gyur ||). Studies with Khyung Rin chen grags (ID:3809) in Nyang stod (ID:5541).\r\n[I58Z22ET]: 503 and n. 80, citing the dPyal pa'i lo rgyus kyi yi ge (nyang stod du khyung rin chen grags la tshad ma rnams bslabs pa mthar phyin ||). \"tshad ma rnams\" might stand for \"tshad ma rnam nges.\"",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",

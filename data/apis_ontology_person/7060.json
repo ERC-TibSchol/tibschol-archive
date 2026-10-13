@@ -2,6 +2,62 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
   "relations": [
     {
+      "id": 7297,
+      "label": "dge 'dun grub pa (7060) studies pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
+        "label": "dge 'dun grub pa (7060)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q922IUFM]: 1: 44. In 'On, with Tsong kha pa (ID:5636).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7997,
+      "label": "dge 'dun grub pa (7060) studies pram\u0101\u1e47av\u0101rttika (3772)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
+        "label": "dge 'dun grub pa (7060)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BKUHJCNA]: 756. He studied Pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (ID: 3772) with one Yongs su 'dzin pa A bha ya kIrti and performed grwa bskor at Snar thang (ID: 4411)...later, he served as an attendant to Sems dpal chen po kun dga' bzang po (ID: 7089) and heard teachings on tshad ma that caused his aspirations (thugs bskyed) to blossom, leading him to exclaim: \"This is the first time someone has made me really understand it!\" (dang po rang nas rig chen byas).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4946,
       "label": "dge 'dun grub pa (7060) author of rnam 'grel gyi TIka chung (7108)",
       "subj": {
@@ -57,62 +113,6 @@
       "start": "after 1400",
       "end": "before 1474",
       "subject_of_teaching_vocab": []
-    },
-    {
-      "id": 7997,
-      "label": "dge 'dun grub pa (7060) studies pram\u0101\u1e47av\u0101rttika (3772)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
-        "label": "dge 'dun grub pa (7060)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
-        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[BKUHJCNA]: 756. He studied Pram\u0101\u1e47av\u0101rttikak\u0101rik\u0101 (ID: 3772) with one Yongs su 'dzin pa A bha ya kIrti and performed grwa bskor at Snar thang (ID: 4411)...later, he served as an attendant to Sems dpal chen po kun dga' bzang po (ID: 7089) and heard teachings on tshad ma that caused his aspirations (thugs bskyed) to blossom, leading him to exclaim: \"This is the first time someone has made me really understand it!\" (dang po rang nas rig chen byas).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 7297,
-      "label": "dge 'dun grub pa (7060) studies pram\u0101\u1e47avini\u015bcaya (3774)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7060/",
-        "label": "dge 'dun grub pa (7060)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
-        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[Q922IUFM]: 1: 44. In 'On, with Tsong kha pa (ID:5636).",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
     },
     {
       "id": 4847,
