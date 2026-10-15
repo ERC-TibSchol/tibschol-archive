@@ -393,7 +393,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex014022026-09-2303-06-59\r\nex14022025-03-31\r\nex14022024-10-21-14-48\r\nex014022026-09-2303-28-02\r\nex14022026-09-2912-58-09",
+      "tei_refs": "ex14022024-10-21-14-48\r\nex014022026-09-2303-06-59\r\nex14022026-09-2912-58-09\r\nex14022026-10-1401-05-49\r\nex014022026-09-2303-28-02\r\nex14022025-03-31",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -576,7 +576,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex14022024-10-21-14-42\r\nex14022026-09-1501-55-32\r\nex014022026-09-2303-28-02 (ma ha)",
+      "tei_refs": "ex14022024-10-21-14-19\r\nex14022024-10-21-14-42\r\nex14022026-09-1501-55-32\r\nex014022026-09-2901-22-28\r\nex014022026-10-1405-10-39\r\nex014022026-10-1404-54-48\r\nex014022026-09-2303-28-02 (ma ha)\r\nex014022026-10-1405-05-18",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -641,38 +641,6 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "ex14022024-10-21-15-06\r\nex14022026-10-1309-30-08\r\nex0140122026-02-2413-04-37\r\nex014022026-09-2901-28-41",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": [
-        56,
-        7
-      ]
-    },
-    {
-      "id": 5259,
-      "label": "'jam gsar ba shes rab 'od zer (3884) quotes without name zhang tshe spong chos kyi bla ma (3805)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3884/",
-        "label": "'jam gsar ba shes rab 'od zer (3884)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3805/",
-        "label": "zhang tshe spong chos kyi bla ma (3805)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "ex14022024-10-21-15-34\r\nex014022026-09-2405-06-47\r\nex014022026-09-2404-54-17\r\nex014022026-09-2404-54-19\r\nex014022026-09-2404-54-20",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -790,7 +758,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex14022024-10-21-16-10\r\nex14022026-09-1501-59-58\r\nex14022026-09-1501-59-59\r\nex14022026-09-1601-00-58\r\nex014022026-09-2202-38-16",
+      "tei_refs": "ex14022024-10-21-16-10\r\nex14022026-09-1501-59-58\r\nex14022026-09-1501-59-59\r\nex14022026-09-1601-00-58\r\nex014022026-09-2202-38-16\r\nex14022026-10-1412-30-45",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -854,12 +822,15 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex14022024-10-21-16-10\r\nex14022024-10-21-15-16",
+      "tei_refs": "ex14022026-10-1409-23-06\r\nex14022024-10-21-16-10\r\nex14022024-10-21-15-16\r\nex014022026-10-1409-19-34",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
     },
     {
       "id": 622,
@@ -1155,12 +1126,13 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[4LWBNM7B]: 121.",
-      "tei_refs": "ex014022026-02-2412-06-25\r\nex14022026-09-1002-48-13",
-      "support_notes": "",
+      "tei_refs": "ex014022026-02-2412-06-25\r\nex14022026-09-1002-48-13\r\nex14022024-10-21-15-34\r\nex014022026-09-2405-06-47\r\nex014022026-09-2404-54-17\r\nex014022026-09-2404-54-19\r\nex014022026-09-2404-54-20\r\nex14022026-10-1412-30-45",
+      "support_notes": "The references \"gnyal\" or \"gnyal pa\" could however also be referring to gNyal pa Zhang tshe spong (db:3805).",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
+        56,
         7
       ]
     },

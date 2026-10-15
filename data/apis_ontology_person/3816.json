@@ -435,7 +435,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex023-2024-10-08-15-13\r\nex02032024-10-1509-38-46\r\nex02032025-04-2512-31-25\r\nex002032026-07-0605-02-48\r\nex002032026-07-0705-44-58\r\nex02032025-04-2513-15-11\r\nex03012023-07-1009-06-03",
+      "tei_refs": "ex023-2024-10-08-15-13\r\nex002032026-10-1403-19-48\r\nex02032024-10-1509-38-46\r\nex02032025-04-2512-31-25\r\nex002032026-07-0605-02-48\r\nex002032026-07-0705-44-58\r\nex02032025-04-2513-15-11\r\nex03012023-07-1009-06-03",
       "support_notes": "Ca. 47 citations in work (ID:4455), one in (ID:4457).",
       "confidence": "Positive",
       "start": null,
@@ -743,8 +743,8 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex03012023-07-1009-06-03 (lo tsa ba)\r\nex02032025-04-2512-31-25 (mahA)\r\nex002032025-11-0715-07-22 (maha)\r\nex02032025-04-2513-15-112 (mahA)\r\nex02032025-04-2514-57-05 (mahA)\r\nex002032026-09-0811-43-48 (mahA)",
-      "support_notes": "",
+      "tei_refs": "ex03012023-07-1009-06-03 (lo tsa ba)\r\nex002032026-10-1403-19-48 (mahA)\r\nex02032025-04-2512-31-25 (mahA)\r\nex002032025-11-0715-07-22 (maha)\r\nex02032025-04-2513-15-112 (mahA)\r\nex02032025-04-2514-57-05 (mahA)\r\nex002032026-09-0811-43-48 (mahA)",
+      "support_notes": "Over 50 citations in (ID:4455).",
       "confidence": "Positive",
       "start": null,
       "end": null,
@@ -838,6 +838,37 @@
       "start": "1134",
       "end": "1134",
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 8075,
+      "label": "ar byang chub ye shes (3816) quotes without name rma bya byang chub brtson 'grus (3842)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3816/",
+        "label": "ar byang chub ye shes (3816)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3842/",
+        "label": "rma bya byang chub brtson 'grus (3842)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex1311-2024-09-26-16-212 (byang ye)",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
     },
     {
       "id": 3747,
@@ -1038,7 +1069,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex71042024-11-08-16-18\r\nex071042026-09-2305-54-17",
+      "tei_refs": "ex071042026-10-1403-02-38\r\nex71042024-11-08-16-18\r\nex071042026-09-2305-54-17\r\nex071042026-10-1403-09-04",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -1070,7 +1101,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex014022026-09-2303-06-59\r\nex14022025-03-31\r\nex14022024-10-21-14-48\r\nex014022026-09-2303-28-02\r\nex14022026-09-2912-58-09",
+      "tei_refs": "ex14022024-10-21-14-48\r\nex014022026-09-2303-06-59\r\nex14022026-09-2912-58-09\r\nex14022026-10-1401-05-49\r\nex014022026-09-2303-28-02\r\nex14022025-03-31",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -1224,7 +1255,39 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex012012026-06-2201-02-15\r\nex012012026-09-2912-15-08",
+      "tei_refs": "ex012012026-06-2212-38-01\r\nex012012026-06-2201-02-15\r\nex012012026-09-2912-15-08",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
+    },
+    {
+      "id": 8079,
+      "label": "bo dong rin po che brtson 'grus rdo rje (4296) quotes without name ar byang chub ye shes (3816)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4296/",
+        "label": "bo dong rin po che brtson 'grus rdo rje (4296)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3816/",
+        "label": "ar byang chub ye shes (3816)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex70032026-10-1401-24-47",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -1256,7 +1319,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex71032024-10-31-13-22",
+      "tei_refs": "ex71032024-10-31-13-22\r\nex71032026-10-1402-49-258\r\nex71032026-10-1402-54-27\r\nex71032026-10-1402-58-20",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -1317,8 +1380,40 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
+      "tei_refs": "ex230122026-09-1606-34-50",
+      "support_notes": "21 citations",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
+    },
+    {
+      "id": 8077,
+      "label": "rdo ston shes rab grags (3924) quotes with name ar byang chub ye shes (3816)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3924/",
+        "label": "rdo ston shes rab grags (3924)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3816/",
+        "label": "ar byang chub ye shes (3816)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "Referred to as \"byang yes.\" 14 citations in (ID:4653).",
       "confidence": "Positive",
       "start": null,
       "end": null,

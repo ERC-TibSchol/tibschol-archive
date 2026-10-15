@@ -261,7 +261,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex012012026-06-2212-16-11\r\nex012012026-06-2212-39-40\r\nex012012026-06-2212-46-32",
+      "tei_refs": "ex012012026-06-2212-16-11\r\nex012012026-06-2212-39-40\r\nex012012026-06-2212-46-32\r\nex012012026-10-1403-40-03\r\nex121_2024-10-10-12-40",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -456,35 +456,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 5269,
-      "label": "gnyal zhig po 'jam pa'i rdo rje (3887) quotes without name zhang tshe spong chos kyi bla ma (3805)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
-        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3805/",
-        "label": "zhang tshe spong chos kyi bla ma (3805)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 3675,
       "label": "gnyal zhig po 'jam pa'i rdo rje (3887) other relation to sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
       "subj": {
@@ -565,7 +536,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex012012026-06-2201-02-15\r\nex012012026-09-2912-15-08",
+      "tei_refs": "ex012012026-06-2212-38-01\r\nex012012026-06-2201-02-15\r\nex012012026-09-2912-15-08",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -1366,6 +1337,67 @@
       ]
     },
     {
+      "id": 8072,
+      "label": "bu ston seng ge 'od (1) (4314) quotes with name gnyal zhig po 'jam pa'i rdo rje (3887)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4314/",
+        "label": "bu ston seng ge 'od (1) (4314)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
+        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex89022026-09-1604-49-51\r\nex89022026-09-1604-49-52",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 8073,
+      "label": "bo dong rin po che brtson 'grus rdo rje (4296) quotes without name gnyal zhig po 'jam pa'i rdo rje (3887)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4296/",
+        "label": "bo dong rin po che brtson 'grus rdo rje (4296)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3887/",
+        "label": "gnyal zhig po 'jam pa'i rdo rje (3887)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex70032024-10-18-13-49\r\nex70032026-10-1411-58-52\r\nex70032026-10-1411-58-53\r\nex70032026-10-1411-58-54\r\nex70032024-10-17-14-01\r\nex70032024-10-17-14-02\r\nex070032026-10-1412-42-04",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
+    },
+    {
       "id": 6479,
       "label": "dar ma bkra shis (1) (6217) lineage predecessor of gnyal zhig po 'jam pa'i rdo rje (3887)",
       "subj": {
@@ -1449,12 +1481,13 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[4LWBNM7B]: 121.",
-      "tei_refs": "ex014022026-02-2412-06-25\r\nex14022026-09-1002-48-13",
-      "support_notes": "",
+      "tei_refs": "ex014022026-02-2412-06-25\r\nex14022026-09-1002-48-13\r\nex14022024-10-21-15-34\r\nex014022026-09-2405-06-47\r\nex014022026-09-2404-54-17\r\nex014022026-09-2404-54-19\r\nex014022026-09-2404-54-20\r\nex14022026-10-1412-30-45",
+      "support_notes": "The references \"gnyal\" or \"gnyal pa\" could however also be referring to gNyal pa Zhang tshe spong (db:3805).",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
+        56,
         7
       ]
     },
@@ -1542,12 +1575,14 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[4LWBNM7B]",
-      "tei_refs": "",
+      "tei_refs": "exX0032026-09-1705-13-02 (myal ba)\r\nexX0032026-10-1411-38-07 (myal pa)\r\nexX0032026-10-1411-42-10 (myal pa)\r\nexX0032026-10-1411-42-11 (myal pa)\r\nexX0032026-10-1411-42-13 (myal pa)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9
+      ]
     },
     {
       "id": 5294,
@@ -1572,11 +1607,13 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "In Pham byed",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        9
+      ]
     }
   ],
   "end_date_to": "1275-12-31",
