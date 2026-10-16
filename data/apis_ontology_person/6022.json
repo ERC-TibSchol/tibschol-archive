@@ -2,6 +2,38 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
   "relations": [
     {
+      "id": 8112,
+      "label": "chos kyi grags pa (6022) quotes with name ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
+        "label": "chos kyi grags pa (6022)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex71032024-10-31-14-43",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
+    },
+    {
       "id": 7805,
       "label": "chos kyi grags pa (6022) quotes with name ku lan ta (6951)",
       "subj": {
@@ -151,9 +183,9 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex71032024-10-31-13-05",
-      "support_notes": "\"rngog\" could also be rNgog legs pa'i shes rab (ID:3788).",
-      "confidence": "Uncertain",
+      "tei_refs": "ex71032024-10-31-13-05\r\nex71032026-10-1509-29-59\r\nex071032026-10-1509-35-49 (lo tsha ba)\r\nex071032026-10-1509-35-50\r\nex071032026-10-1509-35-51\r\nex71032026-10-1511-25-15\r\nex71032026-10-1509-53-34\r\nex71032026-10-1510-01-30\r\nex71032026-10-1510-01-31\r\nex71032026-10-1510-01-32\r\nex71032026-10-1510-01-33\r\nex71032026-10-1510-14-13\r\nex71032026-10-1510-36-54\r\nex71032026-10-1511-08-16\r\nex71032026-10-1511-17-10\r\nex71032026-10-1510-57-33\r\nex71032026-10-1511-16-20\r\nex71032026-10-1510-53-52\r\nex71032026-10-1510-43-53\r\nex071032026-10-1510-52-19\r\nex71032026-10-1505-08-57\r\nex71032026-10-1510-43-11\r\nex71032026-10-1510-40-54",
+      "support_notes": "",
+      "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
@@ -220,6 +252,38 @@
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 8113,
+      "label": "chos kyi grags pa (6022) quotes with name khyung po grags se (4294)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6022/",
+        "label": "chos kyi grags pa (6022)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4294/",
+        "label": "khyung po grags se (4294)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex71032026-10-1511-17-10",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        56,
+        7
+      ]
     },
     {
       "id": 5182,
@@ -307,7 +371,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "ex71032024-10-31-13-19",
+      "tei_refs": "ex71032024-10-31-13-19\r\nex71032026-10-1509-53-34\r\nex71032026-10-1510-01-31",
       "support_notes": "Ca. 24 references to 'Bre's views.",
       "confidence": "Positive",
       "start": null,
@@ -325,11 +389,11 @@
   "start_date_from": "1010-01-01",
   "start_date_sort": "1010-01-01",
   "tibetan_transliteration": "\u0f46\u0f7c\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f42\u0fb2\u0f42\u0f66\u0f0b\u0f54",
-  "comments": "",
+  "comments": "Makes frequent references to a (his?) teacher (slob dpon), whom glosses identify as \"gnyan.\"",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [],
   "external_links": "",
-  "review": true,
+  "review": false,
   "start": "after 1010",
   "end": "after 1080",
   "name": "chos kyi grags pa",
