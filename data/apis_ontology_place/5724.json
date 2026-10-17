@@ -3,7 +3,7 @@
   "relations": [
     {
       "id": 2220,
-      "label": "byang chub lam gyi sgron ma'i bsdus don (5423) composed at lha chen sha+m+bho'i gnas (5724)",
+      "label": "byang chub lam gyi sgron ma'i bsdus don (5423) composed at lha chen sham+b+ho (5724)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5423/",
         "label": "byang chub lam gyi sgron ma'i bsdus don (5423)",
@@ -12,7 +12,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5724/",
-        "label": "lha chen sha+m+bho'i gnas (5724)",
+        "label": "lha chen sham+b+ho (5724)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -22,12 +22,41 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "(ID:5422), 4b4-4b5: byang chub lam gyi sgron ma'i bsdus don | dge slong kun dga' rgyal mtshan gyis lha chen sham+b+ho'i gnas dang nye bar 'dug pa na sug las su bgyis pa'o || 'dis kyang bka' gdams kyi [4b5] bstan pa rin po che dar zhing rgyas par byed nus par gyur cig ||",
+      "confidence": "Uncertain",
       "start": null,
       "end": null
+    },
+    {
+      "id": 8116,
+      "label": "rtses thang las chen kun dga' rgyal mtshan (4115) active at lha chen sham+b+ho (5724)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4115/",
+        "label": "rtses thang las chen kun dga' rgyal mtshan (4115)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5724/",
+        "label": "lha chen sham+b+ho (5724)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Composition of Byang chub lam gyi sgron ma'i bsdus don (ID:5423).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
     }
   ],
   "start_date_to": null,
@@ -36,12 +65,12 @@
   "latitude": null,
   "longitude": null,
   "feature_code": "",
-  "tibetan_transliteration": "\u0f63\u0fb7\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f64\u0fa8\u0fa6\u0fb7\u0f7c\u0f60\u0f72\u0f0b\u0f42\u0f53\u0f66",
+  "tibetan_transliteration": "\u0f63\u0fb7\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f64\u0f58\u0fa6\u0fb7\u0f7c",
   "comments": "",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [],
   "external_links": "",
   "review": false,
-  "label": "lha chen sha+m+bho'i gnas",
+  "label": "lha chen sham+b+ho",
   "start": null
 }
