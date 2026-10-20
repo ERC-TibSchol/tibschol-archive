@@ -618,6 +618,34 @@
       "end": null
     },
     {
+      "id": 8121,
+      "label": "g.yag rde (6060) located within gtsang (5915)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6060/",
+        "label": "g.yag rde (6060)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
+        "label": "gtsang (5915)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 3059,
       "label": "gnas rnying (4341) located within gtsang (5915)",
       "subj": {
@@ -670,6 +698,34 @@
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 8118,
+      "label": "dpal ldan rnams rgyal gtsug lag khang (5726) located within gtsang (5915)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5726/",
+        "label": "dpal ldan rnams rgyal gtsug lag khang (5726)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5915/",
+        "label": "gtsang (5915)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
       "start": null,
       "end": null
     },
