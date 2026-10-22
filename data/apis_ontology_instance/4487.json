@@ -1,0 +1,67 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4487/",
+  "relations": [
+    {
+      "id": 1287,
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i don bsdus pa (4488) has as an instance byang chub sems dpa'i spyod pa la 'jug pa'i don bsdus pa (4487)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4488/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i don bsdus pa (4488)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4487/",
+        "label": "byang chub sems dpa'i spyod pa la 'jug pa'i don bsdus pa (4487)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f56\u0fb1\u0f44\u0f0b\u0f46\u0f74\u0f56\u0f0b\u0f66\u0f7a\u0f58\u0f66\u0f0b\u0f51\u0f54\u0f60\u0f72\u0f0b\u0f66\u0fa4\u0fb1\u0f7c\u0f51\u0f0b\u0f54\u0f0b\u0f63\u0f0b\u0f60\u0f47\u0f74\u0f42\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f56\u0f66\u0fa1\u0f74\u0f66\u0f0b\u0f54",
+  "comments": "The text is followed by a topical outline of the \u015aik\u1e63\u0101samuccaya from fol. 7a6 onward, see (ID:6554). The two texts are not distinguished in the [8H6M69W4].",
+  "alternative_names_legacy": "byang chub sems dpa'i spyod pa la 'jug pa'i don bsdus pa (colophon)\r\ndge slong phywa pa chos kyi seng ges mdzad pa'i spyod 'jug bsdus don",
+  "alternative_names": [
+    {
+      "label": "byang chub sems dpa'i spyod pa la 'jug pa'i don bsdus pa (colophon)",
+      "language": "bo"
+    },
+    {
+      "label": "dge slong phywa pa chos kyi seng ges mdzad pa'i spyod 'jug bsdus don",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_35285B",
+  "review": true,
+  "start": null,
+  "name": "byang chub sems dpa'i spyod pa la 'jug pa'i don bsdus pa",
+  "set_num": "Set 1",
+  "volume": "7",
+  "sb_text_number": "2",
+  "pp_kdsb": "131-143",
+  "num_folios": "6",
+  "signature_letter": "tsa",
+  "signature_number": "65",
+  "drepung_number": "15546",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "1_007_02",
+  "availability": "available",
+  "dimension": "65.5 x 10",
+  "item_description": "Script: 'bru tsha.\r\nNumbering in letters in the left margin on the recto, only visible on fol. 2, fol. 3 and fol. 7\r\nOrthography:\r\n- Use of bindu for m\r\n- Palatalization of m (e.g., myi, myed) with some exceptions\r\n- Particle pa/ba sometimes takes the form pa after final \u2013ng\r\n- Rare superabundant 'a rjes 'jug (e.g., gzhi')\r\nLemmas of the base text as sublinear notes."
+}

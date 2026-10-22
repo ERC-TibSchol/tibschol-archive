@@ -1,0 +1,52 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5615/",
+  "relations": [
+    {
+      "id": 7406,
+      "label": "tho ling gser khang (5615) located within tho ling (6216)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5615/",
+        "label": "tho ling gser khang (5615)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6216/",
+        "label": "tho ling (6216)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "latitude": 31.48314909153566,
+  "longitude": 79.79735820745925,
+  "feature_code": "",
+  "tibetan_transliteration": "\u0f50\u0f7c\u0f0b\u0f63\u0f72\u0f44\u0f0b\u0f42\u0f66\u0f7a\u0f62\u0f0b\u0f41\u0f44",
+  "comments": "See [5VEXCHQ3]: 28-31. One of the most important temples in the Tho ling (ID:6216) complex. Construction from 1067 to 1071 by Zhi ba 'od with the help of rTse lde.\r\nThe coordinates provided here are those of Tho ling (ID:6116).",
+  "alternative_names_legacy": "tho sling gser khang\r\n'jam dpal rnam 'phrul bla med 'dzam gling rgyan",
+  "alternative_names": [
+    {
+      "label": "'jam dpal rnam 'phrul bla med 'dzam gling rgyan",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "label": "tho ling gser khang",
+  "start": null
+}

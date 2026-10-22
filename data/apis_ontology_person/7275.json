@@ -1,0 +1,58 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7275/",
+  "relations": [
+    {
+      "id": 5549,
+      "label": "rin po che bkra shis dpal (7275) active at rtses thang (5765)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7275/",
+        "label": "rin po che bkra shis dpal (7275)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5765/",
+        "label": "rtses thang (5765)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 499 ([rin po che bkra shis dpal...] chung ngu'i dus nas rab tu byung zhing rtses thang du chen po blo gros 'phel ba'i sar gtugs | tshad ma'i slob gnyer mdzad |). Studies of epistemology in his youth in rTses thang with the provost blo gros 'phel, a student of Tsong kha pa (ID:5636).\r\n[FDEWZ2NZ]: 331-332 and n. 1346.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": "1380-01-01",
+  "start_date_sort": "1380-01-01",
+  "tibetan_transliteration": "\u0f62\u0f72\u0f53\u0f0b\u0f54\u0f7c\u0f0b\u0f46\u0f7a\u0f0b\u0f56\u0f40\u0fb2\u0f0b\u0f64\u0f72\u0f66\u0f0b\u0f51\u0f54\u0f63",
+  "comments": "Son of Byang chub dpal (1360-1446).",
+  "alternative_names_legacy": "bkra shis dpal grub",
+  "alternative_names": [
+    {
+      "label": "bkra shis dpal grub",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1380",
+  "end": null,
+  "name": "rin po che bkra shis dpal",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

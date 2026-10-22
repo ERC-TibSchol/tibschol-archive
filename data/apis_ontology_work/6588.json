@@ -1,0 +1,79 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6588/",
+  "relations": [
+    {
+      "id": 3502,
+      "label": "mah\u0101y\u0101nottaratantra\u015b\u0101stropade\u015ba (6588) commentary on ratnagotravibh\u0101ga (3749)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6588/",
+        "label": "mah\u0101y\u0101nottaratantra\u015b\u0101stropade\u015ba (6588)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3749/",
+        "label": "ratnagotravibh\u0101ga (3749)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3503,
+      "label": "sajjana (3800) author of mah\u0101y\u0101nottaratantra\u015b\u0101stropade\u015ba (6588)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3800/",
+        "label": "sajjana (3800)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6588/",
+        "label": "mah\u0101y\u0101nottaratantra\u015b\u0101stropade\u015ba (6588)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[BAQ9MH4T]: 406, n. 5.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1120-12-31",
+  "start_date_from": "1000-01-01",
+  "start_date_sort": "1060-07-01",
+  "tibetan_transliteration": "",
+  "comments": "See [BAQ9MH4T]: 406 and [NCQ5GCTN]. Small work in 37 verses. It is extant as a single folio palm-leaf manuscript in Proto-Sarada script written by a Kashmiri scribe. Previously preserved at Zhwa lu ri phug monastery, it is now likely housed in the Tibet Museum in Lhasa. \r\nThe manuscript contains interlinear notes by an anonymous hand which, Kano suggests, could amount to the memorandum by gZu dga' ba'i rdo rje (ID:6587).\r\n[NCQ5GCTN] contains a structural analysis and a synoptic analysis, as well as a translation and reading text.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": true,
+  "start": "after 1000 before 1120",
+  "name": "mah\u0101y\u0101nottaratantra\u015b\u0101stropade\u015ba",
+  "sde_dge_ref": null,
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/10/",
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/56/"
+  ]
+}

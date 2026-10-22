@@ -1,0 +1,63 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4541/",
+  "relations": [
+    {
+      "id": 1312,
+      "label": "btsun mo do ha'i 'grel bshad snying po rnam par nges pa (4542) has as an instance btsun mo do ha'i 'grel bshad snying po rnam par nges pa (2) (4541)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4542/",
+        "label": "btsun mo do ha'i 'grel bshad snying po rnam par nges pa (4542)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4541/",
+        "label": "btsun mo do ha'i 'grel bshad snying po rnam par nges pa (2) (4541)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f56\u0f59\u0f74\u0f53\u0f0b\u0f58\u0f7c\u0f0b\u0f51\u0f7c\u0f0b\u0f67\u0f60\u0f72\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f66\u0f99\u0f72\u0f44\u0f0b\u0f54\u0f7c\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f54\u0f62\u0f0b\u0f44\u0f7a\u0f66\u0f0b\u0f54 \u0f3c\u0f22\u0f3d",
+  "comments": "The signature number is unclear on the reproduction in [Z5AUD7GQ]. It is reported to be \"114\" in [S635TW6P]: 72, and \"117\" in [8H6M69W4].",
+  "alternative_names_legacy": "btsun mo d+ho ha 'grel bshad snying po rnam par nges pa",
+  "alternative_names": [
+    {
+      "label": "btsun mo d+ho ha 'grel bshad snying po rnam par nges pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_7A5566",
+  "review": true,
+  "start": null,
+  "name": "btsun mo do ha'i 'grel bshad snying po rnam par nges pa (2)",
+  "set_num": "Set 1",
+  "volume": "11",
+  "sb_text_number": "14",
+  "pp_kdsb": "519-568",
+  "num_folios": "25",
+  "signature_letter": "ma",
+  "signature_number": "117",
+  "drepung_number": "6882",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "1_011_14",
+  "availability": "available",
+  "dimension": "42 x 7.2",
+  "item_description": "Script: dpe tshugs."
+}

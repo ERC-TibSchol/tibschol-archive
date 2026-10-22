@@ -1,0 +1,111 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4754/",
+  "relations": [
+    {
+      "id": 732,
+      "label": "chos mngon pa kun las btus pa'i bshad pa rnam bshad snying po legs bshad kyi 'od zer (4754) commentary on abhidharmasamuccaya (3755)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4754/",
+        "label": "chos mngon pa kun las btus pa'i bshad pa rnam bshad snying po legs bshad kyi 'od zer (4754)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3755/",
+        "label": "abhidharmasamuccaya (3755)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1411,
+      "label": "chos mngon pa kun las btus pa'i bshad pa rnam bshad snying po legs bshad kyi 'od zer (4754) has as an instance chos mngon pa kun las btus pa'i bshad pa rnam bshad snying po legs bshad kyi 'od zer (4753)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4754/",
+        "label": "chos mngon pa kun las btus pa'i bshad pa rnam bshad snying po legs bshad kyi 'od zer (4754)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4753/",
+        "label": "chos mngon pa kun las btus pa'i bshad pa rnam bshad snying po legs bshad kyi 'od zer (4753)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1973,
+      "label": "chu mig pa seng ge dpal (4018) author of chos mngon pa kun las btus pa'i bshad pa rnam bshad snying po legs bshad kyi 'od zer (4754)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4018/",
+        "label": "chu mig pa seng ge dpal (4018)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4754/",
+        "label": "chos mngon pa kun las btus pa'i bshad pa rnam bshad snying po legs bshad kyi 'od zer (4754)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1280-12-31",
+  "start_date_from": "1220-01-01",
+  "start_date_sort": "1250-07-02",
+  "tibetan_transliteration": "\u0f46\u0f7c\u0f66\u0f0b\u0f58\u0f44\u0f7c\u0f53\u0f0b\u0f54\u0f0b\u0f40\u0f74\u0f53\u0f0b\u0f63\u0f66\u0f0b\u0f56\u0f4f\u0f74\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f54\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f66\u0f99\u0f72\u0f44\u0f0b\u0f54\u0f7c\u0f0b\u0f63\u0f7a\u0f42\u0f66\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f60\u0f7c\u0f51\u0f0b\u0f5f\u0f7a\u0f62",
+  "comments": "Commentary on the Abhidharmasamuccaya, only the first chapter of which is extant in instance (ID:4753).\r\nAlthough no colophon is available, the authorship is supported by parallel passages with other works by Chu mig pa seng ge dpal (ID:4018).\r\n\r\nThe views of other scholars are quoted, such as Tho (ID:3921) and 'Ban (ID:4243).",
+  "alternative_names_legacy": "chos mngon pa kun las btus pa'i bshad pa rnam bshad snying po legs bshad kyi 'od zer",
+  "alternative_names": [
+    {
+      "label": "chos mngon pa kun las btus pa'i bshad pa rnam bshad snying po legs bshad kyi 'od zer",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": "after 1220 before 1280",
+  "name": "chos mngon pa kun las btus pa'i bshad pa rnam bshad snying po legs bshad kyi 'od zer",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/17/"
+  ]
+}

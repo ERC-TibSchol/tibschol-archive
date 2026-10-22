@@ -1,0 +1,55 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5626/",
+  "relations": [
+    {
+      "id": 1252,
+      "label": "nyi ma rgyal mtshan (5626) owner of dpal dus kyi 'khor lo'i sgrub thabs rnal 'byor bcu gnyis pa (4615)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5626/",
+        "label": "nyi ma rgyal mtshan (5626)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4615/",
+        "label": "dpal dus kyi 'khor lo'i sgrub thabs rnal 'byor bcu gnyis pa (4615)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex19112023-09-15-125912",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f49\u0f72\u0f0b\u0f58\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f58\u0f5a\u0f53",
+  "comments": "See maybe (ID:6520)?",
+  "alternative_names_legacy": "shAkya'i btsun pa nyi ma rgyal mtshan",
+  "alternative_names": [
+    {
+      "label": "shAkya'i btsun pa nyi ma rgyal mtshan",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1200",
+  "end": "before 1700",
+  "name": "nyi ma rgyal mtshan",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

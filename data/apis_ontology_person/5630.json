@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5630/",
+  "relations": [
+    {
+      "id": 2825,
+      "label": "dga' ston shes rab grags (5630) addressee of spring yig bdud rtsi'i thig pa (4447)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5630/",
+        "label": "dga' ston shes rab grags (5630)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4447/",
+        "label": "spring yig bdud rtsi'i thig pa (4447)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex1114_3442023_05_08",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2824,
+      "label": "dga' ston shes rab grags (5630) active at tsong kha (5631)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5630/",
+        "label": "dga' ston shes rab grags (5630)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5631/",
+        "label": "tsong kha (5631)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex1114_3442023_05_08",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "1090-01-01",
+  "end_date_sort": "1090-01-01",
+  "start_date_to": "1080-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1080-12-31",
+  "tibetan_transliteration": "\u0f51\u0f42\u0f60\u0f0b\u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f64\u0f7a\u0f66\u0f0b\u0f62\u0f56\u0f0b\u0f42\u0fb2\u0f42\u0f66",
+  "comments": "Head of the Buddhist community of Ru gsum in Tsong kha.",
+  "alternative_names_legacy": "rga ston shes rab grags",
+  "alternative_names": [
+    {
+      "label": "rga ston shes rab grags",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "before 1080",
+  "end": "after 1090",
+  "name": "dga' ston shes rab grags",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

@@ -1,0 +1,55 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7385/",
+  "relations": [
+    {
+      "id": 5809,
+      "label": "gnyal pa blo gros mtshungs med (7385) ordinator of mkhas grub rje dge legs dpal bzang (6470)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7385/",
+        "label": "gnyal pa blo gros mtshungs med (7385)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6470/",
+        "label": "mkhas grub rje dge legs dpal bzang (6470)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": "1415-12-31",
+      "end_date_from": "1415-01-01",
+      "end_date_sort": "1415-07-02",
+      "start_date_to": "1415-12-31",
+      "start_date_from": "1415-01-01",
+      "start_date_sort": "1415-07-02",
+      "zotero_refs": "[BAQ9MH4T]: 324. gSang ston at Khas grub rje's ordination.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1415",
+      "end": "1415"
+    }
+  ],
+  "end_date_to": "1475-12-31",
+  "end_date_from": "1415-01-01",
+  "end_date_sort": "1445-07-01",
+  "start_date_to": "1395-12-31",
+  "start_date_from": "1335-01-01",
+  "start_date_sort": "1365-07-01",
+  "tibetan_transliteration": "\u0f42\u0f49\u0f63\u0f0b\u0f54\u0f0b\u0f56\u0fb3\u0f7c\u0f0b\u0f42\u0fb2\u0f7c\u0f66\u0f0b\u0f58\u0f5a\u0f74\u0f44\u0f66\u0f0b\u0f58\u0f7a\u0f51",
+  "comments": "See [BAQ9MH4T]: 324.",
+  "alternative_names_legacy": "mnyam pa blo gros mtshungs med",
+  "alternative_names": [
+    {
+      "label": "mnyam pa blo gros mtshungs med",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "after 1335 before 1395",
+  "end": "after 1415 before 1475",
+  "name": "gnyal pa blo gros mtshungs med",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

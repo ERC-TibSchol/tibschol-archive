@@ -1,0 +1,79 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6246/",
+  "relations": [
+    {
+      "id": 2785,
+      "label": "bzad pa don grub (6246) active at gsang phu gling smad (6158)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6246/",
+        "label": "bzad pa don grub (6246)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6158/",
+        "label": "gsang phu gling smad (6158)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1258-12-31",
+      "end_date_from": "1218-01-01",
+      "end_date_sort": "1238-07-02",
+      "start_date_to": "1228-12-31",
+      "start_date_from": null,
+      "start_date_sort": "1228-12-31",
+      "zotero_refs": "[7FZ3B926]: 111. Abbot of gSang phu ne'u thog monastery (lower college) until 1258. However, the date is debatable. \r\n[3HXACZSD]: 217. Abbot until 1218, together with bZad pa Dar ma 'od (ID:6245).\r\n[5NY3E6YU]: 68: bzad pa dar ma 'od | bzad pa don grub gnyis kyis lo sum cu mdzad do |. It seems the sentence here means both Dar ma 'od and Don grub together held the abbotship for 30 years, not 30 years of each. \r\n[MPRU5QUC]: 209. Abbot of gSang phu ne'u thog monastery (fourth abbot of lower college)\r\n[3HXACZSD]: 216 (based on the Red Annals). Handed the see of Ne'u thog to gTsang pa Jon nam (ID:4201).",
+      "tei_refs": "",
+      "support_notes": "Follows 'Dzam tsan ne (ID:6244) as abbot.",
+      "confidence": "Positive",
+      "start": "before 1228",
+      "end": "after 1218 before 1258",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7016,
+      "label": "bzad pa don grub (6246) other relation to gtsang pa jo nam (4201)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6246/",
+        "label": "bzad pa don grub (6246)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4201/",
+        "label": "gtsang pa jo nam (4201)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3HXACZSD]: 216 (based on the Red Annals). Handed the see of Ne'u thog to gTsang pa Jon nam (ID:4201).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": "1300-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1300-12-31",
+  "start_date_to": null,
+  "start_date_from": "1100-01-01",
+  "start_date_sort": "1100-01-01",
+  "tibetan_transliteration": "\u0f56\u0f5f\u0f51\u0f0b\u0f54\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f42\u0fb2\u0f74\u0f56",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "after 1100",
+  "end": "before 1300",
+  "name": "bzad pa don grub",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

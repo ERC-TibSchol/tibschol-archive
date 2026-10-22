@@ -1,0 +1,86 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5492/",
+  "relations": [
+    {
+      "id": 1745,
+      "label": "chos mngon pa'i mdzod kyi rnam par bshad pa gzhung don gsal ba'i man ngag (5493) has as an instance chos mngon pa'i mdzod kyi rnam par bshad pa gzhung don gsal ba'i man ngag (5492)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5493/",
+        "label": "chos mngon pa'i mdzod kyi rnam par bshad pa gzhung don gsal ba'i man ngag (5493)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5492/",
+        "label": "chos mngon pa'i mdzod kyi rnam par bshad pa gzhung don gsal ba'i man ngag (5492)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4588,
+      "label": "rgyal sras 'jigs med (6856) owner of chos mngon pa'i mdzod kyi rnam par bshad pa gzhung don gsal ba'i man ngag (5492)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6856/",
+        "label": "rgyal sras 'jigs med (6856)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5492/",
+        "label": "chos mngon pa'i mdzod kyi rnam par bshad pa gzhung don gsal ba'i man ngag (5492)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "A note in two parts has been added to the title on the cover page. We take the mention of \"bsam bzang pa'i\" above the title to refer to the author of the work, and the mention of \"rgyal sras 'jigs med kyi dpe'o\" below to indicate ownership.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f46\u0f7c\u0f66\u0f0b\u0f58\u0f44\u0f7c\u0f53\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f58\u0f5b\u0f7c\u0f51\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f54\u0f62\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f54\u0f0b\u0f42\u0f5e\u0f74\u0f44\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f42\u0f66\u0f63\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f58\u0f53\u0f0b\u0f44\u0f42",
+  "comments": "The text finishes abruptly, but a gloss indicates that the copy was proofread.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "https://purl.bdrc.io/resource/MW4PD3076_089D75",
+  "review": true,
+  "start": null,
+  "name": "chos mngon pa'i mdzod kyi rnam par bshad pa gzhung don gsal ba'i man ngag",
+  "set_num": "Set 4",
+  "volume": "118",
+  "sb_text_number": "1",
+  "pp_kdsb": "7-641",
+  "num_folios": "318",
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "4_118_01",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Note on the cover page: 1574"
+}

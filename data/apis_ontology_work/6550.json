@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6550/",
+  "relations": [
+    {
+      "id": 3432,
+      "label": "spyod 'jug gi 'grel (6550) commentary on bodhicary\u0101vat\u0101ra (3727)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6550/",
+        "label": "spyod 'jug gi 'grel (6550)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3727/",
+        "label": "bodhicary\u0101vat\u0101ra (3727)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3431,
+      "label": "nyang bran chos kyi seng ge (3844) author of spyod 'jug gi 'grel (6550)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3844/",
+        "label": "nyang bran chos kyi seng ge (3844)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6550/",
+        "label": "spyod 'jug gi 'grel (6550)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 514, No. 11068: nyang bran chos kyi seng+ge'i (bslab btus dang) spyod 'jug gi 'grel pa",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1200-12-31",
+  "start_date_from": "1070-01-01",
+  "start_date_sort": "1135-07-03",
+  "tibetan_transliteration": "\u0f66\u0fa4\u0fb1\u0f7c\u0f51\u0f0b\u0f60\u0f47\u0f74\u0f42\u0f0b\u0f42\u0f72\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63",
+  "comments": "A khu ching shes rab rgya mtsho reports in his Tho yig a topical outline by Nyang bran (ID:3844) - see work (ID:3844) - ([5RXEUKD9]: 514, No. 11068: nyang bran chos kyi seng+ge'i (bslab btus dang) spyod 'jug gi 'grel pa) and one by Phya pa (ID:3831) - see work (ID:4488) - ([5RXEUKD9]: 514, no. 11076: phya pa chos seng gi spyod 'jug Tik+ka).\r\n\r\nInstances (ID:6556) and instances (ID:4487) feature similar but not identical topical outlines of the base text, and in both the author is named as \"dge slong chos kyi seng ge\" in the colophon. This raises the identification of instance (ID:4487) as representing Phya pa's work and of instance (ID:6556) as representing that of Nyang bran (ID:3844).",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": true,
+  "start": "after 1070 before 1200",
+  "name": "spyod 'jug gi 'grel",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/13/"
+  ]
+}

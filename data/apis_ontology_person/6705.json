@@ -1,0 +1,56 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6705/",
+  "relations": [
+    {
+      "id": 3815,
+      "label": "kre bo mchog bla (6705) student of rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6705/",
+        "label": "kre bo mchog bla (6705)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[KHFQ2XU4]: 742 (gangs pa she'u | gong bu rwa can | sham po me dig | me lhang tsher | dmar sga lang | rngog skya po | kre bo mchog bla sogs mang du byon | lam rim yang mdzad cing |)\r\n[BAQ9MH4T]: 197. Based on the sketch of rNgog's life by Las chen Kun dga' rgyal mtshan (ID:4115).",
+      "tei_refs": "exX0032026-09-0112-04-52",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1180-12-31",
+  "end_date_from": "1082-01-01",
+  "end_date_sort": "1131-07-03",
+  "start_date_to": "1100-12-31",
+  "start_date_from": "1000-01-01",
+  "start_date_sort": "1050-07-02",
+  "tibetan_transliteration": "\u0f40\u0fb2\u0f7a\u0f0b\u0f56\u0f7c\u0f0b\u0f58\u0f46\u0f7c\u0f42\u0f0b\u0f56\u0fb3",
+  "comments": "",
+  "alternative_names_legacy": "tre bo mchog gi bla ma",
+  "alternative_names": [
+    {
+      "label": "tre bo mchog gi bla ma",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": "after 1000 before 1100",
+  "end": "after 1082 before 1180",
+  "name": "kre bo mchog bla",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

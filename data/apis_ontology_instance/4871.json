@@ -1,0 +1,147 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4871/",
+  "relations": [
+    {
+      "id": 2087,
+      "label": "mdo sde rgyan gyi khrid (3) (4871) has source mdo sde rgyan gyi khrid (2) (5929)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4871/",
+        "label": "mdo sde rgyan gyi khrid (3) (4871)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5929/",
+        "label": "mdo sde rgyan gyi khrid (2) (5929)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50152023-09-1108-00-56",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1880,
+      "label": "mdo sde rgyan gyi khrid (3) (4871) written at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4871/",
+        "label": "mdo sde rgyan gyi khrid (3) (4871)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50152023-09-1108-00-56",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2091,
+      "label": "ze'u chos kyi rgyal mtshan (6458) scribe of mdo sde rgyan gyi khrid (3) (4871)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6458/",
+        "label": "ze'u chos kyi rgyal mtshan (6458)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4871/",
+        "label": "mdo sde rgyan gyi khrid (3) (4871)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex50152023-09-1108-00-56",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1462,
+      "label": "mdo sde rgyan gyi khrid (4872) has as an instance mdo sde rgyan gyi khrid (3) (4871)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4872/",
+        "label": "mdo sde rgyan gyi khrid (4872)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4871/",
+        "label": "mdo sde rgyan gyi khrid (3) (4871)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f58\u0f51\u0f7c\u0f0b\u0f66\u0fa1\u0f7a\u0f0b\u0f62\u0f92\u0fb1\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f41\u0fb2\u0f72\u0f51 \u0f3c\u0f23\u0f3d",
+  "comments": "",
+  "alternative_names_legacy": "mdo sde rgyan gyi khrid",
+  "alternative_names": [
+    {
+      "label": "mdo sde rgyan gyi khrid",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_B6CB2A",
+  "review": false,
+  "start": null,
+  "name": "mdo sde rgyan gyi khrid (3)",
+  "set_num": "Set 2",
+  "volume": "50",
+  "sb_text_number": "15",
+  "pp_kdsb": "305-311",
+  "num_folios": "3",
+  "signature_letter": "la",
+  "signature_number": "550",
+  "drepung_number": "19633",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "2_050_15",
+  "availability": "available",
+  "dimension": "36 x 6",
+  "item_description": "Script: dpe tshugs.\r\nVolume: Ta"
+}

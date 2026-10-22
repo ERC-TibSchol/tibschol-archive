@@ -1,0 +1,111 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6797/",
+  "relations": [
+    {
+      "id": 4098,
+      "label": "pram\u0101\u1e47av\u0101rttika\u1e6d\u012bk\u0101 (6797) commentary on pram\u0101\u1e47av\u0101rttika (3772)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6797/",
+        "label": "pram\u0101\u1e47av\u0101rttika\u1e6d\u012bk\u0101 (6797)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3772/",
+        "label": "pram\u0101\u1e47av\u0101rttika (3772)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4100,
+      "label": "pram\u0101\u1e47av\u0101rttika\u1e6d\u012bk\u0101 (6797) commentary on pram\u0101\u1e47av\u0101rttikav\u1e5btti (6791)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6797/",
+        "label": "pram\u0101\u1e47av\u0101rttika\u1e6d\u012bk\u0101 (6797)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6791/",
+        "label": "pram\u0101\u1e47av\u0101rttikav\u1e5btti (6791)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4099,
+      "label": "\u015b\u0101kyabuddhi (5549) author of pram\u0101\u1e47av\u0101rttika\u1e6d\u012bk\u0101 (6797)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5549/",
+        "label": "\u015b\u0101kyabuddhi (5549)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6797/",
+        "label": "pram\u0101\u1e47av\u0101rttika\u1e6d\u012bk\u0101 (6797)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "0720-12-31",
+  "start_date_from": "0670-01-01",
+  "start_date_sort": "0695-07-02",
+  "tibetan_transliteration": "",
+  "comments": "",
+  "alternative_names_legacy": "tshad ma rnam 'grel gyi 'grel bshad",
+  "alternative_names": [
+    {
+      "label": "tshad ma rnam 'grel gyi 'grel bshad",
+      "language": "bo"
+    }
+  ],
+  "external_links": "http://purl.rkts.eu/resource/WTT3557\r\nhttps://east.ikga.oeaw.ac.at/data/9/26/",
+  "review": true,
+  "start": "after 670 before 720",
+  "name": "pram\u0101\u1e47av\u0101rttika\u1e6d\u012bk\u0101",
+  "sde_dge_ref": "D4220",
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

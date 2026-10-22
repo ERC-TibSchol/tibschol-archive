@@ -1,0 +1,53 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6853/",
+  "relations": [
+    {
+      "id": 4266,
+      "label": "ka ma ba shes rab 'od (6852) active at ka ma'i dgon pa (6853)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6852/",
+        "label": "ka ma ba shes rab 'od (6852)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6853/",
+        "label": "ka ma'i dgon pa (6853)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:G2733 (accessed 23.06.2026). Founded Ka ma dgon pa.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "start_date_to": "1300-12-31",
+  "start_date_from": "1000-01-01",
+  "start_date_sort": "1150-07-02",
+  "latitude": null,
+  "longitude": null,
+  "feature_code": "",
+  "tibetan_transliteration": "\u0f40\u0f0b\u0f58\u0f60\u0f72\u0f0b\u0f51\u0f42\u0f7c\u0f53\u0f0b\u0f54",
+  "comments": "",
+  "alternative_names_legacy": "kam dgon pa",
+  "alternative_names": [
+    {
+      "label": "kam dgon pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/G2733",
+  "review": true,
+  "label": "ka ma'i dgon pa",
+  "start": "after 1000 before 1300"
+}

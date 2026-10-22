@@ -1,0 +1,147 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8419/",
+  "relations": [
+    {
+      "id": 7728,
+      "label": "karma pa chos grags rgya mtsho (8419) active at stod lung mtshur phu dgon (6699)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8419/",
+        "label": "karma pa chos grags rgya mtsho (8419)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6699/",
+        "label": "stod lung mtshur phu dgon (6699)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P821 (accessed 25.06.2026)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7729,
+      "label": "karma pa chos grags rgya mtsho (8419) student of 'gos lo tsA ba gzhon nu dpal (5839)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8419/",
+        "label": "karma pa chos grags rgya mtsho (8419)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5839/",
+        "label": "'gos lo tsA ba gzhon nu dpal (5839)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P821 (accessed 25.06.2026)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7747,
+      "label": "karma pa chos grags rgya mtsho (8419) lineage predecessor of bkra shis rnam rgyal (8430)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8419/",
+        "label": "karma pa chos grags rgya mtsho (8419)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8430/",
+        "label": "bkra shis rnam rgyal (8430)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RCJ46BHM]: 329 records lineage of Madhyamaka from N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895): N\u0101g\u0101rjuna (ID:3720), \u0100ryadeva (ID:3702), Candrak\u012brti (ID:3725), M\u0101ta\u1e45gi (ID:8412), Tailo (ID:5641), N\u0101ro (ID:5639), Mar pa (ID:6968), Mi  la (ID:8405), Dwags po (ID:4189), Dus gsum mkhyen pa (ID:3855), 'Gro mgon Ras chen (ID:8421), sPom brag pa (ID:8427) Karma pa Pak\u1e63i (ID:8417), Au\u1e0dy\u0101yana pa (ID:7346), Rang byung rdo rje (ID:3897), g.Yung ston rdo rje dpal (ID:8418), Rol pa'i rdo rje (ID:7397), mKha' spyod dbang po (ID:3901), De bzhin gshegs pa (ID:6785), Ratnabhadra (ID:6927), mThong ba don ldan (ID:6159), 'Jam dpal bzang po (ID:8428) and/or dPal 'byor don grub (ID:8420), Chos grags rgya mtsho (ID:8419), sNye bo/'og Go shri (ID:8430), rJe btsun Ras pa chen po (ID:8429), Mi bskyod rdo rje (ID:6895).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 7727,
+      "label": "dpal 'byor don grub (8420) lineage predecessor of karma pa chos grags rgya mtsho (8419)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8420/",
+        "label": "dpal 'byor don grub (8420)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8419/",
+        "label": "karma pa chos grags rgya mtsho (8419)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RCJ46BHM]: 329 records lineage of Madhyamaka from N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895): N\u0101g\u0101rjuna (ID:3720), \u0100ryadeva (ID:3702), Candrak\u012brti (ID:3725), M\u0101ta\u1e45gi (ID:8412), Tailo (ID:5641), N\u0101ro (ID:5639), Mar pa (ID:6968), Mi  la (ID:8405), Dwags po (ID:4189), Dus gsum mkhyen pa (ID:3855), 'Gro mgon Ras chen (ID:8421), sPom brag pa (ID:8427) Karma pa Pak\u1e63i (ID:8417), Au\u1e0dy\u0101yana pa (ID:7346), Rang byung rdo rje (ID:3897), g.Yung ston rdo rje dpal (ID:8418), Rol pa'i rdo rje (ID:7397), mKha' spyod dbang po (ID:3901), De bzhin gshegs pa (ID:6785), Ratnabhadra (ID:6927), mThong ba don ldan (ID:6159), 'Jam dpal bzang po (ID:8428) and/or dPal 'byor don grub (ID:8420), Chos grags rgya mtsho (ID:8419), sNye bo/'og Go shri (ID:8430), rJe btsun Ras pa chen po (ID:8429), Mi bskyod rdo rje (ID:6895).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    }
+  ],
+  "end_date_to": "1506-12-31",
+  "end_date_from": "1506-01-01",
+  "end_date_sort": "1506-07-02",
+  "start_date_to": "1454-12-31",
+  "start_date_from": "1454-01-01",
+  "start_date_sort": "1454-07-02",
+  "tibetan_transliteration": "\u0f40\u0f62\u0fa8\u0f0b\u0f54\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f42\u0fb2\u0f42\u0f66\u0f0b\u0f62\u0f92\u0fb1\u0f0b\u0f58\u0f5a\u0f7c",
+  "comments": "Seventh Karmapa.",
+  "alternative_names_legacy": "",
+  "alternative_names": [
+    {
+      "label": "rang byung kun mkhyen chos kyi rgyal po",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P821\r\nhttps://treasuryoflives.org/biographies/view/Seventh-Karmapa-Chodrak-Gyatso/10909",
+  "review": false,
+  "start": "1454",
+  "end": "1506",
+  "name": "karma pa chos grags rgya mtsho",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

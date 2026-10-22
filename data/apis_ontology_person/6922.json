@@ -1,0 +1,113 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6922/",
+  "relations": [
+    {
+      "id": 6115,
+      "label": "dmar ston gzhon nu rgyal mtshan (6922) lineage predecessor of rong ston shes bya kun rig (6005)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6922/",
+        "label": "dmar ston gzhon nu rgyal mtshan (6922)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[ABYM2GP5]: 31, n. 33. Lineage of pr\u0101sa\u1e45gika Madhyamaka shared by later Sa skya pa scholars: Pa tshab (ID:3868), Zhang Thang sag pa (ID:3870), Brom dBang phyug grags (ID:7538), Bla ma Prajahavajra, Slob dpon sTon tshul ba, Bla ma bDe ba'i lha, Jo btsun pa, Dbu ra ba, Praj\u00f1\u0101\u015br\u012b, Dharma shes rab, Bag ston Shes rab rin chen, rJe Punyasingha, Bag ston bSam bsang, Bag ston gzhon nu bsam gtan, and from him to both Red mda\u2019 ba (ID:6756) and dMar ston (ID:6922); from the latter to Rong ston (ID:6005).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 7208,
+      "label": "dmar ston gzhon nu rgyal mtshan (6922) active at 'phan yul (5542)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6922/",
+        "label": "dmar ston gzhon nu rgyal mtshan (6922)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5542/",
+        "label": "'phan yul (5542)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VTFXMPC9]: iii. Scholar of 'Phan yul gro sa.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4358,
+      "label": "rong ston shes bya kun rig (6005) student of dmar ston gzhon nu rgyal mtshan (6922)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6922/",
+        "label": "dmar ston gzhon nu rgyal mtshan (6922)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[EG6VZ8JK]: 23, translated from [8GL7ZT7Y].\r\n[VTFXMPC9]: iii.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
+    }
+  ],
+  "end_date_to": "1500-12-31",
+  "end_date_from": "1377-01-01",
+  "end_date_sort": "1439-01-01",
+  "start_date_to": "1439-12-31",
+  "start_date_from": "1320-01-01",
+  "start_date_sort": "1379-12-31",
+  "tibetan_transliteration": "\u0f51\u0f58\u0f62\u0f0b\u0f66\u0f9f\u0f7c\u0f53\u0f0b\u0f42\u0f5e\u0f7c\u0f53\u0f0b\u0f53\u0f74\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f58\u0f5a\u0f53",
+  "comments": "Had many students from dbu gtsang ([8GL7ZT7Y]: 23, translated from [8GL7ZT7Y].).",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "after 1320 before 1439",
+  "end": "after 1377 before 1500",
+  "name": "dmar ston gzhon nu rgyal mtshan",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

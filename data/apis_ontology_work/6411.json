@@ -1,0 +1,50 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6411/",
+  "relations": [
+    {
+      "id": 3054,
+      "label": "khro phu lo tsA ba byams pa dpal (3878) author of chos 'byung (6411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3878/",
+        "label": "khro phu lo tsA ba byams pa dpal (3878)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6411/",
+        "label": "chos 'byung (6411)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[2X2E3882]: 248.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1236-12-31",
+  "start_date_from": "1182-01-01",
+  "start_date_sort": "1209-07-02",
+  "tibetan_transliteration": "\u0f46\u0f7c\u0f66\u0f0b\u0f60\u0f56\u0fb1\u0f74\u0f44",
+  "comments": "Bu ston (ID:5999) related to have been familiar with a chos 'byung by Khro phu Lo tsA ba (see [2X2E3882]: 248).",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "after 1182 before 1236",
+  "name": "chos 'byung",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/47/"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8431/",
+  "relations": [
+    {
+      "id": 7756,
+      "label": "devacandra (8431) lineage predecessor of ratnavajra (7726)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8431/",
+        "label": "devacandra (8431)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7726/",
+        "label": "ratnavajra (7726)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RCJ46BHM]: 338 records the lineage of Madhyamaka from Pa tshab lo ts\u0101 ba (ID:3868) according to Mi bskyod rdo rje (ID:6895): Candrak\u012brti (ID:3725), Ma\u00f1ju\u015br\u012bk\u012brti (ID:8424), Devacandra (ID:8431), Brahman Ratnavajra (ID:7726), Parahita (ID:3798), Hasumati (ID:6180), Pa tshab Lo ts\u0101 ba (ID:3868), Dus gsum mkhyen pa (ID:3855), and from him it is then the same as the lineage of Madhyamaka from N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895) (see [RCJ46BHM]: 329).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    },
+    {
+      "id": 7755,
+      "label": "ma\u00f1ju\u015br\u012bk\u012brti (8424) lineage predecessor of devacandra (8431)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8424/",
+        "label": "ma\u00f1ju\u015br\u012bk\u012brti (8424)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8431/",
+        "label": "devacandra (8431)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[RCJ46BHM]: 338 records the lineage of Madhyamaka from Pa tshab lo ts\u0101 ba (ID:3868) according to Mi bskyod rdo rje (ID:6895): Candrak\u012brti (ID:3725), Ma\u00f1ju\u015br\u012bk\u012brti (ID:8424), Devacandra (ID:8431), Brahman Ratnavajra (ID:7726), Parahita (ID:3798), Hasumati (ID:6180), Pa tshab Lo ts\u0101 ba (ID:3868), Dus gsum mkhyen pa (ID:3855), and from him it is then the same as the lineage of Madhyamaka from N\u0101ropa (ID:5639) according to Mi bskyod rdo rje (ID:6895) (see [RCJ46BHM]: 329).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        13
+      ]
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "",
+  "comments": "This is likely the translator (P8220) who collaborated with Jinamitra (ID:6667) and J\u00f1\u0101nagarbha (ID:5917) or (ID:3730) on texts like the 'Phags pa yongs su mya ngan las 'das pa chen po theg pa chen po'i mdo (D 120).",
+  "alternative_names_legacy": "",
+  "alternative_names": [],
+  "external_links": "https://purl.bdrc.io/resource/P8220\r\nhttps://purl.bdrc.io/resource/MW22084_0120",
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "devacandra",
+  "gender": "male",
+  "nationality": "Indic"
+}

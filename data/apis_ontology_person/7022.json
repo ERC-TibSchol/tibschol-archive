@@ -1,0 +1,90 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7022/",
+  "relations": [
+    {
+      "id": 5333,
+      "label": "mkhan chen bsod nams grags pa (7022) studies nag tsho'i bstan rim (7192)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7022/",
+        "label": "mkhan chen bsod nams grags pa (7022)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7192/",
+        "label": "nag tsho'i bstan rim (7192)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[AXC5KZK3]: 239.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4692,
+      "label": "rgyal sras thogs med bzang po (4066) student of mkhan chen bsod nams grags pa (7022)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4066/",
+        "label": "rgyal sras thogs med bzang po (4066)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7022/",
+        "label": "mkhan chen bsod nams grags pa (7022)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58062024-12-0515-50-413\nex58042024-12-0515-50-413",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        15
+      ]
+    }
+  ],
+  "end_date_to": "1345-12-31",
+  "end_date_from": "1345-01-01",
+  "end_date_sort": "1345-07-02",
+  "start_date_to": "1273-12-31",
+  "start_date_from": "1273-01-01",
+  "start_date_sort": "1273-07-02",
+  "tibetan_transliteration": "\u0f58\u0f41\u0f53\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f56\u0f66\u0f7c\u0f51\u0f0b\u0f53\u0f58\u0f66\u0f0b\u0f42\u0fb2\u0f42\u0f66\u0f0b\u0f54",
+  "comments": "",
+  "alternative_names_legacy": "rin chen bsod nams grags pa\r\nbyang sems bsod nams grags pa",
+  "alternative_names": [
+    {
+      "label": "rin chen bsod nams grags pa",
+      "language": "bo"
+    },
+    {
+      "label": "byang sems bsod nams grags pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P2142",
+  "review": true,
+  "start": "1273",
+  "end": "1345",
+  "name": "mkhan chen bsod nams grags pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

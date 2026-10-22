@@ -1,0 +1,109 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8422/",
+  "relations": [
+    {
+      "id": 7665,
+      "label": "brag nag pa rin chen rgyal mtshan (8422) student of dmar ston rgyal mtshan 'od zer (8423)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8422/",
+        "label": "brag nag pa rin chen rgyal mtshan (8422)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8423/",
+        "label": "dmar ston rgyal mtshan 'od zer (8423)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P464 (accessed 23.06.2026).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7666,
+      "label": "brag nag pa rin chen rgyal mtshan (8422) active at brag nag (6460)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8422/",
+        "label": "brag nag pa rin chen rgyal mtshan (8422)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6460/",
+        "label": "brag nag (6460)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W42HFLNR]: 99, n. 54.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 7664,
+      "label": "gser mdog paN chen shAkya mchog ldan (6276) student of brag nag pa rin chen rgyal mtshan (8422)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6276/",
+        "label": "gser mdog paN chen shAkya mchog ldan (6276)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8422/",
+        "label": "brag nag pa rin chen rgyal mtshan (8422)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P0RK820 (accessed 23.06.2026).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1577-12-31",
+  "end_date_from": "1438-01-01",
+  "end_date_sort": "1508-01-01",
+  "start_date_to": "1497-12-31",
+  "start_date_from": "1358-01-01",
+  "start_date_sort": "1428-01-01",
+  "tibetan_transliteration": "\u0f56\u0fb2\u0f42\u0f0b\u0f53\u0f42\u0f0b\u0f54\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f58\u0f5a\u0f53",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": [],
+  "external_links": "https://purl.bdrc.io/resource/P0RK820",
+  "review": false,
+  "start": "after 1358 before 1497",
+  "end": "after 1438 before 1577",
+  "name": "brag nag pa rin chen rgyal mtshan",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

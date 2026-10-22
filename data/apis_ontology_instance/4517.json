@@ -1,0 +1,71 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4517/",
+  "relations": [
+    {
+      "id": 1301,
+      "label": "bla ma la bstod pa (4518) has as an instance shAkya'i dge slong gzhon nu byang chub la bstod pa (4517)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4518/",
+        "label": "bla ma la bstod pa (4518)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4517/",
+        "label": "shAkya'i dge slong gzhon nu byang chub la bstod pa (4517)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f64\u0f71\u0f40\u0fb1\u0f60\u0f72\u0f0b\u0f51\u0f42\u0f7a\u0f0b\u0f66\u0fb3\u0f7c\u0f44\u0f0b\u0f42\u0f5e\u0f7c\u0f53\u0f0b\u0f53\u0f74\u0f0b\u0f56\u0fb1\u0f44\u0f0b\u0f46\u0f74\u0f56\u0f0b\u0f63\u0f0b\u0f56\u0f66\u0f9f\u0f7c\u0f51\u0f0b\u0f54",
+  "comments": "Follows 'Jad's commentary (ID:4516) on fol. 168a3-6.\r\nPart of item No. 19045 (ID:4515) in [8H6M69W4].",
+  "alternative_names_legacy": "shAkya'i dge slong gzhon nu byang chub la bstod pa (colophon)\r\nbla ma la bstod pa (incipit)\r\ng+hu ru sta ba (incipit)",
+  "alternative_names": [
+    {
+      "label": "shAkya'i dge slong gzhon nu byang chub la bstod pa (colophon)",
+      "language": "bo"
+    },
+    {
+      "label": "bla ma la bstod pa (incipit)",
+      "language": "bo"
+    },
+    {
+      "label": "g+hu ru sta ba (incipit)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_2735C7",
+  "review": true,
+  "start": null,
+  "name": "shAkya'i dge slong gzhon nu byang chub la bstod pa",
+  "set_num": "Set 1",
+  "volume": "10",
+  "sb_text_number": "3",
+  "pp_kdsb": "657",
+  "num_folios": "1",
+  "signature_letter": "la",
+  "signature_number": "426",
+  "drepung_number": "19045",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "1_010_03",
+  "availability": "available",
+  "dimension": "67 x 10.5",
+  "item_description": "Script: 'bru tsha."
+}

@@ -1,0 +1,63 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5224/",
+  "relations": [
+    {
+      "id": 1624,
+      "label": "dbus mtha'i 'grel pa dbu ma'i snang ba zhes bya ba'i bsdus don (5225) has as an instance dbus mtha'i 'grel pa dbu ma'i snang ba zhes bya ba'i bsdus don (5224)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5225/",
+        "label": "dbus mtha'i 'grel pa dbu ma'i snang ba zhes bya ba'i bsdus don (5225)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5224/",
+        "label": "dbus mtha'i 'grel pa dbu ma'i snang ba zhes bya ba'i bsdus don (5224)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f51\u0f56\u0f74\u0f66\u0f0b\u0f58\u0f50\u0f60\u0f72\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f54\u0f0b\u0f51\u0f56\u0f74\u0f0b\u0f58\u0f60\u0f72\u0f0b\u0f66\u0fa3\u0f44\u0f0b\u0f56\u0f0b\u0f5e\u0f7a\u0f66\u0f0b\u0f56\u0fb1\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f56\u0f66\u0fa1\u0f74\u0f66\u0f0b\u0f51\u0f7c\u0f53",
+  "comments": "In view of the title (spelled dbu ma'i gnang ba in the manuscript colophon) this manuscript corresponds to item No. 16017 in [8H6M69W4]. This item is recorded to have 39 folios, and the author is given as \"bla ma dam pa bsod nams rgyal mtshan\" (like the following item No. 16018). It is possible that No. 16017 contained, in addition to the topical outline, bSod nams rgyal mtshan's more extensive commentary on that text (ID:7298).",
+  "alternative_names_legacy": "dbus mtha'i 'grel pa dbu ma'i gnang ba zhes bya ba'i bsdus don (colophon, catalogue)",
+  "alternative_names": [
+    {
+      "label": "dbus mtha'i 'grel pa dbu ma'i gnang ba zhes bya ba'i bsdus don (colophon, catalogue)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD153536_9F5AE6",
+  "review": true,
+  "start": null,
+  "name": "dbus mtha'i 'grel pa dbu ma'i snang ba zhes bya ba'i bsdus don",
+  "set_num": "Set 3",
+  "volume": "76",
+  "sb_text_number": "9",
+  "pp_kdsb": "473-476",
+  "num_folios": "2",
+  "signature_letter": "tsha",
+  "signature_number": "125",
+  "drepung_number": "16017",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "3_076_09",
+  "availability": "available",
+  "dimension": "none given",
+  "item_description": "Script: dpe tshugs.\r\nLemmata in interlinear notes.\r\nSome corrections in dbu can."
+}

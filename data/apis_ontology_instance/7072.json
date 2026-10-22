@@ -1,0 +1,86 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7072/",
+  "relations": [
+    {
+      "id": 4838,
+      "label": "lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (6735) has as an instance lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (1) (7072)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6735/",
+        "label": "lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (6735)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7072/",
+        "label": "lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (1) (7072)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4840,
+      "label": "lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (2) (7073) has source lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (1) (7072)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7073/",
+        "label": "lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (2) (7073)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7072/",
+        "label": "lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (1) (7072)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f63\u0f7c\u0f0b\u0f5a\u0faa\u0f0b\u0f56\u0f0b\u0f51\u0f42\u0f7a\u0f0b\u0f66\u0fb3\u0f7c\u0f44\u0f0b\u0f56\u0fb3\u0f7c\u0f0b\u0f63\u0fa1\u0f53\u0f0b\u0f64\u0f7a\u0f66\u0f0b\u0f62\u0f56\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f56\u0f66\u0f9f\u0f7c\u0f51\u0f0b\u0f54 \u0f3c\u0f21\u0f3d",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "name": "lo tsh+tsha ba dge slong blo ldan shes rab kyi bstod pa (1)",
+  "set_num": null,
+  "volume": null,
+  "sb_text_number": "",
+  "pp_kdsb": null,
+  "num_folios": null,
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "",
+  "availability": null,
+  "dimension": null,
+  "item_description": "A xylograph print preserved at the Bihar Research Society."
+}

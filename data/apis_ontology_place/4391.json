@@ -1,0 +1,81 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4391/",
+  "relations": [
+    {
+      "id": 5019,
+      "label": "sha ra dgon (4391) located within 'phan yul (5542)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4391/",
+        "label": "sha ra dgon (4391)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5542/",
+        "label": "'phan yul (5542)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6794,
+      "label": "zhang sha ra ba yon tan grags (3869) active at sha ra dgon (4391)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3869/",
+        "label": "zhang sha ra ba yon tan grags (3869)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4391/",
+        "label": "sha ra dgon (4391)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Founded the monastery.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "latitude": 29.9499675547314,
+  "longitude": 91.19395410775213,
+  "feature_code": "",
+  "tibetan_transliteration": "\u0f64\u0f0b\u0f62\u0f0b\u0f51\u0f42\u0f7c\u0f53",
+  "comments": "45km north of Lhasa. Tentative location bsed on the location indicated on the map in [CCSBSVCA]: 308 (Map 4) and 715 (Appendix V).",
+  "alternative_names_legacy": "shar ba dgon",
+  "alternative_names": [
+    {
+      "label": "shar ba dgon",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "label": "sha ra dgon",
+  "start": null
+}

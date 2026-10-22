@@ -1,0 +1,148 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7211/",
+  "relations": [
+    {
+      "id": 5382,
+      "label": "dmar rdo rje rtse mo (7211) teaches pram\u0101\u1e47avini\u015bcaya (3774)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7211/",
+        "label": "dmar rdo rje rtse mo (7211)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3774/",
+        "label": "pram\u0101\u1e47avini\u015bcaya (3774)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 544, n. 153, citing the dPyal pa'i lo rgyus kyi yi ge (chu mig mkhan po dmar rdo rje rtse mo la tshad ma rnam nges dang | rtu tsa chos brtson la sher phyi | mngon rtog rgyan 'grel dang bcas pa gsan ||). Teaching to dPyal Padmo can (ID:7210).\r\n[I58Z22ET]: 547, n. 161, citing the dPyal gyi gdung rabs gang+ga'i chu rgyun (rnam snang rig pa'i ra bar | dmar rdo rje rtse mo'i drung du tshad ma rnam nges kyi bslab pa mthar phyin nas). Teaching to Chos kyi blo gros (ID:7213).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5389,
+      "label": "dmar rdo rje rtse mo (7211) active at rnam snang rig pa'i grwa sa (7214)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7211/",
+        "label": "dmar rdo rje rtse mo (7211)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/7214/",
+        "label": "rnam snang rig pa'i grwa sa (7214)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 547, n. 161. Based on the dPyal gyi gdung rabs gang+ga'i chu rgyun (rnam snang rig pa'i ra bar | dmar rdo rje rtse mo'i drung du tshad ma rnam nges kyi bslab pa mthar phyin nas). Taught Chos kyi blo gros (ID:7213).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 5387,
+      "label": "chos kyi blo gros (7213) student of dmar rdo rje rtse mo (7211)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7213/",
+        "label": "chos kyi blo gros (7213)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7211/",
+        "label": "dmar rdo rje rtse mo (7211)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 547, n. 161. Based on the dPyal gyi gdung rabs gang+ga'i chu rgyun (rnam snang rig pa'i ra bar | dmar rdo rje rtse mo'i drung du tshad ma rnam nges kyi bslab pa mthar phyin nas). Text: Pram\u0101\u1e47avini\u015bcaya (ID:3774). In rNam snang rig pa'i ra ba (ID:7214).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    },
+    {
+      "id": 5381,
+      "label": "dpyal padmo can (7210) student of dmar rdo rje rtse mo (7211)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7210/",
+        "label": "dpyal padmo can (7210)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7211/",
+        "label": "dmar rdo rje rtse mo (7211)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[I58Z22ET]: 544, n. 153, citing the dPyal pa'i lo rgyus kyi yi ge (chu mig mkhan po dmar rdo rje rtse mo la tshad ma rnam nges dang | rtu tsa chos brtson la sher phyi | mngon rtog rgyan 'grel dang bcas pa gsan ||). Text: Pram\u0101\u1e47avini\u015bcaya (ID:3774).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        9
+      ]
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": "1247-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1247-12-31",
+  "tibetan_transliteration": "\u0f51\u0f58\u0f62\u0f0b\u0f62\u0fa1\u0f7c\u0f0b\u0f62\u0f97\u0f7a\u0f0b\u0f62\u0fa9\u0f7a\u0f0b\u0f58\u0f7c",
+  "comments": "",
+  "alternative_names_legacy": "chu mig mkhan po dmar rto rje rtse mo",
+  "alternative_names": [
+    {
+      "label": "chu mig mkhan po dmar rto rje rtse mo",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": "before 1247",
+  "end": null,
+  "name": "dmar rdo rje rtse mo",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

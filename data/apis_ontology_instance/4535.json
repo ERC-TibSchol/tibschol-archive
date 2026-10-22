@@ -1,0 +1,91 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4535/",
+  "relations": [
+    {
+      "id": 7628,
+      "label": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (1) (4535) written at bon gra (8398)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4535/",
+        "label": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (1) (4535)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/8398/",
+        "label": "bon gra (8398)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex011112026-06-1002-06-53",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1309,
+      "label": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (4536) has as an instance rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (1) (4535)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4536/",
+        "label": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (4536)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4535/",
+        "label": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (1) (4535)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f54\u0f7c\u0f0b\u0f51\u0f7c\u0f0b\u0f67\u0f60\u0f72\u0f0b\u0f5a\u0f72\u0f42\u0f66\u0f0b\u0f66\u0f74\u0f0b\u0f56\u0f45\u0f51\u0f0b\u0f54\u0f0b\u0f56\u0f5e\u0f72\u0f0b\u0f56\u0f45\u0f74\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f5f\u0fb3\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f60\u0f7c\u0f51\u0f0b\u0f5f\u0f7a\u0f62 \u0f3c\u0f21\u0f3d",
+  "comments": "The entry No. 16070 in [8H6M69W4] (mdzod kyi gnas gsal bar byed pa zla ba' 'od zer; dge slong blo gros seng ge; phyi dza 8, 38 fols.) corresponds to manuscripts (ID:7304), (ID:5893), and (ID:4535), which are written with continuous folio numbering. \r\nThe present text is found on fols. 32a7-38a7.",
+  "alternative_names_legacy": "mdzod kyi gnas gsal bar byed pa zla ba' 'od zer",
+  "alternative_names": [
+    {
+      "label": "mdzod kyi gnas gsal bar byed pa zla ba' 'od zer",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_E6C685",
+  "review": true,
+  "start": null,
+  "name": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (1)",
+  "set_num": "Set 1",
+  "volume": "11",
+  "sb_text_number": "11",
+  "pp_kdsb": "459-471",
+  "num_folios": "7",
+  "signature_letter": "dza",
+  "signature_number": "8",
+  "drepung_number": "16070",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "1_011_11",
+  "availability": "available",
+  "dimension": "64 x 10",
+  "item_description": "Script: 'bru tsha."
+}

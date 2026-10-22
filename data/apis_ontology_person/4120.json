@@ -1,0 +1,50 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4120/",
+  "relations": [
+    {
+      "id": 1149,
+      "label": "sna nam btsun pa skal bzang chos kyi rgya mtsho bsod nams dbang po (4120) author of legs par bshad pa'i sgo dbye ba (5452)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4120/",
+        "label": "sna nam btsun pa skal bzang chos kyi rgya mtsho bsod nams dbang po (4120)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5452/",
+        "label": "legs par bshad pa'i sgo dbye ba (5452)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported for instance (ID:5451) in [8H6M69W4], No. 18934: sna nam gyi btsun pa skal bzang chos kyi rgya mtsho.",
+      "tei_refs": "",
+      "support_notes": "Colophon in (ID:5451), fol. 42b4: dam pa'i chos 'dzin pa'i rnal 'byor spyod pa sna nam gyi btsun pa skal bzangs chos kyi rgya mtsho'i sdes re shig legs bshad kyi sgo rnam par dbye ba la ...",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": "1499-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1499-12-31",
+  "start_date_to": null,
+  "start_date_from": "1400-01-01",
+  "start_date_sort": "1400-01-01",
+  "tibetan_transliteration": "\u0f66\u0fa3\u0f0b\u0f53\u0f58\u0f0b\u0f56\u0f59\u0f74\u0f53\u0f0b\u0f54\u0f0b\u0f66\u0f90\u0f63\u0f0b\u0f56\u0f5f\u0f44\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f62\u0f92\u0fb1\u0f0b\u0f58\u0f5a\u0f7c\u0f0b\u0f56\u0f66\u0f7c\u0f51\u0f0b\u0f53\u0f58\u0f66\u0f0b\u0f51\u0f56\u0f44\u0f0b\u0f54\u0f7c",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "https://purl.bdrc.io/resource/P5276",
+  "review": false,
+  "start": "after 1400",
+  "end": "before 1499",
+  "name": "sna nam btsun pa skal bzang chos kyi rgya mtsho bsod nams dbang po",
+  "gender": "male",
+  "nationality": "Tibetan"
+}
