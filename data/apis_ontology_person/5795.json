@@ -1,0 +1,55 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5795/",
+  "relations": [
+    {
+      "id": 1819,
+      "label": "bud d+ha rad na (5795) scribe of theg pa chen po mdo sde rgyan gyi 'grel pa rin po che'i phreng ba (5076)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5795/",
+        "label": "bud d+ha rad na (5795)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5076/",
+        "label": "theg pa chen po mdo sde rgyan gyi 'grel pa rin po che'i phreng ba (5076)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex60012024-10-1408-13-01",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": "1299-01-01",
+  "start_date_sort": "1299-01-01",
+  "tibetan_transliteration": "\u0f56\u0f74\u0f51\u0f0b\u0f51\u0fb7\u0f0b\u0f62\u0f51\u0f0b\u0f53",
+  "comments": "",
+  "alternative_names_legacy": "buddharatna",
+  "alternative_names": [
+    {
+      "label": "buddharatna",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": "after 1299",
+  "end": null,
+  "name": "bud d+ha rad na",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

@@ -1,0 +1,113 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6473/",
+  "relations": [
+    {
+      "id": 3203,
+      "label": "lce btsun shes rab 'byung gnas (6473) other relation to ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6473/",
+        "label": "lce btsun shes rab 'byung gnas (6473)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3745/",
+        "label": "ati\u015ba d\u012bpa\u1e43kara\u015br\u012bj\u00f1\u0101na (3745)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 530. lCe btsun invited Ati\u015ba to Zhwa lu presumably in 1046.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1046",
+      "end": "1046"
+    },
+    {
+      "id": 3198,
+      "label": "lce btsun shes rab 'byung gnas (6473) student of lo ston rdo rje dbang phyug (6474)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6473/",
+        "label": "lce btsun shes rab 'byung gnas (6473)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6474/",
+        "label": "lo ston rdo rje dbang phyug (6474)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 529.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3197,
+      "label": "lce btsun shes rab 'byung gnas (6473) active at zhwa lu (4350)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6473/",
+        "label": "lce btsun shes rab 'byung gnas (6473)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4350/",
+        "label": "zhwa lu (4350)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[647FFPZR]: 529. Founded Zhwa lu in fire hare 1027.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f63\u0f95\u0f7a\u0f0b\u0f56\u0f59\u0f74\u0f53\u0f0b\u0f64\u0f7a\u0f66\u0f0b\u0f62\u0f56\u0f0b\u0f60\u0f56\u0fb1\u0f74\u0f44\u0f0b\u0f42\u0f53\u0f66",
+  "comments": "",
+  "alternative_names_legacy": "lce shes rab 'byung gnas",
+  "alternative_names": [
+    {
+      "label": "lce shes rab 'byung gnas",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": false,
+  "start": null,
+  "end": null,
+  "name": "lce btsun shes rab 'byung gnas",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

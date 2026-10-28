@@ -1,0 +1,71 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5124/",
+  "relations": [
+    {
+      "id": 1577,
+      "label": "dbu ma chen mo'i sgom khrid kyi gdams ngag (5125) has as an instance dbu ma chen mo'i bsgom khrid kyi gdam ngag (5124)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5125/",
+        "label": "dbu ma chen mo'i sgom khrid kyi gdams ngag (5125)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5124/",
+        "label": "dbu ma chen mo'i bsgom khrid kyi gdam ngag (5124)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f51\u0f56\u0f74\u0f0b\u0f58\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f58\u0f7c\u0f60\u0f72\u0f0b\u0f56\u0f66\u0f92\u0f7c\u0f58\u0f0b\u0f41\u0fb2\u0f72\u0f51\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f42\u0f51\u0f58\u0f0b\u0f44\u0f42",
+  "comments": "The same set of images was published in [KUYBGM7V], vol. 64 and [5DSBYG9K], vol. 112. The latter has a much better resolution.\r\n[6TNNKSQ3]: 55 reports the signature \"phyi tsa 339.\"",
+  "alternative_names_legacy": "dbu ma chen po'i bsgom khrid kyi gdaM ngag (cover page)\r\ndbu ma chen po'i bsgom khrid kyi gdams ngag (catalogue)\r\ndbu ma chen po'i stong nyid bsgom pa'i man ngag (colophon)",
+  "alternative_names": [
+    {
+      "label": "dbu ma chen po'i bsgom khrid kyi gdaM ngag (cover page)",
+      "language": "bo"
+    },
+    {
+      "label": "dbu ma chen po'i bsgom khrid kyi gdams ngag (catalogue)",
+      "language": "bo"
+    },
+    {
+      "label": "dbu ma chen po'i stong nyid bsgom pa'i man ngag (colophon)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD153536_CAC585\r\nhttps://purl.bdrc.io/resource/MW4PD3076_18C0E7",
+  "review": false,
+  "start": null,
+  "name": "dbu ma chen mo'i bsgom khrid kyi gdam ngag",
+  "set_num": "Set 3",
+  "volume": "64",
+  "sb_text_number": "5",
+  "pp_kdsb": "279-349",
+  "num_folios": "36",
+  "signature_letter": "la",
+  "signature_number": "239",
+  "drepung_number": "18470",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "3ZEXC2JQ",
+  "tibschol_ref": "3_064_05\r\n4_112_03",
+  "availability": "available",
+  "dimension": "21.5 x 8.5",
+  "item_description": "Script: dpe tshugs."
+}

@@ -1,0 +1,78 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6746/",
+  "relations": [
+    {
+      "id": 3899,
+      "label": "mngon pa kun btus kyi rnam bshad (6746) commentary on abhidharmasamuccaya (3755)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6746/",
+        "label": "mngon pa kun btus kyi rnam bshad (6746)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3755/",
+        "label": "abhidharmasamuccaya (3755)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3898,
+      "label": "chos dpal bzang po (6744) author of mngon pa kun btus kyi rnam bshad (6746)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6744/",
+        "label": "chos dpal bzang po (6744)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6746/",
+        "label": "mngon pa kun btus kyi rnam bshad (6746)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[5RXEUKD9]: 530, No. 11526.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1420-12-31",
+  "start_date_from": "1310-01-01",
+  "start_date_sort": "1365-07-01",
+  "tibetan_transliteration": "\u0f58\u0f44\u0f7c\u0f53\u0f0b\u0f54\u0f0b\u0f40\u0f74\u0f53\u0f0b\u0f56\u0f4f\u0f74\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f56\u0f64\u0f51",
+  "comments": "This work is not extant. It is listed in A khu ching Shes rab rgya mtsho's Tho yig ([5RXEUKD9]: 530, No. 11526: (bu'i slob ma mkhan chen chos dpal bzang po'i) mngon pa kun btus kyi rnam bshad).",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": true,
+  "start": "after 1310 before 1420",
+  "name": "mngon pa kun btus kyi rnam bshad",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": false,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/17/"
+  ]
+}

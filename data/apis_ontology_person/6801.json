@@ -1,0 +1,79 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6801/",
+  "relations": [
+    {
+      "id": 4116,
+      "label": "bya bral ba rab mchog (6801) author of tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4783)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6801/",
+        "label": "bya bral ba rab mchog (6801)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4783/",
+        "label": "tshad ma'i legs bshad dri med bcud kyi bdud rtsi (4783)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex46032023-02-1416-28-20 (Authorship of one section).\r\nex46032023-02-1416-29-03 (Authorship of one section).",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4117,
+      "label": "Anonymous (6) (6800) quotes with name bya bral ba rab mchog (6801)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6800/",
+        "label": "Anonymous (6) (6800)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6801/",
+        "label": "bya bral ba rab mchog (6801)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex46032023-02-1416-28-20 (Ascribes authorship of section)\r\nex46032023-02-1416-29-03 (Ascribes authorship of section)",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": null,
+  "end_date_sort": null,
+  "start_date_to": null,
+  "start_date_from": "1150-01-01",
+  "start_date_sort": "1150-01-01",
+  "tibetan_transliteration": "\u0f56\u0fb1\u0f0b\u0f56\u0fb2\u0f63\u0f0b\u0f56\u0f0b\u0f62\u0f56\u0f0b\u0f58\u0f46\u0f7c\u0f42",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": true,
+  "start": "after 1150",
+  "end": null,
+  "name": "bya bral ba rab mchog",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

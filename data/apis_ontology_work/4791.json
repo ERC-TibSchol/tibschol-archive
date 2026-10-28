@@ -1,0 +1,107 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4791/",
+  "relations": [
+    {
+      "id": 1428,
+      "label": "yang dag rigs pa'i gsal byed sgron ma (4791) has as an instance yang dag rigs pa'i gsal byed sgron ma (4790)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4791/",
+        "label": "yang dag rigs pa'i gsal byed sgron ma (4791)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4790/",
+        "label": "yang dag rigs pa'i gsal byed sgron ma (4790)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 754,
+      "label": "gtsang drug pa rdo rje 'od zer (4025) author of yang dag rigs pa'i gsal byed sgron ma (4791)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4025/",
+        "label": "gtsang drug pa rdo rje 'od zer (4025)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4791/",
+        "label": "yang dag rigs pa'i gsal byed sgron ma (4791)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author reported in [8H6M69W4], No. 16412: shAkya'i dge slong rdo rje 'od zer",
+      "tei_refs": "ex47012024-12-1011-45-01\r\nex47012025-04-2915-51-18",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1300-12-31",
+  "start_date_from": "1160-01-01",
+  "start_date_sort": "1230-07-01",
+  "tibetan_transliteration": "\u0f61\u0f44\u0f0b\u0f51\u0f42\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f42\u0f66\u0f63\u0f0b\u0f56\u0fb1\u0f7a\u0f51\u0f0b\u0f66\u0f92\u0fb2\u0f7c\u0f53\u0f0b\u0f58",
+  "comments": "Epistemological work in five chapters, also organized according to a nested hierarchy (sa bcad). The author mentions in the closing verses the triad \"'chad rtsom brtsod\" as well as the pairs of topics \"'gal/'brel,\" \"dgag/sgrub,\" and \"rdzas chos/ldog chos.\"\r\n\r\nThe author refers anonymously to the view of a number of other scholars, who are often identified in glosses in instance (ID:4790). These glosses name ca. 20 different figures. The most-cited are gTsang nag pa (ID:3839), Dan 'bag pa (ID:3840), Phya pa (ID:3831), and rNgog Blo ldan shes rab (ID:3786).",
+  "alternative_names_legacy": "tshad ma'i spyi don bsdus pa yang dag rig pa'i gsal byed sgron ma\r\ntshad ma'i spyi don bsdus pa\r\nrigs pa'i gsal byed sgron ma\r\nsaM myag bidya a lo ka\r\ntshad ma'i spyi don bsdus pa gtsang drug pa rdo rje 'od zer gyi mdzad pa\r\nyang dag rigs pa'i gsal byed sgron ma\r\nyang dag rigs pa'i gsal byed",
+  "alternative_names": [
+    {
+      "label": "tshad ma'i spyi don bsdus pa yang dag rig pa'i gsal byed sgron ma",
+      "language": "bo"
+    },
+    {
+      "label": "tshad ma'i spyi don bsdus pa",
+      "language": "bo"
+    },
+    {
+      "label": "rigs pa'i gsal byed sgron ma",
+      "language": "bo"
+    },
+    {
+      "label": "saM myag bidya a lo ka",
+      "language": "bo"
+    },
+    {
+      "label": "tshad ma'i spyi don bsdus pa gtsang drug pa rdo rje 'od zer gyi mdzad pa",
+      "language": "bo"
+    },
+    {
+      "label": "yang dag rigs pa'i gsal byed sgron ma",
+      "language": "bo"
+    },
+    {
+      "label": "yang dag rigs pa'i gsal byed",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": "after 1160 before 1300",
+  "name": "yang dag rigs pa'i gsal byed sgron ma",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

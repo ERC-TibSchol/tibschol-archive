@@ -1,0 +1,63 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4539/",
+  "relations": [
+    {
+      "id": 1311,
+      "label": "btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4540) has as an instance btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4539)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4540/",
+        "label": "btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4540)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4539/",
+        "label": "btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4539)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f56\u0f59\u0f74\u0f53\u0f0b\u0f58\u0f7c\u0f60\u0f72\u0f0b\u0f51\u0f7c\u0f0b\u0f67\u0f0b\u0f5a\u0f72\u0f42\u0f66\u0f0b\u0f66\u0f74\u0f0b\u0f56\u0f45\u0f51\u0f0b\u0f54\u0f0b\u0f56\u0f62\u0f92\u0fb1\u0f51\u0f0b\u0f56\u0f45\u0f74\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f56\u0f66\u0fa1\u0f74\u0f66\u0f0b\u0f51\u0f7c\u0f53",
+  "comments": "The signature number is unclear on the reproduction in [Z5AUD7GQ]. It is reported to be \"114\" in [S635TW6P]: 72, and \"117\" in [8H6M69W4].",
+  "alternative_names_legacy": "btsun mo d+ho ha tshigs su bcad brgyad bcu pa'i bsdus don",
+  "alternative_names": [
+    {
+      "label": "btsun mo d+ho ha tshigs su bcad brgyad bcu pa'i bsdus don",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89051_252F14",
+  "review": true,
+  "start": null,
+  "name": "btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don",
+  "set_num": "Set 1",
+  "volume": "11",
+  "sb_text_number": "13",
+  "pp_kdsb": "509-513",
+  "num_folios": "3",
+  "signature_letter": "ma",
+  "signature_number": "117",
+  "drepung_number": "6881",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "1_011_13",
+  "availability": "available",
+  "dimension": "42 x 7.2",
+  "item_description": "Script: dpe tshugs."
+}

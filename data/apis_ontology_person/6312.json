@@ -1,0 +1,81 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6312/",
+  "relations": [
+    {
+      "id": 2878,
+      "label": "se ston (6312) prompter of smon 'jug sems bskyed kyi cho ga (5042)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6312/",
+        "label": "se ston (6312)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5042/",
+        "label": "smon 'jug sems bskyed kyi cho ga (5042)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58032023-09-13-103956 Request of the 2nd text in the compilation.",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2879,
+      "label": "se ston (6312) requests rgyal sras thogs med bzang po (4066)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6312/",
+        "label": "se ston (6312)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4066/",
+        "label": "rgyal sras thogs med bzang po (4066)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex58032023-09-13-103956",
+      "support_notes": "Work (ID:5041).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        18
+      ]
+    }
+  ],
+  "end_date_to": "1450-12-31",
+  "end_date_from": null,
+  "end_date_sort": "1450-12-31",
+  "start_date_to": null,
+  "start_date_from": "1250-01-01",
+  "start_date_sort": "1250-01-01",
+  "tibetan_transliteration": "\u0f66\u0f7a\u0f0b\u0f66\u0f9f\u0f7c\u0f53",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "after 1250",
+  "end": "before 1450",
+  "name": "se ston",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

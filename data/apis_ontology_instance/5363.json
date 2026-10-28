@@ -1,0 +1,71 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5363/",
+  "relations": [
+    {
+      "id": 1686,
+      "label": "man ngag rin po che spungs pa (5364) has as an instance man ngag rin po che spungs pa (5363)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5364/",
+        "label": "man ngag rin po che spungs pa (5364)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5363/",
+        "label": "man ngag rin po che spungs pa (5363)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f58\u0f53\u0f0b\u0f44\u0f42\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f54\u0f7c\u0f0b\u0f46\u0f7a\u0f0b\u0f66\u0fa4\u0f74\u0f44\u0f66\u0f0b\u0f54",
+  "comments": "The text covers fols. 1-216. Fol. 117 contains a versified prayer.\r\nNo folio size reported in [8H6M69W4].",
+  "alternative_names_legacy": "mdo sde'i lung btus chung ba  (cover page)\r\nman ngag rin po che spungs pa (cover page)\r\nbla ma rin po che lce sgom rdzong pas mdzad pa'i man ngag rin po che spungs pa (colophon)",
+  "alternative_names": [
+    {
+      "label": "mdo sde'i lung btus chung ba  (cover page)",
+      "language": "bo"
+    },
+    {
+      "label": "man ngag rin po che spungs pa (cover page)",
+      "language": "bo"
+    },
+    {
+      "label": "bla ma rin po che lce sgom rdzong pas mdzad pa'i man ngag rin po che spungs pa (colophon)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW4PD3076_6CC6DE",
+  "review": true,
+  "start": null,
+  "name": "man ngag rin po che spungs pa",
+  "set_num": "Set 4",
+  "volume": "96",
+  "sb_text_number": "3",
+  "pp_kdsb": "103-535",
+  "num_folios": "217",
+  "signature_letter": "la",
+  "signature_number": "95",
+  "drepung_number": "18077",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "4_096_03",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Script: 'bru tsha."
+}

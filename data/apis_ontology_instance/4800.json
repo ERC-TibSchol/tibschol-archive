@@ -1,0 +1,67 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4800/",
+  "relations": [
+    {
+      "id": 1433,
+      "label": "rab gnas ji ltar sgrub pa'i man ngag (4801) has as an instance rab tu gnas pa ji ltar bsgrub pa'i man ngag (1) (4800)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4801/",
+        "label": "rab gnas ji ltar sgrub pa'i man ngag (4801)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4800/",
+        "label": "rab tu gnas pa ji ltar bsgrub pa'i man ngag (1) (4800)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f62\u0f56\u0f0b\u0f4f\u0f74\u0f0b\u0f42\u0f53\u0f66\u0f0b\u0f54\u0f0b\u0f47\u0f72\u0f0b\u0f63\u0f9f\u0f62\u0f0b\u0f56\u0f66\u0f92\u0fb2\u0f74\u0f56\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f58\u0f53\u0f0b\u0f44\u0f42 \u0f3c\u0f21\u0f3d",
+  "comments": "Another manuscript of 37 folios, in dpe tshugs script, is also listed in [8H6M69W4]: No. 12443. See (ID:7244).",
+  "alternative_names_legacy": "rab tu gnas pa ji ltar bsgrub pa'i man ngag (colophon)\r\nrab tu gnas pa (cover page, catalogue)",
+  "alternative_names": [
+    {
+      "label": "rab tu gnas pa ji ltar bsgrub pa'i man ngag (colophon)",
+      "language": "bo"
+    },
+    {
+      "label": "rab tu gnas pa (cover page, catalogue)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW1PD89084_2B1462",
+  "review": true,
+  "start": null,
+  "name": "rab tu gnas pa ji ltar bsgrub pa'i man ngag (1)",
+  "set_num": "Set 2",
+  "volume": "47",
+  "sb_text_number": "6",
+  "pp_kdsb": "265-338",
+  "num_folios": "37",
+  "signature_letter": "ma",
+  "signature_number": "926",
+  "drepung_number": "12490",
+  "provenance": "'bras spungs gnas bcu lha khang",
+  "zotero_ref": "",
+  "tibschol_ref": "2_047_06",
+  "availability": "available",
+  "dimension": "34 x 6.5",
+  "item_description": "Script: 'bru tsha."
+}

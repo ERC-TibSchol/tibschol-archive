@@ -1,0 +1,58 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5338/",
+  "relations": [
+    {
+      "id": 1675,
+      "label": "lam gyi rim pa (5339) has as an instance lam gyi rim pa (5338)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5339/",
+        "label": "lam gyi rim pa (5339)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5338/",
+        "label": "lam gyi rim pa (5338)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f63\u0f58\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f62\u0f72\u0f58\u0f0b\u0f54",
+  "comments": "The text stops abruptly after a change of hand on fol. 101.\r\nThe manuscript does not seem to correspond to any of the two items with the signature \"phyi la 398\" listed in [8H6M69W4].",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "https://purl.bdrc.io/resource/MW4PD3076_B34AC0",
+  "review": false,
+  "start": null,
+  "name": "lam gyi rim pa",
+  "set_num": "Set 4",
+  "volume": "93",
+  "sb_text_number": "1",
+  "pp_kdsb": "3-202",
+  "num_folios": "100(/?)",
+  "signature_letter": "la",
+  "signature_number": "398",
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "4_093_01",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Volume number (?): khrI\r\nFirst folio missing.\r\nNumber on the last extant folio: 101."
+}

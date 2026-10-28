@@ -1,0 +1,91 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5412/",
+  "relations": [
+    {
+      "id": 8134,
+      "label": "'jam dpal chos grags bzang po (8549) scribe of skyes bu 'bring gi chos bsam pa'i tshul zab mo (5412)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8549/",
+        "label": "'jam dpal chos grags bzang po (8549)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5412/",
+        "label": "skyes bu 'bring gi chos bsam pa'i tshul zab mo (5412)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "(ID:5412), 44b1-4: 'di ni byams dpal chos grags bzang pos sor mo'i dpal las 'khrungs pa'o || 'di bris dge bas bdag gzhan 'gro kun gyis || dge ba gang bsags phyogs cig sdom byas nas || dkon mchog gsum gyi 'bangs su zhal bzhes pa'i || spyan sngar phul bas thugs dgongs rdzogs gyur cig || bdag kyang skyes zhing tshe rabs thams cad du || de la 'byor thob cing bzhon nu rab byung nas || dam pa khyed dang 'dra bas rjes su rab bzung nas || nges 'byung tshul khrims snor 'gyod dri med cing || rang nyid zhi bde don du mi gnyer cing || 'gro kun don du bde stong thob gyur cig || bdag gi bla ma rje btsun chos rje de || dga' ldan gnas sam bde ba spyan lasogs || dag pa'i zhing khams gang na bzhugs kyang rung || bdag kyang 'khor gyi thog mar skye gyur cig ||",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1710,
+      "label": "skyes bu 'bring gi chos bsam pa'i tshul zab mo (5413) has as an instance skyes bu 'bring gi chos bsam pa'i tshul zab mo (5412)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5413/",
+        "label": "skyes bu 'bring gi chos bsam pa'i tshul zab mo (5413)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5412/",
+        "label": "skyes bu 'bring gi chos bsam pa'i tshul zab mo (5412)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f66\u0f90\u0fb1\u0f7a\u0f66\u0f0b\u0f56\u0f74\u0f0b\u0f60\u0f56\u0fb2\u0f72\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f56\u0f66\u0f58\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f5a\u0f74\u0f63\u0f0b\u0f5f\u0f56\u0f0b\u0f58\u0f7c",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": [
+    {
+      "label": "byang chub lam gyi sgron ma las skyes bu 'bring gi chos bsam pa'i tshul zab mo",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW4PD3076_C044B0",
+  "review": true,
+  "start": null,
+  "name": "skyes bu 'bring gi chos bsam pa'i tshul zab mo",
+  "set_num": "Set 4",
+  "volume": "105",
+  "sb_text_number": "4",
+  "pp_kdsb": "243-330",
+  "num_folios": "44",
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "",
+  "tibschol_ref": "4_105_04",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Script: dpe tshugs.\r\nDouble numbering of the folios in the left margin on the recto:\r\n- Volume letter Da (follows volume Tha, see (ID:5410) and precedes volume Na, see (ID:5414)), from 1 to 44.\r\n- From 363 to 404, with two folios numbered 382 (gya gnyis gong ma, 3-gya gnyis) and two folios numbered 387 (3-gya bdun, 3-gya bdun 'og ma).\r\nLines per folio: 7, 6 on fol. 1b, 2a, 2b.\r\nAbbreviations.\r\nNo annotations (only a few corrections).\r\nProofread once (cig zhus || dag go |).\r\nMiniatures left (rje ye shes dpal) and right (rje sangs rgyas grub pa) on fol. 1b, and left (rje rin po che dkon mchog rgyal mtshan pa) and right (rje sangs rgyas seng ge pa) on fol. 2a."
+}

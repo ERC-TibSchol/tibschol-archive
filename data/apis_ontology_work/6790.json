@@ -1,0 +1,127 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6790/",
+  "relations": [
+    {
+      "id": 4060,
+      "label": "pram\u0101\u1e47av\u0101rttika\u1e6d\u012bk\u0101 (6790) commentary on pram\u0101\u1e47av\u0101rttikav\u1e5btti (6791)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6790/",
+        "label": "pram\u0101\u1e47av\u0101rttika\u1e6d\u012bk\u0101 (6790)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6791/",
+        "label": "pram\u0101\u1e47av\u0101rttikav\u1e5btti (6791)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4057,
+      "label": "\u015ba\u1e45karanandana (5552) author of pram\u0101\u1e47av\u0101rttika\u1e6d\u012bk\u0101 (6790)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5552/",
+        "label": "\u015ba\u1e45karanandana (5552)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6790/",
+        "label": "pram\u0101\u1e47av\u0101rttika\u1e6d\u012bk\u0101 (6790)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[3WWB3P62]: 89.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5607,
+      "label": "rngog blo ldan shes rab (3786) translator of pram\u0101\u1e47av\u0101rttika\u1e6d\u012bk\u0101 (6790)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6790/",
+        "label": "pram\u0101\u1e47av\u0101rttika\u1e6d\u012bk\u0101 (6790)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[Q47PVAE6]: 68. According to Bu ston and Gro lung pa.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "0985-12-31",
+  "start_date_from": "0920-01-01",
+  "start_date_sort": "0952-12-31",
+  "tibetan_transliteration": "",
+  "comments": "Incomplete commentary on PVSV up to the PVSV ad PV I.128.\r\nSee [3WWB3P62]: 89.",
+  "alternative_names_legacy": "tshad ma rnam 'grel gyi 'grel bshad\r\nrnam 'grel gyi rjes su 'brang ba\r\nv\u0101rttik\u0101nus\u0101ri\u1e47\u012b\r\npram\u0101\u1e47av\u0101rttik\u0101nus\u0101ri\u1e47\u012b\r\npram\u0101\u1e47av\u0101rttik\u0101nus\u0101ra",
+  "alternative_names": [
+    {
+      "label": "tshad ma rnam 'grel gyi 'grel bshad",
+      "language": "bo"
+    },
+    {
+      "label": "rnam 'grel gyi rjes su 'brang ba",
+      "language": "bo"
+    },
+    {
+      "label": "v\u0101rttik\u0101nus\u0101ri\u1e47\u012b",
+      "language": "bo"
+    },
+    {
+      "label": "pram\u0101\u1e47av\u0101rttik\u0101nus\u0101ri\u1e47\u012b",
+      "language": "bo"
+    },
+    {
+      "label": "pram\u0101\u1e47av\u0101rttik\u0101nus\u0101ra",
+      "language": "bo"
+    }
+  ],
+  "external_links": "http://purl.rkts.eu/resource/WTT4238\r\nhttps://east.ikga.oeaw.ac.at/data/24/71/",
+  "review": true,
+  "start": "after 920 before 985",
+  "name": "pram\u0101\u1e47av\u0101rttika\u1e6d\u012bk\u0101",
+  "sde_dge_ref": "D4223",
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

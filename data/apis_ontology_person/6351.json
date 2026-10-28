@@ -1,0 +1,80 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6351/",
+  "relations": [
+    {
+      "id": 2957,
+      "label": "btsang dgon pa gzhon nu bsam gtan (6351) active at gsang phu gling stod (6172)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6351/",
+        "label": "btsang dgon pa gzhon nu bsam gtan (6351)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6172/",
+        "label": "gsang phu gling stod (6172)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": "1434-12-31",
+      "end_date_from": null,
+      "end_date_sort": "1434-12-31",
+      "start_date_to": null,
+      "start_date_from": "1258-01-01",
+      "start_date_sort": "1258-01-01",
+      "zotero_refs": "[MPRU5QUC]: 211. Abbot of gSang phu ne'u thog monastery (tenth abbot of upper college) for 20 years.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "after 1258",
+      "end": "before 1434",
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 3961,
+      "label": "klong chen rab 'byams pa (6062) student of btsang dgon pa gzhon nu bsam gtan (6351)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6062/",
+        "label": "klong chen rab 'byams pa (6062)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6351/",
+        "label": "btsang dgon pa gzhon nu bsam gtan (6351)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MPRU5QUC]: 211, n. 25.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": "1434-12-31",
+  "end_date_from": "1318-01-01",
+  "end_date_sort": "1376-07-01",
+  "start_date_to": "1354-12-31",
+  "start_date_from": "1238-01-01",
+  "start_date_sort": "1296-07-01",
+  "tibetan_transliteration": "\u0f56\u0f59\u0f44\u0f0b\u0f51\u0f42\u0f7c\u0f53\u0f0b\u0f54\u0f0b\u0f42\u0f5e\u0f7c\u0f53\u0f0b\u0f53\u0f74\u0f0b\u0f56\u0f66\u0f58\u0f0b\u0f42\u0f4f\u0f53",
+  "comments": "Fl. late 13th c.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "after 1238 before 1354",
+  "end": "after 1318 before 1434",
+  "name": "btsang dgon pa gzhon nu bsam gtan",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

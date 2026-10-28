@@ -1,0 +1,84 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4156/",
+  "relations": [
+    {
+      "id": 7799,
+      "label": "dgyal pa chos 'bar (4156) lineage predecessor of 'chad kha pa ye shes rdo rje (3874)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4156/",
+        "label": "dgyal pa chos 'bar (4156)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3874/",
+        "label": "'chad kha pa ye shes rdo rje (3874)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex61032023-09-26-091118",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        15
+      ]
+    },
+    {
+      "id": 7798,
+      "label": "glang ri thang pa rdo rje seng ge (4104) lineage predecessor of dgyal pa chos 'bar (4156)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4104/",
+        "label": "glang ri thang pa rdo rje seng ge (4104)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4156/",
+        "label": "dgyal pa chos 'bar (4156)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex61032023-09-26-091118",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        15
+      ]
+    }
+  ],
+  "end_date_to": "1193-12-31",
+  "end_date_from": "1111-01-01",
+  "end_date_sort": "1152-07-01",
+  "start_date_to": "1113-12-31",
+  "start_date_from": "1031-01-01",
+  "start_date_sort": "1072-07-01",
+  "tibetan_transliteration": "\u0f51\u0f42\u0fb1\u0f63\u0f0b\u0f54\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f60\u0f56\u0f62",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": [],
+  "external_links": "",
+  "review": false,
+  "start": "after 1031 before 1113",
+  "end": "after 1111 before 1193",
+  "name": "dgyal pa chos 'bar",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

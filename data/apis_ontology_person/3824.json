@@ -1,0 +1,82 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3824/",
+  "relations": [
+    {
+      "id": 75,
+      "label": "gun pa lha rje (3824) student of sne'u zur pa ye shes 'bar (3825)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3824/",
+        "label": "gun pa lha rje (3824)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3825/",
+        "label": "sne'u zur pa ye shes 'bar (3825)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[HCLRANG3]: 14.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 74,
+      "label": "gro lung pa blo gros 'byung gnas (3806) student of gun pa lha rje (3824)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3806/",
+        "label": "gro lung pa blo gros 'byung gnas (3806)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3824/",
+        "label": "gun pa lha rje (3824)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[HCLRANG3]: 14.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        55
+      ]
+    }
+  ],
+  "end_date_to": "1188-12-31",
+  "end_date_from": "1052-01-01",
+  "end_date_sort": "1120-07-02",
+  "start_date_to": "1108-12-31",
+  "start_date_from": "0975-01-01",
+  "start_date_sort": "1041-12-31",
+  "tibetan_transliteration": "\u0f42\u0f74\u0f53\u0f0b\u0f54\u0f0b\u0f63\u0fb7\u0f0b\u0f62\u0f97\u0f7a",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "after 975 before 1108",
+  "end": "after 1052 before 1188",
+  "name": "gun pa lha rje",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

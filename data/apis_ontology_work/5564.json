@@ -1,0 +1,722 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+  "relations": [
+    {
+      "id": 5897,
+      "label": "tshad ma rigs gter (5564) taught at rkyang 'dur (6049)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6049/",
+        "label": "rkyang 'dur (6049)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 137. Taught by Kun spangs thugs rje brtson 'grus (ID:3905).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4193,
+      "label": "tshad ma rigs pa'i snang ba (6826) commentary on tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6826/",
+        "label": "tshad ma rigs pa'i snang ba (6826)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MKQ6FJV7]: 54-55.",
+      "tei_refs": "",
+      "support_notes": "The extant fragments do not prove that lDong ston's treatise was a commentary on the Tshad ma rigs gter (ID:5564); it may have been an independent work of epistemology, however engaging with Sa skya Pa\u1e47\u1e0dita\u2019s views.",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 8008,
+      "label": "rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4767) contains citations of tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4767/",
+        "label": "rigs pa'i snying po de kho na nyid bsdus pa gsal byed nyi ma'i 'od (4767)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex44042023-02-2308-08-03",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 8009,
+      "label": "tshad ma rnam nges kyi TIk+ka blo gsal mgul rgyan (4769) contains citations of tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4769/",
+        "label": "tshad ma rnam nges kyi TIk+ka blo gsal mgul rgyan (4769)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex44052023-03-1416-27-18",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6954,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) teaches tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": "1308-12-31",
+      "start_date_from": "1308-01-01",
+      "start_date_sort": "1308-07-01",
+      "zotero_refs": "[N35FPQ6L]: 67.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1308",
+      "end": null
+    },
+    {
+      "id": 3964,
+      "label": "dpang lo tsA ba blo gros brtan pa (4097) studies tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4097/",
+        "label": "dpang lo tsA ba blo gros brtan pa (4097)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": "1294-12-31",
+      "end_date_from": "1294-01-01",
+      "end_date_sort": "1294-07-02",
+      "start_date_to": "1294-12-31",
+      "start_date_from": "1294-01-01",
+      "start_date_sort": "1294-07-02",
+      "zotero_refs": "[FEHIEFEB]: 126. With 'Jam dbyangs skya bo nam mkha' dpal (ID:6621), when dPang was 18 years old.\r\n[N35FPQ6L]: 64. At Sa skya (ID:5733).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": "1294",
+      "end": "1294"
+    },
+    {
+      "id": 7213,
+      "label": "rong ston shes bya kun rig (6005) studies tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6005/",
+        "label": "rong ston shes bya kun rig (6005)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[VTFXMPC9]: iii. With g.Yag phrug Sangs rgyas dpal (ID:6153).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6627,
+      "label": "tshad ma rigs gter gyi Tik+ka (7780) commentary on tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7780/",
+        "label": "tshad ma rigs gter gyi Tik+ka (7780)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 2325,
+      "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892) author of tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3892/",
+        "label": "sa skya paN+Di ta kun dga' rgyal mtshan (3892)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "On 1219 as the approximate date of composition, see [8S7FDMCJ]: 101 and 303, n. 293.",
+      "confidence": "Positive",
+      "start": "1219",
+      "end": "1219"
+    },
+    {
+      "id": 8012,
+      "label": "tshad ma rnam 'grel rnam par 'byed pa (4777) contains citations of tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4777/",
+        "label": "tshad ma rnam 'grel rnam par 'byed pa (4777)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex45042024-08-2914-22-30\nex45042024-08-2914-22-3010\nex45042024-08-2914-22-3011\nex45042024-08-2914-22-3012\nex45042026-09-1606-01-59\nex45042024-08-2914-22-283\nex45042026-09-1606-03-19",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 8011,
+      "label": "tshad ma'i bsdus pa (4775) contains citations of tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4775/",
+        "label": "tshad ma'i bsdus pa (4775)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex045032025-05-2015-12-06",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7227,
+      "label": "tshad ma sde bdun gyi dgongs 'grel rigs pa'i gter zhes bya ba'i dgongs don gsal bar byed pa legs bshad nyi ma'i 'od zer (8105) commentary on tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8105/",
+        "label": "tshad ma sde bdun gyi dgongs 'grel rigs pa'i gter zhes bya ba'i dgongs don gsal bar byed pa legs bshad nyi ma'i 'od zer (8105)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5845,
+      "label": "tshad ma rigs pa'i gter gyi rnam bshad legs par bshad pa'i snying po (7066) commentary on tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7066/",
+        "label": "tshad ma rigs pa'i gter gyi rnam bshad legs par bshad pa'i snying po (7066)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7230,
+      "label": "rtsod pa'i rgyan (8108) commentary on tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8108/",
+        "label": "rtsod pa'i rgyan (8108)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Commentary on the points of defeat discussed in the 11th chapter.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 6637,
+      "label": "tshad ma'i don bsdus pa (5294) contains citations of tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5294/",
+        "label": "tshad ma'i don bsdus pa (5294)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex087042026-02-2317-05-14\r\nex087042026-02-2315-48-02\r\nex087042026-02-2315-53-51\r\nex087042026-02-2316-58-53",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4196,
+      "label": "rigs pa grub pa (6455) commentary on tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6455/",
+        "label": "rigs pa grub pa (6455)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[MKQ6FJV7]: 54.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 8007,
+      "label": "legs par bshad pa'i gter mdzod blo gsal yid la dga' ba gter ba (4781) contains citations of tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4781/",
+        "label": "legs par bshad pa'i gter mdzod blo gsal yid la dga' ba gter ba (4781)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex046022026-09-1605-51-18",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4195,
+      "label": "sde bdun gsal ba'i rgyan (6827) commentary on tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6827/",
+        "label": "sde bdun gsal ba'i rgyan (6827)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3985,
+      "label": "gser mdog paN chen shAkya mchog ldan (6276) teaches tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6276/",
+        "label": "gser mdog paN chen shAkya mchog ldan (6276)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W42HFLNR]: 81.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 5886,
+      "label": "rigs pa'i ral gri (4006) studies tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4006/",
+        "label": "rigs pa'i ral gri (4006)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 125. With Sa skya paN+Di ta (ID:3892).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3978,
+      "label": "don yod dpal (6769) teaches tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6769/",
+        "label": "don yod dpal (6769)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[W42HFLNR]: 58, n. 75.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 8010,
+      "label": "tshad ma'i mtshan nyid bsdus pa rigs pa'i sgo 'byed pa (4773) contains citations of tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4773/",
+        "label": "tshad ma'i mtshan nyid bsdus pa rigs pa'i sgo 'byed pa (4773)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex45022024-09-1110-23-42\r\nex45022024-09-1110-23-422",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3977,
+      "label": "rigs gter gyi rnam bshad (6770) commentary on tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6770/",
+        "label": "rigs gter gyi rnam bshad (6770)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3800,
+      "label": "rigs pa'i snang ba (6695) commentary on tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/6695/",
+        "label": "rigs pa'i snang ba (6695)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[FEHIEFEB]: 139.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 8013,
+      "label": "tshad ma rnam par nges pa'i sbyor 'phreng yid bzhin nor bu (4785) contains citations of tshad ma rigs gter (5564)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4785/",
+        "label": "tshad ma rnam par nges pa'i sbyor 'phreng yid bzhin nor bu (4785)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5564/",
+        "label": "tshad ma rigs gter (5564)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex046042025-05-2812-28-38\nex046042025-05-2812-44-45\nex046042025-05-2812-30-41",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "1219-12-31",
+  "start_date_from": "1219-01-01",
+  "start_date_sort": "1219-07-02",
+  "tibetan_transliteration": "\u0f5a\u0f51\u0f0b\u0f58\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f42\u0f4f\u0f7a\u0f62",
+  "comments": "On 1219 as the approximate date of composition, see [8S7FDMCJ]: 101 and 303, n. 293.",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "1219",
+  "name": "tshad ma rigs gter",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

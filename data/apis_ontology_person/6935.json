@@ -1,0 +1,80 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6935/",
+  "relations": [
+    {
+      "id": 4393,
+      "label": "lha dge 'dun sgang pa (6935) active at dge 'dun sgang (6934)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6935/",
+        "label": "lha dge 'dun sgang pa (6935)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6934/",
+        "label": "dge 'dun sgang (6934)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 337-338 ('di'i [=spyil phu ba] slob ma rnal 'byor byang seng | rgya spang sa thang pa | lha dge 'dun sgang pa | nyan lha sdings pa rnams kyis gro sa dang | spang sa dang | dge 'dun sgang dang | nyan lha sdings rnams btab |).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 4392,
+      "label": "lha dge 'dun sgang pa (6935) student of spyil phu pa chos kyi rgyal mtshan (3859)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6935/",
+        "label": "lha dge 'dun sgang pa (6935)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3859/",
+        "label": "spyil phu pa chos kyi rgyal mtshan (3859)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[R894SIKE]: 337-338 ('di'i [=spyil phu ba] slob ma rnal 'byor byang seng | rgya spang sa thang pa | lha dge 'dun sgang pa | nyan lha sdings pa rnams kyis gro sa dang | spang sa dang | dge 'dun sgang dang | nyan lha sdings rnams btab |). Founded by rGya spangs thang pa.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    }
+  ],
+  "end_date_to": null,
+  "end_date_from": "1131-01-01",
+  "end_date_sort": "1131-01-01",
+  "start_date_to": "1179-12-31",
+  "start_date_from": null,
+  "start_date_sort": "1179-12-31",
+  "tibetan_transliteration": "\u0f63\u0fb7\u0f0b\u0f51\u0f42\u0f7a\u0f0b\u0f60\u0f51\u0f74\u0f53\u0f0b\u0f66\u0f92\u0f44\u0f0b\u0f54",
+  "comments": "",
+  "alternative_names_legacy": "",
+  "alternative_names": null,
+  "external_links": "",
+  "review": false,
+  "start": "before 1179",
+  "end": "after 1131",
+  "name": "lha dge 'dun sgang pa",
+  "gender": "male",
+  "nationality": "Tibetan"
+}

@@ -1,0 +1,83 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7086/",
+  "relations": [
+    {
+      "id": 4883,
+      "label": "ny\u0101ya\u00adbindu\u00ad\u1e6d\u012bk\u0101 (7086) commentary on ny\u0101yabindu (5589)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7086/",
+        "label": "ny\u0101ya\u00adbindu\u00ad\u1e6d\u012bk\u0101 (7086)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5589/",
+        "label": "ny\u0101yabindu (5589)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 4882,
+      "label": "vin\u012btadeva (5534) author of ny\u0101ya\u00adbindu\u00ad\u1e6d\u012bk\u0101 (7086)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5534/",
+        "label": "vin\u012btadeva (5534)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7086/",
+        "label": "ny\u0101ya\u00adbindu\u00ad\u1e6d\u012bk\u0101 (7086)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "",
+  "comments": "",
+  "alternative_names_legacy": "rigs pa'i thigs pa'i rgya cher 'grel pa",
+  "alternative_names": [
+    {
+      "label": "rigs pa'i thigs pa'i rgya cher 'grel pa",
+      "language": "bo"
+    }
+  ],
+  "external_links": "http://purl.rkts.eu/resource/WTT3566\r\nhttps://east.ikga.oeaw.ac.at/data/11/28/",
+  "review": true,
+  "start": null,
+  "name": "ny\u0101ya\u00adbindu\u00ad\u1e6d\u012bk\u0101",
+  "sde_dge_ref": "D4230",
+  "original_language": "Sanskrit",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/9/"
+  ]
+}

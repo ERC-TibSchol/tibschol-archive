@@ -1,0 +1,123 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4431/",
+  "relations": [
+    {
+      "id": 1262,
+      "label": "bde ba can gyi smon lam (4431) has as an instance bde ba can gyi smon lam (4430)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4431/",
+        "label": "bde ba can gyi smon lam (4431)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4430/",
+        "label": "bde ba can gyi smon lam (4430)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "xml:id=\"ex1052023-04-241305\"",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 3518,
+      "label": "bde ba can gyi smon lam (4431) composed at tho ling (6216)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4431/",
+        "label": "bde ba can gyi smon lam (4431)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/6216/",
+        "label": "tho ling (6216)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex1052023-04-241330. Composed in thon mthing gi gtsug lag khang.",
+      "support_notes": "Following Dan Martin's suggestion that \"thon mthing\" could be an alternative spelling of \"mtho lding,\" namely Tho ling (ID:6216) (https://tibeto-logic.blogspot.com/2022/03/consecration-rite-of-great-translator.html, accessed 20.3.2024).",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 527,
+      "label": "rin chen bzang po (1) (3784) author of bde ba can gyi smon lam (4431)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3784/",
+        "label": "rin chen bzang po (1) (3784)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4431/",
+        "label": "bde ba can gyi smon lam (4431)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "xml:id=\"ex1052023-04-241330\"",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": "0996-01-01",
+  "start_date_sort": "0996-01-01",
+  "tibetan_transliteration": "\u0f56\u0f51\u0f7a\u0f0b\u0f56\u0f0b\u0f45\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f66\u0fa8\u0f7c\u0f53\u0f0b\u0f63\u0f58",
+  "comments": "Prayer for Sukhavat\u012b in verses of 9 syllables. Assuming the place of composition stands for Tho ling, composed between 996 (foundation of the monastery) and 1055 (author's passing).",
+  "alternative_names_legacy": "bde can smon lam\r\nbde can zhing gi smon lam\r\nbde ba can gyi smon lam\r\nbDe ba can gyi smon lam",
+  "alternative_names": [
+    {
+      "label": "bde can smon lam",
+      "language": "bo"
+    },
+    {
+      "label": "bde can zhing gi smon lam",
+      "language": "bo"
+    },
+    {
+      "label": "bde ba can gyi smon lam",
+      "language": "bo"
+    },
+    {
+      "label": "bDe ba can gyi smon lam",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": "after 996",
+  "name": "bde ba can gyi smon lam",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/4/"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5253/",
+  "relations": [
+    {
+      "id": 7187,
+      "label": "tshig le'ur byas pa sum brgyar pa'i don gsal bar byed (5253) commentary on m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101 (3764)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5253/",
+        "label": "tshig le'ur byas pa sum brgyar pa'i don gsal bar byed (5253)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3764/",
+        "label": "m\u016blasarv\u0101stiv\u0101di\u015br\u0101ma\u1e47erak\u0101rik\u0101 (3764)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 1636,
+      "label": "tshig le'ur byas pa sum brgyar pa'i don gsal bar byed (5253) has as an instance tshig le'ur byas pa sum brgyar pa'i don gsal bar byed (5252)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5253/",
+        "label": "tshig le'ur byas pa sum brgyar pa'i don gsal bar byed (5253)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5252/",
+        "label": "tshig le'ur byas pa sum brgyar pa'i don gsal bar byed (5252)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 7192,
+      "label": "Anonymous (4593) author of tshig le'ur byas pa sum brgyar pa'i don gsal bar byed (5253)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4593/",
+        "label": "Anonymous (4593)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5253/",
+        "label": "tshig le'ur byas pa sum brgyar pa'i don gsal bar byed (5253)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "The text is very similar to (ID:5524), suggesting that the author could be Phya pa (ID:3831) or one of his students.",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": null,
+  "start_date_from": null,
+  "start_date_sort": null,
+  "tibetan_transliteration": "\u0f5a\u0f72\u0f42\u0f0b\u0f63\u0f7a\u0f60\u0f74\u0f62\u0f0b\u0f56\u0fb1\u0f66\u0f0b\u0f54\u0f0b\u0f66\u0f74\u0f58\u0f0b\u0f56\u0f62\u0f92\u0fb1\u0f62\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f42\u0f66\u0f63\u0f0b\u0f56\u0f62\u0f0b\u0f56\u0fb1\u0f7a\u0f51",
+  "comments": "This commentary is very similar to the dGe tshul gyi tshig le'ur byas pa sum brgya pa'i tshig don rab tu 'byed pa (ID:5524) by Dharma singha (who could be Phya pa Chos kyi seng ge (ID:3831)). This suggests the author could be the same, or the author of the present work might be a student of the author of (ID:5524).",
+  "alternative_names_legacy": "tshig le\u02bcur byas pa sum brgya pa'i don gsal bkod",
+  "alternative_names": [
+    {
+      "label": "tshig le\u02bcur byas pa sum brgya pa'i don gsal bkod",
+      "language": "bo"
+    }
+  ],
+  "external_links": "",
+  "review": true,
+  "start": null,
+  "name": "tshig le'ur byas pa sum brgyar pa'i don gsal bar byed",
+  "sde_dge_ref": null,
+  "original_language": "Tibetan",
+  "isExtant": true,
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/8/"
+  ]
+}
