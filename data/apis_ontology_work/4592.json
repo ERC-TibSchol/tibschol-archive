@@ -3,10 +3,10 @@
   "relations": [
     {
       "id": 637,
-      "label": "theg bsdus rnam bshad de kho na nyid gsal ba (4592) commentary on mah\u0101y\u0101nasa\u1e43graha (3753)",
+      "label": "theg bsdus kyi rnam bshad de kho na nyid gsal ba (4592) commentary on mah\u0101y\u0101nasa\u1e43graha (3753)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4592/",
-        "label": "theg bsdus rnam bshad de kho na nyid gsal ba (4592)",
+        "label": "theg bsdus kyi rnam bshad de kho na nyid gsal ba (4592)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -31,10 +31,10 @@
     },
     {
       "id": 1336,
-      "label": "theg bsdus rnam bshad de kho na nyid gsal ba (4592) has as an instance theg bsdus kyi rnam bshad de kho na nyid gsal ba (4591)",
+      "label": "theg bsdus kyi rnam bshad de kho na nyid gsal ba (4592) has as an instance theg bsdus kyi rnam bshad de kho na nyid gsal ba (4591)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4592/",
-        "label": "theg bsdus rnam bshad de kho na nyid gsal ba (4592)",
+        "label": "theg bsdus kyi rnam bshad de kho na nyid gsal ba (4592)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -59,16 +59,16 @@
     },
     {
       "id": 954,
-      "label": "Anonymous (4593) author of theg bsdus rnam bshad de kho na nyid gsal ba (4592)",
+      "label": "'jam dbyangs dkon mchog bzang po (8583) author of theg bsdus kyi rnam bshad de kho na nyid gsal ba (4592)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4593/",
-        "label": "Anonymous (4593)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8583/",
+        "label": "'jam dbyangs dkon mchog bzang po (8583)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4592/",
-        "label": "theg bsdus rnam bshad de kho na nyid gsal ba (4592)",
+        "label": "theg bsdus kyi rnam bshad de kho na nyid gsal ba (4592)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -78,10 +78,10 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
+      "zotero_refs": "[K9NNDTDS]: 1398, n. 39. His biography by Blo gros rgya mtsho states that he composed a commentary on the Mah\u0101y\u0101nasa\u1e43graha (ID:3753).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
       "start": null,
       "end": null
     }
@@ -89,14 +89,27 @@
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "tibetan_transliteration": "\u0f50\u0f7a\u0f42\u0f0b\u0f56\u0f66\u0fa1\u0f74\u0f66\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f51\u0f7a\u0f0b\u0f41\u0f7c\u0f0b\u0f53\u0f0b\u0f49\u0f72\u0f51\u0f0b\u0f42\u0f66\u0f63\u0f0b\u0f56",
-  "comments": "",
+  "tibetan_transliteration": "\u0f50\u0f7a\u0f42\u0f0b\u0f56\u0f66\u0fa1\u0f74\u0f66\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f51\u0f7a\u0f0b\u0f41\u0f7c\u0f0b\u0f53\u0f0b\u0f49\u0f72\u0f51\u0f0b\u0f42\u0f66\u0f63\u0f0b\u0f56",
+  "comments": "The only exegesis by a Tibetan scholar known so far ([K9NNDTDS]: 1398, n. 39).\r\nContains over 50 anonymous references to the views of other scholars.",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [
+    {
+      "label": "theg bsdus rnam bshad de kho na nyid gsal ba",
+      "language": "bo"
+    },
+    {
+      "label": "theg pa chen po bsdus pa'i rnam par bshad pa",
+      "language": "bo"
+    },
+    {
+      "label": "de kho na nyid gsal ba",
+      "language": "bo"
+    }
+  ],
   "external_links": "",
-  "review": false,
+  "review": true,
   "start": null,
-  "name": "theg bsdus rnam bshad de kho na nyid gsal ba",
+  "name": "theg bsdus kyi rnam bshad de kho na nyid gsal ba",
   "sde_dge_ref": null,
   "original_language": "Tibetan",
   "isExtant": true,

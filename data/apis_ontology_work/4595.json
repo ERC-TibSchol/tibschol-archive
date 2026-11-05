@@ -52,35 +52,7 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Positive",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 2030,
-      "label": "yum bar ma nyi khri mngon rtogs rgyan dang sbyar ba'i TIk+ka (4595) composed at dpal nags rgyal gyi dben gnas dkar leb (5654)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4595/",
-        "label": "yum bar ma nyi khri mngon rtogs rgyan dang sbyar ba'i TIk+ka (4595)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5654/",
-        "label": "dpal nags rgyal gyi dben gnas dkar leb (5654)",
-        "content_type_key": "apis_ontology.place",
-        "content_type_name": "place"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "support_notes": "According to the title on the cover page.",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -106,9 +78,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex019012026-11-0401-35-50",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -134,9 +106,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "[S635TW6P]: 84.",
+      "tei_refs": "",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -146,16 +118,24 @@
   "start_date_from": "1127-01-01",
   "start_date_sort": "1160-01-01",
   "tibetan_transliteration": "\u0f61\u0f74\u0f58\u0f0b\u0f56\u0f62\u0f0b\u0f58\u0f0b\u0f49\u0f72\u0f0b\u0f41\u0fb2\u0f72\u0f0b\u0f58\u0f44\u0f7c\u0f53\u0f0b\u0f62\u0f9f\u0f7c\u0f42\u0f66\u0f0b\u0f62\u0f92\u0fb1\u0f53\u0f0b\u0f51\u0f44\u0f0b\u0f66\u0fa6\u0fb1\u0f62\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f4a\u0f71\u0f72\u0f40\u0f90",
-  "comments": "",
+  "comments": "The colophon gives the title \"\u00b0\u00b0\u00b0 bsal ba'i ti ka\" ([S635TW6P]: 84 report: rgyan mdo gsal ba'i ti ka). \r\nThe editors seem to have had a more legible copy of (ID:4594). See their remarks on the work in [S635TW6P]: 84.",
   "alternative_names_legacy": "dar ma brtson 'grus kyis mdzad pa'i yum bar ma nyi khri mngon rtogs rgyan dang sbyar ba'i DIk+ka",
   "alternative_names": [
     {
       "label": "dar ma brtson 'grus kyis mdzad pa'i yum bar ma nyi khri mngon rtogs rgyan dang sbyar ba'i DIk+ka",
       "language": "bo"
+    },
+    {
+      "label": "mngon rtog rgyan gyi ti ka",
+      "language": "bo"
+    },
+    {
+      "label": "rgyan mdo bsal ba'i ti ka",
+      "language": "bo"
     }
   ],
   "external_links": "",
-  "review": false,
+  "review": true,
   "start": "after 1127 before 1192",
   "name": "yum bar ma nyi khri mngon rtogs rgyan dang sbyar ba'i TIk+ka",
   "sde_dge_ref": null,

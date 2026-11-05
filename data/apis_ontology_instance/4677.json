@@ -3,10 +3,10 @@
   "relations": [
     {
       "id": 1376,
-      "label": "sher phyin mngon rtogs rgyan gyi 'grel ba'i brjed byang zhal rgyun gyi gdams pa (4643) has as an instance mngon rtogs rgyan gyi rnam par bshad pa (4677)",
+      "label": "sher phyin mngon rtogs rgyan gyi 'grel ba'i brjed byang (4643) has as an instance mngon rtogs rgyan gyi rnam par bshad pa (4677)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4643/",
-        "label": "sher phyin mngon rtogs rgyan gyi 'grel ba'i brjed byang zhal rgyun gyi gdams pa (4643)",
+        "label": "sher phyin mngon rtogs rgyan gyi 'grel ba'i brjed byang (4643)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -36,16 +36,25 @@
   "tibetan_transliteration": "\u0f58\u0f44\u0f7c\u0f53\u0f0b\u0f62\u0f9f\u0f7c\u0f42\u0f66\u0f0b\u0f62\u0f92\u0fb1\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f54\u0f62\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f54",
   "comments": "This manuscript has annotations that differ from, but overlap with those of (ID:4642).\r\nNo author reported for No. 15989 in [8H6M69W4].",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [
+    {
+      "label": "mngon rtogs rgyan gyi rnam bshad (cover page)",
+      "language": "bo"
+    },
+    {
+      "label": "shes rab kyi pha rol tu phyin pa'i man ngag gi bstan bcos kyi 'grel pa'i rjes byang bla ma'i zhal rgyud kyi gdaMs pa (colophon)",
+      "language": "bo"
+    }
+  ],
   "external_links": "https://purl.bdrc.io/resource/MW1PD89051_5DF6C9",
-  "review": false,
+  "review": true,
   "start": null,
   "name": "mngon rtogs rgyan gyi rnam par bshad pa",
   "set_num": "Set 1",
   "volume": "29",
   "sb_text_number": "5",
   "pp_kdsb": "337-492",
-  "num_folios": "79",
+  "num_folios": "78(/79)",
   "signature_letter": "tsha",
   "signature_number": "117",
   "drepung_number": "15989",
@@ -54,5 +63,5 @@
   "tibschol_ref": "1_029_05",
   "availability": "available",
   "dimension": "66 x 10",
-  "item_description": "Script: dpe tshugs."
+  "item_description": "Script: dpe tshugs.\r\nMissing folio: fol. 76.\r\nNumber on the last folio: 79.\r\nIn most cases, the decimal of folio numbers is written out, while the digit is written with a numeral.\r\nUse of abbreviations.\r\nMany interlinear notes. Actually, it seems that space was left between the lines for this purpose."
 }
