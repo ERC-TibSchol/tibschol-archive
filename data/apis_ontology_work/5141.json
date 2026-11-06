@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5141/",
   "relations": [
     {
+      "id": 8224,
+      "label": "grub mtha' rgya mtsho'i rgyan (5141) has as an instance grub mtha' rgya mtsho'i rgyan (8621)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5141/",
+        "label": "grub mtha' rgya mtsho'i rgyan (5141)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8621/",
+        "label": "grub mtha' rgya mtsho'i rgyan (8621)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1585,
       "label": "grub mtha' rgya mtsho'i rgyan (5141) has as an instance grub mtha' rgya mtsho'i rgyan (5140)",
       "subj": {
@@ -31,7 +59,7 @@
     },
     {
       "id": 2163,
-      "label": "grub mtha' rgya mtsho'i rgyan (5141) composed at dpal ngam ring gi chos grwa chen po (5700)",
+      "label": "grub mtha' rgya mtsho'i rgyan (5141) composed at ngam ring gi chos grwa chen po (5700)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5141/",
         "label": "grub mtha' rgya mtsho'i rgyan (5141)",
@@ -40,7 +68,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5700/",
-        "label": "dpal ngam ring gi chos grwa chen po (5700)",
+        "label": "ngam ring gi chos grwa chen po (5700)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -50,9 +78,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex65032023-09-261",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -79,18 +107,46 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "Author according to [8H6M69W4], No. 18967: 'phags pa",
-      "tei_refs": "",
+      "tei_refs": "ex65032023-09-261",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 8223,
+      "label": "rgyal sras thogs med bzang po (4066) author of grub mtha' rgya mtsho'i rgyan (5141)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4066/",
+        "label": "rgyal sras thogs med bzang po (4066)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5141/",
+        "label": "grub mtha' rgya mtsho'i rgyan (5141)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX] (accessed 05.11.2026)",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
     }
   ],
-  "start_date_to": null,
-  "start_date_from": null,
-  "start_date_sort": null,
+  "start_date_to": "1364-12-31",
+  "start_date_from": "1304-01-01",
+  "start_date_sort": "1334-07-02",
   "tibetan_transliteration": "\u0f42\u0fb2\u0f74\u0f56\u0f0b\u0f58\u0f50\u0f60\u0f0b\u0f62\u0f92\u0fb1\u0f0b\u0f58\u0f5a\u0f7c\u0f60\u0f72\u0f0b\u0f62\u0f92\u0fb1\u0f53",
-  "comments": "",
+  "comments": "Date of composition: shing pho 'grug gi lo snron gyi zla ba (the fifth month of the male wood dragon year), i.e., 1304 or 1364 (or later), as the author refutes dBus pa blo gsal (ID:4091) (1270-1355).\r\nThe work deals with non-Buddhist and Buddhist tenets, for the latter the three, bye brag tu smra ba, mdo sde pa, rnam rig sems tsam pa, and finally Madhyamaka.",
   "alternative_names_legacy": "grub mtha' rgya mtsho'i rgyan",
   "alternative_names": [
     {
@@ -100,7 +156,7 @@
   ],
   "external_links": "",
   "review": true,
-  "start": null,
+  "start": "after 1304 before 1364",
   "name": "grub mtha' rgya mtsho'i rgyan",
   "sde_dge_ref": null,
   "original_language": "Tibetan",

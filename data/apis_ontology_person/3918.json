@@ -159,6 +159,37 @@
       ]
     },
     {
+      "id": 8216,
+      "label": "shes rab mtha' can (3918) quotes with name rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3918/",
+        "label": "shes rab mtha' can (3918)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex023012026-11-0512-14-57",
+      "support_notes": "\"ma ha\" is understood to refer to rNgog blo ldan shes rab.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        7
+      ]
+    },
+    {
       "id": 1971,
       "label": "shes rab mtha' can (3918) author of mngon rtogs rgyan 'grel ba (4639)",
       "subj": {
@@ -387,7 +418,7 @@
   "tibetan_transliteration": "\u0f64\u0f7a\u0f66\u0f0b\u0f62\u0f56\u0f0b\u0f58\u0f50\u0f60\u0f0b\u0f45\u0f53",
   "comments": "",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [],
   "external_links": "https://purl.bdrc.io/resource/P8LS15352",
   "review": false,
   "start": "after 1040",

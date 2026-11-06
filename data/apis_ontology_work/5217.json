@@ -22,9 +22,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex076052026-11-0504-24-27",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -106,30 +106,38 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex076052026-11-0504-24-27",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
     }
   ],
-  "start_date_to": "1550-12-31",
-  "start_date_from": "1450-01-01",
-  "start_date_sort": "1500-07-02",
+  "start_date_to": "1482-12-31",
+  "start_date_from": "1421-01-01",
+  "start_date_sort": "1452-01-01",
   "tibetan_transliteration": "\u0f62\u0f92\u0fb1\u0f74\u0f51\u0f0b\u0f56\u0fb3\u0f0b\u0f58\u0f60\u0f72\u0f0b\u0f66\u0f0b\u0f56\u0f45\u0f51\u0f0b\u0f58\u0f5a\u0f74\u0f44\u0f66\u0f0b\u0f58\u0f7a\u0f51\u0f0b\u0f63\u0f7a\u0f42\u0f66\u0f0b\u0f56\u0f64\u0f51",
-  "comments": "Topical outline of the Ratnagotravibh\u0101ga (ID:3749), with lemmata in interlinear notes in instance (ID:5215).",
+  "comments": "Topical outline of the Ratnagotravibh\u0101ga (ID:3749), with lemmata in interlinear notes in instance (ID:5216), \"composed as a commentary\" ((ID:5216), 1b3-4: sa bcad sa ma Tig 'di 'grel bzhin brtsams).\r\nDate of composition: An iron ox (?) year, maybe 1421 or 1481.",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [
+    {
+      "label": "rgyud bla ma'i bsdus don gyi sa bcad sa ma Tig khyad 'phags mtshungs med legs bshad",
+      "language": "bo"
+    },
+    {
+      "label": "sa ma Tig",
+      "language": "bo"
+    }
+  ],
   "external_links": "",
   "review": true,
-  "start": "after 1450 before 1550",
+  "start": "after 1421 before 1482",
   "name": "rgyud bla ma'i sa bcad mtshungs med legs bshad",
   "sde_dge_ref": null,
   "original_language": "Tibetan",
   "isExtant": true,
   "subject_vocab": [
-    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/10/",
-    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/56/"
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/10/"
   ]
 }

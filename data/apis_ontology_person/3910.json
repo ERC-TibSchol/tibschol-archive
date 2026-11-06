@@ -30,6 +30,64 @@
       "end": null
     },
     {
+      "id": 8222,
+      "label": "dge 'dun 'od zer (3910) quotes with name pa tshab nyi ma grags (3868)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3910/",
+        "label": "dge 'dun 'od zer (3910)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3868/",
+        "label": "pa tshab nyi ma grags (3868)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex020022026-09-1511-35-44",
+      "support_notes": "Compares the translation by Pa tshab and Nag tsho to that of rNgog Blo ldan shes rab.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 8221,
+      "label": "dge 'dun 'od zer (3910) quotes with name rngog blo ldan shes rab (3786)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3910/",
+        "label": "dge 'dun 'od zer (3910)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3786/",
+        "label": "rngog blo ldan shes rab (3786)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex020022026-09-1511-35-44",
+      "support_notes": "Discusses the translation of rNgog, compared to that of Nag tsho and Pa tshab.",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 2023,
       "label": "dge 'dun 'od zer (3910) active at rwa stod bde ba can (5652)",
       "subj": {
@@ -81,9 +139,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex076052026-11-0504-24-27",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -125,7 +183,7 @@
   "start_date_from": "1400-01-01",
   "start_date_sort": "1450-07-02",
   "tibetan_transliteration": "\u0f51\u0f42\u0f7a\u0f0b\u0f60\u0f51\u0f74\u0f53\u0f0b\u0f60\u0f7c\u0f51\u0f0b\u0f5f\u0f7a\u0f62",
-  "comments": "",
+  "comments": "Author of two works on the Ratnagotravibh\u0101ga (ID:3749).",
   "alternative_names_legacy": "lha steng pa dge slong dge 'dun 'od zer",
   "alternative_names": [
     {
@@ -134,7 +192,7 @@
     }
   ],
   "external_links": "https://purl.bdrc.io/resource/P2GS1016",
-  "review": false,
+  "review": true,
   "start": "after 1400 before 1500",
   "end": "after 1519",
   "name": "dge 'dun 'od zer",

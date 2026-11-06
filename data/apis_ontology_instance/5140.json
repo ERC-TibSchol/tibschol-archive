@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5140/",
   "relations": [
     {
+      "id": 8225,
+      "label": "grub mtha' rgya mtsho'i rgyan (8621) has source grub mtha' rgya mtsho'i rgyan (5140)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8621/",
+        "label": "grub mtha' rgya mtsho'i rgyan (8621)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5140/",
+        "label": "grub mtha' rgya mtsho'i rgyan (5140)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1585,
       "label": "grub mtha' rgya mtsho'i rgyan (5141) has as an instance grub mtha' rgya mtsho'i rgyan (5140)",
       "subj": {

@@ -30,6 +30,34 @@
       "end": null
     },
     {
+      "id": 8217,
+      "label": "bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4676) has as an instance mngon rtogs rgyan gyi lus mdzes par byed pa legs bshad rin po che'i phra tshoms (8619)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4676/",
+        "label": "bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4676)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8619/",
+        "label": "mngon rtogs rgyan gyi lus mdzes par byed pa legs bshad rin po che'i phra tshoms (8619)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 691,
       "label": "bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4676) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
       "subj": {
@@ -58,6 +86,34 @@
       "end": null
     },
     {
+      "id": 8218,
+      "label": "kun dga' rgyal mtshan (8620) prompter of bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4676)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8620/",
+        "label": "kun dga' rgyal mtshan (8620)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4676/",
+        "label": "bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4676)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex29042023-09-112",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1972,
       "label": "bsod snyoms pa rin chen rgyal mtshan dpal bzang po (5781) author of bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa (4676)",
       "subj": {
@@ -80,7 +136,7 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "ex29042023-09-112",
-      "support_notes": "",
+      "support_notes": "The typeset edition of the work (ID:8619) identifies the author as the 14th-century sPos khang pa rin chen rgyal mtshan (bdr:P5951).",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -90,7 +146,7 @@
   "start_date_from": null,
   "start_date_sort": null,
   "tibetan_transliteration": "\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f56\u0f45\u0f7c\u0f66\u0f0b\u0f58\u0f44\u0f7c\u0f53\u0f0b\u0f54\u0f62\u0f0b\u0f62\u0f9f\u0f7c\u0f42\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f62\u0f92\u0fb1\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f63\u0f74\u0f66\u0f0b\u0f58\u0f5b\u0f7a\u0f66\u0f0b\u0f54\u0f62\u0f0b\u0f56\u0fb1\u0f7a\u0f51\u0f0b\u0f54",
-  "comments": "",
+  "comments": "Requested by an unidentified \"Kun dga' rgyal mtshan.\"\r\nYear of composition: shing pho rta'i lo \u00a6 ljon shing dang \u00a6 sa gzhi rnaMs lo 'dab dang \u00a6 rtswa ljang gi myu gu skyed pa'i dus. In a male wood horse year (1114, 1174, 1234, 1294, 1354, 1414).\r\n\r\nThe fact that a date and requester are mentioned in the colophon hints to the text post-dating the 13th century, but there is no confirmation from the text contents. The author does not refer to other Tibetan scholars.\r\n\r\nThe typeset edition of the work (ID:8619) identifies the author as the 14th-century sPos khang pa rin chen rgyal mtshan (bdr:P5951) (1348-1440), which would mean that the work was composed in 1414.",
   "alternative_names_legacy": "bsod snyoms pa rin chen rgyal mtshan gyis mdzad pa'i bstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byed pa\r\nbstan bcos mngon par rtogs pa'i rgyan gyi lus mdzes par byas pa legs bshad rin po che'i tshoms",
   "alternative_names": [
     {

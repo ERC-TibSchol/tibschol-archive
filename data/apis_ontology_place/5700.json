@@ -3,7 +3,7 @@
   "relations": [
     {
       "id": 3006,
-      "label": "'phags pa (5951) active at dpal ngam ring gi chos grwa chen po (5700)",
+      "label": "'phags pa (5951) active at ngam ring gi chos grwa chen po (5700)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5951/",
         "label": "'phags pa (5951)",
@@ -12,7 +12,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5700/",
-        "label": "dpal ngam ring gi chos grwa chen po (5700)",
+        "label": "ngam ring gi chos grwa chen po (5700)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -24,15 +24,17 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "",
+      "support_notes": "Composition of Grub mtha' rgya mtsho'i rgyan (ID:5141).",
       "confidence": "Positive",
       "start": null,
       "end": null,
-      "subject_of_teaching_vocab": []
+      "subject_of_teaching_vocab": [
+        14
+      ]
     },
     {
       "id": 2163,
-      "label": "grub mtha' rgya mtsho'i rgyan (5141) composed at dpal ngam ring gi chos grwa chen po (5700)",
+      "label": "grub mtha' rgya mtsho'i rgyan (5141) composed at ngam ring gi chos grwa chen po (5700)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5141/",
         "label": "grub mtha' rgya mtsho'i rgyan (5141)",
@@ -41,7 +43,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5700/",
-        "label": "dpal ngam ring gi chos grwa chen po (5700)",
+        "label": "ngam ring gi chos grwa chen po (5700)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -51,26 +53,35 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex65032023-09-261",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
     }
   ],
-  "start_date_to": null,
-  "start_date_from": null,
-  "start_date_sort": null,
-  "latitude": null,
-  "longitude": null,
+  "start_date_to": "1225-12-31",
+  "start_date_from": "1225-01-01",
+  "start_date_sort": "1225-07-02",
+  "latitude": 29.3,
+  "longitude": 87.233056,
   "feature_code": "",
-  "tibetan_transliteration": "\u0f51\u0f54\u0f63\u0f0b\u0f44\u0f58\u0f0b\u0f62\u0f72\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f42\u0fb2\u0fad\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f54\u0f7c",
-  "comments": "In gTsang stod, in the Lha rtse area.",
+  "tibetan_transliteration": "\u0f44\u0f58\u0f0b\u0f62\u0f72\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f46\u0f7c\u0f66\u0f0b\u0f42\u0fb2\u0fad\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f54\u0f7c",
+  "comments": "Coordinates from [JZP4CZRX], bdr:G247.\r\nConverted from Sa skya to dGe lugs in 1650 ([JZP4CZRX], bdr:G247, accessed 05.11.2026).",
   "alternative_names_legacy": "",
-  "alternative_names": [],
-  "external_links": "",
-  "review": false,
-  "label": "dpal ngam ring gi chos grwa chen po",
-  "start": null
+  "alternative_names": [
+    {
+      "label": "ngoms ring chos sde",
+      "language": "bo"
+    },
+    {
+      "label": "dpal ngam ring gi chos grwa chen po",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/G247\r\nhttps://sakyaresearch.org/places/499",
+  "review": true,
+  "label": "ngam ring gi chos grwa chen po",
+  "start": "1225"
 }
