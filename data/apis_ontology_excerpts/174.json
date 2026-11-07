@@ -1,10 +1,10 @@
 {
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.excerpts/174/",
   "xml_id": "ex22052024-10-1809-27-10",
-  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex22052024-10-1809-27-10\" status=\"unreviewed\" ana=\"corpusmd:colophon\"><rs type=\"work\" ana=\"corpusmd:named_reference\">rgyal yuM bsdus pa'i rnaM bshad</rs> ni|| <rs type=\"person\" ana=\"\">snga rabs</rs> gsung nyid sbyar ste|| de byung bsod naMs gang \u00d7 yin des|| <expan>seMs can</expan> <expan>thams cad</expan> bder gshegs kyi|| shes rab phun sum 'tshogs par shog|| ||<rs type=\"person\" ana=\"corpusmd:named_reference\">shag kya'i dge slong chos grags</rs> kyis <lb n=\"102a10\"/> bsdebs pa| <rs type=\"work\">rgyal ba'i yuM bsdus pa bryad stong pa'i rnaM par bshad pa</rs>|| \u00d7 rdzogs s+hyo || \u00d7 || \u00d7 ||</seg></TEI>",
+  "xml_content": "<TEI xmlns='http://www.tei-c.org/ns/1.0'><seg xmlns=\"http://www.tei-c.org/ns/1.0\" type=\"excerpt\" xml:id=\"ex22052024-10-1809-27-10\" status=\"reviewed\" ana=\"corpusmd:colophon\">\n               <milestone unit=\"section\" n=\"Colophon (102a9-102a10)\"/>\n          <lg><l><rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:4637\"><rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:3692\">rgyal yuM bsdus pa</rs>'i rnaM bshad</rs> ni ||</l> \n          <l>snga rabs gsung nyid sbyar ba ste ||</l> \n          <l>de byung bsod naMs gang \u00d7 yin des ||</l> \n          <l><expan>seMs can</expan> <expan>thams cad</expan> bder gshegs kyi ||</l> \n          <l>shes rab phun sum 'tshogs par shog ||</l></lg> ||\n          \n          <rs type=\"person\" ana=\"corpusmd:named_reference\">shag kya'i dge slong chos grags</rs> kyis <lb edRef=\"inst:4636\" n=\"102a10\"/> bsdebs pa | <rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:4637\"><rs type=\"work\" ana=\"corpusmd:named_reference\" ref=\"db:3692\">rgyal ba'i yuM bsdus pa brgyad stong pa</rs>'i rnaM par bshad pa</rs> || \u00d7 rdzogs s+h+yo || \u00d7 || \u00d7 ||</seg></TEI>",
   "source": "1_022_05_Chos grags_rgyal yum bsdus pa brgyad stong rnam par bshad pa.xml",
   "tibschol_refs": "1_022_05",
   "zotero_refs": "",
-  "status": "unreviewed",
-  "location": "102a9 - 102a10"
+  "status": "reviewed",
+  "location": "inst:4636: 102a9 - 102a10"
 }
