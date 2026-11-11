@@ -1,0 +1,67 @@
+{
+  "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8628/",
+  "relations": [
+    {
+      "id": 8247,
+      "label": "btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4540) has as an instance par phu ba blo gros seng ge'i btsun mo do ha'i bsdus don (8628)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4540/",
+        "label": "btsun mo'i do ha tshigs su bcad pa brgyad bcu pa'i bsdus don (4540)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8628/",
+        "label": "par phu ba blo gros seng ge'i btsun mo do ha'i bsdus don (8628)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": null,
+      "tei_refs": null,
+      "support_notes": null,
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    }
+  ],
+  "start_date_to": "2011-12-31",
+  "start_date_from": "2011-01-01",
+  "start_date_sort": "2011-07-02",
+  "tibetan_transliteration": "\u0f54\u0f62\u0f0b\u0f55\u0f74\u0f0b\u0f56\u0f0b\u0f56\u0fb3\u0f7c\u0f0b\u0f42\u0fb2\u0f7c\u0f66\u0f0b\u0f66\u0f7a\u0f44\u0f0b\u0f42\u0f7a\u0f60\u0f72\u0f0b\u0f56\u0f59\u0f74\u0f53\u0f0b\u0f58\u0f7c\u0f0b\u0f51\u0f7c\u0f0b\u0f67\u0f60\u0f72\u0f0b\u0f56\u0f66\u0fa1\u0f74\u0f66\u0f0b\u0f51\u0f7c\u0f53",
+  "comments": "",
+  "alternative_names_legacy": "btsun mo d+ho ha tshigs su bcad brgyad bcu pa'i bsdus don",
+  "alternative_names": [
+    {
+      "label": "do ha brgyad cu pa'i bsdus don dge slong blo gros seng ges sbyar ba (colophon)",
+      "language": "bo"
+    },
+    {
+      "label": "btsun mo do ha tshigs su bcad pa brgyad cu pa'i bsdus don (chapter title)",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/MW4CZ294914",
+  "review": false,
+  "start": "2011",
+  "name": "par phu ba blo gros seng ge'i btsun mo do ha'i bsdus don",
+  "set_num": null,
+  "volume": null,
+  "sb_text_number": "",
+  "pp_kdsb": null,
+  "num_folios": null,
+  "signature_letter": null,
+  "signature_number": null,
+  "drepung_number": null,
+  "provenance": "",
+  "zotero_ref": "E3V4SEC9",
+  "tibschol_ref": "",
+  "availability": "available",
+  "dimension": null,
+  "item_description": "Modern typeset edition."
+}

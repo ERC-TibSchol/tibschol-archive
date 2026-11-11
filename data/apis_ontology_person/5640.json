@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5640/",
   "relations": [
     {
+      "id": 8242,
+      "label": "saraha (5640) author of dohako\u1e63ag\u012bti (8624)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5640/",
+        "label": "saraha (5640)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8624/",
+        "label": "dohako\u1e63ag\u012bti (8624)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 4736,
       "label": "saraha (5640) author of rgyal po'i do ha (7027)",
       "subj": {
@@ -41,6 +69,34 @@
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7026/",
         "label": "btsun mo do ha (7026)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 8248,
+      "label": "saraha (5640) author of dohako\u1e63opade\u015bag\u012bti (8629)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/5640/",
+        "label": "saraha (5640)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8629/",
+        "label": "dohako\u1e63opade\u015bag\u012bti (8629)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -99,6 +155,10 @@
   "alternative_names": [
     {
       "label": "grub chen sa ra ha",
+      "language": "bo"
+    },
+    {
+      "label": "rnal 'byor gyi dbang phyug chen po dpal sa ra ha chen po",
       "language": "bo"
     }
   ],

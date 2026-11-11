@@ -2,6 +2,62 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/8398/",
   "relations": [
     {
+      "id": 8240,
+      "label": "btsun mo do ha'i 'grel bshad snying po rnam par nges pa (1) (5893) written at bon gra (8398)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5893/",
+        "label": "btsun mo do ha'i 'grel bshad snying po rnam par nges pa (1) (5893)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/8398/",
+        "label": "bon gra (8398)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex011112026-06-1002-06-53",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 8241,
+      "label": "dho ha mdzod kyi sgo dbye ba'i sgron ma lhan cig skyes pa'i snang ba (7304) written at bon gra (8398)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7304/",
+        "label": "dho ha mdzod kyi sgo dbye ba'i sgron ma lhan cig skyes pa'i snang ba (7304)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/8398/",
+        "label": "bon gra (8398)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex011112026-06-1002-06-53",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 7628,
       "label": "rgyal po do ha'i tshigs su bcad pa bzhi bcu pa'i 'grel bshad zla ba'i 'od zer (1) (4535) written at bon gra (8398)",
       "subj": {
