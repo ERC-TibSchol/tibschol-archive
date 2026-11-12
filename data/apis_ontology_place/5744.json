@@ -30,6 +30,35 @@
       "end": null
     },
     {
+      "id": 8256,
+      "label": "seng ge (6834) active at tshal yang dgon (5744)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6834/",
+        "label": "seng ge (6834)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5744/",
+        "label": "tshal yang dgon (5744)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex2702_2024-09-1114-42-583",
+      "support_notes": "\"seng ge\" could be the scribe of the first written copy rather than that of instance (ID:8630), as his name is mentioned along with the place of composition of the work (dpal sa skya'i chos gwa chen po), whereas another place of scribing (dpal ldan yang dgon) is given after the lineage.",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3904,
       "label": "'gro mgon gtsang pa rgya ras ye shes rdo rje (6747) active at tshal yang dgon (5744)",
       "subj": {
@@ -60,10 +89,10 @@
     },
     {
       "id": 2016,
-      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi rnam par bshad pa nges don rab gsal snang ba (1) (4660) written at tshal yang dgon (5744)",
+      "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi rnam bshad nges don rab gsal snang ba (6) (8630) written at tshal yang dgon (5744)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4660/",
-        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi rnam par bshad pa nges don rab gsal snang ba (1) (4660)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8630/",
+        "label": "theg pa chen po rgyud bla ma'i bstan bcos kyi rnam bshad nges don rab gsal snang ba (6) (8630)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },

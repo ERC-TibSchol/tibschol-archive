@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4659/",
   "relations": [
     {
+      "id": 8251,
+      "label": "sher phyin rnam bshad lam gyi rim pa snang ba (4659) commentary on abhisamay\u0101la\u1e43k\u0101ra (3706)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4659/",
+        "label": "sher phyin rnam bshad lam gyi rim pa snang ba (4659)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3706/",
+        "label": "abhisamay\u0101la\u1e43k\u0101ra (3706)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex2701_2024-09-1114-33-12",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 2017,
       "label": "sher phyin rnam bshad lam gyi rim pa snang ba (4659) composed at tshal gung thang (5658)",
       "subj": {
@@ -58,6 +86,34 @@
       "end": null
     },
     {
+      "id": 8252,
+      "label": "sher phyin rnam bshad lam gyi rim pa snang ba (4659) commentary on abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4659/",
+        "label": "sher phyin rnam bshad lam gyi rim pa snang ba (4659)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3711/",
+        "label": "abhisamay\u0101la\u1e43k\u0101rav\u1e5btti (3711)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex027012026-11-1111-08-55\r\nex2701_2024-09-1114-33-12",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 679,
       "label": "ldum bu ba bsod nams dpal (3927) author of sher phyin rnam bshad lam gyi rim pa snang ba (4659)",
       "subj": {
@@ -90,7 +146,7 @@
   "start_date_from": "1160-01-01",
   "start_date_sort": "1160-01-01",
   "tibetan_transliteration": "\u0f64\u0f7a\u0f62\u0f0b\u0f55\u0fb1\u0f72\u0f53\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f56\u0f64\u0f51\u0f0b\u0f63\u0f58\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f62\u0f72\u0f58\u0f0b\u0f54\u0f0b\u0f66\u0fa3\u0f44\u0f0b\u0f56",
-  "comments": "",
+  "comments": "Commentary on the Abhisamay\u0101la\u1e43k\u0101ra (ID:3706) together with its commentary (ID:3711).",
   "alternative_names_legacy": "shes phyin gyi rnam bshad lam gyi rim pa snang ba",
   "alternative_names": [
     {

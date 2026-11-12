@@ -52,8 +52,8 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "ex23022023-09-112",
-      "support_notes": "",
-      "confidence": "Positive",
+      "support_notes": "Or rather: scribe of the original version of the work.",
+      "confidence": "Uncertain",
       "start": null,
       "end": null
     }
@@ -62,15 +62,23 @@
   "start_date_from": null,
   "start_date_sort": null,
   "tibetan_transliteration": "\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f61\u0f74\u0f58\u0f0b\u0f61\u0f7c\u0f53\u0f0b\u0f4f\u0f53\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f54\u0f7c\u0f0b\u0f46\u0f7a\u0f0b\u0f66\u0fa1\u0f74\u0f51\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f4f\u0f72\u0f0b\u0f40",
-  "comments": "The [8H6M69W4] has the single entry No. 18521, 34 folios, for the commentary (ID:5848) and the topical outline (ID:4640)",
+  "comments": "The [8H6M69W4] has the single entry No. 18521, 34 folios, for the commentary (ID:5848) and the topical outline (ID:4640). These to appear on the same manuscript with continuous folio numbering.",
   "alternative_names_legacy": "mdo bsdud pa'i Tik+ka (cover page)\r\nrgyal ba'i yum sdud pa'i don gsal ba'i ti ka (colophon)",
   "alternative_names": [
     {
-      "label": "mdo bsdud pa'i Tik+ka (cover page)",
+      "label": "mdo bsdud pa'i Ti ka (cover page)",
       "language": "bo"
     },
     {
       "label": "rgyal ba'i yum sdud pa'i don gsal ba'i ti ka (colophon)",
+      "language": "bo"
+    },
+    {
+      "label": "sdud pa'i ti ka gsal ba'i sgron ma (incipit)",
+      "language": "bo"
+    },
+    {
+      "label": "mdo bsdud pa'i Tik+ka (catalogue)",
       "language": "bo"
     }
   ],
@@ -82,7 +90,7 @@
   "volume": "23",
   "sb_text_number": "2",
   "pp_kdsb": "389-444",
-  "num_folios": "34",
+  "num_folios": "28",
   "signature_letter": "la",
   "signature_number": "253",
   "drepung_number": "18521",
@@ -91,5 +99,5 @@
   "tibschol_ref": "1_023_02",
   "availability": "available",
   "dimension": "66 x 10",
-  "item_description": "Script: 'bru tsha.\r\nThe lemmata cited in the main text are written in dbu can. The closing verse and colophon are in dbu can, mixed in the last line with dbu med."
+  "item_description": "Script: 'bru tsha.\r\nLines per folio: 11.\r\nMany annotations.\r\nTitle on the cover page handwritten in dbu can.\r\n The closing verse and colophon are in dbu can, mixed in the last line with dbu med. Some portions of the main text are also in dbu can, see for example fol. 4b9, 4b10, 5a9, etc. - these all seem to be citations from the base text.\r\nMany annotations in dbu med.\r\nOccurrence of reverse i. Use of bindu for m."
 }
