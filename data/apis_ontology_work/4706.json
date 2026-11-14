@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4706/",
   "relations": [
     {
+      "id": 8260,
+      "label": "rtsa ba'i lung so sor thar pa'i TIk+ka legs par bkod pa (4706) commentary on pr\u0101timok\u1e63as\u016btra (3690)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4706/",
+        "label": "rtsa ba'i lung so sor thar pa'i TIk+ka legs par bkod pa (4706)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/3690/",
+        "label": "pr\u0101timok\u1e63as\u016btra (3690)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex034052026-11-1305-15-14",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1390,
       "label": "rtsa ba'i lung so sor thar pa'i TIk+ka legs par bkod pa (4706) has as an instance rtsa ba'i lung so sor thar pa'i TIk+ka legs par bkod pa (4705)",
       "subj": {
@@ -50,9 +78,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex034052026-11-1301-32-50\r\nex034052026-11-1305-28-35\r\nex034052026-11-1305-19-46",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -64,7 +92,16 @@
   "tibetan_transliteration": "\u0f62\u0fa9\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f63\u0f74\u0f44\u0f0b\u0f66\u0f7c\u0f0b\u0f66\u0f7c\u0f62\u0f0b\u0f50\u0f62\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f4a\u0f71\u0f72\u0f40\u0f90\u0f0b\u0f63\u0f7a\u0f42\u0f66\u0f0b\u0f54\u0f62\u0f0b\u0f56\u0f40\u0f7c\u0f51\u0f0b\u0f54",
   "comments": "",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [
+    {
+      "label": "rtsa ba'i lung so sor thar pa'i ti ka legs par bkod pa",
+      "language": "bo"
+    },
+    {
+      "label": "rgyal ba'i bka' lung so sor thar pa'i ti ka legs bshad",
+      "language": "bo"
+    }
+  ],
   "external_links": "",
   "review": true,
   "start": "after 1140 before 1220",
