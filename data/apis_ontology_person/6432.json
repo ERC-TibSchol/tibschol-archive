@@ -2,8 +2,37 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6432/",
   "relations": [
     {
+      "id": 8270,
+      "label": "gzus rdo rje rgyal mtshan (6432) student of klu mes shes rab tshul khrims (7964)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6432/",
+        "label": "gzus rdo rje rgyal mtshan (6432)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7964/",
+        "label": "klu mes shes rab tshul khrims (7964)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P2919 (accessed 16.11.2026).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 3095,
-      "label": "spo chung ba tshul khrims shes rab (6152) student of gzus (6432)",
+      "label": "spo chung ba tshul khrims shes rab (6152) student of gzus rdo rje rgyal mtshan (6432)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6152/",
         "label": "spo chung ba tshul khrims shes rab (6152)",
@@ -12,7 +41,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6432/",
-        "label": "gzus (6432)",
+        "label": "gzus rdo rje rgyal mtshan (6432)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -24,6 +53,95 @@
       "start_date_sort": null,
       "zotero_refs": "[BAQ9MH4T]: 194.",
       "tei_refs": "",
+      "support_notes": "Uncertain whether \"gzus\" is gZus rdo rje rgyal mtshan (ID:6432).",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 8269,
+      "label": "Anonymous (21) (6822) quotes with name gzus rdo rje rgyal mtshan (6432)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6822/",
+        "label": "Anonymous (21) (6822)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6432/",
+        "label": "gzus rdo rje rgyal mtshan (6432)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex034062026-11-1603-53-08",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
+    },
+    {
+      "id": 8272,
+      "label": "sne bo grags pa rgyal mtshan (8636) student of gzus rdo rje rgyal mtshan (6432)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/8636/",
+        "label": "sne bo grags pa rgyal mtshan (8636)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6432/",
+        "label": "gzus rdo rje rgyal mtshan (6432)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P2919 (accessed 16.11.2026).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 8271,
+      "label": "sog tshul khrims bla ma (3940) student of gzus rdo rje rgyal mtshan (6432)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3940/",
+        "label": "sog tshul khrims bla ma (3940)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6432/",
+        "label": "gzus rdo rje rgyal mtshan (6432)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P2919 (accessed 16.11.2026).",
+      "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -32,20 +150,29 @@
     }
   ],
   "end_date_to": null,
-  "end_date_from": null,
-  "end_date_sort": null,
-  "start_date_to": null,
+  "end_date_from": "1065-01-01",
+  "end_date_sort": "1065-01-01",
+  "start_date_to": "1116-12-31",
   "start_date_from": null,
-  "start_date_sort": null,
-  "tibetan_transliteration": "\u0f42\u0f5f\u0f74\u0f66",
-  "comments": "Possibly gZus rDo rje rgyal mtshan, a disciple of Gru mer mentioned in [R894SIKE]: 106.",
+  "start_date_sort": "1116-12-31",
+  "tibetan_transliteration": "\u0f42\u0f5f\u0f74\u0f66\u0f0b\u0f62\u0fa1\u0f7c\u0f0b\u0f62\u0f97\u0f7a\u0f0b\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f58\u0f5a\u0f53",
+  "comments": "A disciple of Klu mes (/Gru mer) mentioned in [R894SIKE]: 106.",
   "alternative_names_legacy": "",
-  "alternative_names": null,
-  "external_links": "",
+  "alternative_names": [
+    {
+      "label": "gzus",
+      "language": "bo"
+    },
+    {
+      "label": "yar lung pa gzus rdo rje rgyal mtshan",
+      "language": "bo"
+    }
+  ],
+  "external_links": "https://purl.bdrc.io/resource/P2919",
   "review": false,
-  "start": null,
-  "end": null,
-  "name": "gzus",
+  "start": "before 1116",
+  "end": "after 1065",
+  "name": "gzus rdo rje rgyal mtshan",
   "gender": "male",
   "nationality": "Tibetan"
 }

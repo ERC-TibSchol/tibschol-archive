@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7386/",
   "relations": [
     {
+      "id": 8261,
+      "label": "'dul ba'i bslab pa spyir bstan rnam bshad (4708) commentary on pratimok\u1e63a\u00ads\u016btra\u00ad\u1e6d\u012bk\u0101\u00advinaya\u00adsamuccaya (7386)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4708/",
+        "label": "'dul ba'i bslab pa spyir bstan rnam bshad (4708)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7386/",
+        "label": "pratimok\u1e63a\u00ads\u016btra\u00ad\u1e6d\u012bk\u0101\u00advinaya\u00adsamuccaya (7386)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "The lemmata are from (ID:7386), starting with \"rdzas bkag pa bas\" (D4106, 129b4).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5812,
       "label": "'dul ba kun las btus pa sdom gsum gyi rgyan ces bya ba'i bstan chos kyi sa bcad (6396) commentary on pratimok\u1e63a\u00ads\u016btra\u00ad\u1e6d\u012bk\u0101\u00advinaya\u00adsamuccaya (7386)",
       "subj": {
@@ -70,7 +98,7 @@
       "language": "bo"
     }
   ],
-  "external_links": "http://purl.rkts.eu/resource/WTT3444",
+  "external_links": "https://www.rkts.org/rkts1/pages/detail.html?id=T3444",
   "review": true,
   "start": null,
   "name": "pratimok\u1e63a\u00ads\u016btra\u00ad\u1e6d\u012bk\u0101\u00advinaya\u00adsamuccaya",

@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4710/",
   "relations": [
     {
+      "id": 8282,
+      "label": "yang dag pa'i dge ba'i bshes gnyen gyi zhal gyi gdams pa lam mchog rin po che (4710) has as an instance yang dag pa'i dge ba'i bshes gnyen gyi zhal gdams lam mchog rin po che (8639)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4710/",
+        "label": "yang dag pa'i dge ba'i bshes gnyen gyi zhal gyi gdams pa lam mchog rin po che (4710)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8639/",
+        "label": "yang dag pa'i dge ba'i bshes gnyen gyi zhal gdams lam mchog rin po che (8639)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1392,
       "label": "yang dag pa'i dge ba'i bshes gnyen gyi zhal gyi gdams pa lam mchog rin po che (4710) has as an instance yang dag pa'i dge ba'i bshes gnyen gyi zhal gyi gdams pa lam mchog rin po che (4709)",
       "subj": {
@@ -30,6 +58,34 @@
       "end": null
     },
     {
+      "id": 8281,
+      "label": "yang dag pa'i dge ba'i bshes gnyen gyi zhal gyi gdams pa lam mchog rin po che (4710) has as an instance yang dag dge ba'i bshes gnyen gyi gdams pa lam mchog rin po che (8638)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4710/",
+        "label": "yang dag pa'i dge ba'i bshes gnyen gyi zhal gyi gdams pa lam mchog rin po che (4710)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/8638/",
+        "label": "yang dag dge ba'i bshes gnyen gyi gdams pa lam mchog rin po che (8638)",
+        "content_type_key": "apis_ontology.instance",
+        "content_type_name": "instance"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Uncertain",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 709,
       "label": "gro ston bdud rtsi grags (3880) author of yang dag pa'i dge ba'i bshes gnyen gyi zhal gyi gdams pa lam mchog rin po che (4710)",
       "subj": {
@@ -50,9 +106,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "Author reported for No. 19090 in [8H6M69W4]: dge slong bdud rtsi grags.",
+      "tei_refs": "ex035012026-11-1604-40-05",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -62,9 +118,14 @@
   "start_date_from": "1163-01-01",
   "start_date_sort": "1197-12-31",
   "tibetan_transliteration": "\u0f61\u0f44\u0f0b\u0f51\u0f42\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f51\u0f42\u0f7a\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f56\u0f64\u0f7a\u0f66\u0f0b\u0f42\u0f49\u0f7a\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f5e\u0f63\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f42\u0f51\u0f58\u0f66\u0f0b\u0f54\u0f0b\u0f63\u0f58\u0f0b\u0f58\u0f46\u0f7c\u0f42\u0f0b\u0f62\u0f72\u0f53\u0f0b\u0f54\u0f7c\u0f0b\u0f46\u0f7a",
-  "comments": "",
+  "comments": "Versified compilation of instructions by various bla ma-s from the lineage of Ati\u015ba (ID:3745).",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [
+    {
+      "label": "yang dag pa'i dge ba'i bshes gnyen gyi zhal gyi gdams pa thor bu",
+      "language": "bo"
+    }
+  ],
   "external_links": "",
   "review": true,
   "start": "after 1163 before 1232",

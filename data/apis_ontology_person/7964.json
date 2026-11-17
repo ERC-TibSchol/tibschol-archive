@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7964/",
   "relations": [
     {
+      "id": 8270,
+      "label": "gzus rdo rje rgyal mtshan (6432) student of klu mes shes rab tshul khrims (7964)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6432/",
+        "label": "gzus rdo rje rgyal mtshan (6432)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/7964/",
+        "label": "klu mes shes rab tshul khrims (7964)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P2919 (accessed 16.11.2026).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 6976,
       "label": "Anonymous (7) (6802) quotes with name klu mes shes rab tshul khrims (7964)",
       "subj": {

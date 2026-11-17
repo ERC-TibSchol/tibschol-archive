@@ -1452,35 +1452,6 @@
       "subject_of_teaching_vocab": []
     },
     {
-      "id": 4184,
-      "label": "dbon rab (6822) student of bya 'dul 'dzin brtson 'grus 'bar (3818)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6822/",
-        "label": "dbon rab (6822)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
-        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": "[8H6M69W4], No. 16196: byang 'dul 'dzin gyi slob ma dbon rab (we take \"byang\" to be a typo for \"bya\")",
-      "tei_refs": "",
-      "support_notes": "",
-      "confidence": "Uncertain",
-      "start": null,
-      "end": null,
-      "subject_of_teaching_vocab": []
-    },
-    {
       "id": 4200,
       "label": "rgwa lo tsa ba gzhon nu dpal (6486) student of bya 'dul 'dzin brtson 'grus 'bar (3818)",
       "subj": {
@@ -1815,6 +1786,37 @@
       "zotero_refs": "",
       "tei_refs": "ex35052024-12-0614-36-49",
       "support_notes": "\"brtson 'grus 'bar\" is referred to as a person whose teaching brTson 'grus grags conforms to in work (ID:4718).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
+    },
+    {
+      "id": 8277,
+      "label": "Anonymous (21) (6822) quotes with name bya 'dul 'dzin brtson 'grus 'bar (3818)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6822/",
+        "label": "Anonymous (21) (6822)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3818/",
+        "label": "bya 'dul 'dzin brtson 'grus 'bar (3818)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex034062026-11-1603-54-22\r\nex034062026-11-1603-54-23\r\nex034062026-11-1603-54-24\r\nex034062026-11-1603-54-25\r\nex034062026-11-1603-54-26\r\nex034062026-11-1603-54-28\r\nex034062026-11-1603-54-29\r\nex034062026-11-1603-54-30\r\nex034062026-11-1603-54-31\r\nex034062026-11-1603-54-32\r\nex034062026-11-1603-54-33",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null,

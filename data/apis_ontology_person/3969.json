@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3969/",
   "relations": [
     {
+      "id": 8265,
+      "label": "rog chos kyi dbang phyug (3969) author of dam pa'i chos kyi byung tshul ston par byed pa (8634)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3969/",
+        "label": "rog chos kyi dbang phyug (3969)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8634/",
+        "label": "dam pa'i chos kyi byung tshul ston par byed pa (8634)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No. 16192: dge slong chos kyi dbang phyug.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 213,
       "label": "rog chos kyi dbang phyug (3969) student of rtsis pa mkhan po gzhon nu seng ge (3946)",
       "subj": {
@@ -53,7 +81,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "Author according to [8H6M69W4], No. 16197: dge slong chos kyi dbang phyug.",
       "tei_refs": "ex034042026-11-1311-12-03",
       "support_notes": "",
       "confidence": "Positive",
@@ -141,7 +169,7 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": "",
+      "zotero_refs": "Author according to [8H6M69W4], No. 16198: dge slong chos kyi dbang phyug.",
       "tei_refs": "ex034052026-11-1301-32-50\r\nex034052026-11-1305-28-35\r\nex034052026-11-1305-19-46",
       "support_notes": "",
       "confidence": "Positive",
@@ -176,6 +204,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 8262,
+      "label": "rog chos kyi dbang phyug (3969) author of dge tshul gyi tshig le'ur byas pa ka ri ka lnga bcu pa'i Tik+ka (8632)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3969/",
+        "label": "rog chos kyi dbang phyug (3969)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8632/",
+        "label": "dge tshul gyi tshig le'ur byas pa ka ri ka lnga bcu pa'i Tik+ka (8632)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "Author according to [8H6M69W4], No. 16195: bya 'dul 'dzin gyi slob ma shAkya'i dge slong chos kyi dbang phyug.",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 3845,

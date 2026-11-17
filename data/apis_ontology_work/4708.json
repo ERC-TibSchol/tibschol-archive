@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4708/",
   "relations": [
     {
+      "id": 8261,
+      "label": "'dul ba'i bslab pa spyir bstan rnam bshad (4708) commentary on pratimok\u1e63a\u00ads\u016btra\u00ad\u1e6d\u012bk\u0101\u00advinaya\u00adsamuccaya (7386)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4708/",
+        "label": "'dul ba'i bslab pa spyir bstan rnam bshad (4708)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7386/",
+        "label": "pratimok\u1e63a\u00ads\u016btra\u00ad\u1e6d\u012bk\u0101\u00advinaya\u00adsamuccaya (7386)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "The lemmata are from (ID:7386), starting with \"rdzas bkag pa bas\" (D4106, 129b4).",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 1391,
       "label": "'dul ba'i bslab pa spyir bstan rnam bshad (4708) has as an instance 'dul ba'i bslab pa spyir bstan rnam bshad (4707)",
       "subj": {
@@ -31,10 +59,10 @@
     },
     {
       "id": 4183,
-      "label": "dbon rab (6822) author of 'dul ba'i bslab pa spyir bstan rnam bshad (4708)",
+      "label": "Anonymous (21) (6822) author of 'dul ba'i bslab pa spyir bstan rnam bshad (4708)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6822/",
-        "label": "dbon rab (6822)",
+        "label": "Anonymous (21) (6822)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -53,7 +81,7 @@
       "zotero_refs": "Author according to [8H6M69W4], No. 16196: byang 'dul 'dzin gyi slob ma dbon rab (we take \"byang\" to be a typo for \"bya\")",
       "tei_refs": "",
       "support_notes": "",
-      "confidence": "Positive",
+      "confidence": "Uncertain",
       "start": null,
       "end": null
     }
@@ -62,7 +90,7 @@
   "start_date_from": "1100-01-01",
   "start_date_sort": "1127-07-02",
   "tibetan_transliteration": "\u0f60\u0f51\u0f74\u0f63\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f56\u0f66\u0fb3\u0f56\u0f0b\u0f54\u0f0b\u0f66\u0fa4\u0fb1\u0f72\u0f62\u0f0b\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f56\u0f64\u0f51",
-  "comments": "",
+  "comments": "Based on the lemmata, this is a commentary on the Pratimok\u1e63a\u00ads\u016btra\u00ad\u1e6d\u012bk\u0101\u00advinaya\u00adsamuccaya (ID:7386), which addresses the portion corresponding to D4106, 129b4 to 142a6.\r\nThe text does not have a colophon.\r\n\r\nThe author makes numerous references (in the form \"... na re\" to the views of \"rgya\" (presumably rGya 'dul 'dzin (ID:3941)), which he refutes. Also cited are Sog (ID:3940), Khyung rin chen grags (ID:3809), gZus rdo rje rgyal mtshan (ID:6432) and the yet unidentified rKyang 'dul gar ston (ID:8637).\r\nTen references in the form \"bya'i zhal nas\" (for views that are not criticized) presumably refer to Bya 'dul 'dzin brtson 'grus 'bar (ID:3818). Also cited in this form is rMa tsho (ID:3942), Bya 'dul 'dzin's teacher, and \"rtsis pa,\" presumably Bya 'dul's student gZhon nu seng ge (ID:3946), \"rong pa\" (maybe Bya 'dul's student gTsang rong pa lCe 'dul 'dzin (ID:3947)), and an anonymous \"mkhan po chen po.\"\r\n\r\nThe author can thus be situated in the lineage of Bya 'dul, probably among his second- or third-generation students.",
   "alternative_names_legacy": "'dul ba\u02bci bslab pa spyir bstan gyi rnam bshad",
   "alternative_names": [
     {

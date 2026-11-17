@@ -2,6 +2,35 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3940/",
   "relations": [
     {
+      "id": 8271,
+      "label": "sog tshul khrims bla ma (3940) student of gzus rdo rje rgyal mtshan (6432)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3940/",
+        "label": "sog tshul khrims bla ma (3940)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6432/",
+        "label": "gzus rdo rje rgyal mtshan (6432)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "[JZP4CZRX], bdr:P2919 (accessed 16.11.2026).",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": []
+    },
+    {
       "id": 178,
       "label": "bya 'dul 'dzin brtson 'grus 'bar (3818) student of sog tshul khrims bla ma (3940)",
       "subj": {
@@ -24,6 +53,37 @@
       "start_date_sort": null,
       "zotero_refs": "[R894SIKE]: 109 (bya 'dul 'dzin ... sog la 'dul ba gsan). Subject: Monastic rules.\r\n[W4T5ZMUP]: 40. Subject: monastic rules.",
       "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
+    },
+    {
+      "id": 8275,
+      "label": "Anonymous (21) (6822) quotes with name sog tshul khrims bla ma (3940)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6822/",
+        "label": "Anonymous (21) (6822)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3940/",
+        "label": "sog tshul khrims bla ma (3940)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex034062026-11-1603-54-16",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
