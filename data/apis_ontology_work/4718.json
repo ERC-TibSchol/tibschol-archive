@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4718/",
   "relations": [
     {
+      "id": 8284,
+      "label": "'dul ba'i spyi don gyi rnam bshad (4718) commentary on Ti ka shes rab sgron ma (8640)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4718/",
+        "label": "'dul ba'i spyi don gyi rnam bshad (4718)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8640/",
+        "label": "Ti ka shes rab sgron ma (8640)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex35052024-12-0614-36-49",
+      "support_notes": "Notes on the \"spyir bstan pa'i ti ka shes rab sgron ma.\"",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5476,
       "label": "'dul ba'i spyi don gyi rnam bshad (4718) has as an instance spyi don (7246)",
       "subj": {
@@ -78,9 +106,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "Author reported for instance (ID:4717) in [8H6M69W4], No. 16252: shAkya'i dge slong brtson 'grus grags kyis sbyar ba.",
+      "tei_refs": "ex35052024-12-0614-36-49",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -90,9 +118,9 @@
   "start_date_from": "1110-01-01",
   "start_date_sort": "1110-01-01",
   "tibetan_transliteration": "\u0f60\u0f51\u0f74\u0f63\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f51\u0f7c\u0f53\u0f0b\u0f42\u0fb1\u0f72\u0f0b\u0f62\u0fa3\u0f58\u0f0b\u0f56\u0f64\u0f51",
-  "comments": "",
+  "comments": "At the beginning of the text, the lemmata can be traced to the Vinayas\u016btra (ID:6821), starting with \"dgag bya ji lta ba bzhin\" (= D4117, 66b dgag dbye ji lta ba bzhin). The text finishes with the end of a section entitled \"tshig gi don.\"",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [],
   "external_links": "",
   "review": true,
   "start": "after 1110",

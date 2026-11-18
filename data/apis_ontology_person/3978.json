@@ -2,6 +2,37 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3978/",
   "relations": [
     {
+      "id": 8290,
+      "label": "brtson 'grus grags (3978) quotes with name sog tshul khrims bla ma (3940)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3978/",
+        "label": "brtson 'grus grags (3978)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3940/",
+        "label": "sog tshul khrims bla ma (3940)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex035052026-11-1703-47-45",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
+    },
+    {
       "id": 4712,
       "label": "brtson 'grus grags (3978) quotes with name phywa pa chos kyi seng ge (3831)",
       "subj": {
@@ -53,12 +84,105 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "Author reported for instance (ID:4717) in [8H6M69W4], No. 16252: shAkya'i dge slong brtson 'grus grags kyis sbyar ba.",
+      "tei_refs": "ex35052024-12-0614-36-49",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
+    },
+    {
+      "id": 8287,
+      "label": "brtson 'grus grags (3978) quotes with name rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3978/",
+        "label": "brtson 'grus grags (3978)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3941/",
+        "label": "rgya 'dul 'dzin dbang phyug tshul khrims (3941)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex035052026-11-1703-14-38\r\nex035052026-11-1703-14-39",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
+    },
+    {
+      "id": 8288,
+      "label": "brtson 'grus grags (3978) quotes with name phywa pa chos kyi seng ge (3831)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3978/",
+        "label": "brtson 'grus grags (3978)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3831/",
+        "label": "phywa pa chos kyi seng ge (3831)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex035052026-11-1703-14-40\r\nex035052026-11-1703-14-42",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
+    },
+    {
+      "id": 8289,
+      "label": "brtson 'grus grags (3978) quotes with name 'ban dkon mchog rdo rje (4243)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3978/",
+        "label": "brtson 'grus grags (3978)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4243/",
+        "label": "'ban dkon mchog rdo rje (4243)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex035052026-11-1703-14-41",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null,
+      "subject_of_teaching_vocab": [
+        8
+      ]
     },
     {
       "id": 4711,
@@ -113,7 +237,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "Author reported for instance (ID:4715) in [8H6M69W4], No. 19367: shAkya'i dge slong brtson 'grus grags.",
-      "tei_refs": "",
+      "tei_refs": "ex354-2024-10-03-14-52",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
@@ -189,7 +313,7 @@
   "start_date_from": "1100-01-01",
   "start_date_sort": "1100-01-01",
   "tibetan_transliteration": "\u0f56\u0f62\u0fa9\u0f7c\u0f53\u0f0b\u0f60\u0f42\u0fb2\u0f74\u0f66\u0f0b\u0f42\u0fb2\u0f42\u0f66",
-  "comments": "",
+  "comments": "Scholar on monastic discipline in the lineage of Bya 'dul 'dzin (ID:3818), chos kyi seng ge (ID:3831), gZhon nu seng ge (ID:3946) and Dharma Singha (ID:6566).",
   "alternative_names_legacy": "dge slong brtson 'grus grags\r\nshAkya'i dge slong brtson 'grus grags",
   "alternative_names": [
     {
