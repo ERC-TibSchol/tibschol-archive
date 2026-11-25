@@ -24,11 +24,12 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "Composition of work (ID:5487).",
+      "support_notes": "Composition of work (ID:5487).\r\nComposition of work (ID:5491).",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
+        17,
         7
       ]
     },
@@ -89,6 +90,34 @@
       "end": null
     },
     {
+      "id": 8291,
+      "label": "dam pa'i chos mngon pa kun las btus pa'i rnam par bshad pa shes bya rab gsal snang ba (5491) composed at dge ldan sa bzangs (5736)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5491/",
+        "label": "dam pa'i chos mngon pa kun las btus pa'i rnam par bshad pa shes bya rab gsal snang ba (5491)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5736/",
+        "label": "dge ldan sa bzangs (5736)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex117012026-11-2412-58-17",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5834,
       "label": "karma dkon mchog gzhon nu (6583) active at dge ldan sa bzangs (5736)",
       "subj": {
@@ -125,7 +154,7 @@
   "longitude": null,
   "feature_code": "",
   "tibetan_transliteration": "\u0f51\u0f42\u0f7a\u0f0b\u0f63\u0fa1\u0f53\u0f0b\u0f66\u0f0b\u0f56\u0f5f\u0f44\u0f66",
-  "comments": "In the vicinity of Sa skya (ID:5733), to the north-west of the monastery (see  [MZSZAXFZ]: 190-193).",
+  "comments": "In the vicinity of Sa skya (ID:5733), to the north-west of the monastery (see  [MZSZAXFZ]: 190-193).\r\nPossibly the same place as \"bzang ldan yang dgon byams pa'i gling\" (place of composition of (ID:8643)).",
   "alternative_names_legacy": "dga' ldan sa bzangs\r\nsa bzang",
   "alternative_names": [
     {

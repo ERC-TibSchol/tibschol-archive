@@ -1615,9 +1615,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex048052026-11-2405-29-47",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -1876,34 +1876,6 @@
       "tei_refs": "ex610320230926090053",
       "support_notes": "",
       "confidence": "Uncertain",
-      "start": null,
-      "end": null
-    },
-    {
-      "id": 757,
-      "label": "mchims nam mkha' grags (3977) author of skyes bu gsum gyi lam legs pa (4797)",
-      "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
-        "label": "mchims nam mkha' grags (3977)",
-        "content_type_key": "apis_ontology.person",
-        "content_type_name": "person"
-      },
-      "obj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4797/",
-        "label": "skyes bu gsum gyi lam legs pa (4797)",
-        "content_type_key": "apis_ontology.work",
-        "content_type_name": "work"
-      },
-      "end_date_to": null,
-      "end_date_from": null,
-      "end_date_sort": null,
-      "start_date_to": null,
-      "start_date_from": null,
-      "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
-      "confidence": "Positive",
       "start": null,
       "end": null
     },
@@ -2258,6 +2230,34 @@
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": []
+    },
+    {
+      "id": 8296,
+      "label": "skyes bu gsum gyi lam legs pa (4797) records the teaching of mchims nam mkha' grags (3977)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4797/",
+        "label": "skyes bu gsum gyi lam legs pa (4797)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
+        "label": "mchims nam mkha' grags (3977)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "Anotations to \"bla ma'i gsung bzhin\" on the last folio: dge slong nam mkha' grags gyis",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
     },
     {
       "id": 6992,

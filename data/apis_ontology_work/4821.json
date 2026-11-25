@@ -2,6 +2,34 @@
   "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4821/",
   "relations": [
     {
+      "id": 8298,
+      "label": "gzhi lam 'bras bu gsal bar byed pa rin po che gser phreng (4821) composed at snar thang (4411)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4821/",
+        "label": "gzhi lam 'bras bu gsal bar byed pa rin po che gser phreng (4821)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/4411/",
+        "label": "snar thang (4411)",
+        "content_type_key": "apis_ontology.place",
+        "content_type_name": "place"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex048052026-11-2405-29-47",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 5482,
       "label": "gzhi lam 'bras bu gsal bar byed pa rin po che gser phreng (4821) has as an instance gzhi lam \u02bcbras bu gsal bar byed pa rin po che gser phreng ba (7252)",
       "subj": {
@@ -78,9 +106,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex048052026-11-2405-29-47",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null

@@ -53,11 +53,12 @@
       "start_date_sort": null,
       "zotero_refs": "",
       "tei_refs": "",
-      "support_notes": "Composition of work (ID:5487).",
+      "support_notes": "Composition of work (ID:5487).\r\nComposition of work (ID:5491).",
       "confidence": "Positive",
       "start": null,
       "end": null,
       "subject_of_teaching_vocab": [
+        17,
         7
       ]
     },
@@ -181,7 +182,7 @@
     },
     {
       "id": 1176,
-      "label": "sa bzang ma ti paN chen blo gros rgyal mtshan (4128) author of dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5491)",
+      "label": "sa bzang ma ti paN chen blo gros rgyal mtshan (4128) author of dam pa'i chos mngon pa kun las btus pa'i rnam par bshad pa shes bya rab gsal snang ba (5491)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4128/",
         "label": "sa bzang ma ti paN chen blo gros rgyal mtshan (4128)",
@@ -190,7 +191,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5491/",
-        "label": "dam pa'i chos mngon pa kun las btus pa'i 'grel pa shes bya rab gsal snang ba (5491)",
+        "label": "dam pa'i chos mngon pa kun las btus pa'i rnam par bshad pa shes bya rab gsal snang ba (5491)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -201,6 +202,34 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "[5RXEUKD9]: 528, No. 11482.",
+      "tei_refs": "ex117012026-11-2412-58-17",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 8295,
+      "label": "sa bzang ma ti paN chen blo gros rgyal mtshan (4128) author of dam pa'i chos mngon pa kun las btus pa'i rnam par bshad pa gzhung don rab gsal snang ba (8643)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4128/",
+        "label": "sa bzang ma ti paN chen blo gros rgyal mtshan (4128)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8643/",
+        "label": "dam pa'i chos mngon pa kun las btus pa'i rnam par bshad pa gzhung don rab gsal snang ba (8643)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -257,6 +286,34 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "Author reported for instance (ID:5486) in [8H6M69W4], No. 15981: bod kyi paNTi ta ma ti dhA dza shrI bha tras.\r\n[5RXEUKD9]: 528, No. 11481.",
+      "tei_refs": "ex115012026-09-1001-19-47",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 8292,
+      "label": "sa bzang ma ti paN chen blo gros rgyal mtshan (4128) author of spyod 'jug 'grel pa gzhung don rab gsal snang ba (8641)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4128/",
+        "label": "sa bzang ma ti paN chen blo gros rgyal mtshan (4128)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/8641/",
+        "label": "spyod 'jug 'grel pa gzhung don rab gsal snang ba (8641)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
       "confidence": "Positive",
@@ -415,10 +472,10 @@
     },
     {
       "id": 328,
-      "label": "grags pa rgyal mtshan (1) (3883) lineage predecessor of sa bzang ma ti paN chen blo gros rgyal mtshan (4128)",
+      "label": "skyi ston grags pa rgyal mtshan (4221) lineage predecessor of sa bzang ma ti paN chen blo gros rgyal mtshan (4128)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3883/",
-        "label": "grags pa rgyal mtshan (1) (3883)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4221/",
+        "label": "skyi ston grags pa rgyal mtshan (4221)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -435,7 +492,7 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
+      "tei_refs": "ex115012026-03-0918-49-19 (Mah\u0101y\u0101nas\u016btr\u0101la\u1e43k\u0101ra lineage)",
       "support_notes": "",
       "confidence": "Positive",
       "start": null,
