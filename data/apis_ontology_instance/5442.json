@@ -3,16 +3,16 @@
   "relations": [
     {
       "id": 1724,
-      "label": "'dul ba nas 'phros pa'i jo bo a ti shas gsung sgros (5443) has as an instance 'dul ba nas 'phros pa'i jo bo a ti shas gsung sgros (5442)",
+      "label": "'dul ba nas 'phros pa'i jo bo a ti sha'i gsung sgros (5443) has as an instance 'dul ba nas 'phros pa'i jo bo a ti sha'i gsung sgros (5442)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5443/",
-        "label": "'dul ba nas 'phros pa'i jo bo a ti shas gsung sgros (5443)",
+        "label": "'dul ba nas 'phros pa'i jo bo a ti sha'i gsung sgros (5443)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5442/",
-        "label": "'dul ba nas 'phros pa'i jo bo a ti shas gsung sgros (5442)",
+        "label": "'dul ba nas 'phros pa'i jo bo a ti sha'i gsung sgros (5442)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -33,14 +33,19 @@
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "tibetan_transliteration": "\u0f60\u0f51\u0f74\u0f63\u0f0b\u0f56\u0f0b\u0f53\u0f66\u0f0b\u0f60\u0f55\u0fb2\u0f7c\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f47\u0f7c\u0f0b\u0f56\u0f7c\u0f0b\u0f68\u0f0b\u0f4f\u0f72\u0f0b\u0f64\u0f66\u0f0b\u0f42\u0f66\u0f74\u0f44\u0f0b\u0f66\u0f92\u0fb2\u0f7c\u0f66",
-  "comments": "",
+  "tibetan_transliteration": "\u0f60\u0f51\u0f74\u0f63\u0f0b\u0f56\u0f0b\u0f53\u0f66\u0f0b\u0f60\u0f55\u0fb2\u0f7c\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f47\u0f7c\u0f0b\u0f56\u0f7c\u0f0b\u0f68\u0f0b\u0f4f\u0f72\u0f0b\u0f64\u0f60\u0f72\u0f0b\u0f42\u0f66\u0f74\u0f44\u0f0b\u0f66\u0f92\u0fb2\u0f7c\u0f66",
+  "comments": "No signature.",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [
+    {
+      "label": "'dul ba nas 'phros pa'i jo bo a ti sha'i gsung sgros (cover page)",
+      "language": "bo"
+    }
+  ],
   "external_links": "https://purl.bdrc.io/resource/MW4PD3076_EDA286",
-  "review": false,
+  "review": true,
   "start": null,
-  "name": "'dul ba nas 'phros pa'i jo bo a ti shas gsung sgros",
+  "name": "'dul ba nas 'phros pa'i jo bo a ti sha'i gsung sgros",
   "set_num": "Set 4",
   "volume": "110",
   "sb_text_number": "2",
@@ -54,5 +59,5 @@
   "tibschol_ref": "4_110_02",
   "availability": "available",
   "dimension": null,
-  "item_description": ""
+  "item_description": "Script: 'bru tsha.\r\nLines per folio: 10.\r\nTwo sets of folio numbers:\r\n- 157 to 187 (157 not visible on first folio)\r\n- In parenthesis, numerals from 1 to 31 (one not visible on first folio)"
 }

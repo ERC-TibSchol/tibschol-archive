@@ -31,7 +31,7 @@
     },
     {
       "id": 2223,
-      "label": "sdom pa nyi shu pa'i rnam par bshad pa (5447) composed at mdzod ma  byub dpal gyi gling (5727)",
+      "label": "sdom pa nyi shu pa'i rnam par bshad pa (5447) composed at mdzod ma byang chub dpal gyi gling (5727)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5447/",
         "label": "sdom pa nyi shu pa'i rnam par bshad pa (5447)",
@@ -40,7 +40,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.place/5727/",
-        "label": "mdzod ma  byub dpal gyi gling (5727)",
+        "label": "mdzod ma byang chub dpal gyi gling (5727)",
         "content_type_key": "apis_ontology.place",
         "content_type_name": "place"
       },
@@ -51,8 +51,8 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "",
-      "tei_refs": "",
-      "support_notes": "Colophon, fol. 12b6: sdoM pa nyi shu pa'i rnaM par bshad pa \u00a6 rje rin po ches mdzod ma byub dpal gyi gling gong du mdzad pa'o || dmar zhig bdag gis bris (12b7) pa yin ||",
+      "tei_refs": "ex110042026-11-2512-14-22",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -78,9 +78,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex110042026-11-2502-27-34",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -107,8 +107,8 @@
       "start_date_from": null,
       "start_date_sort": null,
       "zotero_refs": "Author according to [8H6M69W4], No. 18844: dri med chos rje rin chen",
-      "tei_refs": "",
-      "support_notes": "Colophon, fol. 12b6: sdoM pa nyi shu pa'i rnaM par bshad pa \u00a6 rje rin po ches mdzod ma byub dpal gyi gling gong du mdzad pa'o || dmar zhig bdag gis bris (12b7) pa yin ||",
+      "tei_refs": "ex110042026-11-2512-14-23\r\nex110042026-11-2512-14-22",
+      "support_notes": "",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -131,7 +131,7 @@
     }
   ],
   "external_links": "",
-  "review": false,
+  "review": true,
   "start": null,
   "name": "sdom pa nyi shu pa'i rnam par bshad pa",
   "sde_dge_ref": null,

@@ -30,11 +30,11 @@
       "end": null
     },
     {
-      "id": 1146,
-      "label": "chos 'dzin (6031) author of dus tshigs kun mthun (5445)",
+      "id": 8331,
+      "label": "Anonymous (4593) author of dus tshigs kun mthun (5445)",
       "subj": {
-        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/6031/",
-        "label": "chos 'dzin (6031)",
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4593/",
+        "label": "Anonymous (4593)",
         "content_type_key": "apis_ontology.person",
         "content_type_name": "person"
       },
@@ -50,9 +50,9 @@
       "start_date_to": null,
       "start_date_from": null,
       "start_date_sort": null,
-      "zotero_refs": null,
-      "tei_refs": null,
-      "support_notes": null,
+      "zotero_refs": "",
+      "tei_refs": "ex110032026-11-2503-12-45",
+      "support_notes": "The colophon does not mention an author. The gloss \"chos 'dzin\" refers, rather, to the \"khyim pa\" (layman) who is the addressee of the work.",
       "confidence": "Positive",
       "start": null,
       "end": null
@@ -64,7 +64,7 @@
   "tibetan_transliteration": "\u0f51\u0f74\u0f66\u0f0b\u0f5a\u0f72\u0f42\u0f66\u0f0b\u0f40\u0f74\u0f53\u0f0b\u0f58\u0f50\u0f74\u0f53",
   "comments": "",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [],
   "external_links": "",
   "review": true,
   "start": null,
@@ -72,5 +72,7 @@
   "sde_dge_ref": null,
   "original_language": "Tibetan",
   "isExtant": true,
-  "subject_vocab": []
+  "subject_vocab": [
+    "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.subject/8/"
+  ]
 }

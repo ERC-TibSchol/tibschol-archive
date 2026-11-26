@@ -3,16 +3,16 @@
   "relations": [
     {
       "id": 1722,
-      "label": "'phags pa lang dkar bshegs pa'i mdo las sangs rgyas thams cad kyi gsung gi snying po zhes bya ba'i le'u rgyar chen 'grel pa (5439) has as an instance 'phags pa lang dkar bshegs pa'i mdo las sangs rgyas thams cad kyi gsung gi snying po zhes bya ba'i le'u rgyar chen 'grel pa (5438)",
+      "label": "'phags pa lang dkar bshegs pa'i mdo las sangs rgyas thams cad kyi gsung gi snying po zhes bya ba'i le'u rgya cher 'grel pa (5439) has as an instance 'phags pa lang dkar bshegs pa'i mdo las sangs rgyas thams cad kyi gsung gi snying po zhes bya ba'i le'u rgya cher 'grel pa (5438)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5439/",
-        "label": "'phags pa lang dkar bshegs pa'i mdo las sangs rgyas thams cad kyi gsung gi snying po zhes bya ba'i le'u rgyar chen 'grel pa (5439)",
+        "label": "'phags pa lang dkar bshegs pa'i mdo las sangs rgyas thams cad kyi gsung gi snying po zhes bya ba'i le'u rgya cher 'grel pa (5439)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/5438/",
-        "label": "'phags pa lang dkar bshegs pa'i mdo las sangs rgyas thams cad kyi gsung gi snying po zhes bya ba'i le'u rgyar chen 'grel pa (5438)",
+        "label": "'phags pa lang dkar bshegs pa'i mdo las sangs rgyas thams cad kyi gsung gi snying po zhes bya ba'i le'u rgya cher 'grel pa (5438)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -33,19 +33,24 @@
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "tibetan_transliteration": "\u0f60\u0f55\u0f42\u0f66\u0f0b\u0f54\u0f0b\u0f63\u0f44\u0f0b\u0f51\u0f40\u0f62\u0f0b\u0f56\u0f64\u0f7a\u0f42\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f58\u0f51\u0f7c\u0f0b\u0f63\u0f66\u0f0b\u0f66\u0f44\u0f66\u0f0b\u0f62\u0f92\u0fb1\u0f66\u0f0b\u0f50\u0f58\u0f66\u0f0b\u0f45\u0f51\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f42\u0f66\u0f74\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f66\u0f99\u0f72\u0f44\u0f0b\u0f54\u0f7c\u0f0b\u0f5e\u0f7a\u0f66\u0f0b\u0f56\u0fb1\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f63\u0f7a\u0f60\u0f74\u0f0b\u0f62\u0f92\u0fb1\u0f62\u0f0b\u0f46\u0f7a\u0f53\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f54",
+  "tibetan_transliteration": "\u0f60\u0f55\u0f42\u0f66\u0f0b\u0f54\u0f0b\u0f63\u0f44\u0f0b\u0f51\u0f40\u0f62\u0f0b\u0f56\u0f64\u0f7a\u0f42\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f58\u0f51\u0f7c\u0f0b\u0f63\u0f66\u0f0b\u0f66\u0f44\u0f66\u0f0b\u0f62\u0f92\u0fb1\u0f66\u0f0b\u0f50\u0f58\u0f66\u0f0b\u0f45\u0f51\u0f0b\u0f40\u0fb1\u0f72\u0f0b\u0f42\u0f66\u0f74\u0f44\u0f0b\u0f42\u0f72\u0f0b\u0f66\u0f99\u0f72\u0f44\u0f0b\u0f54\u0f7c\u0f0b\u0f5e\u0f7a\u0f66\u0f0b\u0f56\u0fb1\u0f0b\u0f56\u0f60\u0f72\u0f0b\u0f63\u0f7a\u0f60\u0f74\u0f0b\u0f62\u0f92\u0fb1\u0f0b\u0f46\u0f7a\u0f62\u0f0b\u0f60\u0f42\u0fb2\u0f7a\u0f63\u0f0b\u0f54",
   "comments": "",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [
+    {
+      "label": "'phags pa lang dkar bshegs pa'i mdo las sangs rgyas thams cad kyi gsung gi snying po zhes bya ba'i le'u rgya cher 'grel pa (incipit, colophon)",
+      "language": "bo"
+    }
+  ],
   "external_links": "https://purl.bdrc.io/resource/MW4PD3076_3643E4",
-  "review": false,
+  "review": true,
   "start": null,
-  "name": "'phags pa lang dkar bshegs pa'i mdo las sangs rgyas thams cad kyi gsung gi snying po zhes bya ba'i le'u rgyar chen 'grel pa",
+  "name": "'phags pa lang dkar bshegs pa'i mdo las sangs rgyas thams cad kyi gsung gi snying po zhes bya ba'i le'u rgya cher 'grel pa",
   "set_num": "Set 4",
   "volume": "109",
   "sb_text_number": "1",
-  "pp_kdsb": "5-558",
-  "num_folios": "280",
+  "pp_kdsb": "5-559",
+  "num_folios": "278(/280)",
   "signature_letter": null,
   "signature_number": null,
   "drepung_number": null,
@@ -54,5 +59,5 @@
   "tibschol_ref": "4_109_01",
   "availability": "available",
   "dimension": null,
-  "item_description": ""
+  "item_description": "Script: handwritten dbu can. Several hands.\r\nLines per folio: 7.\r\nMissing folios: fol. 2, fol. 9 (replaced by blank pages in the reproduction).\r\nProofread twice (2 zhus).\r\nLemmata originally written in color, appear faded in the black-and-white reproduction."
 }

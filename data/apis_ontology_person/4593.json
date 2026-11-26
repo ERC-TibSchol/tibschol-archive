@@ -395,7 +395,7 @@
     },
     {
       "id": 1141,
-      "label": "Anonymous (4593) author of 'phags pa lang dkar bshegs pa'i mdo las sangs rgyas thams cad kyi gsung gi snying po zhes bya ba'i le'u rgyar chen 'grel pa (5439)",
+      "label": "Anonymous (4593) author of 'phags pa lang dkar bshegs pa'i mdo las sangs rgyas thams cad kyi gsung gi snying po zhes bya ba'i le'u rgya cher 'grel pa (5439)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4593/",
         "label": "Anonymous (4593)",
@@ -404,7 +404,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5439/",
-        "label": "'phags pa lang dkar bshegs pa'i mdo las sangs rgyas thams cad kyi gsung gi snying po zhes bya ba'i le'u rgyar chen 'grel pa (5439)",
+        "label": "'phags pa lang dkar bshegs pa'i mdo las sangs rgyas thams cad kyi gsung gi snying po zhes bya ba'i le'u rgya cher 'grel pa (5439)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -1066,6 +1066,34 @@
       "end": null
     },
     {
+      "id": 8333,
+      "label": "Anonymous (4593) author of 'dul ba nas 'phros pa'i jo bo a ti sha'i gsung sgros (5443)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4593/",
+        "label": "Anonymous (4593)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5443/",
+        "label": "'dul ba nas 'phros pa'i jo bo a ti sha'i gsung sgros (5443)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "",
+      "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
       "id": 676,
       "label": "Anonymous (4593) author of yon tan rin po che sdud pa tshigs su bcad pa'i don rnam par byed pa (4655)",
       "subj": {
@@ -1341,6 +1369,34 @@
       "zotero_refs": "",
       "tei_refs": "",
       "support_notes": "",
+      "confidence": "Positive",
+      "start": null,
+      "end": null
+    },
+    {
+      "id": 8331,
+      "label": "Anonymous (4593) author of dus tshigs kun mthun (5445)",
+      "subj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/4593/",
+        "label": "Anonymous (4593)",
+        "content_type_key": "apis_ontology.person",
+        "content_type_name": "person"
+      },
+      "obj": {
+        "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/5445/",
+        "label": "dus tshigs kun mthun (5445)",
+        "content_type_key": "apis_ontology.work",
+        "content_type_name": "work"
+      },
+      "end_date_to": null,
+      "end_date_from": null,
+      "end_date_sort": null,
+      "start_date_to": null,
+      "start_date_from": null,
+      "start_date_sort": null,
+      "zotero_refs": "",
+      "tei_refs": "ex110032026-11-2503-12-45",
+      "support_notes": "The colophon does not mention an author. The gloss \"chos 'dzin\" refers, rather, to the \"khyim pa\" (layman) who is the addressee of the work.",
       "confidence": "Positive",
       "start": null,
       "end": null
