@@ -3,16 +3,16 @@
   "relations": [
     {
       "id": 1432,
-      "label": "mi g.yo ba dkar po'i bstod pa (4799) has as an instance mi g.yo ba dkar po'i bstod pa (4798)",
+      "label": "bcom ldan 'das mi g.yo dkar po la bstod pa (4799) has as an instance bcom ldan 'das mi g.yo dkar po la bstod pa (4798)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4799/",
-        "label": "mi g.yo ba dkar po'i bstod pa (4799)",
+        "label": "bcom ldan 'das mi g.yo dkar po la bstod pa (4799)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4798/",
-        "label": "mi g.yo ba dkar po'i bstod pa (4798)",
+        "label": "bcom ldan 'das mi g.yo dkar po la bstod pa (4798)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -31,7 +31,7 @@
     },
     {
       "id": 758,
-      "label": "mchims nam mkha' grags (3977) author of mi g.yo ba dkar po'i bstod pa (4799)",
+      "label": "mchims nam mkha' grags (3977) author of bcom ldan 'das mi g.yo dkar po la bstod pa (4799)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.person/3977/",
         "label": "mchims nam mkha' grags (3977)",
@@ -40,7 +40,7 @@
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4799/",
-        "label": "mi g.yo ba dkar po'i bstod pa (4799)",
+        "label": "bcom ldan 'das mi g.yo dkar po la bstod pa (4799)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
@@ -61,14 +61,23 @@
   "start_date_to": "1285-12-31",
   "start_date_from": "1220-01-01",
   "start_date_sort": "1252-12-31",
-  "tibetan_transliteration": "\u0f58\u0f72\u0f0b\u0f42\u0f61\u0f7c\u0f0b\u0f56\u0f0b\u0f51\u0f40\u0f62\u0f0b\u0f54\u0f7c\u0f60\u0f72\u0f0b\u0f56\u0f66\u0f9f\u0f7c\u0f51\u0f0b\u0f54",
+  "tibetan_transliteration": "\u0f56\u0f45\u0f7c\u0f58\u0f0b\u0f63\u0fa1\u0f53\u0f0b\u0f60\u0f51\u0f66\u0f0b\u0f58\u0f72\u0f0b\u0f42\u0f61\u0f7c\u0f0b\u0f51\u0f40\u0f62\u0f0b\u0f54\u0f7c\u0f0b\u0f63\u0f0b\u0f56\u0f66\u0f9f\u0f7c\u0f51\u0f0b\u0f54",
   "comments": "Author reported for instance (ID:4798) in [8H6M69W4], 13652: mchims blo bzang grags pa.",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [
+    {
+      "label": "bcom ldan 'das mi g.yo ral po la bstod pa mngon par rdzogs pa gsal ba'i phreng ba",
+      "language": "bo"
+    },
+    {
+      "label": "mi g.yo dkar po'i sgrub",
+      "language": "bo"
+    }
+  ],
   "external_links": "",
-  "review": false,
+  "review": true,
   "start": "after 1220 before 1285",
-  "name": "mi g.yo ba dkar po'i bstod pa",
+  "name": "bcom ldan 'das mi g.yo dkar po la bstod pa",
   "sde_dge_ref": null,
   "original_language": "Tibetan",
   "isExtant": true,

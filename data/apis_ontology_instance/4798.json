@@ -3,16 +3,16 @@
   "relations": [
     {
       "id": 1432,
-      "label": "mi g.yo ba dkar po'i bstod pa (4799) has as an instance mi g.yo ba dkar po'i bstod pa (4798)",
+      "label": "bcom ldan 'das mi g.yo dkar po la bstod pa (4799) has as an instance bcom ldan 'das mi g.yo dkar po la bstod pa (4798)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/4799/",
-        "label": "mi g.yo ba dkar po'i bstod pa (4799)",
+        "label": "bcom ldan 'das mi g.yo dkar po la bstod pa (4799)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/4798/",
-        "label": "mi g.yo ba dkar po'i bstod pa (4798)",
+        "label": "bcom ldan 'das mi g.yo dkar po la bstod pa (4798)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -33,19 +33,31 @@
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "tibetan_transliteration": "\u0f58\u0f72\u0f0b\u0f42\u0f61\u0f7c\u0f0b\u0f56\u0f0b\u0f51\u0f40\u0f62\u0f0b\u0f54\u0f7c\u0f60\u0f72\u0f0b\u0f56\u0f66\u0f9f\u0f7c\u0f51\u0f0b\u0f54",
+  "tibetan_transliteration": "\u0f56\u0f45\u0f7c\u0f58\u0f0b\u0f63\u0fa1\u0f53\u0f0b\u0f60\u0f51\u0f66\u0f0b\u0f58\u0f72\u0f0b\u0f42\u0f61\u0f7c\u0f0b\u0f51\u0f40\u0f62\u0f0b\u0f54\u0f7c\u0f0b\u0f63\u0f0b\u0f56\u0f66\u0f9f\u0f7c\u0f51\u0f0b\u0f54",
   "comments": "",
   "alternative_names_legacy": "mi g.yo ba dkar po la stod pa",
   "alternative_names": [
     {
       "label": "mi g.yo ba dkar po la stod pa",
       "language": "bo"
+    },
+    {
+      "label": "bcom ldan 'das mi g.yo ral po la bstod pa mngon par rdzogs pa gsal ba'i phreng ba (colophon)",
+      "language": "bo"
+    },
+    {
+      "label": "mi g.yo dkar po'i sgrub (cover page)",
+      "language": "bo"
+    },
+    {
+      "label": "bcom ldan 'das mi g.yo dkar po la bstod pa (incipit)",
+      "language": "bo"
     }
   ],
   "external_links": "https://purl.bdrc.io/resource/MW1PD89084_2F766A",
-  "review": false,
+  "review": true,
   "start": null,
-  "name": "mi g.yo ba dkar po'i bstod pa",
+  "name": "bcom ldan 'das mi g.yo dkar po la bstod pa",
   "set_num": "Set 2",
   "volume": "47",
   "sb_text_number": "5",
@@ -59,5 +71,5 @@
   "tibschol_ref": "2_047_05",
   "availability": "available",
   "dimension": "47 x 6",
-  "item_description": ""
+  "item_description": "Script: Handwritten dbu can.\r\nLines per folio: 5."
 }

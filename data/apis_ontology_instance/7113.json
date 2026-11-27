@@ -3,16 +3,16 @@
   "relations": [
     {
       "id": 4953,
-      "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7113) has source shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7111)",
+      "label": "bcom ldan rigs pa'i ral gri'i gsung rtsom dkar chag (7113) has source shAkya'i bstan la rang gis bstan bcos ji ltar brtsams pa'i tshul (7111)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7113/",
-        "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7113)",
+        "label": "bcom ldan rigs pa'i ral gri'i gsung rtsom dkar chag (7113)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7111/",
-        "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7111)",
+        "label": "shAkya'i bstan la rang gis bstan bcos ji ltar brtsams pa'i tshul (7111)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -31,16 +31,16 @@
     },
     {
       "id": 4954,
-      "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7112) has as an instance shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7113)",
+      "label": "shAkya'i bstan la rang gis bstan bcos ji ltar brtsams pa'i tshul (7112) has as an instance bcom ldan rigs pa'i ral gri'i gsung rtsom dkar chag (7113)",
       "subj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.work/7112/",
-        "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7112)",
+        "label": "shAkya'i bstan la rang gis bstan bcos ji ltar brtsams pa'i tshul (7112)",
         "content_type_key": "apis_ontology.work",
         "content_type_name": "work"
       },
       "obj": {
         "url": "https://tibschol.acdh-ch-dev.oeaw.ac.at/apis/api/apis_ontology.instance/7113/",
-        "label": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul (7113)",
+        "label": "bcom ldan rigs pa'i ral gri'i gsung rtsom dkar chag (7113)",
         "content_type_key": "apis_ontology.instance",
         "content_type_name": "instance"
       },
@@ -61,14 +61,14 @@
   "start_date_to": null,
   "start_date_from": null,
   "start_date_sort": null,
-  "tibetan_transliteration": "\u0f64\u0f71\u0f40\u0fb1\u0f60\u0f72\u0f0b\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f63\u0f0b\u0f62\u0f44\u0f0b\u0f42\u0f72\u0f66\u0f0b\u0f56\u0f66\u0f9f\u0f53\u0f0b\u0f56\u0f45\u0f7c\u0f66\u0f0b\u0f47\u0f72\u0f0b\u0f66\u0f58\u0f0b\u0f56\u0f62\u0fa9\u0f58\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f5a\u0f74\u0f63",
+  "tibetan_transliteration": "\u0f56\u0f45\u0f7c\u0f58\u0f0b\u0f63\u0fa1\u0f53\u0f0b\u0f62\u0f72\u0f42\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f62\u0f63\u0f0b\u0f42\u0fb2\u0f72\u0f60\u0f72\u0f0b\u0f42\u0f66\u0f74\u0f44\u0f0b\u0f62\u0fa9\u0f7c\u0f58\u0f0b\u0f51\u0f40\u0f62\u0f0b\u0f46\u0f42",
   "comments": "dBu chen typeset edition in dpe cha format.",
   "alternative_names_legacy": "",
-  "alternative_names": null,
+  "alternative_names": [],
   "external_links": "https://purl.bdrc.io/resource/MW00EGS1017426_6EAAE1",
-  "review": false,
+  "review": true,
   "start": null,
-  "name": "shAkya'i bstan la rang gis bstan bcos ji sam brtsams pa'i tshul",
+  "name": "bcom ldan rigs pa'i ral gri'i gsung rtsom dkar chag",
   "set_num": null,
   "volume": null,
   "sb_text_number": "",
@@ -78,7 +78,7 @@
   "signature_number": null,
   "drepung_number": null,
   "provenance": "",
-  "zotero_ref": "",
+  "zotero_ref": "F2PEN2D9",
   "tibschol_ref": "",
   "availability": "available",
   "dimension": null,
